@@ -164,7 +164,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="78"/>
         <source>toolBar</source>
-        <translation type="unfinished">Barra de herramientas</translation>
+        <translation>Barra de herramientas</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="106"/>
@@ -634,7 +634,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="494"/>
         <source>Query</source>
-        <translation type="unfinished">Consultar</translation>
+        <translation>Consultar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="497"/>
@@ -758,7 +758,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="151"/>
         <source>OK</source>
-        <translation type="unfinished">Aceptar</translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="177"/>
@@ -796,12 +796,12 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="238"/>
         <source>Query</source>
-        <translation type="unfinished">Consultar</translation>
+        <translation>Consultar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="241"/>
         <source>Query and retrieve studies from a DICOM server</source>
-        <translation type="unfinished">Consultar y recuperar estudios de un servidor DICOM</translation>
+        <translation>Consultar y recuperar estudios de un servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="249"/>
@@ -841,7 +841,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="275"/>
         <source>Initialization...</source>
-        <translation type="unfinished">Inicializando...</translation>
+        <translation>Inicializando...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="366"/>
@@ -866,7 +866,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="387"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished">Importar archivos DICOM desde el directorio...</translation>
+        <translation>Importar archivos DICOM desde el directorio...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="392"/>
@@ -930,7 +930,7 @@ Do you want to remove the series from the DICOM database?</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1233"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1311"/>
         <source>View DICOM metadata</source>
-        <translation type="unfinished">Visualizar metadatos DICOM</translation>
+        <translation>Visualizar metadatos DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1162"/>
@@ -1101,7 +1101,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="62"/>
         <source>OK</source>
-        <translation type="unfinished">Aceptar</translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMDirectoryListWidget.cpp" line="77"/>
@@ -1793,7 +1793,7 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="26"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="75"/>
         <source>Query</source>
-        <translation type="unfinished">Consultar</translation>
+        <translation>Consultar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="54"/>
@@ -1820,13 +1820,13 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="207"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="211"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="309"/>
         <source>Initialization...</source>
-        <translation type="unfinished">Inicializando...</translation>
+        <translation>Inicializando...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
@@ -1867,7 +1867,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="14"/>
         <source>Query</source>
-        <translation type="unfinished">Consultar</translation>
+        <translation>Consultar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="48"/>
@@ -1892,7 +1892,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="74"/>
         <source>Series</source>
-        <translation type="unfinished">Series</translation>
+        <translation>Series</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="77"/>
@@ -2091,14 +2091,14 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="46"/>
         <source>Comments</source>
-        <translation type="unfinished">Retroalimentación</translation>
+        <translation>Retroalimentación</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="47"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="60"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="73"/>
         <source>Date added</source>
-        <translation type="unfinished">Fecha en que se añadió</translation>
+        <translation>Fecha en que se añadió</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="49"/>
@@ -2133,12 +2133,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="55"/>
         <source>Accession #</source>
-        <translation type="unfinished">Número de acceso</translation>
+        <translation>Número de acceso</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="56"/>
         <source>Modalities</source>
-        <translation type="unfinished">Modalidades</translation>
+        <translation>Modalidades</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="57"/>
@@ -2153,7 +2153,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="59"/>
         <source>Performing physician</source>
-        <translation type="unfinished">Médico tratante</translation>
+        <translation>Médico practicante</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="61"/>
@@ -2168,17 +2168,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="63"/>
         <source>Series date</source>
-        <translation type="unfinished">Fecha de serie</translation>
+        <translation>Fecha de serie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="64"/>
         <source>Series time</source>
-        <translation type="unfinished">Hora de serie</translation>
+        <translation>Hora de serie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="65"/>
         <source>Series description</source>
-        <translation type="unfinished">Descripción de la serie</translation>
+        <translation>Descripción de la serie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="66"/>
@@ -2193,7 +2193,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="68"/>
         <source>Acquisition #</source>
-        <translation type="unfinished">Número de adquisición</translation>
+        <translation>Número de adquisición</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="69"/>
@@ -2203,7 +2203,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="70"/>
         <source>Scanning sequence</source>
-        <translation type="unfinished">Secuencia de exploración</translation>
+        <translation>Secuencia de escaneo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="71"/>
@@ -2223,12 +2223,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="75"/>
         <source>Count</source>
-        <translation type="unfinished">Recuento</translation>
+        <translation>Conteo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="76"/>
         <source>Number of frames</source>
-        <translation type="unfinished">Número de cuadros</translation>
+        <translation>Número de cuadros</translation>
     </message>
 </context>
 <context>
@@ -2351,7 +2351,7 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="115"/>
         <source>Send</source>
-        <translation type="unfinished">Enviar</translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.cpp" line="42"/>
@@ -2460,7 +2460,7 @@ Halting export.</source>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="141"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="172"/>
@@ -2742,7 +2742,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="93"/>
         <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="125"/>
@@ -2773,7 +2773,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="14"/>
         <source>Modality</source>
-        <translation type="unfinished">Modalidad</translation>
+        <translation>Modalidad</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="23"/>
@@ -3480,7 +3480,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="334"/>
         <source>toolBar</source>
-        <translation type="unfinished">Barra de herramientas</translation>
+        <translation>Barra de herramientas</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="345"/>
@@ -4798,7 +4798,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="85"/>
         <source>Details</source>
-        <translation type="unfinished">Detalles</translation>
+        <translation>Detalles</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="94"/>
