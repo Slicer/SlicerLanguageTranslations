@@ -8059,12 +8059,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
         <source>Checking {what}</source>
-        <translation>فحص (ماذا )</translation>
+        <translation>فحص (what )</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="425"/>
         <source>Warning: {messages}</source>
-        <translation>تحذير: ( الرسائل)</translation>
+        <translation>تحذير: ( messages)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="426"/>
@@ -8074,7 +8074,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="535"/>
         <source>Loading {what}</source>
-        <translation>جاري التحميل ( ماذا )</translation>
+        <translation>جاري التحميل ( what )</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="557"/>
@@ -8242,7 +8242,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="259"/>
         <source>Unspecified Patient {patientIndex}</source>
-        <translation>مريض غير محدد ( مؤشر المريض)</translation>
+        <translation>مريض غير محدد ( patientIndex)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="325"/>
@@ -8312,7 +8312,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="129"/>
         <source>First volume is {imageScalarType1}, but second is {imageScalarType2}</source>
-        <translation>المجلد الأول هو ( imageScalarType1 )، ولكن الثاني هو ( image ScalarType 2 )</translation>
+        <translation>المجلد الأول هو ( imageScalarType1 )، ولكن الثاني هو ( imageScalarType2 )</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="134"/>
@@ -8327,7 +8327,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="261"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation>( العدد ) الملفات، مجمعة حسب ( العلامة ) = ( القيمة ). الملف الأول: ( اسم الملف )</translation>
+        <translation>( count ) الملفات، مجمعة حسب ( tag ) = ( value ). الملف الأول: ( filename )</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="299"/>
@@ -8347,7 +8347,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="593"/>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
-        <translation>لا يمكن تصدير السلسلة &apos;( اسم العنصر )&apos;</translation>
+        <translation>لا يمكن تصدير السلسلة &apos;( itemName )&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="610"/>
@@ -8367,7 +8367,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="675"/>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
-        <translation>توجد سلسلة بالفعل في قاعدة البيانات بواسطة Series Instance UID ( series Instance UID ).</translation>
+        <translation>توجد سلسلة بالفعل في قاعدة البيانات بواسطة Series Instance UID (seriesInstanceUID).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="687"/>
@@ -23836,7 +23836,8 @@ Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
 Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</source>
         <translation>حدد عنوان URL لوثائق الوحدة النمطية.
 العناصر النائبة المتاحة: ( documentation baseurl )، (lowerce aseModulename )
-الافتراضي: (documentation baseurl)/user_guide/modules/(اسم الوحدة بالأحرف الصغيرة ).html</translation>
+الافتراضي: (documentation baseurl)/user_guide/modules/
+(documentationbaseurl}/user_guide/module/{lowercasemodulename}.htm ).html</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="197"/>
