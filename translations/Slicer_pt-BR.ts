@@ -10671,12 +10671,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="271"/>
         <source>Please select Input Vector Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Por favor, selecione o Vetor de Volume de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="273"/>
         <source>Please select Output Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Por favor, selecione o Volume Escalar de Saída</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="275"/>
@@ -20798,7 +20798,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="203"/>
         <source>A module to create and manage markups in 2D and 3D. This module replaced the former Annotations module.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Um módulo para criar e gerenciar marcadores em 2D e 3D. Este módulo substituiu o antigo módulo de Anotações.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="213"/>
