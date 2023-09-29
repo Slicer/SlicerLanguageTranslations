@@ -7721,7 +7721,7 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="29"/>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation type="unfinished">Este módulo pode cortar e remodelar uma sequência de volume para reduzir o seu tamanho para renderização e processamento mais rápidos.</translation>
+        <translation>Este módulo pode cortar e reamostrar uma sequência de volume para reduzir o seu tamanho para renderização e processamento mais rápidos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="40"/>
