@@ -7709,59 +7709,61 @@ rt = تحويل جامد
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="29"/>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكن لهذه الوحدة اقتصاص تسلسل الحجم وإعادة تشكيله لتقليل حجمه من أجل العرض والمعالجة بشكل أسرع.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="40"/>
         <source>
 This file was originally developed by Andras Lasso
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطوير هذا الملف في الأصل بواسطة Andras Lasso
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="54"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>حدود</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="70"/>
         <source>Pick a sequence node of volumes that will be cropped and resampled.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر عقدة تسلسلية للمجلدات التي سيتم اقتصاصها وإعادة تشكيلها.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="71"/>
         <source>Input volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل حجم الإدخال: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="83"/>
         <source>(Overwrite input)</source>
-        <translation type="unfinished"></translation>
+        <translation>(الكتابة فوق الإدخال)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="86"/>
         <source>Pick a sequence node where the cropped and resampled volumes will be stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر عقدة تسلسل حيث سيتم تخزين وحدات التخزين التي تم اقتصاصها وإعادة تشكيلها.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="87"/>
         <source>Output volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل حجم الإخراج: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="102"/>
         <source>Select a crop volumes parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد معلمات أحجام المحاصيل.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقل إلى وحدة حجم المحاصيل لتحرير معلمات الاقتصاص.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="112"/>
         <source>Crop volume settings: </source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات حجم المحاصيل: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
@@ -8054,7 +8056,7 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="403"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation type="unfinished">تحذير: لا يمكن العثور على {missing_file_count} من إجمالي {total_file_count} من الملفات المحددة المدرجة في قاعدة البيانات على القرص.</translation>
+        <translation>لا يمكن العثور على {missing_file_count} من {total_file_count} من الملفات المحددة المدرجة في قاعدة البيانات على القرص.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
@@ -8468,7 +8470,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="71"/>
         <source>Install Slicer Diffusion Tools (SlicerDMRI)</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت أدوات نشر القطاعة (Slicer DMRI)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="80"/>
@@ -8477,22 +8479,26 @@ This file was originally developed by Andras Lasso
     Technology For Brain Cancer Research), and made possible by NA-MIC, NAC,
     BIRN, NCIGT, and the Slicer Community.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    SlicerDMRI مدعوم من NIH NCI ITCR U01CA199459 (التصوير بالرنين المغناطيسي للنشر مفتوح المصدر)
+     التكنولوجيا لأبحاث سرطان الدماغ)، والتي أصبحت ممكنة بفضل NA-MIC، NAC،
+     BIRN وNCIGT ومجتمع Slicer.
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="101"/>
         <source>Installs the &quot;SlicerDMRI&quot; extension from the Diffusion category.</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت ملحق &quot;SlicerDMRI&quot; من فئة الانتشار.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="117"/>
         <source>SlicerDMRI is already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تثبيت SlicerDMRI بالفعل.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="127"/>
         <source>Restart to complete SlicerDMRI installation?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد إعادة التشغيل لإكمال تثبيت SlicerDMRI؟</translation>
     </message>
 </context>
 <context>
@@ -8590,7 +8596,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="25"/>
         <source>Endoscopy</source>
-        <translation type="unfinished">التنظير</translation>
+        <translation>التنظير</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="37"/>
@@ -8603,7 +8609,15 @@ The Frame Skip slider speeds up the animation by skipping points on the path.
 The Frame Delay slider slows down the animation by adding more time between frames.
 The View Angle provides is used to approximate the optics of an endoscopy system.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+قم بإنشاء نموذج مسار كاستكمال خطي لمجموعة من النقاط الإيمانية.
+اختر الكاميرا المراد تعديلها حسب المسار والقائمة الإيمانية التي تحدد نقاط التحكم.
+سيؤدي النقر على &quot;إنشاء مسار&quot; إلى إنشاء نموذج مسار وتمكين اللوحة المتحركة.
+يمكنك التمرير يدويًا عبر المسار باستخدام شريط تمرير الإطار. يقوم زر التشغيل/الإيقاف المؤقت بتبديل الحركة المتحركة.
+يعمل شريط التمرير Frame Skip على تسريع الرسوم المتحركة عن طريق تخطي النقاط الموجودة على المسار.
+يعمل شريط تمرير تأخير الإطار على إبطاء الحركة عن طريق إضافة المزيد من الوقت بين الإطارات.
+يتم استخدام زاوية العرض التي توفرها لتقريب بصريات نظام التنظير الداخلي.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="50"/>
@@ -8612,78 +8626,82 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 (See &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+يتم دعم هذا العمل بواسطة PAR-07-249: R01CA131718 NA-MIC تنظير القولون الافتراضي
+(راجع &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
+NA-MIC، وNAC، وBIRN، وNCIGT، ومجتمع Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="74"/>
         <source>Path</source>
-        <translation type="unfinished">طريق</translation>
+        <translation>طريق</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="83"/>
         <source>Select a camera that will fly along this path.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد الكاميرا التي ستحلق على طول هذا المسار.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="95"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="106"/>
         <source>Select a fiducial list to define control points for the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد قائمة اعتمادية لتحديد نقاط التحكم للمسار.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="100"/>
         <source>Input Fiducials:</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال الإقرارات:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="112"/>
         <source>Output Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار الاخراج:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="115"/>
         <source>Create path</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء المسار</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="117"/>
         <source>Create the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء المسار.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="124"/>
         <source>Flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>يطير من خلال</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="134"/>
         <source>Frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>إطار:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="142"/>
         <source>Frame skip:</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطي الإطار:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="152"/>
         <source>Frame delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>تأخير الإطار:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="160"/>
         <source>View Angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>زاوية العرض:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="163"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>يعرض</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="165"/>
         <source>Fly through path.</source>
-        <translation type="unfinished"></translation>
+        <translation>يطير من خلال المسار.</translation>
     </message>
 </context>
 <context>
@@ -8699,32 +8717,32 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="17"/>
         <source>Import ITK-Snap label description</source>
-        <translation type="unfinished"></translation>
+        <translation>استيراد وصف تسمية ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="21"/>
         <source>Load ITK-Snap label description file (.label or .txt).</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتحميل ملف وصف تسمية ITK-Snap (.label أو .txt).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="43"/>
         <source>ITK-Snap label description file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف وصف تسمية ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="72"/>
         <source>Segmentation</source>
-        <translation type="unfinished">التجزئة</translation>
+        <translation>التجزئة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="87"/>
         <source>Failed to load file: </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحميل الملف: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="139"/>
         <source>Syntax error in line {line}</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في بناء الجملة في السطر {line}</translation>
     </message>
 </context>
 <context>
@@ -8747,7 +8765,9 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
         <source>
 This module provides data sets that can be used for testing 3D Slicer.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+توفر هذه الوحدة مجموعات البيانات التي يمكن استخدامها لاختبار 3D Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="94"/>
@@ -8764,72 +8784,83 @@ with a permissive copyright-license (&lt;a href=&quot;https://creativecommons.or
 and is exclusively available for research and teaching. You are not authorized to redistribute or sell it, or
 use it for commercial purposes.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;تم تمويل هذا العمل جزئيًا من قبل مؤسسة رعاية مرضى السرطان في أونتاريو
+واتحاد أونتاريو للتدخلات التكيفية في علاج الأورام بالإشعاع (OCAIRO)&lt;/p&gt;
+&lt;p&gt;تم التبرع بمجموعات بيانات MRHead وCBCT-MR Head وCT-MR Brain لمشروع 3D Slicer من قبل الأشخاص المرئيين في الصور، لاستخدامها دون أي قيود.&lt;/p&gt;
+
+&lt;p&gt;تأتي مجموعة بيانات CTLiver من &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;مشروع Decathlon الطبي&lt;/a&gt; (imagesTr/liver_100.nii.gz في مجموعة Task03_Liver)
+
+بترخيص حقوق الطبع والنشر المسموح به (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;)، مما يسمح بمشاركة البيانات وتوزيعها وتحسينها.&lt;/p&gt;
+&lt;p&gt;تأتي مجموعة بيانات CTA للبطن (Panoramix) من &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;مكتبة صور Osirix DICOM&lt;/a&gt;
+ومتاح حصريا للبحث والتدريس. لا يحق لك إعادة توزيعه أو بيعه، أو
+استخدامه لأغراض تجارية.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="109"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">تنزيل عينة البيانات</translation>
+        <translation>تنزيل عينة البيانات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="110"/>
         <source>Go to the SampleData module to download data from the network</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقل إلى وحدة نموذج البيانات لتنزيل البيانات من الشبكة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="509"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>عام</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="510"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>تطوير</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="631"/>
         <source>Failed to create cache folder {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء مجلد ذاكرة التخزين المؤقت (المسار)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="633"/>
         <source>Cache folder {path} is not writable</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد ذاكرة التخزين المؤقت {path} غير قابل للكتابة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="677"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التنزيل (المحاولة (الحالية) من {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="716"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التحميل (المحاولة {الحالية} من {total}). غير قادر على الحذف وحاول مرة أخرى تحميل {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="720"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التحميل (المحاولة (الحالية) من {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="850"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation type="unfinished"></translation>
+        <translation>تنزيل (size Completed) ((percent Complete)% من (size Total))...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="866"/>
         <source>Requesting download {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation>طلب تنزيل {name} من {uri} ...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="869"/>
         <source>Download finished</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهى التحميل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="871"/>
         <source>Download failed: {errorMessage}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التنزيل: {errorMessage}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="872"/>
