@@ -8845,7 +8845,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="850"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation>تنزيل (size Completed) ((percent Complete)% من (size Total))...</translation>
+        <translation>نُزّل {sizeCompleted} ({percentCompleted}% من {sizeTotal})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="866"/>
