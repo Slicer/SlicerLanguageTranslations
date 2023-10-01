@@ -1234,7 +1234,7 @@
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="273"/>
         <source>Update</source>
-        <translation>تحديث</translation>
+        <translation>محدث</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="286"/>
@@ -1272,7 +1272,7 @@
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="417"/>
         <source>Update</source>
-        <translation>تحديث</translation>
+        <translation>الذي تم تحذيثه</translation>
     </message>
 </context>
 <context>
@@ -2326,7 +2326,7 @@
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="536"/>
         <source>Update</source>
-        <translation>تحديث</translation>
+        <translation>إعادة تحديث</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="546"/>
@@ -2345,7 +2345,7 @@
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="397"/>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="414"/>
         <source>Update</source>
-        <translation>تحديث</translation>
+        <translation>تم التحديث</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="405"/>
@@ -2751,7 +2751,7 @@
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="31"/>
         <source>Advanced options</source>
-        <translation>خيارات متقدمة</translation>
+        <translation>خيارات متطورة</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="40"/>
