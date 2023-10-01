@@ -525,8 +525,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>قم بإجراء تسجيل مقياس الحجم ثلاثي الابعاد كجزء من خطوات التسجيل التسلسلية
-تتجاوز مجموعة الخيارات هذه استخدامTransformType إذا تم تعيين أي منها.</translation>
+        <translation>قم بإجراء تسجيل ScaleVersor3D كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام نوع التحويل إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
@@ -1797,7 +1796,6 @@ This program is useful for downsampling an image by a constant scale factor.
         <source>
   </source>
         <translation>
-  ..
   </translation>
     </message>
     <message>
@@ -4044,8 +4042,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
         <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
-        <translation>![CDATA[خذ بعين الاعتبار تباعد الصور في الحساب.
-يُنصح بتفعيل هذا الخيار، خاصةً عندما يختلف حجم البكسل باختلاف الأبعاد. ومع ذلك، للحصول على نتائج متوافقة مع Slicer4.2 والإصدارات الأقدم، يجب إيقاف تشغيل هذا الخيار.]]</translation>
+        <translation>![CDATA[ضع في الاعتبار تباعد الصور في الحساب. يُنصح بتفعيل هذا الخيار، خاصةً عندما يختلف حجم البكسل باختلاف الأبعاد. ومع ذلك، للحصول على نتائج متوافقة مع Slicer4.2 والإصدارات الأقدم، يجب إيقاف تشغيل هذا الخيار.]]</translation>
     </message>
 </context>
 <context>
@@ -6583,8 +6580,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation>يعد هذا العمل جزءًا من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، الذي تموله المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للأبحاث الطبية، Grant U54 EB005149. يمكن الحصول على معلومات عن المراكز الوطنية للحوسبة الطبية الحيوية منhttp://nihroadmap.nih.gov/bioinformatics
-yueadu hadha aleamal</translation>
+        <translation>يعد هذا العمل جزءًا من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، الذي تموله المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للأبحاث الطبية، Grant U54 EB005149. يمكن الحصول على معلومات عن المراكز الوطنية للحوسبة الطبية الحيوية من http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
@@ -7768,7 +7764,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">قم بتشغيل الخوارزمية.</translation>
+        <translation>قم بتشغيل الخوارزمية.</translation>
     </message>
 </context>
 <context>
@@ -8056,17 +8052,17 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="403"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation>لا يمكن العثور على {missing_file_count} من {total_file_count} من الملفات المحددة المدرجة في قاعدة البيانات على القرص.</translation>
+        <translation>لا يمكن العثور على {missing_file_count} {total_file_count} من الملفات المحددة المدرجة في قاعدة البيانات على القرص.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
         <source>Checking {what}</source>
-        <translation>فحص (what )</translation>
+        <translation>فحص {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="425"/>
         <source>Warning: {messages}</source>
-        <translation>تحذير: ( messages)</translation>
+        <translation>تحذير: {messages}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="426"/>
@@ -8076,7 +8072,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="535"/>
         <source>Loading {what}</source>
-        <translation>جاري التحميل ( what )</translation>
+        <translation>جاري التحميل {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="557"/>
@@ -8244,7 +8240,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="259"/>
         <source>Unspecified Patient {patientIndex}</source>
-        <translation>مريض غير محدد ( patientIndex)</translation>
+        <translation>مريض غير محدد {patientIndex}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="325"/>
@@ -8314,7 +8310,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="129"/>
         <source>First volume is {imageScalarType1}, but second is {imageScalarType2}</source>
-        <translation>المجلد الأول هو ( imageScalarType1 )، ولكن الثاني هو ( imageScalarType2 )</translation>
+        <translation>المجلد الأول هو {imageScalarType1}، ولكن الثاني هو {imageScalarType2}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="134"/>
@@ -8329,7 +8325,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="261"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation>( count ) الملفات، مجمعة حسب ( tag ) = ( value ). الملف الأول: ( filename )</translation>
+        <translation>{count} الملفات، مجمعة حسب {tag}={value}. الملف الأول: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="299"/>
@@ -8349,7 +8345,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="593"/>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
-        <translation>لا يمكن تصدير السلسلة &apos;( itemName )&apos;</translation>
+        <translation>لا يمكن تصدير السلسلة &apos;{itemName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="610"/>
@@ -8369,7 +8365,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="675"/>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
-        <translation>توجد سلسلة بالفعل في قاعدة البيانات بواسطة Series Instance UID (seriesInstanceUID).</translation>
+        <translation>توجد سلسلة بالفعل في قاعدة البيانات بواسطة Series Instance UID {seriesInstanceUID}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="687"/>
@@ -8447,7 +8443,7 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="167"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="173"/>
         <source>Series &apos;{itemName}&apos; cannot be exported as volume sequence</source>
-        <translation>لا يمكن تصدير السلسلة &apos;( item Name )&apos; كتسلسل حجمي</translation>
+        <translation>لا يمكن تصدير السلسلة &apos;{itemName}&apos; كتسلسل حجمي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="180"/>
@@ -8709,7 +8705,7 @@ NA-MIC، وNAC، وBIRN، وNCIGT، ومجتمع Slicer.
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
         <source>Form</source>
-        <translation>استمارة</translation>
+        <translation>النموذج</translation>
     </message>
 </context>
 <context>
@@ -8732,7 +8728,7 @@ NA-MIC، وNAC، وBIRN، وNCIGT، ومجتمع Slicer.
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="72"/>
         <source>Segmentation</source>
-        <translation>التجزئة</translation>
+        <translation>تقسيم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="87"/>
@@ -8787,11 +8783,12 @@ use it for commercial purposes.&lt;/p&gt;
         <translation>
 &lt;p&gt;تم تمويل هذا العمل جزئيًا من قبل مؤسسة رعاية مرضى السرطان في أونتاريو
 واتحاد أونتاريو للتدخلات التكيفية في علاج الأورام بالإشعاع (OCAIRO)&lt;/p&gt;
+
 &lt;p&gt;تم التبرع بمجموعات بيانات MRHead وCBCT-MR Head وCT-MR Brain لمشروع 3D Slicer من قبل الأشخاص المرئيين في الصور، لاستخدامها دون أي قيود.&lt;/p&gt;
 
 &lt;p&gt;تأتي مجموعة بيانات CTLiver من &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;مشروع Decathlon الطبي&lt;/a&gt; (imagesTr/liver_100.nii.gz في مجموعة Task03_Liver)
-
 بترخيص حقوق الطبع والنشر المسموح به (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;)، مما يسمح بمشاركة البيانات وتوزيعها وتحسينها.&lt;/p&gt;
+
 &lt;p&gt;تأتي مجموعة بيانات CTA للبطن (Panoramix) من &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;مكتبة صور Osirix DICOM&lt;/a&gt;
 ومتاح حصريا للبحث والتدريس. لا يحق لك إعادة توزيعه أو بيعه، أو
 استخدامه لأغراض تجارية.&lt;/p&gt;
@@ -8820,7 +8817,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="631"/>
         <source>Failed to create cache folder {path}</source>
-        <translation>فشل إنشاء مجلد ذاكرة التخزين المؤقت (المسار)</translation>
+        <translation>فشل إنشاء مجلد ذاكرة التخزين المؤقت{path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="633"/>
@@ -8830,22 +8827,22 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="677"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation>فشل التنزيل (المحاولة (الحالية) من {total})...</translation>
+        <translation>فشل التنزيل (محاولة {current} من {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="716"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation>فشل التحميل (المحاولة {الحالية} من {total}). غير قادر على الحذف وحاول مرة أخرى تحميل {path}</translation>
+        <translation>فشل التحميل (المحاولة {current}من {total}). غير قادر على الحذف وحاول مرة أخرى تحميل {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="720"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation>فشل التحميل (المحاولة (الحالية) من {total})...</translation>
+        <translation>فشل التحميل (المحاولة{current} من {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="850"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation>نُزّل {sizeCompleted} ({percentCompleted}% من {sizeTotal})...</translation>
+        <translation>تنزيل {sizeCompleted} ({percentCompleted}% من {sizeTotal})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="866"/>
@@ -8865,60 +8862,60 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="872"/>
         <source>Failed to download {uri} to {filePath}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تنزيل {uri} إلى {filePath}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="875"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="887"/>
         <source>Verifying checksum</source>
-        <translation type="unfinished"></translation>
+        <translation>التحقق من المجموع الاختباري</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="879"/>
         <source>Checksum verification failed. Computed checksum {currentChecksum} different from expected checksum {expectedChecksum}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التحقق من المجموع الاختباري. المجموع الاختباري المحسوب {currentChecksum} يختلف عن المجموع الاختباري المتوقع {expectedChecksum}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="884"/>
         <source>Checksum OK</source>
-        <translation type="unfinished"></translation>
+        <translation>المجموع الاختباري موافق</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="890"/>
         <source>File already exists in cache but checksum is different - re-downloading it.</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف موجود بالفعل في ذاكرة التخزين المؤقت ولكن المجموع الاختباري مختلف - أعد تنزيله.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="895"/>
         <source>File already exists and checksum is OK - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف موجود بالفعل والمجموع الاختباري على ما يرام - إعادة استخدامه.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="898"/>
         <source>File already exists in cache - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف موجود بالفعل في ذاكرة التخزين المؤقت - إعادة استخدامه.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="902"/>
         <source>Requesting load {uri}</source>
-        <translation type="unfinished"></translation>
+        <translation>طلب التحميل {uri}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="906"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="921"/>
         <source>Load failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التحميل!</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="908"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="924"/>
         <source>Load finished</source>
-        <translation type="unfinished"></translation>
+        <translation>تم الانتهاء من التحميل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="912"/>
         <source>Requesting load {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation>طلب تحميل {name} من {uri} ...</translation>
     </message>
 </context>
 <context>
@@ -8986,7 +8983,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
         <source>file name:</source>
-        <translation>اسم الملف:</translation>
+        <translation>عنوان الملف:</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="134"/>
@@ -9009,7 +9006,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="26"/>
         <source>Screen Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>تصوير الشاشة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="33"/>
@@ -9017,7 +9014,10 @@ use it for commercial purposes.&lt;/p&gt;
 This module captures image sequences and videos
 from dynamic contents shown in 3D and slice viewers.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تلتقط هذه الوحدة تسلسلات الصور ومقاطع الفيديو
+من المحتويات الديناميكية المعروضة في المشاهد ثلاثية الأبعاد والشرائح.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="45"/>
@@ -9025,219 +9025,223 @@ from dynamic contents shown in 3D and slice viewers.
 This work was was funded by Cancer Care Ontario
 and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تمويل هذا العمل من قبل مؤسسة رعاية مرضى السرطان في أونتاريو
+واتحاد أونتاريو للتدخلات التكيفية في علاج الأورام بالإشعاع (OCAIRO)
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="76"/>
         <source>Input</source>
-        <translation type="unfinished">المدخلات</translation>
+        <translation>مساهمة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="89"/>
         <source>This slice or 3D view will be updated during capture.Only this view will be captured unless &apos;Capture of all views&apos; option in output section is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم تحديث هذه الشريحة أو العرض ثلاثي الأبعاد أثناء الالتقاط. سيتم التقاط هذا العرض فقط ما لم يتم تمكين خيار &quot;التقاط جميع طرق العرض&quot; في قسم الإخراج.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="90"/>
         <source>Main view: </source>
-        <translation type="unfinished"></translation>
+        <translation>شاشة العرض الرئيسية: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="94"/>
         <source>If checked, all views will be captured. If unchecked then only the selected view will be captured.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم تحديده، سيتم التقاط كافة المشاهدات. إذا لم يتم تحديده، فسيتم التقاط العرض المحدد فقط.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="95"/>
         <source>Capture all views:</source>
-        <translation type="unfinished"></translation>
+        <translation>التقاط كافة وجهات النظر:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="99"/>
         <source>Select the property that will be adjusted</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد الخاصية التي سيتم تعديلها</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="100"/>
         <source>Animation mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع الرسوم المتحركة:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="103"/>
         <source>Start sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء إزاحة المسح:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="109"/>
         <source>Start slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء إزاحة شريحة الاجتياح.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="113"/>
         <source>End sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة نهاية الاجتياح:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="119"/>
         <source>End slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة نهاية شريحة الاجتياح.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="123"/>
         <source>Rotation range:</source>
-        <translation type="unfinished"></translation>
+        <translation>نطاق الدوران:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="130"/>
         <source>View rotation range, relative to current view orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض نطاق التدوير، بالنسبة لاتجاه العرض الحالي.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="134"/>
         <source>Rotation axis:</source>
-        <translation type="unfinished">محور الدوران:</translation>
+        <translation>محور الدوران:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="137"/>
         <source>Yaw</source>
-        <translation type="unfinished"></translation>
+        <translation>ياو</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
         <source>Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>يقذف</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="142"/>
         <source>Sequence:</source>
-        <translation type="unfinished">التسلسل:</translation>
+        <translation>التسلسل:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="150"/>
         <source>Items defined by this sequence browser will be replayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم إعادة تشغيل العناصر المحددة بواسطة متصفح التسلسل هذا.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="154"/>
         <source>Start index:</source>
-        <translation type="unfinished"></translation>
+        <translation>فهرس البداية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="158"/>
         <source>First item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>العنصر الأول في التسلسل المطلوب التقاطه.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="162"/>
         <source>End index:</source>
-        <translation type="unfinished"></translation>
+        <translation>فهرس النهاية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="166"/>
         <source>Last item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>العنصر الأخير في التسلسل المطلوب التقاطه.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="174"/>
         <source>Output</source>
-        <translation type="unfinished">المخرجات</translation>
+        <translation>المنتجات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="179"/>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد كيفية حفظ الصور الملتقطة. يتطلب وضع الفيديو إعداد المسار القابل للتنفيذ ffmpeg في القسم المتقدم.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="180"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="702"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="787"/>
         <source>image series</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة الصورة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="479"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="666"/>
         <source>video</source>
-        <translation type="unfinished"></translation>
+        <translation>فيديو</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="480"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="782"/>
         <source>lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة العرض المبسط</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
         <source>Output type:</source>
-        <translation type="unfinished">نوع المخرجات:</translation>
+        <translation>نوع الناتج:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="193"/>
         <source>Number of images extracted between start and stop positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الصور المستخرجة بين مواضع البداية والتوقف.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="197"/>
         <source>single</source>
-        <translation type="unfinished"></translation>
+        <translation>مفرد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="203"/>
         <source>Capture a single image of current state only.
 New filename is generated for each captured image (no files are overwritten).</source>
-        <translation type="unfinished"></translation>
+        <translation>التقاط صورة واحدة للحالة الحالية فقط.
+يتم إنشاء اسم ملف جديد لكل صورة تم التقاطها (لا تتم الكتابة فوق أي ملفات).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="206"/>
         <source>Number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الصور:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="212"/>
         <source>Output directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل الإخراج:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="218"/>
         <source>String that defines file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>السلسلة التي تحدد اسم الملف ونوعه.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="220"/>
         <source>SlicerCapture.avi</source>
-        <translation type="unfinished"></translation>
+        <translation>التقاط القطاعة.avi</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="223"/>
         <source>String that defines output lightbox file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة تحدد اسم ونوع ملف العرض المبسط للإخراج.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="225"/>
         <source>SlicerCaptureLightbox.png</source>
-        <translation type="unfinished"></translation>
+        <translation>القطاعة التقاط Lightbox.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="230"/>
         <source>Output file name:</source>
-        <translation type="unfinished"></translation>
+        <translation>ضع اسم الملف:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="237"/>
         <source>Video format:</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل الفيديو:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="246"/>
         <source>Length of the exported video in seconds (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>طول الفيديو الذي تم تصديره بالثواني (بدون خطوات للخلف والتكرار).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="248"/>
         <source>Video length:</source>
-        <translation type="unfinished"></translation>
+        <translation>مدة الفيديو :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="257"/>
@@ -9262,177 +9266,177 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="273"/>
         <source>Forward-backward:</source>
-        <translation type="unfinished"></translation>
+        <translation>إلى الأمام إلى الخلف:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="282"/>
         <source>Number of times image series are repeated. Useful for making short videos longer for playback in software that does not support looped playback.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد مرات تكرار سلسلة الصور. مفيد لجعل مقاطع الفيديو القصيرة أطول للتشغيل في البرامج التي لا تدعم التشغيل المتكرر.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="283"/>
         <source>Repeat:</source>
-        <translation type="unfinished"></translation>
+        <translation>يكرر:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="291"/>
         <source>Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتعيين المسار إلى ffmpeg القابل للتنفيذ. للتحميل من: https://www.ffmpeg.org/</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="292"/>
         <source>ffmpeg executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg قابل للتنفيذ:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="296"/>
         <source>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Set valid ffmpeg executable path! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;قم بتعيين مسار صالح قابل للتنفيذ لـ ffmpeg! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;مساعدة...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt; &lt;/كيو تي&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="304"/>
         <source>Additional video conversion options passed to ffmpeg. Parameters -i (input files), -y(overwrite without asking), -r (frame rate), -start_number are specified by the module and thereforeshould not be included in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تمرير خيارات تحويل الفيديو الإضافية إلى ffmpeg. المعلمات -i (ملفات الإدخال)، -y(الكتابة فوق دون طلب)، -r (معدل الإطارات)، -start_number يتم تحديدها بواسطة الوحدة وبالتالي لا ينبغي تضمينها في هذه القائمة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="305"/>
         <source>Video extra options:</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات الفيديو الإضافية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="309"/>
         <source>String that defines file name, type, and numbering scheme. Default: image%05d.png.</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة تحدد اسم الملف ونوعه ونظام الترقيم. الافتراضي: الصورة%05d.png.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
         <source>image_%05d.png</source>
-        <translation type="unfinished"></translation>
+        <translation>image_%05d.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
         <source>Image file name pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط اسم ملف الصورة:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="319"/>
         <source>Number of columns in lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الأعمدة في صورة العرض المبسط</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="320"/>
         <source>Lightbox image columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>أعمدة صور العرض المبسط:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="326"/>
         <source>Maximum number of images to be captured (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لعدد الصور التي سيتم التقاطها (بدون خطوات للخلف والتكرار).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="327"/>
         <source>Maximum number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لعدد الصور:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="332"/>
         <source>Screenshot</source>
-        <translation type="unfinished">لقطة شاشة</translation>
+        <translation>لقطة شاشة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="336"/>
         <source>Select a volume node to store the captured image in the scene instead of just writing immediately to disk. Requires output &apos;Number of images&apos; to be set to 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد عقدة وحدة تخزين لتخزين الصورة الملتقطة في المشهد بدلاً من الكتابة فورًا على القرص. يتطلب إخراج &quot;عدد الصور&quot; لتعيينه على 1.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="338"/>
         <source>Output volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة حجم الإخراج:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="342"/>
         <source>If checked, images will be captured with view controllers visible.</source>
-        <translation type="unfinished"></translation>
+        <translation>في حالة تحديده، سيتم التقاط الصور مع ظهور وحدات التحكم في العرض.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="343"/>
         <source>View controllers:</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض وحدات التحكم:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="347"/>
         <source>If checked, images will be captured with transparent background.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم تحديده، فسيتم التقاط الصور بخلفية شفافة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="348"/>
         <source>Transparent background:</source>
-        <translation type="unfinished"></translation>
+        <translation>خلفية شفافة:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="354"/>
         <source>If checked, selected watermark image will be added to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>في حالة تحديده، ستتم إضافة صورة العلامة المائية المحددة إلى جميع الصور المصدرة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="359"/>
         <source>Add a watermark image to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف صورة علامة مائية إلى جميع الصور المصدرة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="373"/>
         <source>Size scaling applied to the watermark image. 100% is original size</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم تطبيق تغيير الحجم على صورة العلامة المائية. 100% هو الحجم الأصلي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="387"/>
         <source>Opacity of the watermark image. 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>عتامة صورة العلامة المائية. 100% غير شفاف تمامًا.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="399"/>
         <source>Watermark image file in png format</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف صورة العلامة المائية بصيغة png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="403"/>
         <source>Position:</source>
-        <translation type="unfinished">موقع:</translation>
+        <translation>الموقع:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="405"/>
         <source>Size:</source>
-        <translation type="unfinished">الحجم:</translation>
+        <translation>المقاس:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="407"/>
         <source>Opacity:</source>
-        <translation type="unfinished">معدل الشفافية:</translation>
+        <translation>معدل الشفافية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="410"/>
         <source>Watermark image:</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة العلامة المائية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="418"/>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>يلتقط</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="419"/>
         <source>Cancel</source>
-        <translation type="unfinished">الغاء</translation>
+        <translation>يلغي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="421"/>
         <source>Capture slice sweep to image sequence.</source>
-        <translation type="unfinished"></translation>
+        <translation>التقاط شريحة الاجتياح لتسلسل الصور.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="426"/>
         <source>Show created output file.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار ملف الإخراج الذي تم إنشاؤه.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="529"/>
@@ -9443,13 +9447,13 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="545"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="730"/>
         <source>slice sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتساح شريحة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="530"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="734"/>
         <source>slice fade</source>
-        <translation type="unfinished"></translation>
+        <translation>تلاشي الشريحة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="532"/>
@@ -9459,7 +9463,7 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="566"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="737"/>
         <source>3D rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="534"/>
@@ -9472,27 +9476,27 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="576"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="743"/>
         <source>sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="686"/>
         <source>Video encoder not detected on your system. Download ffmpeg video encoder?</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم اكتشاف برنامج تشفير الفيديو على نظامك. تحميل برنامج تشفير الفيديو ffmpeg؟</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="687"/>
         <source>Download confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد التنزيل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="689"/>
         <source>ffmpeg download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تنزيل ffmpeg</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="713"/>
         <source>View controllers are only available to be shown when capturing all views.</source>
-        <translation type="unfinished"></translation>
+        <translation>تتوفر وحدات التحكم في العرض فقط للعرض عند التقاط جميع طرق العرض.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="726"/>
@@ -9501,93 +9505,93 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1318"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1364"/>
         <source>Write {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتب{filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="728"/>
         <source>Write to volume node &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>الكتابة إلى عقدة وحدة التخزين &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="764"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="771"/>
         <source>Copy to {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ إلى{filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="789"/>
         <source>Done.</source>
-        <translation type="unfinished"></translation>
+        <translation>منتهي.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="793"/>
         <source>Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="825"/>
         <source>H.264</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="826"/>
         <source>H.264 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264 (جودة عالية)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="827"/>
         <source>MPEG-4</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="828"/>
         <source>MPEG-4 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4 (جودة عالية)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="829"/>
         <source>Animated GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF المتحركة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="830"/>
         <source>Animated GIF (grayscale)</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة GIF متحركة (تدرج الرمادي)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1057"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1092"/>
         <source>Capture image from view failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التقاط الصورة من العرض</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1121"/>
         <source>Invalid vector volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة حجم المتجه غير صالحة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1135"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1144"/>
         <source>Unsupported image format based on file name {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق صورة غير مدعوم بناءً على اسم الملف {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1194"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1219"/>
         <source>Invalid view node.</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة عرض غير صالحة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1206"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1216"/>
         <source>Selected 3D view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>العرض ثلاثي الأبعاد المحدد غير مرئي في التخطيط الحالي.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1227"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1257"/>
         <source>Selected slice view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الشريحة المحددة غير مرئي في التخطيط الحالي.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1249"/>
@@ -9595,52 +9599,52 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1342"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1371"/>
         <source>User requested cancel.</source>
-        <translation type="unfinished"></translation>
+        <translation>طلب المستخدم الإلغاء.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1374"/>
         <source>Export to lightbox image...</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير إلى صورة العرض المبسط...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1415"/>
         <source>Lighbox image saved to file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>تم حفظ صورة العرض المبسط في الملف: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1418"/>
         <source>Export to video...</source>
-        <translation type="unfinished"></translation>
+        <translation>التصدير إلى الفيديو...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1424"/>
         <source>Video creation failed: ffmpeg executable path is not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء الفيديو: لم يتم تحديد المسار القابل للتنفيذ ffmpeg</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1426"/>
         <source>Video creation failed: ffmpeg executable path is invalid: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء الفيديو: المسار القابل للتنفيذ ffmpeg غير صالح: {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1439"/>
         <source>Start ffmpeg:</source>
-        <translation type="unfinished"></translation>
+        <translation>ابدأ بـ ffmpeg:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1445"/>
         <source>ffmpeg error output: {error}</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في إخراج ffmpeg:{error}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1446"/>
         <source>ffmpeg returned with error</source>
-        <translation type="unfinished"></translation>
+        <translation>تم إرجاع ffmpeg مع وجود خطأ</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1448"/>
         <source>Video export succeeded to file: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>نجح تصدير الفيديو إلى الملف: {path}</translation>
     </message>
 </context>
 <context>
@@ -9649,7 +9653,7 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="15"/>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="117"/>
         <source>Segment Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر المقطع</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="23"/>
@@ -9658,7 +9662,11 @@ This module allows editing segmentation objects by directly drawing and using se
 Representations other than the labelmap one (which is used for editing) are automatically updated real-time,
 so for example the closed surface can be visualized as edited in the 3D view.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تسمح هذه الوحدة بتحرير كائنات التجزئة عن طريق الرسم المباشر واستخدام أدوات التجزئة على الأجزاء المضمنة.
+يتم تحديث التمثيلات بخلاف خريطة التسمية (المستخدمة للتحرير) تلقائيًا في الوقت الفعلي،
+على سبيل المثال، يمكن تصور السطح المغلق كما تم تحريره في العرض ثلاثي الأبعاد.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="29"/>
@@ -9666,12 +9674,15 @@ so for example the closed surface can be visualized as edited in the 3D view.
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+يعد هذا العمل جزءًا من مشروع SparKit، الممول من برنامج ACRU التابع لرعاية مرضى السرطان في أونتاريو (CCO).
+واتحاد أونتاريو للتدخلات التكيفية في علاج الأورام بالإشعاع (OCAIRO).
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="117"/>
         <source>Segment Editor is not compatible with slice viewers in light box mode.Views are being reset.</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر الشرائح غير متوافق مع عارضات الشرائح في وضع المربع المبسط. تتم الآن إعادة تعيين طرق العرض.</translation>
     </message>
 </context>
 <context>
@@ -10141,7 +10152,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="122"/>
         <source>{pluginName} plugin enabled</source>
         <extracomment>measurements that will be calculated by default</extracomment>
-        <translation>تم تمكين المكون الإضافي ( pluginName )</translation>
+        <translation>تم تمكين المكون الإضافي{pluginName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="132"/>
@@ -10180,7 +10191,10 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
 The SelfTests module allows developers to provide built-in self-tests (BIST) for slicer so that users can tell
 if their installed version of slicer are running as designed.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تتيح وحدة SelfTests للمطورين توفير اختبارات ذاتية مضمنة (BIST) للتقطيع حتى يتمكن المستخدمون من معرفة
+إذا كان الإصدار المثبت من أداة التقطيع يعمل حسب التصميم.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="53"/>
@@ -10188,7 +10202,10 @@ if their installed version of slicer are running as designed.
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+يعد هذا العمل جزءًا من مشروع SparKit، الممول من برنامج ACRU التابع لرعاية مرضى السرطان في أونتاريو (CCO).
+واتحاد أونتاريو للتدخلات التكيفية في علاج الأورام بالإشعاع (OCAIRO).
+</translation>
     </message>
 </context>
 <context>
@@ -10304,7 +10321,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Libs/MRML/Core/Testing/vtkMRMLI18NTest1.cxx" line="58"/>
         <source>SomeMessage</source>
-        <translation type="unfinished"></translation>
+        <translation>بعض الرسائل</translation>
     </message>
 </context>
 <context>
@@ -10568,7 +10585,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="58"/>
         <source>Vector to Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>المتجه إلى الحجم العددي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="74"/>
@@ -10583,7 +10600,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     &lt;li&gt;computes the mean of all the components.&lt;/li&gt;
     &lt;/ul&gt;
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    &lt;p&gt;قم بإنشاء حجم عددي (مكون واحد) من حجم متجه.&lt;/p&gt;
+
+     &lt;p&gt;يوفر أوضاع تحويل متعددة:&lt;/p&gt;
+
+     &lt;ul&gt;
+     &lt;li&gt;استخرج مكونات فردية من أي صورة متجهة.&lt;/li&gt;
+     &lt;li&gt;تحويل صور RGB إلى عددية باستخدام النصوع كما هو مطبق في vtkImageLuminance (الرقمية = 0.30*R + 0.59*G + 0.11*B).&lt;/li&gt;
+     &lt;li&gt;يحسب متوسط جميع المكونات.&lt;/li&gt;
+     &lt;/ul&gt;
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="86"/>
@@ -10592,82 +10619,86 @@ Developed by Steve Pieper, Isomics, Inc.,
 partially funded by NIH grant 3P41RR013218-12S1 (NAC) and is part of the National Alliance
 for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the
 NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطويره بواسطة ستيف بيبر، Isomics, Inc.
+ممولة جزئيًا من خلال منحة المعاهد الوطنية للصحة 3P41RR013218-12S1 (NAC) وهي جزء من التحالف الوطني
+لحوسبة الصور الطبية (NA-MIC)، بتمويل من المعاهد الوطنية للصحة من خلال
+خريطة طريق المعاهد الوطنية للصحة للأبحاث الطبية، Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="87"/>
         <source>Luminance</source>
-        <translation type="unfinished"></translation>
+        <translation>الانارة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
         <source>(RGB,RGBA) Luminance from first three components: 0.30*R + 0.59*G + 0.11*B + 0.0*A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(RGB، RGBA) النصوع من المكونات الثلاثة الأولى: 0.30*R + 0.59*G + 0.11*B + 0.0*A)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="91"/>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>المتوسط</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="92"/>
         <source>Average all the components.</source>
-        <translation type="unfinished"></translation>
+        <translation>متوسط جميع المكونات.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="95"/>
         <source>Single Component Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>استخراج مكون واحد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="96"/>
         <source>Extract single component</source>
-        <translation type="unfinished"></translation>
+        <translation>استخراج عنصر واحد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="271"/>
         <source>Please select Input Vector Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء تحديد حجم ناقل الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="273"/>
         <source>Please select Output Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء تحديد حجم العددية الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="275"/>
         <source>Please select a component to extract</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء تحديد مكون لاستخراجه</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="301"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished">فشل في حساب النتائج.</translation>
+        <translation>فشل في حساب النتائج.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="339"/>
         <source>no input volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحديد عقدة حجم الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="343"/>
         <source>no output volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحديد عقدة حجم الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="348"/>
         <source>input and output volume is the same. Create a new volume for output to avoid this error.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال والإخراج هو نفسه. قم بإنشاء وحدة تخزين جديدة للإخراج لتجنب هذا الخطأ.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="366"/>
         <source>component to extract ({componentSelected}) is invalid. Image has only {componentsTotal} components.</source>
-        <translation type="unfinished"></translation>
+        <translation>المكون المراد استخراجه ({componentSelected}) غير صالح. تحتوي الصورة على مكونات {componentsTotal} فقط.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="375"/>
         <source>input has only {componentsTotal} components but requires at least 3 components for luminance conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحتوي الإدخال على مكونات {componentsTotal} فقط ولكنه يتطلب 3 مكونات على الأقل لتحويل النصوع.</translation>
     </message>
 </context>
 <context>
@@ -12086,7 +12117,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="128"/>
         <source>Filename:</source>
-        <translation>اسم الملف:</translation>
+        <translation>تحديد الملف:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="185"/>
@@ -12138,7 +12169,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="53"/>
         <source>No node selected</source>
-        <translation>لم يتم تحديد أي عقدة</translation>
+        <translation>لم يتم اختيار عقدة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="85"/>
@@ -12165,7 +12196,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="254"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="283"/>
         <source>No node is selected</source>
-        <translation>لم يتم تحديد أي عقدة</translation>
+        <translation>لم يتم تحديد أي نقطة التقاء</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="142"/>
@@ -13725,12 +13756,12 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="53"/>
         <source>No node selected</source>
-        <translation>لم يتم تحديد أي عقدة</translation>
+        <translation>لم يتم تحديد أي تقاطع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="171"/>
         <source>No node is selected</source>
-        <translation>لم يتم تحديد أي عقدة</translation>
+        <translation>لم يتم تحديد أي ورم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="210"/>
@@ -13757,7 +13788,7 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="235"/>
         <source>Update</source>
-        <translation>تحديث</translation>
+        <translation>جعله عصريا يطلع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="236"/>
@@ -13951,7 +13982,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="50"/>
         <source>No node selected</source>
-        <translation>لم يتم تحديد أي عقدة</translation>
+        <translation>لم يتم تحديد أي نتوء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="115"/>
@@ -13981,7 +14012,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="470"/>
         <source>No node is selected</source>
-        <translation>لم يتم تحديد أي عقدة</translation>
+        <translation>لم يتم تحديد أي عجرة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="475"/>
@@ -14288,7 +14319,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="510"/>
         <source>Reformat</source>
-        <translation>استمارة</translation>
+        <translation>إعادة التنسيق</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="518"/>
@@ -14318,12 +14349,12 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="632"/>
         <source>Show slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض إعادة بناء البلاطة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="649"/>
         <source>Advanced options</source>
-        <translation>خيارات متقدمة</translation>
+        <translation>الخيارات المتقدمة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="712"/>
@@ -14369,7 +14400,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="779"/>
         <source>Show Slab Reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض إعادة بناء الالواح</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="787"/>
@@ -14574,7 +14605,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1122"/>
         <source>Medium</source>
-        <translation>متوسط</translation>
+        <translation>وسط</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1125"/>
@@ -14639,42 +14670,42 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1201"/>
         <source>Max</source>
-        <translation type="unfinished">الأقصى</translation>
+        <translation>الأقصى</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1204"/>
         <source>Set slab reconstruction type to Max</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط نوع بناء البلاطة على الحد الأقصى</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1212"/>
         <source>Min</source>
-        <translation type="unfinished">الأدنى</translation>
+        <translation>الأدنى</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1215"/>
         <source>Set slab reconstruction type to Min</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط نوع إعادة بناء البلاطة على الحد الأدنى</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1223"/>
         <source>Mean</source>
-        <translation type="unfinished">يقصد</translation>
+        <translation>يقصد</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1226"/>
         <source>Set slab reconstruction type to Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتعيين نوع إعادة بناء اللوحة على المتوسط</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1234"/>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموع</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1237"/>
         <source>Set slab reconstruction type to Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتعيين نوع إعادة بناء اللوحة على Sum</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1246"/>
@@ -14822,12 +14853,12 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1579"/>
         <source>Slab Reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة بناء البلاطة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1584"/>
         <source>Slab Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>سمك البلاطة</translation>
     </message>
 </context>
 <context>
@@ -15118,12 +15149,12 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="249"/>
         <source>Hide</source>
-        <translation type="unfinished">يخفي</translation>
+        <translation>يخفي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="252"/>
         <source>Show</source>
-        <translation type="unfinished">عرض</translation>
+        <translation>إظهار</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="255"/>
@@ -15574,7 +15605,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="520"/>
         <source>Medium</source>
-        <translation>متوسط</translation>
+        <translation>يتوسط</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="523"/>
@@ -16256,14 +16287,9 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+p، li { مسافة بيضاء: التفاف مسبق؛ }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot;font-family:&apos;MS Shell Dlg 2&apos;; حجم الخط:8.25pt; وزن الخط:400; نمط الخط:عادي;&quot;&gt;
+&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot;font-size:8pt;&quot;&gt;قم بتعيين لاحقة الوحدة. على سبيل المثال، يجب أن تكون لاحقة الوحدة &lt;/span&gt;&lt;span style=&quot;font-size:8pt;font-weight:600;&quot;&gt;متر&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt; من المحتمل أن يكون &lt;/span&gt;&lt;span style=&quot;font-size:8pt;font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/ ص&gt;&lt;/الجسم&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="97"/>
@@ -16343,7 +16369,7 @@ p، li { مسافة بيضاء: التفاف مسبق؛ }
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="244"/>
         <source>Offset</source>
-        <translation>عوض</translation>
+        <translation>الأوفست</translation>
     </message>
 </context>
 <context>
@@ -16442,7 +16468,7 @@ p، li { مسافة بيضاء: التفاف مسبق؛ }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="268"/>
         <source>File Name:</source>
-        <translation>اسم الملف:</translation>
+        <translation>إسم الملف :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
@@ -16487,7 +16513,7 @@ p، li { مسافة بيضاء: التفاف مسبق؛ }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="47"/>
         <source>Off</source>
-        <translation>عن</translation>
+        <translation>جانبا</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="60"/>
@@ -16802,7 +16828,7 @@ p، li { مسافة بيضاء: التفاف مسبق؛ }
     <message>
         <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="72"/>
         <source>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</source>
-        <translation>١%/ دليل المستخدم/واجهة المستخدم .html# اختصارات لوحة المفاتيح والماوس</translation>
+        <translation>%1/user_guide/user_interface.html#mouse-keyboard - الاختصارات</translation>
     </message>
 </context>
 <context>
@@ -17884,17 +17910,17 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="125"/>
         <source>Input ROI is under a non-linear transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>عائد الاستثمار (ROI) للإدخال يخضع للتحويل غير الخطي.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="138"/>
         <source>Output volume is under a non-linear transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإخراج تحت تحويل غير خطي.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="149"/>
         <source>Interpolation is disabled and input volume is under a non-linear transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تعطيل الاستيفاء وحجم الإدخال قيد التحويل غير الخطي</translation>
     </message>
     <message>
         <source>Input ROI is under a non-linear tansform.</source>
@@ -18072,7 +18098,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="212"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="254"/>
         <source>Middle</source>
-        <translation>متوسط</translation>
+        <translation>الاوسط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="217"/>
@@ -18407,7 +18433,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="48"/>
         <source>Filename:</source>
-        <translation>اسم الملف:</translation>
+        <translation>الملف الذي تم تحديده:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="62"/>
@@ -18629,7 +18655,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="162"/>
         <source>Update</source>
-        <translation>تحديث</translation>
+        <translation>واكب العصر</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="169"/>
@@ -18717,12 +18743,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="425"/>
         <source>Not found for this version of the application (r%1)</source>
-        <translation type="unfinished">لم يتم العثور على هذا الإصدار من التطبيق (r%2) {1)?}</translation>
+        <translation>لم يتم العثور على هذا الإصدار من التطبيق (r%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="432"/>
         <source>Incompatible with Slicer r%1 [built for r%2]</source>
-        <translation type="unfinished">غير متوافق مع مقسم البيانات r%2 [مصمم لـ r%3] {1 ?} {2]?}</translation>
+        <translation>غير متوافق مع مقسم طريقة العرض r%1 [مصمم لـ r%2]</translation>
     </message>
     <message>
         <source>Not found for this version of the application (r%2)</source>
@@ -18745,12 +18771,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="469"/>
         <source>Version: %1. Disabled.</source>
-        <translation>النسخة:١%. عاجز.</translation>
+        <translation>النسخة: %1 .عاجز.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="476"/>
         <source>Version: %1</source>
-        <translation>النسخة: ١%</translation>
+        <translation>النسخة:%1</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="484"/>
@@ -18891,32 +18917,32 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1765"/>
         <source>Do you want to install &apos;%1&apos; now?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد تثبيت &apos;%1&apos; الآن؟</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1766"/>
         <source>Install extension ?</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت التمديد؟</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1783"/>
         <source>Failed to install %1 extension</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تثبيت الملحق %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1806"/>
         <source>Extension %1 has been installed from server.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تثبيت الملحق %1 من الخادم.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1808"/>
         <source>Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب إعادة تشغيل أداة التقطيع. هل تريد إعادة التشغيل الآن؟</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1809"/>
         <source>Restart slicer ?</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تشغيل الشريحة؟</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1846"/>
@@ -19117,7 +19143,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="415"/>
         <source>Update all (%1)</source>
-        <translation>تحديث الكل(١%)</translation>
+        <translation>تحديث الكل (%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="446"/>
@@ -19822,7 +19848,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="23"/>
         <source>Module Panel</source>
-        <translation type="unfinished">لوحة الوحدة النمطية</translation>
+        <translation>لوحة الوحدة النمطية</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
@@ -20271,12 +20297,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="429"/>
         <source>Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل الأخطاء</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="439"/>
         <source>Show/hide Error Log window</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار/إخفاء نافذة سجل الأخطاء</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="463"/>
@@ -20471,7 +20497,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="244"/>
         <source>offset</source>
-        <translation>عوض</translation>
+        <translation>الافسيت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="249"/>
@@ -20865,7 +20891,9 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 - Clear: Clear the defined control point position, but do not delete the control point</source>
         <translation>انقر في هذا العمود لتعديل حالة موضع نقطة التحكم.- تحرير: أدخل إلى وضع المكان لتعديل موضع نقطة التحكم في عروض الشرائح
 - تخطي: تجاوز وضع &quot; مكان نقاط تحكم متعددة&quot; مدخل نقطة كم
+
 - الاستعادة: اضبط موضع نقطة التحكم على آخر موضع محدد معروف لها
+
 - مسح: حذف موضع نقطة التحكم المحددة، ولكن لا تحذف نقطة التحكم</translation>
     </message>
     <message>
@@ -21341,7 +21369,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="74"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>تقوم وحدة النماذج بتحميل وضبط معلمات العرض للنماذج مثل اللون والشفافية والقص.&lt;br&gt;احفظ النماذج عبر القائمة ملف، والزر حفظ.&lt;br&gt;سيسمح لك زر إضافة نموذج ثلاثي الأبعاد أو زر دليل النموذج بتحميل أي نموذج النموذج الذي يستطيع Slicer قراءته، بالإضافة إلى جميع نماذج VTK الموجودة في الدليل. ستؤدي إضافة Scalar Overlay إلى تحميل ملف عددي وربطه بالنموذج النشط حاليًا.&lt;br&gt;يمكنك ضبط خصائص عرض النماذج في جزء العرض. حدد النموذج الذي ترغب في العمل عليه من القائمة المنسدلة لمحدد النموذج. يتم تحميل التراكبات العددية بجدول بحث الألوان الافتراضي، ولكن يمكن إعادة تعيينها يدويًا. بمجرد اختيار تراكب عددي جديد، لا تزال خريطة الألوان القديمة قيد الاستخدام حاليًا، لذا يجب تعديلها جنبًا إلى جنب مع التراكب.&lt;br&gt;يتم تشغيل القطع لنموذج في جزء العرض، ومستويات الشرائح التي سيتم قصها يتم تحديد النموذج في جزء &quot;القصاصة&quot;.&lt;br&gt;يسمح لك جزء &quot;التسلسل الهرمي للنموذج&quot; بتجميع النماذج معًا وتعيين خصائص المجموعة.</translation>
     </message>
 </context>
 <context>
@@ -21873,118 +21901,118 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="278"/>
         <source>Orientation</source>
-        <translation type="unfinished">التوجيه</translation>
+        <translation>التوجيه</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="302"/>
         <source>Rotate the slice in the current slice plane, around the slice normal</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتدوير الشريحة في مستوى الشريحة الحالية، حول الشريحة بشكل عادي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="315"/>
         <source>Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>رَأسِيّ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="325"/>
         <source>In-Plane:</source>
-        <translation type="unfinished"></translation>
+        <translation>في الطائرة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="337"/>
         <source>Normal to LR</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي إلى LR</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="344"/>
         <source>Normal to PA</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي للسلطة الفلسطينية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="351"/>
         <source>Normal to IS</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي IS</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="360"/>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="552"/>
         <source>Flip slice view horizontally (left-right)</source>
-        <translation type="unfinished"></translation>
+        <translation>قلب عرض الشريحة أفقيًا (يسار - يمين)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="363"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished">قم بالتدوير إلى مستوى الحجم</translation>
+        <translation>قم بالتدوير إلى مستوى الحجم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="370"/>
         <source>Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>تدوير:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="383"/>
         <source>Rotate around the slice vertical axis</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بالتدوير حول المحور الرأسي للشريحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="405"/>
         <source>Rotate around the slice horizontal axis</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بالتدوير حول المحور الأفقي للشريحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="421"/>
         <source>Reset to:</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة التعيين إلى:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="428"/>
         <source>Normal:</source>
-        <translation type="unfinished">طبيعي:</translation>
+        <translation>طبيعي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="435"/>
         <source>Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>أفقي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="518"/>
         <source>Normal to Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي للكاميرا</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="555"/>
         <source>Flip H</source>
-        <translation type="unfinished"></translation>
+        <translation>فليب H</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="562"/>
         <source>Flip slice view vertically (upside-down)</source>
-        <translation type="unfinished"></translation>
+        <translation>قلب عرض الشريحة عموديًا (رأسًا على عقب)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="565"/>
         <source>Flip V</source>
-        <translation type="unfinished"></translation>
+        <translation>فليب V</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="572"/>
         <source>Rotate slice view clockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتدوير عرض الشريحة في اتجاه عقارب الساعة بمقدار 90 درجة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="575"/>
         <source>Rotate CW</source>
-        <translation type="unfinished"></translation>
+        <translation>تدوير CW</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="582"/>
         <source>Rotate slice view counterclockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتدوير عرض الشريحة عكس اتجاه عقارب الساعة بمقدار 90 درجة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="585"/>
         <source>Rotate CCW</source>
-        <translation type="unfinished"></translation>
+        <translation>تدوير CCW</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -23866,9 +23894,8 @@ Default: https://slicer.readthedocs.io/{language}/{version}</source>
 Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
 Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</source>
         <translation>حدد عنوان URL لوثائق الوحدة النمطية.
-العناصر النائبة المتاحة: ( documentation baseurl )، (lowerce aseModulename )
-الافتراضي: (documentation baseurl)/user_guide/modules/
-(documentationbaseurl}/user_guide/module/{lowercasemodulename}.htm ).html</translation>
+العناصر النائبة المتاحة: {documentationbaseurl}، {lowercasemodulename}.
+الافتراضي: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="197"/>
@@ -24181,22 +24208,22 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>عام</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
         <source>Editor for .py files:</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر لملفات .py:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
         <source>Select an executable for editing .py files. If left empty then the default program associated with .py files will be launched.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد ملفًا قابلاً للتنفيذ لتحرير ملفات .py. إذا تركت فارغة، فسيتم تشغيل البرنامج الافتراضي المرتبط بملفات .py.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="42"/>
         <source>PythonEditor</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر بايثون</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="52"/>
@@ -24233,7 +24260,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="99"/>
         <source>Python editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر بايثون.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="103"/>
@@ -24289,8 +24316,10 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>p، li { مسافة بيضاء: التفاف مسبق؛ }
-&lt;/st&gt;&lt;body style=&quot;font-family:&apos;M Shell Dlg 2&apos;; حجم الخط:8.25pt; وزن الخط:400; نمط الخط:عادي;&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p، li { مسافة بيضاء: التفاف مسبق؛ }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot;font-family:&apos;MS Shell Dlg 2&apos;; حجم الخط:8.25pt; وزن الخط:400; نمط الخط:عادي;&quot;&gt;
 &lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot;font-size:8pt;&quot;&gt;قم بإزالة مسار البرنامج الإضافي للنمط المحدد حاليًا.&lt;/span&gt;&lt;/p&gt;
 &lt;p style = &quot;-qt-paragraph-type: فارغ؛ الهامش العلوي: 0px؛ الهامش السفلي: 0px؛ الهامش الأيسر: 0px؛ الهامش الأيمن: 0px؛ -qt-block-indent:0؛ مسافة بادئة للنص :0px; حجم الخط:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot;font-size:8pt;&quot;&gt;ستؤدي إزالة مسار البرنامج الإضافي للنمط إلى عدم إمكانية الوصول إلى هذا النمط الإضافي (وبالتالي جميع أنماطه) في المرة التالية التي يتم فيها فتح التطبيق. يتطلب هذا الإجراء &lt;/span&gt;&lt;span style=&quot;font-size:8pt;font-weight:600;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;إعادة تشغيل التطبيق.&lt;/span&gt;&lt;span style=&quot; سبان&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -24307,9 +24336,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Show the interface to add/remove additional style paths.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>p، li { مسافة بيضاء: التفاف مسبق؛ }
-&lt;body style=&quot;font-family:&apos;MS Shell Dlg 2&apos;; حجم الخط:8.25pt; وزن الخط:400; نمط الخط:عادي;&quot;&gt;
-&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot; Font-size:8pt;&quot;&gt;إظهار الواجهة لإضافة/إزالة مسارات أنماط إضافية</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p، li { مسافة بيضاء: التفاف مسبق؛ }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot;font-family:&apos;MS Shell Dlg 2&apos;; حجم الخط:8.25pt; وزن الخط:400; نمط الخط:عادي;&quot;&gt;
+&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot; Font-size:8pt;&quot;&gt;إظهار الواجهة لإضافة/إزالة مسارات أنماط إضافية.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="123"/>
@@ -24524,7 +24555,7 @@ p، li { مسافة بيضاء: التفاف مسبق؛ }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="71"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="208"/>
         <source>medium</source>
-        <translation>متوسط</translation>
+        <translation>شىء متوسط</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="76"/>
@@ -24602,10 +24633,11 @@ p، li { مسافة بيضاء: التفاف مسبق؛ }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>p, li { white-space: pre-wrap; }
-Use multisampling for full-screen anti-aliasing
-p, li { white-space: pre-wrap; }
-Use multisampling for full-screen anti-aliasing</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p، li { مسافة بيضاء: التفاف مسبق؛ }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot;font-family:&apos;MS Shell Dlg 2&apos;; حجم الخط:8.25pt; وزن الخط:400; نمط الخط:عادي;&quot;&gt;
+&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot; Font-size:8pt;&quot;&gt;استخدم العينات المتعددة لتنعيم التعرجات في وضع ملء الشاشة.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
@@ -24913,12 +24945,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="117"/>
         <source>Show empty folders</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار المجلدات الفارغة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="119"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا كان قيد التشغيل، فسيتم عرض المجلدات التي لا تحتوي على عقد (مسموح بها بواسطة أي مرشح)، وإلا فلن يتم عرضها</translation>
     </message>
 </context>
 <context>
@@ -25030,7 +25062,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="715"/>
         <source>Delete %1</source>
-        <translation>حذف١%</translation>
+        <translation>احذف %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="716"/>
@@ -25090,8 +25122,8 @@ Select plugin to add node named
         <translation>تم العثور على رقم ثقة متساوي لأكثر من مكون إضافي للتسلسل الهرمي للموضوع لإضافة عقدة جديدة إلى التسلسل الهرمي للموضوع.
 
 حدد البرنامج المساعد لإضافة العقدة المسماة
-&apos;١%&apos;
-(النوع ٢)</translation>
+&apos;%1&apos;
+(النوع%2)</translation>
     </message>
 </context>
 <context>
@@ -25289,7 +25321,9 @@ Note: This may result in unwanted data loss in %4.</oldsource>
         <source>Failed to create binary labelmap representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation>فشل إنشاء تمثيل خريطة التسمية الثنائية للتجزئة %1 باستخدام معلمات التحويل الافتراضية!يرجى زيارة وحدة التجزئة وتجربة وظيفة إنشاء التمثيل المتقدمة.</translation>
+        <translation>فشل إنشاء تمثيل خريطة التسمية الثنائية للتجزئة %1 باستخدام معلمات التحويل الافتراضية!
+
+يرجى زيارة وحدة التجزئة وتجربة وظيفة إنشاء التمثيل المتقدمة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1007"/>
@@ -25322,7 +25356,8 @@ Most probably the segment cannot be converted into binary labelmap representatio
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
         <translation>فشل إنشاء تمثيل سطحي مغلق للتجزئة %1
-باستخدام معلمات التحويل الافتراضية! يرجى زيارة وحدة التجزئة وتجربة وظيفة إنشاء التمثيل المتقدمة.</translation>
+باستخدام معلمات التحويل الافتراضية!
+ يرجى زيارة وحدة التجزئة وتجربة وظيفة إنشاء التمثيل المتقدمة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1072"/>
@@ -25349,7 +25384,9 @@ Most probably the segment cannot be converted into closed surface representation
         <source>Failed to create %1 representation for segmentation %2 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation>فشل إنشاء تمثيل %1 للتجزئة %2 باستخدام معلمات التحويل الافتراضية!يرجى زيارة وحدة التجزئة وتجربة وظيفة إنشاء التمثيل المتقدمة.</translation>
+        <translation>فشل إنشاء تمثيل %1 للتجزئة %2 باستخدام معلمات التحويل الافتراضية!
+
+يرجى زيارة وحدة التجزئة وتجربة وظيفة إنشاء التمثيل المتقدمة.</translation>
     </message>
 </context>
 <context>
@@ -25443,7 +25480,8 @@ Note: This may result in unwanted data loss in %5.</oldsource>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="406"/>
         <source>Segment - ID: %1, Representations: %2, Color: (%3, %4, %5)
 Tags: %6</source>
-        <translation type="unfinished"></translation>
+        <translation>المقطع - المعرف: %1، التمثيلات: %2، اللون: (%3، %4، %5)
+العلامات: %6</translation>
     </message>
     <message>
         <source>Segment - Representations: %1, Color: (%2, %3, %4)
@@ -26832,7 +26870,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="103"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. Some of the transfer functions were contributed by Kitware Inc. (VolView)</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم دعم هذا العمل من قبل NA-MIC، وNAC، وBIRN، وNCIGT، ومجتمع Slicer. تمت المساهمة ببعض وظائف النقل بواسطة شركة Kitware Inc. (VolView)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="144"/>
@@ -27393,8 +27431,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Welcome&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;span style=&quot;font-size:22pt; color:#afb7d5;&quot;&gt;مرحبًا
-&lt; /أتش تي أم أل&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot;font-size:22pt; color:#afb7d5;&quot;&gt;مرحبًا&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt; /أتش تي أم أل&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="100"/>
@@ -27428,19 +27465,16 @@ This should only used by advanced users who understand the consequences of chang
 &lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Share your stories with us on the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forum&lt;/a&gt; and let us know about how 3D Slicer has enabled your research.&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 &lt;p&gt;We are always interested in improving 3D Slicer, to tell us about your problem or submit a bug report, open &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</source>
-        <translation>&lt;حدود الجدول = &quot;0&quot; محاذاة = &quot;مركز&quot; تباعد الخلايا = &quot;0&quot; خلية الحشو = &quot;5&quot;
-&quot; نمط = &quot;المحاذاة الرأسية: الأوسط؛&quot;
-شارك قصصك معنا على
-منتدى Slicer
-وأخبرنا عن كيف ساهمت تقنية 3D Slicer في تمكين بحثك.
-نحن مهتمون دائمًا بتحسين 3D Slicer، لإخبارنا بمشكلتك أو إرسال تقرير بالأخطاء، افتح
-تعليمات -
-الإبلاغ عن خطأ</translation>
+        <translation>&lt;حدود الجدول = &quot;0&quot; محاذاة = &quot;مركز&quot; تباعد الخلايا = &quot;0&quot; خلية الحشو = &quot;5&quot;&gt; &lt;tr&gt;
+&lt;td style=&quot; Vertical-align:middle;&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; نمط = &quot;المحاذاة الرأسية: الأوسط؛&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; Vertical-align:middle;&quot;&gt;&lt;p&gt;شارك قصصك معنا على &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;منتدى Slicer&lt;/a&gt; وأخبرنا عن كيف ساهمت تقنية 3D Slicer في تمكين بحثك.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;نحن مهتمون دائمًا بتحسين 3D Slicer، لإخبارنا بمشكلتك أو إرسال تقرير بالأخطاء، افتح &lt;b&gt;تعليمات -&amp;gt; الإبلاغ عن خطأ&lt;/b&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
         <source>About</source>
-        <translation>عن</translation>
+        <translation>حول</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
@@ -27553,15 +27587,12 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;Development of 3D Slicer is supported by &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; and the &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Community&lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details.&lt;/p&gt;
 &lt;p&gt;We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.&lt;/p&gt;
 &lt;p&gt;This module was developed by Jean-Christophe Fillion-Robin and Julien Finet at Kitware, Inc., and by Wendy Plesniak, Sonia Pujol, Steve Pieper and Ron Kikinis at Brigham and Women&apos;s Hospital.&lt;/p&gt;</source>
-        <translation>&lt;جدول محاذاة = &quot;مركز&quot; تباعد الخلايا = &quot;0&quot; خلية الحشو = &quot;5&quot;
-محاذاة = &quot;مركز&quot;
-img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: وسط؛&quot;
-img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot;
-img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: وسط؛&quot;
-يتم دعم تطوير 3D Slicer بواسطة
-a href=&quot;https://www.na-mic.org/&quot;&gt;
-NA
--MIC&lt;/a&gt;، &lt;a href=&quot;https://nac.spl. harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard. edu&quot;&gt;SPL&lt;/a&gt; و&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;مجتمع Slicer&lt;/a&gt;. راجع &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; للحصول على التفاصيل.&lt;/p&gt;
+        <translation>&lt;جدول محاذاة = &quot;مركز&quot; تباعد الخلايا = &quot;0&quot; خلية الحشو = &quot;5&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;p محاذاة = &quot;مركز&quot;&gt;
+&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAMIC.png&quot; width=&quot;80&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: وسط؛&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle; &quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: وسط؛&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;يتم دعم تطوير 3D Slicer بواسطة &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;، &lt;a href=&quot;https://nac.spl. harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard. edu&quot;&gt;SPL&lt;/a&gt; و&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;مجتمع Slicer&lt;/a&gt;. راجع &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; للحصول على التفاصيل.&lt;/p&gt;
 &lt;p&gt;نود أيضًا أن نعرب عن خالص شكرنا لأعضاء مجتمع مستخدمي Slicer الذين ساعدونا في تصميم محتويات وحدة الترحيب هذه، والذين تستمر تعليقاتهم في تحسين الوظائف وسهولة الاستخدام وتجربة مستخدم Slicer.&lt;/p&gt;
 &lt;p&gt;تم تطوير هذه الوحدة بواسطة جان كريستوف فيليون روبن وجوليان فينيت في شركة Kitware, Inc.، وويندي بليسنياك وسونيا بوجول وستيف بيبر ورون كيكينيس في مستشفى بريجهام والنساء.&lt;/p&gt;</translation>
     </message>
@@ -27618,7 +27649,7 @@ NA
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="331"/>
         <source>MRML Color Table</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>جدول الألوان MRML</translation>
     </message>
 </context>
 <context>
@@ -27626,47 +27657,47 @@ NA
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="682"/>
         <source>Idle</source>
-        <translation type="unfinished">عاطل</translation>
+        <translation>عاطل</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="683"/>
         <source>Scheduled</source>
-        <translation type="unfinished"></translation>
+        <translation>المقرر</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="684"/>
         <source>Running</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="685"/>
         <source>Cancelling</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="686"/>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>تم الغاؤه</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="687"/>
         <source>Completing</source>
-        <translation type="unfinished"></translation>
+        <translation>استكمال</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="688"/>
         <source>Completed</source>
-        <translation type="unfinished">مكتمل</translation>
+        <translation>مكتمل</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="689"/>
         <source>Completed with errors</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتمل مع وجود أخطاء</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="693"/>
         <source>Unknown</source>
-        <translation type="unfinished">غير معروف</translation>
+        <translation>مجهول الهوية</translation>
     </message>
 </context>
 <context>
@@ -27676,7 +27707,7 @@ NA
         <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="614"/>
         <source>Linear transform sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل التحويل الخطي</translation>
     </message>
 </context>
 <context>
@@ -27686,13 +27717,13 @@ NA
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="798"/>
         <source>Markups Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>هوامش الربح الإيمانية CSV</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="791"/>
         <source>Annotation Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>الشرح الإيماني CSV</translation>
     </message>
 </context>
 <context>
@@ -27704,7 +27735,7 @@ NA
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="357"/>
         <source>Markups JSON</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>العلامات JSON</translation>
     </message>
 </context>
 <context>
@@ -27714,68 +27745,68 @@ NA
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="777"/>
         <source>VTK Polygon Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شبكة مضلعة VTK</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="749"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="779"/>
         <source>VTK XML Polygon Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>VTK XML شبكة مضلعة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="751"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="794"/>
         <source>VTK Unstructured Grid</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شبكة VTK غير المنظمة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="753"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="796"/>
         <source>VTK XML Unstructured Grid</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>VTK XML الشبكة غير المنظمة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="755"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="757"/>
         <source>Movie.BYU Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Movie.BYU شبكة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="759"/>
         <source>MetaIO Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شبكة ميتايو</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="761"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="785"/>
         <source>Stereolithography Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شبكة الطباعة الحجرية</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="763"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="787"/>
         <source>Stanford Polygon Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شبكة ستانفورد المضلعة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="765"/>
         <source>AVS Unstructured Grid</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شبكة AVS غير المنظمة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="767"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="789"/>
         <source>Wavefront Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شبكة واجهة الموجة</translation>
     </message>
 </context>
 <context>
@@ -27787,7 +27818,7 @@ NA
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="233"/>
         <source>MRML Color Function</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>وظيفة اللون MRML</translation>
     </message>
 </context>
 <context>
@@ -27797,7 +27828,7 @@ NA
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="178"/>
         <source>Segmentation</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished">التجزئة</translation>
+        <translation>يجزء</translation>
     </message>
 </context>
 <context>
@@ -27809,7 +27840,7 @@ NA
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="220"/>
         <source>MRML Sequence Bundle</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>حزمة تسلسل MRML</translation>
     </message>
 </context>
 <context>
@@ -27819,7 +27850,7 @@ NA
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="497"/>
         <source>MRML Shader Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>خاصية تظليل MRML</translation>
     </message>
 </context>
 <context>
@@ -27829,7 +27860,7 @@ NA
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="318"/>
         <source>SQLight database</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>قاعدة بيانات SQLite</translation>
     </message>
 </context>
 <context>
@@ -27841,14 +27872,14 @@ NA
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="244"/>
         <source>Tab-separated values</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>قيم مفصولة بعلامات جدولة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="231"/>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="242"/>
         <source>Comma-separated values</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>قيم مفصولة بفواصل</translation>
     </message>
 </context>
 <context>
@@ -27858,21 +27889,21 @@ NA
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="165"/>
         <source>Text file</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ملف نصي</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="156"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="167"/>
         <source>XML document</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>وثيقة XML</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="158"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="169"/>
         <source>JSON document</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>وثيقة جيسون</translation>
     </message>
 </context>
 <context>
@@ -27883,7 +27914,7 @@ NA
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="229"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>خاصية حجم MRML</translation>
     </message>
 </context>
 <context>
@@ -27893,7 +27924,7 @@ NA
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="603"/>
         <source>Volume Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل الحجم</translation>
     </message>
 </context>
 </TS>
