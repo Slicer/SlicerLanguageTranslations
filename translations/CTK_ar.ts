@@ -1683,7 +1683,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filter displayed metadata based on content in Tag, Attribute, and Value columns.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Simple search: &lt;/span&gt;enter any text to show only those items that contains the text. Use ? and * wildcards to represent &lt;span style=&quot; font-style:italic;&quot;&gt;any &lt;/span&gt;single character or sequence of characters.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Regular expression search (for advanced users):&lt;/span&gt; Enter &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; followed by a regular expression. For example, show 3 specific tags, enter: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تصفية البيانات التعريفية المعروضة بناءً على المحتوى الموجود في أعمدة العلامة والسمة والقيمة.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight:600;&quot;&gt;بحث بسيط : &lt;/span&gt;أدخل أي نص لإظهار العناصر التي تحتوي على النص فقط. يستخدم ؟ و * أحرف البدل لتمثيل &lt;span style=&quot;font-style:italic;&quot;&gt;أي &lt;/span&gt;حرف فردي أو سلسلة من الأحرف.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight:600;&quot;&gt; البحث عن التعبير العادي (للمستخدمين المتقدمين):&lt;/span&gt; أدخل &lt;span style=&quot;font-style:italic;&quot;&gt;regexp:&lt;/span&gt; متبوعًا بتعبير عادي. على سبيل المثال، اعرض 3 علامات محددة، وأدخل: &lt;span style=&quot;font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/ أتش تي أم أل&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; تصفية البيانات الوصفية المعروضة استنادا إلى المحتوى في أعمدة العلامة والسمة والقيمة. &lt;/p&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600;&quot;&gt; بحث بسيط: &lt;/span&gt; أدخل أي نص لإظهار العناصر التي تحتوي على النص فقط. استخدام؟ و * أحرف البدل لتمثيل &lt;span style=&quot; font-style:italic;&quot;&gt; أي حرف واحد &lt;/span&gt; أو تسلسل من الأحرف. &lt;/p&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600;&quot;&gt; البحث عن التعبير العادي (للمستخدمين المتقدمين): &lt;/span&gt; أدخل &lt;span style=&quot; font-style:italic;&quot;&gt; regexp: &lt;/span&gt; متبوعا بتعبير عادي. على سبيل المثال، اعرض 3 علامات محددة، أدخل: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="75"/>
@@ -3506,7 +3506,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="46"/>
         <source>File</source>
-        <translation>ملف</translation>
+        <translation>مجلد</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="58"/>
@@ -3716,14 +3716,14 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p، li { مسافة بيضاء: التفاف مسبق؛ }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; Font-family:&apos;Sans&apos;; حجم الخط:10pt; وزن الخط:400; نمط الخط: عادي;&quot;&gt;
-&lt;حدود الجدول = &quot;0&quot; نمط = &quot;-qt-نوع الجدول: الجذر؛ الهامش العلوي: 4px؛ الهامش السفلي: 4px؛ الهامش الأيسر: 4px؛ الهامش الأيمن: 4px؛&quot;&gt;
-&lt;تر&gt;
-&lt;td style = &quot;الحدود: لا شيء؛&quot;&gt;
-&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot; حجم الخط:12pt; وزن الخط:600;&quot;&gt;المكون الإضافي&lt;/span&gt;&lt;/p&gt;
-&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot; حجم الخط:12pt; وزن الخط:600;&quot;&gt;المولد&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;html&gt; &lt;head&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt; &lt;style type=&quot;text/css&quot;&gt;
+p, li { مسافة بيضاء: التفاف مسبق; }
+&lt;/style&gt; &lt;/head&gt; &lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt; البرنامج المساعد &lt;/span&gt; &lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt; مولد &lt;/span&gt; &lt;/p&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="278"/>
@@ -3737,14 +3737,14 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Preview&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p، li { مسافة بيضاء: التفاف مسبق؛ }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; Font-family:&apos;Sans&apos;; حجم الخط:10pt; وزن الخط:400; نمط الخط: عادي;&quot;&gt;
-&lt;حدود الجدول = &quot;0&quot; نمط = &quot;-qt-نوع الجدول: الجذر؛ الهامش العلوي: 4px؛ الهامش السفلي: 4px؛ الهامش الأيسر: 4px؛ الهامش الأيمن: 4px؛&quot;&gt;
-&lt;تر&gt;
-&lt;td style = &quot;الحدود: لا شيء؛&quot;&gt;
-&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot;font-size:12pt;font-weight:600;&quot;&gt;المكون الإضافي &lt;/span&gt;&lt;span style=&quot;font-size:12pt;font-weight:600;&quot;&gt;المولد&lt;/span&gt;&lt;/p&gt;
-&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot; حجم الخط:12pt; وزن الخط:600;&quot;&gt;معاينة&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;html&gt; &lt;head&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt; &lt;style type=&quot;text/css&quot;&gt;
+p, li { مسافة بيضاء: التفاف مسبق; }
+&lt;/style&gt; &lt;/head&gt; &lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt; البرنامج المساعد &lt;/span&gt; &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt; مولد &lt;/span&gt; &lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt; معاينة &lt;/span&gt; &lt;/p&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="370"/>
@@ -3775,7 +3775,7 @@ p، li { مسافة بيضاء: التفاف مسبق؛ }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="478"/>
         <source>File</source>
-        <translation>ملف</translation>
+        <translation>المجلد</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="492"/>
