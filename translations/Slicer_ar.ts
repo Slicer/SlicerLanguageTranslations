@@ -1976,7 +1976,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation>كثافة العمليات غير الموقعة</translation>
+        <translation>غير الموقعة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
@@ -8933,7 +8933,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="35"/>
         <source>File</source>
-        <translation>ملف</translation>
+        <translation>الملف</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="46"/>
@@ -9291,7 +9291,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="296"/>
         <source>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Set valid ffmpeg executable path! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;قم بتعيين مسار صالح قابل للتنفيذ لـ ffmpeg! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;مساعدة...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt; &lt;/كيو تي&gt;</translation>
+        <translation>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;قم بتعيين مسار صالح ffmpegقابل للتنفيذ لـ! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;مساعدة...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="304"/>
@@ -12796,7 +12796,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="14"/>
         <source>Scalars Display</source>
-        <translation>عرض العددية</translation>
+        <translation>عرض الكميات</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="32"/>
@@ -16287,9 +16287,9 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p، li { مسافة بيضاء: التفاف مسبق؛ }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot;font-family:&apos;MS Shell Dlg 2&apos;; حجم الخط:8.25pt; وزن الخط:400; نمط الخط:عادي;&quot;&gt;
-&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot;font-size:8pt;&quot;&gt;قم بتعيين لاحقة الوحدة. على سبيل المثال، يجب أن تكون لاحقة الوحدة &lt;/span&gt;&lt;span style=&quot;font-size:8pt;font-weight:600;&quot;&gt;متر&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt; من المحتمل أن يكون &lt;/span&gt;&lt;span style=&quot;font-size:8pt;font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/ ص&gt;&lt;/الجسم&gt;&lt;/html&gt;</translation>
+p, li { مسافة بيضاء: التفاف مسبق؛ }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;قم بتعيين لاحقة الوحدة. على سبيل المثال، يجب أن تكون لاحقة الوحدة &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;متر&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; من المحتمل أن يكون &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="97"/>
@@ -18132,7 +18132,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="78"/>
         <source>File</source>
-        <translation>ملف</translation>
+        <translation>إضبارة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="83"/>
@@ -18286,7 +18286,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation>عرض العددية</translation>
+        <translation>العرض العددي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
@@ -18329,7 +18329,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation>عرض العددية</translation>
+        <translation>العرض الكمي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="50"/>
@@ -24045,10 +24045,10 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
 &lt;/body&gt;&lt;/html&gt;
 </source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;الرأس/&gt;&lt;الجسم&gt;
-&lt;p&gt;مسارات الوحدة الإضافية:&lt;/p&gt;
-&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot;font-size:small;font-style:italic;&quot;&gt;السحب &amp;amp; قم بإسقاط الملفات أو المجلدات&lt;br/&gt;من مستكشف الملفات&lt;/span&gt;&lt;/p&gt;
-&lt;/body&gt;&lt;/html&gt;
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt;
+&lt;p&gt; مسارات الوحدة الإضافية: &lt;/p&gt;
+&lt;p style=&quot;margin-left: 10px;&quot;&gt; &lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; اسحب &amp;amp; إفلات الملفات أو المجلدات &lt;br/&gt; من مستكشف الملفات &lt;/span&gt; &lt;/p&gt;
+&lt;/body&gt; &lt;/html&gt;
 </translation>
     </message>
     <message>
@@ -24145,7 +24145,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Favorite Modules:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Drag &amp;amp; drop modules&lt;br/&gt;from &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;Modules&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; list&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>الوحدات المفضلة 10px;&quot;&gt;&lt;span style=&quot;font-size:small;font-style:italic; &quot;&gt;اسحب ; قم بإسقاط الوحداتمن &lt;/&lt;span style=&quot;font-size:small;&quot;&gt;الوحدات&lt;&gt;&lt;span style=&quot;font-size:small;font-style:italic;&quot;&gt;قائمة&lt; /spanp</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; الوحدات المفضلة:&lt;/p&gt; &lt;p style=&quot;margin-left: 10px;&quot;&gt; &lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; اسحب &amp;amp; وحدات الإسقاط &lt;br/&gt; من &lt;/span&gt; &lt;span style=&quot; font-size:small;&quot;&gt; الوحدات النمطية &lt;/span&gt; &lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; قائمة &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
@@ -24294,13 +24294,13 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adding a style plugin path will make accessible this style plugin (and thus all the its styles) to the application. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>p، li&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p، li { مسافة بيضاء: التفاف مسبق؛ }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot;font-family:&apos;MS Shell Dlg 2&apos;; حجم الخط:8.25pt; وزن الخط:400; نمط الخط:عادي;&quot;&gt;
-&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot;font-size:8pt;&quot;&gt;أضف مسار البرنامج الإضافي للنمط.&lt;/span&gt;&lt;/p&gt;
-&lt;p style = &quot;-qt-paragraph-type: فارغ؛ الهامش العلوي: 0px؛ الهامش السفلي: 0px؛ الهامش الأيسر: 0px؛ الهامش الأيمن: 0px؛ -qt-block-indent:0؛ مسافة بادئة للنص :0px; حجم الخط
-&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot;font-size:8pt;&quot;&gt;ستؤدي إضافة مسار البرنامج الإضافي للنمط إلى إتاحة الوصول إلى هذا النمط الإضافي (وبالتالي جميع أنماطه) في التطبيق. يتطلب هذا الإجراء/span&gt;&lt;span style=&quot;font-size:8pt;font-weight:600;&quot;&gt;&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;إعادة تشغيل التطبيق.&lt;/&gt;&lt;span style=&quot; سبان&gt;</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt; &lt;head&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt; &lt;style type=&quot;text/css&quot;&gt;
+p, li { مسافة بيضاء: التفاف مسبق; }
+&lt;/style&gt; &lt;/head&gt; &lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt; أضف مسار مكون إضافي للنمط. &lt;/span&gt; &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt; ستؤدي إضافة مسار مكون إضافي للنمط إلى إتاحة الوصول إلى هذا المكون الإضافي للنمط (وبالتالي جميع أنماطه) إلى التطبيق. يتطلب هذا الإجراء &lt;/span&gt; &lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt; &lt;/span&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt; لإعادة تشغيل التطبيق. &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
@@ -24317,12 +24317,12 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p، li { مسافة بيضاء: التفاف مسبق؛ }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot;font-family:&apos;MS Shell Dlg 2&apos;; حجم الخط:8.25pt; وزن الخط:400; نمط الخط:عادي;&quot;&gt;
-&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot;font-size:8pt;&quot;&gt;قم بإزالة مسار البرنامج الإضافي للنمط المحدد حاليًا.&lt;/span&gt;&lt;/p&gt;
-&lt;p style = &quot;-qt-paragraph-type: فارغ؛ الهامش العلوي: 0px؛ الهامش السفلي: 0px؛ الهامش الأيسر: 0px؛ الهامش الأيمن: 0px؛ -qt-block-indent:0؛ مسافة بادئة للنص :0px; حجم الخط:8pt;&quot;&gt;&lt;/p&gt;
-&lt;p style =&quot; الهامش العلوي: 0px; الهامش السفلي: 0px; الهامش الأيسر: 0px; الهامش الأيمن: 0px; -qt-block-indent:0; مسافة بادئة للنص: 0px;&quot;&gt;&lt;span style= &quot;font-size:8pt;&quot;&gt;ستؤدي إزالة مسار البرنامج الإضافي للنمط إلى عدم إمكانية الوصول إلى هذا النمط الإضافي (وبالتالي جميع أنماطه) في المرة التالية التي يتم فيها فتح التطبيق. يتطلب هذا الإجراء &lt;/span&gt;&lt;span style=&quot;font-size:8pt;font-weight:600;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;إعادة تشغيل التطبيق.&lt;/span&gt;&lt;span style=&quot; سبان&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;html&gt; &lt;head&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt; &lt;style type=&quot;text/css&quot;&gt;
+p, li { مسافة بيضاء: التفاف مسبق; }
+&lt;/style&gt; &lt;/head&gt; &lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt; قم بإزالة مسار المكون الإضافي للنمط المحدد حاليا. &lt;/span&gt; &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt; ستؤدي إزالة مسار المكون الإضافي للنمط إلى عدم إمكانية الوصول إلى هذا المكون الإضافي للنمط (وبالتالي جميع أنماطه) في المرة التالية التي يتم فيها فتح التطبيق. يتطلب هذا الإجراء &lt;/span&gt; &lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt; &lt;/span&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt; لإعادة تشغيل التطبيق. &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
@@ -24354,11 +24354,11 @@ p، li { مسافة بيضاء: التفاف مسبق؛ }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Select the application current style.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>ntent=&quot;1&quot;
-p, li { white-space: pre-wrap; }
-Select the application current style
-p, li { white-space: pre-wrap; }
-Select the application current style</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt; &lt;head&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt; &lt;style type=&quot;text/css&quot;&gt;
+p, li { مسافة بيضاء: التفاف مسبق; }
+&lt;/style&gt; &lt;/head&gt; &lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt; حدد النمط الحالي للتطبيق. &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="141"/>
@@ -25962,7 +25962,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="138"/>
         <source>unsigned int</source>
-        <translation>كثافة العمليات غير الموقعة</translation>
+        <translation>الأعداد الصحيحة غير الموقعة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="143"/>
@@ -27431,7 +27431,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Welcome&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot;font-size:22pt; color:#afb7d5;&quot;&gt;مرحبًا&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt; /أتش تي أم أل&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;مرحبا&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="100"/>
@@ -27465,11 +27465,11 @@ This should only used by advanced users who understand the consequences of chang
 &lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Share your stories with us on the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forum&lt;/a&gt; and let us know about how 3D Slicer has enabled your research.&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 &lt;p&gt;We are always interested in improving 3D Slicer, to tell us about your problem or submit a bug report, open &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</source>
-        <translation>&lt;حدود الجدول = &quot;0&quot; محاذاة = &quot;مركز&quot; تباعد الخلايا = &quot;0&quot; خلية الحشو = &quot;5&quot;&gt; &lt;tr&gt;
-&lt;td style=&quot; Vertical-align:middle;&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; نمط = &quot;المحاذاة الرأسية: الأوسط؛&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
-&lt;td style=&quot; Vertical-align:middle;&quot;&gt;&lt;p&gt;شارك قصصك معنا على &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;منتدى Slicer&lt;/a&gt; وأخبرنا عن كيف ساهمت تقنية 3D Slicer في تمكين بحثك.&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;&lt;/table&gt;
-&lt;p&gt;نحن مهتمون دائمًا بتحسين 3D Slicer، لإخبارنا بمشكلتك أو إرسال تقرير بالأخطاء، افتح &lt;b&gt;تعليمات -&amp;gt; الإبلاغ عن خطأ&lt;/b&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;table border=&quot;0&quot; align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt; &lt;tr&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt; &lt;p&gt; &lt;a href=&quot;https://discourse.slicer.org&quot;&gt; &lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; style=&quot;vertical-align: middle;&quot; /&gt; &lt;/a&gt; &lt;/p&gt; &lt;/td&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt; &lt;p&gt; شارك قصصك معنا في منتدى &lt;a href=&quot;https://discourse.slicer.org&quot;&gt; Slicer &lt;/a&gt; وأخبرنا كيف مكن 3D Slicer من البحث. &lt;/p&gt; &lt;/td&gt;
+&lt;/tr&gt; &lt;/table&gt;
+&lt;p&gt; نحن مهتمون دائما بتحسين 3D Slicer ، لإخبارنا بمشكلتك أو إرسال تقرير خطأ ، افتح &lt;b&gt; مساعدة - &amp;gt; الإبلاغ عن خطأ &lt;/b&gt;. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
@@ -27587,13 +27587,13 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;Development of 3D Slicer is supported by &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; and the &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Community&lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details.&lt;/p&gt;
 &lt;p&gt;We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.&lt;/p&gt;
 &lt;p&gt;This module was developed by Jean-Christophe Fillion-Robin and Julien Finet at Kitware, Inc., and by Wendy Plesniak, Sonia Pujol, Steve Pieper and Ron Kikinis at Brigham and Women&apos;s Hospital.&lt;/p&gt;</source>
-        <translation>&lt;جدول محاذاة = &quot;مركز&quot; تباعد الخلايا = &quot;0&quot; خلية الحشو = &quot;5&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;p محاذاة = &quot;مركز&quot;&gt;
+        <translation>&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;p align=&quot;center&quot;&gt;
 &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAMIC.png&quot; width=&quot;80&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
-&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: وسط؛&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
-&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle; &quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
-&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: وسط؛&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;p&gt;يتم دعم تطوير 3D Slicer بواسطة &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;، &lt;a href=&quot;https://nac.spl. harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard. edu&quot;&gt;SPL&lt;/a&gt; و&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;مجتمع Slicer&lt;/a&gt;. راجع &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; للحصول على التفاصيل.&lt;/p&gt;
-&lt;p&gt;نود أيضًا أن نعرب عن خالص شكرنا لأعضاء مجتمع مستخدمي Slicer الذين ساعدونا في تصميم محتويات وحدة الترحيب هذه، والذين تستمر تعليقاتهم في تحسين الوظائف وسهولة الاستخدام وتجربة مستخدم Slicer.&lt;/p&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;يتم دعم تطوير بواسطة 3D Slicer &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; و &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer مجتمع&lt;/a&gt;. راجع &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;للحصول على التفاصيل.&lt;/p&gt;
+&lt;p&gt;نود أيضًا أن نعرب عن خالص شكرنا لأعضاء مجتمع مستخدمي Slicer الذين ساعدونا في تصميم محتويات وحدة الترحيب هذه، والذين تستمر تعليقاتهم في تحسين الوظائف وسهولة الاستخدام وتجربة مستخدم.&lt;/p&gt;
 &lt;p&gt;تم تطوير هذه الوحدة بواسطة جان كريستوف فيليون روبن وجوليان فينيت في شركة Kitware, Inc.، وويندي بليسنياك وسونيا بوجول وستيف بيبر ورون كيكينيس في مستشفى بريجهام والنساء.&lt;/p&gt;</translation>
     </message>
     <message>
