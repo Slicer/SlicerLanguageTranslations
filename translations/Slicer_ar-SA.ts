@@ -16847,7 +16847,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/qSlicerAnnotationsModule.h" line="42"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>شروح</translation>
     </message>
 </context>
 <context>
@@ -17433,7 +17433,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
         <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-        <translation type="unfinished">Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</translation>
+        <translation>إدارة المشاهدات والكاميرات ثلاثية الأبعاد. &lt; br &gt; يمكن استخدام قائمة العرض المسحوبة أدناه لإنشاء مناظر جديدة وتحديد العرض النشط. قم بتبديل التصميم إلى «تخطيط Tabbed 3D» من أيقونة التخطيط في شريط الأدوات للوصول إلى مناظر متعددة. يصبح العرض المختار في «تخطيط Tabbed 3D» هو العرض النشط ويحل محل العرض ثلاثي الأبعاد في جميع التخطيطات الأخرى. يمكن استخدام قائمة سحب الكاميرا أدناه لضبط الكاميرا النشطة للعرض المحدد. &lt; br &gt; تحذير: هذا تجريبي إلى حد ما في الوقت الحالي (الإئتمانات، الإدخال/ الإخراج/البيانات، إغلاق المشهد ربما يكون مكسورًا لمناظر جديدة). &lt; br &gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
@@ -17443,7 +17443,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.h" line="48"/>
         <source>Cameras</source>
-        <translation type="unfinished">Cameras</translation>
+        <translation>كاميرات</translation>
     </message>
 </context>
 <context>
@@ -17451,7 +17451,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="14"/>
         <source>Cameras</source>
-        <translation type="unfinished">Cameras</translation>
+        <translation>كاميرات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="30"/>
@@ -17461,12 +17461,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="39"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>عرض:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="67"/>
         <source>Camera:</source>
-        <translation type="unfinished">Camera:</translation>
+        <translation>الكاميرا:</translation>
     </message>
 </context>
 <context>
