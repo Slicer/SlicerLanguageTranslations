@@ -137,7 +137,7 @@ Al cerrar la aplicación se cancelarán todos los procesos de cómputo en curso.
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="73"/>
         <source>Maximum parallel running modules:</source>
-        <translation type="unfinished">Máximo de módulos en funcionamiento paralelo:</translation>
+        <translation>Máximo de módulos en funcionamiento paralelo:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="93"/>
@@ -150,7 +150,7 @@ Al cerrar la aplicación se cancelarán todos los procesos de cómputo en curso.
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="14"/>
         <source>CTK Command Line Module Explorer</source>
-        <translation type="unfinished">Explorador del módulo de línea de comandos CTK</translation>
+        <translation>Explorador del módulo de línea de comandos CTK</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="53"/>
@@ -551,7 +551,7 @@ debido a:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1371"/>
         <source>File &apos;%1&apos; can&apos;t be read.</source>
-        <translation>No se puede leer el archivo &apos;%1&apos;</translation>
+        <translation>No se puede leer el archivo ‘%1’.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1400"/>
@@ -1263,17 +1263,17 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="851"/>
         <source>Head First - Prone</source>
-        <translation type="unfinished">Cabeza primero - Decúbito prono</translation>
+        <translation>Cabeza primero - Decúbito prono</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="852"/>
         <source>Head First - Decubitus Right</source>
-        <translation type="unfinished">Cabeza primero - Decúbito derecho</translation>
+        <translation>Cabeza primero - Decúbito derecho</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="853"/>
         <source>Feet First - Decubitus Right</source>
-        <translation type="unfinished">Pies Primero - Decúbito Derecho</translation>
+        <translation>Pies Primero - Decúbito derecho</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="854"/>
@@ -1283,12 +1283,12 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="855"/>
         <source>Head First - Supine</source>
-        <translation type="unfinished">Cabeza primero - Decúbito supino</translation>
+        <translation>Cabeza primero - Decúbito supino</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="856"/>
         <source>Head First - Decubitus Left</source>
-        <translation type="unfinished">Cabeza primero - Decúbito izquierdo</translation>
+        <translation>Cabeza primero - Decúbito izquierdo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="857"/>
@@ -1298,7 +1298,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="858"/>
         <source>Feet First - Supine</source>
-        <translation type="unfinished">Pies primero - Decúbito supino</translation>
+        <translation>Pies primero - Decúbito supino</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="879"/>
@@ -1318,7 +1318,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="882"/>
         <source>Nuclear Medicine</source>
-        <translation type="unfinished">Medicina nuclear</translation>
+        <translation>Medicina nuclear</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="883"/>
@@ -1338,7 +1338,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="886"/>
         <source>Color flow Doppler</source>
-        <translation type="unfinished">Doppler de flujo en color</translation>
+        <translation>Doppler de flujo en color</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="887"/>
@@ -1383,7 +1383,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="895"/>
         <source>Radio Fluoroscopy</source>
-        <translation type="unfinished">Radiofluoroscopia</translation>
+        <translation>Radiofluoroscopía</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="896"/>
@@ -1428,7 +1428,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="904"/>
         <source>Intra-oral Radiography</source>
-        <translation type="unfinished">Radiografía intraoral</translation>
+        <translation>Radiografía intraoral</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="905"/>
@@ -1448,77 +1448,77 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="908"/>
         <source>External-camera Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografía con cámara externa</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="909"/>
         <source>Presentation state</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado de la presentación</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="910"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="911"/>
         <source>Electrocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Electrocardiograma</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="912"/>
         <source>Cardiac Electrophysiology</source>
-        <translation type="unfinished"></translation>
+        <translation>Electrofisiología cardiaca</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="913"/>
         <source>Hemodynamic Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda hemodinámica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="914"/>
         <source>SR Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento SR</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="915"/>
         <source>Intravascular Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecografía intravascular</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="916"/>
         <source>Ophthalmic Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografía oftalmológica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="917"/>
         <source>Stereometric Relationship</source>
-        <translation type="unfinished"></translation>
+        <translation>Relación estereométrica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="918"/>
         <source>Optical Coherence Tomography (non-Ophthalmic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografía de coherencia óptica (no oftalmológica)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="919"/>
         <source>Ophthalmic Refraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Refracción oftalmológica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="920"/>
         <source>Ophthalmic Visual Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo visual oftalmológico</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="921"/>
         <source>Ophthalmic Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapeo oftalmológico</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="922"/>
         <source>Key Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selección de objetos clave</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="923"/>
@@ -1528,108 +1528,108 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="924"/>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="925"/>
         <source>Ophthalmic Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografía oftalmológica</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="926"/>
         <source>Bone Densitometry (ultrasound)</source>
-        <translation type="unfinished"></translation>
+        <translation>Densitometría ósea (ecografía)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="927"/>
         <source>Bone Densitometry (X-Ray)</source>
-        <translation type="unfinished"></translation>
+        <translation>Densitometría ósea (radiografía)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="928"/>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="931"/>
         <source>Digital Subtraction Angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiografía de sustracción digital</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="932"/>
         <source>Cinefluorography</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinefluorografía</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="933"/>
         <source>Digital fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fluoroscopia digital</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="934"/>
         <source>Videofluorography</source>
-        <translation type="unfinished"></translation>
+        <translation>Videofluorografía</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="935"/>
         <source>Angioscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Angioscopia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="936"/>
         <source>Cystoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Cistoscopia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="937"/>
         <source>Echocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecocardiografía</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="938"/>
         <source>Laparoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Laparoscopía</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="939"/>
         <source>Fluorescein angiography </source>
-        <translation type="unfinished"></translation>
+        <translation>Angiografía fluoresceínica </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="940"/>
         <source>Culposcopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Culposcopía</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="941"/>
         <source>Digital microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Microscopía digital</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="942"/>
         <source>Fundoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fundoscopía</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="943"/>
         <source>Magnetic resonance angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiografía por resonancia magnética</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="944"/>
         <source>Magnetic resonance spectroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Espectroscopía de resonancia magnética</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="973"/>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="994"/>
         <source>Unknown (no DICOM dictionary loaded)</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconocido (no se ha cargado ningún diccionario DICOM)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="977"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconocido</translation>
     </message>
 </context>
 <context>
@@ -1637,7 +1637,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMListenerWidget.ui" line="14"/>
         <source>DICOM Listener</source>
-        <translation type="unfinished"></translation>
+        <translation>Escucha DICOM</translation>
     </message>
 </context>
 <context>
@@ -1651,7 +1651,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="513"/>
         <source>No description</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin descripción</translation>
     </message>
 </context>
 <context>
@@ -1659,72 +1659,72 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="14"/>
         <source>DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadatos DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="24"/>
         <source>File path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta del archivo:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="44"/>
         <source>Copy the file full path to the clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie la ruta completa del archivo en el portapapeles.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="47"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar ruta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filter displayed metadata based on content in Tag, Attribute, and Value columns.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Simple search: &lt;/span&gt;enter any text to show only those items that contains the text. Use ? and * wildcards to represent &lt;span style=&quot; font-style:italic;&quot;&gt;any &lt;/span&gt;single character or sequence of characters.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Regular expression search (for advanced users):&lt;/span&gt; Enter &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; followed by a regular expression. For example, show 3 specific tags, enter: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filtre los metadatos mostrados basándose en el contenido de las columnas Etiqueta, Atributo y Valor.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Búsqueda simple: &lt;/span&gt;introduzca cualquier texto para mostrar sólo los elementos que lo contengan. Utilice los comodines ? y * para representar &lt;span style=&quot; font-style:italic;&quot;&gt;cualquier &lt;/span&gt;carácter único o secuencia de caracteres.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Búsqueda por expresiones regulares (para usuarios avanzados):&lt;/span&gt; Introduzca&lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; seguido de una expresión regular. Por ejemplo, para mostrar 3 etiquetas específicas, introduzca: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="75"/>
         <source>Expand all</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar todo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="82"/>
         <source>Collapse all</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar todo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="89"/>
         <source>Copy to clipboard metadata of this file</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar al portapapeles los metadatos de este archivo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="92"/>
         <source>Copy metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar metadatos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="99"/>
         <source>Copy to clipboard metadata of all files in the series</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar al portapapeles los metadatos de todos los archivos de la serie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="102"/>
         <source>Copy all files metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar todos los metadatos de los archivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="116"/>
         <source>Double-click to show DICOM tag definition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga doble clic para mostrar la definición de etiqueta DICOM.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="123"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturas</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="130"/>
         <source>Show image thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar imagen en miniatura</translation>
     </message>
 </context>
 <context>
@@ -1732,27 +1732,27 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="81"/>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="82"/>
         <source>Attribute</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="83"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="84"/>
         <source>VR</source>
-        <translation type="unfinished"></translation>
+        <translation>RV</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="85"/>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud</translation>
     </message>
 </context>
 <context>
@@ -1760,72 +1760,72 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="263"/>
         <source>DB open in Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de datos abierta en consulta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="268"/>
         <source>DB not open in Query</source>
-        <translation type="unfinished"></translation>
+        <translation>La base de datos no se abre en consulta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="281"/>
         <source>Setting Transfer Syntaxes</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de las sintaxis de transferencia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="295"/>
         <source>Error initializing the network</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al iniciar la red</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="300"/>
         <source>Negotiating Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Asociación negociadora</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="308"/>
         <source>Error negotiating the association</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al negociar la asociación</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="409"/>
         <source>Failed to find acceptable presentation context</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha encontrado un contexto de presentación aceptable</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="414"/>
         <source>Found useful presentation context</source>
-        <translation type="unfinished"></translation>
+        <translation>Contexto de presentación útil</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="423"/>
         <source>Find failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Búsqueda fallida</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="429"/>
         <source>Find succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Búsqueda exitosa</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="442"/>
         <source>Processing Study: </source>
-        <translation type="unfinished"></translation>
+        <translation>Estudio de procesamiento: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="475"/>
         <source>Starting Series C-FIND for Study: </source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de la serie C-FIND para el estudio: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="500"/>
         <source>Find succeeded on Series level for Study: </source>
-        <translation type="unfinished"></translation>
+        <translation>Búsqueda exitosa a nivel de serie para el estudio: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="507"/>
         <source>Find on Series level failed for Study: </source>
-        <translation type="unfinished"></translation>
+        <translation>Encontrar el nivel de la serie fallido para el estudio: </translation>
     </message>
 </context>
 <context>
@@ -1833,7 +1833,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="20"/>
         <source>DICOM Query/Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta/Recuperación DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="26"/>
@@ -1890,22 +1890,22 @@ Detener la exportación.</translation>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="398"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="433"/>
         <source>Query Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta Recuperar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="398"/>
         <source>Retrieve failed.  Keep trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperación fallida.  ¿Seguir intentando?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="428"/>
         <source>Retrieve Process Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Proceso de recuperación finalizado</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="431"/>
         <source>Retrieve Process Canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>Proceso de recuperación cancelado</translation>
     </message>
 </context>
 <context>
@@ -1923,7 +1923,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="51"/>
         <source>Search by Person Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Búsqueda por nombre de persona</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="61"/>
@@ -1943,17 +1943,17 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="77"/>
         <source>Search in Series Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en Descripción de la serie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="87"/>
         <source>ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="90"/>
         <source>Search by Person ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Búsqueda por identificación de persona</translation>
     </message>
 </context>
 <context>
@@ -2073,7 +2073,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="20"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="59"/>
@@ -2088,7 +2088,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="111"/>
         <source>Series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Series:</translation>
     </message>
 </context>
 <context>
@@ -2283,7 +2283,7 @@ Detener la exportación.</translation>
         <location filename="Libs/DICOM/Widgets/ctkDICOMThumbnailListWidget.cpp" line="167"/>
         <source>Image %1</source>
         <extracomment>%1 is the image sequence number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Imagen %1</translation>
     </message>
 </context>
 <context>
@@ -2329,7 +2329,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="14"/>
         <source>Log messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro de mensajes</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="37"/>
@@ -2359,7 +2359,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/Widgets/ctkErrorLogWidget.cpp" line="72"/>
         <source>Select messages in the list to see details here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione los mensajes de la lista para ver los detalles aquí.</translation>
     </message>
 </context>
 <context>
@@ -2387,7 +2387,7 @@ Detener la exportación.</translation>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="64"/>
         <source>Connect</source>
         <oldsource>connect</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Conectar</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="73"/>
@@ -4599,42 +4599,42 @@ durante el registro
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="71"/>
         <source>Arial</source>
-        <translation type="unfinished"></translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="76"/>
         <source>Courier</source>
-        <translation type="unfinished"></translation>
+        <translation>Courier</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="81"/>
         <source>Times</source>
-        <translation type="unfinished"></translation>
+        <translation>Times</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="89"/>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="96"/>
         <source>bold</source>
-        <translation type="unfinished"></translation>
+        <translation>negrita</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="103"/>
         <source>italic</source>
-        <translation type="unfinished"></translation>
+        <translation>cursiva</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="110"/>
         <source>shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>sombra</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="117"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño:</translation>
     </message>
 </context>
 <context>
@@ -4642,17 +4642,17 @@ durante el registro
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="14"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="26"/>
         <source>Threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="36"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacidad:</translation>
     </message>
 </context>
 <context>
@@ -4660,7 +4660,7 @@ durante el registro
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="14"/>
         <source>Volume property</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume property</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="23"/>
@@ -4675,37 +4675,37 @@ durante el registro
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="73"/>
         <source>Gradient Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacidad del degradado</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="95"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="101"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolación:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="109"/>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Vecino más cercano</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="114"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="122"/>
         <source>Shade:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombra:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="132"/>
         <source>Material:</source>
-        <translation type="unfinished"></translation>
+        <translation>Material:</translation>
     </message>
 </context>
 <context>
@@ -4713,17 +4713,17 @@ durante el registro
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="87"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Atrás</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="89"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="90"/>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizar</translation>
     </message>
 </context>
 <context>
@@ -4731,12 +4731,12 @@ durante el registro
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="20"/>
         <source>Workflow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flujo de trabajo</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="35"/>
         <source>Step title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título de la etapa</translation>
     </message>
 </context>
 <context>
@@ -4744,13 +4744,14 @@ durante el registro
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="195"/>
         <source>Playback ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducción ...</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="196"/>
         <source>The settings are different from the record Settings.
 Do you want to restore the settings?</source>
-        <translation type="unfinished"></translation>
+        <translation>Los ajustes son diferentes a los del registro.
+¿Desea restablecer los ajustes?</translation>
     </message>
 </context>
 <context>
@@ -4758,17 +4759,17 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="14"/>
         <source>Login Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Perfiles de acceso</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="26"/>
         <source>Profiles:</source>
-        <translation type="unfinished"></translation>
+        <translation>Perfiles:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="52"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="59"/>
@@ -4778,12 +4779,12 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="99"/>
         <source>Login information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Información de acceso:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="106"/>
         <source>Profile name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del perfil:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="119"/>
@@ -4793,47 +4794,47 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="132"/>
         <source>User name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de usuario:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="145"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraseña:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="162"/>
         <source>Download Dir.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar Dir.:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="169"/>
         <source>Use as default</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar por defecto</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="169"/>
         <source>Missing XNAT server URI</source>
-        <translation type="unfinished"></translation>
+        <translation>Falta el URI del servidor XNAT</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="169"/>
         <source>Please enter XNAT server URI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, introduzca el URI del servidor XNAT.</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="178"/>
         <source>Missing user name</source>
-        <translation type="unfinished"></translation>
+        <translation>Falta el nombre de usuario</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="178"/>
         <source>Please enter user name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, introduzca el nombre de usuario.</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="209"/>
         <source>Invalid Login Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de inicio de sesión no válido</translation>
     </message>
 </context>
 <context>
@@ -4841,39 +4842,39 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ventana principal</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="23"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="90"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="195"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de sesión</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="33"/>
         <source>Creates a new resource folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear una nueva carpeta de recursos</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="36"/>
         <source>Add Resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir recurso</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="46"/>
         <source>Upload File</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar archivo</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="56"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="69"/>
         <source>Not connected</source>
-        <translation type="unfinished"></translation>
+        <translation>No conectado</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="85"/>
@@ -4883,59 +4884,60 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="94"/>
         <source>Select a xnat file, resource, scan, or scan folder to download...</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione un archivo xnat, un recurso, un escaneo o una carpeta de escaneo para descargar...</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="113"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Archivo</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="122"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salir</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="91"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="196"/>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconectado</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="102"/>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Cierre de sesión</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="103"/>
         <source>Connected: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectado: %1</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="163"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir archivo</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"/>
         <source>Session Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo límite de la sesión</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"/>
         <source>The session timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>La sesión ha terminado.</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="205"/>
         <source>Session Timeout Soon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pronto finalizará la sesión</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="206"/>
         <source>The session will time out in 1 minute.
 Do you want to renew the session?</source>
-        <translation type="unfinished"></translation>
+        <translation>La sesión terminará en 1 minuto.
+¿Desea renovar la sesión?</translation>
     </message>
 </context>
 </TS>
