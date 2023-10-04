@@ -6,37 +6,37 @@
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="17"/>
         <source>Breach warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia de incumplimiento</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="25"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de parámetros:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="35"/>
         <source>vtkMRMLBreachWarningNode</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de aviso de infracción vtkMRML</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="64"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="74"/>
         <source>Model to watch:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo a seguir:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="84"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo del modelo vtkMRML</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="102"/>
         <source>Tool tip (to RAS) transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Punta de la herramienta (a RAS) transformar: </translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="112"/>
