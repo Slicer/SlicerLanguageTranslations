@@ -1792,22 +1792,22 @@
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="14"/>
         <source>Module Template</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الوحدة</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="20"/>
         <source>Select what kind of operation to perform.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد نوع العملية التي يجب القيام بها.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="37"/>
         <source>Source Transform Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>مصدر تحويل العقد</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="46"/>
         <source>Select which transform you want to add below.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد التحويل الذي تريد إضافته أدناه.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="49"/>
@@ -1820,93 +1820,93 @@
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="452"/>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="563"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished">vtkMRMLLinearTransformNode</translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="64"/>
         <source>Remove the transform selected below.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإزالة التحويل المحدد أدناه.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="67"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="74"/>
         <source>Add the transform to the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف التحويل إلى القائمة أدناه.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="77"/>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation>+</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="97"/>
         <source>The node in which to store the result.</source>
-        <translation type="unfinished"></translation>
+        <translation>العقدة التي تخزن فيها النتيجة.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="115"/>
         <source>The changed state of the input</source>
-        <translation type="unfinished"></translation>
+        <translation>الحالة المتغيرة للمدخلات</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="133"/>
         <source>Input &apos;Forward&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال عقدة تحويل «إلى الأمام»:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="140"/>
         <source>The transform node *from* which the output is based (e.g. Source in SourceToTarget)</source>
-        <translation type="unfinished"></translation>
+        <translation>العقدة التحويلية * من * التي يقوم عليها الناتج (على سبيل المثال المصدر في المصدر إلى الهدف)</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="165"/>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="560"/>
         <source>The forward transform; what should be inverted.</source>
-        <translation type="unfinished"></translation>
+        <translation>التحويل إلى الأمام ؛ ما ينبغي عكسه.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="186"/>
         <source>This stores all parameters for transform processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا يخزن جميع المعلمات لمعالجة التحويل.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="189"/>
         <source>vtkMRMLTransformProcessorNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTransformProcessorNode</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="204"/>
         <source>Filtering Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات التصفية</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="210"/>
         <source>Stabilize:</source>
-        <translation type="unfinished"></translation>
+        <translation>استقرار:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="217"/>
         <source>Check to enable filtering. If unchecked then the input transform is copied to the output without filtering.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحقق لتمكين التصفية. إذا لم يتم تحديد ثم يتم نسخ تحويل الإدخال إلى الإخراج دون تصفية.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="227"/>
         <source>Cut-off frequency:</source>
-        <translation type="unfinished"></translation>
+        <translation>تردد القطع:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="255"/>
         <source>Smoother</source>
-        <translation type="unfinished"></translation>
+        <translation>أكثر سلاسة</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="262"/>
         <source>Faster</source>
-        <translation type="unfinished"></translation>
+        <translation>اسرع</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="296"/>
@@ -2155,7 +2155,7 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="83"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="98"/>
@@ -2465,7 +2465,7 @@
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
         <source>vtkMRMLTransformNode</source>
-        <translation type="unfinished">vtkMRMLTransformNode</translation>
+        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
