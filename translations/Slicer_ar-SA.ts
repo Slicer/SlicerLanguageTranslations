@@ -12616,42 +12616,42 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="165"/>
         <source>free-hand select points</source>
-        <translation type="unfinished">free-hand select points</translation>
+        <translation>نقاط اختيار اليد الحرة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="170"/>
         <source>move points</source>
-        <translation type="unfinished">move points</translation>
+        <translation>نقل النقاط</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="183"/>
         <source>Grid</source>
-        <translation type="unfinished">Grid</translation>
+        <translation>شبكة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="186"/>
         <source>Show grid</source>
-        <translation type="unfinished">Show grid</translation>
+        <translation>أظهر الشبكة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="194"/>
         <source>Legend</source>
-        <translation type="unfinished">Legend</translation>
+        <translation>أسطورة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="197"/>
         <source>Show legend</source>
-        <translation type="unfinished">Show legend</translation>
+        <translation>أظهر الأسطورة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="206"/>
         <source>Fit_to_window</source>
-        <translation type="unfinished">Fit_to_window</translation>
+        <translation>مناسب للنافذة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
         <source>Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</source>
-        <translation type="unfinished">Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</translation>
+        <translation>اضبط مجال رؤية عارض المخطط لمطابقة مدى محاور المخطط</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="109"/>
@@ -12661,7 +12661,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="338"/>
         <source>Save as SVG</source>
-        <translation type="unfinished">Save as SVG</translation>
+        <translation>احفظ ك SVG</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="339"/>
@@ -12683,27 +12683,27 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="31"/>
         <source>L-R Range:</source>
-        <translation type="unfinished">L-R Range:</translation>
+        <translation>نطاق اليسار واليمين:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="679"/>
         <source>P-A Range:</source>
-        <translation type="unfinished">P-A Range:</translation>
+        <translation>نطاق P-A :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1325"/>
         <source>I-S Range:</source>
-        <translation type="unfinished">I-S Range:</translation>
+        <translation>نطاق I-S:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2003"/>
         <source>Display Clipping box</source>
-        <translation type="unfinished">Display Clipping box</translation>
+        <translation>عرض صندوق قص</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2026"/>
         <source>Interactive Mode</source>
-        <translation type="unfinished">Interactive Mode</translation>
+        <translation>الوضع التفاعلي</translation>
     </message>
 </context>
 <context>
@@ -12711,7 +12711,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLRangeWidget.cxx" line="70"/>
         <source>Symmetric handles</source>
-        <translation type="unfinished">Symmetric handles</translation>
+        <translation>مقابض متماثلة</translation>
     </message>
 </context>
 <context>
@@ -12931,7 +12931,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="14"/>
         <source>qMRMLSegmentEditorWidget</source>
-        <translation type="unfinished">qMRMLSegmentEditorWidget</translation>
+        <translation>qMRMLSegmentEditorWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="22"/>
@@ -13299,7 +13299,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="14"/>
         <source>qMRMLSegmentationDisplayNodeWidget</source>
-        <translation type="unfinished">qMRMLSegmentationDisplayNodeWidget</translation>
+        <translation>qMRMLSegmentationDisplayNodeWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="48"/>
@@ -13414,7 +13414,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="14"/>
         <source>qMRMLSegmentationFileExportWidget</source>
-        <translation type="unfinished">qMRMLSegmentationFileExportWidget</translation>
+        <translation>qMRMLSegmentationFileExportWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="35"/>
@@ -13674,7 +13674,7 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="26"/>
         <source>qMRMLSegmentationRepresentationsListView</source>
-        <translation type="unfinished">qMRMLSegmentationRepresentationsListView</translation>
+        <translation>qMRMLSegmentationRepresentationsListView</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="53"/>
@@ -13845,7 +13845,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="121"/>
         <source>Opacity</source>
-        <translation type="unfinished">العتامة:</translation>
+        <translation>العتامة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="125"/>
@@ -13918,7 +13918,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="20"/>
         <source>qMRMLSegmentsTableView</source>
-        <translation type="unfinished">qMRMLSegmentsTableView</translation>
+        <translation>qMRMLSegmentsTableView</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="50"/>
@@ -14031,7 +14031,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserPlayWidget</source>
-        <translation type="unfinished">qMRMLSequenceBrowserPlayWidget</translation>
+        <translation>qMRMLSequenceBrowserPlayWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="26"/>
@@ -14084,7 +14084,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserSeekWidget</source>
-        <translation type="unfinished">qMRMLSequenceBrowserSeekWidget</translation>
+        <translation>qMRMLSequenceBrowserSeekWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="26"/>
@@ -14737,12 +14737,12 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="564"/>
         <source>Compositing</source>
-        <translation type="unfinished">Compositing</translation>
+        <translation>تركيب</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="585"/>
         <source>Slice spacing mode</source>
-        <translation type="unfinished">Slice spacing mode</translation>
+        <translation>وضع التباعد بين الشرائح</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="589"/>
@@ -14757,7 +14757,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="629"/>
         <source>Slice model mode</source>
-        <translation type="unfinished">Slice model mode</translation>
+        <translation>شريحة نموذج الوضع</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="649"/>
@@ -14782,7 +14782,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="737"/>
         <source>LabelMap</source>
-        <translation type="unfinished">LabelMap</translation>
+        <translation>خريطة التسمية</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="746"/>
@@ -14792,32 +14792,32 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="909"/>
         <source>Hide label volume outlines</source>
-        <translation type="unfinished">Hide label volume outlines</translation>
+        <translation>يوضح حجم ملصق الإخفاء</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="909"/>
         <source>Show label volume outlines</source>
-        <translation type="unfinished">Show label volume outlines</translation>
+        <translation>أظهر حجم الملصق الخطوط العريضة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="914"/>
         <source>Hide reformat widget</source>
-        <translation type="unfinished">Hide reformat widget</translation>
+        <translation>إخفاء أداة إعادة التنسيق</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="914"/>
         <source>Show reformat widget</source>
-        <translation type="unfinished">Show reformat widget</translation>
+        <translation>إظهار أداة إعادة التنسيق</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1531"/>
         <source>Orientation marker</source>
-        <translation type="unfinished">Orientation marker</translation>
+        <translation>علامة التوجيه</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1567"/>
         <source>Ruler</source>
-        <translation type="unfinished">Ruler</translation>
+        <translation>مسطرة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1579"/>
@@ -14849,7 +14849,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="33"/>
         <source>Name of the slice</source>
-        <translation type="unfinished">Name of the slice</translation>
+        <translation>اسم الشريحة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="43"/>
@@ -14859,7 +14859,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="50"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat)</source>
-        <translation>اتجاه الشريحة (محوري ، سهمي ، إكليلي ، إعادة تنسيق).</translation>
+        <translation>اتجاه الشريحة (محوري ، سهمي ، إكليلي ، إعادة تنسيق)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="54"/>
@@ -14879,7 +14879,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="69"/>
         <source>Reformat</source>
-        <translation type="unfinished">Reformat</translation>
+        <translation>إعادة تنسيق</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="77"/>
@@ -14890,7 +14890,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="84"/>
         <source>Toggle the visibility of the slice in the 3D scene</source>
-        <translation type="unfinished">Toggle the visibility of the slice in the 3D scene</translation>
+        <translation>تبديل رؤية الشريحة في المشهد ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="87"/>
@@ -14907,17 +14907,17 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="118"/>
         <source>Toggle the visibility of the reformat widget in the 3D scene</source>
-        <translation type="unfinished">Toggle the visibility of the reformat widget in the 3D scene</translation>
+        <translation>تبديل رؤية أداة إعادة تنسيق في المشهد ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="145"/>
         <source>Dimension of the slice.</source>
-        <translation type="unfinished">Dimension of the slice.</translation>
+        <translation>بعد الشريحة.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="148"/>
         <source>Dimension:</source>
-        <translation type="unfinished">Dimension:</translation>
+        <translation>البعد:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="171"/>
@@ -14927,42 +14927,42 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="174"/>
         <source>Field of view:</source>
-        <translation>مجال الرؤية</translation>
+        <translation>مجال الرؤية:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="191"/>
         <source>Layout of the lightbox (rows, columns)</source>
-        <translation type="unfinished">Layout of the lightbox (rows, columns)</translation>
+        <translation>تخطيط صندوق الإضاءة (صفوف، أعمدة)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="194"/>
         <source>Lightbox layout:</source>
-        <translation type="unfinished">Lightbox layout:</translation>
+        <translation>تخطيط العلبة الخفيفة:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="203"/>
         <source>Number of rows in the lightbox</source>
-        <translation type="unfinished">Number of rows in the lightbox</translation>
+        <translation>عدد الصفوف في العلبة الخفيفة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="216"/>
         <source>Number of columns in the lightbox</source>
-        <translation type="unfinished">Number of columns in the lightbox</translation>
+        <translation>عدد الأعمدة في العلبة الخفيفة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="231"/>
         <source>Slice spacing may be set automatically or manually by the user or context</source>
-        <translation type="unfinished">Slice spacing may be set automatically or manually by the user or context</translation>
+        <translation>يمكن تعيين التباعد بين الشرائح تلقائيًا أو يدويًا بواسطة المستخدم أو السياق</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="234"/>
         <source>Slice spacing mode:</source>
-        <translation type="unfinished">Slice spacing mode:</translation>
+        <translation>وضع التباعد بين الشرائح:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="246"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>تلقائي</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="256"/>
@@ -14972,12 +14972,12 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="265"/>
         <source>Manual spacing:</source>
-        <translation>التباعد اليدوي</translation>
+        <translation>التباعد اليدوي:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="275"/>
         <source>Manual spacing is used when slice spacing is set manually by the user or context</source>
-        <translation type="unfinished">Manual spacing is used when slice spacing is set manually by the user or context</translation>
+        <translation>يستخدم التباعد اليدوي عندما يتم تعيين التباعد بين الشرائح يدويًا بواسطة المستخدم أو السياق</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="288"/>
@@ -14987,7 +14987,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="295"/>
         <source>Navigation and linked properties are synchronized in views that has the same group index.</source>
-        <translation type="unfinished">Navigation and linked properties are synchronized in views that has the same group index.</translation>
+        <translation>تتزامن الملاحة والخصائص المرتبطة في وجهات النظر التي لها نفس مؤشر المجموعة.</translation>
     </message>
 </context>
 <context>
@@ -15000,7 +15000,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceVerticalControllerWidget.cxx" line="80"/>
         <source>Slice distance from RAS origin</source>
-        <translation type="unfinished">Slice distance from RAS origin</translation>
+        <translation>مسافة شريحة من أصل RAS</translation>
     </message>
 </context>
 <context>
@@ -15008,7 +15008,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceWidget.ui" line="14"/>
         <source>qMRMLSliceWidget</source>
-        <translation type="unfinished">qMRMLSliceWidget</translation>
+        <translation>qMRMLSliceWidget</translation>
     </message>
 </context>
 <context>
@@ -15036,7 +15036,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
         <source>Node name and type</source>
-        <translation type="unfinished">Node name and type</translation>
+        <translation>اسم العقدة ونوعها</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="136"/>
@@ -15066,7 +15066,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="987"/>
         <source>No subject hierarchy role assigned! Please report error</source>
-        <translation type="unfinished">No subject hierarchy role assigned! Please report error</translation>
+        <translation>لم يتم تعيين دور التسلسل الهرمي للموضوع! الرجاء الإبلاغ عن الخطأ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1153"/>
@@ -15076,17 +15076,17 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1163"/>
         <source>Apply transform to children</source>
-        <translation type="unfinished">Apply transform to children</translation>
+        <translation>تطبيق التحويل على الأطفال</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1167"/>
         <source>This node is not transformable</source>
-        <translation type="unfinished">This node is not transformable</translation>
+        <translation>هذه العقدة غير قابلة للتحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1356"/>
         <source>Some nodes in the branch are already transformed</source>
-        <translation type="unfinished">Some nodes in the branch are already transformed</translation>
+        <translation>بعض العقد في الفرع تحولت بالفعل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1357"/>
@@ -15214,12 +15214,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="493"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="509"/>
         <source>Failed to create Plot</source>
-        <translation type="unfinished">Failed to create Plot</translation>
+        <translation>فشل في إنشاء مخطط</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
         <source>Failed to plot data</source>
-        <translation type="unfinished">Failed to plot data</translation>
+        <translation>فشل في رسم البيانات</translation>
     </message>
 </context>
 <context>
@@ -15613,7 +15613,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="542"/>
         <source>No ruler</source>
-        <translation type="unfinished">No ruler</translation>
+        <translation>لا مسطرة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="545"/>
@@ -15658,7 +15658,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="135"/>
         <source>Stereo Modes</source>
-        <translation type="unfinished">Stereo Modes</translation>
+        <translation>أوضاع Stereo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="145"/>
@@ -15718,7 +15718,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="23"/>
         <source>qMRMLTransformDisplayNodeWidget</source>
-        <translation type="unfinished">qMRMLTransformDisplayNodeWidget</translation>
+        <translation>qMRMLTransformDisplayNodeWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="26"/>
@@ -16229,12 +16229,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="14"/>
         <source>UnitWidget</source>
-        <translation type="unfinished">UnitWidget</translation>
+        <translation>وحدة الأداة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="23"/>
         <source>Preset</source>
-        <translation type="unfinished">Preset</translation>
+        <translation>محددة مسبقا</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="53"/>
@@ -16254,17 +16254,17 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;اضبط بادئة الوحدة.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;سيتم عرض بادئة الوحدة في التطبيق قبل قيمة الوحدة. على سبيل المثال، البادئة&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; يمكن أن تستخدم قبل الوحدة.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="79"/>
         <source>Suffix</source>
-        <translation type="unfinished">Suffix</translation>
+        <translation>لاحقة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="86"/>
@@ -16273,11 +16273,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;ضبط لاحقة الوحدة. على سبيل المثال، اللاحقة للوحدة&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;متر&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;ربما ينبغي أن يكون&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="97"/>
@@ -16292,17 +16292,17 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the maximum value possible for the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;For example, a speed unit (in &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) should probably have a maximum of 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the maximum value possible for the unit.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;For example, a speed unit (in &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) should probably have a maximum of 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;حدد أقصى قيمة ممكنة للوحدة.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;على سبيل المثال، وحدة السرعة (في &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;)يجب أن يكون الحد الأقصى 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="131"/>
         <source>Precision</source>
-        <translation type="unfinished">Precision</translation>
+        <translation>الدقة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="138"/>
@@ -16312,12 +16312,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the precision (i.e. number of significant digits) of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;This is used by the GUI to determine how many digits one can input for the current unit. For example, with a &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Precision&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; of 3 the 1.0123 will be rounded to 1.112.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the precision (i.e. number of significant digits) of the unit.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;This is used by the GUI to determine how many digits one can input for the current unit. For example, with a &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Precision&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; of 3 the 1.0123 will be rounded to 1.112.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;اضبط الدقة (أي عدد الأرقام الهامة) للوحدة.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;يتم استخدام هذا بواسطة واجهة المستخدم الرسومية لتحديد عدد الأرقام التي يمكن للمرء إدخالها للوحدة الحالية. على سبيل المثال، مع&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;دقة&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; من أصل 3، سيتم تقريب 1.0123 إلى 1.112.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="159"/>
