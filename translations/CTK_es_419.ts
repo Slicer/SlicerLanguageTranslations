@@ -2002,7 +2002,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="504"/>
         <source>Finished Get</source>
-        <translation type="unfinished">Terminado Obtener</translation>
+        <translation type="unfinished">Get finalizado</translation>
     </message>
 </context>
 <context>
