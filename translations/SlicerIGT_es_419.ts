@@ -76,7 +76,7 @@
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="222"/>
         <source>Line to closest point text size:</source>
-        <translation type="unfinished">Tamaño de texto de línea a punto más cercano:</translation>
+        <translation type="unfinished">Tamaño de texto de línea al punto más cercano:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="242"/>
@@ -234,7 +234,7 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="194"/>
         <source>Specify a minimum distance before a new point is automatically collected (Auto-Collect mode only)</source>
-        <translation>Especificar una distancia mínima antes de que se recoja automáticamente un nuevo punto (sólo en el modo de recopilación automática).</translation>
+        <translation>Especificar una distancia mínima antes de que se recoja automáticamente un nuevo punto (sólo en el modo de recopilación automática)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="204"/>
@@ -439,7 +439,7 @@
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="77"/>
         <source>Place fiducials by using position component of transforms. Parent transforms are applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloque las referencias utilizando el componente de posición de las transformaciones. Se aplican las transformaciones primarias.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="80"/>
@@ -456,7 +456,7 @@
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="140"/>
         <source>Click when tracked device tip is placed at a fiducial point</source>
-        <translation>Haga clic cuando la punta del dispositivo de seguimiento se coloque en un punto de referencia.</translation>
+        <translation>Haga clic cuando la punta del dispositivo de seguimiento se coloque en un punto de referencia</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="143"/>
@@ -506,7 +506,7 @@
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="270"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Compute output transform from fiducials. Click the checkbox for automatic update.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Calcular la transformación de salida a partir de las referencias. Haga clic en la casilla de verificación para la actualización automática.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="273"/>
@@ -534,22 +534,22 @@
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="214"/>
         <source>EXPERIMENTAL. Point pairing between the two lists will be computed automatically. This feature is intended only for rigid and similarity transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>EXPERIMENTAL. El emparejamiento de puntos entre las dos listas se calculará automáticamente. Esta función sólo está prevista para las transformaciones rígidas y de similitud.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="217"/>
         <source>Update options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de actualización</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="409"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización automática</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="417"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización</translation>
     </message>
 </context>
 <context>
@@ -557,12 +557,12 @@
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerFooBarWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo Bar</translation>
     </message>
 </context>
 <context>
@@ -570,93 +570,93 @@
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="22"/>
         <source>Parameter node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de parámetros:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="29"/>
         <source>vtkMRMLLandmarkDetectionNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLLandmarkDetectionNode</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="46"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="52"/>
         <source>Stylus tip transform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de la punta del lápiz óptico:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="59"/>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="83"/>
         <source>vtkMRMLTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="71"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="95"/>
         <source>Output coordinate transform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de coordenadas de salida:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="102"/>
         <source>Use markups output coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar coordenadas de salida de marcas:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="109"/>
         <source>Output landmarks (optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de referencia de salida (opcional):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="132"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="138"/>
         <source>Acquisition Rate (Hz):</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasa de adquisición (Hz):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="145"/>
         <source>Filter window time (s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de ventana del filtro (s):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="152"/>
         <source>Detection time(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo(s) de detección:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="159"/>
         <source>Stylus shaft minimum displacement (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento mínimo del eje del lápiz óptico (mm):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="166"/>
         <source>Stylus tip maximum displacement (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento máximo de la punta del lápiz óptico (mm):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="173"/>
         <source>Minimum landmark distance (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia mínima de referencia (mm):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="270"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio</translation>
     </message>
 </context>
 <context>
@@ -664,17 +664,17 @@
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="25"/>
         <source>Paths:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rutas:</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="32"/>
         <source>vtkMRMLPathPlannerTrajectoryNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLPathPlannerTrajectoryNode</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="37"/>
@@ -982,7 +982,7 @@
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="608"/>
         <source>Minimum orientation difference in collected poses for pivot auto-calibration to be successful</source>
-        <translation>Diferencia mínima de orientación en las posturas recogidas para que la calibración automática del eje tenga éxito.</translation>
+        <translation>Diferencia mínima de orientación en las posturas recogidas para que la calibración automática del eje tenga éxito</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="631"/>
