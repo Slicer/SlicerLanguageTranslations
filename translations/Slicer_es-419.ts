@@ -8618,13 +8618,13 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="83"/>
         <source>Select a camera that will fly along this path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona una cámara que vuele a lo largo de esta trayectoria.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="95"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="106"/>
         <source>Select a fiducial list to define control points for the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione una lista de puntos de referencia para definir los puntos de control de la trayectoria.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="100"/>
@@ -8634,17 +8634,17 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="112"/>
         <source>Output Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="115"/>
         <source>Create path</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear ruta</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="117"/>
         <source>Create the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear la ruta.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="124"/>
@@ -8669,7 +8669,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="160"/>
         <source>View Angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ángulo de visión:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="163"/>
@@ -8715,12 +8715,12 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="87"/>
         <source>Failed to load file: </source>
-        <translation type="unfinished"></translation>
+        <translation>Error al cargar el archivo: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="139"/>
         <source>Syntax error in line {line}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de sintaxis en la línea {line}</translation>
     </message>
 </context>
 <context>
@@ -8743,7 +8743,9 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
         <source>
 This module provides data sets that can be used for testing 3D Slicer.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo proporciona conjuntos de datos que pueden utilizarse para probar 3D Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="94"/>
@@ -8792,63 +8794,63 @@ utilizar con fines comerciales estos datos.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="510"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Desarrollo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="631"/>
         <source>Failed to create cache folder {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido crear la carpeta de caché {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="633"/>
         <source>Cache folder {path} is not writable</source>
-        <translation type="unfinished"></translation>
+        <translation>La carpeta de caché {path} no tiene permisos de escritura</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="677"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga fallida (intento {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="716"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga fallida (intento {current} de {total}). Imposible borrar e intentar de nuevo cargar {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="720"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga fallida (intento {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="850"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargado {sizeCompleted} ({percentCompleted}% de {sizeTotal})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="866"/>
         <source>Requesting download {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitando descarga {name} desde {uri} ...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="869"/>
         <source>Download finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga finalizada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="871"/>
         <source>Download failed: {errorMessage}</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo en la descarga: {errorMessage}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="872"/>
         <source>Failed to download {uri} to {filePath}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al descargar {uri} a {filePath}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="875"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="887"/>
         <source>Verifying checksum</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificación de la suma de control</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="879"/>
