@@ -7727,12 +7727,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="71"/>
         <source>Input volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>Secuencia de volumen de entrada: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="83"/>
         <source>(Overwrite input)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sobrescribir entrada)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="86"/>
@@ -7742,7 +7742,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="87"/>
         <source>Output volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>Secuencia de volumen de salida: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="102"/>
@@ -8464,7 +8464,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="71"/>
         <source>Install Slicer Diffusion Tools (SlicerDMRI)</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar las herramientas de difusión Slicer (SlicerDMRI)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="80"/>
