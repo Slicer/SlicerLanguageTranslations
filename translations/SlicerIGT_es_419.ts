@@ -827,7 +827,7 @@
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="267"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="280"/>
         <source>Reset</source>
-        <translation>Resetear</translation>
+        <translation>Restablecer</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="306"/>
@@ -1783,12 +1783,12 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="600"/>
         <source>Reset</source>
-        <translation>Reiniciar</translation>
+        <translation>Restablecer</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="607"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -1796,22 +1796,22 @@
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="20"/>
         <source>Reslicing Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlador de reajuste</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="31"/>
         <source>Advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones avanzadas</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="40"/>
         <source>Show advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar opciones avanzadas</translation>
     </message>
 </context>
 <context>
@@ -1819,102 +1819,102 @@
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="37"/>
         <source>Watchdog node: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de vigilancia: </translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="47"/>
         <source>vtkMRMLWatchdogNode</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de vigilancia vtkMRML</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="64"/>
         <source>Observed nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodos observados</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
         <source>vtkMRMLTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de transformación vtkMRML</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de volumen vtkMRML</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="109"/>
         <source>Add the selected node to the list of watched nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir el nodo seleccionado a la lista de nodos supervisados</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="112"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="141"/>
         <source>Remove the node selected in the table from the list of watched nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar el nodo seleccionado en la tabla de la lista de nodos supervisados</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="163"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="180"/>
         <source>&amp;Visible:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Visible:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="197"/>
         <source>View:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="204"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione las vistas en las que se mostrará este nodo. Todo sin marcar muestra en todas las vistas 3D y 2D.</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="211"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacidad:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="234"/>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de fondo</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="255"/>
         <source>Text Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Color del texto:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="273"/>
         <source>Font size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de letra</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="283"/>
         <source> pt</source>
-        <translation type="unfinished"></translation>
+        <translation> pt</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="307"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Eventos</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="316"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Watch transform modified event:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ver transformación de evento modificado:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 </TS>
