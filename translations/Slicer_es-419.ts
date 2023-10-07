@@ -9637,7 +9637,11 @@ This module allows editing segmentation objects by directly drawing and using se
 Representations other than the labelmap one (which is used for editing) are automatically updated real-time,
 so for example the closed surface can be visualized as edited in the 3D view.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo permite editar objetos de segmentación dibujando y usando herramientas de segmentación directamente en los segmentos contenidos.
+Las representaciones distintas a la del mapa de etiquetas (que se utiliza para editar) se actualizan automáticamente en tiempo real,
+así, por ejemplo, la superficie cerrada se puede visualizar como editada en la vista 3D.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="29"/>
