@@ -1123,7 +1123,7 @@ Detener la exportación.</translation>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1791"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
-        <translation>Importación completada: añadidos %1 pacientes, %2 estudios, %3 series, %4 instancias.</translation>
+        <translation>Importación efectuada: añadidos %1 pacientes, %2 estudios, %3 series, %4 instancias.</translation>
     </message>
 </context>
 <context>
