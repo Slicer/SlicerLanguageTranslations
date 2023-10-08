@@ -1911,117 +1911,117 @@
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="296"/>
         <source>Parameter Node</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة المعلمة</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="303"/>
         <source>The transform node *to* which the output is based (e.g. Target in SourceToTarget)</source>
-        <translation type="unfinished"></translation>
+        <translation>العقدة التحويلية * إلى * التي يقوم عليها الناتج (على سبيل المثال الهدف في المصدر إلى الهدف)</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="334"/>
         <source>Input &apos;To&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال &apos;إلى&apos; تحويل العقدة:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="341"/>
         <source>Output Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة تحويل الإخراج:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="348"/>
         <source>Advanced Translation Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات الترجمة المتقدمة</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="364"/>
         <source>Copy X</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ X</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="374"/>
         <source>Copy Y</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ Y</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="394"/>
         <source>Copy Z</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ Z</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="417"/>
         <source>Input &apos;Anchor&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال &apos;Anchor&apos; تحويل العقدة:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="424"/>
         <source>The output will be expressed relative to this anchor</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم التعبير عن الإخراج بالنسبة إلى هذا المرساة</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="442"/>
         <source>Input &apos;From&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال&apos; من &apos; تحويل العقدة:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="449"/>
         <source>The initial state for the transform</source>
-        <translation type="unfinished"></translation>
+        <translation>الحالة الأولية للتحويل</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="470"/>
         <source>Advanced Rotation Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات الدوران المتقدمة</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="476"/>
         <source>Dependent Axes Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع المحاور التابعة</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="492"/>
         <source>Primary Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>المحور الأساسي</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="502"/>
         <source>Secondary Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>المحور الثانوي</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="509"/>
         <source>Rotation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع الدوران</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="519"/>
         <source>Input &apos;Initial&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال&apos; الأولي &apos; تحويل عقدة:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="526"/>
         <source>Processing Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع المعالجة:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="533"/>
         <source>Click to manually update, click the checkbox to enable automatic updates</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر للتحديث يدويًا، انقر فوق صندوق التحقق لتمكين التحديثات التلقائية</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="536"/>
         <source>Update</source>
-        <translation type="unfinished">تحديث</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="546"/>
         <source>Input &apos;Changed&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال &apos;تغيير&apos; تحويل العقدة:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="553"/>
         <source>Input Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل المدخلات العقدة:</translation>
     </message>
 </context>
 <context>
@@ -2030,12 +2030,12 @@
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="397"/>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="414"/>
         <source>Update</source>
-        <translation type="unfinished">تحديث</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="405"/>
         <source>Auto-update</source>
-        <translation type="unfinished">التحديث التلقائي</translation>
+        <translation>التحديث التلقائي</translation>
     </message>
 </context>
 <context>
@@ -2058,47 +2058,47 @@
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">شكل</translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="26"/>
         <source>Display</source>
-        <translation type="unfinished">عرض</translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="32"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="40"/>
         <source>Ultrasound image: </source>
-        <translation type="unfinished"></translation>
+        <translation>صورة بالموجات فوق الصوتية: </translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="47"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="70"/>
         <source>Controls</source>
-        <translation type="unfinished">ضوابط</translation>
+        <translation>ضوابط</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="84"/>
         <source>Add snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف لقطة</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="93"/>
         <source>Preserve image window and level attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>حافظ على نافذة الصورة وسمات المستوى</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="109"/>
         <source>Clear snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>لقطات واضحة</translation>
     </message>
 </context>
 <context>
@@ -2113,44 +2113,44 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">شكل</translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="22"/>
         <source>Volume reconstruction node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة إعادة بناء الحجم:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="29"/>
         <source>vtkMRMLVolumeReconstructionNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLVolumeReconstructionNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="43"/>
         <source>Volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة بناء الحجم</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="60"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="376"/>
         <source>Input sequence browser containing the images and transforms used for volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>متصفح تسلسل الإدخال الذي يحتوي على الصور والتحويلات المستخدمة لإعادة بناء الحجم</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="63"/>
         <source>Input sequence browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>متصفح تسلسل الإدخال:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="70"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="80"/>
         <source>Output reconstructed volume node</source>
-        <translation type="unfinished"></translation>
+        <translation>الناتج يعاد بناء عقدة الحجم</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="73"/>
         <source>Output volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة حجم الإخراج:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="83"/>
@@ -2161,95 +2161,95 @@
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="98"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="116"/>
         <source>Region of interest in which the volume should be reconstructed.</source>
-        <translation type="unfinished"></translation>
+        <translation>منطقة الاهتمام التي ينبغي إعادة بناء الحجم فيها.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="101"/>
         <source>ROI node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة ROI:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
         <source>vtkMRMLAnnotationROINode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLAnnotationROINode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
         <source>vtkMRMLMarkupsROINode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsROINode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="138"/>
         <source>ROI node visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية عقدة ROI</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="161"/>
         <source>Output image spacing for each dimension of the reconstructed volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>تباعد صورة المخرج لكل بعد من أبعاد الحجم المعاد بناؤه.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="164"/>
         <source>Output spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>تباعد الإخراج:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="173"/>
         <source>Output image spacing for &quot;I&quot; dimension of the reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>تباعد صورة الإخراج لبعد&quot; I &quot; لوحدة التخزين المعاد بناؤها</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="189"/>
         <source>Output image spacing for &quot;J&quot; dimension of the reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>تباعد الصورة الناتج عن البعد&quot; J &quot; لوحدة التخزين المعاد بناؤها</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="205"/>
         <source>Output image spacing for &quot;K&quot; dimension of the reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>تباعد الصورة الناتج عن البعد&quot; K &quot; لوحدة التخزين المعاد بناؤها</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="223"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="233"/>
         <source>Interpolation mode used for performing the volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع الاستيفاء المستخدم لأداء إعادة بناء الحجم</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="226"/>
         <source>Interpolation mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع الاستيفاء:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="240"/>
         <source>Optimization mode (turn off optimization only if it is not stable on your architecture).</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع التحسين (قم بإيقاف تشغيل التحسين فقط إذا لم يكن مستقرا في البنية الخاصة بك).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="243"/>
         <source>Optimization mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع التحسين:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="253"/>
         <source>Optimization mode (turn off optimization only if it is not stable on your architecture)</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع التحسين (قم بإيقاف تشغيل التحسين فقط إذا لم يكن مستقرا في البنية الخاصة بك)</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="260"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="270"/>
         <source>Method for compounding overlapping input pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>طريقة لتركيب البكسلات المدخلة المتداخلة</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="263"/>
         <source>Compounding mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>الوضع المركب:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="277"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="287"/>
         <source>Indicates if hole filling should be applied on reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>تشير إلى ما إذا كان ينبغي تطبيق حشو الثقوب على الحجم المعاد بناؤه</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="280"/>
