@@ -7728,14 +7728,14 @@ a = Transformada Afim</translation>
         <source>
 This file was originally developed by Andras Lasso
 </source>
-        <translation type="unfinished">
+        <translation>
 Esse arquivo foi originalmente desenvolvido por Andras Lasso
 </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="54"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parâmetros</translation>
+        <translation>Parâmetros</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="70"/>
@@ -8625,7 +8625,15 @@ The Frame Skip slider speeds up the animation by skipping points on the path.
 The Frame Delay slider slows down the animation by adding more time between frames.
 The View Angle provides is used to approximate the optics of an endoscopy system.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Crie um modelo de caminho como uma interpolação de spline de um conjunto de pontos fiduciais.
+Escolha a Câmera a ser modificada pelo caminho e a Lista Fiducial que define os pontos de controle.
+Clicar em &quot;Criar caminho&quot; criará um modelo de caminho e ativará o painel de navegação.
+Você pode rolar manualmente pelo caminho com o Controle deslizante de Quadros. O botão Reproduzir/Pausar alterna a passagem animada.
+O Controle deslizante de pulo de quadros acelera a animação ao pular pontos no caminho.
+O Controle deslizante de atraso de quadros reduz a velocidade da animação adicionando mais tempo entre os quadros.
+O Ângulo de Visão é usado para aproximar a parte óptica de um sistema de endoscopia.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="50"/>
@@ -8679,7 +8687,7 @@ NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="124"/>
         <source>Flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de voo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="134"/>
@@ -8689,17 +8697,17 @@ NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="142"/>
         <source>Frame skip:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pula quadro:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="152"/>
         <source>Frame delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atraso de quadro:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="160"/>
         <source>View Angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ângulo de visão:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="163"/>
@@ -8709,7 +8717,7 @@ NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="165"/>
         <source>Fly through path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voar pelo caminho.</translation>
     </message>
 </context>
 <context>
@@ -8725,7 +8733,7 @@ NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="17"/>
         <source>Import ITK-Snap label description</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar a descrição da etiqueta ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="21"/>
