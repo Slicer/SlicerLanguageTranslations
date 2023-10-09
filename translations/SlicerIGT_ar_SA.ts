@@ -2254,54 +2254,54 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="280"/>
         <source>Fill holes:</source>
-        <translation type="unfinished"></translation>
+        <translation>املأ الثقوب:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="297"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="307"/>
         <source>Number of threads used for processing the data (Choose 0 for maximum speed). The reconstruction result is slightly different if more than one thread is used because due to interpolation and rounding errors is influenced by the order the pixels are processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الخيوط المستخدمة لمعالجة البيانات (اختر 0 للسرعة القصوى). تختلف نتيجة إعادة البناء قليلاً إذا تم استخدام أكثر من خيط واحد لأن أخطاء الاستيفاء والتقريب تتأثر بالترتيب الذي تتم فيه معالجة البكسل.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="300"/>
         <source>Number of threads:</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الخيوط:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="317"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="327"/>
         <source>Only every N images from the input will be used in the reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم استخدام كل صور N فقط من المدخلات في إعادة الإعمار</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="320"/>
         <source>Skip interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطي الفاصل الزمني:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="334"/>
         <source>Live update interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>الفاصل الزمني للتحديث المباشر:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="344"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="354"/>
         <source>Input volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة حجم المدخلات:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="361"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="379"/>
         <source>vtkMRMLSequenceBrowserNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLSequenceBrowserNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="394"/>
