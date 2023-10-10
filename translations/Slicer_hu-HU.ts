@@ -11206,7 +11206,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="63"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Láthatóság:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
@@ -11733,7 +11733,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="75"/>
         <source>Visible Sides:</source>
-        <translation type="unfinished">Visible Sides:</translation>
+        <translation>Látható oldal:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="82"/>
