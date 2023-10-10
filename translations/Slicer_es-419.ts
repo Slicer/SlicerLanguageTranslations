@@ -2637,7 +2637,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="121"/>
         <source>Unique identifiers (UIDs) that allow appending frames to existing studies or series. To generate UIDs automatically, leave all of them blank.</source>
-        <translation>Identificadores únicos (UID) que permiten añadir marcos a estudios o series existentes. Para generar los UID automáticamente, déjelos todos en blanco.</translation>
+        <translation>Identificadores únicos (UID) que permiten añadir cuadros a estudios o series existentes. Para generar los UID automáticamente, déjelos todos en blanco.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="122"/>
@@ -8489,17 +8489,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="101"/>
         <source>Installs the &quot;SlicerDMRI&quot; extension from the Diffusion category.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instala la extensión &quot;SlicerDMRI&quot; de la categoría Difusión.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="117"/>
         <source>SlicerDMRI is already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerDMRI ya se instaló.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="127"/>
         <source>Restart to complete SlicerDMRI installation?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Reiniciar para completar la instalación de SlicerDMRI?</translation>
     </message>
 </context>
 <context>
@@ -9019,7 +9019,10 @@ utilizar con fines comerciales estos datos.&lt;/p&gt;
 This module captures image sequences and videos
 from dynamic contents shown in 3D and slice viewers.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo captura secuencias de imágenes y vídeos
+de contenidos dinámicos mostrados en visores de 3D y cortes.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="45"/>
@@ -9027,7 +9030,10 @@ from dynamic contents shown in 3D and slice viewers.
 This work was was funded by Cancer Care Ontario
 and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este trabajo fue financiado por Cancer Care Ontario
+y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="76"/>
@@ -9037,62 +9043,62 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="89"/>
         <source>This slice or 3D view will be updated during capture.Only this view will be captured unless &apos;Capture of all views&apos; option in output section is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo se capturará esta vista a menos que se active la opción &quot;Capturar todas las vistas&quot; en la sección de salida.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="90"/>
         <source>Main view: </source>
-        <translation type="unfinished"></translation>
+        <translation>Vista principal: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="94"/>
         <source>If checked, all views will be captured. If unchecked then only the selected view will be captured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, se capturarán todas las vistas. Si no está marcada, sólo se capturará la vista seleccionada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="95"/>
         <source>Capture all views:</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar todas las vistas:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="99"/>
         <source>Select the property that will be adjusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione la propiedad que va a ser ajustada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="100"/>
         <source>Animation mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de animación:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="103"/>
         <source>Start sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento de inicio de barrido:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="109"/>
         <source>Start slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento de inicio de barrido.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="113"/>
         <source>End sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento de fin de barrido:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="119"/>
         <source>End slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento de fin de barrido.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="123"/>
         <source>Rotation range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rango de giro:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="130"/>
         <source>View rotation range, relative to current view orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rango de rotación de la vista, relativo a la orientación actual de la vista.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="134"/>
@@ -9102,12 +9108,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="137"/>
         <source>Yaw</source>
-        <translation type="unfinished"></translation>
+        <translation>orientación/guiñada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
         <source>Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Densidad de puntos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="142"/>
@@ -9117,27 +9123,27 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="150"/>
         <source>Items defined by this sequence browser will be replayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se reproducirán los elementos definidos por este navegador de secuencias.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="154"/>
         <source>Start index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice de inicio:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="158"/>
         <source>First item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primer elemento de la secuencia a capturar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="162"/>
         <source>End index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice final:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="166"/>
         <source>Last item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Último elemento de la secuencia a capturar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="174"/>
@@ -9147,69 +9153,70 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="179"/>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione cómo se guardarán las imágenes capturadas. El modo de vídeo requiere la configuración de la ruta del ffmpeg ejecutable en la sección Avanzado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="180"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="702"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="787"/>
         <source>image series</source>
-        <translation type="unfinished"></translation>
+        <translation>serie de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="479"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="666"/>
         <source>video</source>
-        <translation type="unfinished"></translation>
+        <translation>vídeo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="480"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="782"/>
         <source>lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>imagen de la caja de luz</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
         <source>Output type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="193"/>
         <source>Number of images extracted between start and stop positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de imágenes extraídas entre las posiciones de inicio y de finalización.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="197"/>
         <source>single</source>
-        <translation type="unfinished"></translation>
+        <translation>individual</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="203"/>
         <source>Capture a single image of current state only.
 New filename is generated for each captured image (no files are overwritten).</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura una sola imagen del estado actual.
+Se genera un nuevo nombre de archivo para cada imagen capturada (no se sobrescriben archivos).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="206"/>
         <source>Number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de imágenes:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="212"/>
         <source>Output directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="218"/>
         <source>String that defines file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadena que define el nombre y el tipo de archivo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="220"/>
         <source>SlicerCapture.avi</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCapture.avi</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="223"/>
@@ -9224,32 +9231,32 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="230"/>
         <source>Output file name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del archivo de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="237"/>
         <source>Video format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato del vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="246"/>
         <source>Length of the exported video in seconds (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>Duración del vídeo exportado en segundos (sin retrocesos ni repeticiones).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="248"/>
         <source>Video length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Duración del vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="257"/>
         <source>Frame rate in frames per second.</source>
-        <translation type="unfinished"></translation>
+        <translation>Frecuencia de imagen en fotogramas por segundo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="259"/>
         <source>Video frame rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Frecuencia de imagen de vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="266"/>
@@ -9259,82 +9266,82 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="272"/>
         <source>If checked, image series will be generated playing forward and then backward.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, las series de imágenes se generarán reproduciéndose hacia adelante y luego hacia atrás.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="273"/>
         <source>Forward-backward:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adelante-atrás:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="282"/>
         <source>Number of times image series are repeated. Useful for making short videos longer for playback in software that does not support looped playback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de veces que se repiten las series de imágenes. Útil para alargar vídeos cortos para su reproducción en software que no admite la reproducción en bucle.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="283"/>
         <source>Repeat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="291"/>
         <source>Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</source>
-        <translation type="unfinished"></translation>
+        <translation>Establece la ruta al ejecutable de ffmpeg. Descarga desde: https://www.ffmpeg.org/</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="292"/>
         <source>ffmpeg executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>ejecutable ffmpeg:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="296"/>
         <source>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Set valid ffmpeg executable path! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Establezca una ruta válida para el ejecutable de ffmpeg. &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="304"/>
         <source>Additional video conversion options passed to ffmpeg. Parameters -i (input files), -y(overwrite without asking), -r (frame rate), -start_number are specified by the module and thereforeshould not be included in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones adicionales de conversión de vídeo pasadas a ffmpeg. Los parámetros -i (archivos de entrada), -y(sobrescribir sin preguntar), -r (velocidad de fotogramas), -start_number son especificados por el módulo y, por lo tanto, no deben incluirse en esta lista.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="305"/>
         <source>Video extra options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de vídeo adicionales:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="309"/>
         <source>String that defines file name, type, and numbering scheme. Default: image%05d.png.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadena que define el nombre, tipo y esquema de numeración del archivo. Por defecto: imagen%05d.png.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
         <source>image_%05d.png</source>
-        <translation type="unfinished"></translation>
+        <translation>imagen_%05d.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
         <source>Image file name pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation>Patrón de nombre de archivo de imagen:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="319"/>
         <source>Number of columns in lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de columnas en la imagen de caja de luz</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="320"/>
         <source>Lightbox image columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Columnas de imágenes Lightbox:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="326"/>
         <source>Maximum number of images to be captured (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de imágenes a capturar (sin retrocesos ni repeticiones).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="327"/>
         <source>Maximum number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de imágenes:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="332"/>
@@ -9344,57 +9351,57 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="336"/>
         <source>Select a volume node to store the captured image in the scene instead of just writing immediately to disk. Requires output &apos;Number of images&apos; to be set to 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona un nodo de volumen para almacenar la imagen capturada en la escena en lugar de escribirla inmediatamente en el disco. Requiere que la salida &apos;Número de imágenes&apos; se establezca en 1.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="338"/>
         <source>Output volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de volumen de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="342"/>
         <source>If checked, images will be captured with view controllers visible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, las imágenes se capturarán con los controladores de vista visibles.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="343"/>
         <source>View controllers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver controladores:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="347"/>
         <source>If checked, images will be captured with transparent background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, las imágenes se capturarán con fondo transparente.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="348"/>
         <source>Transparent background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fondo transparente:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="354"/>
         <source>If checked, selected watermark image will be added to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está seleccionada, la imagen de marca de agua seleccionada se añadirá a todas las imágenes exportadas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="359"/>
         <source>Add a watermark image to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Añade una imagen de marca de agua a todas las imágenes exportadas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="373"/>
         <source>Size scaling applied to the watermark image. 100% is original size</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de tamaño aplicada a la imagen de marca de agua. 100% es el tamaño original</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="387"/>
         <source>Opacity of the watermark image. 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacidad de la imagen de marca de agua. 100% es totalmente opaco.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="399"/>
         <source>Watermark image file in png format</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de imagen de marca de agua en formato png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="403"/>
@@ -9414,12 +9421,12 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="410"/>
         <source>Watermark image:</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen de marca de agua:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="418"/>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="419"/>
@@ -9429,12 +9436,12 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="421"/>
         <source>Capture slice sweep to image sequence.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Captura de cortes de barrido a secuencia de imágenes.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="426"/>
         <source>Show created output file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el archivo de salida creado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="529"/>
@@ -9445,13 +9452,13 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="545"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="730"/>
         <source>slice sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>barrido de cortes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="530"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="734"/>
         <source>slice fade</source>
-        <translation type="unfinished"></translation>
+        <translation>desvanecimiento de cortes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="532"/>
@@ -9461,7 +9468,7 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="566"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="737"/>
         <source>3D rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>rotación 3D</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="534"/>
@@ -9474,27 +9481,27 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="576"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="743"/>
         <source>sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>secuencia</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="686"/>
         <source>Video encoder not detected on your system. Download ffmpeg video encoder?</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha detectado el codificador de vídeo en su sistema. ¿Descargar el codificador de vídeo ffmpeg?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="687"/>
         <source>Download confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar la confirmación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="689"/>
         <source>ffmpeg download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en la descarga de ffmpeg</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="713"/>
         <source>View controllers are only available to be shown when capturing all views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los controladores de vistas sólo pueden mostrarse cuando se capturan todas las vistas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="726"/>
@@ -9503,93 +9510,93 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1318"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1364"/>
         <source>Write {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriba {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="728"/>
         <source>Write to volume node &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir en el nodo de volumen &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="764"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="771"/>
         <source>Copy to {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar a {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="789"/>
         <source>Done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hecho.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="793"/>
         <source>Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Error:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="825"/>
         <source>H.264</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="826"/>
         <source>H.264 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264 (de alta calidad)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="827"/>
         <source>MPEG-4</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="828"/>
         <source>MPEG-4 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4 (de alta calidad)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="829"/>
         <source>Animated GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF animado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="830"/>
         <source>Animated GIF (grayscale)</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF animado (escala de grises)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1057"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1092"/>
         <source>Capture image from view failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de imagen de vista fallida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1121"/>
         <source>Invalid vector volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de volumen vectorial no válido.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1135"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1144"/>
         <source>Unsupported image format based on file name {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de imagen no compatible basado en el nombre de archivo {filename}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1194"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1219"/>
         <source>Invalid view node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de vista no válido.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1206"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1216"/>
         <source>Selected 3D view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>The selected 3D view is not visible in the current presentation.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1227"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1257"/>
         <source>Selected slice view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>La vista de corte seleccionada no es visible en la presentación actual.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1249"/>
@@ -9597,52 +9604,52 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1342"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1371"/>
         <source>User requested cancel.</source>
-        <translation type="unfinished"></translation>
+        <translation>El usuario ha solicitado la cancelación.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1374"/>
         <source>Export to lightbox image...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportar a imagen lightbox...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1415"/>
         <source>Lighbox image saved to file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imagen Lighbox guardada en archivo: {nombre de archivo}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1418"/>
         <source>Export to video...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar a vídeo...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1424"/>
         <source>Video creation failed: ffmpeg executable path is not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo en la creación de vídeo: la ruta del ejecutable ffmpeg no está definida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1426"/>
         <source>Video creation failed: ffmpeg executable path is invalid: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en la creación del vídeo: la ruta del ejecutable ffmpeg no es válida: {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1439"/>
         <source>Start ffmpeg:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicie ffmpeg:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1445"/>
         <source>ffmpeg error output: {error}</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg salida de error: {error}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1446"/>
         <source>ffmpeg returned with error</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg devuelto con error</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1448"/>
         <source>Video export succeeded to file: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportación de vídeo con éxito al archivo: {path}</translation>
     </message>
 </context>
 <context>
@@ -9672,12 +9679,15 @@ así, por ejemplo, la superficie cerrada se puede visualizar como editada en la 
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este trabajo forma parte del proyecto SparKit, financiado por el programa ACRU de Cancer Care Ontario (CCO)
+y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="117"/>
         <source>Segment Editor is not compatible with slice viewers in light box mode.Views are being reset.</source>
-        <translation type="unfinished"></translation>
+        <translation>El editor de segmentos no es compatible con los visores de cortes en modo de caja de luz.</translation>
     </message>
 </context>
 <context>
@@ -9685,33 +9695,33 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="90"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización automática</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="91"/>
         <source>Auto-update results preview when input segments change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización automática de la vista previa de los resultados cuando cambian los segmentos de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="95"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="255"/>
         <source>Initialize</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="97"/>
         <source>Preview complete segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa de la segmentación completa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="107"/>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="110"/>
         <source>Adjust visibility of results preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar la visibilidad de la vista previa de los resultados.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="118"/>
@@ -9721,22 +9731,22 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="119"/>
         <source>Preview results in 3D.</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsualiza los resultados en 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="123"/>
         <source>inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>entradas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="125"/>
         <source>results</source>
-        <translation type="unfinished"></translation>
+        <translation>resultados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="127"/>
         <source>Display:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualización:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="129"/>
@@ -9746,7 +9756,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="131"/>
         <source>Clear preview and cancel auto-complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar vista previa y cancelar autocompletar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="133"/>
@@ -9756,17 +9766,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="135"/>
         <source>Replace segments by previewed result</source>
-        <translation type="unfinished"></translation>
+        <translation>Sustituir segmentos por el resultado previsualizado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="249"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="280"/>
         <source>Running {effectName} auto-complete...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutando {effectName} autocompletar...</translation>
     </message>
 </context>
 <context>
@@ -9774,7 +9784,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorDrawEffect.py" line="21"/>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Dibujar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorDrawEffect.py" line="45"/>
@@ -9793,7 +9803,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorFillBetweenSlicesEffect.py" line="22"/>
         <source>Fill between slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellenar entre cortes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorFillBetweenSlicesEffect.py" line="47"/>
@@ -9816,7 +9826,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="24"/>
         <source>Grow from seeds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cultivar a partir de semillas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="58"/>
@@ -9835,17 +9845,31 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentos crecientes para crear una segmentación completa&lt;br&gt;.
+        Se tienen en cuenta la ubicación, el tamaño y la forma de los segmentos iniciales y el contenido del volumen fuente.
+        Los límites finales de los segmentos se situarán donde el brillo del volumen fuente cambie bruscamente. Instrucciones:&lt;p&gt;
+        &lt;ul style=&quot;margin: 0&quot;&gt;
+        &lt;li&gt;Utilice Paint u otros ofectos para dibujar semillas en cada región que deba pertenecer a un segmento separado.
+        Pinte cada semilla con un segmento diferente. Minimum two segments are required.
+        &lt;li&gt;Clic &lt;dfn&gt;Iniciar&lt;/dfn&gt;para calcular la vista previa de la segmentación completa.
+        &lt;li&gt;Navegue por los cortes de la imagen. Si el resultado de la segmentación previsualizada no es correcto, cambie a
+        Pintura u otros efectos y añadir más semillas en la región mal clasificada. La segmentación completa se
+        automáticamente en unos segundos.
+        &lt;li&gt;Clic &lt;dfn&gt;Aplicar&lt;/dfn&gt; para actualizar la segmentación con el resultado previsualizado
+        &lt;/ul&gt;&lt;p&gt;
+        Si los segmentos se solapan, tendrá prioridad el que esté más arriba en la tabla de segmentos.
+        El efecto utiliza &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
+        &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="77"/>
         <source>Increasing this value makes the effect of seeds more localized, thereby reducing leaks, but requires seed regions to be more evenly distributed in the image. The value is specified as an additional &quot;intensity level difference&quot; per &quot;unit distance.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar este valor hace que el efecto de las semillas sea más localizado, reduciendo así las fugas, pero requiere que las regiones de semillas estén distribuidas más uniformemente en la imagen. El valor se especifica como una &quot;diferencia de nivel de intensidad&quot; adicional por &quot;unidad de distancia&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="78"/>
         <source>Seed locality:</source>
-        <translation type="unfinished"></translation>
+        <translation>Localidad de semillas:</translation>
     </message>
 </context>
 <context>
@@ -9853,52 +9877,52 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="20"/>
         <source>Hollow</source>
-        <translation type="unfinished"></translation>
+        <translation>Hueco</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="37"/>
         <source>Make the selected segment hollow by replacing the segment with a uniform-thickness shell defined by the segment boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga hueco en el segmento seleccionado sustituyendo el segmento por una envolvente de espesor uniforme definida por el límite del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="41"/>
         <source>inside surface</source>
-        <translation type="unfinished"></translation>
+        <translation>superficie interior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="42"/>
         <source>medial surface</source>
-        <translation type="unfinished"></translation>
+        <translation>superficie media</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="43"/>
         <source>outside surface</source>
-        <translation type="unfinished"></translation>
+        <translation>superficie exterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="49"/>
         <source>Use current segment as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilice el segmento actual como:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="53"/>
         <source>Thickness of the hollow shell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Espesor del casco hueco.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="60"/>
         <source>Closest achievable thickness. Constrained by the segmentation&apos;s binary labelmap representation spacing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Grosor más próximo posible. Limitado por el espaciado de representación del mapa de etiquetas binario de la segmentación.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="64"/>
         <source>Shell thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espesor del caparazón:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="69"/>
         <source>Apply hollow effect to all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplica el efecto hueco a todos los segmentos visibles en este nodo de segmentación. Esta operación puede tardar un poco.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="72"/>
@@ -9913,27 +9937,27 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="76"/>
         <source>Makes the segment hollow by replacing it with a thick shell at the segment boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hace que el segmento sea hueco sustituyéndolo por una cáscara gruesa en el límite del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="131"/>
         <source>Not feasible at current resolution.</source>
-        <translation type="unfinished"></translation>
+        <translation>No es factible con la resolución actual.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="134"/>
         <source>Actual:</source>
-        <translation type="unfinished"></translation>
+        <translation>Actual:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="139"/>
         <source>Empty segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento vacío</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="249"/>
         <source>Processing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesando {segmentName}...</translation>
     </message>
 </context>
 <context>
@@ -9941,88 +9965,89 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="21"/>
         <source>Islands</source>
-        <translation type="unfinished"></translation>
+        <translation>Islas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="40"/>
         <source>Edit islands (connected components) in a segment&lt;br&gt;. To get more information
 about each operation, hover the mouse over the option and wait for the tooltip to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar islas (componentes conectados) en un segmento&lt;br&gt;. Para obtener más información
+sobre cada operación, pase el ratón por encima de la opción y espere a que aparezca la información sobre herramientas.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="43"/>
         <source>Keep largest island</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantener la isla más grande</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="45"/>
         <source>Keep only the largest island in selected segment, remove all other islands in the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantenga sólo la isla más grande del segmento seleccionado, elimine todas las demás islas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="49"/>
         <source>Keep selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantener la isla seleccionada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="51"/>
         <source>Click on an island in a slice view to keep that island and remove all other islands in selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en una isla de una vista en corte para conservar esa isla y eliminar todas las demás islas del segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="55"/>
         <source>Remove small islands</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar islas pequeñas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="57"/>
         <source>Remove all islands from the selected segment that are smaller than the specified minimum size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina todas las islas del segmento seleccionado que sean menores que el tamaño mínimo especificado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="61"/>
         <source>Remove selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar la isla seleccionada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="63"/>
         <source>Click on an island in a slice view to remove it from selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en una isla de una vista en corte para eliminarla del segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="67"/>
         <source>Add selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir isla seleccionada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="69"/>
         <source>Click on a region in a slice view to add it to selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en una región de una vista en corte para añadirla al segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="73"/>
         <source>Split islands to segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir islas en segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="76"/>
         <source>Create a new segment for each island of selected segment. Islands smaller than minimum size will be removed. Segments will be ordered by island size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear un nuevo segmento para cada isla del segmento seleccionado. Las islas de tamaño inferior al mínimo se eliminarán. Los segmentos se ordenarán por tamaño de isla.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="92"/>
         <source>Islands consisting of less voxels than this minimum size, will be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se eliminarán las islas que tengan menos vóxeles que este tamaño mínimo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="97"/>
         <source> voxels</source>
-        <translation type="unfinished"></translation>
+        <translation> vóxeles</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="97"/>
         <source>Minimum size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño mínimo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="99"/>
@@ -10032,7 +10057,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="391"/>
         <source>Click in a slice view to select an island.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en una vista en corte para seleccionar una isla.</translation>
     </message>
 </context>
 <context>
@@ -10040,7 +10065,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="22"/>
         <source>Level tracing</source>
-        <translation type="unfinished"></translation>
+        <translation>Trazado de niveles</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="48"/>
@@ -10050,12 +10075,17 @@ about each operation, hover the mouse over the option and wait for the tooltip t
         follows the same intensity value back to the starting point within the current slice.
         &lt;li&gt;&lt;b&gt;Left-click:&lt;/b&gt; add the previewed region to the current segment.
         &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir región de intensidad uniforme al segmento seleccionado&lt;br&gt;.
+        &lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;
+        &lt;li&gt;&lt;b&gt;Mouse move:&lt;/b&gt; voxel de fondo actual se utiliza para encontrar un camino cerrado que
+        sigue el mismo valor de intensidad hasta el punto de partida dentro del corte actual.
+        &lt;li&gt;&lt;b&gt;clic izquierdo&lt;/b&gt; añade la región previsualizada al segmento actual.
+        &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="107"/>
         <source>Slice view is not aligned with segmentation axis.&lt;br&gt;To use this effect, click the &apos;Slice views orientation&apos; warning button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slice view is not aligned with segmentation axis.&lt;br&gt;Para utilizar este efecto, haga clic en el botón de advertencia &apos;Orientación de vistas de corte&apos;.</translation>
     </message>
 </context>
 <context>
@@ -10063,7 +10093,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="20"/>
         <source>Logical operators</source>
-        <translation type="unfinished"></translation>
+        <translation>Operadores lógicos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="50"/>
@@ -10080,17 +10110,29 @@ about each operation, hover the mouse over the option and wait for the tooltip t
 &lt;b&gt;Selected segment:&lt;/b&gt; segment selected in the segment list - above. &lt;b&gt;Modifier segment:&lt;/b&gt; segment chosen in
 segment list in effect options - below.
 &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar operadores lógicos o combinar segmentos&lt;br&gt;. Operaciones disponibles:&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Copiar:&lt;/b&gt; sustituye el segmento seleccionado por el segmento modificador.
+&lt;li&gt;&lt;b&gt;Añadir:&lt;/b&gt; añadir segmento modificador al segmento actual.
+&lt;li&gt;&lt;b&gt;Resta:&lt;/b&gt; reste región del segmento modificador a partir del segmento seleccionado.
+&lt;li&gt;&lt;b&gt;Intersección:&lt;/b&gt; sólo conserva las regiones del segmento seleccionado que son comunes con el segmento modificador.
+&lt;li&gt;&lt;b&gt;Invertir:&lt;/b&gt; invierte el segmento elegido.
+&lt;li&gt;&lt;b&gt;Claro:&lt;/b&gt; borra el segmento seleccionado.
+&lt;li&gt;&lt;b&gt;Rellenar:&lt;/b&gt; rellena completamente el segmento seleccionado.
+&lt;/ul&gt;&lt;p&gt;
+&lt;b&gt;Segmento seleccionado:&lt;/b&gt; segmento seleccionado en la lista de segmentos - arriba. &lt;b&gt;Modificar segmento:&lt;/b&gt; segmento elegido en
+lista de segmentos en opciones de efectos - más abajo.
+&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="53"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="54"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="55"/>
@@ -10100,7 +10142,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="56"/>
         <source>Intersect</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersección</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
@@ -10115,22 +10157,22 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="59"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellenar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="60"/>
         <source>Click &lt;dfn&gt;Show details&lt;/dfn&gt; link above for description of operations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clic &lt;dfn&gt;Mostrar detalles&lt;/dfn&gt; enlace anterior para ver la descripción de las operaciones.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="62"/>
         <source>Bypass masking</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Enmascaramiento de derivación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="63"/>
         <source>Ignore all masking options and only modify the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora todas las opciones de enmascaramiento y sólo modifica el segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="66"/>
@@ -10146,7 +10188,7 @@ segment list in effect options - below.
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="75"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="144"/>
         <source>Modifier segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento modificador:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="86"/>
