@@ -8610,7 +8610,15 @@ The Frame Skip slider speeds up the animation by skipping points on the path.
 The Frame Delay slider slows down the animation by adding more time between frames.
 The View Angle provides is used to approximate the optics of an endoscopy system.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Cree un modelo de trayectoria como una interpolación spline de un conjunto de puntos fiduciales.
+Seleccione la cámara que será modificada por la trayectoria y la lista de puntos fiduciales que definen los puntos de control.
+Al hacer clic en &quot;Crear ruta&quot; se creará un modelo de ruta y se activará el panel de desplazamiento.
+Puede desplazarse manualmente por la trayectoria con el control deslizante Fotograma. El botón Reproducir/Pausa activa la animación.
+El deslizador Omitir fotograma acelera la animación saltando puntos del recorrido.
+El deslizador Retraso de fotograma ralentiza la animación añadiendo más tiempo entre fotogramas.
+El ángulo de visión se utiliza para aproximar la óptica de un sistema de endoscopia.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="50"/>
@@ -8619,7 +8627,11 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 (See &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este trabajo cuenta con el apoyo de PAR-07-249: R01CA131718 NA-MIC Colonoscopia Virtual 
+(Ver &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
+NA-MIC, NAC, BIRN, NCIGT, y la comunidad Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="74"/>
@@ -8640,7 +8652,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="100"/>
         <source>Input Fiducials:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiduciarios de entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="112"/>
