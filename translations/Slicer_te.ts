@@ -409,12 +409,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
         <source>(optional) Output estimated transform - in case the computed transform is BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(ఐచ్ఛికం) అవుట్‌పుట్ అంచనా రూపాంతరం - కంప్యూటెడ్ ట్రాన్స్‌ఫార్మ్ BSpline అయితే. గమనిక: మీరు తప్పనిసరిగా కనీసం ఒక అవుట్‌పుట్ ఆబ్జెక్ట్‌ని సెట్ చేయాలి (రూపాంతరం మరియు/లేదా అవుట్‌పుట్ వాల్యూమ్).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(ఐచ్ఛికం) అవుట్‌పుట్ ఇమేజ్: కదిలే చిత్రం స్థిర ఇమేజ్ స్పేస్‌కు వార్ప్ చేయబడింది. గమనిక: మీరు తప్పనిసరిగా కనీసం ఒక అవుట్‌పుట్ ఆబ్జెక్ట్‌ని సెట్ చేయాలి (రూపాంతరం మరియు/లేదా అవుట్‌పుట్ వాల్యూమ్).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
