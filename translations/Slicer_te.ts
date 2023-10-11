@@ -137,7 +137,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
         <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
-        <translation>ఈ పనిని యూనివర్శిటీ ఆఫ్ అయోవా డిపార్ట్‌మెంట్ ఆఫ్ ఎలక్ట్రికల్ అండ్ కంప్యూటర్ ఇంజినీరింగ్ అభివృద్ధి చేసింది.</translation>
+        <translation type="unfinished">ఈ పనిని యూనివర్శిటీ ఆఫ్ అయోవా డిపార్ట్‌మెంట్ ఆఫ్ ఎలక్ట్రికల్ అండ్ కంప్యూటర్ ఇంజినీరింగ్ అభివృద్ధి చేసింది.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
