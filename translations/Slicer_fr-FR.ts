@@ -10824,12 +10824,12 @@ Si les segments se chevauchent, le segment situé plus haut dans le tableau des 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="383"/>
         <source>Use specified intensity range for masking and switch to Paint effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez la plage d’intensité spécifiée pour le masquage et passez à l’effet Paint.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="386"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquez</translation>
+        <translation>Appliquez</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="388"/>
