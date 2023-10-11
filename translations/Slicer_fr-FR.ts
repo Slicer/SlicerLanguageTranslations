@@ -10656,17 +10656,17 @@ Si les segments se chevauchent, le segment situé plus haut dans le tableau des 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="163"/>
         <source>set as lower value</source>
-        <translation type="unfinished"></translation>
+        <translation>définir comme valeur inférieure</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="164"/>
         <source>set as upper value</source>
-        <translation type="unfinished"></translation>
+        <translation>définir comme valeur supérieure</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="167"/>
         <source>How to set lower and upper values of the threshold range. Threshold above/below: sets the range from the computed value to maximum/minimum. Set as lower/upper value: only modifies one side of the threshold range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comment définir les valeurs inférieures et supérieures de la plage de seuil. Seuil supérieur/inférieur&#xa0;: définit la plage allant de la valeur calculée au maximum/minimum. Définir comme valeur inférieure/supérieure&#xa0;: modifie uniquement un côté de la plage de seuil.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="170"/>
