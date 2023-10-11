@@ -311,7 +311,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
         <source>Do not scale to the relative percentiles of the output scale</source>
-        <translation type="unfinished"></translation>
+        <translation>అవుట్‌పుట్ స్కేల్ యొక్క సంబంధిత పర్సంటైల్‌లకు స్కేల్ చేయవద్దు</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
