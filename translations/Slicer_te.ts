@@ -248,7 +248,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation>మాస్క్‌ని రూపొందించడానికి ఉపయోగించే ఇన్‌పుట్ ఇమేజ్‌లకు మాస్క్‌ని వర్తింపజేయవద్దు</translation>
+        <translation type="unfinished">మాస్క్‌ని రూపొందించడానికి ఉపయోగించే ఇన్‌పుట్ ఇమేజ్‌లకు మాస్క్‌ని వర్తింపజేయవద్దు</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
