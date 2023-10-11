@@ -177,12 +177,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
         <source>Input images, all images must be in the exact same physical space, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>ఇన్‌పుట్ ఇమేజ్‌లు, అన్ని చిత్రాలు ఖచ్చితంగా ఒకే భౌతిక స్థలంలో ఉండాలి, ACPC సమలేఖనం చేయబడి మరియు ల్యాండ్‌మార్క్‌లకు అనుగుణంగా ఉండాలి.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
         <source>Input images not used in generating masks, all images must be in the exact same physical space as inputVolumes, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>మాస్క్‌లను రూపొందించడంలో ఇన్‌పుట్ ఇమేజ్‌లు ఉపయోగించబడవు, అన్ని చిత్రాలు తప్పనిసరిగా ఇన్‌పుట్ వాల్యూమ్‌ల వలె ఖచ్చితమైన భౌతిక స్థలంలో ఉండాలి, ACPC సమలేఖనం చేయబడి మరియు ల్యాండ్‌మార్క్‌లకు అనుగుణంగా ఉండాలి.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
