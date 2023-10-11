@@ -22630,7 +22630,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="97"/>
         <source>This work was partially funded by NIH grants 3P41RR013218-12S1 and R01CA184354.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail a été partiellement financé par les subventions NIH 3P41RR013218-12S1 et R01CA184354.</translation>
     </message>
 </context>
 <context>
