@@ -10337,7 +10337,7 @@ liste de segments dans les options en vigueur - ci-dessous.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="242"/>
         <source>Processing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement de {segmentName}...</translation>
     </message>
 </context>
 <context>
@@ -10345,7 +10345,7 @@ liste de segments dans les options en vigueur - ci-dessous.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="16"/>
         <source>Mask volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume du masque</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="42"/>
@@ -10353,125 +10353,128 @@ liste de segments dans les options en vigueur - ci-dessous.
 The mask is applied to the source volume by default.&lt;p&gt;
 Fill inside and outside operation creates a binary labelmap volume as output, with the inside and outside fill values modifiable.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez le segment actuellement sélectionné comme masque pour masquer les régions d&apos;un volume&lt;br&gt;.
+Le masque est appliqué au volume source par défaut.&lt;p&gt;
+L&apos;opération de remplissage intérieur et extérieur crée un volume labelmap binaire en sortie, avec les valeurs de remplissage intérieures et extérieures modifiables.
+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="49"/>
         <source>Fill inside</source>
-        <translation type="unfinished">Remplir l&apos;intérieur</translation>
+        <translation>Remplir l&apos;intérieur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="53"/>
         <source>Fill outside</source>
-        <translation type="unfinished">Remplir l&apos;extérieur</translation>
+        <translation>Remplir l&apos;extérieur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="57"/>
         <source>Fill inside and outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplissez à l&apos;intérieur et à l&apos;extérieur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="58"/>
         <source>Create a labelmap volume with specified inside and outside fill values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créez un volume labelmap avec des valeurs de remplissage intérieures et extérieures spécifiées.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="67"/>
         <source>Operation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opération :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="71"/>
         <source>Choose the voxel intensity that will be used to fill the masked region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez l&apos;intensité du voxel qui sera utilisée pour remplir la région masquée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="72"/>
         <source>Fill value: </source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur de remplissage&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="76"/>
         <source>Choose the voxel intensity that will be used to fill outside the mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez l&apos;intensité du voxel qui sera utilisé pour remplir l&apos;extérieur du masque.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="77"/>
         <source>Outside fill value: </source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur de remplissage extérieure&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="81"/>
         <source>Choose the voxel intensity that will be used to fill inside the mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez l&apos;intensité du voxel qui sera utilisé pour remplir l&apos;intérieur du masque.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="82"/>
         <source> Inside fill value: </source>
-        <translation type="unfinished"></translation>
+        <translation> Valeur de remplissage intérieure&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="112"/>
         <source>Standard deviation of the Gaussian function that blurs the edge of the mask. Higher value makes the edge softer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Écart type de la fonction gaussienne qui brouille le bord du masque. Une valeur plus élevée rend le bord plus doux.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="117"/>
         <source>Soft edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bord doux&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="128"/>
         <source>(Source volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Volume source)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="130"/>
         <source>Volume to mask. Default is current source volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume à masquer. La valeur par défaut est le nœud de volume source actuel.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="139"/>
         <source>Input Volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>Volume d&apos;entrée&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="150"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="230"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="231"/>
         <source>(Create new Volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Créer un nouveau volume)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="152"/>
         <source>Masked output volume. It may be the same as the input volume for cumulative masking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de sortie masqué. Il peut être identique au volume d&apos;entrée pour le masquage cumulatif.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="161"/>
         <source>Output Volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de sortie&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="164"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquez</translation>
+        <translation>Appliquez</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="166"/>
         <source>Apply segment as volume mask. No undo operation available once applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer le segment comme masque de volume. Aucune opération d&apos;annulation disponible une fois appliquée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="234"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="235"/>
         <source>(Create new Labelmap Volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Créer un nouveau volume Labelmap)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="301"/>
         <source>Failed to apply mask to volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;application du masque au volume.</translation>
     </message>
 </context>
 <context>
@@ -10479,7 +10482,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="21"/>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Lissage</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="47"/>
@@ -10493,112 +10496,121 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
 &lt;li&gt;&lt;b&gt;Joint smoothing:&lt;/b&gt; smoothes multiple segments at once, preserving watertight interface between them. Masking settings are bypassed.
 If segments overlap, segment higher in the segments table will have priority. &lt;b&gt;Applied to all visible segments.&lt;/b&gt;
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendre les limites des segments plus lisses&lt;br&gt; en supprimant les extrusions et en remplissant les petits trous. L&apos;effet peut être soit appliqué localement
+(en peignant dans les visionneuses) ou sur l&apos;ensemble du segment (en cliquant sur le bouton Appliquer). Méthodes disponibles&#xa0;:&lt;p&gt;
+&lt;ul style=&quot;marge&#xa0;: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Médiane&#xa0;:&lt;/b&gt; supprime les petits détails tout en conservant les contours lisses pratiquement inchangés. Appliqué au segment sélectionné uniquement.
+&lt;li&gt;&lt;b&gt;Ouverture&#xa0;:&lt;/b&gt; supprime les extrusions plus petites que la taille du noyau spécifiée. Appliqué au segment sélectionné uniquement.
+&lt;li&gt;&lt;b&gt;Fermeture&lt;/b&gt;&#xa0;: remplit les angles vifs et les trous plus petits que la taille spécifiée du noyau. Appliqué au segment sélectionné uniquement.
+&lt;li&gt;&lt;b&gt;Gaussien&#xa0;:&lt;/b&gt; lisse tous les contours, tend à rétrécir le segment. Appliqué au segment sélectionné uniquement.
+&lt;li&gt;&lt;b&gt;Lissage des articulations&lt;/b&gt;&#xa0;: lisse plusieurs segments à la fois, préservant ainsi l&apos;étanchéité de l&apos;interface entre eux. Les paramètres de masquage sont contournés.
+Si les segments se chevauchent, le segment situé plus haut dans le tableau des segments aura la priorité. &lt;b&gt;Appliqué à tous les segments visibles.&lt;/b&gt;
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="50"/>
         <source>Median</source>
-        <translation type="unfinished">Médiane</translation>
+        <translation>Médiane</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="51"/>
         <source>Opening (remove extrusions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouverture (supprimer les extrusions)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="52"/>
         <source>Closing (fill holes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fermeture (remplir les trous)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="53"/>
         <source>Gaussian</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaussien</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="54"/>
         <source>Joint smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Lissage des articulations</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="55"/>
         <source>Smoothing method:</source>
-        <translation type="unfinished"></translation>
+        <translation>Méthode de lissage&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="60"/>
         <source>Diameter of the neighborhood that will be considered around each voxel. Higher value makes smoothing stronger (more details are suppressed).</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamètre du voisinage qui sera considéré autour de chaque voxel. Une valeur plus élevée rend le lissage plus fort (plus de détails sont supprimés).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="67"/>
         <source>Diameter of the neighborhood in pixel. Computed from the segment&apos;s spacing and the specified kernel size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamètre du quartier en pixel. Calculé à partir de l&apos;espacement du segment et de la taille du noyau spécifiée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="72"/>
         <source>Kernel size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille du noyau&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="77"/>
         <source>Standard deviation of the Gaussian smoothing filter coefficients. Higher value makes smoothing stronger (more details are suppressed).</source>
-        <translation type="unfinished"></translation>
+        <translation>Écart type des coefficients du filtre de lissage gaussien. Une valeur plus élevée rend le lissage plus fort (plus de détails sont supprimés).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="81"/>
         <source>Standard deviation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Écart-type :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="84"/>
         <source>Higher value means stronger smoothing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une valeur plus élevée signifie un lissage plus fort.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="90"/>
         <source>Smoothing factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Facteur de lissage&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="94"/>
         <source>Apply smoothing effect to all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquez un effet de lissage à tous les segments visibles dans ce nœud de segmentation. Cette opération peut prendre un certain temps.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="96"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished">Appliquer aux segments visibles :</translation>
+        <translation>Appliquer aux segments visibles :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="99"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquez</translation>
+        <translation>Appliquez</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="101"/>
         <source>Apply smoothing to selected segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer le lissage au segment sélectionné</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="114"/>
         <source>Smoothing brush options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options de pinceau lissant</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="232"/>
         <source>Smoothing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lissage de {segmentName}...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="373"/>
         <source>Joint smoothing ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lissage des articulations...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="480"/>
         <source>Smoothing brush is not available for &apos;joint smoothing&apos; method.</source>
-        <translation type="unfinished"></translation>
+        <translation>La brosse lissante n&apos;est pas disponible pour la méthode de « lissage des joints ».</translation>
     </message>
 </context>
 <context>
@@ -10606,7 +10618,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="28"/>
         <source>Threshold</source>
-        <translation type="unfinished">Seuil</translation>
+        <translation>Seuil</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="84"/>
