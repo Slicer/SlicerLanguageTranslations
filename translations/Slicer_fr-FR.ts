@@ -16083,7 +16083,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1603"/>
         <source>Slab thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur de la dalle</translation>
     </message>
     <message>
         <source>Slab Reconstruction</source>
