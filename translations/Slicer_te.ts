@@ -218,12 +218,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
         <source>OutputDirectory</source>
-        <translation>అవుట్‌పుట్ డైరెక్టరీ</translation>
+        <translation type="unfinished">అవుట్‌పుట్ డైరెక్టరీ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
         <source>The brain volume mask generated from the MUSH image</source>
-        <translation>MUSH చిత్రం నుండి ఉత్పత్తి చేయబడిన మెదడు వాల్యూమ్ మాస్క్</translation>
+        <translation type="unfinished">MUSH చిత్రం నుండి ఉత్పత్తి చేయబడిన మెదడు వాల్యూమ్ మాస్క్</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="26"/>
