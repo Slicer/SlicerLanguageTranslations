@@ -152,7 +152,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
         <source>Landmarks File</source>
-        <translation type="unfinished"></translation>
+        <translation>ల్యాండ్‌మార్క్‌ల ఫైల్</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
