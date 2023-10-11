@@ -23861,12 +23861,12 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1163"/>
         <source>Scissors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciseaux</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
         <source>Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Coupez l&apos;intégralité du segment à partir du point de vue actuel&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin : 0&quot;&gt;&lt;li&gt;&lt;b&gt;Glisser-déposer avec le bouton gauche :&lt;/b&gt; balayez un contour. &lt;li&gt;&lt;b&gt;Échap :&lt;/b&gt; annuler.&lt;/ul&gt;&lt;p&gt;La modification est disponible à la fois dans les vues de coupe et 3D. Dans la vue tranche, la découpe sera appliquée à toutes les tranches.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1203"/>
@@ -24542,7 +24542,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="110"/>
         <source>Default overwrite mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode d&apos;écrasement par défaut&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="93"/>
@@ -24577,17 +24577,17 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="108"/>
         <source>Overwrite all</source>
-        <translation type="unfinished">Tout écraser</translation>
+        <translation>Tout écraser</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="109"/>
         <source>Overwrite visible</source>
-        <translation type="unfinished">Écraser visible</translation>
+        <translation>Écraser visible</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="110"/>
         <source>Allow overlap</source>
-        <translation type="unfinished">Autoriser chevauchement</translation>
+        <translation>Autoriser chevauchement</translation>
     </message>
 </context>
 <context>
@@ -27114,12 +27114,12 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="239"/>
         <source>Thick slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstruction de dalles épaisses</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="241"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez la reconstruction de dalles épaisses (TSR). TSR est utilisé pour fusionner des tranches contiguës dans une certaine plage.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="250"/>
