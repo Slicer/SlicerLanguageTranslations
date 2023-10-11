@@ -238,7 +238,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
         <source>Modify the program to only generate a mask</source>
-        <translation type="unfinished"></translation>
+        <translation>మాస్క్‌ను మాత్రమే రూపొందించడానికి ప్రోగ్రామ్‌ను సవరించండి</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
