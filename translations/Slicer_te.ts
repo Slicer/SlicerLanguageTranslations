@@ -203,7 +203,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="21"/>
         <source>Output Files</source>
-        <translation type="unfinished"></translation>
+        <translation>అవుట్‌పుట్ ఫైల్స్</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
