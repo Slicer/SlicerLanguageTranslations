@@ -275,7 +275,7 @@
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="37"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="42"/>
         <source>Upper Output Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>ఎగువ అవుట్‌పుట్ తీవ్రత</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="36"/>
