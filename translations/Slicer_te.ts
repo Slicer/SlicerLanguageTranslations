@@ -127,7 +127,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>T1/T2 ఇమేజ్ (BRAINS) నుండి బ్రెయిన్ డిఫేస్</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
