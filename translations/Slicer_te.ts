@@ -142,7 +142,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
         <source>Input Images</source>
-        <translation type="unfinished"></translation>
+        <translation>ఇన్‌పుట్ చిత్రాలు</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
