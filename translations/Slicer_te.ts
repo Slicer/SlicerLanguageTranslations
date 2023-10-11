@@ -253,7 +253,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
         <source>Output Image Intensity Normalization</source>
-        <translation type="unfinished">అవుట్‌పుట్ ఇమేజ్ ఇంటెన్సిటీ సాధారణీకరణ</translation>
+        <translation>అవుట్‌పుట్ ఇమేజ్ ఇంటెన్సిటీ సాధారణీకరణ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
