@@ -364,12 +364,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
         <source>Input fixed image (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>స్థిర చిత్రాన్ని ఇన్‌పుట్ చేయండి (కదిలే చిత్రం ఈ ఇమేజ్ స్పేస్‌గా మార్చబడుతుంది).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
         <source>Input moving image (this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>ఇన్‌పుట్ మూవింగ్ ఇమేజ్ (ఈ ఇమేజ్ ఫిక్స్‌డ్ ఇమేజ్ స్పేస్‌గా మార్చబడుతుంది).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
