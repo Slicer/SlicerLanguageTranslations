@@ -132,7 +132,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation>ఈ ప్రోగ్రామ్: 1) చిత్రాల సమితి నుండి చిత్రాలను పాడు చేస్తుంది. ఇన్‌పుట్‌లు తప్పనిసరిగా ACPC సమలేఖనం చేయబడి, AC, PC, LE, RE అందించబడి ఉండాలి.</translation>
+        <translation type="unfinished">ఈ ప్రోగ్రామ్: 1) చిత్రాల సమితి నుండి చిత్రాలను పాడు చేస్తుంది. ఇన్‌పుట్‌లు తప్పనిసరిగా ACPC సమలేఖనం చేయబడి, AC, PC, LE, RE అందించబడి ఉండాలి.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
