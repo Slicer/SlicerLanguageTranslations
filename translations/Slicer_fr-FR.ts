@@ -3893,7 +3893,7 @@ Le MCDE ne présente pas les propriétés d&apos;amélioration des bords de la d
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="26"/>
         <source>Affine</source>
-        <translation type="unfinished">Affiner</translation>
+        <translation>Affiner</translation>
     </message>
 </context>
 <context>
@@ -9715,88 +9715,88 @@ et le Consortium ontarien pour les interventions adaptatives en radio-oncologie 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="90"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour automatique</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="91"/>
         <source>Auto-update results preview when input segments change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aperçu des résultats de mise à jour automatique lorsque les segments d&apos;entrée changent.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="95"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="255"/>
         <source>Initialize</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialiser</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="97"/>
         <source>Preview complete segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aperçu de la segmentation complète</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="107"/>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aperçu :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="110"/>
         <source>Adjust visibility of results preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustez la visibilité de l’aperçu des résultats.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="118"/>
         <source>Show 3D</source>
-        <translation type="unfinished">Affichage 3D</translation>
+        <translation>Affichage 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="119"/>
         <source>Preview results in 3D.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prévisualisez les résultats en 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="123"/>
         <source>inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>contributions</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="125"/>
         <source>results</source>
-        <translation type="unfinished"></translation>
+        <translation>résultats</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="127"/>
         <source>Display:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="129"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="131"/>
         <source>Clear preview and cancel auto-complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer l&apos;aperçu et annuler la saisie semi-automatique</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="133"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquez</translation>
+        <translation>Appliquez</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="135"/>
         <source>Replace segments by previewed result</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplacer les segments par le résultat prévisualisé</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="249"/>
         <source>Update</source>
-        <translation type="unfinished">Mise à jour</translation>
+        <translation>Mise à jour</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="280"/>
         <source>Running {effectName} auto-complete...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécution de la saisie semi-automatique de {effectName}...</translation>
     </message>
 </context>
 <context>
@@ -9804,7 +9804,7 @@ et le Consortium ontarien pour les interventions adaptatives en radio-oncologie 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorDrawEffect.py" line="21"/>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Dessiner</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorDrawEffect.py" line="45"/>
@@ -9815,7 +9815,13 @@ et le Consortium ontarien pour les interventions adaptatives en radio-oncologie 
 &lt;li&gt;&lt;b&gt;x:&lt;/b&gt; delete last point.
 &lt;li&gt;&lt;b&gt;Double-left-click&lt;/b&gt; or &lt;b&gt;right-click&lt;/b&gt; or &lt;b&gt;a&lt;/b&gt; or &lt;b&gt;enter&lt;/b&gt;: apply outline.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Dessinez le contour du segment dans les visionneuses de tranches&lt;br&gt;.
+&lt;p&gt;&lt;ul style=&quot;marge&#xa0;: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Clic gauche&#xa0;:&lt;/b&gt; ajouter un point.
+&lt;li&gt;&lt;b&gt;Glisser-déposer avec le bouton gauche&lt;/b&gt;&#xa0;: ajoutez plusieurs points.
+&lt;li&gt;&lt;b&gt;x&#xa0;:&lt;/b&gt; supprime le dernier point.
+&lt;li&gt;&lt;b&gt;Double-clic gauche&lt;/b&gt; ou &lt;b&gt;clic droit&lt;/b&gt; ou &lt;b&gt;a&lt;/b&gt; ou &lt;b&gt;entrée&lt;/b&gt;&#xa0;: appliquer le contour.
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -9823,7 +9829,7 @@ et le Consortium ontarien pour les interventions adaptatives en radio-oncologie 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorFillBetweenSlicesEffect.py" line="22"/>
         <source>Fill between slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplir entre les coupes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorFillBetweenSlicesEffect.py" line="47"/>
@@ -9838,7 +9844,17 @@ do not use sphere brush with Paint effect and always leave at least one empty sl
 Masking settings are ignored. If segments overlap, segment higher in the segments table will have priority.
 The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;morphological contour interpolation method&lt;/a&gt;.
 &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpoler la segmentation entre les tranches&lt;br&gt;. Instructions :
+&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;Créez une segmentation complète sur les tranches sélectionnées à l&apos;aide de n&apos;importe quel effet d&apos;éditeur.
+La segmentation ne sera étendue que si une tranche est segmentée mais qu&apos;aucun des voisins directs n&apos;est segmenté.
+n&apos;utilisez pas de pinceau sphérique avec effet Paint et laissez toujours au moins une tranche vide entre les tranches segmentées.
+&lt;li&gt;Tous les segments visibles seront interpolés, pas seulement le segment sélectionné.
+&lt;li&gt;La segmentation complète sera créée en interpolant des segmentations en tranches vides.
+&lt;/ul&gt;&lt;p&gt;
+Les paramètres de masquage sont ignorés. Si les segments se chevauchent, le segment situé plus haut dans le tableau des segments aura la priorité.
+L&apos;effet utilise la &lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;méthode d&apos;interpolation de contour morphologique&lt;/a&gt;.
+&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -9846,7 +9862,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="24"/>
         <source>Grow from seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Cultiver à partir de graines</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="58"/>
@@ -9865,17 +9881,31 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Des segments croissants pour créer une segmentation complète&lt;br&gt;.
+        L&apos;emplacement, la taille et la forme des segments initiaux ainsi que le contenu du volume source sont pris en compte.
+        Les limites finales des segments seront placées là où la luminosité du volume source change brusquement. Instructions&#xa0;:&lt;p&gt;
+        &lt;ul style=&quot;marge&#xa0;: 0&quot;&gt;
+        &lt;li&gt;Utilisez Paint ou d&apos;autres effets pour dessiner des valeurs initiales dans chaque région qui doivent appartenir à un segment distinct.
+        Peignez chaque graine avec un segment différent. Au moins deux segments sont requis.
+        &lt;li&gt;Cliquez sur &lt;dfn&gt;Initialiser&lt;/dfn&gt; pour calculer l&apos;aperçu de la segmentation complète.
+        &lt;li&gt;Parcourez les tranches d&apos;image. Si le résultat de la segmentation prévisualisé n&apos;est pas correct, passez à
+        Peignez ou autres effets et ajoutez plus de graines dans la région mal classée. La segmentation complète sera
+        mis à jour automatiquement en quelques secondes
+        &lt;li&gt;Cliquez sur &lt;dfn&gt;Appliquer&lt;/dfn&gt; pour mettre à jour la segmentation avec le résultat prévisualisé.
+        &lt;/ul&gt;&lt;p&gt;
+        Si les segments se chevauchent, le segment situé plus haut dans le tableau des segments aura la priorité.
+        L&apos;effet utilise la &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;méthode de croissance rapide&lt;/a&gt;.
+        &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="77"/>
         <source>Increasing this value makes the effect of seeds more localized, thereby reducing leaks, but requires seed regions to be more evenly distributed in the image. The value is specified as an additional &quot;intensity level difference&quot; per &quot;unit distance.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;augmentation de cette valeur rend l&apos;effet des graines plus localisé, réduisant ainsi les fuites, mais nécessite que les régions des graines soient réparties plus uniformément dans l&apos;image. La valeur est spécifiée sous la forme d&apos;une «&#xa0;différence de niveau d&apos;intensité&#xa0;» supplémentaire par «&#xa0;unité de distance&#xa0;».</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="78"/>
         <source>Seed locality:</source>
-        <translation type="unfinished"></translation>
+        <translation>Localité des graines&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -9883,87 +9913,87 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="20"/>
         <source>Hollow</source>
-        <translation type="unfinished"></translation>
+        <translation>Creux</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="37"/>
         <source>Make the selected segment hollow by replacing the segment with a uniform-thickness shell defined by the segment boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendez le segment sélectionné creux en remplaçant le segment par une coque d&apos;épaisseur uniforme définie par la limite du segment.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="41"/>
         <source>inside surface</source>
-        <translation type="unfinished"></translation>
+        <translation>surface intérieure</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="42"/>
         <source>medial surface</source>
-        <translation type="unfinished"></translation>
+        <translation>surface médiale</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="43"/>
         <source>outside surface</source>
-        <translation type="unfinished"></translation>
+        <translation>surface extérieure</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="49"/>
         <source>Use current segment as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser le segment actuel comme&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="53"/>
         <source>Thickness of the hollow shell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur de la coque creuse.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="60"/>
         <source>Closest achievable thickness. Constrained by the segmentation&apos;s binary labelmap representation spacing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur la plus proche possible. Contraint par l&apos;espacement de la représentation binaire des étiquettes de la segmentation.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="64"/>
         <source>Shell thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur de la coque :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="69"/>
         <source>Apply hollow effect to all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquez un effet creux à tous les segments visibles dans ce nœud de segmentation. Cette opération peut prendre un certain temps.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="72"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished">Appliquer aux segments visibles :</translation>
+        <translation>Appliquer aux segments visibles :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="74"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquez</translation>
+        <translation>Appliquez</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="76"/>
         <source>Makes the segment hollow by replacing it with a thick shell at the segment boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rend le segment creux en le remplaçant par une coque épaisse à la limite du segment.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="131"/>
         <source>Not feasible at current resolution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible à la résolution actuelle.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="134"/>
         <source>Actual:</source>
-        <translation type="unfinished"></translation>
+        <translation>Réelle :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="139"/>
         <source>Empty segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment vide</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="249"/>
         <source>Processing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement de {segmentName}...</translation>
     </message>
 </context>
 <context>
@@ -9971,98 +10001,99 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="21"/>
         <source>Islands</source>
-        <translation type="unfinished"></translation>
+        <translation>îles</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="40"/>
         <source>Edit islands (connected components) in a segment&lt;br&gt;. To get more information
 about each operation, hover the mouse over the option and wait for the tooltip to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifiez les îlots (composants connectés) dans un segment&lt;br&gt;. Pour obtenir plus d&apos;informations
+à propos de chaque opération, passez la souris sur l&apos;option et attendez que l&apos;info-bulle apparaisse.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="43"/>
         <source>Keep largest island</source>
-        <translation type="unfinished"></translation>
+        <translation>Conserver la plus grande île</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="45"/>
         <source>Keep only the largest island in selected segment, remove all other islands in the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conservez uniquement la plus grande île du segment sélectionné, supprimez toutes les autres îles du segment.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="49"/>
         <source>Keep selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Conserver l&apos;île sélectionnée</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="51"/>
         <source>Click on an island in a slice view to keep that island and remove all other islands in selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur une île dans une vue en coupe pour conserver cette île et supprimer toutes les autres îles du segment sélectionné.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="55"/>
         <source>Remove small islands</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les petites îles</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="57"/>
         <source>Remove all islands from the selected segment that are smaller than the specified minimum size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimez toutes les îles du segment sélectionné qui sont plus petites que la taille minimale spécifiée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="61"/>
         <source>Remove selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer l&apos;île sélectionnée</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="63"/>
         <source>Click on an island in a slice view to remove it from selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur un îlot dans une vue en coupe pour le supprimer du segment sélectionné.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="67"/>
         <source>Add selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter l&apos;île sélectionnée</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="69"/>
         <source>Click on a region in a slice view to add it to selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur une région dans une vue en coupe pour l&apos;ajouter au segment sélectionné.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="73"/>
         <source>Split islands to segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Diviser les îles en segments</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="76"/>
         <source>Create a new segment for each island of selected segment. Islands smaller than minimum size will be removed. Segments will be ordered by island size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créez un nouveau segment pour chaque îlot du segment sélectionné. Les îles plus petites que la taille minimale seront supprimées. Les segments seront classés par taille d’îlot.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="92"/>
         <source>Islands consisting of less voxels than this minimum size, will be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créez un nouveau segment pour chaque îlot du segment sélectionné. Les îles plus petites que la taille minimale seront supprimées. Les segments seront classés par taille d’îlot.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="97"/>
         <source> voxels</source>
-        <translation type="unfinished"></translation>
+        <translation> .voxels</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="97"/>
         <source>Minimum size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille minimale&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="99"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquez</translation>
+        <translation>Appliquez</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="391"/>
         <source>Click in a slice view to select an island.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez dans une vue en coupe pour sélectionner une île.</translation>
     </message>
 </context>
 <context>
@@ -10070,7 +10101,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="22"/>
         <source>Level tracing</source>
-        <translation type="unfinished"></translation>
+        <translation>Traçage de niveau</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="48"/>
@@ -10080,12 +10111,17 @@ about each operation, hover the mouse over the option and wait for the tooltip t
         follows the same intensity value back to the starting point within the current slice.
         &lt;li&gt;&lt;b&gt;Left-click:&lt;/b&gt; add the previewed region to the current segment.
         &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajoutez une région d&apos;intensité uniforme au segment sélectionné&lt;br&gt;.
+        &lt;p&gt;&lt;ul style=&quot;marge&#xa0;: 0&quot;&gt;
+        &lt;li&gt;&lt;b&gt;Déplacement de la souris&#xa0;:&lt;/b&gt; le voxel d&apos;arrière-plan actuel est utilisé pour trouver un chemin fermé qui
+        suit la même valeur d’intensité jusqu’au point de départ dans la tranche actuelle.
+        &lt;li&gt;&lt;b&gt;Clic gauche&#xa0;:&lt;/b&gt; ajoute la région prévisualisée au segment actuel.
+        &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="107"/>
         <source>Slice view is not aligned with segmentation axis.&lt;br&gt;To use this effect, click the &apos;Slice views orientation&apos; warning button.</source>
-        <translation type="unfinished"></translation>
+        <translation>La vue en tranches n&apos;est pas alignée sur l&apos;axe de segmentation.&lt;br&gt;Pour utiliser cet effet, cliquez sur le bouton d&apos;avertissement &quot;Orientation des vues en tranches&quot;.</translation>
     </message>
 </context>
 <context>
@@ -10093,7 +10129,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="20"/>
         <source>Logical operators</source>
-        <translation type="unfinished"></translation>
+        <translation>Opérateurs logiques</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="50"/>
@@ -10110,103 +10146,115 @@ about each operation, hover the mouse over the option and wait for the tooltip t
 &lt;b&gt;Selected segment:&lt;/b&gt; segment selected in the segment list - above. &lt;b&gt;Modifier segment:&lt;/b&gt; segment chosen in
 segment list in effect options - below.
 &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquez des opérateurs logiques ou combinez des segments&lt;br&gt;. Opérations disponibles&#xa0;:&lt;p&gt;
+&lt;ul style=&quot;marge&#xa0;: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Copier&#xa0;:&lt;/b&gt; remplace le segment sélectionné par le segment modificateur.
+&lt;li&gt;&lt;b&gt;Ajouter&lt;/b&gt;&#xa0;: ajoute un segment de modificateur au segment actuel.
+&lt;li&gt;&lt;b&gt;Soustraire&lt;/b&gt;&#xa0;: soustraire la région du segment modificateur du segment sélectionné.
+&lt;li&gt;&lt;b&gt;Intersection&#xa0;:&lt;/b&gt; conserve uniquement les régions du segment sélectionné qui sont communes avec le segment modificateur.
+&lt;li&gt;&lt;b&gt;Inverser&#xa0;:&lt;/b&gt; inverse le segment sélectionné.
+&lt;li&gt;&lt;b&gt;Effacer&lt;/b&gt;&#xa0;: efface le segment sélectionné.
+&lt;li&gt;&lt;b&gt;Remplir&lt;/b&gt;&#xa0;: remplit complètement le segment sélectionné.
+&lt;/ul&gt;&lt;p&gt;
+&lt;b&gt;Segment sélectionné&#xa0;:&lt;/b&gt; segment sélectionné dans la liste de segments ci-dessus. &lt;b&gt;Segment modificateur&#xa0;:&lt;/b&gt; segment choisi dans
+liste de segments dans les options en vigueur - ci-dessous.
+&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="53"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="54"/>
         <source>Add</source>
-        <translation type="unfinished">Ajouter</translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="55"/>
         <source>Subtract</source>
-        <translation type="unfinished">Soustraire</translation>
+        <translation>Soustraire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="56"/>
         <source>Intersect</source>
-        <translation type="unfinished"></translation>
+        <translation>croiser</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
         <source>Invert</source>
-        <translation type="unfinished">Inverser</translation>
+        <translation>Inverser</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="58"/>
         <source>Clear</source>
-        <translation type="unfinished">Vider</translation>
+        <translation>Vider</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="59"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="60"/>
         <source>Click &lt;dfn&gt;Show details&lt;/dfn&gt; link above for description of operations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur le lien &lt;dfn&gt;Afficher les détails&lt;/dfn&gt; ci-dessus pour obtenir une description des opérations.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="62"/>
         <source>Bypass masking</source>
-        <translation type="unfinished"></translation>
+        <translation>Contourner le masquage</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="63"/>
         <source>Ignore all masking options and only modify the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorez toutes les options de masquage et modifiez uniquement le segment sélectionné.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="66"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquez</translation>
+        <translation>Appliquez</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="73"/>
         <source>Operation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opération :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="75"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="144"/>
         <source>Modifier segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment modificateur&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="86"/>
         <source>Contents of this segment will be used for modifying the selected segment. This segment itself will not be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le contenu de ce segment sera utilisé pour modifier le segment sélectionné. Ce segment lui-même ne sera pas modifié.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="135"/>
         <source>Copy from segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier à partir du segment&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="137"/>
         <source>Add segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un segment&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="139"/>
         <source>Subtract segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Soustraire un segment&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="141"/>
         <source>Intersect with segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersection avec le segment&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="145"/>
         <source>Please select a modifier segment in the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner un segment de modificateur dans la liste ci-dessous.</translation>
     </message>
 </context>
 <context>
@@ -10214,77 +10262,77 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="21"/>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Marge</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="38"/>
         <source>Grow or shrink selected segment by specified margin size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrandit ou réduit le segment sélectionné en fonction de la taille de marge spécifiée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="42"/>
         <source>Shrink</source>
-        <translation type="unfinished"></translation>
+        <translation>Rétrécir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="43"/>
         <source>Grow</source>
-        <translation type="unfinished"></translation>
+        <translation>Grandir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="48"/>
         <source>Operation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opération :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="53"/>
         <source>Segment boundaries will be shifted by this distance. Positive value means the segments will grow, negative value means segment will shrink.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les limites des segments seront décalées de cette distance. Une valeur positive signifie que les segments vont croître, une valeur négative signifie que le segment va rétrécir.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="59"/>
         <source>Size change in pixel. Computed from the segment&apos;s spacing and the specified margin size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changement de taille en pixel. Calculé à partir de l&apos;espacement du segment et de la taille de marge spécifiée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="63"/>
         <source>Margin size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de la marge&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="68"/>
         <source>Grow or shrink all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrandissez ou réduisez tous les segments visibles dans ce nœud de segmentation. Cette opération peut prendre un certain temps.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="70"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished">Appliquer aux segments visibles :</translation>
+        <translation>Appliquer aux segments visibles :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="73"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquez</translation>
+        <translation>Appliquez</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="75"/>
         <source>Grows or shrinks selected segment /default) or all segments (checkbox) by the specified margin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrandit ou réduit le segment sélectionné (par défaut) ou tous les segments (case à cocher) de la marge spécifiée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="123"/>
         <source>Not feasible at current resolution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible à la résolution actuelle.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="126"/>
         <source>Actual:</source>
-        <translation type="unfinished"></translation>
+        <translation>Réelle :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="131"/>
         <source>Empty segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment vide</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="242"/>
