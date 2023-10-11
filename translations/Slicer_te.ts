@@ -600,7 +600,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
         <source>Remove Intensity Outliers value at one tail</source>
-        <translation type="unfinished"></translation>
+        <translation>ఒక టెయిల్ వద్ద ఇంటెన్సిటీ అవుట్‌లియర్స్ విలువను తీసివేయండి</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
