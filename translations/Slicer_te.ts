@@ -162,7 +162,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
         <source>Source Passive Images Image</source>
-        <translation>మూలం నిష్క్రియ చిత్రాలు చిత్రం</translation>
+        <translation type="unfinished">మూలం నిష్క్రియ చిత్రాలు చిత్రం</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
