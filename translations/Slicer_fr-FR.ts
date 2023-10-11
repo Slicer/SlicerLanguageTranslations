@@ -15540,7 +15540,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="632"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez la reconstruction de dalles épaisses (TSR). TSR est utilisé pour fusionner des tranches contiguës dans une certaine plage.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="649"/>
@@ -15592,7 +15592,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="779"/>
         <source>Enable Thick Slab Reconstruction</source>
         <oldsource>Show Slab Reconstruction</oldsource>
-        <translation type="unfinished">Afficher la reconstruction de la dalle</translation>
+        <translation>Afficher la reconstruction de la dalle</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="787"/>
