@@ -10751,7 +10751,7 @@ Si les segments se chevauchent, le segment situé plus haut dans le tableau des 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="224"/>
         <source>Region shape:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forme de la région&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="231"/>
