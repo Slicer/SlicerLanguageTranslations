@@ -26,7 +26,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">ఇన్‌పుట్/అవుట్‌పుట్ పారామితులు</translation>
+        <translation>ఇన్‌పుట్/అవుట్‌పుట్ పారామితులు</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
