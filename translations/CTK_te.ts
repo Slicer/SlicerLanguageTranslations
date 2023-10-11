@@ -62,7 +62,7 @@
     <message>
         <location filename="Libs/Widgets/ctkAddRemoveComboBox.cpp" line="75"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>ఏదీ లేదు</translation>
     </message>
 </context>
 <context>
