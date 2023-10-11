@@ -530,12 +530,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
         <source>Perform a ScaleSkewVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>సీక్వెన్షియల్ రిజిస్ట్రేషన్ దశల్లో భాగంగా ScaleSkewVersor3D రిజిస్ట్రేషన్‌ను నిర్వహించండి. ఈ ఎంపికల కుటుంబం వాటిలో ఏవైనా సెట్ చేయబడితే ట్రాన్స్‌ఫార్మ్ టైప్ వినియోగాన్ని భర్తీ చేస్తుంది.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="47"/>
         <source>Perform an Affine registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>సీక్వెన్షియల్ రిజిస్ట్రేషన్ దశల్లో భాగంగా అఫైన్ రిజిస్ట్రేషన్‌ను నిర్వహించండి. ఈ ఎంపికల కుటుంబం వాటిలో ఏవైనా సెట్ చేయబడితే ట్రాన్స్‌ఫార్మ్ టైప్ వినియోగాన్ని భర్తీ చేస్తుంది.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
