@@ -394,7 +394,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
         <source>Slicer BSpline Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>స్లైసర్ BSpline రూపాంతరం</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
