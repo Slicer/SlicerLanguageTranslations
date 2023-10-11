@@ -7726,14 +7726,16 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="29"/>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>此模块可以裁剪和重新采样体积序列以减小其大小，从而加快渲染和处理速度。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="40"/>
         <source>
 This file was originally developed by Andras Lasso
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+这个文件最初是由Andras Lasso开发的
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="54"/>
@@ -7743,42 +7745,42 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="70"/>
         <source>Pick a sequence node of volumes that will be cropped and resampled.</source>
-        <translation type="unfinished"></translation>
+        <translation>选取将被裁剪和重新采样的卷的序列节点。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="71"/>
         <source>Input volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>输入卷的序列: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="83"/>
         <source>(Overwrite input)</source>
-        <translation type="unfinished"></translation>
+        <translation>（覆盖已经输入的）</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="86"/>
         <source>Pick a sequence node where the cropped and resampled volumes will be stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个序列节点，将裁剪和重采样的卷存储在该节点中。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="87"/>
         <source>Output volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>输出音量序列： </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="102"/>
         <source>Select a crop volumes parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择作物体积参数。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>转到裁剪量模块编辑裁剪参数。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="112"/>
         <source>Crop volume settings: </source>
-        <translation type="unfinished"></translation>
+        <translation>裁剪音量设置： </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
@@ -7935,17 +7937,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="881"/>
         <source>DICOM database is already empty.</source>
-        <translation>DICOM 数据库已为空</translation>
+        <translation>DICOM 数据库已为空。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="884"/>
         <source>Clear entire DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>清除整个 DICOM 数据库</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="885"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation type="unfinished"></translation>
+        <translation>您确定要删除复制到数据库（{count} 患者）中的所有数据和文件吗？</translation>
     </message>
 </context>
 <context>
@@ -7953,12 +7955,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="25"/>
         <source>Enhanced US volume</source>
-        <translation type="unfinished"></translation>
+        <translation>增加美国销量</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation>此图像类型的加载是试验性的。请验证图像的几何形状并报告发现的任何问题。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
@@ -7981,7 +7983,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
         <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation>此图像类型的加载是试验性的。请确认图像大小和方向，并报告发现的任何问题。</translation>
     </message>
 </context>
 <context>
@@ -7989,7 +7991,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="35"/>
         <source>Image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>图片序列</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
@@ -16806,7 +16808,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="26"/>
         <source>Whether the transform widget can be translated.</source>
-        <translation>是否可以平移变换小部件</translation>
+        <translation>是否可以平移变换小部件。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="57"/>
@@ -20546,7 +20548,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished">选择要用于数据的读取器？</translation>
+        <translation>选择要用于数据的读取器：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
