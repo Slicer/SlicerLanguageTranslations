@@ -10651,7 +10651,7 @@ Si les segments se chevauchent, le segment situé plus haut dans le tableau des 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="162"/>
         <source>threshold below</source>
-        <translation type="unfinished"></translation>
+        <translation>seuil inférieur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="163"/>
