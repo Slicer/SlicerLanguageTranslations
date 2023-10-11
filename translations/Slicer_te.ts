@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished">రెండు చిత్రాలను జోడిస్తుంది. ఇన్‌పుట్‌లో అన్ని చిత్ర రకాలు మద్దతు ఇచ్చినప్పటికీ, సంతకం చేసిన రకాలు మాత్రమే ఉత్పత్తి చేయబడతాయి. రెండు చిత్రాలకు ఒకే కొలతలు ఉండవలసిన అవసరం లేదు.</translation>
+        <translation>రెండు చిత్రాలను జోడిస్తుంది. ఇన్‌పుట్‌లో అన్ని చిత్ర రకాలు మద్దతు ఇచ్చినప్పటికీ, సంతకం చేసిన రకాలు మాత్రమే ఉత్పత్తి చేయబడతాయి. రెండు చిత్రాలకు ఒకే కొలతలు ఉండవలసిన అవసరం లేదు.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
