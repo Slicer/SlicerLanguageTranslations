@@ -46,7 +46,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation>ఇన్‌పుట్ వాల్యూమ్ 1</translation>
+        <translation type="unfinished">ఇన్‌పుట్ వాల్యూమ్ 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
