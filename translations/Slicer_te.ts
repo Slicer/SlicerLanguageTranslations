@@ -248,12 +248,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>మాస్క్‌ని రూపొందించడానికి ఉపయోగించే ఇన్‌పుట్ ఇమేజ్‌లకు మాస్క్‌ని వర్తింపజేయవద్దు</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
         <source>Output Image Intensity Normalization</source>
-        <translation type="unfinished"></translation>
+        <translation>అవుట్‌పుట్ ఇమేజ్ ఇంటెన్సిటీ సాధారణీకరణ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
