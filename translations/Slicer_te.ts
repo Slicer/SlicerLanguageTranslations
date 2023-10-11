@@ -66,12 +66,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>గణనను చక్కగా ట్యూన్ చేయడానికి అధునాతన పారామితులు.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">రెండు చిత్రాలకు వేర్వేరు జ్యామితి (మూలం, అంతరం, అక్షం దిశలు లేదా విస్తరణలు) ఉంటే ఉపయోగించే బహుపది ఇంటర్‌పోలేషన్ క్రమం: 0 = సమీప పొరుగు, 1 = సరళ, 2 = చతుర్భుజం, 3 = క్యూబిక్ ఇంటర్‌పోలేషన్.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
