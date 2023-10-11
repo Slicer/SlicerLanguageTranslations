@@ -119,7 +119,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
         <source>given a list of </source>
-        <translation type="unfinished"></translation>
+        <translation>యొక్క జాబితాను ఇచ్చారు </translation>
     </message>
 </context>
 <context>
