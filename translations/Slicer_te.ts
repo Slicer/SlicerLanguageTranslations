@@ -404,7 +404,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
         <source>(optional) Output estimated transform - in case the computed transform is not BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished">(ఐచ్ఛికం) అవుట్‌పుట్ అంచనా రూపాంతరం - కంప్యూటెడ్ ట్రాన్స్‌ఫార్మ్ BSpline కానట్లయితే. గమనిక: మీరు తప్పనిసరిగా కనీసం ఒక అవుట్‌పుట్ ఆబ్జెక్ట్‌ని సెట్ చేయాలి (రూపాంతరం మరియు/లేదా అవుట్‌పుట్ వాల్యూమ్).</translation>
+        <translation>(ఐచ్ఛికం) అవుట్‌పుట్ అంచనా రూపాంతరం - కంప్యూటెడ్ ట్రాన్స్‌ఫార్మ్ BSpline కానట్లయితే. గమనిక: మీరు తప్పనిసరిగా కనీసం ఒక అవుట్‌పుట్ ఆబ్జెక్ట్‌ని సెట్ చేయాలి (రూపాంతరం మరియు/లేదా అవుట్‌పుట్ వాల్యూమ్).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
