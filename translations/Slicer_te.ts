@@ -66,7 +66,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished">గణనను చక్కగా ట్యూన్ చేయడానికి అధునాతన పారామితులు.</translation>
+        <translation>గణనను చక్కగా ట్యూన్ చేయడానికి అధునాతన పారామితులు.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
