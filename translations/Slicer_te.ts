@@ -444,7 +444,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>పరివర్తన కేంద్రాన్ని ఎలా ప్రారంభించాలో నిర్ణయించండి. useMomentsAlign చిత్రాల ద్రవ్యరాశి కేంద్రం సారూప్య నిర్మాణాలను సూచిస్తుందని ఊహిస్తుంది. useCenterOfHeadAlign మాస్ అంచనా కేంద్రాన్ని నడపడానికి తల పైభాగాన్ని మరియు మెడ ఆకారాన్ని ఉపయోగించడానికి ప్రయత్నిస్తుంది. useGeometryAlign చిత్రం యొక్క వోక్సెల్ లాటిస్ యొక్క కేంద్రం సారూప్య నిర్మాణాలను సూచిస్తుందని ఊహిస్తుంది. చిత్రాల భౌతిక స్థలం దగ్గరగా ఉందని ఆఫ్ ఊహిస్తుంది. ఈ ఫ్లాగ్ ప్రారంభ పరివర్తనతో పరస్పరం ప్రత్యేకమైనది.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -460,22 +460,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>ఉపయోగించండి</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
         <source>useGeometryAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>జామెట్రీ సమలేఖనం ఉపయోగించండి</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
         <source>useCenterOfROIAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>ఉపయోగించండిలైన్</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
         <source>Registration Phases (Check one or more, executed in order listed)</source>
-        <translation type="unfinished"></translation>
+        <translation>నమోదు దశలు (ఒకటి లేదా అంతకంటే ఎక్కువ తనిఖీ చేయండి, జాబితా చేయబడిన క్రమంలో అమలు చేయబడింది)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="36"/>
