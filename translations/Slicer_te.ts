@@ -455,7 +455,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
         <source>useMomentsAlign</source>
-        <translation>useMomentsAlign</translation>
+        <translation>మూమెంట్స్ సమలేఖనం ఉపయోగించండి</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
