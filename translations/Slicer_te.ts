@@ -334,7 +334,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5); Ali Ghayoor(4) 1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard  </source>
-        <translation type="unfinished"></translation>
+        <translation>హన్స్ జాన్సన్(1,3,4); కెంట్ విలియమ్స్(1); గ్రెగొరీ హారిస్(1), విన్సెంట్ మాగ్నోట్టా(1,2,3); ఆండ్రీ ఫెడోరోవ్(5); అలీ ఘయూర్(4) 1=యూనివర్సిటీ ఆఫ్ అయోవా డిపార్ట్‌మెంట్ ఆఫ్ సైకియాట్రీ, 2=యూనివర్సిటీ ఆఫ్ ఐయోవా డిపార్ట్‌మెంట్ ఆఫ్ రేడియాలజీ, 3=యూనివర్శిటీ ఆఫ్ అయోవా డిపార్ట్‌మెంట్ ఆఫ్ బయోమెడికల్ ఇంజనీరింగ్, 4=యూనివర్శిటీ ఆఫ్ అయోవా డిపార్ట్‌మెంట్ ఆఫ్ ఎలక్ట్రికల్ అండ్ కంప్యూటర్ ఇంజినీరింగ్, 5=సర్గ్ , హార్వర్డ్  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
