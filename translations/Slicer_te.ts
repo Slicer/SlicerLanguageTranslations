@@ -16,7 +16,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>NIH రోడ్‌మ్యాప్ ఫర్ మెడికల్ రీసెర్చ్, గ్రాంట్ U54 EB005149 ద్వారా నేషనల్ ఇన్‌స్టిట్యూట్ ఆఫ్ హెల్త్ ద్వారా నిధులు సమకూర్చబడిన నేషనల్ అలయన్స్ ఫర్ మెడికల్ ఇమేజ్ కంప్యూటింగ్ (NAMIC)లో ఈ పని భాగం.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
