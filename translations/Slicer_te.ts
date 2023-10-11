@@ -379,12 +379,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation type="unfinished"></translation>
+        <translation>బి స్ప్లైన్ గ్రిడ్ ఉపవిభజన సంఖ్య స్థిర చిత్రం యొక్క ప్రతి అక్షం వెంట, చిత్ర స్థలంపై కేంద్రీకృతమై ఉంది. B స్ప్లైన్ సరిగ్గా గణించబడాలంటే విలువలు తప్పనిసరిగా 3 లేదా అంతకంటే ఎక్కువ ఉండాలి.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
         <source>Output Settings (At least one output must be specified)</source>
-        <translation type="unfinished"></translation>
+        <translation>అవుట్‌పుట్ సెట్టింగ్‌లు (కనీసం ఒక అవుట్‌పుట్ తప్పనిసరిగా పేర్కొనబడాలి)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
