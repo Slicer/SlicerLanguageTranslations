@@ -439,7 +439,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation type="unfinished"></translation>
+        <translation>రిజిస్ట్రేషన్‌ని ప్రారంభించడానికి కదిలే ఇమేజ్‌కి వర్తింపజేయాలి. Initialize Transform మోడ్ ఆఫ్‌లో ఉంటే మాత్రమే ఇది ఉపయోగించబడుతుంది.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
