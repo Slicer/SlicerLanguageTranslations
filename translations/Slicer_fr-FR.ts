@@ -14996,7 +14996,9 @@ Appuyez longuement sur le bouton pour accéder aux options avancées de conversi
         <source>Failed to convert %1 to %2!
 
 Probably there is no valid conversion path between the source representation and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la conversion de %1 en %2&#xa0;!
+
+Il n&apos;existe probablement aucun chemin de conversion valide entre la représentation source et %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="415"/>
