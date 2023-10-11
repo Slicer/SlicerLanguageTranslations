@@ -306,7 +306,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>ఈ పరిధి వెలుపల ఉన్న విలువలను &quot;బయటి విలువ&quot;గా క్లిప్ చేయవద్దు</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
