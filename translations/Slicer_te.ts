@@ -316,7 +316,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
         <source>Level of Debugging (0=None)</source>
-        <translation type="unfinished"></translation>
+        <translation>డీబగ్గింగ్ స్థాయి (0=ఏదీ లేదు)</translation>
     </message>
 </context>
 <context>
