@@ -329,7 +329,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation type="unfinished"></translation>
+        <translation>త్రిమితీయ వాల్యూమ్‌ను రిఫరెన్స్ వాల్యూమ్‌కి నమోదు చేయండి (డిఫాల్ట్‌గా మ్యాట్స్ మ్యూచువల్ ఇన్ఫర్మేషన్). BRAINSFitలో వివరించిన విధానం: సంపూర్ణ మెదడు 3D చిత్రాల పరస్పర సమాచార నమోదులు, ఇన్‌సైట్ టూల్‌కిట్‌ని ఉపయోగించడం, జాన్సన్ H.J., హారిస్ G., విలియమ్స్ K., ది ఇన్‌సైట్ జర్నల్, 2007. https://hdl.handle.net/1926/129</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
