@@ -208,7 +208,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
         <source>Outputs from both MUSH generation and brain volume mask creation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MUSH ఉత్పత్తి మరియు మెదడు వాల్యూమ్ మాస్క్ సృష్టి రెండింటి నుండి అవుట్‌పుట్‌లు</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="23"/>
