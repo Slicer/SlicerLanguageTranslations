@@ -167,7 +167,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
         <source>Optional Mask</source>
-        <translation>ఐచ్ఛిక ముసుగు</translation>
+        <translation type="unfinished">ఐచ్ఛిక ముసుగు</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
