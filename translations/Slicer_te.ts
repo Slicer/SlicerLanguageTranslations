@@ -76,7 +76,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation>ఇంటర్‌పోలేషన్ ఆర్డర్</translation>
+        <translation type="unfinished">ఇంటర్‌పోలేషన్ ఆర్డర్</translation>
     </message>
 </context>
 <context>
