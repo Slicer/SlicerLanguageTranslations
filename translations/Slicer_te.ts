@@ -26,22 +26,22 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation>ఇన్‌పుట్/అవుట్‌పుట్ పారామితులు</translation>
+        <translation type="unfinished">ఇన్‌పుట్/అవుట్‌పుట్ పారామితులు</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation>ఇన్‌పుట్ వాల్యూమ్ 1</translation>
+        <translation type="unfinished">ఇన్‌పుట్ వాల్యూమ్ 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation>ఇన్‌పుట్ వాల్యూమ్ 2</translation>
+        <translation type="unfinished">ఇన్‌పుట్ వాల్యూమ్ 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation>అవుట్‌పుట్ వాల్యూమ్</translation>
+        <translation type="unfinished">అవుట్‌పుట్ వాల్యూమ్</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
