@@ -172,7 +172,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
         <source>Input Landmark File with LE, and RE points defined in physical locations</source>
-        <translation type="unfinished"></translation>
+        <translation>LE మరియు RE పాయింట్‌లతో ల్యాండ్‌మార్క్ ఫైల్‌ను ఇన్‌పుట్ చేయండి భౌతిక స్థానాల్లో నిర్వచించబడింది</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
