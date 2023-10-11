@@ -27124,12 +27124,12 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="250"/>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Interactive</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="252"/>
         <source>Show handles for interactively adjusting slab reconstruction thickness.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les poignées pour ajuster de manière interactive l’épaisseur de la reconstruction de la dalle.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="367"/>
