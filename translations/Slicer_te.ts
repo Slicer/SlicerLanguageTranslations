@@ -389,7 +389,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>స్లైసర్ లీనియర్ ట్రాన్స్‌ఫార్మ్</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
