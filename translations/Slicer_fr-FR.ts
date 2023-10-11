@@ -10834,7 +10834,7 @@ Si les segments se chevauchent, le segment situé plus haut dans le tableau des 
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="388"/>
         <source>Fill selected segment in regions that are in the specified intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplissez le segment sélectionné dans les régions qui se trouvent dans la plage d&apos;intensité spécifiée.</translation>
     </message>
 </context>
 <context>
