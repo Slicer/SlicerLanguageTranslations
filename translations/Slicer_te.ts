@@ -20123,9 +20123,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished">
-
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+        <translation>అవి పూర్తయ్యే వరకు వేచి ఉండటానికి సరే క్లిక్ చేయండి లేదా ఇప్పుడు పొడిగింపుల నిర్వాహికిని మూసివేయడానికి విస్మరించు ఎంచుకోండి.</translation>
     </message>
 </context>
 <context>
