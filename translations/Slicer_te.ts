@@ -61,7 +61,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished">ఆధునిక</translation>
+        <translation>ఆధునిక</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
@@ -76,7 +76,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">ఇంటర్‌పోలేషన్ ఆర్డర్</translation>
+        <translation>ఇంటర్‌పోలేషన్ ఆర్డర్</translation>
     </message>
 </context>
 <context>
@@ -84,7 +84,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation type="unfinished">DWI క్లీనప్ (BRAINS)</translation>
+        <translation>DWI క్లీనప్ (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation type="unfinished">చెడ్డ ప్రవణతలతో కూడిన NRRD ఫైల్ తీసివేయబడింది.</translation>
+        <translation>చెడ్డ ప్రవణతలతో కూడిన NRRD ఫైల్ తీసివేయబడింది.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
@@ -187,7 +187,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
         <source>Optional pre-generated mask to use.</source>
-        <translation>ఉపయోగించడానికి ఐచ్ఛికం ముందుగా రూపొందించిన ముసుగు.</translation>
+        <translation>-ఉపయోగించడానికి ఐచ్ఛికం ముందుగా రూపొందించిన ముసుగు.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
