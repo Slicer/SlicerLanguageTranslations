@@ -2306,97 +2306,97 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="394"/>
         <source>Input method:</source>
-        <translation type="unfinished"></translation>
+        <translation>طريقة الإدخال:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="403"/>
         <source>Recorded sequence reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة بناء التسلسل المسجل</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="413"/>
         <source>Live volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة بناء الحجم المباشر</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="451"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>لقطة</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="460"/>
         <source> Crop rectangle origin (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> أصل مستطيل المحاصيل (بالبكسل).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="463"/>
         <source>Clip rectangle origin:</source>
-        <translation type="unfinished"></translation>
+        <translation>أصل مستطيل المقطع:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="475"/>
         <source> Crop rectangle origin X component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> مكون مستطيل المحاصيل الأصل X (بالبكسل).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="491"/>
         <source> Crop rectangle origin Y component(in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> أصل مستطيل المحاصيل Y مكون (بالبكسل).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="506"/>
         <source>Crop rectangle size (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم مستطيل المحاصيل (بالبكسل).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="509"/>
         <source>Clip rectangle size:</source>
-        <translation type="unfinished"></translation>
+        <translation>مقطع حجم المستطيل:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="521"/>
         <source>Crop rectangle size X component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>محصول مستطيل الحجم X المكون (بالبكسل).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="534"/>
         <source>Crop rectangle size Y component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم المحصول المستطيل Y المكون (بالبكسل).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="555"/>
         <source>Fan angles</source>
-        <translation type="unfinished"></translation>
+        <translation>زوايا المروحة</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="561"/>
         <source>Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم إعادة بناء المنطقة داخل زاويتي المروحة فقط</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="564"/>
         <source>Fan angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>زاوية المروحة:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="573"/>
         <source>First fan angle used for clipping. Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished"></translation>
+        <translation>أول زاوية مروحة تستخدم للقص. سيتم إعادة بناء المنطقة داخل زاويتي المروحة فقط</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="580"/>
         <source>Second fan angle used for clipping. Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished"></translation>
+        <translation>زاوية المروحة الثانية المستخدمة للقص. سيتم إعادة بناء المنطقة داخل زاويتي المروحة فقط</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="600"/>
         <source>Reset</source>
-        <translation type="unfinished">إعادة ضبط</translation>
+        <translation>إعادة ضبط</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="607"/>
         <source>Apply</source>
-        <translation type="unfinished">تطبيق</translation>
+        <translation>تطبيق</translation>
     </message>
 </context>
 <context>
@@ -2415,22 +2415,22 @@
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">شكل</translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="20"/>
         <source>Reslicing Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>سائق إعادة التلميع</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="31"/>
         <source>Advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات متقدمة</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="40"/>
         <source>Show advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار الخيارات المتقدمة</translation>
     </message>
 </context>
 <context>
@@ -2445,22 +2445,22 @@
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">شكل</translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="37"/>
         <source>Watchdog node: </source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة المراقبة: </translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="47"/>
         <source>vtkMRMLWatchdogNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLWatchdogNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="64"/>
         <source>Observed nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>العقد المرصودة</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
@@ -2470,77 +2470,77 @@
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation type="unfinished">vtkMRMLVolumeNode</translation>
+        <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="109"/>
         <source>Add the selected node to the list of watched nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف العقدة المختارة إلى قائمة العقد المشاهدة</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="112"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="141"/>
         <source>Remove the node selected in the table from the list of watched nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>احذف العقدة المختارة في الجدول من قائمة العقد المشاهدة</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="163"/>
         <source>Display</source>
-        <translation type="unfinished">عرض</translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="180"/>
         <source>&amp;Visible:</source>
-        <translation type="unfinished"></translation>
+        <translation>مرئي:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="197"/>
         <source>View:</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="204"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد وجهات النظر لإظهار هذه العقدة. جميع العروض التي لم يتم التحقق منها في جميع المشاهدات ثلاثية الأبعاد وثنائية الأبعاد.</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="211"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>التعتيم:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="234"/>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الخلفية</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="255"/>
         <source>Text Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>لون النص:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="273"/>
         <source>Font size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الخط</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="283"/>
         <source> pt</source>
-        <translation type="unfinished"></translation>
+        <translation> pt</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="307"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>أحداث</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="316"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Watch transform modified event:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;شاهد تحويل الحدث المعدل:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 </TS>
