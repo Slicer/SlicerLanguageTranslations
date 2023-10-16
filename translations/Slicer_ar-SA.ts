@@ -17907,7 +17907,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="72"/>
         <source>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</source>
-        <translation type="unfinished">%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
+        <translation>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
     </message>
 </context>
 <context>
@@ -22414,17 +22414,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="14"/>
         <source>Models options</source>
-        <translation type="unfinished">Models options</translation>
+        <translation>خيارات النماذج</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="32"/>
         <source>Coordinate system:</source>
-        <translation type="unfinished">Coordinate system:</translation>
+        <translation>نظام الإحداثيات:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="45"/>
         <source>Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</source>
-        <translation type="unfinished">Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</translation>
+        <translation>استخدم (يسار خلف متفوق) لتحسين التوافق مع معظم البرامج (هذا هو الافتراضي). استخدم (الأيمن الأمامي المتفوق) لتحقيق توافق أفضل مع إصدارات Slicer السابقة. إذا تم تعريف نظام الإحداثيات في الملف، فسيتم استخدام ذلك ويتم تجاهل هذا الاختيار.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="49"/>
@@ -22740,7 +22740,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
         <source>Adjust</source>
-        <translation type="unfinished">Adjust</translation>
+        <translation>ضبط</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
@@ -22750,22 +22750,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
         <source>Select region</source>
-        <translation type="unfinished">Select region</translation>
+        <translation>حدد المنطقة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="103"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation type="unfinished">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</translation>
+        <translation>قم بتعيين مستوى النافذة بناءً على منطقة مستطيلة، محددة بالنقر والسحب في عارض الشريحة. يتم استخدام وضع النقر كركن المنطقة.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
         <source>Select region - centered</source>
-        <translation type="unfinished">Select region - centered</translation>
+        <translation>حدد المنطقة - مركزها</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="109"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation type="unfinished">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</translation>
+        <translation>قم بتعيين مستوى النافذة بناءً على منطقة مستطيلة، محددة بالنقر والسحب في عارض الشريحة. يتم استخدام وضع النقر كمركز المنطقة.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
@@ -22780,7 +22780,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="135"/>
         <source>Window/level</source>
-        <translation type="unfinished">Window/level</translation>
+        <translation>نافذة/مستوى</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
@@ -22793,22 +22793,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="156"/>
         <source>Place Menu</source>
-        <translation type="unfinished">Place Menu</translation>
+        <translation>ضع القائمة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="163"/>
         <source>Create and Place</source>
-        <translation type="unfinished">Create and Place</translation>
+        <translation>أنشئ و ضعه</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="164"/>
         <source>Place</source>
-        <translation type="unfinished">Place</translation>
+        <translation>وضع</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
-        <translation type="unfinished">Place a control point</translation>
+        <translation>ضع نقطة تحكم</translation>
     </message>
 </context>
 <context>
@@ -22852,7 +22852,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>تقنية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="39"/>
@@ -22863,12 +22863,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="46"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="56"/>
         <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-        <translation type="unfinished">Option for removing wood-grain artifacts by applying random noise to raycasting</translation>
+        <translation>خيار لإزالة القطع الأثرية الخشبية والحبوب عن طريق تطبيق ضوضاء عشوائية على البث الشعاعي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="49"/>
         <source>Surface smoothing:</source>
-        <translation type="unfinished">Surface smoothing:</translation>
+        <translation>تنعيم السطح:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="78"/>
@@ -22891,12 +22891,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="14"/>
         <source>Node Writer Options</source>
-        <translation type="unfinished">Node Writer Options</translation>
+        <translation>خيارات كاتب العقدة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="23"/>
         <source>Compress</source>
-        <translation type="unfinished">Compress</translation>
+        <translation>ضغط</translation>
     </message>
 </context>
 <context>
@@ -22979,17 +22979,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
         <source>Slice:</source>
-        <translation type="unfinished">Slice:</translation>
+        <translation>الشريحة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="76"/>
         <source>Show reformat widget in 3D view</source>
-        <translation type="unfinished">Show reformat widget in 3D view</translation>
+        <translation>أظهر أداة إصلاح في عرض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="108"/>
         <source>Display &amp;&amp; Edit</source>
-        <translation type="unfinished">Display &amp;&amp; Edit</translation>
+        <translation>عرض &amp; تحرير</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="117"/>
@@ -22999,17 +22999,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="197"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation>الأصل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="215"/>
         <source>Coordinate Reference</source>
-        <translation type="unfinished">Coordinate Reference</translation>
+        <translation>إحداثيات مرجعية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="221"/>
         <source>On Plane</source>
-        <translation type="unfinished">On Plane</translation>
+        <translation>على الطائرة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="231"/>
@@ -23019,7 +23019,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="265"/>
         <source>Center</source>
-        <translation type="unfinished">Center</translation>
+        <translation>مركز</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="278"/>
@@ -23200,12 +23200,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="616"/>
         <source>Lock Normal To Camera</source>
-        <translation type="unfinished">Lock Normal To Camera</translation>
+        <translation>قفل عادي للكاميرا</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="619"/>
         <source>Lock reformat widget&apos;s normal to the camera one. </source>
-        <translation type="unfinished">Lock reformat widget&apos;s normal to the camera one. </translation>
+        <translation>قفل إصلاح الأداة طبيعي للكاميرا الأولى. </translation>
     </message>
 </context>
 <context>
