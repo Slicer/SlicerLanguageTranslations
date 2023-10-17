@@ -13778,7 +13778,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="111"/>
         <source>This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </source>
-        <translation>Este cuadro combinado permite cambiar el Tipo para todos los NodoDeSeriesDeTrazado activos. Si se elige un valor, todos los Nodo de series de trazado referenciados por el Nodo de trazado de gráfico se actualizarán con el nuevo valor. </translation>
+        <translation>Este cuadro combinado permite cambiar el Tipo para todos los Nodos de series de gráficos activos. Si se elige un valor, todos los Nodos de series de gráficos referenciados por el Nodo de trazado de gráfico se actualizarán con el nuevo valor. </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="118"/>
@@ -22577,7 +22577,7 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="74"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>En el módulo Modelos se cargan y ajustan los parámetros de visualización de los modelos, como Color, Transparencia y Recorte.&lt;br&gt;Guarde los modelos mediante el menú Archivo, botón Guardar.&lt;br&gt;El botón Añadir modelo 3D o un directorio de modelos le permitirá cargar cualquier modelo que Slicer pueda leer, así como todos los modelos VTK de un directorio. Añadir superposición escalar cargará un archivo escalar y lo asociará con el modelo actualmente activo.&lt;br&gt;Puede ajustar las propiedades de visualización de los modelos en el panel Visualización. Seleccione el modelo sobre el que desea trabajar en el menú desplegable del selector de modelos. Las superposiciones escalares se cargan con una tabla de búsqueda de colores predeterminada, pero pueden reasignarse manualmente. Una vez elegida una nueva superposición escalar, se sigue utilizando el mapa de color antiguo, por lo que debe ajustarse junto con la superposición.&lt;br&gt;El recorte se activa para un modelo en el panel Visualización, y los planos de corte que recortarán el modelo se seleccionan en el panel Recorte.&lt;br&gt;El panel Jerarquía de modelos permite agrupar modelos y establecer las propiedades del grupo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="97"/>
@@ -22630,7 +22630,7 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clipping Planes</source>
-        <translation>Planos de corte</translation>
+        <translation>Planos de recorte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="219"/>
@@ -24672,7 +24672,7 @@ Lo más probable es que el segmento no pueda convertirse en una representación 
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="242"/>
         <source>Enable interactive charting</source>
-        <translation type="unfinished">Enable interactive charting</translation>
+        <translation>Activar gráficos interactivos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="268"/>
