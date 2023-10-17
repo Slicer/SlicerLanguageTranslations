@@ -248,7 +248,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation>No aplicar la máscara a las imágenes de entrada utilizadas para generar la máscara.</translation>
+        <translation>No aplicar la máscara a las imágenes de entrada utilizadas para generar la máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
@@ -258,7 +258,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
         <source>Parameters for normalizing the output images.</source>
-        <translation>Parámetros para normalizar las imágenes de salida</translation>
+        <translation>Parámetros para normalizar las imágenes de salida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
@@ -306,7 +306,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation>No recorte los valores fuera de este rango para que sean el “Valor exterior”.</translation>
+        <translation>No recorte los valores fuera de este rango para que sean el “Valor exterior”</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
@@ -980,7 +980,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation>El índice en la serie temporal para la imagen en movimiento 3D a ajustar. Sólo se permite si el volumen de entrada en movimiento es de 4 dimensiones.</translation>
+        <translation>El índice en la serie temporal para la imagen en movimiento 3D a ajustar. Sólo se permite si el volumen de entrada en movimiento es de 4 dimensiones</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
@@ -1108,7 +1108,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
         <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
-        <translation>Bandera para guardar la transformación final incluso si se alcanza el NúmeroDeIteraciones sin convergencia. (Previsto para su uso cuando --Fallo del código de salida 0 ).</translation>
+        <translation>Bandera para guardar la transformación final incluso si se alcanza el NúmeroDeIteraciones sin convergencia. (Previsto para su uso cuando --Fallo del código de salida 0 )</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
@@ -1152,7 +1152,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
         <source>Prompt the user to hit enter each time an image is sent to the DebugImageViewer</source>
-        <translation>Pedir al usuario que pulse intro cada vez que se envíe una imagen al VisorDeImagenDepurada.</translation>
+        <translation>Pedir al usuario que pulse intro cada vez que se envíe una imagen al Visor de imagen depurada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
@@ -1513,7 +1513,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
-        <translation>Tipo de interpolación que se utilizará al aplicar la transformación al volumen en movimiento, las opciones son: Linear, ResampleInPlace, NearestNeighbor, BSpline o WindowedSinc.</translation>
+        <translation>Tipo de interpolación que se utilizará al aplicar la transformación al volumen en movimiento, las opciones son: Lineal, Remuestrear en el lugar, Vecino más cercano, BSpline o Ventana Sinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
@@ -3438,7 +3438,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="80"/>
         <source>Output file to read back in, compare to seeds with flipped settings on first fiducial</source>
-        <translation>Archivo de salida para volver a leer, comparar con semillas con ajustes invertidos en la primera referencia.</translation>
+        <translation>Archivo de salida para volver a leer, comparar con semillas con ajustes invertidos en la primera referencia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="81"/>
@@ -3751,7 +3751,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="23"/>
         <source>Name of the file to store the coordinates of the central (1D) skeleton points</source>
-        <translation>Nombre del archivo para almacenar las coordenadas de los puntos centrales (1D) del esqueleto.</translation>
+        <translation>Nombre del archivo para almacenar las coordenadas de los puntos centrales (1D) del esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="24"/>
@@ -3780,7 +3780,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="6"/>
         <source>Computes a rigid, similarity or affine transform from a matched list of fiducials</source>
-        <translation>Calcula una transformación rígida, de similitud o afín a partir de una lista emparejada de fiduciales.</translation>
+        <translation>Calcula una transformación rígida, de similitud o afín a partir de una lista emparejada de fiduciales</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
@@ -4046,7 +4046,7 @@ Los métodos de difusión anisotrópica reducen el ruido (o los detalles no dese
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
         <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
-        <translation>![CDATA[Tener en cuenta el espaciado de la imagen en el cálculo.  Es aconsejable activar esta opción, especialmente cuando el tamaño del píxel es diferente en distintas dimensiones. Sin embargo, para producir resultados consistentes con Slicer4.2 y anteriores, esta opción debe estar desactivada]].</translation>
+        <translation>![CDATA[Tener en cuenta el espaciado de la imagen en el cálculo.  Es aconsejable activar esta opción, especialmente cuando el tamaño del píxel es diferente en distintas dimensiones. Sin embargo, para producir resultados consistentes con Slicer4.2 y anteriores, esta opción debe estar desactivada.]]</translation>
     </message>
 </context>
 <context>
@@ -4562,7 +4562,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="15"/>
         <source>The number of iterations of the level set AntiAliasing algorithm</source>
-        <translation>El número de iteraciones del algoritmo Antidistorción de conjunto de niveles.</translation>
+        <translation>El número de iteraciones del algoritmo Antidistorción de conjunto de niveles</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="16"/>
@@ -4675,7 +4675,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="15"/>
         <source>Output volume: Input Volume masked by label value from Mask Volume</source>
-        <translation>Volumen de salida: Volumen de entrada enmascarado por el valor de la etiqueta del Volumen de máscara.</translation>
+        <translation>Volumen de salida: Volumen de entrada enmascarado por el valor de la etiqueta del Volumen de máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="16"/>
@@ -5076,7 +5076,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
         <source>turn this flag on in order to see debugging output (look in the Error Log window that is accessed via the View menu)</source>
-        <translation>active esta opción para ver los resultados de la depuración (consulte la ventana Registro de errores a la que se accede a través del menú Ver).</translation>
+        <translation>active esta opción para ver los resultados de la depuración (consulte la ventana Registro de errores a la que se accede a través del menú Ver)</translation>
     </message>
 </context>
 <context>
@@ -6050,7 +6050,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation>Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de Ruta de los NIH para la Investigación Médica, Subvención U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics.</translation>
+        <translation>Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de Ruta de los NIH para la Investigación Médica, Subvención U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
@@ -6232,7 +6232,7 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation>Elige entre 2 métodos para transformar los tensores: Tensión Finita (FS), más rápido, pero menos preciso, o Preservación de la Dirección Principal (PPD).</translation>
+        <translation>Elige entre 2 métodos para transformar los tensores: Tensión Finita (FS), más rápido, pero menos preciso, o Preservación de la Dirección Principal (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
@@ -6339,7 +6339,7 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation>Invertir la transformación antes de aplicarla, de la imagen de salida a la imagen de entrada (sólo para transformaciones rígidas y afines).</translation>
+        <translation>Invertir la transformación antes de aplicarla, de la imagen de salida a la imagen de entrada (sólo para transformaciones rígidas y afines)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
@@ -6578,12 +6578,12 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 
 Advertencia: Para remuestrear imágenes DWMR, utilice archivos de entrada y salida nrrd.
 
-Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los tensores no se reorientarían.</translation>
+Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los tensores no se reorientarían</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation>Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por National Institutes of Health a través de la Hoja de Ruta de los NIH para la Investigación Médica, Subvención U54 EB005149. Puede obtenerse información sobre los National Centers for Biomedical Computing en http://nihroadmap.nih.gov/bioinformatics.</translation>
+        <translation>Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por National Institutes of Health a través de la Hoja de Ruta de los NIH para la Investigación Médica, Subvención U54 EB005149. Puede obtenerse información sobre los National Centers for Biomedical Computing en http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
@@ -7360,7 +7360,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"/>
         <source>The integer value (0-255) to use for the segmentation results. This will determine the color of the segmentation that will be generated by the Region growing algorithm</source>
-        <translation>El valor entero (0-255) a utilizar para los resultados de la segmentación. Esto determinará el color de la segmentación que será generada por el algoritmo de crecimiento de la región.</translation>
+        <translation>El valor entero (0-255) a utilizar para los resultados de la segmentación. Esto determinará el color de la segmentación que será generada por el algoritmo de crecimiento de la región</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="25"/>
@@ -7933,7 +7933,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="25"/>
         <source>Enhanced US volume</source>
-        <translation>Mayor volumen en EE.UU.</translation>
+        <translation>Mayor volumen en EE.UU</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
@@ -7956,7 +7956,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="116"/>
         <source>GE Invenia ABUS</source>
-        <translation type="unfinished">GE Invenia ABUS</translation>
+        <translation>GE Invenia ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
@@ -8313,7 +8313,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="129"/>
         <source>First volume is {imageScalarType1}, but second is {imageScalarType2}</source>
-        <translation>El primer volumen es {imageScalarType1}, pero el segundo es {imageScalarType2}.</translation>
+        <translation>El primer volumen es {imageScalarType1}, pero el segundo es {imageScalarType2}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="134"/>
@@ -8353,12 +8353,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="610"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="615"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation>No se puede obtener el paciente de la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se puede obtener el paciente de la serie &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="661"/>
@@ -8451,12 +8451,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="180"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="185"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation>No se puede obtener el paciente para la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se puede obtener el paciente para la serie &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="214"/>
@@ -8876,7 +8876,7 @@ utilizar con fines comerciales estos datos.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="879"/>
         <source>Checksum verification failed. Computed checksum {currentChecksum} different from expected checksum {expectedChecksum}</source>
-        <translation>Error en la verificación de la suma de comprobación. La suma de comprobación calculada {currentChecksum} es diferente de la suma de comprobación esperada {expectedChecksum}.</translation>
+        <translation>Error en la verificación de la suma de comprobación. La suma de comprobación calculada {currentChecksum} es diferente de la suma de comprobación esperada {expectedChecksum}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="884"/>
@@ -12478,7 +12478,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
         <source>If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</source>
-        <translation>Si se pulsa el botón, el tamaño del glifo del punto de control se especifica en la unidad de longitud física; de lo contrario, se especifica como porcentaje del tamaño de la ventana.</translation>
+        <translation>Si se pulsa el botón, el tamaño del glifo del punto de control se especifica en la unidad de longitud física; de lo contrario, se especifica como porcentaje del tamaño de la ventana</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="75"/>
@@ -12581,7 +12581,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="351"/>
         <source>If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</source>
-        <translation>Si se pulsa el botón, el grosor de la línea se especifica en la unidad de longitud física; de lo contrario, se especifica como porcentaje del tamaño del glifo.</translation>
+        <translation>Si se pulsa el botón, el grosor de la línea se especifica en la unidad de longitud física; de lo contrario, se especifica como porcentaje del tamaño del glifo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="401"/>
@@ -13212,7 +13212,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="37"/>
         <source>Surface Area:</source>
-        <translation>Surface Area:</translation>
+        <translation>Área de superficie:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="47"/>
