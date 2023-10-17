@@ -23213,27 +23213,27 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="14"/>
         <source>Save Scene and Unsaved Data</source>
-        <translation type="unfinished">Save Scene and Unsaved Data</translation>
+        <translation>احفظ المشهد والبيانات غير المحفوظة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="24"/>
         <source>select modified data only</source>
-        <translation type="unfinished">select modified data only</translation>
+        <translation>اختر بيانات معدلة فقط</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="54"/>
         <source>Change directory for selected files</source>
-        <translation type="unfinished">Change directory for selected files</translation>
+        <translation>تغيير دليل لملفات مختارة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="61"/>
         <source>Show options</source>
-        <translation type="unfinished">Show options</translation>
+        <translation>عرض الخيارات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="68"/>
         <source>Select scene &amp; modified data only</source>
-        <translation type="unfinished">Select scene &amp; modified data only</translation>
+        <translation>حدد المشهد والبيانات المعدلة فقط</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="98"/>
@@ -23273,12 +23273,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="136"/>
         <source>Create a Medical Record Bundle containing the scene</source>
-        <translation type="unfinished">Create a Medical Record Bundle containing the scene</translation>
+        <translation>قم بإنشاء حزمة سجل طبي تحتوي على المشهد</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;حدثت أخطاء أو تحذيرات أثناء التوفير. انظر أيقونات الحالة للحصول على التفاصيل.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="603"/>
@@ -23286,13 +23286,13 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1141"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1148"/>
         <source>Modified</source>
-        <translation type="unfinished">Modified</translation>
+        <translation>تعديل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="603"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="897"/>
         <source>Not Modified</source>
-        <translation type="unfinished">Not Modified</translation>
+        <translation>لم يعدل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="656"/>
@@ -23307,27 +23307,27 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="733"/>
         <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
-        <translation type="unfinished">Scene file was not saved because user chose not to overwrite existing file: %1.</translation>
+        <translation>لم يتم حفظ ملف المشهد لأن المستخدم اختار عدم الكتابة فوق الملف الموجود:%1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="822"/>
         <source>Node %1 not saved, file name is empty.</source>
-        <translation type="unfinished">Node %1 not saved, file name is empty.</translation>
+        <translation>العقدة%1 غير محفوظة، اسم الملف فارغ.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="832"/>
         <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
-        <translation type="unfinished">Node %1 was not saved because user chose not to overwrite existing file: %2.</translation>
+        <translation>لم يتم حفظ العقدة%1 لأن المستخدم اختار عدم الكتابة فوق الملف الموجود:%2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="870"/>
         <source>Cannot write data file: %1.</source>
-        <translation type="unfinished">Cannot write data file: %1.</translation>
+        <translation>لا يمكن كتابة ملف البيانات:%1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="875"/>
         <source>Failed to save node %1 to file %2.</source>
-        <translation type="unfinished">Failed to save node %1 to file %2.</translation>
+        <translation>فشل في حفظ العقدة%1 إلى ملف %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="924"/>
@@ -23338,17 +23338,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1440"/>
         <source>Any Data</source>
-        <translation type="unfinished">Any Data</translation>
+        <translation>أي بيانات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1473"/>
         <source>Saving file...</source>
-        <translation type="unfinished">Saving file...</translation>
+        <translation>حفظ الملف...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1474"/>
         <source>The file: %1 already exists. Do you want to replace it ?</source>
-        <translation type="unfinished">The file: %1 already exists. Do you want to replace it ?</translation>
+        <translation>الملف: %1 موجود بالفعل. هل تريد استبداله ؟</translation>
     </message>
 </context>
 <context>
@@ -23366,7 +23366,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="56"/>
         <source>Lookup Table:</source>
-        <translation type="unfinished">Lookup Table:</translation>
+        <translation>طاولة البحث:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="63"/>
@@ -23376,7 +23376,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="79"/>
         <source>Interpolate:</source>
-        <translation type="unfinished">Interpolate:</translation>
+        <translation>استيفاء:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="86"/>
@@ -23412,12 +23412,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="14"/>
         <source>Scene Options</source>
-        <translation type="unfinished">Scene Options</translation>
+        <translation>خيارات المشهد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="23"/>
         <source>Clear existing scene</source>
-        <translation type="unfinished">Clear existing scene</translation>
+        <translation>مسح المشهد الموجود</translation>
     </message>
 </context>
 <context>
@@ -23426,27 +23426,27 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="65"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="103"/>
         <source>MRML Scene</source>
-        <translation type="unfinished">MRML Scene</translation>
+        <translation>مشهد MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="134"/>
         <source>The scene file was saved with %1 application (this application is %2).</source>
-        <translation type="unfinished">The scene file was saved with %1 application (this application is %2).</translation>
+        <translation>تم حفظ ملف المشهد مع تطبيق%1 (هذا التطبيق هو%2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="142"/>
         <source>The scene file was created with a newer version of the application (%1) than the current version (%2).</source>
-        <translation type="unfinished">The scene file was created with a newer version of the application (%1) than the current version (%2).</translation>
+        <translation>تم إنشاء ملف المشهد مع إصدار أحدث من التطبيق (%1) من الإصدار الحالي (%2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="148"/>
         <source>The scene may not load correctly.</source>
-        <translation type="unfinished">The scene may not load correctly.</translation>
+        <translation>قد لا يتم تحميل المشهد بشكل صحيح.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="172"/>
         <source>These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</source>
-        <translation type="unfinished">These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</translation>
+        <translation>تم تثبيت هذه الامتدادات عندما تم حفظ المشهد ولكن لم يتم تثبيته الآن:%1. قد تكون هذه الامتدادات مطلوبة لنجاح تحميل المشهد.</translation>
     </message>
 </context>
 <context>
@@ -23550,7 +23550,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="238"/>
         <source>contains %1 files or directories</source>
-        <translation>يحتوي على % 1 ملفات أو أدلة</translation>
+        <translation>يحتوي على %1 ملفات أو أدلة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="241"/>
@@ -23730,7 +23730,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1228"/>
         <source>Centered</source>
-        <translation>تتمحور</translation>
+        <translation>تتركز</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1230"/>
@@ -23838,7 +23838,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="64"/>
         <source>vtkMRMLColorTableNode</source>
-        <translation type="unfinished">vtkMRMLColorTableNode</translation>
+        <translation>vtkMRMLColorTableNode</translation>
     </message>
 </context>
 <context>
@@ -24182,9 +24182,11 @@ Note: This may result in unwanted data loss in %5.</source>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</oldsource>
-        <translation>لا يمكن تحويل تمثيل المصدر&apos;%1في المصدر المستهدف%2وبالتالي غير قادر على نسخ المقطع%3من التجزئة%4&apos; إلى &apos;%5&apos;.
-هل ترغب في تغيير تمثيل المصدر&apos;%5لى &apos;%1&apos;?
-ملاحظة: قد يؤدي هذا إلى فقدان البيانات%5.</translation>
+        <translation>لا يمكن تحويل تمثيل المصدر &apos;%1&apos; إلى المصدر المستهدف &apos;%2&apos;، وبالتالي غير قادر على نسخ القطاع &apos;%3&apos; من التجزئة &apos;%4&apos; إلى &apos;%5&apos;.
+
+هل ترغب في تغيير تمثيل المصدر لـ &apos;%5&apos; إلى &apos;%1&apos; ؟
+
+ملاحظة: قد يؤدي هذا إلى فقدان البيانات غير المرغوب فيها في%5.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="786"/>
@@ -26306,7 +26308,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="82"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="92"/>
         <source>Opacity</source>
-        <translation>العتامة:</translation>
+        <translation>العتامة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="93"/>
@@ -26390,17 +26392,17 @@ Select plugin to add node named
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="261"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="347"/>
         <source>BRAINSRegistration_%1_To_%2</source>
-        <translation>تسجيل الدماغ_٪1_إلى_٪2</translation>
+        <translation>تسجيل الدماغ_%1_إلى_%2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="277"/>
         <source>LinearTransform_%1_To_%2</source>
-        <translation>تحويل خطي_٪1_إلى_٪2</translation>
+        <translation>تحويل خطي_%1_إلى_%2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="363"/>
         <source>BSplineTransform_%1_To_%2</source>
-        <translation>تحويل BSpline_٪1_إلى_٪2</translation>
+        <translation>تحويل BSpline_%1_إلى_%2</translation>
     </message>
 </context>
 <context>
@@ -26628,7 +26630,7 @@ Please visit the Segmentation module and try the advanced create representation 
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="116"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="126"/>
         <source>Opacity</source>
-        <translation>العتامة:</translation>
+        <translation>العتامة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="127"/>
@@ -27408,7 +27410,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="162"/>
         <source>QInputDialog::getText()</source>
-        <translation type="unfinished">QInputDialog::getText()</translation>
+        <translation>QInputDialog::getText()</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="163"/>
@@ -27474,7 +27476,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="14"/>
         <source>qSlicerTerminologyNavigatorWidget</source>
-        <translation type="unfinished">qSlicerTerminologyNavigatorWidget</translation>
+        <translation>qSlicerTerminologyNavigatorWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="117"/>
@@ -27531,7 +27533,7 @@ Tags: %5</source>
         <source>There is a file with name &apos;%1&apos; in the stored contexts.
 
 Do you wish to update the stored context file with the just loaded one?</source>
-        <translation>يوجد ملف باسم &quot;٪1&quot; في السياقات المخزنة.
+        <translation>يوجد ملف باسم &apos;%1&apos; في السياقات المخزنة.
 
 هل ترغب في تحديث ملف السياق المخزن بالملف الذي تم تحميله للتو؟</translation>
     </message>
@@ -27800,7 +27802,8 @@ p, li { مسافة بيضاء: التفاف مسبق; }
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
         <source>Show all the units&apos; properties.
 This should only used by advanced users who understand the consequences of changing a unit&apos;s property.</source>
-        <translation>إظهار كافة خصائص الوحدات. يجب أن يستخدم هذا فقط من قبل المستخدمين المتقدمين الذين يفهمون عواقب تغيير خاصية الوحدة.</translation>
+        <translation>إظهار كافة خصائص الوحدات. 
+يجب أن يستخدم هذا فقط من قبل المستخدمين المتقدمين الذين يفهمون عواقب تغيير خاصية الوحدة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="47"/>
@@ -27948,7 +27951,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
         <source>Fine crosshair.</source>
-        <translation>خط متقاطع ناعم</translation>
+        <translation>خط متقاطع ناعم.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
@@ -27958,7 +27961,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="152"/>
         <source>Medium crosshair.</source>
-        <translation>خط متقاطع متوسط</translation>
+        <translation>خط متقاطع متوسط.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="156"/>
@@ -27968,7 +27971,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="157"/>
         <source>Thick crosshair.</source>
-        <translation>تقاطع سميك</translation>
+        <translation>تقاطع سميك.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="176"/>
@@ -28320,7 +28323,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="159"/>
         <source>View:</source>
-        <translation>عرض</translation>
+        <translation>عرض:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="172"/>
@@ -28989,14 +28992,14 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;Development of 3D Slicer is supported by &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; and the &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Community&lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details.&lt;/p&gt;
 &lt;p&gt;We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.&lt;/p&gt;
 &lt;p&gt;This module was developed by Jean-Christophe Fillion-Robin and Julien Finet at Kitware, Inc., and by Wendy Plesniak, Sonia Pujol, Steve Pieper and Ron Kikinis at Brigham and Women&apos;s Hospital.&lt;/p&gt;</source>
-        <translation>&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt; &lt;tr&gt; &lt;td&gt; &lt;p align=&quot;center&quot;&gt;
-&lt;a href=&quot;https://www.na-mic.org/&quot;&gt; &lt;img src=&quot;qrc:Logos/NAMIC.png&quot; width=&quot;80&quot; style=&quot;vertical-align: middle;&quot; /&gt; &lt;/a&gt; &lt;a href=&quot;https://www.na-mic.org/&quot;&gt; &lt;/a&gt; &lt;/p&gt; &lt;/td&gt;
-&lt;td&gt; &lt;p align=&quot;center&quot;&gt; &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt; &lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: middle;&quot; /&gt; &lt;/a&gt; &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt; &lt;/a&gt; &lt;/p&gt; &lt;/td&gt;
-&lt;td&gt; &lt;p align=&quot;center&quot;&gt; &lt;a href=&quot;https://www.ncigt.org/&quot;&gt; &lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot; /&gt; &lt;/a&gt; &lt;a href=&quot;https://www.ncigt.org/&quot;&gt; &lt;/a&gt; &lt;/p&gt; &lt;/td&gt;
-&lt;td&gt; &lt;p align=&quot;center&quot;&gt; &lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt; &lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: middle;&quot; /&gt; &lt;/a&gt; &lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt; &lt;/a&gt; &lt;/p&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/table&gt;
-&lt;p&gt; يتم دعم تطوير قطاعة 3D بواسطة &lt;a href=&quot;https://www.na-mic.org/&quot;&gt; NA-MIC &lt;/a&gt; و &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt; NAC &lt;/a&gt; و &lt;a href=&quot;https://www.ncigt.org/&quot;&gt; و &lt;a href=&quot;https://www.ncigt.org/&quot;&gt; و &lt;/a&gt; و &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt; SPL &lt;/a&gt; و &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt; مجتمع القطاعة &lt;/a&gt;. راجع &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; للحصول على التفاصيل. &lt;/p&gt;
-&lt;p&gt; نود أيضا أن نعرب عن خالص شكرنا لأعضاء مجتمع مستخدمي Slicer الذين ساعدونا في تصميم محتويات وحدة الترحيب هذه ، والذين تستمر ملاحظاتهم في تحسين الوظائف وسهولة الاستخدام وتجربة مستخدم Slicer. &lt;/p&gt;
-&lt;p&gt; تم تطوير هذه الوحدة من قبل جان كريستوف فيليون روبن وجوليان فينيت في Kitware، Inc. ، ومن قبل ويندي بليسنياك وسونيا بوجول وستيف بيبر ورون كيكينيس في مستشفى بريغهام والنساء. &lt;/p&gt;</translation>
+        <translation>&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;p align=&quot;center&quot;&gt;
+&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAMIC.png&quot; width=&quot;80&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;يتم دعم تطوير 3D Slicer بواسطة &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; و ال &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;مجتمع Slicer&lt;/a&gt;.رؤية &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; للحصول على تفاصيل.&lt;/p&gt;
+&lt;p&gt;نود أيضًا أن نعرب عن خالص شكرنا لأعضاء مجتمع مستخدمي Slicer الذين ساعدونا في تصميم محتويات وحدة الترحيب هذه، والذين تواصل ملاحظاتهم تحسين الوظائف وإمكانية الاستخدام وتجربة مستخدم Slicer.&lt;/p&gt;
+&lt;p&gt;تم تطوير هذه الوحدة من قبل جان كريستوف فيليون روبن وجوليان فينيت في Kitware، Inc.، وويندي بليسنياك وسونيا بوجول وستيف بيبر ورون كيكينيس في مستشفى بريجهام والنساء.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
@@ -29011,7 +29014,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="180"/>
         <source>Raising %1 Module:</source>
-        <translation>رفع ٪ 1 وحدة:</translation>
+        <translation>رفع %1 وحدة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
@@ -29039,7 +29042,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="424"/>
         <source>New application version is available: %1</source>
-        <translation>يتوفر إصدار جديد من التطبيق: ٪1</translation>
+        <translation>يتوفر إصدار جديد من التطبيق: %1</translation>
     </message>
 </context>
 <context>
