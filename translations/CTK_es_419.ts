@@ -3953,7 +3953,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1127"/>
         <source>Value = %1</source>
-        <translation>Value = %1</translation>
+        <translation>Valor = %1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1165"/>
