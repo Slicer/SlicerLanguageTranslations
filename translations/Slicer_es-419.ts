@@ -16720,12 +16720,12 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="409"/>
         <source>Use depth peeling</source>
-        <translation>Utilizar pelado de profundidad</translation>
+        <translation>Utilizar peeling de profundidad</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="412"/>
         <source>Depth peeling is used to render transparent surface models in order</source>
-        <translation>El pelado en profundidad se utiliza para renderizar modelos de superficies transparentes con el fin de</translation>
+        <translation>El peeling de profundidad se utiliza para renderizar modelos de superficies transparentes con el fin de</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="424"/>
