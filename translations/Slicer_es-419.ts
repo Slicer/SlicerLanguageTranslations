@@ -13858,7 +13858,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
         <source>Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</source>
-        <translation>Ajuste el campo de visión del Visor de gráficos para que coincida con la extensión de los ejes del gráfico.</translation>
+        <translation>Ajuste el campo de visión del Visor de gráficos para que coincida con la extensión de los ejes del gráfico</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="109"/>
@@ -15371,7 +15371,7 @@ Do you wish to proceed with changing master representation?</translation>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="200"/>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="210"/>
         <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation>Si se activa, después de que el nodo seleccionado se añada a los elementos de la secuencia, la selección se desplaza al siguiente elemento.</translation>
+        <translation>Si se activa, después de que el nodo seleccionado se añada a los elementos de la secuencia, la selección se desplaza al siguiente elemento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="203"/>
@@ -15491,7 +15491,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="567"/>
         <source>Slice spacing may be set automatically or manually by the user or context</source>
-        <translation>El usuario o el contexto pueden establecer el espaciado entre cortes de forma automática o manual.</translation>
+        <translation>El usuario o el contexto pueden establecer el espaciado entre cortes de forma automática o manual</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="598"/>
@@ -16174,7 +16174,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="231"/>
         <source>Slice spacing may be set automatically or manually by the user or context</source>
-        <translation>El usuario o el contexto pueden establecer el espaciado entre cortes de forma automática o manual.</translation>
+        <translation>El usuario o el contexto pueden establecer el espaciado entre cortes de forma automática o manual</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="234"/>
@@ -16528,7 +16528,7 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="382"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation>Haga clic para bloquear esta tabla e impedir la modificación de los valores en la interfaz de usuario.</translation>
+        <translation>Haga clic para bloquear esta tabla e impedir la modificación de los valores en la interfaz de usuario</translation>
     </message>
 </context>
 <context>
@@ -16665,7 +16665,7 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="328"/>
         <source>Interlaced</source>
-        <translation>Interlaced</translation>
+        <translation>Entrelazado</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="331"/>
@@ -16735,7 +16735,7 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="432"/>
         <source>User Defined 1</source>
-        <translation>User Defined 1</translation>
+        <translation>Usuario 1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="435"/>
@@ -16980,7 +16980,7 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="168"/>
         <source>Enable scaling by manpulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</source>
-        <translation>Habilitar la escala mediante la manipulación del widget 3D (Mayús + clic izquierdo y arrastrar el controlador situado en el centro de la cara del widget, o clic izquierdo y arrastrar el controlador central).</translation>
+        <translation>Habilitar la escala mediante la manipulación del widget 3D (Mayús + clic izquierdo y arrastrar el controlador situado en el centro de la cara del widget, o clic izquierdo y arrastrar el controlador central)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="181"/>
@@ -17000,7 +17000,7 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="214"/>
         <source>Enable scaling by manpulating 3D widget (left click and drag the handle at the center of widget face)</source>
-        <translation>Habilite la escala mediante la manipulación del widget 3D (haga clic con el botón izquierdo del ratón y arrastre el asa situada en el centro de la cara del widget).</translation>
+        <translation>Habilite la escala mediante la manipulación del widget 3D (haga clic con el botón izquierdo del ratón y arrastre el asa situada en el centro de la cara del widget)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="233"/>
@@ -19728,11 +19728,12 @@ Si no se marcó, el conjunto de datos exportado se añadirán a la base de datos
     <message numerus="yes">
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="737"/>
         <source>Export %n node(s)</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>Singular
 Exportar nodo %n</numerusform>
             <numerusform>Plural
 Exportar %n nodos</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -20631,7 +20632,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="46"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="56"/>
         <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-        <translation>Opción para eliminar los artefactos de vetas de madera aplicando ruido aleatorio al ray casting.</translation>
+        <translation>Opción para eliminar los artefactos de vetas de madera aplicando ruido aleatorio al ray casting</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="49"/>
@@ -21062,7 +21063,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="514"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
-        <translation>Abrir el asistente &quot;Gestor de extensiones&quot; que proporciona el estado y la información sobre las extensiones disponibles.</translation>
+        <translation>Abrir el asistente &quot;Gestor de extensiones&quot; que proporciona el estado y la información sobre las extensiones disponibles</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="517"/>
@@ -21646,7 +21647,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</source>
-        <translation>Guardar la configuración actual de las propiedades de visualización en los valores predeterminados, se guardará para cuando se reinicie Slicer (consulte Configuración de la aplicación).</translation>
+        <translation>Guardar la configuración actual de las propiedades de visualización en los valores predeterminados, se guardará para cuando se reinicie Slicer (consulte Configuración de la aplicación)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
@@ -22474,7 +22475,7 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="160"/>
         <source>Default glyph scale</source>
-        <translation>Default glyph scale</translation>
+        <translation>Escala de glifos por defecto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="176"/>
@@ -23712,7 +23713,7 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="75"/>
         <source>Erase from current segment with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; erase from segment around the mouse pointer.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar del segmento actual con un pincel redondo&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastrar y soltar con el botón izquierdo:&lt;/b&gt; borrar del segmento alrededor del puntero del mouse.&lt;li&gt;&lt;b&gt;Shift + rueda del mouse&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; ajustar el tamaño del pincel.&lt;li&gt;&lt;b&gt;Ctrl + rueda del mouse:&lt;/b&gt; acercar/alejar la vista en corte.&lt;/ul&gt;&lt;p&gt;La edición está disponible tanto en las vistas en corte como en 3D.&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -23729,7 +23730,7 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="993"/>
         <source>Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pintar con pincel redondo&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastrar y soltar con el botón izquierdo:&lt;/b&gt; pinceladas.&lt;li&gt;&lt;b&gt;Shift + rueda del mouse&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; ajustar el tamaño del pincel.&lt;li&gt;&lt;b&gt;Ctrl + rueda del mouse:&lt;/b&gt; acercar/alejar la vista en corte.&lt;/ul&gt;&lt;p&gt;La edición está disponible tanto en las vistas en corte como en 3D.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1422"/>
@@ -23818,7 +23819,7 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
         <source>Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar todo el segmento desde el punto de vista actual&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastrar y soltar con el botón izquierdo:&lt;/b&gt; trazar un esquema.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancelar.&lt;/ul&gt;&lt;p&gt;La edición está disponible tanto en la vista de cortes como en la vista 3D. En la vista de cortes, el corte se aplicará a todos los cortes.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1203"/>
@@ -23951,7 +23952,7 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="32"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-        <translation>Establecer automáticamente la opacidad de los segmentos en función de cuál contiene a cuál, de modo que ningún segmento oculte a otro.</translation>
+        <translation>Establecer automáticamente la opacidad de los segmentos en función de cuál contiene a cuál, de modo que ningún segmento oculte a otro</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="35"/>
@@ -23991,7 +23992,7 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="47"/>
         <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
-        <translation>Nodo que se utilizó para establecer la geometría de segmentación (origen, espaciado, direcciones de los ejes y extensión por defecto).</translation>
+        <translation>Nodo que se utilizó para establecer la geometría de segmentación (origen, espaciado, direcciones de los ejes y extensión por defecto)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="50"/>
@@ -24071,7 +24072,7 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="335"/>
         <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation>Copiar de la segmentación actual a otro nodo (nodo Segmentación para copiar y nodo Modelo o Mapa de etiquetas para importar/exportar).</translation>
+        <translation>Copiar de la segmentación actual a otro nodo (nodo Segmentación para copiar y nodo Modelo o Mapa de etiquetas para importar/exportar)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="338"/>
@@ -24081,7 +24082,7 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="363"/>
         <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation>Copiar de la segmentación actual a otro nodo (nodo Segmentación para copiar y nodo Modelo o Mapa de etiquetas para importar/exportar).</translation>
+        <translation>Copiar de la segmentación actual a otro nodo (nodo Segmentación para copiar y nodo Modelo o Mapa de etiquetas para importar/exportar)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="366"/>
@@ -24316,7 +24317,9 @@ Would you like to change the master representation of &apos;%5&apos; to &apos;%1
 
 Note: This may result in unwanted data loss in %5.</oldsource>
         <translation>No se puede convertir la representación de origen &apos;%1&apos; en origen de destino &apos;%2&apos;, por lo que no se puede copiar el segmento &apos;%3&apos; de la segmentación &apos;%4&apos; a &apos;%5&apos;.
+
 ¿Desea cambiar la representación de origen de &apos;%5&apos; a &apos;%1&apos;?
+
 Nota: Esto puede provocar una pérdida de datos no deseada en %5.</translation>
     </message>
     <message>
@@ -24446,7 +24449,7 @@ Lo más probable es que el segmento no pueda convertirse en una representación 
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="30"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="56"/>
         <source>Automatically set opacities of the segments when loading from file based on which contains which, so that no segment obscures another</source>
-        <translation>Establecer automáticamente las opacidades de los segmentos al cargarlos desde un archivo en función de cuál contiene cuál, de modo que ningún segmento oculte a otro.</translation>
+        <translation>Establecer automáticamente las opacidades de los segmentos al cargarlos desde un archivo en función de cuál contiene cuál, de modo que ningún segmento oculte a otro</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="23"/>
@@ -24497,7 +24500,7 @@ Lo más probable es que el segmento no pueda convertirse en una representación 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="93"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-        <translation>Establecer automáticamente la opacidad de los segmentos en función de cuál contiene a cuál, de modo que ningún segmento oculte a otro.</translation>
+        <translation>Establecer automáticamente la opacidad de los segmentos en función de cuál contiene a cuál, de modo que ningún segmento oculte a otro</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="97"/>
@@ -25002,7 +25005,7 @@ Lo más probable es que el segmento no pueda convertirse en una representación 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="27"/>
         <source>Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</source>
-        <translation>Ejecutar la aplicación en modo desarrollador: los módulos de prueba se muestran en la lista de módulos, la sección Recargar y Probar se muestra en la interfaz del usuario de los módulos programados, los archivos de entrada y salida del módulo CLI no se eliminan tras la ejecución del módulo.</translation>
+        <translation>Ejecutar la aplicación en modo desarrollador: los módulos de prueba se muestran en la lista de módulos, la sección Recargar y Probar se muestra en la interfaz del usuario de los módulos programados, los archivos de entrada y salida del módulo CLI no se eliminan tras la ejecución del módulo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="37"/>
@@ -25503,7 +25506,7 @@ Por defecto: {documentationbaseurl}/guía_usuario/módulos/{lowercasemodulename}
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list</source>
-        <translation>Añadir a la lista arrastrando los módulos de la anterior lista &quot;Módulos&quot;.</translation>
+        <translation>Añadir a la lista arrastrando los módulos de la anterior lista &quot;Módulos&quot;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="759"/>
@@ -26200,6 +26203,7 @@ Default patient and study will be created and the selected data and its related 
 If you&apos;d like to create the hierarchy manually, please click Cancel, then create a patient by right-clicking the empty area in Subject hierarchy in the Data module and choosing &apos;Create new subject&apos;. Study can be similarly created under the patient. The data to export can be drag&amp;dropped under the study.</oldsource>
         <translation>Los datos a exportar deben estar bajo un ítem de estudio, colocado bajo un ítem de paciente en la jerarquía de materias.
 Se crearán un paciente y un estudio predeterminados y los datos seleccionados y sus conjuntos de datos relacionados se moverán en ellos para la exportación.
+
 Haga clic en Cancelar, para crear la jerarquía paciente/estudio manualmente y arrastrar y soltar los datos exportables bajo el estudio.</translation>
     </message>
     <message>
@@ -26620,7 +26624,9 @@ Would you like to change the master representation of &apos;%4&apos; to &apos;%1
 
 Note: This may result in unwanted data loss in %4.</oldsource>
         <translation>No se puede convertir la representación de origen &apos;%1&apos; en origen de destino &apos;%2&apos;, por lo que no se puede importar el nodo &apos;%3&apos; a la segmentación &apos;%4&apos;.
+
 ¿Desea cambiar la representación de origen de &apos;%4&apos; a &apos;%1&apos;?
+
 Nota: Esto puede provocar una pérdida de datos no deseada en el %4.</translation>
     </message>
     <message>
@@ -26798,7 +26804,9 @@ Would you like to change the master representation of &apos;%5&apos; to &apos;%1
 
 Note: This may result in unwanted data loss in %5.</oldsource>
         <translation>No se puede convertir la representación de origen &apos;%1&apos; en origen de destino &apos;%2&apos;,por lo que no se puede mover el segmento &apos;%3&apos; de la segmentación &apos;%4&apos; a &apos;%5&apos;.
+
 ¿Desea cambiar la representación de origen de &apos;%5&apos; a &apos;%1&apos;?
+
 Nota: Esto puede provocar una pérdida de datos no deseada en %5.</translation>
     </message>
     <message>
@@ -27634,7 +27642,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="280"/>
         <source>Select terminology...</source>
-        <translation>Select terminology...</translation>
+        <translation>Seleccionar terminología...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="337"/>
@@ -29125,9 +29133,10 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="388"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%1 Actualización de la extensión está disponible</numerusform>
             <numerusform>%1 Actualizaciones de las extensiones están disponibles</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
