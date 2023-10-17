@@ -25967,7 +25967,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="262"/>
         <source>Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</source>
-        <translation>Activar el pelado de profundidad mejora el renderizado de modelos transparentes a cambio de un mayor gasto computacional.</translation>
+        <translation>Activar el peeling de profundidad mejora el renderizado de modelos transparentes a cambio de un mayor gasto computacional.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="272"/>
@@ -26055,7 +26055,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="145"/>
         <source>3D depth peeling</source>
-        <translation type="unfinished">Peeling en profundidad 3D</translation>
+        <translation>Peeling de profundidad 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="148"/>
