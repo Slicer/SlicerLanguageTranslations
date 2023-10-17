@@ -403,7 +403,7 @@ Al cerrar la pestaña se cancelará el cálculo actual.</translation>
         <source>Creating a %1 frontend failed:
 
 %2</source>
-        <translation type="unfinished">Error al crear un %1 frontend:
+        <translation>Error al crear un %1 frontend:
 %2</translation>
     </message>
 </context>
@@ -3918,7 +3918,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="641"/>
         <source>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Contributed by: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quit  &lt;em&gt;h&lt;/em&gt;: display this help  &lt;em&gt;i&lt;/em&gt;: invert intensities  &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom  &lt;em&gt;x y&lt;/em&gt;: flip along the x / y axis  &lt;em&gt;r&lt;/em&gt;: reset to initial conditions  &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: change to next / previous slice&lt;h3&gt;Mouse commands:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: window and level  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: center</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;CTK Visor de imágenes simple Widget&lt;/h1&gt;Contribución de: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Comandos de teclado:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quitar  &lt;em&gt;h&lt;/em&gt;: mostrar esta ayuda  &lt;em&gt;i&lt;/em&gt;: invertir intensidades  &lt;em&gt;[ ]&lt;/em&gt;: aumentar / disminuir el zoom  &lt;em&gt;x y&lt;/em&gt;: voltear a lo largo del eje x / y  &lt;em&gt;r&lt;/em&gt;: restablecimiento de las condiciones iniciales  &lt;em&gt;spacebar&lt;/em&gt;: alternar el seguimiento continuo del cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: cambiar al corte siguiente / anterior&lt;h3&gt;Comandos del mouse:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: ventana y nivel  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: centrar</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1052"/>
@@ -4216,7 +4216,7 @@ todos los ajustes a sus valores por defecto?
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="31"/>
         <source>Object</source>
-        <translation>Object</translation>
+        <translation>Objeto</translation>
     </message>
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="32"/>
