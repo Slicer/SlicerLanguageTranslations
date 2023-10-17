@@ -13743,7 +13743,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="24"/>
         <source>Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</source>
-        <translation>Seleccione el Nodo de trazado de gráfico, que gestiona las propiedades generales del gráfico y permite seleccionar varios Nodo de series de trazado.</translation>
+        <translation>Seleccione el Nodo de trazado de gráfico, que gestiona las propiedades generales del gráfico y permite seleccionar varios Nodos de series de gráfico.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
@@ -13758,7 +13758,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
         <source>Add/Remove plots data series to/from the current chart.</source>
-        <translation>Añadir/eliminar series de datos al/del gráfico actual.</translation>
+        <translation>Añadir/eliminar series de datos del gráfico al/del trazado actual.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
@@ -27981,7 +27981,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="64"/>
         <source>Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</source>
-        <translation>Selecciona una vista de la escena actual. Cada elemento corresponde a un widget específico. Los nodos de vista están conectados con widgets de renderizado 3D. Vista de gráfico con widgets de trazado. Cortes (Rojo, Verde, Amarillo) con widgets de renderizado 2D.</translation>
+        <translation>Selecciona una vista de la escena actual. Cada elemento corresponde a un widget específico. Los nodos de vista están conectados con widgets de renderizado 3D. Vista con widgets de gráfico. Cortes (Rojo, Verde, Amarillo) con widgets de renderizado 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
