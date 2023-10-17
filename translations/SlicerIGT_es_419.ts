@@ -1713,7 +1713,7 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="451"/>
         <source>Clipping</source>
-        <translation>Recorte</translation>
+        <translation>Recortar</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="460"/>
@@ -1723,7 +1723,7 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="463"/>
         <source>Clip rectangle origin:</source>
-        <translation>Recorte el origen del rectángulo:</translation>
+        <translation>Recortar el origen del rectángulo:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="475"/>
@@ -1773,12 +1773,12 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="573"/>
         <source>First fan angle used for clipping. Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished"></translation>
+        <translation>Primer ángulo de apertura utilizado para el recorte. Sólo se reconstruirá la región dentro de los dos ángulos de apertura</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="580"/>
         <source>Second fan angle used for clipping. Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundo ángulo de apertura utilizado para el recorte. Sólo se reconstruirá la región dentro de los dos ángulos de apertura</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="600"/>
