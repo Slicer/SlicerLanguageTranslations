@@ -19417,7 +19417,7 @@ Si no se marcó, el conjunto de datos exportado se añadirán a la base de datos
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="80"/>
         <source>Subject hierarchy</source>
-        <translation>Jerarquía temática</translation>
+        <translation>Jerarquia de proyectos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="106"/>
