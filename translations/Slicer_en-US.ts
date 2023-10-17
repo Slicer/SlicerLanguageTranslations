@@ -23517,7 +23517,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1163"/>
         <source>Scissors</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijeras</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
