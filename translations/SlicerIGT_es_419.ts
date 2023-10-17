@@ -76,7 +76,7 @@
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="222"/>
         <source>Line to closest point text size:</source>
-        <translation type="unfinished">Tamaño de texto de línea al punto más cercano:</translation>
+        <translation type="unfinished">Tamaño del texto de línea al punto más cercano:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="242"/>
@@ -1624,7 +1624,7 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="253"/>
         <source>Optimization mode (turn off optimization only if it is not stable on your architecture)</source>
-        <translation>Modo de optimización (desactive la optimización sólo si no es estable en su arquitectura).</translation>
+        <translation>Modo de optimización (desactive la optimización sólo si no es estable en su arquitectura)</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="260"/>
@@ -1641,7 +1641,7 @@
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="277"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="287"/>
         <source>Indicates if hole filling should be applied on reconstructed volume</source>
-        <translation>Indique si debe aplicarse el relleno de agujeros en el volumen reconstruido.</translation>
+        <translation>Indique si debe aplicarse el relleno de agujeros en el volumen reconstruido</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="280"/>
@@ -1718,7 +1718,7 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="460"/>
         <source> Crop rectangle origin (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> Origen del rectángulo de corte (en píxeles).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="463"/>
@@ -1728,17 +1728,17 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="475"/>
         <source> Crop rectangle origin X component (in pixels).</source>
-        <translation> Recorte el componente X del tamaño del rectángulo (en píxeles).</translation>
+        <translation> Corte el componente X del tamaño del rectángulo (en píxeles).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="491"/>
         <source> Crop rectangle origin Y component(in pixels).</source>
-        <translation> recorte componente Y del tamaño del rectángulo (en píxeles).</translation>
+        <translation> Corte componente Y del tamaño del rectángulo (en píxeles).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="506"/>
         <source>Crop rectangle size (in pixels).</source>
-        <translation>Recorte el tamaño del rectángulo (en píxeles).</translation>
+        <translation>Corte el tamaño del rectángulo (en píxeles).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="509"/>
@@ -1748,7 +1748,7 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="521"/>
         <source>Crop rectangle size X component (in pixels).</source>
-        <translation>Recorte el componente X del tamaño del rectángulo (en píxeles).</translation>
+        <translation>Corte el componente X del tamaño del rectángulo (en píxeles).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="534"/>
@@ -1763,7 +1763,7 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="561"/>
         <source>Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished">Sólo se reconstruirá la región dentro de los dos ángulos de inclinación.</translation>
+        <translation>Sólo se reconstruirá la región dentro de los dos ángulos de inclinación</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="564"/>
