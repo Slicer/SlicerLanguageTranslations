@@ -730,37 +730,37 @@
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="161"/>
         <source>Display line to closest point</source>
-        <translation>Afficher la ligne jusqu&apos;au point le plus proche</translation>
+        <translation>Afficher la ligne sur le point le plus proche</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="178"/>
         <source>Line to closest point color</source>
-        <translation>Couleur de la ligne jusqu&apos;au point le plus proche</translation>
+        <translation>Couleur de la ligne sur le point le plus proche</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="188"/>
         <source>Display warning color</source>
-        <translation>Afficher la couleur d’avertissement</translation>
+        <translation>Couleur d&apos;affichage des alertes</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="205"/>
         <source>Warning color</source>
-        <translation>Couleur d&apos;avertissement</translation>
+        <translation>Couleur d&apos;alerte</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="212"/>
         <source>Play warning sound</source>
-        <translation>Jouer un son d&apos;avertissement</translation>
+        <translation>Son d&apos;alerte</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="222"/>
         <source>Line to closest point text size:</source>
-        <translation>Taille du texte de la ligne au point le plus proche&#xa0;:</translation>
+        <translation>Taille du texte de la ligne sur le point le plus proche.</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="242"/>
         <source>Line to closest point thickness:</source>
-        <translation>Épaisseur de la ligne au point le plus proche&#xa0;:</translation>
+        <translation>Épaisseur de la ligne sur le point le plus proche</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="265"/>
@@ -798,7 +798,7 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="14"/>
         <source>Module Template</source>
-        <translation>Modèle de module</translation>
+        <translation>Module Template</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="22"/>
@@ -813,7 +813,7 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="36"/>
         <source>Points will be collected according to the origin of this coordinate system.</source>
-        <translation>Les points seront collectés selon l&apos;origine de ce système de coordonnées.</translation>
+        <translation>Les points seront mémorisés selon l&apos;origine de ce système de coordonnées</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
@@ -847,7 +847,7 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="68"/>
         <source>Toggle visibility of the output node</source>
-        <translation>Basculer la visibilité du nœud de sortie</translation>
+        <translation>Afficher / cacher la sortie</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="71"/>
@@ -858,7 +858,7 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="82"/>
         <source>Delete the last point from the output node (hold click to see the option delete all)</source>
-        <translation>Supprimez le dernier point du nœud de sortie (maintenez le clic enfoncé pour voir l&apos;option Supprimer tout)</translation>
+        <translation>Suprimer le dernier point de cette sortie (maintenir le clic pour voir l&apos;option tout supprimer)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="96"/>
@@ -883,22 +883,22 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="116"/>
         <source>Change the color of the output node</source>
-        <translation>Changer la couleur du nœud de sortie</translation>
+        <translation>Modifier la couleur d&apos;affichage</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="128"/>
         <source>Output Node:</source>
-        <translation>Nœud de sortie&#xa0;:</translation>
+        <translation>Sortie :</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="137"/>
         <source>Collect points either one at a time, or collect them automatically (tick the checkbox).</source>
-        <translation>Collectez des points soit un à la fois, soit collectez-les automatiquement (cochez la case).</translation>
+        <translation>Mémoriser les points un par un ou automatiquement (cocher la case).</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="140"/>
         <source>Collect</source>
-        <translation>Collecter</translation>
+        <translation>Mémoriser</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="147"/>
@@ -918,7 +918,7 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="170"/>
         <source>Minimum Distance:</source>
-        <translation>Distance minimale&#xa0;:</translation>
+        <translation>Distance minimale :</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="177"/>
@@ -943,12 +943,12 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="204"/>
         <source>Points will be collected relative to the anchor coordinate system.</source>
-        <translation>Les points seront collectés par rapport au système de coordonnées d&apos;ancrage.</translation>
+        <translation>Les points seront mémorisés par rapport au centre du système de coordonnées.</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="225"/>
         <source>Anchor Node:</source>
-        <translation>Nœud d&apos;ancrage&#xa0;:</translation>
+        <translation>Centre du système de coordonnées</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="252"/>
@@ -958,7 +958,7 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="255"/>
         <source>Delete all points from the node</source>
-        <translation>Supprimer tous les points du nœud</translation>
+        <translation>Supprimer tous les points de ce noeud</translation>
     </message>
 </context>
 <context>
@@ -971,12 +971,12 @@
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="521"/>
         <source>Auto-Collect</source>
-        <translation>Collecte automatique</translation>
+        <translation>Auto-mémoriser</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="527"/>
         <source>Collect</source>
-        <translation>Collecter</translation>
+        <translation>Mémoriser</translation>
     </message>
 </context>
 <context>
@@ -989,7 +989,7 @@
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="33"/>
         <source>Create models</source>
-        <translation>Créer des modèles</translation>
+        <translation>Créer les modèles</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="39"/>
