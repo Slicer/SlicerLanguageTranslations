@@ -1238,7 +1238,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
         <source>The inputVolume with optional [maskOutput|cropOutput] to the region of the brain mask.</source>
-        <translation>El inputVolume con opcional [máscara Salida | recorte Salida]a la región de la máscara cerebral.</translation>
+        <translation>El inputVolume con opcional [máscara de Salida | corte de Salida]a la región de la máscara cerebral.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="18"/>
@@ -1248,7 +1248,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="19"/>
         <source>The inputVolume cropped to the region of the ROI mask.</source>
-        <translation>El input Volumen recortado a la región de la máscara ROI.</translation>
+        <translation>El input Volumen fue cortado a la región de la máscara ROI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="20"/>
@@ -7708,7 +7708,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="29"/>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation>Este módulo puede recortar y remuestrear una secuencia de volumen para reducir su tamaño y acelerar el renderizado y el procesamiento.</translation>
+        <translation>Este módulo puede cortar y remuestrear una secuencia de volumen para reducir su tamaño y acelerar el renderizado y el procesamiento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="40"/>
@@ -11880,7 +11880,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="14"/>
         <source>Clip</source>
-        <translation>Cortar</translation>
+        <translation>Recortar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="23"/>
@@ -11949,7 +11949,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="108"/>
         <source>Yellow Slice Clipping:</source>
-        <translation>Recorte de corte amarillo:</translation>
+        <translation>Recorte del corte amarillo:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="111"/>
@@ -12220,7 +12220,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
         <source>&amp;Clip:</source>
-        <translation>&amp;Cortar:</translation>
+        <translation>&amp;Recorte:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
@@ -13025,7 +13025,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="104"/>
         <source>Clipping:</source>
-        <translation>Recorte:</translation>
+        <translation>Recortar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
@@ -18956,7 +18956,7 @@ Capacidades gráficas de este ordenador:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="267"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="586"/>
         <source>Cropped volume</source>
-        <translation>Volumen recortado</translation>
+        <translation>Volumen cortado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="279"/>
@@ -18971,7 +18971,7 @@ Capacidades gráficas de este ordenador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="325"/>
         <source>Interpolated cropping:</source>
-        <translation>Recorte interpolado:</translation>
+        <translation>Corte interpolado:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="332"/>
@@ -18982,7 +18982,7 @@ Capacidades gráficas de este ordenador:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="348"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="358"/>
         <source>The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</source>
-        <translation>El espaciado entre vóxeles en el volumen de salida será escalado por este valor. Los valores superiores a 1,0 harán que el volumen recortado tenga una resolución inferior a la del volumen de entrada. Los valores inferiores a 1,0 harán que el volumen recortado tenga mayor resolución que el volumen de entrada.</translation>
+        <translation>El espaciado entre vóxeles en el volumen de salida será escalado por este valor. Los valores superiores a 1,0 harán que el volumen cortado tenga una resolución inferior a la del volumen de entrada. Los valores inferiores a 1,0 harán que el volumen recortado tenga mayor resolución que el volumen de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="351"/>
@@ -19064,7 +19064,7 @@ Capacidades gráficas de este ordenador:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="516"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="595"/>
         <source>Output volume dimension after cropping</source>
-        <translation>Dimensión del volumen de salida tras el recorte</translation>
+        <translation>Dimensión del volumen de salida tras el corte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="528"/>
@@ -24417,12 +24417,12 @@ Lo más probable es que el segmento no pueda convertirse en una representación 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="46"/>
         <source>Crop to minimum extent</source>
-        <translation>Recortar al mínimo</translation>
+        <translation>Cortar al mínimo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="48"/>
         <source>If enabled then segmentation labelmap representation is cropped to the minimum necessary size. This saves storage space but changes voxel coordinate system (physical coordinate system is not affected).</source>
-        <translation>Si se activa, la representación del mapa de etiquetas de segmentación se recorta al tamaño mínimo necesario. Esto ahorra espacio de almacenamiento pero cambia el sistema de coordenadas de los vóxeles (el sistema de coordenadas físicas no se ve afectado).</translation>
+        <translation>Si se activa, la representación del mapa de etiquetas de segmentación se corta al tamaño mínimo necesario. Esto ahorra espacio de almacenamiento pero cambia el sistema de coordenadas de los vóxeles (el sistema de coordenadas físicas no se ve afectado).</translation>
     </message>
 </context>
 <context>
