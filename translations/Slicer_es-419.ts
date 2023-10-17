@@ -13591,7 +13591,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
-        <translation type="unfinished">Propiedades de la serie Plot</translation>
+        <translation>Propiedades de la serie de gráficos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
@@ -13743,7 +13743,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="24"/>
         <source>Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</source>
-        <translation type="unfinished">Seleccione el NodoDeTrazadoDeGráfico, que gestiona las propiedades generales del gráfico y permite seleccionar varios NodoDeSeriesDeTrazado.</translation>
+        <translation>Seleccione el Nodo de trazado de gráfico, que gestiona las propiedades generales del gráfico y permite seleccionar varios Nodo de series de trazado.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
@@ -13768,7 +13768,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="97"/>
         <source>Plot data series:</source>
-        <translation>Trazar series de datos:</translation>
+        <translation>Graficar series de datos:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="104"/>
@@ -13778,7 +13778,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="111"/>
         <source>This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </source>
-        <translation type="unfinished">Este cuadro combinado permite cambiar el Tipo para todos los NodoDeSeriesDeTrazado activos. Si se elige un valor, todos los NodoDeSeriesDeTrazado referenciados por el NodoDeTrazadoDeGráfico se actualizarán con el nuevo valor. </translation>
+        <translation>Este cuadro combinado permite cambiar el Tipo para todos los NodoDeSeriesDeTrazado activos. Si se elige un valor, todos los Nodo de series de trazado referenciados por el Nodo de trazado de gráfico se actualizarán con el nuevo valor. </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="118"/>
