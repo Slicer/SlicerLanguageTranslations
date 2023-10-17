@@ -83,7 +83,7 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="283"/>
         <source>Load modules...</source>
-        <translation>Charger les modules...</translation>
+        <translation>Charger les modules…</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="435"/>
