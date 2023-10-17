@@ -13457,7 +13457,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
         <source>Plot data series:</source>
-        <translation>Trazar series de datos:</translation>
+        <translation>Graficar series de datos:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
@@ -16441,7 +16441,7 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
         <source>Failed to plot data</source>
-        <translation>Fallo al trazar los datos</translation>
+        <translation>Fallo al graficar los datos</translation>
     </message>
 </context>
 <context>
@@ -21414,7 +21414,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1103"/>
         <source>Plot only</source>
-        <translation>Sólo gráfico</translation>
+        <translation>Sólo graficar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1106"/>
@@ -24667,7 +24667,7 @@ Lo más probable es que el segmento no pueda convertirse en una representación 
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="227"/>
         <source>Plotting</source>
-        <translation type="unfinished">Plotting</translation>
+        <translation>Graficar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="242"/>
