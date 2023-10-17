@@ -13462,12 +13462,12 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
         <source>Add/Remove plots data series to/from the current chart.</source>
-        <translation>Añadir/eliminar series de datos al/del gráfico actual.</translation>
+        <translation>Añadir/eliminar series de datos del gráfico al/del trazado actual.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="72"/>
         <source>Chart title:</source>
-        <translation>Título de la gráfica:</translation>
+        <translation>Título del gráfico:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="79"/>
@@ -13763,7 +13763,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
         <source>Plot chart:</source>
-        <translation>Marcar el gráfico:</translation>
+        <translation>Trazar el gráfico:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="97"/>
@@ -16441,7 +16441,7 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
         <source>Failed to plot data</source>
-        <translation>Fallo al graficar los datos</translation>
+        <translation>Error al graficar los datos</translation>
     </message>
 </context>
 <context>
