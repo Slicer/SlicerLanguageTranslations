@@ -1898,46 +1898,46 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"/>
         <source>Cast Scalar Volume</source>
-        <translation>حجم العددية المصبوب</translation>
+        <translation>حجم الكمية المصبوبة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"/>
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation>أدخل حجم إلى نوع بيانات معين
-استخدم على مسؤوليتك الخاصة عند تحويل حجم إدخال إلى نوع أقل دقة!
-يسمح بالبث إلى نفس نوع حجم الإدخال.</translation>
+        <translation>ألقي حجمًا على نوع بيانات معين.
+استخدم على مسؤوليتك الخاصة عند وضع حجم الإدخال في نوع دقة أقل!
+يسمح بالصب إلى نفس نوع حجم الإدخال.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال/ الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال / الإخراج</translation>
+        <translation>إعدادات الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">حجم الإدخال</translation>
+        <translation>حجم الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">حجم الإخراج</translation>
+        <translation>حجم الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
         <source>Input volume, the volume to cast.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم المدخلات، الحجم للإلقاء.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"/>
@@ -1952,18 +1952,18 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="15"/>
         <source>Output Type</source>
-        <translation>نوع الخارج</translation>
+        <translation>نوع الناتج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="16"/>
         <source>Scalar data type for the new output volume.</source>
-        <translation>نوع البيانات العددية للحجم الخارج الجديد.</translation>
+        <translation>نوع البيانات القياسية لحجم الإخراج الجديد.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished">حرف غير موقع</translation>
+        <translation>حرف غير موقع</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
@@ -1973,22 +1973,22 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation type="unfinished">قصير</translation>
+        <translation>قصير</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished">شخصية قصيرة غير موقعة</translation>
+        <translation>قصير غير موقع</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
         <source>Int</source>
-        <translation type="unfinished">عدد صحيح</translation>
+        <translation>عدد صحيح</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished">عدد صحيح غير موقع</translation>
+        <translation>عدد صحيح غير موقع</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
@@ -2046,22 +2046,22 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="12"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال / الإخراج</translation>
+        <translation>اعدادات الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">حجم الإدخال 1</translation>
+        <translation>حجم الإدخال 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">حجم الإدخال 2</translation>
+        <translation>حجم الإدخال 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">حجم الإخراج</translation>
+        <translation>حجم الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
@@ -2094,7 +2094,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">تم اشتقاق وحدة الأوامر هذه من Insight / أمثلة (حقوق الطبع والنشر) اتحاد Insight للبرمجيات</translation>
+        <translation>تم اشتقاق وحدة الأوامر هذه من Insight / أمثلة (حقوق الطبع والنشر) اتحاد Insight للبرمجيات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
@@ -2104,22 +2104,22 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished">معلمات الإدخال</translation>
+        <translation>اعدادات الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">حجم الإدخال</translation>
+        <translation>حجم الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished">حجم الإدخال المراد إعادة تشكيله</translation>
+        <translation>حجم الإدخال المراد إعادة تشكيله</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
         <source>Output</source>
-        <translation type="unfinished">الناتج</translation>
+        <translation>الناتج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="12"/>
@@ -11869,7 +11869,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="14"/>
         <source>Color Legend</source>
-        <translation type="unfinished">وسيلة إيضاح اللون</translation>
+        <translation>وسيلة إيضاح اللون</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
@@ -11915,7 +11915,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="131"/>
         <source>Number of labels:</source>
-        <translation type="unfinished">عدد الملصقات:</translation>
+        <translation>عدد الملصقات:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
@@ -26027,7 +26027,7 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Modules/Loadable/Colors/SubjectHierarchyPlugins/qSlicerSubjectHierarchyColorLegendPlugin.cxx" line="87"/>
         <source>Show color legend</source>
-        <translation type="unfinished">إظهار وسيلة إيضاح الألوان</translation>
+        <translation>إظهار وسيلة إيضاح الألوان</translation>
     </message>
 </context>
 <context>
