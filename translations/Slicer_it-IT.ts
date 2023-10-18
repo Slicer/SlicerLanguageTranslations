@@ -1619,7 +1619,7 @@ Questo programma è utile per sotto campionare un&apos;immagine con un fattore d
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sviluppo di questo strumento è stato sostenuto dai finanziamenti delle sovvenzioni NS050568 e NS40068 dell&apos;Istituto nazionale dei disturbi neurologici e dell&apos;ictus e dalle sovvenzioni MH31593, MH40856 dell&apos;Istituto nazionale di salute mentale.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
@@ -1680,7 +1680,7 @@ Questo programma è utile per sotto campionare un&apos;immagine con un fattore d
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>corto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
