@@ -374,7 +374,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation type="unfinished">నమోదు కోసం ఉపయోగించబడే స్థిర చిత్రం యొక్క వోక్సెల్‌ల భిన్నం. సంఖ్య సున్నా కంటే పెద్దదిగా ఉండాలి మరియు ఒకదానికి తక్కువ లేదా సమానంగా ఉండాలి. అధిక విలువలు గణన సమయాన్ని పెంచుతాయి కానీ మరింత ఖచ్చితమైన ఫలితాలను ఇవ్వవచ్చు. మీరు ROI మాస్క్‌లు మరియు ROIAUTO మాస్క్ ఉత్పత్తితో నమూనా దృష్టిని కూడా పరిమితం చేయవచ్చు. డిఫాల్ట్ 0.002 (సుమారు 0.2% వోక్సెల్‌లను ఉపయోగించండి, దీని ఫలితంగా 512x512x192 వాల్యూమ్‌లో 100000 నమూనాలు లభిస్తాయి) చాలా సందర్భాలలో చాలా వేగవంతమైన నమోదును అందించడానికి. సాధారణ విలువలు తక్కువ వివరాల చిత్రాల కోసం 0.01 (1%) నుండి అధిక వివరాల చిత్రాల కోసం 0.2 (20%) వరకు ఉంటాయి.</translation>
+        <translation>నమోదు కోసం ఉపయోగించబడే స్థిర చిత్రం యొక్క వోక్సెల్‌ల భిన్నం. సంఖ్య సున్నా కంటే పెద్దదిగా ఉండాలి మరియు ఒకదానికి తక్కువ లేదా సమానంగా ఉండాలి. అధిక విలువలు గణన సమయాన్ని పెంచుతాయి కానీ మరింత ఖచ్చితమైన ఫలితాలను ఇవ్వవచ్చు. మీరు ROI మాస్క్‌లు మరియు ROIAUTO మాస్క్ ఉత్పత్తితో నమూనా దృష్టిని కూడా పరిమితం చేయవచ్చు. డిఫాల్ట్ 0.002 (సుమారు 0.2% వోక్సెల్‌లను ఉపయోగించండి, దీని ఫలితంగా 512x512x192 వాల్యూమ్‌లో 100000 నమూనాలు లభిస్తాయి) చాలా సందర్భాలలో చాలా వేగవంతమైన నమోదును అందించడానికి. సాధారణ విలువలు తక్కువ వివరాల చిత్రాల కోసం 0.01 (1%) నుండి అధిక వివరాల చిత్రాల కోసం 0.2 (20%) వరకు ఉంటాయి.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
@@ -500,22 +500,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="40"/>
         <source>Affine(12 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">అఫిన్ (12 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"/>
         <source>BSpline (&gt;27 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">BSpline (&gt;27 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"/>
         <source>SyN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S యన్</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="43"/>
         <source>Composite (many DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>మిశ్రమ (అనేక DoF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
