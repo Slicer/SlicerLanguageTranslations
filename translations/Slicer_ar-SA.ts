@@ -10227,7 +10227,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="16"/>
         <source>Mask volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم القناع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="42"/>
@@ -10235,7 +10235,10 @@ segment list in effect options - below.
 The mask is applied to the source volume by default.&lt;p&gt;
 Fill inside and outside operation creates a binary labelmap volume as output, with the inside and outside fill values modifiable.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم الجزء المختار حاليًا كقناع لتفريغ المناطق في حجم &lt; br &gt;.
+يتم وضع القناع على حجم المصدر افتراضيًا. &lt; p &gt;
+يخلق ملء العملية من الداخل والخارج حجمًا ثنائيًا لخريطة الملصقات كخرج، مع قيم ملء داخلية وخارجية قابلة للتعديل.
+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="49"/>
