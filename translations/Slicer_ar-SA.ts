@@ -10243,120 +10243,120 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="49"/>
         <source>Fill inside</source>
-        <translation type="unfinished">ملء داخل</translation>
+        <translation>املأ الداخل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="53"/>
         <source>Fill outside</source>
-        <translation type="unfinished">ملء خارج</translation>
+        <translation>املأ الخارج</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="57"/>
         <source>Fill inside and outside</source>
-        <translation type="unfinished"></translation>
+        <translation>املأ الداخل والخارج</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="58"/>
         <source>Create a labelmap volume with specified inside and outside fill values.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء حجم خريطة مع قيم ملء داخلية وخارجية محددة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="67"/>
         <source>Operation:</source>
-        <translation type="unfinished"></translation>
+        <translation>العملية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="71"/>
         <source>Choose the voxel intensity that will be used to fill the masked region.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر شدة فوكسل التي سيتم استخدامها لملء المنطقة المقنعة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="72"/>
         <source>Fill value: </source>
-        <translation type="unfinished"></translation>
+        <translation>ملء القيمة: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="76"/>
         <source>Choose the voxel intensity that will be used to fill outside the mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر شدة فوكسل التي سيتم استخدامها لملء خارج القناع.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="77"/>
         <source>Outside fill value: </source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة الملء الخارجية: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="81"/>
         <source>Choose the voxel intensity that will be used to fill inside the mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر شدة فوكسل التي سيتم استخدامها لملء القناع داخل القناع.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="82"/>
         <source> Inside fill value: </source>
-        <translation type="unfinished"></translation>
+        <translation> داخل ملء القيمة: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="112"/>
         <source>Standard deviation of the Gaussian function that blurs the edge of the mask. Higher value makes the edge softer.</source>
-        <translation type="unfinished"></translation>
+        <translation>الانحراف المعياري للوظيفة الغاوسية الذي يطمس حافة القناع. القيمة الأعلى تجعل الحافة أكثر ليونة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="117"/>
         <source>Soft edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>حافة ناعمة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="128"/>
         <source>(Source volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>(حجم المصدر)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="130"/>
         <source>Volume to mask. Default is current source volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم للإخفاء. الافتراضي هو عقدة حجم المصدر الحالية.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="139"/>
         <source>Input Volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>حجم المدخلات: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="150"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="230"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="231"/>
         <source>(Create new Volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>(إنشاء مجلد جديد)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="152"/>
         <source>Masked output volume. It may be the same as the input volume for cumulative masking.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم إخراج مقنع. قد يكون نفس حجم المدخلات للإخفاء التراكمي.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="161"/>
         <source>Output Volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الناتج: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="164"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="166"/>
         <source>Apply segment as volume mask. No undo operation available once applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق الشريحةكقناع صوت. لا تتوفر عملية التراجع بمجرد تطبيقها.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="234"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="235"/>
         <source>(Create new Labelmap Volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>(قم بإنشاء حجم خريطة ملصق جديد)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="301"/>
         <source>Failed to apply mask to volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في وضع القناع على الحجم.</translation>
     </message>
 </context>
 <context>
@@ -10364,7 +10364,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="21"/>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>تجانس</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="47"/>
@@ -10378,62 +10378,71 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
 &lt;li&gt;&lt;b&gt;Joint smoothing:&lt;/b&gt; smoothes multiple segments at once, preserving watertight interface between them. Masking settings are bypassed.
 If segments overlap, segment higher in the segments table will have priority. &lt;b&gt;Applied to all visible segments.&lt;/b&gt;
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>اجعل حدود القطع أكثر نعومة &lt; br &gt; عن طريق إزالة البثق وملء الثقوب الصغيرة. يمكن تطبيق التأثير محليًا
+(عن طريق الرسم في المشاهدين) أو على الجزء بأكمله (عن طريق النقر على زر تطبيق). الطرق المتاحة: &lt; p &gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;متوسط:&lt;/b&gt; يزيل التفاصيل الصغيرة مع الحفاظ على ملامح سلسة في الغالب دون تغيير. يطبق على جزء مختار فقط.
+&lt;li&gt;&lt;b&gt;افتتاح:&lt;/b&gt; يزيل القصاصات الأصغر من حجم النواة المحدد. يطبق على جزء مختار فقط.
+&lt;li&gt;&lt;b&gt;إغلاق:&lt;/b&gt; يملأ الزوايا الحادة والثقوب الأصغر من حجم النواة المحدد. يطبق على جزء مختار فقط.
+&lt;li&gt;&lt;b&gt;غاوسي:&lt;/b&gt; ينعم جميع الخطوط، ويميل إلى تقليص الجزء. يطبق على جزء مختار فقط.
+&lt;li&gt;&lt;b&gt;تنعيم المفاصل:&lt;/b&gt; يقوم بتنعيم أجزاء متعددة في وقت واحد، مع الحفاظ على واجهة محكمة الماء بينهما. يتم تجاوز إعدادات الإخفاء.
+إذا تداخلت الأجزاء، فستكون للقطاع الأعلى في جدول الأجزاء الأولوية. &lt;b&gt;يطبق على جميع الأجزاء المرئية.&lt;/b&gt;
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="50"/>
         <source>Median</source>
-        <translation type="unfinished">متوسط</translation>
+        <translation>متوسط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="51"/>
         <source>Opening (remove extrusions)</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح (إزالة البثق)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="52"/>
         <source>Closing (fill holes)</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق (ملء الثقوب)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="53"/>
         <source>Gaussian</source>
-        <translation type="unfinished"></translation>
+        <translation>غاوسي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="54"/>
         <source>Joint smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>تنعيم المفاصل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="55"/>
         <source>Smoothing method:</source>
-        <translation type="unfinished"></translation>
+        <translation>طريقة التنعيم:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="60"/>
         <source>Diameter of the neighborhood that will be considered around each voxel. Higher value makes smoothing stronger (more details are suppressed).</source>
-        <translation type="unfinished"></translation>
+        <translation>قطر الحي الذي سيتم اعتباره حول كل فوكسل. القيمة الأعلى تجعل التنعيم أقوى (يتم قمع المزيد من التفاصيل).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="67"/>
         <source>Diameter of the neighborhood in pixel. Computed from the segment&apos;s spacing and the specified kernel size.</source>
-        <translation type="unfinished"></translation>
+        <translation>قطر الحي بالبكسل. محسوبة من تباعد الجزء وحجم النواة المحدد.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="72"/>
         <source>Kernel size:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم النواة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="77"/>
         <source>Standard deviation of the Gaussian smoothing filter coefficients. Higher value makes smoothing stronger (more details are suppressed).</source>
-        <translation type="unfinished"></translation>
+        <translation>الانحراف المعياري لمعاملات مرشح تنعيم غاوس. القيمة الأعلى تجعل التنعيم أقوى (يتم قمع المزيد من التفاصيل).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="81"/>
         <source>Standard deviation:</source>
-        <translation type="unfinished"></translation>
+        <translation>الانحراف المعياري:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="84"/>
