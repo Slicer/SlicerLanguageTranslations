@@ -17784,12 +17784,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="346"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para más información, consulte la %1.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="347"/>
         <source>online documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>documentación en línea</translation>
     </message>
 </context>
 <context>
