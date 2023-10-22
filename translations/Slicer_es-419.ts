@@ -17683,7 +17683,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
         <source>Window/Level Presets:</source>
-        <translation>Preajustes de ventana/nivel:</translation>
+        <translation>Filtros de ventana/nivel:</translation>
     </message>
 </context>
 <context>
@@ -27156,7 +27156,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="163"/>
         <source>Window/level presets</source>
-        <translation>Preajustes de ventana/nivel</translation>
+        <translation>Filtros de ventana/nivel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="187"/>
@@ -28544,7 +28544,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="14"/>
         <source>Volume Rendering Presets</source>
-        <translation>Preajustes de renderización de volumen</translation>
+        <translation>Filtros de renderización de volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
