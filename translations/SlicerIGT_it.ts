@@ -6,67 +6,67 @@
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="17"/>
         <source>Breach warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Avviso di violazione</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="25"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Set di parametri:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="35"/>
         <source>vtkMRMLBreachWarningNode</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;vtkMRMLBreachWarningNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="64"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingressi</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="74"/>
         <source>Model to watch:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modello da guardare:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="84"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="102"/>
         <source>Tool tip (to RAS) transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Trasformazione della descrizione comando (in RAS): </translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="112"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="149"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="161"/>
         <source>Display line to closest point</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza la linea fino al punto più vicino</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="178"/>
         <source>Line to closest point color</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea al colore del punto più vicino</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="188"/>
         <source>Display warning color</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza il colore di avviso</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="205"/>
         <source>Warning color</source>
-        <translation type="unfinished"></translation>
+        <translation>Colore di avviso</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="212"/>
