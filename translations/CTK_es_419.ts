@@ -3054,7 +3054,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="253"/>
         <source>RTRECTORD</source>
-        <translation>Registro RT</translation>
+        <translation>RTRECTORD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="260"/>
