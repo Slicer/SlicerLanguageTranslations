@@ -1987,7 +1987,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="423"/>
         <source>Sent Get Request</source>
-        <translation type="unfinished">Solicitud Get enviada</translation>
+        <translation>Solicitud Get enviada</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="439"/>
@@ -2002,7 +2002,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="504"/>
         <source>Finished Get</source>
-        <translation type="unfinished">Get finalizado</translation>
+        <translation>Get finalizado</translation>
     </message>
 </context>
 <context>
@@ -2919,7 +2919,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="120"/>
         <source>Diaphanography</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diaphanography</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="123"/>
@@ -3054,7 +3054,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="253"/>
         <source>RTRECTORD</source>
-        <translation type="unfinished">Registro RT</translation>
+        <translation>Registro RT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="260"/>
