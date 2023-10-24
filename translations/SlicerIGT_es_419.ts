@@ -76,7 +76,7 @@
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="222"/>
         <source>Line to closest point text size:</source>
-        <translation type="unfinished">Tamaño del texto de línea al punto más cercano:</translation>
+        <translation>Tamaño del texto de la línea sobre el punto más cercano:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="242"/>
@@ -1758,7 +1758,7 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="555"/>
         <source>Fan angles</source>
-        <translation type="unfinished">Ángulos de inclinación</translation>
+        <translation>Ángulos de apertura</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="561"/>
@@ -1768,7 +1768,7 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="564"/>
         <source>Fan angle:</source>
-        <translation type="unfinished">Ángulos de inclinación:</translation>
+        <translation>Ángulos de apertura:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="573"/>
