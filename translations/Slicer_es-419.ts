@@ -7610,7 +7610,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="4"/>
         <source>Voting Binary Hole Filling Image Filter</source>
-        <translation type="unfinished">Filtro binario de imagen de relleno de agujeros por votación</translation>
+        <translation>Filtro de imagen binaria de relleno de agujeros por votación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
@@ -7620,7 +7620,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comandos se ha creado a partir de Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter(derechos de autor) Insight Software Consortium</translation>
+        <translation>Este módulo de comandos se ha creado a partir de Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter(derechos de autor) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="7"/>
@@ -7951,7 +7951,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="31"/>
         <source>GE ABUS</source>
-        <translation type="unfinished">GE ABUS</translation>
+        <translation>GE ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="116"/>
@@ -8670,7 +8670,7 @@ NA-MIC, NAC, BIRN, NCIGT, y la comunidad Slicer.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="124"/>
         <source>Flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vista Flythrough (modo vuelo, vista superior)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="134"/>
@@ -9219,7 +9219,7 @@ Se genera un nuevo nombre de archivo para cada imagen capturada (no se sobrescri
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="223"/>
         <source>String that defines output lightbox file name and type.</source>
-        <translation type="unfinished">Cadena que define el nombre y el tipo de archivo del lightbox de salida.</translation>
+        <translation type="unfinished">Cadena que define el nombre y el tipo de archivo de salida del lightbox.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="225"/>
@@ -9434,7 +9434,7 @@ Se genera un nuevo nombre de archivo para cada imagen capturada (no se sobrescri
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="421"/>
         <source>Capture slice sweep to image sequence.</source>
-        <translation type="unfinished">Captura de cortes de barrido a secuencia de imágenes.</translation>
+        <translation>Captura y almacena la secuencia de cortes en imágenes.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="426"/>
@@ -9607,12 +9607,12 @@ Se genera un nuevo nombre de archivo para cada imagen capturada (no se sobrescri
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1374"/>
         <source>Export to lightbox image...</source>
-        <translation type="unfinished">Exportar a imagen lightbox...</translation>
+        <translation type="unfinished">Exportar a imagen tipo lightbox...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1415"/>
         <source>Lighbox image saved to file: {filename}</source>
-        <translation type="unfinished">Imagen Lighbox guardada en archivo: {filename}</translation>
+        <translation type="unfinished">Imagen Lightbox guardada en archivo: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1418"/>
@@ -9840,7 +9840,7 @@ El efecto utiliza  &lt;a href=&quot;https://insight-journal.org/browse/publicati
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="24"/>
         <source>Grow from seeds</source>
-        <translation type="unfinished">Cultivar a partir de semillas</translation>
+        <translation>Crecimiento a partir de las semillas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="58"/>
@@ -10166,7 +10166,7 @@ lista de segmentos en opciones de efectos - más abajo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="58"/>
         <source>Clear</source>
-        <translation type="unfinished">Claro</translation>
+        <translation>Limpiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="59"/>
@@ -10181,7 +10181,7 @@ lista de segmentos en opciones de efectos - más abajo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="62"/>
         <source>Bypass masking</source>
-        <translation type="unfinished">Enmascaramiento de derivación</translation>
+        <translation>Anular enmascaramiento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="63"/>
@@ -13452,7 +13452,7 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
-        <translation type="unfinished">Propiedades del gráfico</translation>
+        <translation>Propiedades del gráfico</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
@@ -15229,7 +15229,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1173"/>
         <source>Clear</source>
-        <translation type="unfinished">Claro</translation>
+        <translation>Limpiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1174"/>
@@ -15853,7 +15853,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1231"/>
         <source>Mean</source>
-        <translation type="unfinished">Media</translation>
+        <translation>Media</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1234"/>
@@ -16405,7 +16405,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="66"/>
         <source>Expand tree to level...</source>
-        <translation type="unfinished">Expandir árbol a nivel...</translation>
+        <translation>Expandir árbol a nivel...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="397"/>
@@ -19728,12 +19728,12 @@ Si no se marcó, el conjunto de datos exportado se añadirán a la base de datos
     <message numerus="yes">
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="737"/>
         <source>Export %n node(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Singular
 Exportar nodo %n</numerusform>
             <numerusform>Plural
 Exportar %n nodos</numerusform>
-            <numerusform></numerusform>
+            <numerusform>Exportar %n nodos</numerusform>
         </translation>
     </message>
     <message>
@@ -23161,7 +23161,7 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="325"/>
         <source>In-Plane:</source>
-        <translation type="unfinished"></translation>
+        <translation>En el plano:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="337"/>
@@ -24530,17 +24530,17 @@ Lo más probable es que el segmento no pueda convertirse en una representación 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="108"/>
         <source>Overwrite all</source>
-        <translation type="unfinished">Sobrescribir todo</translation>
+        <translation>Sobrescribir todo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="109"/>
         <source>Overwrite visible</source>
-        <translation type="unfinished">Sobrescritura visible</translation>
+        <translation>Sobrescribir visible</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="110"/>
         <source>Allow overlap</source>
-        <translation type="unfinished">Permitir solapamiento</translation>
+        <translation>Permitir superposición</translation>
     </message>
 </context>
 <context>
@@ -26881,12 +26881,12 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="74"/>
         <source>Patient tags in item name:</source>
-        <translation type="unfinished">Etiquetas del paciente en el nombre del artículo:</translation>
+        <translation>Etiquetas del paciente en el nombre del objeto:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="101"/>
         <source>Study tags in item name:</source>
-        <translation type="unfinished">Estudiar las etiquetas en el nombre del artículo:</translation>
+        <translation>Etiquetas del estudio en el nombre del objeto:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="135"/>
