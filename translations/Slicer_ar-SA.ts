@@ -9035,32 +9035,32 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="109"/>
         <source>Start slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>ابدأ بتعويض تمشيط الشريحة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="113"/>
         <source>End sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة اكتساح النهاية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="119"/>
         <source>End slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>نهاية تمشيط الشريحة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="123"/>
         <source>Rotation range:</source>
-        <translation type="unfinished"></translation>
+        <translation>نطاق الدوران:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="130"/>
         <source>View rotation range, relative to current view orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض نطاق الدوران، نسبة إلى اتجاه العرض الحالي.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="134"/>
         <source>Rotation axis:</source>
-        <translation type="unfinished">محور الدوران:</translation>
+        <translation>محور الدوران:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="137"/>
@@ -9075,37 +9075,37 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="142"/>
         <source>Sequence:</source>
-        <translation type="unfinished">تسلسل:</translation>
+        <translation>تسلسل:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="150"/>
         <source>Items defined by this sequence browser will be replayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم إعادة تشغيل العناصر المحددة بواسطة متصفح التسلسل هذا.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="154"/>
         <source>Start index:</source>
-        <translation type="unfinished"></translation>
+        <translation>مؤشر البداية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="158"/>
         <source>First item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>أول عنصر في التسلسل لالتقاط.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="162"/>
         <source>End index:</source>
-        <translation type="unfinished"></translation>
+        <translation>المؤشر النهائي:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="166"/>
         <source>Last item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>آخر عنصر في التسلسل لالتقاط.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="174"/>
         <source>Output</source>
-        <translation type="unfinished">الناتج</translation>
+        <translation>الناتج</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="179"/>
@@ -9117,57 +9117,58 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="702"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="787"/>
         <source>image series</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة الصور</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="479"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="666"/>
         <source>video</source>
-        <translation type="unfinished"></translation>
+        <translation>فيديو</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="480"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="782"/>
         <source>lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة صندوق الضوء</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
         <source>Output type:</source>
-        <translation type="unfinished">نوع الإخراج:</translation>
+        <translation>نوع الإخراج:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="193"/>
         <source>Number of images extracted between start and stop positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الصور المستخرجة بين أوضاع البداية والتوقف.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="197"/>
         <source>single</source>
-        <translation type="unfinished"></translation>
+        <translation>مفرد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="203"/>
         <source>Capture a single image of current state only.
 New filename is generated for each captured image (no files are overwritten).</source>
-        <translation type="unfinished"></translation>
+        <translation>التقط صورة واحدة للحالة الحالية فقط.
+يتم إنشاء اسم ملف جديد لكل صورة تم التقاطها (لا توجد ملفات مكتوبة).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="206"/>
         <source>Number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الصور:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="212"/>
         <source>Output directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل المخرجات:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="218"/>
         <source>String that defines file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>السلسلة التي تحدد اسم الملف والنوع.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="220"/>
@@ -9177,7 +9178,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="223"/>
         <source>String that defines output lightbox file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>السلسلة التي تحدد اسم ونوع ملف صندوق الإخراج.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="225"/>
@@ -9187,62 +9188,62 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="230"/>
         <source>Output file name:</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم ملف الإخراج:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="237"/>
         <source>Video format:</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق الفيديو:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="246"/>
         <source>Length of the exported video in seconds (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>طول الفيديو المصدر في ثوانٍ (بدون خطوات خلفية وتكرار).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="248"/>
         <source>Video length:</source>
-        <translation type="unfinished"></translation>
+        <translation>طول الفيديو:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="257"/>
         <source>Frame rate in frames per second.</source>
-        <translation type="unfinished"></translation>
+        <translation>معدل الإطار في الإطارات في الثانية.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="259"/>
         <source>Video frame rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>معدل إطار الفيديو:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="266"/>
         <source>Advanced</source>
-        <translation type="unfinished">متقدم</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="272"/>
         <source>If checked, image series will be generated playing forward and then backward.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم التحقق منها، فسيتم إنشاء سلسلة الصور وهي تلعب للأمام ثم للخلف.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="273"/>
         <source>Forward-backward:</source>
-        <translation type="unfinished"></translation>
+        <translation>إلى الأمام إلى الخلف:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="282"/>
         <source>Number of times image series are repeated. Useful for making short videos longer for playback in software that does not support looped playback.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد مرات تكرار سلسلة الصور. مفيد لجعل مقاطع الفيديو القصيرة أطول للتشغيل في البرامج التي لا تدعم التشغيل الحلقي.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="283"/>
         <source>Repeat:</source>
-        <translation type="unfinished"></translation>
+        <translation>أكرر:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="291"/>
         <source>Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="292"/>
@@ -9257,17 +9258,17 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="304"/>
         <source>Additional video conversion options passed to ffmpeg. Parameters -i (input files), -y(overwrite without asking), -r (frame rate), -start_number are specified by the module and thereforeshould not be included in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تمرير خيارات تحويل الفيديو الإضافية إلى ffmpeg. البارامترات -i (ملفات الإدخال)، -y (الكتابة الفوقية دون طلب)، -r (معدل الإطار)، -start_number تحددها الوحدة ولا يمكن إدراجها في هذه القائمة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="305"/>
         <source>Video extra options:</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات الفيديو الإضافية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="309"/>
         <source>String that defines file name, type, and numbering scheme. Default: image%05d.png.</source>
-        <translation type="unfinished"></translation>
+        <translation>السلسلة التي تحدد اسم الملف والنوع ونظام الترقيم. الافتراضي: image%05d.png.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
@@ -9277,127 +9278,127 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
         <source>Image file name pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط اسم ملف الصورة:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="319"/>
         <source>Number of columns in lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الأعمدة في صورة صندوق الإضاءة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="320"/>
         <source>Lightbox image columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>أعمدة صورة Lightbox:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="326"/>
         <source>Maximum number of images to be captured (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لعدد الصور المراد التقاطها (بدون خطوات خلفية وتكرار).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="327"/>
         <source>Maximum number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لعدد الصور:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="332"/>
         <source>Screenshot</source>
-        <translation type="unfinished">لقطة للشاشة</translation>
+        <translation>لقطة للشاشة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="336"/>
         <source>Select a volume node to store the captured image in the scene instead of just writing immediately to disk. Requires output &apos;Number of images&apos; to be set to 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد عقدة الصوت لتخزين الصورة الملتقطة في المشهد بدلاً من مجرد الكتابة على الفور للقرص. يتطلب المخرج «عدد الصور» ليتم ضبطه على 1.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="338"/>
         <source>Output volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة حجم الناتج:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="342"/>
         <source>If checked, images will be captured with view controllers visible.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم التحقق، سيتم التقاط الصور مع رؤية وحدات التحكم المرئية.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="343"/>
         <source>View controllers:</source>
-        <translation type="unfinished"></translation>
+        <translation>اعرض وحدات التحكم:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="347"/>
         <source>If checked, images will be captured with transparent background.</source>
-        <translation type="unfinished"></translation>
+        <translation>في حالة التحقق، سيتم التقاط الصور بخلفية شفافة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="348"/>
         <source>Transparent background:</source>
-        <translation type="unfinished"></translation>
+        <translation>خلفية شفافة:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="354"/>
         <source>If checked, selected watermark image will be added to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم التحقق، ستتم إضافة صورة علامة مائية محددة إلى جميع الصور المصدرة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="359"/>
         <source>Add a watermark image to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف صورة علامة مائية إلى جميع الصور المصدرة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="373"/>
         <source>Size scaling applied to the watermark image. 100% is original size</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تطبيق قياس الحجم على صورة العلامة المائية. 100٪ هو الحجم الأصلي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="387"/>
         <source>Opacity of the watermark image. 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>غموض صورة العلامة المائية. 100٪ غير شفافة تمامًا.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="399"/>
         <source>Watermark image file in png format</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف صورة العلامة المائية بتنسيق png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="403"/>
         <source>Position:</source>
-        <translation type="unfinished">موضع:</translation>
+        <translation>موضع:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="405"/>
         <source>Size:</source>
-        <translation type="unfinished">الحجم:</translation>
+        <translation>الحجم:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="407"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>التعتيم:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="410"/>
         <source>Watermark image:</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة العلامة المائية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="418"/>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>التقاط</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="419"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="421"/>
         <source>Capture slice sweep to image sequence.</source>
-        <translation type="unfinished"></translation>
+        <translation>التقاط شريحة اكتساح لتسلسل الصورة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="426"/>
         <source>Show created output file.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار ملف إخراج.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="529"/>
@@ -9408,13 +9409,13 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="545"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="730"/>
         <source>slice sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتساح شرائح</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="530"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="734"/>
         <source>slice fade</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة تتلاشى</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="532"/>
@@ -9424,7 +9425,7 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="566"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="737"/>
         <source>3D rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="534"/>
@@ -9437,7 +9438,7 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="576"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="743"/>
         <source>sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="686"/>
@@ -9447,7 +9448,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="687"/>
         <source>Download confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد التنزيل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="689"/>
@@ -9457,7 +9458,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="713"/>
         <source>View controllers are only available to be shown when capturing all views.</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدات التحكم في العرض متاحة فقط لعرضها عند التقاط جميع المشاهدات.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="726"/>
@@ -9466,28 +9467,28 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1318"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1364"/>
         <source>Write {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتب {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="728"/>
         <source>Write to volume node &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتب إلى عقدة المجلد &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="764"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="771"/>
         <source>Copy to {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخة إلى{filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="789"/>
         <source>Done.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="793"/>
         <source>Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="825"/>
@@ -9512,7 +9513,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="829"/>
         <source>Animated GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF متحركة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="830"/>
@@ -9523,36 +9524,36 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1057"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1092"/>
         <source>Capture image from view failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التقاط الصورة من العرض</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1121"/>
         <source>Invalid vector volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة حجم متجه غير صالحة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1135"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1144"/>
         <source>Unsupported image format based on file name {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق الصورة غير المدعوم بناءً على اسم الملف {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1194"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1219"/>
         <source>Invalid view node.</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة عرض غير صالحة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1206"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1216"/>
         <source>Selected 3D view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض ثلاثي الأبعاد المحدد الغير مرئي في التصميم الحالي.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1227"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1257"/>
         <source>Selected slice view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض شريحة المحدد الغير مرئي في التصميم الحالي.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1249"/>
@@ -9560,22 +9561,22 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1342"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1371"/>
         <source>User requested cancel.</source>
-        <translation type="unfinished"></translation>
+        <translation>طلب المستخدم الإلغاء.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1374"/>
         <source>Export to lightbox image...</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير إلى صورة العلبة الخفيفة...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1415"/>
         <source>Lighbox image saved to file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة العلبة الخفيفة المحفوظة في الملف: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1418"/>
         <source>Export to video...</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير إلى الفيديو...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1424"/>
@@ -9605,7 +9606,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1448"/>
         <source>Video export succeeded to file: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>نجح تصدير الفيديو إلى ملف: {path}</translation>
     </message>
 </context>
 <context>
