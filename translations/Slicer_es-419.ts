@@ -1795,7 +1795,9 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
         <source>
   </source>
-        <translation type="unfinished"> </translation>
+        <translation>
+  ..
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
@@ -5887,7 +5889,8 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished"> </translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
@@ -26904,7 +26907,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="93"/>
         <source>Invert transform</source>
-        <translation type="unfinished">Invertir la transformación</translation>
+        <translation>Invertir la transformación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="96"/>
@@ -27327,7 +27330,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="133"/>
         <source>unsigned short</source>
-        <translation type="unfinished">carácter corto sin signo</translation>
+        <translation>sin signo corto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="138"/>
@@ -27342,7 +27345,7 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="148"/>
         <source>unsigned long long</source>
-        <translation type="unfinished">carácter largo largo sin signo</translation>
+        <translation>sin signo largo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="153"/>
@@ -29133,10 +29136,10 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="388"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%1 Actualización de la extensión está disponible</numerusform>
             <numerusform>%1 Actualizaciones de las extensiones están disponibles</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%1 Actualizaciones de las extensiones están disponibles</numerusform>
         </translation>
     </message>
     <message>
@@ -29167,7 +29170,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="682"/>
         <source>Idle</source>
-        <translation type="unfinished">Sin actividad</translation>
+        <translation>Inactivo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="683"/>
