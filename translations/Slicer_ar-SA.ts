@@ -6226,7 +6226,7 @@ The filter assumes that both the source and reference are of the same type and t
 Preservation of the Principal Direction (PPD)</source>
         <oldsource>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</oldsource>
-        <translation type="unfinished">سلالة محدودة (FS) أو
+        <translation>سلالة محدودة (FS) أو
 الحفاظ على الاتجاه الرئيسي (PPD)</translation>
     </message>
     <message>
@@ -11588,42 +11588,42 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="17"/>
         <source>Parameters</source>
-        <translation type="unfinished">معلمات</translation>
+        <translation>معلمات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="23"/>
         <source>Input vector volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم متجه الإدخال:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished">اختر الإدخال إلى الخوارزمية.</translation>
+        <translation>اختر الإدخال إلى الخوارزمية.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="51"/>
         <source>Conversion Method: </source>
-        <translation type="unfinished"></translation>
+        <translation>طريقة التحويل: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="58"/>
         <source>Output scalar Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإخراج القياسي:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="65"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished">اختر الإخراج إلى الخوارزمية.</translation>
+        <translation>اختر الإخراج إلى الخوارزمية.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="116"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="58"/>
         <source>Vector to Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>المتجه إلى الحجم القياسي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="74"/>
@@ -11638,7 +11638,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     &lt;li&gt;computes the mean of all the components.&lt;/li&gt;
     &lt;/ul&gt;
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    &lt;p&gt; اصنع حجم قياسي (مكون 1) من حجم متجه.&lt;/p&gt;
+
+&lt;p&gt;يوفر أنماط تحويل متعددة: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt; استخراج مكونات مفردة من أي صورة متجهة. &lt;/li&gt;
+&lt;li&gt; حوّل صور RGB إلى أرقام قياسية باستخدام الإضاءة كما تم تنفيذها في vtkImageLuminance (scalar = 0.30 * R + 0.59 * G + 0.11 * B).&lt;/li&gt;
+&lt;li&gt; يحسب متوسط جميع المكونات. &lt;/li&gt;
+&lt;/ul&gt;
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="86"/>
@@ -11647,82 +11657,86 @@ Developed by Steve Pieper, Isomics, Inc.,
 partially funded by NIH grant 3P41RR013218-12S1 (NAC) and is part of the National Alliance
 for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the
 NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطويره بواسطة Steve Pieper، Isomics، Inc.،
+ممولة جزئيا من 3P41RR013218-12S1 منح المعاهد الوطنية للصحة وهي جزء من التحالف الوطني
+لحوسبة الصور الطبية (NA-MIC)، بتمويل من المعاهد الوطنية للصحة من خلال
+NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="87"/>
         <source>Luminance</source>
-        <translation type="unfinished"></translation>
+        <translation>الإنارة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
         <source>(RGB,RGBA) Luminance from first three components: 0.30*R + 0.59*G + 0.11*B + 0.0*A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(RGB، RGBA) الإنارة من المكونات الثلاثة الأولى: 0.30 * R + 0.59 * G + 0.11 * B + 0.0 * A)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="91"/>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>معدل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="92"/>
         <source>Average all the components.</source>
-        <translation type="unfinished"></translation>
+        <translation>متوسط جميع المكونات.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="95"/>
         <source>Single Component Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>استخراج عنصر واحد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="96"/>
         <source>Extract single component</source>
-        <translation type="unfinished"></translation>
+        <translation>استخراج مكون واحد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="271"/>
         <source>Please select Input Vector Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء تحديد حجم متجه الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="273"/>
         <source>Please select Output Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء تحديد حجم الإخراج القياسي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="275"/>
         <source>Please select a component to extract</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء تحديد عنصر لاستخراجه</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="301"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished">فشل حساب النتائج.</translation>
+        <translation>فشل في حساب النتائج.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="339"/>
         <source>no input volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحديد عقدة حجم المدخلات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="343"/>
         <source>no output volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحديد عقدة حجم الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="348"/>
         <source>input and output volume is the same. Create a new volume for output to avoid this error.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم المدخلات والمخرجات هو نفسه. قم بإنشاء وحدة تخزين جديدة للإخراج لتجنب هذا الخطأ.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="366"/>
         <source>component to extract ({componentSelected}) is invalid. Image has only {componentsTotal} components.</source>
-        <translation type="unfinished"></translation>
+        <translation>المكون المراد استخراجه({componentSelected}) غير صالح. تحتوي الصورة على مكونات {componentsTotal} فقط.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="375"/>
         <source>input has only {componentsTotal} components but requires at least 3 components for luminance conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحتوي المدخلات فقط على مكونات {componentsTotal} ولكنها تتطلب 3 مكونات على الأقل لتحويل الإضاءة.</translation>
     </message>
 </context>
 <context>
@@ -27725,7 +27739,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="374"/>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="381"/>
@@ -27889,87 +27903,87 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="62"/>
         <source>No jump slices</source>
-        <translation type="unfinished">لا شرائح القفز</translation>
+        <translation>لا شرائح القفز</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="63"/>
         <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation type="unfinished">لا يتم تغيير موضع عروض الشرائح عند تحريك الخطوط المتقاطعة.</translation>
+        <translation>لا يتم تغيير موضع عروض الشرائح عند تحريك الخطوط المتقاطعة.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="67"/>
         <source>Jump slices - offset</source>
-        <translation type="unfinished">شرائح القفز - الإزاحة</translation>
+        <translation>شرائح القفز - الإزاحة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="68"/>
         <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation type="unfinished">يتم إزاحة مستويات عرض الشريحة لمطابقة موضع الخطوط المتقاطعة (حتى إذا لم يتم عرض الخطوط المتقاطعة).</translation>
+        <translation>يتم إزاحة مستويات عرض الشريحة لمطابقة موضع الخطوط المتقاطعة (حتى إذا لم يتم عرض الخطوط المتقاطعة).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
         <source>Jump slices - centered</source>
-        <translation type="unfinished">شرائح القفز - في المنتصف</translation>
+        <translation>شرائح القفز - في المنتصف</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="74"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation type="unfinished">تتمركز عروض الشريحة في موضع الخطوط المتقاطعة (حتى إذا لم يتم عرض الخطوط المتقاطعة).</translation>
+        <translation>تتمركز عروض الشريحة في موضع الخطوط المتقاطعة (حتى إذا لم يتم عرض الخطوط المتقاطعة).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
         <source>No crosshair</source>
-        <translation type="unfinished">لا يوجد تقاطع</translation>
+        <translation>لا يوجد تقاطع</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="95"/>
         <source>No crosshair displayed.</source>
-        <translation type="unfinished">لا يوجد تقاطع معروض.</translation>
+        <translation>لا يوجد تقاطع معروض.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="99"/>
         <source>Basic crosshair</source>
-        <translation type="unfinished">التقاطع الأساسي</translation>
+        <translation>التقاطع الأساسي</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="100"/>
         <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="unfinished">يمتد التقاطع الأساسي عبر مجال الرؤية مع وجود فجوة صغيرة في موضع التقاطع .</translation>
+        <translation>يمتد التقاطع الأساسي عبر مجال الرؤية مع وجود فجوة صغيرة في موضع التقاطع .</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
         <source>Basic + intersection</source>
-        <translation type="unfinished">أساسي + تقاطع</translation>
+        <translation>أساسي + تقاطع</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="106"/>
         <source>Basic crosshair extending across the field of view.</source>
-        <translation type="unfinished">التقاطع الأساسي الممتد عبر مجال الرؤية.</translation>
+        <translation>التقاطع الأساسي الممتد عبر مجال الرؤية.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
         <source>Small basic crosshair</source>
-        <translation type="unfinished">خط التقاطع الأساسي الصغير</translation>
+        <translation>خط التقاطع الأساسي الصغير</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="111"/>
         <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="unfinished">تقاطع صغير مع وجود فجوة صغيرة في موضع التقاطع .</translation>
+        <translation>تقاطع صغير مع وجود فجوة صغيرة في موضع التقاطع .</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="115"/>
         <source>Small basic + intersection</source>
-        <translation type="unfinished">أساسي صغير + تقاطع</translation>
+        <translation>أساسي صغير + تقاطع</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="116"/>
         <source>Small crosshair.</source>
-        <translation type="unfinished">تقاطع صغير.</translation>
+        <translation>تقاطع صغير.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
         <source>Fine crosshair</source>
-        <translation type="unfinished">خط متقاطع ناعم</translation>
+        <translation>خط متقاطع ناعم</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
@@ -27979,7 +27993,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
         <source>Medium crosshair</source>
-        <translation type="unfinished">خط متقاطع متوسط</translation>
+        <translation>خط متقاطع متوسط</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="152"/>
@@ -27989,7 +28003,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="156"/>
         <source>Thick crosshair</source>
-        <translation type="unfinished">التقاطع السميك</translation>
+        <translation>التقاطع السميك</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="157"/>
@@ -28002,67 +28016,67 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="187"/>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="197"/>
         <source>Crosshair</source>
-        <translation type="unfinished">متصالبة</translation>
+        <translation>التقاطع</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="195"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation type="unfinished">تبديل رؤية الخطوط المتقاطعة. اضغط مع الاستمرار على مفتاح Shift وحرك الماوس في طريقة عرض لتعيين موضع الخطوط المتقاطعة.</translation>
+        <translation>تبديل رؤية الخطوط المتقاطعة. اضغط مع الاستمرار على مفتاح Shift وحرك الماوس في طريقة عرض لتعيين موضع الخطوط المتقاطعة.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="213"/>
         <source>Full lines</source>
-        <translation type="unfinished">خطوط كاملة</translation>
+        <translation>خطوط كاملة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="215"/>
         <source>Full slice intersection lines extending across the field of view.</source>
-        <translation type="unfinished">خطوط تقاطع كاملة الشريحة تمتد عبر مجال الرؤية.</translation>
+        <translation>خطوط تقاطع كاملة الشريحة تمتد عبر مجال الرؤية.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="220"/>
         <source>Skip line crossings</source>
-        <translation type="unfinished">تخطي تقاطعات الخطوط</translation>
+        <translation>تخطي تقاطعات الخطوط</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="222"/>
         <source>Slice intersection lines extending across the field of view with a gap at the intersection.</source>
-        <translation type="unfinished">شريحة خطوط التقاطع الممتدة عبر مجال الرؤية مع وجود فجوة عند التقاطع.</translation>
+        <translation>شريحة خطوط التقاطع الممتدة عبر مجال الرؤية مع وجود فجوة عند التقاطع.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="243"/>
         <source>Fine lines</source>
-        <translation type="unfinished">الخطوط الدقيقة</translation>
+        <translation>الخطوط الدقيقة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="244"/>
         <source>Fine lines.</source>
-        <translation type="unfinished">الخطوط الدقيقة.</translation>
+        <translation>الخطوط الدقيقة.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="249"/>
         <source>Medium lines</source>
-        <translation type="unfinished">خطوط متوسطة</translation>
+        <translation>خطوط متوسطة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="250"/>
         <source>Medium lines.</source>
-        <translation type="unfinished">خطوط متوسطة.</translation>
+        <translation>خطوط متوسطة.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="254"/>
         <source>Thick lines</source>
-        <translation type="unfinished">خطوط سميكة</translation>
+        <translation>خطوط سميكة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="255"/>
         <source>Thick lines.</source>
-        <translation type="unfinished">خطوط سميكة.</translation>
+        <translation>خطوط سميكة.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="275"/>
         <source>Interaction</source>
-        <translation type="unfinished">تفاعل</translation>
+        <translation>تفاعل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="276"/>
@@ -28072,12 +28086,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="283"/>
         <source>Translate</source>
-        <translation type="unfinished">ترجمة</translation>
+        <translation>ترجمة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="284"/>
         <source>Control visibility of translation handles for slice intersection.</source>
-        <translation type="unfinished">التحكم في رؤية مقابض الترجمة لتقاطع الشريحة.</translation>
+        <translation>التحكم في رؤية مقابض الترجمة لتقاطع الشريحة.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="291"/>
@@ -28087,12 +28101,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="293"/>
         <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation type="unfinished">التحكم في رؤية مقابض الدوران لتقاطع الشريحة.</translation>
+        <translation>التحكم في رؤية مقابض الدوران لتقاطع الشريحة.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="299"/>
         <source>Interaction options</source>
-        <translation type="unfinished">خيارات التفاعل</translation>
+        <translation>خيارات التفاعل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="304"/>
@@ -28100,7 +28114,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="320"/>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="327"/>
         <source>Slice intersections</source>
-        <translation type="unfinished">تقاطعات الشرائح</translation>
+        <translation>تقاطعات الشرائح</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
@@ -28298,7 +28312,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="103"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. Some of the transfer functions were contributed by Kitware Inc. (VolView)</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل مدعوم من NA-MIC و NAC و BIRN و NCIGT و Slicer Community. ساهمت شركة Kitware Inc. في بعض وظائف النقل. (VolView)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="144"/>
@@ -28313,7 +28327,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="156"/>
         <source>Shader Property</source>
-        <translation type="unfinished">خاصية تظليل</translation>
+        <translation>خاصية تظليل</translation>
     </message>
 </context>
 <context>
@@ -28356,7 +28370,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="199"/>
         <source>Crop:</source>
-        <translation type="unfinished">اقتصاص:</translation>
+        <translation>اقتصاص:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="211"/>
