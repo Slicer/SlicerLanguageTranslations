@@ -18052,7 +18052,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="346"/>
         <source>For more information see the %1.</source>
-        <translation>Pour plus d’informations, consultez le %1.</translation>
+        <translation>Pour plus d’informations, consultez la %1.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="347"/>
@@ -22751,7 +22751,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="259"/>
         <source>Python Scripted Loadable</source>
-        <translation>Python scriptable chargeable</translation>
+        <translation type="unfinished">Module chargeable Python</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
