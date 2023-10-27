@@ -34,7 +34,7 @@
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaily</translation>
     </message>
 </context>
 <context>
@@ -42,17 +42,17 @@
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="14"/>
         <source>Select items</source>
-        <translation type="unfinished"></translation>
+        <translation>vybrat položky</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="36"/>
         <source>Add an object</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat objekt</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="59"/>
         <source>Remove select object</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit vybraný objekt</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="82"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="Libs/Widgets/ctkAddRemoveComboBox.cpp" line="75"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný</translation>
     </message>
 </context>
 <context>
@@ -95,12 +95,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="375"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechny</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="380"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný</translation>
     </message>
 </context>
 <context>
@@ -204,12 +204,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="372"/>
         <source>Run module</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapnout modul</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="375"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="384"/>
@@ -224,7 +224,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="390"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="395"/>
@@ -234,12 +234,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="398"/>
         <source>Load module</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítání modulu</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="401"/>
         <source>Ctrl+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="406"/>
@@ -254,12 +254,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="421"/>
         <source>Pause module</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozastavit modul</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="424"/>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="429"/>
@@ -513,7 +513,7 @@ due to:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="141"/>
         <source>Ctrl+g</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+g</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="145"/>
@@ -523,7 +523,7 @@ due to:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="146"/>
         <source>Ctrl+h</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+h</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="151"/>
@@ -1612,7 +1612,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="24"/>
         <source>File path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta k souboru:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="44"/>
@@ -2466,17 +2466,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="105"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="106"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="107"/>
         <source>Choose</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyber</translation>
     </message>
 </context>
 <context>
@@ -2493,12 +2493,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="40"/>
         <source>Show details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukázat detaily...</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="41"/>
         <source>Hide details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schovat detaily.</translation>
     </message>
 </context>
 <context>
@@ -3254,12 +3254,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="646"/>
         <source>Select a file to save </source>
-        <translation type="unfinished"></translation>
+        <translation>Vyber soubor k uložení </translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="661"/>
         <source>Open a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevři soubor</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="677"/>
@@ -3278,17 +3278,17 @@ Halting export.</source>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="23"/>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="26"/>
         <source>Add files</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat soubory</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="33"/>
         <source>Add a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat složku</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="36"/>
         <source>Add directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat složku</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="43"/>
@@ -3298,7 +3298,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="46"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="53"/>
@@ -3308,7 +3308,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="56"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit</translation>
     </message>
 </context>
 <context>
@@ -3334,17 +3334,17 @@ Please check your permissions.</source>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="152"/>
         <source>Select one or more files</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyber jeden nebo více souborů</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="156"/>
         <source>Select a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyber soubor</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="241"/>
         <source>Select a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyber složku</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="316"/>
@@ -3365,7 +3365,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="52"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Stažené</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="53"/>
@@ -3375,7 +3375,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="54"/>
         <source>Resolved</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyřešené</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="55"/>
@@ -3390,7 +3390,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="57"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastavené</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="58"/>
@@ -3400,12 +3400,12 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="59"/>
         <source>Uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>Odinstalované</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="60"/>
         <source>Unresolved</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevyřešené</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="61"/>
@@ -3438,7 +3438,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="46"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="58"/>
@@ -3458,7 +3458,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="193"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Služby</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="260"/>
@@ -3468,7 +3468,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="304"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Akce</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="334"/>
@@ -3478,7 +3478,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="345"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Odejít</translation>
     </message>
 </context>
 <context>
@@ -3487,7 +3487,7 @@ Please check your permissions.</source>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="162"/>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="182"/>
         <source>&lt;&lt; Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt; Zpátky</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="194"/>
@@ -3540,7 +3540,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="32"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="39"/>
@@ -3550,7 +3550,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verze</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="66"/>
@@ -3560,7 +3560,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="74"/>
         <source>Lazy</source>
-        <translation type="unfinished"></translation>
+        <translation>Líný</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="79"/>
@@ -3570,7 +3570,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="87"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokročilý</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="105"/>
@@ -3596,7 +3596,7 @@ Please check your permissions.</source>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="35"/>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="47"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavní</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="94"/>
@@ -3680,23 +3680,23 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="451"/>
         <source>Generate</source>
-        <translation type="unfinished"></translation>
+        <translation>Generovat</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="458"/>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="489"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Odejít</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="478"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="492"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="497"/>
@@ -4038,7 +4038,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="397"/>
         <source>File already exists. Overwrite ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor už existuje. Přepsat ?</translation>
     </message>
 </context>
 <context>
@@ -4676,7 +4676,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="26"/>
         <source>Profiles:</source>
-        <translation type="unfinished"></translation>
+        <translation>Profily:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="52"/>
@@ -4696,7 +4696,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="106"/>
         <source>Profile name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno profilu:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="119"/>
@@ -4791,7 +4791,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="85"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaily</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="94"/>
@@ -4812,12 +4812,12 @@ Do you want to restore the settings?</source>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="91"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="196"/>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpojený</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="102"/>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Odhlásit</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="103"/>
@@ -4827,7 +4827,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="163"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít soubor</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"/>
