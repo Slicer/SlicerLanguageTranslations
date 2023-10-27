@@ -8692,7 +8692,7 @@ NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="124"/>
         <source>Flythrough</source>
-        <translation>VolerAtravers</translation>
+        <translation>Survol</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="134"/>
