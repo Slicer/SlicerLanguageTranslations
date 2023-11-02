@@ -17876,7 +17876,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="73"/>
         <source>Wizards</source>
-        <translation>Sorciers</translation>
+        <translation>Assistants</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="79"/>
