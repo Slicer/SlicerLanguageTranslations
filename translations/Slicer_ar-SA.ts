@@ -23097,82 +23097,82 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="360"/>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="552"/>
         <source>Flip slice view horizontally (left-right)</source>
-        <translation type="unfinished"></translation>
+        <translation>قلب عرض الشريحة أفقيًا (يسار - يمين)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="363"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished">تدوير إلى مستوى الصوت</translation>
+        <translation>دوران إلى مستوى الحجم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="370"/>
         <source>Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>تدوير:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="383"/>
         <source>Rotate around the slice vertical axis</source>
-        <translation type="unfinished"></translation>
+        <translation>تدوير حول المحور الرأسي شريحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="405"/>
         <source>Rotate around the slice horizontal axis</source>
-        <translation type="unfinished"></translation>
+        <translation>تدوير حول المحور الأفقي للشريحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="421"/>
         <source>Reset to:</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين إلى:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="428"/>
         <source>Normal:</source>
-        <translation type="unfinished">طبيعي:</translation>
+        <translation>طبيعي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="435"/>
         <source>Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>أفقي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="518"/>
         <source>Normal to Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>طبيعي للكاميرا</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="555"/>
         <source>Flip H</source>
-        <translation type="unfinished"></translation>
+        <translation>اقلب أفقي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="562"/>
         <source>Flip slice view vertically (upside-down)</source>
-        <translation type="unfinished"></translation>
+        <translation>قلب عرض الشريحة عموديًا (رأسًا على عقب)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="565"/>
         <source>Flip V</source>
-        <translation type="unfinished"></translation>
+        <translation>اقلب عمودي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="572"/>
         <source>Rotate slice view clockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران عرض الشريحة في اتجاه عقارب الساعة بمقدار 90 درجة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="575"/>
         <source>Rotate CW</source>
-        <translation type="unfinished"></translation>
+        <translation>تدوير في اتجاه عقارب الساعة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="582"/>
         <source>Rotate slice view counterclockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران شريحة عرض عكس اتجاه عقارب الساعة بمقدار 90 درجة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="585"/>
         <source>Rotate CCW</source>
-        <translation type="unfinished"></translation>
+        <translation>تدوير عكس اتجاه عقارب الساعة</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -23275,37 +23275,37 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="98"/>
         <source>File Name</source>
-        <translation type="unfinished">File Name</translation>
+        <translation>اسم الملف</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="103"/>
         <source>File Format</source>
-        <translation type="unfinished">File Format</translation>
+        <translation>تنسيق الملف</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="108"/>
         <source>Directory</source>
-        <translation type="unfinished">Directory</translation>
+        <translation>دليل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="113"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="118"/>
         <source>Node Name</source>
-        <translation type="unfinished">Node Name</translation>
+        <translation>اسم العقدة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="123"/>
         <source>Node Type</source>
-        <translation type="unfinished">Node Type</translation>
+        <translation>نوع العقدة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="128"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>الحالة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="136"/>
@@ -23334,12 +23334,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="656"/>
         <source>Select a format</source>
-        <translation type="unfinished">حدد تنسيقا</translation>
+        <translation>حدد تنسيقا</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="682"/>
         <source>Output folder</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد الإخراج</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="733"/>
@@ -23398,7 +23398,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="38"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>الإعدادات المسبقة :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="56"/>
@@ -23418,17 +23418,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="86"/>
         <source>When checked, slice views will display linearly interpolated slices through input volumes. Unchecked indicates nearest neighbor resampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>عند التحقق، ستعرض مناظر الشرائح شرائح مستدللة خطياً من خلال أحجام الإدخال. يشير عدم التحقق إلى إعادة ضبط أقرب جار.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="132"/>
         <source>Shows the number of pixels (y axis) vs the image intensity (x axis) over a background of the current window/level and threshold mapping.</source>
-        <translation type="unfinished"></translation>
+        <translation>يُظهر عدد البكسلات (محور y) مقابل شدة الصورة (محور x) على خلفية النافذة/المستوى الحالي ورسم خرائط العتبة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="135"/>
         <source>Histogram</source>
-        <translation type="unfinished">Histogram</translation>
+        <translation>الرسم البياني</translation>
     </message>
 </context>
 <context>
@@ -23441,7 +23441,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="98"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished">حزمة الواقع الطبي</translation>
+        <translation>حزمة الواقع الطبي</translation>
     </message>
 </context>
 <context>
@@ -26699,7 +26699,7 @@ Note: This may result in unwanted data loss in %5.</source>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</oldsource>
-        <translation type="unfinished">لا يمكن تحويل التمثيل الرئيسي المصدر &apos;%1&apos; إلى الهدف الرئيسي &apos;%2&apos;، وبالتالي غير قادر على نقل المقطع &apos;%3&apos; من التجزئة &apos;%4&apos; إلى &apos;%5&apos;.
+        <translation>لا يمكن تحويل التمثيل الرئيسي المصدر &apos;%1&apos; إلى الهدف الرئيسي &apos;%2&apos;، وبالتالي غير قادر على نقل المقطع &apos;%3&apos; من التجزئة &apos;%4&apos; إلى &apos;%5&apos;.
 
 هل ترغب في تغيير التمثيل الرئيسي ل &quot;%5&quot; إلى &quot;%1&quot;؟
 
@@ -26732,7 +26732,8 @@ Note: This may result in unwanted data loss in %5.</oldsource>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="406"/>
         <source>Segment - ID: %1, Representations: %2, Color: (%3, %4, %5)
 Tags: %6</source>
-        <translation type="unfinished"></translation>
+        <translation>الشريحة - المعرف:%1، التمثيلات:%2، اللون: (%3،%4،%5)
+العلامات:%6</translation>
     </message>
     <message>
         <source>Segment - Representations: %1, Color: (%2, %3, %4)
@@ -26962,22 +26963,22 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="239"/>
         <source>Thick slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة بناء بلاطة سميكة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="241"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished"></translation>
+        <translation>مكّن إعادة بناء الألواح السميكة (TSR). يستخدم TSR لدمج الشرائح المتجاورة ضمن نطاق معين.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="250"/>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>تفاعلية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="252"/>
         <source>Show handles for interactively adjusting slab reconstruction thickness.</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر مقابض لتعديل سمك إعادة بناء البلاطة بشكل تفاعلي.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="367"/>
@@ -27178,7 +27179,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="83"/>
         <source>bit</source>
-        <translation type="unfinished">bit</translation>
+        <translation>ثنائية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="88"/>
@@ -27613,7 +27614,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="99"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the text node is immediately updated as the contents are edited. If unchecked, text node is updated only when &amp;quot;Save&amp;quot; is clicked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; إذا تم تحديده ، يتم تحديث عقدة النص على الفور أثناء تحرير المحتويات. إذا لم يتم تحديده، يتم تحديث عقدة النص فقط عند النقر فوق &amp;quot;Save&amp;quot;. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; إذا تم تحديده ، يتم تحديث عقدة النص على الفور أثناء تحرير المحتويات. إذا لم يتم تحديده، يتم تحديث عقدة النص فقط عند النقر فوق &amp;quot;حفظ&amp;quot;. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="102"/>
@@ -27694,7 +27695,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="217"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="254"/>
@@ -27729,7 +27730,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="364"/>
         <source>&gt;</source>
-        <translation type="unfinished">&gt;</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="371"/>
