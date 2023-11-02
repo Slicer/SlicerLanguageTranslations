@@ -18978,7 +18978,7 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="607"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="635"/>
         <source>0,0,0</source>
-        <translation type="unfinished">0,0,0</translation>
+        <translation>0،0،0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="541"/>
@@ -19031,12 +19031,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="138"/>
         <source>Output volume is under a non-linear transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الخرج تحت تحويل غير خطي.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="149"/>
         <source>Interpolation is disabled and input volume is under a non-linear transform</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم تعطيل الاستيفاء وحجم المدخلات تحت تحويل غير خطي</translation>
     </message>
     <message>
         <source>Input ROI is under a non-linear tansform.</source>
@@ -28643,7 +28643,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="68"/>
         <source>Volumes</source>
-        <translation type="unfinished">أحجام</translation>
+        <translation>أحجام</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="74"/>
@@ -28794,7 +28794,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="59"/>
         <source>Allow Python execution?</source>
-        <translation type="unfinished">السماح بتنفيذ بايثون؟</translation>
+        <translation>السماح بتنفيذ بايثون؟</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="60"/>
@@ -28817,17 +28817,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="389"/>
         <source>bytes/sec</source>
-        <translation type="unfinished"></translation>
+        <translation>بايت/ثانية</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="393"/>
         <source>kB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>كيلوبايت/ثانية</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="398"/>
         <source>MB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>ميجابايت/ ثانية</translation>
     </message>
 </context>
 <context>
@@ -28840,7 +28840,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="48"/>
         <source>Welcome to Slicer</source>
-        <translation type="unfinished">مرحبا بكم في Slicer</translation>
+        <translation>مرحبا بكم في Slicer</translation>
     </message>
 </context>
 <context>
@@ -29160,13 +29160,13 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="798"/>
         <source>Markups Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>الشروح الإيمانية CSV</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="791"/>
         <source>Annotation Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>الشرح الإيماني CSV</translation>
     </message>
 </context>
 <context>
@@ -29178,7 +29178,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="357"/>
         <source>Markups JSON</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ترميز JSON</translation>
     </message>
 </context>
 <context>
@@ -29216,13 +29216,13 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="757"/>
         <source>Movie.BYU Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished">شبكة Movie.BYU</translation>
+        <translation>شبكة Movie.BYU</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="759"/>
         <source>MetaIO Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شبكة MetaIO</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="761"/>
