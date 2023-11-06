@@ -19290,12 +19290,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="135"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
         <oldsource>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>وحدة البيانات هي النقطة المركزية لتنظيم البيانات حيث يتم تقديم جميع البيانات المحملة للوصول إليها ومعالجتها. يسمح بتنظيم البيانات في المجلدات أو أشجار المريض/الدراسة (يتم إجراؤها تلقائيًا لـ DICOM)، وتصور أي بيانات قابلة للعرض، وتحويل فروع كاملة، والعديد من ميزات نوع البيانات المحددة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT و CTSC ومجتمع Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.h" line="50"/>
@@ -20033,32 +20033,32 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1765"/>
         <source>Do you want to install &apos;%1&apos; now?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد تثبيت &apos;%1&apos; الآن ؟</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1766"/>
         <source>Install extension ?</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت التمديد ؟</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1783"/>
         <source>Failed to install %1 extension</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تثبيت تمديد%1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1806"/>
         <source>Extension %1 has been installed from server.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تثبيت التمديد%1 من الخادم.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1808"/>
         <source>Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب إعادة تشغيل Slicer. هل تريد إعادة التشغيل الآن ؟</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1809"/>
         <source>Restart slicer ?</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تشغيل slicer ؟</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1846"/>
@@ -20848,7 +20848,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="386"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished">Ctrl+O</translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="395"/>
@@ -20968,7 +20968,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="23"/>
         <source>Module Panel</source>
-        <translation type="unfinished">Module Panel</translation>
+        <translation>لوحة الوحدة</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
@@ -21385,12 +21385,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1177"/>
         <source>Reset to default</source>
-        <translation type="unfinished">Reset to default</translation>
+        <translation>إعادة ضبط إلى افتراضي</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1188"/>
         <source>Show Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر شريط الحالة</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="158"/>
@@ -21407,37 +21407,37 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="156"/>
         <source>Show &amp;Module Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر لوحة الوحدة</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="184"/>
         <source>Module Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>اختيار الوحدة</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="429"/>
         <source>Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل الأخطاء</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="439"/>
         <source>Show/hide Error Log window</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار / إخفاء نافذة سجل الأخطاء</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="463"/>
         <source>Python Console</source>
-        <translation type="unfinished">وحدة تحكم بايثون</translation>
+        <translation>وحدة تحكم بايثون</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="475"/>
         <source>Slicer Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة تحكم بايثون Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="486"/>
         <source>&amp;Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة تحكم بايثون</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="487"/>
@@ -21447,17 +21447,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="489"/>
         <source>Ctrl+3</source>
-        <translation type="unfinished">Ctrl+3</translation>
+        <translation>Ctrl+3</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="489"/>
         <source>Ctrl+`</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+`</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="589"/>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح السجل</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="648"/>
@@ -21896,17 +21896,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>R</source>
-        <translation type="unfinished">ي</translation>
+        <translation>يمين</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="204"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>أمامي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="205"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>متفوق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="206"/>
@@ -22282,7 +22282,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="92"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="93"/>
         <source>Markups</source>
-        <translation type="unfinished">علامات</translation>
+        <translation>علامات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="94"/>
@@ -23619,12 +23619,12 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="56"/>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="75"/>
         <source>Erase from current segment with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; erase from segment around the mouse pointer.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>امسح من الجزء الحالي بفرشاة مستديرة&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;سحب وإسقاط الزر الأيسر:&lt;/b&gt;محو من مقطع حول مؤشر الفأر.&lt;li&gt;&lt;b&gt;Shift + عجلة الفأر&lt;/b&gt; أو &lt;b&gt;+/- مفاتيح:&lt;/b&gt; ضبط حجم الفرشاة.&lt;li&gt;&lt;b&gt;Ctrl + عجلة الفأر:&lt;/b&gt; شريحة عرض التكبير / التصغير.&lt;/ul&gt;&lt;p&gt;التحرير متاح في كل من مشاهدات الشريحة والثلاثية الأبعاد.&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -23632,12 +23632,12 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="973"/>
         <source>Paint</source>
-        <translation type="unfinished"></translation>
+        <translation>طلاء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="993"/>
         <source>Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>طلاء بفرشاة مستديرة&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;سحب وإسقاط الزر الأيسر:&lt;/b&gt; ضربات الطلاء.&lt;li&gt;&lt;b&gt;Shift + عجلة الفأرة&lt;/b&gt; أو &lt;b&gt;+/- مفاتيح:&lt;/b&gt;ضبط حجم الفرشاة.&lt;li&gt;&lt;b&gt;Ctrl + عجلة الفأرة:&lt;/b&gt; شريحة عرض التكبير / التصغير.&lt;/ul&gt;&lt;p&gt;التحرير متاح في كل من مشاهدات الشريحة والثلاثية الأبعاد.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1422"/>
@@ -23709,7 +23709,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1561"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>مم</translation>
     </message>
 </context>
 <context>
@@ -23717,12 +23717,12 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1163"/>
         <source>Scissors</source>
-        <translation type="unfinished"></translation>
+        <translation>مقص</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
         <source>Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>قطع الجزء بأكمله من وجهة النظر الحالية&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;سحب وإسقاط الزر الأيسر:&lt;/b&gt; اكتساح الخطوط العريضة.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; إلغاء.&lt;/ul&gt;&lt;p&gt;التحرير متاح في كل من مشاهدات الشريحة والثلاثية الأبعاد. في عرض الشرائح سيتم تطبيق القطع على جميع الشرائح.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1203"/>
@@ -24127,7 +24127,7 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="767"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="810"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="774"/>
@@ -24157,7 +24157,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="100"/>
         <source>Segmentations module manages segmentations. Each segmentation can contain multiple segments, which correspond to one structure or ROI. Each segment can contain multiple data representations for the same structure, and the module supports automatic conversion between these representations as well as advanced display settings and import/export features.</source>
-        <translation type="unfinished">وحدة الانقسامات تدير عمليات التجزئة.يمكن أن يحتوي كل تجزئة على شرائح متعددة ، والتي تتوافق مع بنية واحدة أو ROI. يمكن أن يحتوي كل مقطع على تمثيلات بيانات متعددة لنفس الهيكل ،والوحدة تدعم التحويل التلقائي بين هذه العروض بالإضافة إلى إعدادات العرض المتقدمة وميزات تنزيل / تحميل.</translation>
+        <translation>وحدة التجزئة تدير التقسيمات. يمكن أن يحتوي كل تجزئة على أجزاء متعددة، والتي تتوافق مع بنية واحدة أو ROI. يمكن أن يحتوي كل قطاع على تمثيلات بيانات متعددة لنفس الهيكل، وتدعم الوحدة التحويل التلقائي بين هذه التمثيلات بالإضافة إلى إعدادات العرض المتقدمة وميزات الاستيراد/التصدير.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="113"/>
@@ -24170,7 +24170,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="634"/>
         <source>Output type:</source>
-        <translation type="unfinished">نوع الإخراج:</translation>
+        <translation>نوع الإخراج:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="635"/>
@@ -24190,7 +24190,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="643"/>
         <source>Input node:</source>
-        <translation type="unfinished">نوع الإدخال:</translation>
+        <translation>عقدة الإدخال:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="644"/>
@@ -24233,7 +24233,7 @@ Note: This may result in unwanted data loss in %5.</oldsource>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="794"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished">فشل تحويل %1 إلى %2!</translation>
+        <translation>فشل تحويل %1 إلى %2!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="795"/>
@@ -24398,7 +24398,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="110"/>
         <source>Default overwrite mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع الكتابة الفوقية الافتراضي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="93"/>
@@ -24418,7 +24418,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="102"/>
         <source>Ask user</source>
-        <translation type="unfinished">اسأل المستخدم</translation>
+        <translation>اسأل المستخدم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="103"/>
@@ -24433,17 +24433,17 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="108"/>
         <source>Overwrite all</source>
-        <translation type="unfinished">شطب فوق الكل</translation>
+        <translation>شطب فوق الكل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="109"/>
         <source>Overwrite visible</source>
-        <translation type="unfinished">الكتابة فوق مرئية</translation>
+        <translation>الكتابة فوق مرئية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="110"/>
         <source>Allow overlap</source>
-        <translation type="unfinished">السماح بالتداخل</translation>
+        <translation>السماح بالتداخل</translation>
     </message>
 </context>
 <context>
@@ -25467,7 +25467,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished">عام</translation>
+        <translation>عام</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
