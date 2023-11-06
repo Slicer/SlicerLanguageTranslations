@@ -8743,12 +8743,12 @@ NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="21"/>
         <source>Load ITK-Snap label description file (.label or .txt).</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar o arquivo de descrição do rótulo ITK-Snap (.label ou .txt).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="43"/>
         <source>ITK-Snap label description file</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de descrição do rótulo ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="72"/>
@@ -9114,12 +9114,12 @@ e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="123"/>
         <source>Rotation range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de rotação:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="130"/>
         <source>View rotation range, relative to current view orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de rotação da visualização, relativo à orientação da visualização atual.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="134"/>
@@ -9129,12 +9129,12 @@ e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="137"/>
         <source>Yaw</source>
-        <translation type="unfinished"></translation>
+        <translation>Guinada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
         <source>Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclinação</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="142"/>
@@ -9144,27 +9144,27 @@ e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="150"/>
         <source>Items defined by this sequence browser will be replayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os itens definidos por esse navegador de sequência serão novamente reproduzidos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="154"/>
         <source>Start index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice inicial:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="158"/>
         <source>First item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeiro item da sequência para capturar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="162"/>
         <source>End index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice final:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="166"/>
         <source>Last item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Último item da sequência para capturar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="174"/>
@@ -9174,109 +9174,110 @@ e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="179"/>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione como as imagens capturadas serão salvas. O modo de vídeo requer a configuração do caminho do executável ffmpeg na seção Avançada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="180"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="702"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="787"/>
         <source>image series</source>
-        <translation type="unfinished"></translation>
+        <translation>série de imagens</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="479"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="666"/>
         <source>video</source>
-        <translation type="unfinished"></translation>
+        <translation>vídeo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="480"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="782"/>
         <source>lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>imagem do painel de luz</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
         <source>Output type:</source>
-        <translation type="unfinished"></translation>
+        <translation>tipo de saída:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="193"/>
         <source>Number of images extracted between start and stop positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de imagens extraídas entre as posições inicial e final.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="197"/>
         <source>single</source>
-        <translation type="unfinished"></translation>
+        <translation>único</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="203"/>
         <source>Capture a single image of current state only.
 New filename is generated for each captured image (no files are overwritten).</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura uma única imagem somente do estado atual.
+Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é sobrescrito).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="206"/>
         <source>Number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de imagens:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="212"/>
         <source>Output directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório de saída:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="218"/>
         <source>String that defines file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadeia que define o nome e o tipo do arquivo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="220"/>
         <source>SlicerCapture.avi</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCapture.avi</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="223"/>
         <source>String that defines output lightbox file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadeia que define o nome e o tipo do arquivo de saída do painel de luz.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="225"/>
         <source>SlicerCaptureLightbox.png</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCaptureLightbox.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="230"/>
         <source>Output file name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do arquivo de saída:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="237"/>
         <source>Video format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="246"/>
         <source>Length of the exported video in seconds (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>Duração do vídeo exportado em segundos (sem volta e repetição).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="248"/>
         <source>Video length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Duração do vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="257"/>
         <source>Frame rate in frames per second.</source>
-        <translation type="unfinished"></translation>
+        <translation>Taxa de quadros em quadros por segundo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="259"/>
         <source>Video frame rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taxa de quadros de vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="266"/>
@@ -9286,82 +9287,82 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="272"/>
         <source>If checked, image series will be generated playing forward and then backward.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se marcado, as séries de imagens serão geradas com reprodução para frente e depois para trás.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="273"/>
         <source>Forward-backward:</source>
-        <translation type="unfinished"></translation>
+        <translation>Para frente e para trás:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="282"/>
         <source>Number of times image series are repeated. Useful for making short videos longer for playback in software that does not support looped playback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de vezes em que as séries de imagens são repetidas. Útil para tornar vídeos curtos mais longos para reprodução em softwares que não suportam a reprodução em loop.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="283"/>
         <source>Repeat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="291"/>
         <source>Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</source>
-        <translation type="unfinished"></translation>
+        <translation>Defina o caminho para o executável ffmpeg. Download em: https://www.ffmpeg.org/</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="292"/>
         <source>ffmpeg executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg executável:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="296"/>
         <source>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Set valid ffmpeg executable path! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Defina o caminho válido para o executável ffmpeg! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Ajuda...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="304"/>
         <source>Additional video conversion options passed to ffmpeg. Parameters -i (input files), -y(overwrite without asking), -r (frame rate), -start_number are specified by the module and thereforeshould not be included in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções adicionais de conversão de vídeo para o ffmpeg. Os parâmetros -i (arquivos de entrada), -y (sobrescrever sem perguntar), -r (taxa de quadros), -start_number são especificados pelo módulo e, portanto, não devem ser incluídos nessa lista.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="305"/>
         <source>Video extra options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções extras de vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="309"/>
         <source>String that defines file name, type, and numbering scheme. Default: image%05d.png.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadeia que define o nome do arquivo, o tipo e o esquema de numeração. Padrão: image%05d.png.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
         <source>image_%05d.png</source>
-        <translation type="unfinished"></translation>
+        <translation>image_%05d.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
         <source>Image file name pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation>Padrão de nome de arquivo de imagem:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="319"/>
         <source>Number of columns in lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de colunas na imagem do painel de luz</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="320"/>
         <source>Lightbox image columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colunas de imagem do painel de luz:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="326"/>
         <source>Maximum number of images to be captured (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de imagens a serem capturadas (sem volta e repetição).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="327"/>
         <source>Maximum number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de imagens:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="332"/>
