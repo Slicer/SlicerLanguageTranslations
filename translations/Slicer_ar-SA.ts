@@ -5893,7 +5893,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="4"/>
         <source>Registration Metric Test (BRAINS)</source>
-        <translation type="unfinished">اختبار قياس التسجيل (العقول)</translation>
+        <translation>اختبار قياس التسجيل (العقول)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
@@ -6019,38 +6019,38 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
         <source>Input volume</source>
-        <translation type="unfinished">حجم الإدخال</translation>
+        <translation>حجم الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="14"/>
         <source>Input model</source>
-        <translation type="unfinished">نموذج الإدخال</translation>
+        <translation>نموذج الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="11"/>
         <source>Output model</source>
-        <translation type="unfinished">نموذج الإخراج</translation>
+        <translation>نموذج الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="12"/>
         <source>Output array name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم مصفوفة الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="13"/>
         <source>Volume to use to &quot;paint&quot; the model</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم لاستخدامه في «طلاء» النموذج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="15"/>
         <source>Output &quot;painted&quot; model</source>
-        <translation type="unfinished"></translation>
+        <translation>النموذج «المطلي» للمخرجات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="16"/>
         <source>Name of the array that will contain the voxel values.</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم المصفوفة التي ستحتوي على قيم الفوكسل.</translation>
     </message>
 </context>
 <context>
@@ -6078,7 +6078,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال / الإخراج</translation>
+        <translation>معلمات الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
@@ -6408,7 +6408,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished">الحجم على طول كل بعد (0 يعني استخدام حجم الإدخال)</translation>
+        <translation>الحجم على طول كل بعد (0 يعني استخدام حجم الإدخال)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"/>
@@ -6433,7 +6433,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">عدد المواضيع</translation>
+        <translation>عدد الخيوط</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
@@ -6540,7 +6540,7 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
         <source>Transform Type</source>
-        <translation type="unfinished">نوع التحويل</translation>
+        <translation>نوع التحويل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
@@ -6708,12 +6708,12 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="30"/>
         <source>nn</source>
-        <translation type="unfinished">أقرب جار</translation>
+        <translation>أقرب جار</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="31"/>
         <source>ws</source>
-        <translation type="unfinished">نافذة سينك</translation>
+        <translation>نافذة سينك</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="32"/>
@@ -7072,7 +7072,7 @@ a = تحويل أفين</translation>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="15"/>
         <source>linear</source>
-        <translation type="unfinished">خطية</translation>
+        <translation>خطى</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="16"/>
@@ -7343,7 +7343,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"/>
         <source>Output Label Value</source>
-        <translation type="unfinished">قيمة تسمية الإخراج</translation>
+        <translation>قيمة تسمية الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
@@ -7383,17 +7383,17 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال / الإخراج</translation>
+        <translation>معلمات الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
         <source>Input Volume</source>
-        <translation type="unfinished">حجم الإدخال</translation>
+        <translation>حجم الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
         <source>Output Volume</source>
-        <translation type="unfinished">حجم الإخراج</translation>
+        <translation>حجم الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
@@ -7431,32 +7431,32 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال / الإخراج</translation>
+        <translation>معلمات الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">حجم الإدخال 1</translation>
+        <translation>حجم الإدخال 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">حجم الإدخال 2</translation>
+        <translation>حجم الإدخال 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">حجم الإخراج</translation>
+        <translation>حجم الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">حجم الإدخال 1</translation>
+        <translation>حجم الإدخال 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">حجم الإدخال 2</translation>
+        <translation>حجم الإدخال 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
@@ -7466,22 +7466,22 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished">عناصر التحكم</translation>
+        <translation>التحكم</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished">التحكم في كيفية عمل الوحدة</translation>
+        <translation>التحكم في كيفية عمل الوحدة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">ترتيب الاستيفاء</translation>
+        <translation>ترتيب الاستيفاء</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished">ترتيب الاستيفاء إذا كانت صورتان في إطارات إحداثيات مختلفة أو لهما عينات مختلفة.</translation>
+        <translation>ترتيب الاستيفاء إذا كانت صورتان في إطارات إحداثيات مختلفة أو لهما عينات مختلفة.</translation>
     </message>
 </context>
 <context>
@@ -7509,22 +7509,22 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال / الإخراج</translation>
+        <translation>معلمات الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">حجم الإدخال</translation>
+        <translation>حجم الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">حجم الإخراج</translation>
+        <translation>حجم الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
         <source>Input volume</source>
-        <translation type="unfinished">حجم الإدخال</translation>
+        <translation>حجم الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
@@ -7653,12 +7653,12 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
         <source>Background</source>
-        <translation type="unfinished">الخلفية</translation>
+        <translation>الخلفية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="12"/>
         <source>Foreground</source>
-        <translation type="unfinished">المقدمة</translation>
+        <translation>المقدمة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
@@ -7688,17 +7688,17 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال / الإخراج</translation>
+        <translation>معلمات الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
         <source>Input Volume</source>
-        <translation type="unfinished">حجم الإدخال</translation>
+        <translation>حجم الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
         <source>Output Volume</source>
-        <translation type="unfinished">حجم الإخراج</translation>
+        <translation>حجم الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
@@ -7716,64 +7716,66 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="29"/>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكن لهذه الوحدة أن تحصد وتعيد عينة تسلسل الحجم لتقليل حجمها من أجل العرض والمعالجة بشكل أسرع.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="40"/>
         <source>
 This file was originally developed by Andras Lasso
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطوير هذا الملف في الأصل بواسطة أندراس لاسو
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="54"/>
         <source>Parameters</source>
-        <translation type="unfinished">معلمات</translation>
+        <translation>معلمات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="70"/>
         <source>Pick a sequence node of volumes that will be cropped and resampled.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر عقدة متسلسلة من الأحجام التي سيتم قصها وإعادة تصميمها.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="71"/>
         <source>Input volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل حجم المدخلات: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="83"/>
         <source>(Overwrite input)</source>
-        <translation type="unfinished"></translation>
+        <translation>(مدخلات الكتابة الفوقية)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="86"/>
         <source>Pick a sequence node where the cropped and resampled volumes will be stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر عقدة متسلسلة حيث سيتم تخزين الأحجام القصيرة والمعاد تجميعها.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="87"/>
         <source>Output volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل حجم المخرج: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="102"/>
         <source>Select a crop volumes parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد معلمات أحجام المحاصيل.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقل إلى وحدة حجم المحاصيل لتحرير معلمات المحاصيل.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="112"/>
         <source>Crop volume settings: </source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات حجم المحاصيل: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">شغل الخوارزمية.</translation>
+        <translation>تشغيل الخوارزمية.</translation>
     </message>
 </context>
 <context>
@@ -7860,7 +7862,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="419"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished">دليل DICOM</translation>
+        <translation>دليل DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="420"/>
@@ -7948,12 +7950,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل هذا النوع من الصور تجريبي. يرجى التحقق من هندسة الصور والإبلاغ عن أي مشكلة موجودة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
         <source>Ultrasound volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الموجات فوق الصوتية</translation>
     </message>
 </context>
 <context>
@@ -7979,23 +7981,23 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="35"/>
         <source>Image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل الصورة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
         <source>Image spacing may need to be calibrated for accurate size measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation>قد يحتاج التباعد بين الصور إلى معايرة لقياسات الحجم الدقيقة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="186"/>
         <source>{modality} image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>{modality} تسلسل الصورة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="167"/>
         <source>{modality} image sequence ({count} planes)</source>
-        <translation type="unfinished"></translation>
+        <translation>{modality} تسلسل الصورة ({count} خطط)</translation>
     </message>
 </context>
 <context>
@@ -8028,7 +8030,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="155"/>
         <source>Advanced</source>
-        <translation type="unfinished">متقدم</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="229"/>
@@ -8059,13 +8061,13 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="242"/>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="427"/>
         <source>DICOM</source>
-        <translation type="unfinished">DICOM</translation>
+        <translation>التصوير الرقمي والاتصالات في الطب</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="403"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation type="unfinished">تحذير: لا يمكن العثور على {missing_file_count} من الملفات المحددة {total_file_count} المدرجة في قاعدة البيانات على القرص.</translation>
+        <translation>لا يمكن العثور على {missing_file_count} من الملفات المحددة {total_file_count} المدرجة في قاعدة البيانات على القرص.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
@@ -8391,7 +8393,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="27"/>
         <source>Slicer Data Bundle</source>
-        <translation type="unfinished">حزمة بيانات Slicer</translation>
+        <translation>حزمة بيانات Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="75"/>
@@ -11377,7 +11379,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Libs/MRML/Core/Testing/vtkMRMLI18NTest1.cxx" line="58"/>
         <source>SomeMessage</source>
-        <translation type="unfinished"></translation>
+        <translation>بعض الرسائل</translation>
     </message>
 </context>
 <context>
@@ -11400,7 +11402,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="47"/>
         <source>inputVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم المدخلات</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="54"/>
@@ -11415,7 +11417,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="76"/>
         <source>imageThreshold</source>
-        <translation type="unfinished"></translation>
+        <translation>عتبة الصورة</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
@@ -11435,7 +11437,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="119"/>
         <source>thresholdedVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>عتبات الحجم</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="126"/>
@@ -11450,7 +11452,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="153"/>
         <source>invertedVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم المقلوب</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="163"/>
@@ -12088,12 +12090,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="69"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="73"/>
         <source>Label</source>
-        <translation type="unfinished">تسمية</translation>
+        <translation>تسمية</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="77"/>
@@ -12162,7 +12164,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="132"/>
@@ -12177,7 +12179,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="168"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>عرض:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="175"/>
@@ -12286,7 +12288,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="142"/>
         <source>distance / (</source>
-        <translation type="unfinished">distance / (</translation>
+        <translation>المسافة / (</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="164"/>
@@ -12301,7 +12303,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="180"/>
         <source>)^2</source>
-        <translation type="unfinished">)^2</translation>
+        <translation>)^2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="196"/>
@@ -12321,7 +12323,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="233"/>
         <source> %</source>
-        <translation type="unfinished"> %</translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="249"/>
@@ -12337,7 +12339,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="333"/>
         <source>Resamples the active curve with the number of points specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>يعيد تشكيل المنحنى النشط بعدد النقاط المحددة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="261"/>
@@ -12381,7 +12383,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="14"/>
         <source>Markups Display Properties</source>
         <oldsource>Markups Display Node</oldsource>
-        <translation type="unfinished">Markups Display Node</translation>
+        <translation>عقدة عرض الترميز</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="34"/>
@@ -12417,7 +12419,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="376"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="566"/>
         <source> %</source>
-        <translation type="unfinished"> %</translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="116"/>
@@ -12437,7 +12439,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="155"/>
         <source>Italic</source>
-        <translation type="unfinished">Italic</translation>
+        <translation>مائل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="162"/>
@@ -12447,7 +12449,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="177"/>
         <source>Font:</source>
-        <translation type="unfinished">Font:</translation>
+        <translation>الخط:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="193"/>
@@ -12467,7 +12469,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="235"/>
         <source>Active Color:</source>
-        <translation type="unfinished">Active Color:</translation>
+        <translation>اللون النشط:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="242"/>
@@ -12487,7 +12489,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>عرض:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
@@ -12522,7 +12524,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="446"/>
         <source>Control Point Labels:</source>
-        <translation type="unfinished">Control Point Labels:</translation>
+        <translation>ملصقات نقطة التحكم:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="460"/>
@@ -12537,12 +12539,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="513"/>
         <source>Placement mode:</source>
-        <translation type="unfinished">Placement mode:</translation>
+        <translation>وضع التنسيب:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="526"/>
         <source>Properties Label:</source>
-        <translation type="unfinished">Properties Label:</translation>
+        <translation>خصائص التسمية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="540"/>
@@ -12882,7 +12884,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="500"/>
         <source>Create new %1</source>
-        <translation type="unfinished"></translation>
+        <translation>أنشئ جديد %1</translation>
     </message>
 </context>
 <context>
@@ -13085,7 +13087,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="442"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="458"/>
@@ -13230,7 +13232,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="85"/>
         <source>Attribute Name</source>
-        <translation type="unfinished">Attribute Name</translation>
+        <translation>اسم الصفة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="90"/>
@@ -13240,12 +13242,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="126"/>
         <source>Attribute name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم الصفة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="126"/>
         <source>Attribute value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة السمة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="133"/>
@@ -13352,7 +13354,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="460"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="463"/>
         <source> as...</source>
-        <translation type="unfinished"> as...</translation>
+        <translation> ك...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="320"/>
@@ -13366,7 +13368,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="608"/>
         <source>node</source>
-        <translation type="unfinished">node</translation>
+        <translation>عقدة</translation>
     </message>
 </context>
 <context>
@@ -15487,7 +15489,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="787"/>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>تفاعلية</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="795"/>
@@ -15757,42 +15759,42 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1209"/>
         <source>Max</source>
-        <translation type="unfinished">القصوي</translation>
+        <translation>القصوي</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1212"/>
         <source>Set slab reconstruction type to Max</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط نوع إعادة بناء الألواح إلى الحد الأقصى</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1220"/>
         <source>Min</source>
-        <translation type="unfinished">الادني</translation>
+        <translation>الادني</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1223"/>
         <source>Set slab reconstruction type to Min</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد نوع إعادة بناء الألواح إلى الحد الأدنى</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1231"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>المتوسط</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1234"/>
         <source>Set slab reconstruction type to Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط نوع إعادة بناء الألواح إلى المتوسط</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1242"/>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموع</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1245"/>
         <source>Set slab reconstruction type to Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط لوح إعادة بناء نوع إلى مجموع</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1254"/>
@@ -15918,7 +15920,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="702"/>
         <source>Manual Origin</source>
-        <translation type="unfinished">الأصل اليدوي</translation>
+        <translation>الأصل اليدوي</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="731"/>
@@ -15968,12 +15970,12 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1593"/>
         <source>Thick slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة بناء الألواح السميكة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1603"/>
         <source>Slab thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>سمك الألواح</translation>
     </message>
 </context>
 <context>
@@ -15985,7 +15987,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Slice Information</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات Slice</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="26"/>
@@ -16000,7 +16002,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="43"/>
         <source>Orientation:</source>
-        <translation type="unfinished">Orientation:</translation>
+        <translation>التوجيه:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="50"/>
@@ -16031,7 +16033,7 @@ Do you wish to proceed with changing master representation?</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="77"/>
         <source>Slice visibility:</source>
         <oldsource>Slice visible:</oldsource>
-        <translation type="unfinished">Slice visible:</translation>
+        <translation>شريحة مرئية:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="84"/>
@@ -16042,13 +16044,13 @@ Do you wish to proceed with changing master representation?</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="87"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="121"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="111"/>
         <source>Widget visibility:</source>
         <oldsource>Widget visible:</oldsource>
-        <translation type="unfinished">Widget visible:</translation>
+        <translation>أداة مرئية:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="118"/>
@@ -16113,7 +16115,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="256"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>يدوي</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="265"/>
@@ -16141,7 +16143,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceVerticalControllerWidget.ui" line="35"/>
         <source>Vertical Slice Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة تحكم الشرائح العمودية</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceVerticalControllerWidget.cxx" line="80"/>
@@ -16167,17 +16169,17 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="128"/>
         <source>Node</source>
-        <translation type="unfinished">وصلة(عقدة ربط)</translation>
+        <translation>عقدة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="129"/>
         <source>Description</source>
-        <translation type="unfinished">وصف</translation>
+        <translation>وصف</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
         <source>IDs</source>
-        <translation type="unfinished">معرفات</translation>
+        <translation>هويات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
@@ -16187,7 +16189,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="136"/>
         <source>Node description</source>
-        <translation type="unfinished">Node description</translation>
+        <translation>وصف العقدة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="137"/>
@@ -16207,7 +16209,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="140"/>
         <source>Node ID</source>
-        <translation type="unfinished">Node ID</translation>
+        <translation>هوية العقدة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="987"/>
@@ -16217,7 +16219,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1153"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1163"/>
@@ -16548,7 +16550,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="219"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="236"/>
@@ -16564,7 +16566,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="264"/>
         <source>Link 3D views. Synchronizes properties of all 3D views in the same view group.</source>
-        <translation type="unfinished">ربط وجهات النظر 3D. مزامنة خصائص كافة طرق عرض 3D في نفس مجموعة العرض.</translation>
+        <translation>رابط المناظر ثلاثية الأبعاد. يتزامن خصائص جميع وجهات النظر ثلاثية الأبعاد في نفس مجموعة العرض.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="296"/>
@@ -17097,7 +17099,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1022"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1241"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="725"/>
@@ -17112,7 +17114,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="758"/>
         <source>Diameter:</source>
-        <translation type="unfinished">قطر:</translation>
+        <translation>قطر:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="765"/>
@@ -17689,7 +17691,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="57"/>
         <source>W: </source>
-        <translation type="unfinished">W: </translation>
+        <translation>النافذة: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="47"/>
@@ -17699,7 +17701,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="97"/>
         <source>L: </source>
-        <translation type="unfinished">L: </translation>
+        <translation>المستوى: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="110"/>
@@ -17947,7 +17949,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="14"/>
         <source>Actions</source>
-        <translation type="unfinished">Actions</translation>
+        <translation>إجراءات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="27"/>
@@ -18001,12 +18003,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="85"/>
         <source>Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق توضيحي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="98"/>
         <source>Annotations</source>
-        <translation type="unfinished">شروح</translation>
+        <translation>التعليقات التوضيحية</translation>
     </message>
 </context>
 <context>
@@ -18015,7 +18017,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="76"/>
         <source>&amp;Keyboard Shortcuts Reference</source>
         <oldsource>&amp;Keyboard Shortcuts</oldsource>
-        <translation type="unfinished">&amp;Keyboard Shortcuts</translation>
+        <translation>مرجعية اختصارات لوحة المفاتيح</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
@@ -18032,7 +18034,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
         <source>Ctrl+1</source>
         <comment>Documentation</comment>
-        <translation type="unfinished">Ctrl+1</translation>
+        <translation>Ctrl+1</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="86"/>
@@ -18137,7 +18139,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="387"/>
         <source>Views</source>
-        <translation type="unfinished">طرق عرض</translation>
+        <translation>المشاهدات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="391"/>
