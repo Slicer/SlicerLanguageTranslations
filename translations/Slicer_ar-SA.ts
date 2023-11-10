@@ -8398,22 +8398,22 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="75"/>
         <source>Contains a Slicer scene</source>
-        <translation type="unfinished"></translation>
+        <translation>يحتوي على مشهد Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="168"/>
         <source>Slicer data bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة بيانات Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="169"/>
         <source>Creates a series that embeds the entire Slicer scene in a private DICOM tag</source>
-        <translation type="unfinished"></translation>
+        <translation>ينشئ سلسلة تضمّن مشهد Slicer بأكمله في علامة DICOM خاصة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="181"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished">التسلسل الهرمي للموضوع غير صالح</translation>
+        <translation>التسلسل الهرمي للموضوع غير صالح</translation>
     </message>
 </context>
 <context>
@@ -8421,59 +8421,59 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="26"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished">تسلسل الحجم</translation>
+        <translation>تسلسل الحجم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="96"/>
         <source>Creates a series of DICOM files from volume sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>ينشئ سلسلة من ملفات DICOM من تسلسل الحجم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="101"/>
         <source>Volume sequence of {count} frames</source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل حجم إطارات {count}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="102"/>
         <source>CT</source>
-        <translation type="unfinished">التصوير المقطعي المحوسب</translation>
+        <translation>التصوير المقطعي المحوسب</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="103"/>
         <source>Unknown manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>مصنع مجهول</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="104"/>
         <source>Unknown model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج غير معروف</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="157"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished">التسلسل الهرمي للموضوع غير صالح</translation>
+        <translation>التسلسل الهرمي للموضوع غير صالح</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="161"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="167"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="173"/>
         <source>Series &apos;{itemName}&apos; cannot be exported as volume sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>السلسلة &apos;{itemName}&apos; لا يمكن تصديرها كتسلسل حجم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="180"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">تعذر الحصول على الدراسة للسلسلة &quot;{volumeName}&quot;</translation>
+        <translation>تعذر الحصول على الدراسة للسلسلة &quot;{volumeName}&quot;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="185"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">يتعذر التحلي بالصبر لسلسلة &quot;{volumeName}&quot;</translation>
+        <translation>يتعذر التحلي بالصبر لسلسلة &quot;{volumeName}&quot;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="214"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">طريقة فارغة للسلسلة &apos;{volumeName}&apos;</translation>
+        <translation>طريقة فارغة للسلسلة &apos;{volumeName}&apos;</translation>
     </message>
 </context>
 <context>
@@ -8481,7 +8481,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="71"/>
         <source>Install Slicer Diffusion Tools (SlicerDMRI)</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتثبيت أدوات نشر Slicer (SlicerDMRI)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="80"/>
@@ -8490,22 +8490,26 @@ This file was originally developed by Andras Lasso
     Technology For Brain Cancer Research), and made possible by NA-MIC, NAC,
     BIRN, NCIGT, and the Slicer Community.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    SlicerDMRI بدعم من NIH NCI ITCR U01CA199459 (التصوير بالرنين المغناطيسي لنشر المصدر المفتوح
+Technology for Brain Cancer Research)، وأتاحته NA-MIC، NAC،
+BIRN و NCIGT و Slicer Community.
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="101"/>
         <source>Installs the &quot;SlicerDMRI&quot; extension from the Diffusion category.</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت امتداد «SlicerDMRI» من فئة الانتشار.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="117"/>
         <source>SlicerDMRI is already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تثبيت SlicerDMRI بالفعل.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="127"/>
         <source>Restart to complete SlicerDMRI installation?</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة التشغيل لإكمال تثبيت SlicerDMRI ؟</translation>
     </message>
 </context>
 <context>
@@ -8516,47 +8520,50 @@ This file was originally developed by Andras Lasso
 The DataProbe module is used to get information about the current RAS position being
 indicated by the mouse position.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+يتم استخدام وحدة مسبار البيانات للحصول على معلومات حول وضع الأيمن الأمامي المتفوق الحالي
+التي يبينها وضع الفأر.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="34"/>
         <source>This work is supported by NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis and Fedorov) and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل مدعوم من NA-MIC و NAC و NCIGT و NIH U24 CA180918 (PIs Kikinis و Fedorov) ومجتمع Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="133"/>
         <source>No volume</source>
-        <translation type="unfinished"></translation>
+        <translation>أي حجم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="136"/>
         <source>No Image</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد صورة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="140"/>
         <source>Out of Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>خارج الإطار</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="144"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>مجهول</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="156"/>
         <source>Out of bounds</source>
-        <translation type="unfinished"></translation>
+        <translation>خارج الحدود</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="159"/>
         <source>No Point Data</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد بيانات ثابتة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="163"/>
         <source>No Tensor Data</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد بيانات موتر</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="181"/>
