@@ -9377,52 +9377,52 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="338"/>
         <source>Output volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de volume de saída:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="342"/>
         <source>If checked, images will be captured with view controllers visible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se estiver marcado, as imagens serão capturadas com os controladores de exibição visíveis.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="343"/>
         <source>View controllers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir controladores:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="347"/>
         <source>If checked, images will be captured with transparent background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se estiver marcado, as imagens serão capturadas com fundo transparente.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="348"/>
         <source>Transparent background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fundo transparente:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="354"/>
         <source>If checked, selected watermark image will be added to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se estiver marcado, a imagem de marca d&apos;água selecionada será adicionada a todas as imagens exportadas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="359"/>
         <source>Add a watermark image to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar uma imagem de marca d&apos;água a todas as imagens exportadas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="373"/>
         <source>Size scaling applied to the watermark image. 100% is original size</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de tamanho aplicada à imagem da marca d&apos;água. 100% é o tamanho original.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="387"/>
         <source>Opacity of the watermark image. 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacidade da imagem da marca d&apos;água. 100% é totalmente opaco.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="399"/>
         <source>Watermark image file in png format</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de imagem de marca d&apos;água em formato png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="403"/>
@@ -9442,12 +9442,12 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="410"/>
         <source>Watermark image:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imagem de marca d&apos;água:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="418"/>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="419"/>
@@ -9457,12 +9457,12 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="421"/>
         <source>Capture slice sweep to image sequence.</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de varredura de corte para a sequência de imagens.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="426"/>
         <source>Show created output file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar o arquivo de saída criado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="529"/>
@@ -9473,13 +9473,13 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="545"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="730"/>
         <source>slice sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>varredura de fatias</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="530"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="734"/>
         <source>slice fade</source>
-        <translation type="unfinished"></translation>
+        <translation>desvanecimento da fatia</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="532"/>
@@ -9489,7 +9489,7 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="566"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="737"/>
         <source>3D rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotação 3D</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="534"/>
@@ -9502,27 +9502,27 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="576"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="743"/>
         <source>sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>sequência</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="686"/>
         <source>Video encoder not detected on your system. Download ffmpeg video encoder?</source>
-        <translation type="unfinished"></translation>
+        <translation>O codificador de vídeo não foi detectado em seu sistema. Baixar o codificador de vídeo ffmpeg?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="687"/>
         <source>Download confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmação de download</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="689"/>
         <source>ffmpeg download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha no download do ffmpeg</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="713"/>
         <source>View controllers are only available to be shown when capturing all views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os controladores de visualização só estão disponíveis para serem mostrados ao capturar todas as visualizações.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="726"/>
@@ -9531,93 +9531,93 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1318"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1364"/>
         <source>Write {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="728"/>
         <source>Write to volume node &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar no nó de volume &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="764"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="771"/>
         <source>Copy to {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar para {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="789"/>
         <source>Done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feito.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="793"/>
         <source>Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="825"/>
         <source>H.264</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="826"/>
         <source>H.264 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264 (alta qualidade)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="827"/>
         <source>MPEG-4</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="828"/>
         <source>MPEG-4 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4 (alta qualidade)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="829"/>
         <source>Animated GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF animado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="830"/>
         <source>Animated GIF (grayscale)</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF animado (escala de cinza)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1057"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1092"/>
         <source>Capture image from view failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na captura de imagem da visualização</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1121"/>
         <source>Invalid vector volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de volume vetorial inválido.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1135"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1144"/>
         <source>Unsupported image format based on file name {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de imagem não suportado com base no nome do arquivo {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1194"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1219"/>
         <source>Invalid view node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de visualização inválido.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1206"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1216"/>
         <source>Selected 3D view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>A visualização 3D selecionada não está visível no layout atual.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1227"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1257"/>
         <source>Selected slice view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>A visualização da fatia selecionada não está visível no layout atual.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1249"/>
@@ -9625,52 +9625,52 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1342"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1371"/>
         <source>User requested cancel.</source>
-        <translation type="unfinished"></translation>
+        <translation>O usuário solicitou o cancelamento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1374"/>
         <source>Export to lightbox image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar para a imagem do painel de luz...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1415"/>
         <source>Lighbox image saved to file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem do painel de luz salva no arquivo: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1418"/>
         <source>Export to video...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar para o vídeo...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1424"/>
         <source>Video creation failed: ffmpeg executable path is not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na criação do vídeo: o caminho do executável ffmpeg não está definido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1426"/>
         <source>Video creation failed: ffmpeg executable path is invalid: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na criação do vídeo: o caminho do executável do ffmpeg é inválido: {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1439"/>
         <source>Start ffmpeg:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicie o ffmpeg:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1445"/>
         <source>ffmpeg error output: {error}</source>
-        <translation type="unfinished"></translation>
+        <translation>Saída de erro do ffmpeg: {error}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1446"/>
         <source>ffmpeg returned with error</source>
-        <translation type="unfinished"></translation>
+        <translation>O ffmpeg retornou com erro</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1448"/>
         <source>Video export succeeded to file: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>A exportação do vídeo foi bem-sucedida para o arquivo: {path}</translation>
     </message>
 </context>
 <context>
@@ -9717,28 +9717,28 @@ e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="90"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização automática</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="91"/>
         <source>Auto-update results preview when input segments change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização automática da visualização de resultados quando os segmentos de entrada são alterados.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="95"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="255"/>
         <source>Initialize</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="97"/>
         <source>Preview complete segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-visualizar a segmentação completa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="107"/>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-visualização:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="110"/>
