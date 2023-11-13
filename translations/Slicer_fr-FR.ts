@@ -26302,7 +26302,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="174"/>
         <source>Invalid!</source>
-        <translation>Invalide!</translation>
+        <translation>Invalide !</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="180"/>
@@ -26353,7 +26353,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="119"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
-        <translation>Si cette option est activée, les dossiers qui ne contiennent pas de nœuds (autorisés par aucun filtre) sont affichés, sinon non.</translation>
+        <translation>Si cette option est activée, les dossiers qui ne contiennent pas de nœuds (autorisés par n&apos;importe quel filtre) sont affichés, sinon non.</translation>
     </message>
 </context>
 <context>
@@ -26526,7 +26526,7 @@ Select plugin to add node named
 
 Sélectionnez le plugin pour ajouter le nœud nommé
 &apos;%1&apos;
-(type 2)</translation>
+(type%2 )</translation>
     </message>
 </context>
 <context>
@@ -27249,7 +27249,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="489"/>
         <source>Spacing:</source>
-        <translation>Espacement:</translation>
+        <translation>Espacement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="493"/>
@@ -27360,7 +27360,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="113"/>
         <source>long long</source>
-        <translation>long long</translation>
+        <translation>long</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="118"/>
@@ -29065,7 +29065,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
 &lt;p&gt;We are always interested in improving 3D Slicer, to tell us about your problem or submit a bug report, open &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</source>
         <translation>&lt;table border=&quot;0&quot; align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;
 &lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
-&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Partagez vos histoires avec nous sur le &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;forum Slicer&lt;/a&gt; et faites-nous savoir comment 3D Slicer a permis vos recherches.&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Partagez vos histoires avec nous sur le &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;forum Slicer&lt;/a&gt; et faites-nous savoir comment 3D Slicer a activer vos recherches.&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 &lt;p&gt;Nous sommes toujours intéressés à améliorer 3D Slicer, pour nous faire part de votre problème ou soumettre un rapport de bug, ouvrez &lt;b&gt;Aide -&amp;gt; Signaler un bug&lt;/b&gt;.&lt;/p&gt;</translation>
     </message>
