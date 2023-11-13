@@ -8568,38 +8568,38 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="181"/>
         <source>{numberOfComponents} components</source>
-        <translation type="unfinished"></translation>
+        <translation>مكونات {numberOfComponents}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="293"/>
         <source>Data Probe: {sceneName}</source>
-        <translation type="unfinished"></translation>
+        <translation>مسبار البيانات: {sceneName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="297"/>
         <source>Data Probe</source>
-        <translation type="unfinished">مسبار البيانات</translation>
+        <translation>مسبار البيانات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
         <source>None</source>
-        <translation type="unfinished">لا شيء</translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="499"/>
         <source>Go to the DataProbe module for more information and options</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقل إلى وحدة مسبار البيانات لمزيد من المعلومات والخيارات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
         <source>Show Zoomed Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر شريحة التكبير</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="540"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">إعدادات التعليقات التوضيحية لعرض الشرائح</translation>
+        <translation>إعدادات التعليقات التوضيحية لعرض الشرائح</translation>
     </message>
 </context>
 <context>
@@ -8607,7 +8607,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="25"/>
         <source>Endoscopy</source>
-        <translation type="unfinished">التنظير</translation>
+        <translation>التنظير</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="37"/>
@@ -8629,78 +8629,82 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 (See &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+يدعم هذا العمل PAR-07-249: R01CA131718 تنظير القولون الافتراضي NA-MIC
+(انظر &lt;a&gt; https ://www.na-mic.org/Wiki/index.php/NA-MIC _ NCBC _ التعاون: NA-MIC _ virtual _ colonoscopy &lt;/a&gt;)
+NA-MIC و NAC و BIRN و NCIGT و مجتمع Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="74"/>
         <source>Path</source>
-        <translation type="unfinished">مسار</translation>
+        <translation>مسار</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="83"/>
         <source>Select a camera that will fly along this path.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد كاميرا تطير على طول هذا المسار.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="95"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="106"/>
         <source>Select a fiducial list to define control points for the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد قائمة مَرْجَعِيّة لتحديد نقاط التحكم في المسار.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="100"/>
         <source>Input Fiducials:</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال الثوابت:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="112"/>
         <source>Output Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار الاخراج:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="115"/>
         <source>Create path</source>
-        <translation type="unfinished"></translation>
+        <translation>أنشئ مسار</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="117"/>
         <source>Create the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>أنشئ المسار.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="124"/>
         <source>Flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>يطير من خلال</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="134"/>
         <source>Frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>إطار:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="142"/>
         <source>Frame skip:</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطي الإطار:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="152"/>
         <source>Frame delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>تأخير الإطار:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="160"/>
         <source>View Angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الزاوية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="163"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="165"/>
         <source>Fly through path.</source>
-        <translation type="unfinished"></translation>
+        <translation>يطير من خلال المسار.</translation>
     </message>
 </context>
 <context>
