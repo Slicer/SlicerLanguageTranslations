@@ -8768,7 +8768,9 @@ NA-MIC و NAC و BIRN و NCIGT و مجتمع Slicer.
         <source>
 This module provides data sets that can be used for testing 3D Slicer.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+توفر هذه الوحدة مجموعات بيانات يمكن استخدامها لاختبار 3D Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="94"/>
@@ -8785,130 +8787,142 @@ with a permissive copyright-license (&lt;a href=&quot;https://creativecommons.or
 and is exclusively available for research and teaching. You are not authorized to redistribute or sell it, or
 use it for commercial purposes.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;تم تمويل هذا العمل جزئيًا من قبل Cancer Care Ontario
+واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي &lt;/p&gt;
+
+&lt;p&gt; تم التبرع بمجموعات بيانات MRHead و CBCT-MR Brain لمشروع 3D Slicer من قبل الأشخاص المرئيين في الصور، لاستخدامها دون أي قيود. &lt;/p&gt;
+
+&lt;p&gt;مجموعة بيانات CTLiver تأتي من &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt; مشروع العشاري الطبي &lt;/a&gt; (imagesTr/liver_100.nii.gz في مجموعة Task03_Liver)
+بترخيص متساهل لحقوق النشر (&lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt; CC-BY-SA 4.0 &lt;/a&gt; )، مما يسمح بمشاركة البيانات وتوزيعها وتحسينها.&lt;/p&gt;
+
+&lt;p&gt; تأتي مجموعة بيانات بطن CTA (بانوراميكس) من&lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt; مكتبة صور Osirix DICOM&lt;/a&gt;
+وهو متاح حصرا للبحث والتدريس. أنت غير مصرح لك بإعادة توزيعها أو بيعها، أو
+تستخدم لأغراض تجارية.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="109"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">تنزيل عينة البيانات</translation>
+        <translation>تنزيل عينة البيانات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="110"/>
         <source>Go to the SampleData module to download data from the network</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقل إلى وحدة بيانات العينة لتنزيل البيانات من الشبكة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="509"/>
         <source>General</source>
-        <translation type="unfinished">عام</translation>
+        <translation>عام</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="510"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>تطوير</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="631"/>
         <source>Failed to create cache folder {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في إنشاء مجلد ذاكرة التخزين المؤقت {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="633"/>
         <source>Cache folder {path} is not writable</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد ذاكرة التخزين المؤقت {path} غير قابل للكتابة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="677"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التنزيل (محاولة {current} من {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="716"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل الحمل (محاولة {current} من {total}). غير قادر على حذف ومحاولة تحميل {path} مرة أخرى</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="720"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل الحمل (محاولة {current} من {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="850"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تنزيل {sizeCompleted} ({percentCompleted}% من {sizeTotal})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="866"/>
         <source>Requesting download {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation>طلب تنزيل {name} من {uri}...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="869"/>
         <source>Download finished</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهى التنزيل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="871"/>
         <source>Download failed: {errorMessage}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التنزيل: {errorMessage}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="872"/>
         <source>Failed to download {uri} to {filePath}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تنزيل {uri} إلى {filePath}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="875"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="887"/>
         <source>Verifying checksum</source>
-        <translation type="unfinished"></translation>
+        <translation>التحقق من المجموع الاختباري</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="879"/>
         <source>Checksum verification failed. Computed checksum {currentChecksum} different from expected checksum {expectedChecksum}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التحقق من المجموع الاختباري. المجموع الاختباري المحسوب {currentChecksum} يختلف عن المجموع الاختباري المتوقع {expectedChecksum}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="884"/>
         <source>Checksum OK</source>
-        <translation type="unfinished"></translation>
+        <translation>المجموع الاختباري موافق</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="890"/>
         <source>File already exists in cache but checksum is different - re-downloading it.</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف موجود بالفعل في ذاكرة التخزين المؤقت ولكن المجموع الاختباري مختلف-إعادة تنزيله.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="895"/>
         <source>File already exists and checksum is OK - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف موجود بالفعل والمجموع الاختباري على ما يرام-إعادة استخدامه.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="898"/>
         <source>File already exists in cache - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف موجود بالفعل في ذاكرة التخزين المؤقت-إعادة استخدامه.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="902"/>
         <source>Requesting load {uri}</source>
-        <translation type="unfinished"></translation>
+        <translation>طلب التحميل {uri}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="906"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="921"/>
         <source>Load failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التحميل!</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="908"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="924"/>
         <source>Load finished</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهى التحميل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="912"/>
         <source>Requesting load {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation>طلب التحميل {name} من {uri}...</translation>
     </message>
 </context>
 <context>
@@ -9096,12 +9110,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="137"/>
         <source>Yaw</source>
-        <translation type="unfinished"></translation>
+        <translation>الانحراف</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
         <source>Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="142"/>
@@ -9141,7 +9155,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="179"/>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد كيف سيتم حفظ الصور الملتقطة. يتطلب وضع الفيديو إعداد مسار قابل للتنفيذ ffmpeg في القسم المتقدم.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="180"/>
@@ -9204,7 +9218,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="220"/>
         <source>SlicerCapture.avi</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCapture.avi</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="223"/>
@@ -9214,7 +9228,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="225"/>
         <source>SlicerCaptureLightbox.png</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCaptureLightbox.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="230"/>
@@ -9274,17 +9288,17 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="291"/>
         <source>Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</source>
-        <translation type="unfinished">Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</translation>
+        <translation>اضبط المسار إلى ffmpeg قابل للتنفيذ. تنزيل من: https://www.ffmpeg.org/</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="292"/>
         <source>ffmpeg executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg قابلة للتنفيذ:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="296"/>
         <source>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Set valid ffmpeg executable path! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;ضع مسارًا تنفيذيًا صالحًا fmpeg! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;مساعدة...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="304"/>
@@ -9304,7 +9318,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
         <source>image_%05d.png</source>
-        <translation type="unfinished"></translation>
+        <translation>image_%05d.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
@@ -9474,7 +9488,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="686"/>
         <source>Video encoder not detected on your system. Download ffmpeg video encoder?</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم الكشف عن مشفر الفيديو على نظامك. قم بتنزيل مشفر فيديو ffmpeg ؟</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="687"/>
@@ -9484,7 +9498,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="689"/>
         <source>ffmpeg download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تنزيل ffmpeg</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="713"/>
@@ -9524,32 +9538,32 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="825"/>
         <source>H.264</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="826"/>
         <source>H.264 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264 (عالي الجودة)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="827"/>
         <source>MPEG-4</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="828"/>
         <source>MPEG-4 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4 (عالي الجودة)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="829"/>
         <source>Animated GIF</source>
-        <translation>GIF متحركة</translation>
+        <translation>GIF تحر يكة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="830"/>
         <source>Animated GIF (grayscale)</source>
-        <translation type="unfinished"></translation>
+        <translation>تحر يكة GIF (رمادي)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1057"/>
@@ -9612,27 +9626,27 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1424"/>
         <source>Video creation failed: ffmpeg executable path is not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء الفيديو: لم يتم تحديد المسار القابل للتنفيذ ffmpeg</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1426"/>
         <source>Video creation failed: ffmpeg executable path is invalid: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء الفيديو: المسار التنفيذي ffmpeg غير صالح: {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1439"/>
         <source>Start ffmpeg:</source>
-        <translation type="unfinished"></translation>
+        <translation>ابدأ ffmpeg:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1445"/>
         <source>ffmpeg error output: {error}</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ الإخراج fmpeg: {error}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1446"/>
         <source>ffmpeg returned with error</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg عاد بالخطأ</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1448"/>
