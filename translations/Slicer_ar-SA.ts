@@ -10075,7 +10075,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="20"/>
         <source>Logical operators</source>
-        <translation type="unfinished"></translation>
+        <translation>العوامل المنطقية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="50"/>
@@ -10092,103 +10092,115 @@ about each operation, hover the mouse over the option and wait for the tooltip t
 &lt;b&gt;Selected segment:&lt;/b&gt; segment selected in the segment list - above. &lt;b&gt;Modifier segment:&lt;/b&gt; segment chosen in
 segment list in effect options - below.
 &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق المشغلين المنطقيين أو الجمع بين القطاعات &lt;br&gt;. العمليات المتاحة: &lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt; &lt;b&gt; نسخة: &lt;/b&gt; استبدال الجزء المختار بقطع المعدل.
+&lt;li&gt; &lt;b&gt; إضافة: &lt;/b&gt; إضافة جزء المعدل إلى الجزء الحالي.
+&lt;li&gt; &lt;b&gt; طرح: &lt;/b&gt; طرح منطقة قطاع المعدل من الجزء المختار.
+&lt;li&gt; &lt;b&gt; تقاطع: &lt;/b&gt; فقط يحتفظ بتلك المناطق في الجزء المختار والتي تشترك مع قطاع المعدل.
+&lt;li&gt; &lt;b&gt; معكوس: &lt;/b&gt; عكس الجزء المختار.
+&lt;li&gt; &lt;b&gt; واضح: &lt;/b&gt; يمسح الجزء المختار.
+&lt;li&gt; &lt;b&gt; املأ: &lt;/b&gt; تملأ الجزء المختار بالكامل.
+&lt;/ul&gt; &lt;p&gt;
+&lt;b&gt; الجزء المختار: &lt;/b&gt; الجزء المختار في قائمة القطاعات - أعلاه. &lt;b&gt; جزء المعدل: &lt;/b&gt; الجزء المختار في
+قائمة القطاعات في خيارات التأثير - أدناه.
+&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="53"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="54"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>اضف</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="55"/>
         <source>Subtract</source>
-        <translation type="unfinished">طرح</translation>
+        <translation>طرح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="56"/>
         <source>Intersect</source>
-        <translation type="unfinished"></translation>
+        <translation>تقاطع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
         <source>Invert</source>
-        <translation type="unfinished">عكس</translation>
+        <translation>عكس</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="58"/>
         <source>Clear</source>
-        <translation type="unfinished">واضح</translation>
+        <translation>محو</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="59"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>ملء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="60"/>
         <source>Click &lt;dfn&gt;Show details&lt;/dfn&gt; link above for description of operations.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر &lt;dfn&gt; أظهر التفاصيل &lt;/dfn&gt; الرابط أعلاه لوصف العمليات.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="62"/>
         <source>Bypass masking</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاوز الإخفاء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="63"/>
         <source>Ignore all masking options and only modify the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاهل جميع خيارات الإخفاء وقم بتعديل الجزء المحدد فقط.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="66"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="73"/>
         <source>Operation:</source>
-        <translation type="unfinished"></translation>
+        <translation>العملية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="75"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="144"/>
         <source>Modifier segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>جزء المعدل:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="86"/>
         <source>Contents of this segment will be used for modifying the selected segment. This segment itself will not be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم استخدام محتويات هذا الجزء لتعديل الجزء المحدد. لن يتغير هذا الجزء نفسه.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="135"/>
         <source>Copy from segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخة من الجزء:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="137"/>
         <source>Add segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة جزء:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="139"/>
         <source>Subtract segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>طرح الجزء:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="141"/>
         <source>Intersect with segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>تتقاطع مع الجزء:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="145"/>
         <source>Please select a modifier segment in the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>يرجى تحديد جزء المعدل في القائمة أدناه.</translation>
     </message>
 </context>
 <context>
@@ -10196,82 +10208,82 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="21"/>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>هامش</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="38"/>
         <source>Grow or shrink selected segment by specified margin size.</source>
-        <translation type="unfinished"></translation>
+        <translation>تنمو أو يتقلص الجزء المحدد حسب حجم الهامش المحدد.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="42"/>
         <source>Shrink</source>
-        <translation type="unfinished"></translation>
+        <translation>تقلص</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="43"/>
         <source>Grow</source>
-        <translation type="unfinished"></translation>
+        <translation>نمو</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="48"/>
         <source>Operation:</source>
-        <translation type="unfinished"></translation>
+        <translation>العملية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="53"/>
         <source>Segment boundaries will be shifted by this distance. Positive value means the segments will grow, negative value means segment will shrink.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم تغيير حدود القطع بهذه المسافة. القيمة الإيجابية تعني أن القطاعات ستنمو، والقيمة السلبية تعني أن القطاع سيتقلص.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="59"/>
         <source>Size change in pixel. Computed from the segment&apos;s spacing and the specified margin size.</source>
-        <translation type="unfinished"></translation>
+        <translation>تغير الحجم في البكسل. محسوبة من المباعدة بين القطعة وحجم الهامش المحدد.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="63"/>
         <source>Margin size:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الهامش:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="68"/>
         <source>Grow or shrink all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بنمو أو تقليص جميع الأجزاء المرئية في عقدة التجزئة هذه. قد تستغرق هذه العملية بعض الوقت.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="70"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished">تنطبق على شرائح مرئية:</translation>
+        <translation>ينطبق على الأجزاء المرئية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="73"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="75"/>
         <source>Grows or shrinks selected segment /default) or all segments (checkbox) by the specified margin.</source>
-        <translation type="unfinished"></translation>
+        <translation>ينمو أو يقلص الجزء المحدد/الافتراضي) أو جميع الأجزاء (صندوق التحقق) بالهامش المحدد.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="123"/>
         <source>Not feasible at current resolution.</source>
-        <translation type="unfinished"></translation>
+        <translation>غير ممكن في القرار الحالي.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="126"/>
         <source>Actual:</source>
-        <translation type="unfinished"></translation>
+        <translation>الفعلي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="131"/>
         <source>Empty segment</source>
-        <translation type="unfinished"></translation>
+        <translation>الجزء الفارغ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="242"/>
         <source>Processing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>معالجة {segmentName}...</translation>
     </message>
 </context>
 <context>
@@ -13706,7 +13718,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="54"/>
         <source>Export...</source>
-        <translation type="unfinished">Export...</translation>
+        <translation>تصدير...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
@@ -13736,12 +13748,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="118"/>
         <source>line</source>
-        <translation type="unfinished">line</translation>
+        <translation>خط</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="123"/>
         <source>bar</source>
-        <translation type="unfinished">bar</translation>
+        <translation>شريط</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="128"/>
@@ -14514,7 +14526,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="289"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="299"/>
@@ -14549,7 +14561,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="337"/>
         <source>Selected segment</source>
-        <translation type="unfinished">الجزء المحدد</translation>
+        <translation>الجزء المحدد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="432"/>
@@ -14561,12 +14573,12 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="208"/>
         <source>Selected segment: none</source>
-        <translation type="unfinished"></translation>
+        <translation>الجزء المحدد: لا شيء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="260"/>
         <source>Selected segment: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الجزء المحدد: %1</translation>
     </message>
 </context>
 <context>
@@ -14854,7 +14866,7 @@ Do you want to crop the segmentation?
         <oldsource>This is the master representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</oldsource>
-        <translation type="unfinished">هذا هو التمثيل الرئيسي.
+        <translation>هذا هو التمثيل الرئيسي.
   1. يتم حفظ هذا التمثيل على القرص
   2. إذا تم تعديل هذا التمثيل ، يتم مسح الآخرين</translation>
     </message>
@@ -14901,7 +14913,7 @@ Click the down-arrow button for additional operations.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="268"/>
         <source>Create</source>
-        <translation type="unfinished">إنشاء</translation>
+        <translation>إنشاء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="269"/>
@@ -14927,7 +14939,9 @@ Press and hold button to access advanced conversion and removal options.</source
         <source>Failed to convert %1 to %2!
 
 Probably there is no valid conversion path between the source representation and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تحويل%1 إلى%2!
+
+ربما لا يوجد مسار تحويل صالح بين تمثيل المصدر و%2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="415"/>
@@ -15017,7 +15031,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="125"/>
         <source>Name</source>
-        <translation type="unfinished">اسم</translation>
+        <translation>اسم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="129"/>
@@ -15135,7 +15149,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1021"/>
         <source>Jump slices</source>
-        <translation type="unfinished">الانتقال إلى شرائح</translation>
+        <translation>الانتقال إلى الشرائح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1027"/>
@@ -15160,7 +15174,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1065"/>
         <source>Show in 3D</source>
-        <translation type="unfinished">عرض ثلاثي الأبعاد</translation>
+        <translation>عرض في ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1072"/>
@@ -15347,7 +15361,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceEditWidget.cxx" line="356"/>
         <source>Name</source>
-        <translation type="unfinished">اسم</translation>
+        <translation>اسم</translation>
     </message>
 </context>
 <context>
@@ -15457,7 +15471,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="632"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished"></translation>
+        <translation>مكّن إعادة بناء الألواح السميكة (TSR). يستخدم TSR لدمج الشرائح المتجاورة ضمن نطاق معين.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="649"/>
@@ -15509,7 +15523,7 @@ Do you wish to proceed with changing master representation?</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="779"/>
         <source>Enable Thick Slab Reconstruction</source>
         <oldsource>Show Slab Reconstruction</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>مكّن إعادة بناء الألواح سميكة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="787"/>
@@ -18448,7 +18462,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="945"/>
         <source>All Files</source>
-        <translation type="unfinished">جميع الملفات</translation>
+        <translation>جميع الملفات</translation>
     </message>
 </context>
 <context>
@@ -18482,7 +18496,7 @@ Graphics capabilities of this computer:
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="98"/>
         <source>AutoRun</source>
-        <translation type="unfinished">التشغيل التلقائي</translation>
+        <translation>التشغيل التلقائي</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="143"/>
@@ -18588,17 +18602,17 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="76"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished">مركب مع التظليل</translation>
+        <translation>مركب مع التظليل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="78"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished">أقصى كثافة الإسقاط</translation>
+        <translation>أقصى كثافة الإسقاط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="80"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished">الحد الأدنى من كثافة الإسقاط</translation>
+        <translation>الحد الأدنى من كثافة الإسقاط</translation>
     </message>
 </context>
 <context>
@@ -20729,7 +20743,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="43"/>
         <source>qSlicerLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -25517,17 +25531,17 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
         <source>Editor for .py files:</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر لملفات py.:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
         <source>Select an executable for editing .py files. If left empty then the default program associated with .py files will be launched.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد قابل للتنفيذ لتحرير ملفات py. إذا ترك فارغًا، فسيتم إطلاق البرنامج الافتراضي المرتبط بـ .py.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="42"/>
         <source>PythonEditor</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر بايثون</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="52"/>
@@ -25564,7 +25578,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="99"/>
         <source>Python editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر بايثون.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="103"/>
@@ -25966,12 +25980,12 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="110"/>
         <source>patient right is screen left (default)</source>
-        <translation type="unfinished">يمين المريض ايسر الشاشة (افتراضي)</translation>
+        <translation>المريض الأيمن يسار الشاشة (افتراضي)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="111"/>
         <source>patient right is screen right</source>
-        <translation type="unfinished">يمين المريض يمين الشاشة</translation>
+        <translation>يمين المريض يمين الشاشة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="114"/>
@@ -26096,7 +26110,7 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="72"/>
         <source>Clone</source>
-        <translation type="unfinished">استنساخ</translation>
+        <translation>استنساخ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="74"/>
@@ -26122,17 +26136,17 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="111"/>
         <source>Create child study</source>
-        <translation type="unfinished">إنشاء دراسة الطفل</translation>
+        <translation>إنشاء دراسة الطفل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="116"/>
         <source>Convert folder to subject</source>
-        <translation type="unfinished">تحويل المجلد إلى الموضوع</translation>
+        <translation>حوّل مجلد إلى موضوع</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="121"/>
         <source>Convert folder to study</source>
-        <translation type="unfinished">تحويل المجلد إلى الموضوع</translation>
+        <translation>حوّل مجلد إلى دراسة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="126"/>
@@ -26149,7 +26163,10 @@ Click Cancel, to create the patient/study hierarchy manually and drag-and-drop t
 Default patient and study will be created and the selected data and its related datasets will be moved in it for export.
 
 If you&apos;d like to create the hierarchy manually, please click Cancel, then create a patient by right-clicking the empty area in Subject hierarchy in the Data module and choosing &apos;Create new subject&apos;. Study can be similarly created under the patient. The data to export can be drag&amp;dropped under the study.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>يجب أن تكون البيانات للتصدير تحت بند دراسة، يتم وضعها تحت عنصر مريض في التسلسل الهرمي للموضوع.
+سيتم إنشاء المريض والدراسة الافتراضية وسيتم نقل البيانات المختارة ومجموعات البيانات ذات الصلة بها للتصدير.
+
+انقر فوق إلغاء، لإنشاء التسلسل الهرمي للمريض/الدراسة يدويًا وسحب وإسقاط البيانات القابلة للتصدير في إطار الدراسة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="520"/>
@@ -26159,12 +26176,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="616"/>
         <source>Anonymous</source>
-        <translation type="unfinished"></translation>
+        <translation>مجهول</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="644"/>
         <source>No study description</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يوجد وصف للدراسة</translation>
     </message>
 </context>
 <context>
@@ -26172,17 +26189,17 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="82"/>
         <source>Show all children</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر جميع الأطفال</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="85"/>
         <source>Hide all children</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء جميع الأطفال</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="134"/>
         <source>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Rename item&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Double-click the item name, or right-click the item and select &apos;Rename&apos;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Deform any branch using a transform (registration result)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Make sure the transform column is shown using the &apos;Show transforms&apos; checkbox. To transform a branch, right-click on the cell in the transform column of the row in question, and choose a transform.&lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;أعد تسمية العنصر&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;انقر مرتين على اسم العنصر، أو انقر يمينًا على العنصر وحدد &apos;إعادة التسمية&apos;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;تشويه أي فرع باستخدام تحويل (نتيجة التسجيل)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;تأكد من عرض عمود التحويل باستخدام صندوق الاختيار &apos;تحويل العرض&apos;. لتحويل فرع، انقر يمينًا على الخلية في عمود تحويل الصف المعني، واختر التحويل.&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -26190,22 +26207,22 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="93"/>
         <source>Tractography labelmap seeding...</source>
-        <translation type="unfinished"></translation>
+        <translation>بذر خرائط التتبع...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="95"/>
         <source>Tractography interactive seeding...</source>
-        <translation type="unfinished"></translation>
+        <translation>التتبع التفاعلي البذر...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="174"/>
         <source>Invalid!</source>
-        <translation type="unfinished"></translation>
+        <translation>غير صالح!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="180"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ!</translation>
     </message>
 </context>
 <context>
@@ -26213,12 +26230,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="84"/>
         <source>Export to file...</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير إلى ملف...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="85"/>
         <source>Export this node to a file</source>
-        <translation type="unfinished"></translation>
+        <translation>صدّر هذه العقدة إلى ملفّ</translation>
     </message>
 </context>
 <context>
@@ -26246,12 +26263,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="117"/>
         <source>Show empty folders</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر مجلدات فارغة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="119"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا كان يعمل، فسيتم عرض المجلدات التي لا تحتوي على عقد (مسموح بها بواسطة أي مرشح) ، وإلا فلن يتم عرضها</translation>
     </message>
 </context>
 <context>
@@ -26259,7 +26276,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="90"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished">رؤية مخطط تفصيلي ثنائي الأبعاد</translation>
+        <translation>رؤية مخطط تفصيلي ثنائي الأبعاد</translation>
     </message>
 </context>
 <context>
@@ -26347,7 +26364,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="207"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="239"/>
         <source>Scale</source>
-        <translation type="unfinished">مِيزَان</translation>
+        <translation>مقياس</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="217"/>
@@ -26358,17 +26375,17 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="662"/>
         <source>Clear control point position</source>
-        <translation type="unfinished"></translation>
+        <translation>محو موقع نقطة التحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="715"/>
         <source>Delete %1</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف%1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="716"/>
         <source>Edit %1 terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير %1 المصطلحات...</translation>
     </message>
 </context>
 <context>
@@ -26395,7 +26412,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="93"/>
         <source>Set item opacity in the sub-menu</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط عنصر عتمة في القائمة الفرعية</translation>
     </message>
 </context>
 <context>
@@ -26403,7 +26420,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyParseLocalDataPlugin.cxx" line="78"/>
         <source>Create hierarchy from loaded directory structure</source>
-        <translation type="unfinished"></translation>
+        <translation>أنشئ التسلسل الهرمي من هيكل الدليل المحمّل</translation>
     </message>
 </context>
 <context>
@@ -26411,7 +26428,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="98"/>
         <source>Edit properties...</source>
-        <translation type="unfinished">تحرير الخصائص...</translation>
+        <translation>تحرير الخصائص...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="266"/>
@@ -26420,7 +26437,11 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 Select plugin to add node named
 &apos;%1&apos;
 (type %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>تم العثور على رقم ثقة متساوي لأكثر من ملحق التسلسل الهرمي للموضوع لإضافة عقدة جديدة إلى التسلسل الهرمي للموضوع.
+
+حدد ملحق لإضافة عقدة مسمى
+&apos;%1&apos;
+(النوع%2)</translation>
     </message>
 </context>
 <context>
@@ -26564,7 +26585,7 @@ Note: This may result in unwanted data loss in %4.</source>
 Would you like to change the master representation of &apos;%4&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %4.</oldsource>
-        <translation type="unfinished">لا يمكن تحويل تمثيل المصدر الرئيسي &apos;%1&apos; إلى الهدف الرئيسي &apos;%2&apos;، وبالتالي غير قادر على استيراد العقدة &apos;%3&apos; إلى التجزئة &apos;%4&apos;.
+        <translation>لا يمكن تحويل تمثيل المصدر الرئيسي &apos;%1&apos; إلى الهدف الرئيسي &apos;%2&apos;، وبالتالي غير قادر على استيراد العقدة &apos;%3&apos; إلى التجزئة &apos;%4&apos;.
 
 هل ترغب في تغيير التمثيل الرئيسي ل &quot;%4&quot; إلى &quot;%1&quot;؟
 
@@ -26605,7 +26626,7 @@ Note: This may result in unwanted data loss in %4.</oldsource>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
         <source> (Source representation: %1)</source>
         <oldsource> (Master representation: %1)</oldsource>
-        <translation type="unfinished"> (التمثيل الرئيسي: %1)</translation>
+        <translation> (تمثيل المصدر:%1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="400"/>
@@ -27259,7 +27280,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="118"/>
         <source>__int64</source>
-        <translation type="unfinished">__int64</translation>
+        <translation>__int64</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="123"/>
