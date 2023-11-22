@@ -88,7 +88,7 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="435"/>
         <source>Failed while checking XML:</source>
-        <translation type="unfinished">Falha ao verificar XML:</translation>
+        <translation>Falha ao verificar XML:</translation>
     </message>
 </context>
 <context>
@@ -101,7 +101,7 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="380"/>
         <source>None</source>
-        <translation type="unfinished">Nenhum</translation>
+        <translation>Nenhum</translation>
     </message>
 </context>
 <context>
@@ -109,12 +109,12 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="14"/>
         <source>Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminhos de Pesquisa</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="32"/>
         <source>Module Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminhos de pesquisa do módulo</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="77"/>
