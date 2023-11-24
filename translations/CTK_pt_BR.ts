@@ -142,7 +142,7 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="93"/>
         <source>XML retrieval timeout (in seconds):</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo de recuperação XML (em segundos):</translation>
     </message>
 </context>
 <context>
