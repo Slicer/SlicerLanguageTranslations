@@ -12210,7 +12210,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="249"/>
         <source>Resample a curve with the number of points specified.</source>
         <oldsource>Resample a curve and optionally constrain the points to a node</oldsource>
-        <translation type="unfinished">Resample a curve and optionally constrain the points to a node</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="252"/>
@@ -20192,9 +20192,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished">
-
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+        <translation type="unfinished">Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
     </message>
 </context>
 <context>
@@ -20471,7 +20469,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished">Select a reader to use for your data?</translation>
+        <translation type="unfinished">Select a reader to use for your data:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
@@ -20853,7 +20851,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="514"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
-        <translation>Vyvolání průvodce &quot;Správce rozšíření&quot;, který poskytuje stav a informace o dostupných rozšířeních.</translation>
+        <translation type="unfinished">Vyvolání průvodce &quot;Správce rozšíření&quot;, který poskytuje stav a informace o dostupných rozšířeních</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="517"/>
@@ -21270,7 +21268,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="158"/>
         <source>Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</source>
-        <translation>Sbalit/rozšířit panel grafického uživatelského rozhraní a umožnit, aby prohlížeče aplikace Slicer zabíraly celé okno aplikace.</translation>
+        <translation>Sbalit/rozšířit panel grafického uživatelského rozhraní a umožnit, aby prohlížeče aplikace Slicer zabíraly celé okno aplikace</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="315"/>
@@ -28534,7 +28532,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="52"/>
         <source>Load data into Slicer or download to separate location.</source>
-        <translation>Načíst data do Sliceru nebo stáhnout do samostatné lokace</translation>
+        <translation>Načíst data do Sliceru nebo stáhnout do samostatné lokace.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="53"/>
