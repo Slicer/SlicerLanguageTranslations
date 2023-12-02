@@ -5194,7 +5194,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
         <source>The development of this module was partially supported by NIH grants R01 AA016748-01, R01 CA111288 and U01 CA151261 as well as by NA-MIC, NAC, NCIGT and the Slicer community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Розробка цього модуля була частково підтримана грантами NIH R01 AA016748-01, R01 CA111288 та U01 CA151261, а також NA-MIC, NAC, NCIGT і користувачами Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"/>
@@ -7689,7 +7689,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="37"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ця робота підтримана NA-MIC, NAC, BIRN, NCIGT і користувачами Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="246"/>
@@ -7933,17 +7933,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="236"/>
         <source>The following extension is not installed, but may help you work with this data:</source>
-        <translation>Це розширення не встановлено, але може допомогти вам працювати з цими даними:</translation>
+        <translation>Цей додаток не встановлено, але може допомогти вам працювати з цими даними:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="238"/>
         <source>The following extensions are not installed, but may help you work with this data:</source>
-        <translation>Наступні розширення ще не встановлені, але можуть допомогти опрацювати наступні дані:</translation>
+        <translation>Наступні додатки ще не встановлені, але можуть допомогти опрацювати наступні дані:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="242"/>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
-        <translation>Ви можете становити розширення через Менеджер Розширень у меню Вигляд.</translation>
+        <translation>Ви можете становити додатки через Менеджер додатків у меню Вигляд.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="242"/>
@@ -8378,7 +8378,11 @@ This file was originally developed by Andras Lasso
     Technology For Brain Cancer Research), and made possible by NA-MIC, NAC,
     BIRN, NCIGT, and the Slicer Community.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    SlicerDMRI підтримано NIH NCI ITCR U01CA199459 (Open Source Diffusion MRI
+    Technology For Brain Cancer Research), і реалізована завдяки NA-MIC, NAC,
+    BIRN, NCIGT, а також користувачами Slicer.
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="101"/>
@@ -10663,7 +10667,9 @@ Requires segment closed surface representation.
         <source>
 Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www.slicer.org for details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Підтримано NA-MIC, NAC, BIRN, NCIGT і користувачами Slicer. Див. детальніше https://www.slicer.org.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="79"/>
@@ -17976,7 +17982,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="395"/>
         <source>Extensions</source>
-        <translation>Розширення</translation>
+        <translation>Додатки</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="399"/>
@@ -19652,7 +19658,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished">Розширення</translation>
+        <translation>Додатки</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="95"/>
@@ -19738,7 +19744,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="14"/>
         <source>Extensions Manager</source>
-        <translation>Менеджер розширень</translation>
+        <translation>Менеджер додатків</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
@@ -19771,7 +19777,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="792"/>
         <source>Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation>Каталогу для встановлення розширень НЕ існує: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>Каталогу для встановлення додатків НЕ існує: &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="809"/>
@@ -20086,12 +20092,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
         <source>Install Extensions</source>
-        <translation>Встановити Розширення</translation>
+        <translation>Встановити додатки</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="271"/>
         <source>Extensions Manager</source>
-        <translation>Менеджер розширень</translation>
+        <translation>Менеджер додатків</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="415"/>
@@ -20585,7 +20591,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="162"/>
         <source>Extensions</source>
-        <translation>Розширення</translation>
+        <translation>Додатки</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="174"/>
@@ -20808,7 +20814,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
         <source>Extensions Manager</source>
-        <translation>Менеджер розширень</translation>
+        <translation>Менеджер додатків</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="514"/>
@@ -24789,7 +24795,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="14"/>
         <source>Extensions</source>
-        <translation>Розширення</translation>
+        <translation>Додатки</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="37"/>
@@ -28400,7 +28406,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="93"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ця робота була підтримана NA-MIC, NAC, BIRN, NCIGT і користувачами Slicer.</translation>
     </message>
 </context>
 <context>
@@ -28616,7 +28622,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
         <source> Install Extensions</source>
-        <translation> Встановити розширення</translation>
+        <translation> Встановити додатки</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
@@ -28718,7 +28724,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="391"/>
         <source>Periodically check for updates. Note that anonymized usage statistics will be recorded. If the box appears as partially checked it means that automatic updates are only checked for the application or for extensions, but not both - click the checkbox to enable/disable all automatic update checks.</source>
-        <translation>Періодично перевіряйте наявність оновлень. Зауважте, що анонімна статистика використання буде записана. Якщо поле відображається як частково позначене, це означає, що автоматичні оновлення перевіряються лише для програми або розширень, але не для обох – установіть прапорець, щоб увімкнути/вимкнути всі автоматичні перевірки оновлень.</translation>
+        <translation>Періодично перевіряйте наявність оновлень. Зауважте, що анонімна статистика використання буде записана. Якщо поле відображається як частково позначене, це означає, що автоматичні оновлення перевіряються лише для програми або додатків, але не для обох – установіть прапорець, щоб увімкнути/вимкнути всі автоматичні перевірки оновлень.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="394"/>
@@ -28803,7 +28809,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="390"/>
         <source>Use Extensions Manager to update these extensions:</source>
-        <translation>Використовуйте Менеджер розширень, щоб оновити ці розширення:</translation>
+        <translation>Використовуйте Менеджер додатків, щоб оновити ці додатки:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="424"/>
