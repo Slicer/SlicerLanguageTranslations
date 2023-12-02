@@ -26,7 +26,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри введення/виведення</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
@@ -2839,7 +2839,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="22"/>
         <source>Input Dicom Data Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть каталог даних DICOM</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
@@ -7684,7 +7684,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="35"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей модуль дозволяє імпортувати, завантажувати та експортувати файли DICOM, а також надсилати отримані дані за допомогою мережі DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="37"/>
@@ -7709,7 +7709,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
         <source>Database location:</source>
-        <translation type="unfinished">Розташування бази даних:</translation>
+        <translation>Розташування бази даних:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="358"/>
@@ -7759,12 +7759,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="420"/>
         <source>Load directory into DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити каталог у базу даних DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="514"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося створити базу даних DICOM із налаштуваннями за замовчуванням. Будь ласка, створіть нову базу даних або оновіть існуючу несумісну базу даних, використовуючи параметри, показані в браузері DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="525"/>
@@ -7779,12 +7779,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="589"/>
         <source>Copy imported files to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопіюйте імпортовані файли в базу даних DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="591"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Якщо ввімкнено, усі імпортовані файли копіюються в базу даних DICOM. Це корисно під час імпортування зі знімних дисків.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="790"/>
@@ -7815,17 +7815,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="881"/>
         <source>DICOM database is already empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>База даних DICOM уже порожня.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="884"/>
         <source>Clear entire DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити всю базу даних DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="885"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви впевнені, що бажаєте видалити всі дані та файли, скопійовані в базу даних ({count} пацієнтів)?</translation>
     </message>
 </context>
 <context>
@@ -7923,17 +7923,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="229"/>
         <source>The following data type is in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>У вашій базі даних є такий тип даних:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="231"/>
         <source>The following data types are in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>У вашій базі даних є такі типи даних:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="236"/>
         <source>The following extension is not installed, but may help you work with this data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Це розширення не встановлено, але може допомогти вам працювати з цими даними:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="238"/>
@@ -7955,7 +7955,7 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="403"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>{missing_file_count} із {total_file_count} вибраних файлів, перелічених у базі даних, неможливо знайти на диску.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
@@ -7990,7 +7990,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="573"/>
         <source>Warnings detected during load.  Examine data in Advanced mode for details.  Load anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Попередження, виявлені під час завантаження.   Перегляньте дані в розширеному режимі для отримання деталей.   Все одно завантажити?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="585"/>
@@ -8000,7 +8000,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="589"/>
         <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажені об’єкти DICOM містять посилання на інші набори даних, які ви не вибрали для завантаження. Будь ласка, виберіть «Так», якщо ви хочете завантажити наступні набори даних, на які посилаються, «Ні», якщо ви хочете завантажити лише спочатку вибраний ряд, або «Скасувати», щоб перервати завантаження.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="599"/>
@@ -8020,7 +8020,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
         <source>DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Дані DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
@@ -8218,7 +8218,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="134"/>
         <source>Pixel data mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation>Невідповідність піксельних даних</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="187"/>
@@ -8409,7 +8409,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="34"/>
         <source>This work is supported by NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis and Fedorov) and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ця робота підтримана NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis and Fedorov) та Slicer Community.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="133"/>
@@ -8470,7 +8470,7 @@ indicated by the mouse position.
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="499"/>
         <source>Go to the DataProbe module for more information and options</source>
-        <translation type="unfinished"></translation>
+        <translation>Щоб отримати додаткову інформацію та параметри, перейдіть до модуля DataProbe</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
@@ -8672,7 +8672,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="110"/>
         <source>Go to the SampleData module to download data from the network</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейдіть до модуля SampleData, щоб завантажити дані з мережі</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="509"/>
@@ -8722,7 +8722,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="869"/>
         <source>Download finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження завершене</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="871"/>
@@ -10034,7 +10034,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="137"/>
         <source>Add segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати сегмент:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="139"/>
@@ -14512,7 +14512,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="297"/>
         <source>Exporting may erase data</source>
-        <translation type="unfinished"></translation>
+        <translation>Експортування може видалити дані</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="303"/>
@@ -14607,7 +14607,7 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="332"/>
         <source>Additional Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Додаткові опції</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="338"/>
@@ -18931,8 +18931,8 @@ Graphics capabilities of this computer:
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="238"/>
         <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
-        <translation type="unfinished">If checked, the exported DICOM files will be written into the specified folder.
-If unchecked, the exported dataset will be added to the DICOM database.</translation>
+        <translation>Якщо перевірити, експортовані файли DICOM будуть збережені в спеціальну папку.
+Якщо залишити неперевіреним, експортований набір даних буде доданий до бази DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="242"/>
@@ -18957,12 +18957,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="457"/>
         <source>DICOM dataset successfully exported to </source>
-        <translation type="unfinished">DICOM dataset successfully exported to </translation>
+        <translation>Набір даних DICOM успішно експортований до </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="460"/>
         <source>the DICOM database</source>
-        <translation type="unfinished">the DICOM database</translation>
+        <translation>база даних DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="466"/>
@@ -19129,12 +19129,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ця робота підтримана NA-MIC, NAC, BIRN, NCIGT, CTSC, та Slicer Community.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.h" line="50"/>
         <source>Data</source>
-        <translation type="unfinished">Дані</translation>
+        <translation>Дані</translation>
     </message>
 </context>
 <context>
@@ -19213,7 +19213,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="240"/>
         <source>IDs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ідентифікатори</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="212"/>
@@ -20421,7 +20421,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished">Select a reader to use for your data?</translation>
+        <translation>Виберіть зчитувач для ваших даних:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
@@ -20431,7 +20431,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
         <source>Adding data succeeded</source>
-        <translation type="unfinished">Adding data succeeded</translation>
+        <translation>Дані додано</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="592"/>
@@ -20441,7 +20441,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="596"/>
         <source>Adding data failed</source>
-        <translation type="unfinished">Adding data failed</translation>
+        <translation>Не вдалося додати дані</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="598"/>
@@ -21287,7 +21287,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="648"/>
         <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="unfinished">Some data have been modified. Do you want to save them before exit?</translation>
+        <translation>Деякі дані були змінені. Ви хочете зберегти їх перед виходом?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="652"/>
@@ -21457,7 +21457,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+        <translation>Показати як різні площини зрізів пересікаються між собою.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="294"/>
@@ -22238,7 +22238,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="14"/>
         <source>Add a 3D model</source>
-        <translation type="unfinished">Add a 3D model</translation>
+        <translation>Додати 3D модель</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="26"/>
@@ -22587,12 +22587,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="81"/>
         <source>Translate/rotate view, adjust displayed objects</source>
-        <translation type="unfinished">Translate/rotate view, adjust displayed objects</translation>
+        <translation>Перемістити/повернути вигляд, налаштувати відображувані об&apos;єкти</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="83"/>
         <source>View</source>
-        <translation type="unfinished">View</translation>
+        <translation>Перегляд</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
@@ -23075,7 +23075,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="24"/>
         <source>select modified data only</source>
-        <translation type="unfinished">select modified data only</translation>
+        <translation>Зберегти лише змінені дані</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="54"/>
@@ -23085,7 +23085,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="61"/>
         <source>Show options</source>
-        <translation type="unfinished">Show options</translation>
+        <translation>Показати опції</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="68"/>
@@ -23095,22 +23095,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="98"/>
         <source>File Name</source>
-        <translation type="unfinished">File Name</translation>
+        <translation>Ім&apos;я файлу</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="103"/>
         <source>File Format</source>
-        <translation type="unfinished">File Format</translation>
+        <translation>Формат файлу</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="108"/>
         <source>Directory</source>
-        <translation type="unfinished">Directory</translation>
+        <translation>Каталог</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="113"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Опції</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="118"/>
@@ -23125,7 +23125,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="128"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Стан</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="136"/>
@@ -23143,23 +23143,23 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1141"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1148"/>
         <source>Modified</source>
-        <translation type="unfinished">Modified</translation>
+        <translation>Змінено</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="603"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="897"/>
         <source>Not Modified</source>
-        <translation type="unfinished">Not Modified</translation>
+        <translation>Не змінено</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="656"/>
         <source>Select a format</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибрати формат</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="682"/>
         <source>Output folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка вивантаження</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="733"/>
@@ -23200,7 +23200,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1473"/>
         <source>Saving file...</source>
-        <translation type="unfinished">Saving file...</translation>
+        <translation>Збереження файлу...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1474"/>
@@ -23977,7 +23977,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="100"/>
         <source>Segmentations module manages segmentations. Each segmentation can contain multiple segments, which correspond to one structure or ROI. Each segment can contain multiple data representations for the same structure, and the module supports automatic conversion between these representations as well as advanced display settings and import/export features.</source>
-        <translation type="unfinished"></translation>
+        <translation>Модуль сегментації керує сегментацією. Кожна сегментація може містити кілька сегментів, які відповідають одній структурі або ROI. Кожен сегмент може містити декілька зображень однієї і тієї ж структури, і модуль підтримує автоматичне перетворення між цими зображеннями, а також розширені параметри відображення та можливостей імпорту/експорту.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="113"/>
@@ -24059,7 +24059,7 @@ Note: This may result in unwanted data loss in %5.</oldsource>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="919"/>
         <source>Export may erase data</source>
-        <translation type="unfinished"></translation>
+        <translation>Експорт може видалити дані</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="924"/>
@@ -24323,7 +24323,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="112"/>
         <source>Add the selected sequence to the browser.</source>
-        <translation type="unfinished">Add the selected sequence to the browser.</translation>
+        <translation>Додайте до браузеру вибрану послідовність.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="128"/>
@@ -25201,7 +25201,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="676"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list. Note: modules with no icons will not appear in the toolbar.</source>
-        <translation type="unfinished">Add to the list by dragging modules from the above &quot;Modules&quot; list. Note: modules with no icons will not appear in the toolbar.</translation>
+        <translation>Додайте до списку, перетягнувши модулі зі списку «Модулі», який знаходиться вище. Примітка: модулі без значків не відображатимуться на панелі інструментів.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
@@ -25211,7 +25211,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list</source>
-        <translation type="unfinished">Add to the list by dragging modules from the above &quot;Modules&quot; list</translation>
+        <translation>Додайте до списку, перетягнувши модулі зі списку «Модулі», який знаходиться вище</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="759"/>
@@ -26326,7 +26326,7 @@ Note: This may result in unwanted data loss in %4.</oldsource>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="290"/>
         <source>Failed to import data to segmentation</source>
-        <translation type="unfinished">Failed to import data to segmentation</translation>
+        <translation>Не вдалося імпортувати дані до сегментації</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
@@ -26724,7 +26724,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="219"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+        <translation>Показати як різні площини зрізів пересікаються між собою.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="227"/>
@@ -26935,7 +26935,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="58"/>
         <source>Data type:</source>
-        <translation type="unfinished">Data type:</translation>
+        <translation>Тип даних:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="68"/>
@@ -27161,7 +27161,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="204"/>
         <source>Add column</source>
-        <translation type="unfinished">Add column</translation>
+        <translation>Додати стовпчик</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="218"/>
@@ -27176,7 +27176,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="265"/>
         <source>Add row</source>
-        <translation type="unfinished">Add row</translation>
+        <translation>Додати рядок</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="279"/>
@@ -27229,7 +27229,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="163"/>
         <source>Database Password:</source>
-        <translation type="unfinished">Database Password:</translation>
+        <translation>Пароль бази даних:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="195"/>
@@ -27896,7 +27896,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+        <translation>Показати як різні площини зрізів пересікаються між собою.</translation>
     </message>
 </context>
 <context>
@@ -28480,7 +28480,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="52"/>
         <source>Load data into Slicer or download to separate location.</source>
-        <translation type="unfinished">Load data into Slicer or download to separate location.</translation>
+        <translation>Завантажте дані в Slicer або завантажте в окреме місце.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="53"/>
@@ -28490,7 +28490,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="55"/>
         <source>Download the data and open in Slicer</source>
-        <translation type="unfinished">Download the data and open in Slicer</translation>
+        <translation>Завантажте дані і відкрийте в Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="56"/>
@@ -29020,7 +29020,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="318"/>
         <source>SQLight database</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>База даних SQLight</translation>
     </message>
 </context>
 <context>
