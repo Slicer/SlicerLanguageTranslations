@@ -8649,7 +8649,9 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
         <source>
 This module provides data sets that can be used for testing 3D Slicer.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Цей модуль надає набори даних, які можна використовувати для тестування 3D Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="94"/>
@@ -8681,7 +8683,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="509"/>
         <source>General</source>
-        <translation type="unfinished">Основне</translation>
+        <translation>Основне</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="510"/>
@@ -8778,13 +8780,13 @@ use it for commercial purposes.&lt;/p&gt;
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="906"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="921"/>
         <source>Load failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось завантажити!</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="908"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="924"/>
         <source>Load finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження завершене</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="912"/>
@@ -9633,7 +9635,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="249"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Оновити</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="280"/>
@@ -20584,7 +20586,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="151"/>
         <source>Crosshair Selection</source>
-        <translation type="unfinished">Crosshair Selection</translation>
+        <translation>Вибір перехрестя</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="162"/>
@@ -22418,7 +22420,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
         <source>Show testing modules. Useful for software testing and troubleshooting.</source>
-        <translation type="unfinished">Show testing modules. Useful for software testing and troubleshooting.</translation>
+        <translation>Показати модулі тестування. Корисно для тестування програмного забезпечення та усунення несправностей.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
@@ -22659,7 +22661,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="178"/>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="179"/>
         <source>Toggle Markups Toolbar</source>
-        <translation type="unfinished">Toggle Markups Toolbar</translation>
+        <translation>Перемкнути панель інструментів розмітки</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="156"/>
@@ -25161,37 +25163,37 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="412"/>
         <source>Hide modules to load at startup</source>
-        <translation type="unfinished">Hide modules to load at startup</translation>
+        <translation>Приховати модулі для завантаження під час запуску</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="415"/>
         <source>To load</source>
-        <translation type="unfinished">To load</translation>
+        <translation>Завантажити</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="434"/>
         <source>Hide modules to ignore at startup</source>
-        <translation type="unfinished">Hide modules to ignore at startup</translation>
+        <translation>Приховати модулі, щоб ігнорувати під час запуску</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="437"/>
         <source>To ignore</source>
-        <translation type="unfinished">To ignore</translation>
+        <translation>Ігнорувати</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="456"/>
         <source>Hide loaded modules</source>
-        <translation type="unfinished">Hide loaded modules</translation>
+        <translation>Приховати завантажені модулі</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="459"/>
         <source>Loaded</source>
-        <translation type="unfinished">Loaded</translation>
+        <translation>Завантажено</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="509"/>
         <source>Hide ignored modules</source>
-        <translation type="unfinished">Hide ignored modules</translation>
+        <translation>Приховати ігноровані модулі</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="512"/>
@@ -25206,12 +25208,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="565"/>
         <source>Failed</source>
-        <translation type="unfinished">Failed</translation>
+        <translation>Не вдалось</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="632"/>
         <source>Default startup module:</source>
-        <translation type="unfinished">Default startup module:</translation>
+        <translation>Стандартний модуль запуску:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="676"/>
@@ -25221,7 +25223,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Favorite Modules:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Drag &amp;amp; drop modules&lt;br/&gt;from &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;Modules&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; list&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Улюблені модулі:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Перетягнути &amp;amp; модулі&lt;br/&gt;від &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;Список&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; модулів&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
@@ -25231,47 +25233,47 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="759"/>
         <source>Favorite</source>
-        <translation type="unfinished">Favorite</translation>
+        <translation>Улюблені</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="765"/>
         <source>Remove selected module from favorites</source>
-        <translation type="unfinished">Remove selected module from favorites</translation>
+        <translation>Видалити вибраний модуль з улюблених</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="775"/>
         <source>Move to the left</source>
-        <translation type="unfinished">Move to the left</translation>
+        <translation>Посунути наліво</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="778"/>
         <source>Move Left</source>
-        <translation type="unfinished">Move Left</translation>
+        <translation>Перемістити вліво</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="785"/>
         <source>Move to the right</source>
-        <translation type="unfinished">Move to the right</translation>
+        <translation>Посунути направо</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="788"/>
         <source>Move Right</source>
-        <translation type="unfinished">Move Right</translation>
+        <translation>Перемістити вправо</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="180"/>
         <source>Additional module paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Шляхи додаткових модулів</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="188"/>
         <source>Modules to ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Модулі, якими знехтувати</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="322"/>
         <source>Select folder</source>
-        <translation type="unfinished">Select folder</translation>
+        <translation>Обрати папку</translation>
     </message>
 </context>
 <context>
@@ -27710,7 +27712,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="68"/>
         <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation type="unfinished">Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</translation>
+        <translation>Площини перегляду зрізу зміщуються відповідно до положення перехрестя (навіть якщо перехрестя не відображається).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
@@ -27720,27 +27722,27 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="74"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation type="unfinished">Slice views are centered on crosshair position (even if crosshair is not displayed).</translation>
+        <translation>Види фрагментів відцентровані до позиції перехрестя (навіть якщо перехрестя не відображається).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
         <source>No crosshair</source>
-        <translation type="unfinished">No crosshair</translation>
+        <translation>Немає перехрестя</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="95"/>
         <source>No crosshair displayed.</source>
-        <translation type="unfinished">No crosshair displayed.</translation>
+        <translation>Перехрестя не відображається.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="99"/>
         <source>Basic crosshair</source>
-        <translation type="unfinished">Basic crosshair</translation>
+        <translation>Основне перехрестя</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="100"/>
         <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="unfinished">Basic crosshair extending across the field of view with a small gap at the crosshair position.</translation>
+        <translation>Основне перехрестя, що простягається через поле зору з невеликим проміжком у його центрі.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
@@ -27750,17 +27752,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="106"/>
         <source>Basic crosshair extending across the field of view.</source>
-        <translation type="unfinished">Basic crosshair extending across the field of view.</translation>
+        <translation>Основний перехрестя, що тягнеться через поле зору.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
         <source>Small basic crosshair</source>
-        <translation type="unfinished">Small basic crosshair</translation>
+        <translation>Невелике базове перехрестя</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="111"/>
         <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="unfinished">Small crosshair with a small gap at the crosshair position.</translation>
+        <translation>Маленьке перехрестя з невеликим проміжком у його центрі.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="115"/>
@@ -27770,37 +27772,37 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="116"/>
         <source>Small crosshair.</source>
-        <translation type="unfinished">Small crosshair.</translation>
+        <translation>Маленьке перехрестя.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
         <source>Fine crosshair</source>
-        <translation type="unfinished">Fine crosshair</translation>
+        <translation>Тонке перехрестя</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
         <source>Fine crosshair.</source>
-        <translation type="unfinished">Fine crosshair.</translation>
+        <translation>Тонке перехрестя.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
         <source>Medium crosshair</source>
-        <translation type="unfinished">Medium crosshair</translation>
+        <translation>Перехрестя середньої товщини</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="152"/>
         <source>Medium crosshair.</source>
-        <translation type="unfinished">Medium crosshair.</translation>
+        <translation>Перехрестя середньої товщини.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="156"/>
         <source>Thick crosshair</source>
-        <translation type="unfinished">Thick crosshair</translation>
+        <translation>Грубе перехрестя</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="157"/>
         <source>Thick crosshair.</source>
-        <translation type="unfinished">Thick crosshair.</translation>
+        <translation>Грубе перехрестя.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="176"/>
@@ -27808,12 +27810,12 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="187"/>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="197"/>
         <source>Crosshair</source>
-        <translation type="unfinished">Crosshair</translation>
+        <translation>Перехрестя</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="195"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation type="unfinished">Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</translation>
+        <translation>Увімкнути видимість перехрестя. Утримуйте клавішу Shift і переміщуйте мишу в полі зору, щоб встановити положення перехрестя.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="213"/>
