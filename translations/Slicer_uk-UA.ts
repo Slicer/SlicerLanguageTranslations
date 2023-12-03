@@ -7744,7 +7744,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Реєструйте більше деталей під час операцій DICOM. Корисно для дослідження проблем із завантаженням DICOM, але може вплинути на продуктивність.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
@@ -7908,12 +7908,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="147"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="150"/>
         <source>Load selected items into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити обрані об&apos;єкти до камери</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="155"/>
@@ -17850,7 +17850,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="76"/>
         <source>&amp;Keyboard Shortcuts Reference</source>
         <oldsource>&amp;Keyboard Shortcuts</oldsource>
-        <translation type="unfinished">&amp;Гарячі Клавіші</translation>
+        <translation>&amp;Довідник гарячих клавіш</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
@@ -19479,7 +19479,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="426"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Експортувати</translation>
     </message>
     <message numerus="yes">
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="737"/>
@@ -20158,9 +20158,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished">
-
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+        <translation>Натисніть «ОК», щоб дочекатися їх завершення, або виберіть «Ігнорувати», щоб зараз закрити Менеджер додатків.</translation>
     </message>
 </context>
 <context>
@@ -20749,7 +20747,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="458"/>
         <source>Close Scene</source>
-        <translation type="unfinished">Close Scene</translation>
+        <translation>Закрити сцену</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="461"/>
@@ -20764,7 +20762,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="469"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished">E&amp;xit</translation>
+        <translation>В&amp;ихід</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="472"/>
@@ -22405,7 +22403,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
         <source>&amp;Full text</source>
-        <translation type="unfinished">&amp;Full text</translation>
+        <translation>&amp;Повний текст</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="93"/>
@@ -22415,7 +22413,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="96"/>
         <source>&amp;Built-in</source>
-        <translation type="unfinished">&amp;Built-in</translation>
+        <translation>&amp;Вбудовані</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
@@ -22425,7 +22423,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
         <source>&amp;Testing</source>
-        <translation type="unfinished">&amp;Testing</translation>
+        <translation>&amp;Тестування</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
@@ -22862,7 +22860,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="108"/>
         <source>Display &amp;&amp; Edit</source>
-        <translation type="unfinished">Display &amp;&amp; Edit</translation>
+        <translation>Показати &amp;&amp; Редагувати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="117"/>
@@ -23106,7 +23104,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="68"/>
         <source>Select scene &amp; modified data only</source>
-        <translation type="unfinished">Select scene &amp; modified data only</translation>
+        <translation>Обрати сцену і лише змінені дані</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="98"/>
@@ -24923,12 +24921,12 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="74"/>
         <source>Confirm on exit:</source>
-        <translation type="unfinished">Confirm on exit:</translation>
+        <translation>Підтвердити вихід:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="91"/>
         <source>Confirm on scene close:</source>
-        <translation type="unfinished">Confirm on scene close:</translation>
+        <translation>Підтвердити закриття сцени:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="108"/>
