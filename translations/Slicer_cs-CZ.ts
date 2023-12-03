@@ -1177,7 +1177,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="176"/>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhodný</translation>
     </message>
 </context>
 <context>
@@ -1206,7 +1206,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Vstupní/výstupní parametry</translation>
+        <translation>Vstupní/výstupní parametry</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
@@ -1221,7 +1221,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Výstupní obrázek</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
@@ -1377,7 +1377,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Vstupy</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
@@ -1403,7 +1403,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="13"/>
         <source>Outputs</source>
-        <translation type="unfinished">Outputs</translation>
+        <translation>Výstupy</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="14"/>
@@ -1635,7 +1635,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Vstupy</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
@@ -1655,7 +1655,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"/>
         <source>Outputs</source>
-        <translation type="unfinished">Outputs</translation>
+        <translation>Výstupy</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"/>
@@ -3464,7 +3464,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modely</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
@@ -3867,7 +3867,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
         <source>Translation</source>
-        <translation type="unfinished">Translation</translation>
+        <translation>Překlad</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
@@ -4030,7 +4030,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Pokročilý</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
@@ -4291,7 +4291,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="27"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Pokročilý</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="28"/>
@@ -4844,7 +4844,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modely</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
@@ -7601,7 +7601,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
         <source>Background</source>
-        <translation type="unfinished">Background</translation>
+        <translation>Pozadí</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="12"/>
@@ -7968,7 +7968,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="155"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Pokročilý</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="229"/>
@@ -8565,7 +8565,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="74"/>
         <source>Path</source>
-        <translation type="unfinished">Path</translation>
+        <translation>Cesta</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="83"/>
@@ -8893,7 +8893,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="86"/>
         <source>Results</source>
-        <translation type="unfinished">Results</translation>
+        <translation>Výsledky</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="100"/>
@@ -9169,7 +9169,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="266"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Pokročilý</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="272"/>
@@ -9319,7 +9319,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="405"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Velikost:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="407"/>
@@ -9637,7 +9637,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="123"/>
         <source>inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>vstupy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="125"/>
@@ -10706,7 +10706,7 @@ Podpořeno NA-MIC, NAC, BIRN, NCIGT a komunitou Slicer. Podrobnosti naleznete na
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="85"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Vstupy</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="95"/>
@@ -11282,7 +11282,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Vstupy</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="23"/>
