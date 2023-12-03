@@ -8703,7 +8703,7 @@ NA-MIC, NAC, BIRN, NCIGT, y la comunidad Slicer.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="165"/>
         <source>Fly through path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigation suivant la trajectoire.</translation>
     </message>
 </context>
 <context>
