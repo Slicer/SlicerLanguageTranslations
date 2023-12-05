@@ -24810,7 +24810,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="57"/>
         <source>Automatically check for updates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично перевіряти наявність оновлень:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="64"/>
