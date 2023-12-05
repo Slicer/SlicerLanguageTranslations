@@ -7943,7 +7943,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="242"/>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
-        <translation>Ви можете становити додатки через Менеджер додатків у меню Вигляд.</translation>
+        <translation>Ви можете становити додатки через Менеджер розширень у меню Вигляд.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="242"/>
@@ -9659,7 +9659,13 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 &lt;li&gt;&lt;b&gt;x:&lt;/b&gt; delete last point.
 &lt;li&gt;&lt;b&gt;Double-left-click&lt;/b&gt; or &lt;b&gt;right-click&lt;/b&gt; or &lt;b&gt;a&lt;/b&gt; or &lt;b&gt;enter&lt;/b&gt;: apply outline.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Нарисуйте контур сегмента у засобах перегляду зрізів&lt;br&gt;.
+&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Клацнути лівою кнопкою миші:&lt;/b&gt; додати точку.
+&lt;li&gt;&lt;b&gt;Перетягування лівою кнопкою:&lt;/b&gt; додати багато точок.
+&lt;li&gt;&lt;b&gt;x:&lt;/b&gt; стерти останню точку.
+&lt;li&gt;&lt;b&gt;Подвійне клацання лівою кнопкою миші&lt;/b&gt; або &lt;b&gt;правою кнопкою миші&lt;/b&gt; або &lt;b&gt;a&lt;/b&gt; або &lt;b&gt;enter&lt;/b&gt;: застосувати контур.
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -9682,7 +9688,17 @@ do not use sphere brush with Paint effect and always leave at least one empty sl
 Masking settings are ignored. If segments overlap, segment higher in the segments table will have priority.
 The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;morphological contour interpolation method&lt;/a&gt;.
 &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Інтерполяція сегментації між зрізами&lt;br&gt;. Інструкції:
+&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;Створіть повну сегментацію на вибраних зрізів за допомогою будь-якого редактора.
+Сегментація буде розширена, лише якщо зріз сегментовано, але жоден із прямих сусідів не сегментований, тому
+не використовуйте сферичний пензель з ефектом Фарбування і завжди залишайте принаймні один порожній фрагмент між сегментованими фрагментами.
+&lt;li&gt;Буде інтерпольовано всі видимі сегменти, а не лише вибраний сегмент.
+&lt;li&gt;Повну сегментацію буде створено шляхом інтерполяції сегментів у порожніх фрагментах.
+&lt;/ul&gt;&lt;p&gt;
+Параметри маскування ігноруються. Якщо сегменти перекриваються, пріоритет матиме сегмент, який стоїть вище в таблиці сегментів.
+Цей ефект досягається методикою  &lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;інтерполяції морфологічних контурів&lt;/a&gt;.
+&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -9709,7 +9725,21 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Створення сегментів для створення повної сегментації&lt;br&gt;.
+        Враховується розташування, розмір і форма початкових сегментів і вміст вихідного об&apos;єму.
+        Кінцеві межі сегментів будуть розміщені там, де різко змінюється яскравість компонентів у зображенні. Інструкції:&lt;p&gt;
+        &lt;ul style=&quot;margin: 0&quot;&gt;
+        &lt;li&gt;Використовуйте Фарбування або інші ефекти, щоб намалювати точки в кожній області, яка повинна належати до окремого сегмента.
+        Застосуйте різні точки для окремих сегментів. Потрібно мінімум два сегменти.
+        &lt;li&gt;Натисніть &lt;dfn&gt;Розпочати&lt;/dfn&gt; для попереднього обчислення повної сегментації.
+        &lt;li&gt;Переглядайте фрагменти зображення. Якщо попередньо переглянутий результат сегментації неправильний, перейдіть до
+        Фарбування або додайте інші ефекти та додайте більше початкових елементів у неправильно створений регіон. Повна сегментація буде
+        автоматично оновлена через декілька секунд
+        &lt;li&gt;Натисніть &lt;dfn&gt;Застосувати&lt;/dfn&gt; щоб оновити сегментацію за допомогою попереднього результату.
+        &lt;/ul&gt;&lt;p&gt;
+        Якщо сегменти перекриваються, пріоритет матиме сегмент, який стоїть вище в таблиці сегментів.
+        Це методика &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;швидкого наростання і обрізання&lt;/a&gt;.
+        &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="77"/>
@@ -9821,7 +9851,8 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="40"/>
         <source>Edit islands (connected components) in a segment&lt;br&gt;. To get more information
 about each operation, hover the mouse over the option and wait for the tooltip to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Редагувати острівці (зв&apos;язані компоненти) у сегменті&lt;br&gt;. Щоб отримати більше інформації
+про кожну операцію, наведіть вказівник миші на параметр і дочекайтеся появи підказки.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="43"/>
@@ -10423,7 +10454,11 @@ If segments overlap, segment higher in the segments table will have priority. &l
 &lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; set the selected intensity range as &lt;dfn&gt;Editable intensity range&lt;/dfn&gt; and switch to Paint effect.
 &lt;li&gt;&lt;b&gt;Apply:&lt;/b&gt; set the previewed segmentation in the selected segment. Previous contents of the segment is overwritten.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Заповніть сегмент на основі діапазону інтенсивності у вихідному малюнку&lt;br&gt;. Можливі опції:&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Використати для маскування:&lt;/b&gt; встановити діапазон інтенсивності як &lt;dfn&gt;Редагований пороговий діапазон інтенсивності&lt;/dfn&gt; і перейти до ефекту Фарбування.
+&lt;li&gt;&lt;b&gt;Застосувати:&lt;/b&gt; встановити сегментацію попереднього перегляду у вибраному сегменті. Попередній вміст сегмента буде перезаписано.
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="151"/>
@@ -10616,7 +10651,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="383"/>
         <source>Use specified intensity range for masking and switch to Paint effect.</source>
-        <translation>Застосувати вказаний діапазон для створення маски і перейти до функції Малювання.</translation>
+        <translation>Застосувати вказаний діапазон для створення маски і перейти до функції Фарбування.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="386"/>
@@ -16101,7 +16136,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="249"/>
         <source>Hide</source>
-        <translation type="unfinished">Hide</translation>
+        <translation>Приховати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="252"/>
@@ -18357,7 +18392,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="129"/>
         <source>Show details</source>
-        <translation type="unfinished">Show details</translation>
+        <translation>Показати деталі</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="154"/>
@@ -19746,7 +19781,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="14"/>
         <source>Extensions Manager</source>
-        <translation>Менеджер додатків</translation>
+        <translation>Менеджер розширень</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
@@ -20099,7 +20134,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="271"/>
         <source>Extensions Manager</source>
-        <translation>Менеджер додатків</translation>
+        <translation>Менеджер розширень</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="415"/>
@@ -20160,7 +20195,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation>Натисніть «ОК», щоб дочекатися їх завершення, або виберіть «Ігнорувати», щоб зараз закрити Менеджер додатків.</translation>
+        <translation>Натисніть «ОК», щоб дочекатися їх завершення, або виберіть «Ігнорувати», щоб зараз закрити Менеджер розширень.</translation>
     </message>
 </context>
 <context>
@@ -20467,7 +20502,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="603"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
-        <translation type="unfinished">Click &apos;Show details&apos; button and check the application log for more information.</translation>
+        <translation>Натисніть кнопку «Показати деталі» та перевірте журнал програми для отримання додаткової інформації.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="610"/>
@@ -20814,12 +20849,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
         <source>Extensions Manager</source>
-        <translation>Менеджер додатків</translation>
+        <translation>Менеджер розширень</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="514"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
-        <translation>Викликає Менеджер додатків, що показує доступність і пояснює можливості додатків</translation>
+        <translation>Викликає Менеджер розширень, що показує доступність і пояснює можливості розширень</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="517"/>
@@ -21548,7 +21583,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="547"/>
         <source>Hide</source>
-        <translation type="unfinished">Hide</translation>
+        <translation>Приховати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="567"/>
@@ -23151,7 +23186,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Під час збереження виникли помилки або попередження. Перегляньте піктограми стану, щоб дізнатися більше.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="603"/>
@@ -23460,7 +23495,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="75"/>
         <source>Erase from current segment with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; erase from segment around the mouse pointer.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Видаліть із поточного сегмента круглим пензликом&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Перетягування лівою кнопкою миші:&lt;/b&gt; стерти із сегмента навколо вказівника миші.&lt;li&gt;&lt;b&gt;Shift + прокручування коліщатком миші&lt;/b&gt; або &lt;b&gt;+/- клавіші:&lt;/b&gt; налаштування розміру пензлика.&lt;li&gt;&lt;b&gt;Ctrl + прокручування коліщатком миші:&lt;/b&gt; перегляд фрагментів із збільшенням/зменшенням масштабу.&lt;/ul&gt;&lt;p&gt;Редагування доступне як у фрагментах, так і в 3D-вигляді.&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -23468,12 +23503,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="973"/>
         <source>Paint</source>
-        <translation>Малювати</translation>
+        <translation>Фарбувати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="993"/>
         <source>Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Фарбувати круглим пензлем&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Перетягування лівою кнопкою:&lt;/b&gt; мазки фарбою.&lt;li&gt;&lt;b&gt;Shift + прокручування коліщатком миші&lt;/b&gt; або &lt;b&gt;+/- клавіші:&lt;/b&gt; змінити розмір пензлика.&lt;li&gt;&lt;b&gt;Ctrl + прокручування коліщатком миші:&lt;/b&gt; збільшення/зменшення перегляду фрагментів.&lt;/ul&gt;&lt;p&gt;Редагування доступне як у фрагментах, так і в 3D-вигляді.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1422"/>
@@ -23485,7 +23520,7 @@ Please choose an empty directory.</translation>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1427"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1438"/>
         <source>Set the paint brush size as percentage of screen size or as fixed length</source>
-        <translation type="unfinished"></translation>
+        <translation>Установіть розмір пензля у відсотках від розміру екрана або фіксованого розміру</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1446"/>
@@ -23510,7 +23545,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1461"/>
         <source>Allow painting in 3D views. If enabled, click-and-drag in a 3D view paints in the view instead of rotating the view.</source>
-        <translation>Дозволити малювати в 3D. Якщо активувати, натисканням лівої клавіші мишки і протягуванням буде виконуватись малювання, а не обертання 3D.</translation>
+        <translation>Дозволити фарбувати в 3D. Якщо активувати, натисканням лівої клавіші мишки і протягуванням буде виконуватись малювання, а не обертання 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1465"/>
@@ -23558,7 +23593,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
         <source>Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Вирізати весь сегмент з поточного місця огляду&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Перетягування лівою кнопкою:&lt;/b&gt; створити контур.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; відмінити.&lt;/ul&gt;&lt;p&gt;Редагування доступне як у зрізах, так і в 3D-вигляді. У поданні зрізів вирізання буде застосовано до всіх фрагментів.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1203"/>
@@ -24805,7 +24840,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="44"/>
         <source>Hide Extensions Manager from the application user interface. Automatic updates are performed even if the Extensions Manager is disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приховати Менеджер розширень в інтерфейсі користувача програми. Автоматичні оновлення виконуються, навіть якщо Менеджер розширень вимкнено.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="57"/>
@@ -25951,7 +25986,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="85"/>
         <source>Hide all children</source>
-        <translation type="unfinished"></translation>
+        <translation>Приховати усіх дітей</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="134"/>
@@ -28612,7 +28647,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="59"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="461"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
-        <translation>Викликати &quot;Менеджер додатків&quot;, що дозволить знайти, завантажити і встановити додатки до Slicer.&lt;br&gt;&lt;br&gt;Додаток становить собою пакет з одного або декількох зв&apos;язаних між собою модулів .&lt;br&gt;&lt;br&gt;Після встановлення додатку, відповідні модулі можна відкрити з випадаючого вікна для модулів.</translation>
+        <translation>Викликати &quot;Менеджер розширень&quot;, що дозволить знайти, завантажити і встановити розширення Slicer.&lt;br&gt;&lt;br&gt;Розширення становить собою пакет з одного або декількох зв&apos;язаних між собою модулів .&lt;br&gt;&lt;br&gt;Після встановлення розширення, відповідні модулі можна відкрити з випадаючого вікна для модулів.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
@@ -28825,7 +28860,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="390"/>
         <source>Use Extensions Manager to update these extensions:</source>
-        <translation>Використовуйте Менеджер додатків, щоб оновити ці додатки:</translation>
+        <translation>Використовуйте Менеджер розширень, щоб оновити ці розширення:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="424"/>
