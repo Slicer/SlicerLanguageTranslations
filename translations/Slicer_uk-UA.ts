@@ -9230,7 +9230,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="343"/>
         <source>View controllers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Перегляд контролерів:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="347"/>
@@ -9365,7 +9365,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="713"/>
         <source>View controllers are only available to be shown when capturing all views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перегляд контролерів доступний для показу лише під час захоплення всіх переглядів.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="726"/>
@@ -27682,7 +27682,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/qSlicerViewControllersModule.h" line="50"/>
         <source>View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>Перегляд контролерів</translation>
     </message>
 </context>
 <context>
@@ -27694,7 +27694,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>Перегляд контролерів</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="20"/>
