@@ -8519,7 +8519,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="74"/>
         <source>Path</source>
-        <translation type="unfinished">Шлях</translation>
+        <translation>Шлях</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="83"/>
@@ -9385,7 +9385,7 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="764"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="771"/>
         <source>Copy to {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати до {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="789"/>
@@ -9620,7 +9620,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="131"/>
         <source>Clear preview and cancel auto-complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити попередній перегляд і відмінити авто-оновлення</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="133"/>
@@ -10002,7 +10002,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="53"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="54"/>
@@ -10017,27 +10017,27 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="56"/>
         <source>Intersect</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетин</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
         <source>Invert</source>
-        <translation type="unfinished">Invert</translation>
+        <translation>Інвертувати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="58"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="59"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="60"/>
         <source>Click &lt;dfn&gt;Show details&lt;/dfn&gt; link above for description of operations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть &lt;dfn&gt;Показати деталі&lt;/dfn&gt; посилання вище для опису операцій.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="62"/>
@@ -10073,7 +10073,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="135"/>
         <source>Copy from segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопіювати з сегменту:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="137"/>
@@ -10088,7 +10088,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="141"/>
         <source>Intersect with segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетин з сегментами:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="145"/>
@@ -10207,7 +10207,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="57"/>
         <source>Fill inside and outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Заповнити зсередини і ззовні</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="58"/>
@@ -11370,7 +11370,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="172"/>
         <source>Invert threshold: </source>
-        <translation>Край інвертування: </translation>
+        <translation>Інвертувати поріг: </translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="179"/>
@@ -11727,7 +11727,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="50"/>
         <source>Intersection</source>
-        <translation>Перетин</translation>
+        <translation>Перетинання</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="57"/>
@@ -12966,7 +12966,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="417"/>
         <source>Intersection</source>
-        <translation>Перетин</translation>
+        <translation>Перетинання</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="422"/>
@@ -14410,7 +14410,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="330"/>
         <source>Slice intersection thickness:</source>
-        <translation>Товщина зрізів для перетину:</translation>
+        <translation>Товщина зрізів для перетинання:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="337"/>
@@ -16256,7 +16256,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
         <source>Copy</source>
-        <translation>Скопіювати</translation>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="94"/>
@@ -19361,7 +19361,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="73"/>
         <source>Copy log to clipboard</source>
         <oldsource>Copy log messages to clipboard</oldsource>
-        <translation type="unfinished">Копіювати повідомлення з журналу в буфер обміну</translation>
+        <translation>Копіювати повідомлення з журналу в буфер обміну</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="83"/>
@@ -21413,12 +21413,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="143"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="56"/>
         <source>Markups</source>
-        <translation type="unfinished">Markups</translation>
+        <translation>Розмітка</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
         <source>Create Markups:</source>
-        <translation type="unfinished">Create Markups:</translation>
+        <translation>Створити розмітку:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="81"/>
@@ -21503,7 +21503,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
         <source>Show Slice Intersections:</source>
-        <translation type="unfinished">Show Slice Intersections:</translation>
+        <translation>Показати перетинання зрізів:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
@@ -21553,7 +21553,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="501"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="511"/>
@@ -21854,7 +21854,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="385"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="389"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="395"/>
@@ -22153,7 +22153,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="92"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="93"/>
         <source>Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмітка</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="94"/>
@@ -23325,7 +23325,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="23"/>
         <source>Clear existing scene</source>
-        <translation type="unfinished">Clear existing scene</translation>
+        <translation>Очистити існуючу сцену</translation>
     </message>
 </context>
 <context>
@@ -24096,7 +24096,7 @@ Note: This may result in unwanted data loss in %5.</oldsource>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="786"/>
         <source>Failed to copy segment</source>
-        <translation type="unfinished">Failed to copy segment</translation>
+        <translation>Не вдалось скопіювати сегмент</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="794"/>
@@ -26761,7 +26761,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="207"/>
         <source>Copy image</source>
-        <translation type="unfinished">Copy image</translation>
+        <translation>Копіювати зображення</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="209"/>
@@ -26771,7 +26771,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="217"/>
         <source>Slice intersections</source>
-        <translation>Перетини зрізів</translation>
+        <translation>Перетинання зрізів</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="219"/>
@@ -27185,7 +27185,7 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="113"/>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="119"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="116"/>
@@ -27503,7 +27503,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="194"/>
         <source>Invert</source>
-        <translation type="unfinished">Invert</translation>
+        <translation>Інвертувати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="204"/>
@@ -27618,7 +27618,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="127"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="133"/>
@@ -27943,7 +27943,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="320"/>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="327"/>
         <source>Slice intersections</source>
-        <translation>Перетини зрізів</translation>
+        <translation>Перетинання зрізів</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
