@@ -18420,27 +18420,27 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Техніка рендерингу:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
         <source>Select ray casting technique for the views where the current volume is visible</source>
-        <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+        <translation>Виберіть техніку лиття променів для поточного видимого зображення</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="76"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Складання із затіненням</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="78"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Проекція максимальної інтенсивності</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="80"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Проекція мінімальної інтенсивності</translation>
     </message>
 </context>
 <context>
@@ -20412,12 +20412,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Техніка:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
         <source>Select ray casting technique for the views where the current volume is visible</source>
-        <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+        <translation>Виберіть техніку лиття променів для поточного видимого зображення</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="46"/>
@@ -20433,17 +20433,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="77"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Складання із затіненням</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="79"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Проекція максимальної інтенсивності</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="81"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Проекція мінімальної інтенсивності</translation>
     </message>
 </context>
 <context>
@@ -22760,12 +22760,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Техніка:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="39"/>
         <source>Select ray casting technique for the views where the current volume is visible</source>
-        <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+        <translation>Виберіть техніку лиття променів для поточного видимого зображення</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="46"/>
@@ -22781,17 +22781,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="78"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Складання із затіненням</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="80"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Проекція максимальної інтенсивності</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="82"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Проекція мінімальної інтенсивності</translation>
     </message>
 </context>
 <context>
@@ -28096,7 +28096,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="82"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Модуль Об&apos;ємне подання надає розширені інструменти для інтерактивного рендерингу даних.&lt;br/&gt;Можна ввімкнути апаратне прискорення рендерингу у комп&apos;ютерах, які здатні підтримати цю функцію. Модуль дозволяє вибрати попередньо встановлені налаштування для того, щоб розфарбувати та встановити непрозорість у спосіб, який відповідає конкретним завданням, також наявні інструменти для налаштування функцій передачі.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="103"/>
@@ -28179,7 +28179,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="255"/>
         <source>Rendering:</source>
-        <translation>Рендеринг:</translation>
+        <translation>Метод рендерингу:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="275"/>
@@ -28214,7 +28214,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="359"/>
         <source> fps</source>
-        <translation type="unfinished"> fps</translation>
+        <translation> кадр/с</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="366"/>
@@ -28224,7 +28224,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="397"/>
         <source>Auto-release resources:</source>
-        <translation type="unfinished">Auto-release resources:</translation>
+        <translation>Автоматично звільнити незадіяні графічні ресурси:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="404"/>
@@ -28234,17 +28234,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="415"/>
         <source>Volume properties</source>
-        <translation>Властивості картини</translation>
+        <translation>Властивості об&apos;ємної картини</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="444"/>
         <source>Synchronize with Volumes module</source>
-        <translation type="unfinished">Synchronize with Volumes module</translation>
+        <translation>Синхронізувати з модулем Об&apos;єми</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="457"/>
         <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
-        <translation type="unfinished">Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</translation>
+        <translation>Не використовуйте порогові значення. Замість цього встановіть рамку непрозорості в діапазоні Вікно/Рівень в модулі Об&apos;єми.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="460"/>
@@ -28273,12 +28273,12 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="45"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="55"/>
         <source>Shift transfer functions</source>
-        <translation type="unfinished">Shift transfer functions</translation>
+        <translation>Змінити видимий діапазон інтенсивності зображення</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="48"/>
         <source>Shift:</source>
-        <translation type="unfinished">Shift:</translation>
+        <translation>Зміщення видимого діапазону:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="73"/>
@@ -28340,7 +28340,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="87"/>
         <source> fps</source>
-        <translation type="unfinished"> fps</translation>
+        <translation> кадр/с</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="94"/>
@@ -28355,7 +28355,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="111"/>
         <source>Auto-release resources:</source>
-        <translation type="unfinished">Auto-release resources:</translation>
+        <translation>Автоматично звільнити незадіяні графічні ресурси:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="118"/>
