@@ -179,7 +179,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
         <source>Optional Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>optionale Maske</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
