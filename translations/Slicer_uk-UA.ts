@@ -28657,7 +28657,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
         <source> Install Extensions</source>
-        <translation> Встановити додатки</translation>
+        <translation> Встановити розширення</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
