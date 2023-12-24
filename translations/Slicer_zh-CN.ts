@@ -4106,7 +4106,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，资助号为U54 EB005149。</translation>
+        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，资助号为U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
@@ -11883,7 +11883,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
         <source>Visibility:</source>
         <oldsource>Visible:</oldsource>
-        <translation type="unfinished">可视性：</translation>
+        <translation>是否显示：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="58"/>
@@ -12089,7 +12089,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
         <source>&amp;Visibility:</source>
         <oldsource>&amp;Visible:</oldsource>
-        <translation type="unfinished">&amp;可视化:</translation>
+        <translation>&amp;是否显示:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
