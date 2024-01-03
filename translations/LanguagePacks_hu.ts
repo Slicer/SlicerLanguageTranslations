@@ -69,16 +69,6 @@
         <translation>Fordítás (.ts) fájlokat tartalmazó mappa.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="127"/>
-        <source>Internationalization/LanguageTools/LocalTsFolderPathHistory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="130"/>
-        <source>*</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="139"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this option is checked then only the latest .ts file in the folder will be used. Enable this option to ignore previously downloaded .ts files are saved in the same folder.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Ha ezt az opciót választja, akkor csak a legutóbbi .ts fájlt használjuk a mappában és figyelmen kívül hagyjuk az ugyanabba a mappába korábban letöltött .ts fájlokat.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -119,68 +109,72 @@
         <translation>Qt szoftver lrelease alkalmazásának helye. Hagyja üresen, ha az alapértelmezett helyet szeretné használni (amelyik a Slicer telepítő csomagban vagy a rendszeren található).</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="221"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="224"/>
         <source>Slicer version:</source>
         <translation>Slicer verzió:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="228"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="231"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Only used for GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;main, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Csak GitHub esetén használva&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;]</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="238"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="241"/>
         <source>GitHub repository URL:</source>
         <translation>GitHub projekt URL:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="245"/>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="262"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="248"/>
         <source>Github repository that stores the translated strings.</source>
         <translation>Github repository, amely tárolja a fordított szövegeket.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="255"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="258"/>
         <source>Weblate download URL:</source>
         <translation>Weblate letöltési URL:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="272"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="265"/>
+        <source>Weblate project that stores the translated strings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="275"/>
         <source>Translation file folders:</source>
         <translation>Fordítási fájl mappák:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="279"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="282"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
         <translation>A mappák listája, ahol az alkalmazás fordításokat keres. Ez csak információ, a mappák helye nem változtatható.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="288"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="291"/>
         <source>Show more...</source>
         <translation>Mutasson többet...</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="298"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="301"/>
         <source>Find text</source>
         <translation>Keressen szöveget</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="310"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="313"/>
         <source>Enable text finder:</source>
         <translation>Szöveg-kereső engedélyezése:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="317"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="320"/>
         <source>If enabled, then the shortcut opens the text finder, which can be used to extract text from the application user interface and open it in the translation website.</source>
         <translation>Ha engedélyezett, akkor a billentyűkombináció megnyitja a szöveg-keresőt, amely kimásolja a talált szöveget az alkalmazás felhasználói felületről és megnyitja a fordítási weboldalon.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="320"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="323"/>
         <source> (shortcut: Ctrl+6)</source>
         <translation> (billentyű kombináció: Ctrl+6)</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="327"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="330"/>
         <source>Edited language:</source>
         <translation>Szerkesztett nyelv:</translation>
     </message>

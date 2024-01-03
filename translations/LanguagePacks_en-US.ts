@@ -69,16 +69,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="127"/>
-        <source>Internationalization/LanguageTools/LocalTsFolderPathHistory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="130"/>
-        <source>*</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="139"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this option is checked then only the latest .ts file in the folder will be used. Enable this option to ignore previously downloaded .ts files are saved in the same folder.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
@@ -119,68 +109,72 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="221"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="224"/>
         <source>Slicer version:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="228"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="231"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Only used for GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="238"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="241"/>
         <source>GitHub repository URL:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="245"/>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="262"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="248"/>
         <source>Github repository that stores the translated strings.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="255"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="258"/>
         <source>Weblate download URL:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="272"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="265"/>
+        <source>Weblate project that stores the translated strings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="275"/>
         <source>Translation file folders:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="279"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="282"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="288"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="291"/>
         <source>Show more...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="298"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="301"/>
         <source>Find text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="310"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="313"/>
         <source>Enable text finder:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="317"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="320"/>
         <source>If enabled, then the shortcut opens the text finder, which can be used to extract text from the application user interface and open it in the translation website.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="320"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="323"/>
         <source> (shortcut: Ctrl+6)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="327"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="330"/>
         <source>Edited language:</source>
         <translation type="unfinished"></translation>
     </message>
