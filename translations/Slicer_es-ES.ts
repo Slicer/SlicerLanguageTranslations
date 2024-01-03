@@ -109,17 +109,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
         <source>list of bad gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>lista de malos volúmenes de gradiente</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Requerido: la imagen de entrada es una imagen 4D NRRD.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
         <source>given a list of </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">dado una lista de                                                                                              . </translation>
     </message>
 </context>
 <context>
@@ -132,32 +132,32 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este programa: 1) desfigurara imágenes de un conjunto de imágenes.    Las entradas deben estar alineadas con ACPC, y deben ser proporcionados por AC, PC, LE y RE.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
         <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo fue desarrollado por el Departamento de Ingeniería Eléctrica e Informática de la Universidad de Iowa.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
         <source>Input Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Imágenes de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
         <source>First Image, Second Image and Mask Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera imagen, segunda imagen e imagen de máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
         <source>Landmarks File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Archivos de Puntos de Referencia</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
         <source>Source Reference Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imagen de Referencia de Origen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
@@ -167,88 +167,88 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
         <source>Optional Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Máscara Opcional</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
         <source>Input Landmark File with LE, and RE points defined in physical locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese el Archivo con Puntos de Referencia con puntos LE y RE definidos en ubicaciones físicas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
         <source>Input images, all images must be in the exact same physical space, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imágenes de entrada, todas las imágenes deben estar en el mismo espacio físico exacto, alineadas con ACPC y consistentes con los puntos de referencia.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
         <source>Input images not used in generating masks, all images must be in the exact same physical space as inputVolumes, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imágenes de entradas no utilizadas para generar mascaras, todas las imágenes deben estar en el mismo espacio físico exacto como inputVolumes, alineadas con ACPC y consistentes con los puntos de referencia.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
         <source>Optional pre-generated mask to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Máscara pre-generada opcional para utilizar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="20"/>
         <source>blur</source>
-        <translation type="unfinished"></translation>
+        <translation>borroso</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="19"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation>cero</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="21"/>
         <source>Output Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos de Salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
         <source>Outputs from both MUSH generation and brain volume mask creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Salidas de ambos generación MUSH y creación de máscaras de volumen cerebral</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="23"/>
         <source>brain volume mask</source>
-        <translation type="unfinished"></translation>
+        <translation>máscara de volumen cerebral</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
         <source>OutputDirectory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
         <source>The brain volume mask generated from the MUSH image</source>
-        <translation type="unfinished"></translation>
+        <translation>La máscara de volumen cerebral generado a partir de la imagen MUSH</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="26"/>
         <source>The output directory to writing the defaced input files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El directorio de salida para escribir los archivos de entrada desfigurados</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
         <source>Run Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de ejecución</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
         <source>Modify the program to only generate a mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar el programa para solo generar una máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
         <source>No Mask Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguna Aplicación de Máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>No aplique la máscara a las imágenes de entradas utilizadas para generar la máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
@@ -258,65 +258,65 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
         <source>Parameters for normalizing the output images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para normalizar las imágenes de salida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
         <source>Upper Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Percentil Superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="34"/>
         <source>Lower Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Percentil Inferior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="35"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="37"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="42"/>
         <source>Upper Output Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intensidad de Salida Superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="36"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="43"/>
         <source>Lower Output Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intensidad de Salida Inferior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
         <source>Relative Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Escalado Relativo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
         <source>Debug Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivel de Depuración</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
         <source>Upper Intensity Percentile (0.99 default)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intensidad Percentil Superior (0.99 por defecto)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="41"/>
         <source>Lower Intensity Percentile (0.01 default)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intensidad Percentil Inferior (0.01 por defecto)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No recorte Valores fuera de este rango para que sean el &quot;Valor Exterior&quot;</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
         <source>Do not scale to the relative percentiles of the output scale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No escale a los percentiles relativos de la escala de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
         <source>Level of Debugging (0=None)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivel de Depurado (0=Ninguno)</translation>
     </message>
 </context>
 <context>
@@ -324,12 +324,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Registro General (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Registrar un volumen tridimensional a un volumen de referencia (Mattes Mutual Information por defecto). Metodo descrito en BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
