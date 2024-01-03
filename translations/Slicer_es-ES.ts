@@ -334,7 +334,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5); Ali Ghayoor(4) 1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard  </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Adriy Fedorov(5); Ali Ghayoor(4) 1=Departamento de Psiquiatría de la Universidad de Iowa, 2=Departamento de Radiología de la Universidad de Iowa, 3= Departamento de Ingeniería Biomédica de la Universidad de Iowa, 4=Departamento de Ingeniera Eléctrica e Informática de la Universidad de Iowa, 5=Laboratorio de Planificación Quirúrgica, Harvard  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
@@ -344,42 +344,42 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
         <source>Fixed Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de Imagen Fija</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
         <source>Moving Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de Imagen en Movimiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
         <source>Percentage Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Porcentaje de Muestras</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="11"/>
         <source>B-Spline Grid Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de la cuadricula B-Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
         <source>Input fixed image (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen Fija de Entrada (la imagen en movimiento será transformada en este espacio de imagen).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
         <source>Input moving image (this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen en movimiento de entrada (esta imagen será transformada en el espacio de imagen fija).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fracción de vóxeles de la imagen fija que se utilizaran para el registro. El numero tiene que ser mas grande que cero y menor o igual a uno. Valores de mayor tamaño incrementan el tiempo de calculo pero pueden dar resultados más precisos. También puede limitar el enfoque de muestras con mascaras ROI y la generación de mascaras ROIAUTO. El valor por defecto es 0.002 (usa aproximadamente 0.2% de los vóxeles, resultando en 100000 muestras en un volumen de 512x512x192) para proveer un registro muy rápido en la mayoría de los casos. Rango de valores típicos de 0.01 (1%) para imágenes de bajo detalle a 0.2 (20%) para imágenes de alto detalle.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero de subdivisiones de cuadricula BSpline a lo largo de cada eje de la imagen fija, centrada en el espacio de imagen. Valores deben ser 3 o superior para que el BSpline sea calculado correctamente.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
