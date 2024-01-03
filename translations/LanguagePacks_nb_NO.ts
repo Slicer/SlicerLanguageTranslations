@@ -6,67 +6,67 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="30"/>
         <source>Download, compile, and install latest translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Last ned, kompiler, og installer de nyeste oversettelsene.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="33"/>
         <source>Update translation files</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdater oversettelsesfiler</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="47"/>
         <source>Input translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Inndata-oversettelser</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="56"/>
         <source>Input folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inndatamappe:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="66"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Språk:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate (ferske oversettelser)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="83"/>
         <source>GitHub (updated daily)</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub (oppdatert daglig)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="90"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokal mappe (for frakoblet bruk)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="97"/>
         <source>Latest file only:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun den nyeste filen:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="107"/>
         <source>Refresh Weblate language list by querying the Weblate server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdater Weblate-språklisten ved å sende spørring til Weblate-tjeneren.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>oppdater</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="117"/>
         <source>Select language(s) that will be downloaded and installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg språk å laste ned og installere.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="124"/>
         <source>Folder containing translation (.ts) files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe inneholdende oversettelses (.ts)-filer.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="139"/>
@@ -76,12 +76,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="157"/>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Programspråk:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="170"/>
         <source>Change only takes effect after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Endringer trer kun i effekt etter omstart av programmet.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="180"/>
@@ -91,12 +91,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="183"/>
         <source>Restart the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Start programmet på ny</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="192"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanserte innstillinger</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="204"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="224"/>
         <source>Slicer version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer-versjon:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="231"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="241"/>
         <source>GitHub repository URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub-pakkebrønnsnettadresse:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="248"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="258"/>
         <source>Weblate download URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate-nedlastingsnettadresse:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="265"/>
@@ -151,12 +151,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="291"/>
         <source>Show more...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vis mer …</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="301"/>
         <source>Find text</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn tekst</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="313"/>
@@ -176,12 +176,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="330"/>
         <source>Edited language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigert språk:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Språkverktøy</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -213,52 +213,52 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="174"/>
         <source>Failed to extract any text from: {object}</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke pakke ut tekst fra: {object}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="296"/>
         <source>Failed to retrieve language list from Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke hente språkliste fra Weblate.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="412"/>
         <source>Update failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdatering mislyktes.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="439"/>
         <source>Update completed! Select application language and restart the application to see the results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdatering fullført. Velg programspråk og start programmet på ny for å se resultatene.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="515"/>
         <source>Failed to query list of languages from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke hente språklisten fra Weblate.  ({status_code}:{reason}).</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="545"/>
         <source>Failed to query list of components from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke hente komponentliste fra Weblate. ({status_code}:{reason}).</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="584"/>
         <source>No .ts files were found in the specified location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen .ts-filer ble funnet på angitt sted.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="588"/>
         <source>Use translation file: {file}</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruk oversettelsesfil: {file}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="613"/>
         <source>Download translations for {component}/{language}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Last ned oversettelser for {component}/{language} …</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="622"/>
         <source>Failed to download translation from: {url} -- {text}</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke laste ned oversettelse fra: {url} -- {text}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="623"/>
@@ -290,12 +290,12 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="736"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer-versjonen støtter ikke egendefinerte visningsskrifter.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="759"/>
         <source>Installed {count} font files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerte {count} skriftfiler i {location}.</translation>
     </message>
 </context>
 <context>
@@ -303,7 +303,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="23"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktøy</translation>
     </message>
 </context>
 </TS>
