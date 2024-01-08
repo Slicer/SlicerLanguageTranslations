@@ -260,7 +260,7 @@ Ennek a modulnak a kifejlesztését részben a &lt;a href=&quot;https://chanzuck
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="613"/>
         <source>Download translations for {component}/{language}...</source>
-        <translation>Fordítások letöltése: {komponens}/{nyelv}...</translation>
+        <translation>Fordítások letöltése: {component}/{language}...</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="622"/>
