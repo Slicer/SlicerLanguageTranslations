@@ -136,7 +136,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="265"/>
         <source>Weblate project that stores the translated strings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate projekt, amely tárolja a lefordított szöveget.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="275"/>
@@ -311,7 +311,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="23"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Segédeszközök</translation>
     </message>
 </context>
 </TS>
