@@ -10803,10 +10803,10 @@ Si les segments se chevauchent, le segment situé plus haut dans le tableau des 
 &lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; set the selected intensity range as &lt;dfn&gt;Editable intensity range&lt;/dfn&gt; and switch to Paint effect.
 &lt;li&gt;&lt;b&gt;Apply:&lt;/b&gt; set the previewed segmentation in the selected segment. Previous contents of the segment is overwritten.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation>Remplissez le segment en fonction de la plage d&apos;intensité du volume source&lt;br&gt;. Options&#xa0;:&lt;p&gt;
-&lt;ul style=&quot;marge&#xa0;: 0&quot;&gt;
-&lt;li&gt;&lt;b&gt;Utiliser pour le masquage&#xa0;:&lt;/b&gt; définissez la plage d&apos;intensité sélectionnée sur &lt;dfn&gt;Plage d&apos;intensité modifiable&lt;/dfn&gt; et passez à l&apos;effet Peinture.
-&lt;li&gt;&lt;b&gt;Appliquer&#xa0;:&lt;/b&gt; définit la segmentation prévisualisée dans le segment sélectionné. Le contenu précédent du segment est écrasé.
+        <translation>Remplissez le segment en fonction de la plage d&apos;intensité du volume source&lt;br&gt;. Options :&lt;p&gt;
+&lt;ul style=&quot;marge : 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Utiliser pour le masquage :&lt;/b&gt; définissez la plage d&apos;intensité sélectionnée sur &lt;dfn&gt;Plage d&apos;intensité modifiable&lt;/dfn&gt; et passez à l&apos;effet Peinture.
+&lt;li&gt;&lt;b&gt;Appliquer :&lt;/b&gt; définit la segmentation prévisualisée dans le segment sélectionné. Le contenu précédent du segment est écrasé.
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
@@ -11185,7 +11185,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="370"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment</translation>
     </message>
     <message>
         <source>Computed by {pluginName} Statistics plugin</source>
