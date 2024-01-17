@@ -10754,17 +10754,17 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="83"/>
         <source>Higher value means stronger smoothing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quanto mais alto o valor, mais forte a suavização.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="89"/>
         <source>Smoothing factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fator de suavização:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="93"/>
         <source>Apply smoothing effect to all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplique o efeito de suavização a todos os segmentos visíveis nesse nó de segmentação. Essa operação pode demorar um pouco.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="95"/>
@@ -10779,27 +10779,27 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="100"/>
         <source>Apply smoothing to selected segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar suavização ao segmento selecionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="113"/>
         <source>Smoothing brush options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de pincel de suavização</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="230"/>
         <source>Smoothing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Suavização {segmentName}...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="372"/>
         <source>Joint smoothing ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Suavização de juntas ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="478"/>
         <source>Smoothing brush is not available for &apos;joint smoothing&apos; method.</source>
-        <translation type="unfinished"></translation>
+        <translation>O pincel de suavização não está disponível para o método de &quot;suavização de juntas&quot;.</translation>
     </message>
 </context>
 <context>
@@ -10816,147 +10816,151 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
 &lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; set the selected intensity range as &lt;dfn&gt;Editable intensity range&lt;/dfn&gt; and switch to Paint effect.
 &lt;li&gt;&lt;b&gt;Apply:&lt;/b&gt; set the previewed segmentation in the selected segment. Previous contents of the segment is overwritten.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Preencher o segmento com base na faixa de intensidade do volume de origem.&lt;br&gt; Opções:&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Usar para máscara:&lt;/b&gt; definir a faixa de intensidade selecionada como &lt;dfn&gt;faixa de intensidade editável&lt;/dfn&gt; e mudar para o efeito de Pintura.
+&lt;li&gt;&lt;b&gt;Aplicar:&lt;/b&gt; definir a segmentação visualizada no segmento selecionado. O conteúdo anterior do segmento será sobrescrito.
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="154"/>
         <source>Threshold Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Faixa de limite:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="155"/>
         <source>Set the range of the background values that should be labeled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Defina o intervalo dos valores de plano de fundo que devem ser rotulados.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="164"/>
         <source>threshold above</source>
-        <translation type="unfinished"></translation>
+        <translation>limite acima</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="165"/>
         <source>threshold below</source>
-        <translation type="unfinished"></translation>
+        <translation>limite abaixo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="166"/>
         <source>set as lower value</source>
-        <translation type="unfinished"></translation>
+        <translation>definido como valor inferior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="167"/>
         <source>set as upper value</source>
-        <translation type="unfinished"></translation>
+        <translation>definido como valor superior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="170"/>
         <source>How to set lower and upper values of the threshold range. Threshold above/below: sets the range from the computed value to maximum/minimum. Set as lower/upper value: only modifies one side of the threshold range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Como definir os valores inferior e superior da faixa de limite. Limite acima/abaixo: define a faixa do valor calculado para máximo/mínimo. Definir como valor inferior/superior: modifica apenas um lado da faixa de limite.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="173"/>
         <source>Otsu</source>
-        <translation type="unfinished"></translation>
+        <translation>Otsu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="174"/>
         <source>Huang</source>
-        <translation type="unfinished"></translation>
+        <translation>Huang</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="175"/>
         <source>IsoData</source>
-        <translation type="unfinished"></translation>
+        <translation>IsoDados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="178"/>
         <source>Kittler-Illingworth</source>
-        <translation type="unfinished"></translation>
+        <translation>Kittler-Illingworth</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="183"/>
         <source>Maximum entropy</source>
-        <translation type="unfinished"></translation>
+        <translation>Entropia máxima</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="184"/>
         <source>Moments</source>
-        <translation type="unfinished"></translation>
+        <translation>Momentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="185"/>
         <source>Renyi entropy</source>
-        <translation type="unfinished"></translation>
+        <translation>Entropia de Renyi</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="186"/>
         <source>Shanbhag</source>
-        <translation type="unfinished"></translation>
+        <translation>Shanbhag</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="187"/>
         <source>Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Triângulo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="188"/>
         <source>Yen</source>
-        <translation type="unfinished"></translation>
+        <translation>Yen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="189"/>
         <source>Select method to compute threshold value automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o método para calcular o valor do limite automaticamente.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="194"/>
         <source>Select previous thresholding method and set thresholds. Useful for iterating through all available methods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o método de limite anterior e defina os limites. Útil para iterar por todos os métodos disponíveis.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="199"/>
         <source>Select next thresholding method and set thresholds. Useful for iterating through all available methods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o próximo método de limite e defina os limites. Útil para iterar por todos os métodos disponíveis.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="201"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="202"/>
         <source>Set threshold using selected method.</source>
-        <translation type="unfinished"></translation>
+        <translation>Defina o limite usando o método selecionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="217"/>
         <source>Automatic threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite automático</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="227"/>
         <source>Region shape:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma da região:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="234"/>
         <source>Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Caixa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="241"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Círculo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="248"/>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenho</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="255"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linha</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="316"/>
@@ -10999,17 +11003,17 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="380"/>
         <source>Local histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Histograma local</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="385"/>
         <source>Use for masking</source>
-        <translation type="unfinished"></translation>
+        <translation>Uso para mascaramento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="386"/>
         <source>Use specified intensity range for masking and switch to Paint effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Use o intervalo de intensidade especificado para mascaramento e alterne para o efeito &apos;Pintar&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="389"/>
@@ -11019,7 +11023,7 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="391"/>
         <source>Fill selected segment in regions that are in the specified intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preenche o segmento selecionado em regiões que estão no intervalo de intensidade especificado.</translation>
     </message>
 </context>
 <context>
@@ -11194,7 +11198,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="370"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento</translation>
     </message>
     <message>
         <source>Computed by {pluginName} Statistics plugin</source>
@@ -11220,7 +11224,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="14"/>
         <source>Closed Surface</source>
-        <translation type="unfinished"></translation>
+        <translation>Superfície fechada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="61"/>
@@ -11230,28 +11234,28 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="62"/>
         <source>Surface area computed from closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de superfície calculada a partir de uma representação de superfície fechada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="63"/>
         <source>mm2</source>
-        <translation type="unfinished"></translation>
+        <translation>mm2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="69"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="76"/>
         <source>Volume computed from closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume calculado a partir da representação da superfície fechada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="70"/>
         <source>mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="77"/>
         <source>cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>cm3</translation>
     </message>
     <message>
         <source>square millimeter</source>
@@ -11297,7 +11301,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="17"/>
         <source>Label Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="405"/>
@@ -11307,7 +11311,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="406"/>
         <source>Number of voxels in the binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de vóxeis na representação do mapa de rótulos binários do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="413"/>
@@ -11319,178 +11323,178 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="414"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="422"/>
         <source>Volume of the segment computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume do segmento calculado a partir da representação binária do mapa de rótulos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="415"/>
         <source>mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="423"/>
         <source>cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="430"/>
         <source>Centroid</source>
-        <translation type="unfinished"></translation>
+        <translation>Centroide</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="431"/>
         <source>Location of the centroid in RAS. Computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Localização do centroide no RAS. Calculado a partir da representação binária do mapa de rótulos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="436"/>
         <source>Feret diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diâmetro de Feret</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="437"/>
         <source>Feret diameter of the segment computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diâmetro de Feret do segmento calculado a partir da representação binária do mapa de rótulos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="437"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="487"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="442"/>
         <source>Surface area of the segment computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de superfície do segmento calculada a partir da representação binária do mapa de rótulos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="442"/>
         <source>mm2</source>
-        <translation type="unfinished"></translation>
+        <translation>mm2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="448"/>
         <source>Roundness</source>
-        <translation type="unfinished"></translation>
+        <translation>Arredondamento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="450"/>
         <source>Segment roundness. Calculated from ratio of the area of the hypersphere by the actual area. Value of 1 represents a spherical structure. Computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arredondamento do segmento. Calculado a partir da razão entre a área da hiperesfera e a área real. O valor de 1 representa uma estrutura esférica. Calculado a partir da representação binária do mapa de rótulos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="455"/>
         <source>Flatness</source>
-        <translation type="unfinished"></translation>
+        <translation>Achatamento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="458"/>
         <source>Segment flatness. Calculated from square root of the ratio of the second smallest principal moment by the smallest. Value of 0 represents a flat structure. Computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Achatamento do segmento. Calculado a partir da raiz quadrada da razão entre o segundo menor momento principal pelo menor. O valor 0 representa uma estrutura achatada. Calculado a partir da representação binária do mapa de rótulos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="463"/>
         <source>Elongation</source>
-        <translation type="unfinished"></translation>
+        <translation>Alongamento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="466"/>
         <source>Segment elongation. Calculated from square root of the ratio of the second largest principal moment by the second smallest. Computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alongamento do segmento. Calculado a partir da raiz quadrada da razão entre o segundo maior momento principal e o segundo menor. Calculado a partir da representação binária do mapa de rótulos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="472"/>
         <source>Oriented bounding box. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caixa delimitadora orientada. Calculada a partir da representação binária do mapa de rótulos do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="477"/>
         <source>OBB origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Origem da Caixa Delimitadora Orientada (CDO)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="479"/>
         <source>Oriented bounding box origin in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Origem da caixa delimitadora orientada em coordenadas RAS. Calculado a partir da representação binária do mapa de rótulos do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="485"/>
         <source>OBB diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diâmetro da Caixa Delimitadora Orientada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="486"/>
         <source>Oriented bounding box diameter. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diâmetro da caixa delimitadora orientada. Calculado a partir da representação binária do mapa de rótulos do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="492"/>
         <source>OBB X direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direção X da Caixa Delimitadora Orientada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="493"/>
         <source>Oriented bounding box X direction in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Direção X da caixa delimitadora orientada em coordenadas RAS. Calculado a partir da representação binária do mapa de rótulos do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="498"/>
         <source>OBB Y direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direção Y da Caixa Delimitadora Orientada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="500"/>
         <source>Oriented bounding box Y direction in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Direção Y da caixa delimitadora orientada em coordenadas RAS. Calculado a partir da representação binária do mapa de rótulos do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="506"/>
         <source>OBB Z direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direção Z da Caixa Delimitadora Orientada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="508"/>
         <source>Oriented bounding box Z direction in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Direção Z da caixa delimitadora orientada em coordenadas RAS. Calculado a partir da representação binária do mapa de rótulos do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="514"/>
         <source>Principal moments</source>
-        <translation type="unfinished"></translation>
+        <translation>Momentos principais</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="516"/>
         <source>Principal moments of inertia for x, y and z axes. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Momentos principais de inércia para os eixos x, y e z. Calculado a partir da representação do mapa de rótulos binários do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="521"/>
         <source>Principal X axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Eixo principal X</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="523"/>
         <source>Principal X axis of rotation in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eixo X principal de rotação em coordenadas RAS. Calculado a partir da representação binária do mapa de rótulos do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="528"/>
         <source>Principal Y axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Eixo Y principal</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="530"/>
         <source>Principal Y axis of rotation in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eixo Y principal de rotação em coordenadas RAS. Calculado a partir da representação binária do mapa de rótulos do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="535"/>
         <source>Principal Z axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Eixo Z principal</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="537"/>
         <source>Principal Z axis of rotation in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eixo Z principal de rotação em coordenadas RAS. Calculado a partir da representação binária do mapa de rótulos do segmento.</translation>
     </message>
     <message>
         <source>cubic millimeter</source>
@@ -11603,48 +11607,48 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="151"/>
         <source>Number of voxels. Computed from region of the binary labelmap representation of the segment that overlaps with the input scalar volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de vóxeis. Calculado a partir da região da representação do mapa de rótulos binários do segmento que se sobrepõe ao volume escalar de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="159"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="167"/>
         <source>Volume of the region of the binary labelmap representation that overlaps with the input scalar volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume da região da representação do mapa de rótulos binários que se sobrepõe ao volume escalar de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="160"/>
         <source>mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="168"/>
         <source>cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="174"/>
         <source>Minimum input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor mínimo do vóxel do volume escalar de entrada dentro do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="181"/>
         <source>Maximum input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor máximo do vóxel do volume escalar de entrada dentro do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="188"/>
         <source>Mean input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor médio do vóxel do volume escalar de entrada dentro do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="195"/>
         <source>Median input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor mediano do vóxel do volume escalar de entrada dentro do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="204"/>
         <source>Standard deviation of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desvio padrão dos valores de vóxel do volume escalar de entrada dentro do segmento.</translation>
     </message>
     <message>
         <source>Volume in mm3</source>
@@ -11759,7 +11763,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="31"/>
         <source>SelfTests</source>
-        <translation type="unfinished"></translation>
+        <translation>Autotestes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="37"/>
@@ -11897,7 +11901,7 @@ e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Libs/MRML/Core/Testing/vtkMRMLI18NTest1.cxx" line="59"/>
         <source>SomeMessage</source>
-        <translation type="unfinished"></translation>
+        <translation>Alguma Mensagem</translation>
     </message>
 </context>
 <context>
@@ -12303,67 +12307,67 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="31"/>
         <source>Web Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor Web</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="35"/>
         <source>Provides an embedded web server in Slicer that allows control of the application via web services API (HTTP requests).</source>
-        <translation type="unfinished"></translation>
+        <translation>Fornece um servidor da Web incorporado no Slicer que permite o controle do aplicativo por meio da API de serviços da Web (solicitações HTTP).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="44"/>
         <source>This work was partially funded by NIH grant 3P41RR013218.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho foi parcialmente financiado pelo subsídio 3P41RR013218 do NIH.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="65"/>
         <source>Start server</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar o servidor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="68"/>
         <source>Start web server with the selected options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicie o servidor da Web com as opções selecionadas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="71"/>
         <source>Stop server</source>
-        <translation type="unfinished"></translation>
+        <translation>Parar o servidor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="74"/>
         <source>Stop the web server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pare o servidor da Web.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="77"/>
         <source>Open static pages in external browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir páginas estáticas em um navegador externo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="79"/>
         <source>Open a connection to the server on the local machine with your system browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra uma conexão com o servidor no computador local com o navegador do sistema.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="82"/>
         <source>Open static pages in internal browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir páginas estáticas no navegador interno</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="84"/>
         <source>Open a connection with Qt to the server on the local machine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra uma conexão com o Qt para o servidor na máquina local.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="94"/>
         <source>Clear Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar o registro</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="96"/>
         <source>Clear the log window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar a janela de registro.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="105"/>
@@ -12373,72 +12377,72 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="114"/>
         <source>Enable Cross Origin Resource Sharing (stop server to change option). Warning: this option allows any web page to access the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir Compartilhamento de Recursos de Origem Cruzada (parar o servidor para alterar a opção). Aviso: esta opção permite que qualquer página da web acesse o servidor.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="114"/>
         <source>Enable CORS: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar CORS: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="118"/>
         <source>Enable remote control of Slicer application (stop server to change option)</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar controle remoto da aplicação Slicer (parar o servidor para alterar a opção)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="118"/>
         <source>Slicer API: </source>
-        <translation type="unfinished"></translation>
+        <translation>API do Slicer: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
         <source>Enable execution of arbitrary Python command using Slicer API. It only has effect if Slicer API is enabled, too (stop server to change option).</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar a execução de comandos Python arbitrários usando a API do Slicer. Tem efeito apenas se a API do Slicer também estiver habilitada (parar o servidor para alterar a opção).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
         <source>Slicer API exec: </source>
-        <translation type="unfinished"></translation>
+        <translation>Execução da API do Slicer: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
         <source>Enable serving Slicer DICOM database content via DICOMweb (stop server to change option)</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar o fornecimento de conteúdo do banco de dados DICOM do Slicer via DICOMweb (parar o servidor para alterar a opção)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="128"/>
         <source>DICOMweb API: </source>
-        <translation type="unfinished"></translation>
+        <translation>API DICOMweb </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
         <source>Enable serving static pages (stop server to change option)</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar a veiculação de páginas estáticas (parar o servidor para alterar a opção)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
         <source>Static pages: </source>
-        <translation type="unfinished"></translation>
+        <translation>Páginas estáticas: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
         <source>Copy log messages to the python console and parent terminal (disable to improve performance)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie as mensagens de registro para o console do python e o terminal principal (desative para melhor desempenho)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
         <source>Log to Console: </source>
-        <translation type="unfinished"></translation>
+        <translation>Registrar no console: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="142"/>
         <source>Copy log messages to the log widget (disable to improve performance)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar mensagens de registro para o widget de registro (desative para melhor desempenho)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="142"/>
         <source>Log to GUI: </source>
-        <translation type="unfinished"></translation>
+        <translation>Registrar na GUI: </translation>
     </message>
 </context>
 <context>
@@ -15577,14 +15581,16 @@ Pressione e segure o botão para acessar as opções avançadas de conversão e 
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="281"/>
         <source>Create %1 representation using custom conversion parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar representação de %1 usando parâmetros de conversão personalizados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="316"/>
         <source>Failed to convert %1 to %2!
 
 Probably there is no valid conversion path between the source representation and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao converter %1 para %2!
+
+Provavelmente não há um caminho de conversão válido entre a representação de origem e %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="415"/>
@@ -15599,7 +15605,12 @@ This may mean losing important data that cannot be created again from the new so
 (Reminder: Source representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing source representation?</source>
-        <translation type="unfinished"></translation>
+        <translation>A alteração da representação da origem fará com que a representação &quot;padrão ouro&quot; seja selecionada e resultará na exclusão de todas as outras representações.
+Isso pode significar a perda de dados importantes que não podem ser criados novamente a partir da nova representação de origem.
+
+(Lembrete: a representação de origem é o tipo de dados salvo no disco e usado como entrada ao criar outras representações)
+
+Deseja continuar com a alteração da representação de origem?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="318"/>
@@ -15609,7 +15620,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="338"/>
         <source>Advanced segmentation conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversão de segmentação avançada</translation>
     </message>
     <message>
         <source>Confirm master representation change</source>
@@ -15656,27 +15667,27 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="93"/>
         <source>Experimental</source>
-        <translation type="unfinished"></translation>
+        <translation>Experimental</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="97"/>
         <source>Use Surface Nets (fast)</source>
-        <translation type="unfinished"></translation>
+        <translation>Use redes de superfície (rápido)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="99"/>
         <source>Create closed surface using surface nets. By default, flying edges is used. Surface nets are more performant.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crie uma superfície fechada usando redes de superfície. Por padrão, usam-se bordas voadoras. As redes de superfície são mais eficientes.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="105"/>
         <source>Use Surface Nets Smoothing (faster)</source>
-        <translation type="unfinished"></translation>
+        <translation>Use suavização de redes de superfície (mais rápido)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="107"/>
         <source>Use surface nets internal smoothing (more performant). vtkWindowedSincPolyDataFilter is used by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Use a suavização interna de redes de superfície (mais eficiente). Por padrão, utiliza-se vtkWindowedSincPolyDataFilter.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="114"/>
@@ -15699,7 +15710,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="129"/>
         <source>Layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Camada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="138"/>
@@ -15729,32 +15740,32 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="471"/>
         <source>Not started</source>
-        <translation type="unfinished"></translation>
+        <translation>Não iniciado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="476"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Em progresso</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="480"/>
         <source>Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Concluído</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="484"/>
         <source>Flagged</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinalizado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1055"/>
         <source>No terminology information</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem informação terminológica</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1060"/>
         <source>Invalid terminology information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informação terminológica inválida</translation>
     </message>
 </context>
 <context>
@@ -15807,32 +15818,32 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1015"/>
         <source>Show only selected segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar apenas os segmentos selecionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1021"/>
         <source>Jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Pular fatias</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1027"/>
         <source>Move selected segments up</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover os segmentos selecionados para cima</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1031"/>
         <source>Move selected segments down</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover os segmentos selecionados para baixo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1038"/>
         <source>Show filter bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar barra de filtro</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1044"/>
         <source>Show layer column</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar coluna de camadas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1065"/>
@@ -15842,22 +15853,22 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1072"/>
         <source>Show in 2D as fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar em 2D como preenchimento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1079"/>
         <source>Show in 2D as outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar em 2D como um contorno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1103"/>
         <source>Clear selected segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar segmentos selecionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1173"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1174"/>
@@ -15867,7 +15878,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1176"/>
         <source>Are you sure you want to clear the contents of the selected segments?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tem certeza de que deseja limpar o conteúdo dos segmentos selecionados?</translation>
     </message>
 </context>
 <context>
@@ -15941,7 +15952,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="20"/>
         <source>Edit sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar sequência</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="44"/>
@@ -15982,18 +15993,18 @@ Deseja prosseguir com a alteração da representação principal?</translation>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="174"/>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="223"/>
         <source>Increment index by this much after adding a data node</source>
-        <translation type="unfinished"></translation>
+        <translation>Incrementar o índice nesse valor após adicionar um nó de dados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="190"/>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="240"/>
         <source>Use node name as index value</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar o nome do nó como valor de índice</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="193"/>
         <source>Use node name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Use o nome do nó:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="200"/>
@@ -16004,7 +16015,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="203"/>
         <source>Auto-advance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanço automático:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="226"/>
@@ -16138,7 +16149,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="632"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar a Reconstrução de Lajes Espessas (TSR). Ela é usada para mesclar fatias contíguas em uma determinada faixa.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="649"/>
@@ -16190,12 +16201,12 @@ Deseja prosseguir com a alteração da representação principal?</translation>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="779"/>
         <source>Enable Thick Slab Reconstruction</source>
         <oldsource>Show Slab Reconstruction</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ativar a Reconstrução de Lajes Espessas</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="787"/>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Interativo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="795"/>
@@ -16470,7 +16481,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1212"/>
         <source>Set slab reconstruction type to Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir o tipo de reconstrução de laje como Máximo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1220"/>
@@ -16480,7 +16491,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1223"/>
         <source>Set slab reconstruction type to Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir o tipo de reconstrução de laje como Mínimo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1231"/>
@@ -16490,7 +16501,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1234"/>
         <source>Set slab reconstruction type to Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir o tipo de reconstrução de laje como Meio</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1242"/>
@@ -16500,7 +16511,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1245"/>
         <source>Set slab reconstruction type to Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir o tipo de reconstrução de laje como Soma</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1254"/>
@@ -16676,12 +16687,12 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1593"/>
         <source>Thick slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstrução de lâmina espessa</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1603"/>
         <source>Slab thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>Espessura da laje</translation>
     </message>
 </context>
 <context>
@@ -16982,12 +16993,12 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="254"/>
         <source>Toggle visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar visibilidade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="271"/>
         <source>Interaction in 3D view</source>
-        <translation type="unfinished"></translation>
+        <translation>Interação na visualização 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="273"/>
@@ -16997,7 +17008,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="277"/>
         <source>Edit transform properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar propriedades de transformação...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="278"/>
@@ -17017,7 +17028,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="287"/>
         <source>Create new transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar nova transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="288"/>
@@ -17037,12 +17048,12 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
         <source>Expand tree to level...</source>
-        <translation type="unfinished"></translation>
+        <translation>Expandir a árvore até ao nível...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="396"/>
         <source>Select plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o plugin</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2043"/>
@@ -17066,12 +17077,12 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="138"/>
         <source>Unit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidade: %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="171"/>
         <source>Properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades:</translation>
     </message>
 </context>
 <context>
@@ -17079,7 +17090,7 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="481"/>
         <source>Column %1 is invalid. Failed to generate a plot</source>
-        <translation type="unfinished"></translation>
+        <translation>A coluna %1 é inválida. Falha ao gerar um gráfico</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="483"/>
@@ -17091,17 +17102,17 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="489"/>
         <source>Type of column %1 is &apos;bit&apos;. Plotting of these types are currently not supported. Please convert the data type of this column to numeric using Table module&apos;s Column properties section, or select different columns for plotting.</source>
-        <translation type="unfinished"></translation>
+        <translation>O tipo da coluna %1 é &apos;bit&apos;. A plotagem desses tipos não é atualmente suportada. Por favor, converta o tipo de dados desta coluna para numérico utilizando a seção Propriedades de Coluna do módulo Tabela ou selecione colunas diferentes para plotagem.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="505"/>
         <source>Multiple &apos;string&apos; type of columns are selected for plotting (%1, %2) but only one is allowed. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Múltiplas colunas do tipo &apos;string&apos; foram selecionadas para plotagem (%1, %2), mas apenas uma é permitida. Por favor, altere a seleção ou converta o tipo de dados desta coluna para numérico utilizando a seção &apos;Propriedades de Coluna&apos; do módulo Tabela.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="521"/>
         <source>A single &apos;string&apos; type column is selected. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uma única coluna do tipo &apos;string&apos; foi selecionada. Por favor, altere a seleção ou converta o tipo de dados desta coluna para numérico, utilizando a seção &apos;Propriedades de Coluna&apos; do módulo Tabela.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
@@ -17188,12 +17199,12 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="377"/>
         <source>Click to unlock this table so that values can be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique para desbloquear essa tabela para que os valores possam ser modificados</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="382"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique para bloquear essa tabela e impedir a modificação dos valores na interface do usuário</translation>
     </message>
 </context>
 <context>
@@ -17283,7 +17294,7 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
         <source>Display shadows for improved depth perception</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir sombras para melhorar a percepção de profundidade</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="216"/>
@@ -17549,22 +17560,22 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="600"/>
         <source>Stereo viewing</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualização estereoscópica</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="603"/>
         <source>Select stereo viewing mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar modo de visualização estereoscópica</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="611"/>
         <source>Shadows visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidade das sombras</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="614"/>
         <source>Make objects cast shadows to improve depth perception</source>
-        <translation type="unfinished"></translation>
+        <translation>Faça com que os objetos projetem sombras para melhorar a percepção de profundidade</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="231"/>
@@ -17597,27 +17608,27 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="276"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombras</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="285"/>
         <source>Size scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de tamanho</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="288"/>
         <source>Size of features to be emphasized by shadows. The scale is logarithmic, default (0.0) corresponds to object size of about 100mm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho dos recursos a serem enfatizados pelas sombras. A escala é logarítmica, o padrão (0,0) corresponde ao tamanho do objeto de aproximadamente 100 mm.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="305"/>
         <source>Volume opacity threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite de opacidade do volume</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="308"/>
         <source>Volume rendering opacity above this will cast shadows.</source>
-        <translation type="unfinished"></translation>
+        <translation>A opacidade de renderização de volume acima disso criará sombras.</translation>
     </message>
 </context>
 <context>
@@ -18738,7 +18749,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="32"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidores</translation>
     </message>
 </context>
 <context>
@@ -18800,7 +18811,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="84"/>
         <source>Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="97"/>
@@ -19085,32 +19096,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="136"/>
         <source>Initializing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="165"/>
         <source>Registering modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro de módulos...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="173"/>
         <source>Instantiating modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanciando módulos...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="178"/>
         <source>Instantiating module &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanciando o módulo &quot;%1&quot;...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="206"/>
         <source>Initializing user interface...</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando a interface do usuário...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="229"/>
         <source>Loading module &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregando o módulo &quot;%1&quot;...</translation>
     </message>
 </context>
 <context>
@@ -22690,7 +22701,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="212"/>
         <source>This work was supported by NAMIC, NAC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho teve o apoio do NAMIC, do NAC e da Comunidade Slicer.</translation>
     </message>
 </context>
 <context>
@@ -22756,17 +22767,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="271"/>
         <source>Visibility On</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidade ativada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="272"/>
         <source>Set visibility flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar o indicador de visibilidade para todos os pontos de controle na marcação ativa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="280"/>
         <source>Visibility Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidade desativada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="281"/>
