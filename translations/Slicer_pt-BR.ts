@@ -8657,7 +8657,7 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 (See &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este trabalho é apoiado por PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 (Ver &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.
@@ -8666,12 +8666,12 @@ NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="107"/>
         <source>Path</source>
-        <translation type="unfinished">Caminho</translation>
+        <translation>Caminho</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="116"/>
         <source>Select a camera that will fly along this path.</source>
-        <translation type="unfinished">Selecione uma câmera que voará ao longo deste caminho.</translation>
+        <translation>Selecione uma câmera que voará ao longo deste caminho.</translation>
     </message>
     <message>
         <source>Select a fiducial list to define control points for the path.</source>
@@ -8723,7 +8723,7 @@ O controle deslizante &quot;Ângulo de visão&quot; é usado para aproximar a ó
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"/>
         <source>Camera:</source>
-        <translation type="unfinished">Câmera:</translation>
+        <translation>Câmera:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="128"/>
@@ -8759,7 +8759,7 @@ O controle deslizante &quot;Ângulo de visão&quot; é usado para aproximar a ó
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="160"/>
         <source>Frame:</source>
-        <translation type="unfinished">Quadro:</translation>
+        <translation>Quadro:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="166"/>
@@ -8835,7 +8835,7 @@ O controle deslizante &quot;Ângulo de visão&quot; é usado para aproximar a ó
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="230"/>
         <source>Next</source>
-        <translation type="unfinished">Próximo</translation>
+        <translation>Próximo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="232"/>
@@ -8855,7 +8855,7 @@ O controle deslizante &quot;Ângulo de visão&quot; é usado para aproximar a ó
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="250"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avançado</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="262"/>
@@ -8924,17 +8924,17 @@ O controle deslizante &quot;Ângulo de visão&quot; é usado para aproximar a ó
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="73"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentação</translation>
+        <translation>Segmentação</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="88"/>
         <source>Failed to load file: </source>
-        <translation type="unfinished">Falha ao carregar arquivo: </translation>
+        <translation>Falha ao carregar arquivo: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="143"/>
         <source>Syntax error in line {line}</source>
-        <translation type="unfinished">Erro de sintaxe na linha {line}</translation>
+        <translation>Erro de sintaxe na linha {line}</translation>
     </message>
 </context>
 <context>
@@ -8962,7 +8962,7 @@ O controle deslizante &quot;Ângulo de visão&quot; é usado para aproximar a ó
         <source>
 This module provides data sets that can be used for testing 3D Slicer.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este módulo fornece conjuntos de dados que podem ser usados para testar o Slicer 3D.
 </translation>
     </message>
@@ -8981,143 +8981,142 @@ with a permissive copyright-license (&lt;a href=&quot;https://creativecommons.or
 and is exclusively available for research and teaching. You are not authorized to redistribute or sell it, or
 use it for commercial purposes.&lt;/p&gt;
 </source>
-        <translation type="unfinished">
+        <translation>
 &lt;p&gt; Este trabalho foi financiado em parte pelo Cancer Care Ontario
 e pelo Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)&lt;/p&gt;
 
 &lt;p&gt;Os conjuntos de dados MRHead, CBCT-MR Head e CT-MR Brain foram doados ao projeto 3D Slicer pelas pessoas visíveis nas imagens, para serem utilizados sem quaisquer restrições. &lt;/p&gt;
 
-&lt;p&gt;O conjunto de dados CTLiver é proviniente de &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;Projeto de Decatlo médico&lt;/a&gt; (imagesTr/liver_100.nii.gz na coleção Task03_Liver)
+&lt;p&gt;O conjunto de dados CTLiver é proveniente de &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;Projeto de Decatlo médico&lt;/a&gt; (imagesTr/liver_100.nii.gz na coleção Task03_Liver)
 com licença de copyright (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), permitindo que os dados sejam compartilhados, distribuídos e melhorados.&lt;/p&gt;
 
-&lt;p&gt;O conjunto de dados CTA abdomen (Panoramix) é proviniente de &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM biblioteca de imagem&lt;/a&gt;
-e está exclusivamente disponível para pesquisa e ensino. Você não está autorizado a redistribuí-lo ou vendê-lo, ou
+&lt;p&gt;O conjunto de dados CTA abdômen (Panoramix) é proveniente de &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM biblioteca de imagem&lt;/a&gt;
+e está exclusivamente disponível para pesquisa e ensino. Você não está autorizado a redistribuí-lo ou vendê-lo ou
 usá-lo para fins comerciais.&lt;/p&gt;
 </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="113"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">Baixar dados de exemplo</translation>
+        <translation>Baixar dados de exemplo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="114"/>
         <source>Go to the SampleData module to download data from the network</source>
-        <translation type="unfinished">Vá para o módulo SampleData para baixar dados da rede</translation>
+        <translation>Vá para o módulo SampleData para baixar dados da rede</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="512"/>
         <source>General</source>
-        <translation type="unfinished">Geral</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="513"/>
         <source>Development</source>
-        <translation type="unfinished">Desenvolvimento</translation>
+        <translation>Desenvolvimento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="635"/>
         <source>Failed to create cache folder {path}</source>
-        <translation type="unfinished">Falha para criar pasta de cache {path}</translation>
+        <translation>Falha ao criar pasta de cache {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="637"/>
         <source>Cache folder {path} is not writable</source>
-        <translation type="unfinished">A pasta de cache {path} não é gravável</translation>
+        <translation>A pasta de cache {path} não é gravável</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="682"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation type="unfinished">Download falhou (tentativa {current} de {total})...</translation>
+        <translation>O download falhou (tentativa {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="721"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation type="unfinished">Carregamento falhou (tentativa {current} de {total}). Incapaz de apagar e tentar carregar
-novamente{path}</translation>
+        <translation>Carregamento falhou (tentativa {current} de {total}). Incapaz de apagar e tentar carregar novamente{path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="725"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation type="unfinished">Carregamento falhou (tentativa {current} de {total})...</translation>
+        <translation>Carregamento falhou (tentativa {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="857"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation type="unfinished">Baixado {sizeCompleted} ({percentCompleted}% de {sizeTotal})...</translation>
+        <translation>Baixado {sizeCompleted} ({percentCompleted}% de {sizeTotal})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="874"/>
         <source>Requesting download {name} from {uri} ...</source>
-        <translation type="unfinished">Requisitando download {name} de {uri} ...</translation>
+        <translation>Solicitando o download {name} de {uri} ...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="877"/>
         <source>Download finished</source>
-        <translation type="unfinished">Download finalizado</translation>
+        <translation>Download finalizado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="879"/>
         <source>Download failed: {errorMessage}</source>
-        <translation type="unfinished">Download falhou: {errorMessage}</translation>
+        <translation>O download falhou: {errorMessage}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="880"/>
         <source>Failed to download {uri} to {filePath}</source>
-        <translation type="unfinished">Falha para baixar {uri} para {filePath}</translation>
+        <translation>Falha para baixar {uri} para {filePath}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="883"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="895"/>
         <source>Verifying checksum</source>
-        <translation type="unfinished">Verificando checksum</translation>
+        <translation>Verificando a soma de verificação</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="887"/>
         <source>Checksum verification failed. Computed checksum {currentChecksum} different from expected checksum {expectedChecksum}</source>
-        <translation type="unfinished">Verificação de checksum falhou. Checksum calculado {currentChecksum} diferente do checksum esperado {expectedChecksum}</translation>
+        <translation>A verificação da soma de verificação falhou. Soma de verificação calculada {currentChecksum} é diferente da soma de verificação esperada {expectedChecksum}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="892"/>
         <source>Checksum OK</source>
-        <translation type="unfinished">Checksum OK</translation>
+        <translation>Soma de verificação OK</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="898"/>
         <source>File already exists in cache but checksum is different - re-downloading it.</source>
-        <translation type="unfinished">O arquivo já existe em cache, mas o checksum é diferente. Baixando-o novamente.</translation>
+        <translation>O arquivo já existe em cache, mas a soma de verificação é diferente - baixando-o novamente.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="903"/>
         <source>File already exists and checksum is OK - reusing it.</source>
-        <translation type="unfinished">O arquivo já existe e o checksum está OK - reutilizando-o.</translation>
+        <translation>O arquivo já existe e a soma de verificação está OK - reutilizando-o.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="906"/>
         <source>File already exists in cache - reusing it.</source>
-        <translation type="unfinished">O arquivo já existe em cache - reutilizando-o.</translation>
+        <translation>O arquivo já existe em cache - reutilizando-o.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="910"/>
         <source>Requesting load {uri}</source>
-        <translation type="unfinished">Requisitando carga {uri}</translation>
+        <translation>Solicitando carga {uri}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="914"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="929"/>
         <source>Load failed!</source>
-        <translation type="unfinished">Carregamento falhou!</translation>
+        <translation>Carregamento falhou!</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="916"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="932"/>
         <source>Load finished</source>
-        <translation type="unfinished">Carregamento finalizado</translation>
+        <translation>Carregamento finalizado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="920"/>
         <source>Requesting load {name} from {uri} ...</source>
-        <translation type="unfinished">Requisitando carga {name} de {uri} ...</translation>
+        <translation>Solicitando carga {name} de {uri} ...</translation>
     </message>
 </context>
 <context>
@@ -9208,7 +9207,7 @@ novamente{path}</translation>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="27"/>
         <source>Screen Capture</source>
-        <translation type="unfinished">Captura de tela</translation>
+        <translation>Captura de tela</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="34"/>
@@ -9216,7 +9215,7 @@ novamente{path}</translation>
 This module captures image sequences and videos
 from dynamic contents shown in 3D and slice viewers.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este módulo capta sequências de imagens e vídeos
 de conteúdo dinâmico mostrado em 3D e visualizadores de fatia.
 </translation>
@@ -9227,15 +9226,15 @@ de conteúdo dinâmico mostrado em 3D e visualizadores de fatia.
 This work was was funded by Cancer Care Ontario
 and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 </source>
-        <translation type="unfinished">
+        <translation>
 Este trabalho foi financiado por Cancer Care Ontario
-e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
+e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="77"/>
         <source>Input</source>
-        <translation type="unfinished">Entrada</translation>
+        <translation>Entrada</translation>
     </message>
     <message>
         <source>This slice or 3D view will be updated during capture.Only this view will be captured unless &apos;Capture of all views&apos; option in output section is enabled.</source>
@@ -9244,17 +9243,17 @@ e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="91"/>
         <source>Main view: </source>
-        <translation type="unfinished">Visão principal: </translation>
+        <translation>Visão principal: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="95"/>
         <source>If checked, all views will be captured. If unchecked then only the selected view will be captured.</source>
-        <translation type="unfinished">Se verificado, todas as vistas serão capturadas. Se desmarcado, somente a visualização selecionada será capturada.</translation>
+        <translation>Se marcado, todas as visualizações serão capturadas. Se desmarcado, apenas a visualização selecionada será capturada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="96"/>
         <source>Capture all views:</source>
-        <translation type="unfinished">Capture todas as visões:</translation>
+        <translation>Capture todas as visões:</translation>
     </message>
     <message>
         <source>Select the property that will be adjusted</source>
@@ -9267,22 +9266,22 @@ e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="104"/>
         <source>Start sweep offset:</source>
-        <translation type="unfinished">Desvio do varrimento inicial:</translation>
+        <translation>Iniciar varredura com deslocamento:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="110"/>
         <source>Start slice sweep offset.</source>
-        <translation type="unfinished">Deslocação da varredura do corte inicial.</translation>
+        <translation>Iniciar varredura de fatia com deslocamento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="114"/>
         <source>End sweep offset:</source>
-        <translation type="unfinished">Desvio do varrimento final:</translation>
+        <translation>Fim do deslocamento da varredura:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="120"/>
         <source>End slice sweep offset.</source>
-        <translation type="unfinished">Deslocação da varredura do corte final.</translation>
+        <translation>Fim do deslocamento da varredura de fatia.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="124"/>
@@ -9297,7 +9296,7 @@ e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="135"/>
         <source>Rotation axis:</source>
-        <translation type="unfinished">Eixo de rotação:</translation>
+        <translation>Eixo de rotação:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
@@ -9312,7 +9311,7 @@ e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="143"/>
         <source>Sequence:</source>
-        <translation type="unfinished">Sequência:</translation>
+        <translation>Sequência:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="151"/>
@@ -9342,7 +9341,7 @@ e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="175"/>
         <source>Output</source>
-        <translation type="unfinished">Saída</translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
@@ -9403,7 +9402,7 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="220"/>
         <source>SlicerCapture.mp4</source>
         <oldsource>SlicerCapture.avi</oldsource>
-        <translation type="unfinished">SlicerCapture.avi</translation>
+        <translation>SlicerCapture.mp4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="221"/>
@@ -9463,7 +9462,7 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="267"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avançado</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="273"/>
@@ -9547,12 +9546,12 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="327"/>
         <source>Screenshot</source>
-        <translation type="unfinished">Captura de tela</translation>
+        <translation>Captura de tela</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="331"/>
         <source>Select a volume node to store the captured image in the scene instead of just writing immediately to disk. Requires output &apos;Number of images&apos; to be set to 1.</source>
-        <translation type="unfinished">Selecione um nó de volume para armazenar a imagem capturada na cena em vez de apenas escrever imediatamente para o disco. Requer saída &apos;Número de imagens&apos; seja definida para 1.</translation>
+        <translation>Selecione um nó de volume para armazenar a imagem capturada na cena em vez de apenas escrever imediatamente para o disco. Requer que a saída &apos;Número de imagens&apos; seja definida para 1.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="333"/>
@@ -9607,22 +9606,22 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="398"/>
         <source>Position:</source>
-        <translation type="unfinished">Posição:</translation>
+        <translation>Posição:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="400"/>
         <source>Size:</source>
-        <translation type="unfinished">Tamanho:</translation>
+        <translation>Tamanho:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="402"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacidade:</translation>
+        <translation>Opacidade:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="405"/>
         <source>Watermark image:</source>
-        <translation type="unfinished">Imagem de marca d&apos;água:</translation>
+        <translation>Imagem de marca d&apos;água:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="413"/>
@@ -9632,7 +9631,7 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="414"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="416"/>
@@ -9845,7 +9844,7 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="15"/>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="118"/>
         <source>Segment Editor</source>
-        <translation type="unfinished">Editor de Segmento</translation>
+        <translation>Editor de Segmento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="23"/>
@@ -9854,11 +9853,10 @@ This module allows editing segmentation objects by directly drawing and using se
 Representations other than the labelmap one (which is used for editing) are automatically updated real-time,
 so for example the closed surface can be visualized as edited in the 3D view.
 </source>
-        <translation type="unfinished">
-Este módulo permite editar objetos de segmentação através do desenho direto e usando ferramentas de segmentação nos segmentos contidos.
-As representações diferentes do mapa de etiquetas (que é utilizado para a edição) são atualizadas automaticamente em tempo real,
-por exemplo, a superfície fechada pode ser visualizada como editada na visualização 3D.
-.
+        <translation>
+Este módulo permite editar objetos de segmentação por meio do desenho direto e de ferramentas de segmentação nos segmentos contidos.
+As representações diferentes do mapa de rótulos (utilizado para a edição) são atualizadas automaticamente em tempo real,
+então, por exemplo, a superfície fechada pode ser visualizada como editada na visualização 3D.
 </translation>
     </message>
     <message>
@@ -9867,15 +9865,15 @@ por exemplo, a superfície fechada pode ser visualizada como editada na visualiz
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished">
-Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU do Cancer Care Ontario (CCO)
-e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+        <translation>
+Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU da Cancer Care Ontario (CCO) 
+e pelo Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="118"/>
         <source>Segment Editor is not compatible with slice viewers in light box mode.Views are being reset.</source>
-        <translation type="unfinished">O Editor de Segmento não é compatível com visualizadores de fatia no modo caixa de luz. As visualizações estão a ser reiniciadas.</translation>
+        <translation>O Editor de Segmento não é compatível com os visualizadores de fatia no modo caixa de luz. As visualizações estão sendo redefinidas.</translation>
     </message>
 </context>
 <context>
@@ -9914,7 +9912,7 @@ e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="121"/>
         <source>Show 3D</source>
-        <translation type="unfinished">Mostrar 3D</translation>
+        <translation>Mostrar 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="122"/>
@@ -9939,7 +9937,7 @@ e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="132"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="134"/>
@@ -9949,7 +9947,7 @@ e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="136"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="138"/>
@@ -9964,7 +9962,7 @@ e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="255"/>
         <source>Update</source>
-        <translation type="unfinished">Atualização</translation>
+        <translation>Atualização</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="286"/>
@@ -10152,12 +10150,12 @@ O efeito utiliza o &lt;a href=&quot;https://insight-journal.org/browse/publicati
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="72"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished">Aplicar a segmentos visíveis:</translation>
+        <translation>Aplicar a segmentos visíveis:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="74"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="76"/>
@@ -10277,7 +10275,7 @@ sobre cada operação, passe o mouse sobre a opção e aguarde a exibição da d
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="99"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="399"/>
@@ -10352,7 +10350,7 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="52"/>
         <source>Copy</source>
-        <translation type="unfinished">Copiar</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="53"/>
@@ -10362,7 +10360,7 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="54"/>
         <source>Subtract</source>
-        <translation type="unfinished">Subtrair</translation>
+        <translation>Subtrair</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="55"/>
@@ -10372,7 +10370,7 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="56"/>
         <source>Invert</source>
-        <translation type="unfinished">Inverter</translation>
+        <translation>Inverter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
@@ -10402,12 +10400,12 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="65"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="72"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operação:</translation>
+        <translation>Operação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="74"/>
@@ -10471,7 +10469,7 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="47"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operação:</translation>
+        <translation>Operação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="52"/>
@@ -10496,12 +10494,12 @@ lista de segmentos nas opções de efeito - abaixo.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="69"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished">Aplicar a segmentos visíveis:</translation>
+        <translation>Aplicar a segmentos visíveis:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="72"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="74"/>
@@ -10570,7 +10568,7 @@ A operação de preenchimento dentro e fora cria um volume de mapa de rótulos b
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="67"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operação:</translation>
+        <translation>Operação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="71"/>
@@ -10647,7 +10645,7 @@ A operação de preenchimento dentro e fora cria um volume de mapa de rótulos b
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="164"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="166"/>
@@ -10699,7 +10697,7 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="49"/>
         <source>Median</source>
-        <translation type="unfinished">Médio</translation>
+        <translation>Mediano</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="50"/>
@@ -10769,12 +10767,12 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="95"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished">Aplicar a segmentos visíveis:</translation>
+        <translation>Aplicar a segmentos visíveis:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="98"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="100"/>
@@ -10807,7 +10805,7 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="28"/>
         <source>Threshold</source>
-        <translation type="unfinished">Limiar</translation>
+        <translation>Limiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="86"/>
@@ -10966,39 +10964,39 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="316"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="333"/>
         <source>Lower</source>
-        <translation type="unfinished">Inferior</translation>
+        <translation>Inferior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="325"/>
         <source>Min</source>
-        <translation type="unfinished">Mín</translation>
+        <translation>Mín</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="326"/>
         <source>Minimum</source>
-        <translation type="unfinished">Mínimo</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="340"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="358"/>
         <source>Mean</source>
-        <translation type="unfinished">Média</translation>
+        <translation>Média</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="349"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="365"/>
         <source>Upper</source>
-        <translation type="unfinished">Superior</translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="372"/>
         <source>Max</source>
-        <translation type="unfinished">Máx</translation>
+        <translation>Máx</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="373"/>
         <source>Maximum</source>
-        <translation type="unfinished">Máximo</translation>
+        <translation>Máximo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="380"/>
@@ -11018,7 +11016,7 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="389"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="391"/>
@@ -11306,7 +11304,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="405"/>
         <source>Voxel count</source>
-        <translation type="unfinished">voxels</translation>
+        <translation>Contagem de Vóxeis</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="406"/>
@@ -11596,13 +11594,13 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="14"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished">Volume Escalar</translation>
+        <translation>Volume Escalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="149"/>
         <source>Voxel count</source>
         <oldsource>voxels</oldsource>
-        <translation type="unfinished">voxels</translation>
+        <translation>Contagem de Vóxeis</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="151"/>
@@ -11771,9 +11769,9 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
 The SelfTests module allows developers to provide built-in self-tests (BIST) for slicer so that users can tell
 if their installed version of slicer are running as designed.
 </source>
-        <translation type="unfinished">
-O módulo SelfTests permite que os desenvolvedores forneçam auto-teste integrado (BIST) para slicer para que os usuários possam contar
-se a versão instalada do slicer está rodando como projetada.
+        <translation>
+O módulo SelfTests permite que os desenvolvedores forneçam autoteste integrado (BIST) para Slicer, para os usuários poderem contar
+se a versão instalada do Slicer está rodando como projetada.
 </translation>
     </message>
     <message>
@@ -11782,9 +11780,9 @@ se a versão instalada do slicer está rodando como projetada.
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished">
-Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU do Cancer Care Ontario (CCO)
-e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+        <translation>
+Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU (Adaptive Cancer Research Unit) da Cancer Care Ontario (CCO) 
+e pelo Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </translation>
     </message>
 </context>
@@ -11909,12 +11907,12 @@ e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="28"/>
         <source>Segment this...</source>
-        <translation type="unfinished">Segment este...</translation>
+        <translation>Segmente isso...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="106"/>
         <source>_Segmentation</source>
-        <translation type="unfinished">_Segmentation</translation>
+        <translation>_Segmentação</translation>
     </message>
 </context>
 <context>
@@ -11922,7 +11920,7 @@ e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SubjectHierarchyPlugins/SegmentStatisticsSubjectHierarchyPlugin.py" line="27"/>
         <source>Calculate statistics...</source>
-        <translation type="unfinished">Calcular estatísticas...</translation>
+        <translation>Calcular estatísticas...</translation>
     </message>
 </context>
 <context>
@@ -12186,7 +12184,7 @@ e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="59"/>
         <source>Vector to Scalar Volume</source>
-        <translation type="unfinished">Vetor para Volume Escalar</translation>
+        <translation>Vetor para Volume Escalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="75"/>
@@ -12201,7 +12199,7 @@ e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
     &lt;li&gt;computes the mean of all the components.&lt;/li&gt;
     &lt;/ul&gt;
     </source>
-        <translation type="unfinished">
+        <translation>
     &lt;p&gt; Faça um volume escalar (1 componente) de um volume vetorial.&lt;/p&gt;
 
     &lt;p&gt;Ele fornece vários modos de conversão:&lt;/p&gt;
@@ -12220,76 +12218,76 @@ Developed by Steve Pieper, Isomics, Inc.,
 partially funded by NIH grant 3P41RR013218-12S1 (NAC) and is part of the National Alliance
 for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the
 NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">
+        <translation>
 Desenvolvido por Steve Pieper, Isomics, Inc.,
-parcialmente financiado pela bolsa NIH 3P41RR013218-12S1 (NAC) e faz parte da National Alliance
-for Medical Image Computing (NA-MIC), financiado pelos Institutos Nacionais de Saúde através do
-NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+parcialmente financiado pela bolsa do NIH 3P41RR013218-12S1 (NAC) e faz parte da National Alliance 
+for Medical Image Computing (NA-MIC), financiada pelos Institutos Nacionais de Saúde (NIH) por meio do 
+Plano de Pesquisa Médica do NIH, Financiamento U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="89"/>
         <source>Luminance</source>
-        <translation type="unfinished">Luminância</translation>
+        <translation>Luminância</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="90"/>
         <source>(RGB,RGBA) Luminance from first three components: 0.30*R + 0.59*G + 0.11*B + 0.0*A)</source>
-        <translation type="unfinished">(RGB,RGBA) Luminância dos três primeiros componentes: 0,30*R + 0,59*G + 0,11*B + 0,0*A)</translation>
+        <translation>(RGB,RGBA) Luminância dos três primeiros componentes: 0,30*R + 0,59*G + 0,11*B + 0,0*A)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="93"/>
         <source>Average</source>
-        <translation type="unfinished">Média</translation>
+        <translation>Média</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="94"/>
         <source>Average all the components.</source>
-        <translation type="unfinished">Média de todos os componentes.</translation>
+        <translation>Média de todos os componentes.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="97"/>
         <source>Single Component Extraction</source>
-        <translation type="unfinished">Extração de Componente Único</translation>
+        <translation>Extração de Componente Único</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="98"/>
         <source>Extract single component</source>
-        <translation type="unfinished">Extrair componente único</translation>
+        <translation>Extrair componente único</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="257"/>
         <source>Please select Input Vector Volume</source>
-        <translation type="unfinished">Por favor, selecione o Vetor de Volume de Entrada</translation>
+        <translation>Por favor, selecione o Vetor de Volume de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="259"/>
         <source>Please select Output Scalar Volume</source>
-        <translation type="unfinished">Por favor, selecione o Volume Escalar de Saída</translation>
+        <translation>Por favor, selecione o Volume Escalar de Saída</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="261"/>
         <source>Please select a component to extract</source>
-        <translation type="unfinished">Por favor, selecione um componente para extrair</translation>
+        <translation>Por favor, selecione um componente para extrair</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="285"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished">Falha ao calcular os resultados.</translation>
+        <translation>Falha ao calcular os resultados.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="321"/>
         <source>no input volume node defined</source>
-        <translation type="unfinished">nenhum nó de volume de entrada definido</translation>
+        <translation>nenhum nó de volume de entrada definido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="325"/>
         <source>no output volume node defined</source>
-        <translation type="unfinished">nenhum nó de volume de saída definido</translation>
+        <translation>nenhum nó de volume de saída definido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="330"/>
         <source>input and output volume is the same. Create a new volume for output to avoid this error.</source>
-        <translation type="unfinished">volume de entrada e saída são os mesmos. Crie um novo volume para a saída para evitar este erro.</translation>
+        <translation>volume de entrada e saída são os mesmos. Crie um novo volume para a saída para evitar este erro.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="348"/>
@@ -16978,7 +16976,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="243"/>
         <source>Edit properties...</source>
-        <translation type="unfinished">Editar propriedades...</translation>
+        <translation>Editar propriedades...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="248"/>
