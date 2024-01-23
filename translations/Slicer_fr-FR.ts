@@ -11725,7 +11725,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="147"/>
         <source>all</source>
-        <translation>tiut</translation>
+        <translation>tout</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="150"/>
