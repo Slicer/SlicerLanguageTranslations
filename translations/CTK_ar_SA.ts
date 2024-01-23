@@ -948,7 +948,7 @@ Do you want to remove the series from the DICOM database?</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1114"/>
         <source>(and %1 more)</source>
-        <translation type="unfinished"></translation>
+        <translation>(و%1 أكثر)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1146"/>
