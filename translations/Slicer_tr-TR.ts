@@ -6,7 +6,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Skaler Hacim Ekle</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
@@ -29563,7 +29563,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="318"/>
         <source>SQLight database</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SQLight veritabanı</translation>
     </message>
 </context>
 <context>
@@ -29592,21 +29592,21 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="165"/>
         <source>Text file</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Metin dosyası</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="156"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="167"/>
         <source>XML document</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>XML dosyası</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="158"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="169"/>
         <source>JSON document</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>JSON dosyası</translation>
     </message>
 </context>
 <context>
@@ -29635,7 +29635,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="685"/>
         <source>Unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation>İsimsiz</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="687"/>
