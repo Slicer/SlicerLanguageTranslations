@@ -8300,7 +8300,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="99"/>
         <source>harden regularization transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transformar la regularización harden</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="102"/>
@@ -8688,7 +8688,18 @@ The Frame Delay slider slows down the animation by adding more time between fram
 The View Angle provides is used to approximate the optics of an endoscopy system.
 You can save the camera position at any point by clicking &quot;Save camera position&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Crear o importar una curva de marcado.
+Seleccione la cámara que se utilizará para reproducir el sobrevuelo o para editar los fotogramas clave asociados.
+Seleccione la cámara que se utilizará para reproducir el paso elevado.
+Al hacer clic en &quot;Usar esta curva&quot; se creará una curva de sobrevuelo y se activará el panel de sobrevuelo.
+Puede desplazarse manualmente por la trayectoria con el control deslizante Fotograma.
+El botón Reproducir/Pausa activa el sobrevuelo animado.
+El deslizador Omitir fotograma acelera la animación saltando puntos del recorrido.
+El deslizador Retraso de fotograma ralentiza la animación añadiendo más tiempo entre fotogramas.
+El ángulo de visión proporciona se utiliza para aproximar la óptica de un sistema de endoscopia.
+Puede guardar la posición de la cámara en cualquier punto haciendo clic en &quot;Guardar posición de la cámara&quot;.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"/>
@@ -8698,12 +8709,12 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="128"/>
         <source>Select a curve to define control points for the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione una curva para definir los puntos de control de la trayectoria.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="133"/>
         <source>Curve to modify:</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva a modificar:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="140"/>
@@ -8714,12 +8725,12 @@ You can save the camera position at any point by clicking &quot;Save camera posi
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="148"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="418"/>
         <source>Play flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reproducir vista aérea</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="150"/>
         <source>Start or stop the flythrough animation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar o detener la animación de vista aérea.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="158"/>
