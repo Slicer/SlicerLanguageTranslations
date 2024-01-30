@@ -8816,7 +8816,7 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="230"/>
         <source>Next</source>
-        <translation type="unfinished">Siguiente</translation>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="232"/>
@@ -19081,22 +19081,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="173"/>
         <source>Instantiating modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección Z del cuadro delimitador orientado en coordenadas RAS. Calculada a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="178"/>
         <source>Instantiating module &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalando módulo &quot;%1&quot;...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="206"/>
         <source>Initializing user interface...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializando la interfaz de usuario...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="229"/>
         <source>Loading module &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando módulo &quot;%1&quot;...</translation>
     </message>
 </context>
 <context>
@@ -26715,12 +26715,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="282"/>
         <source>Shadows visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad de las sombras:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="289"/>
         <source>Show shadows by default to improve depth perception</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar sombras por defecto para mejorar la percepción de la profundidad</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="299"/>
@@ -26730,7 +26730,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="325"/>
         <source>Volume opacity threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral de opacidad del volumen:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="362"/>
@@ -26823,17 +26823,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="151"/>
         <source>Shadows visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad de las sombras</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="154"/>
         <source>Ambient shadows size scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de tamaño de las sombras ambientales</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="157"/>
         <source>Ambient shadows volume opacity threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral de opacidad del volumen de sombras ambientales</translation>
     </message>
 </context>
 <context>
@@ -28210,12 +28210,12 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="75"/>
         <source>The Tables module allows displaying and editing of spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>El módulo Tablas permite visualizar y editar hojas de cálculo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="83"/>
         <source>This work was was partially funded by OCAIRO, the Applied Cancer Research Unit program of Cancer Care Ontario, and Department of Anesthesia and Critical Care Medicine, Children&apos;s Hospital of Philadelphia.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este trabajo fue financiado parcialmente por OCAIRO, el programa de Applied Cancer Research Unit program of Cancer Care Ontario (Unidad de Investigación Aplicada del Cáncer de Cancer) de Care Ontario y el Department of Anesthesia and Children&apos;s Hospital of Philadelphia (Departamento de Anestesia y Medicina de Cuidados Críticos del Hospital Infantil de Filadelfia).</translation>
     </message>
 </context>
 <context>
@@ -30225,7 +30225,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="685"/>
         <source>Unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin nombre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="687"/>
