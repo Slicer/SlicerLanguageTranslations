@@ -12405,42 +12405,42 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
         <source>Enable serving Slicer DICOM database content via DICOMweb (stop server to change option)</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين تقديم محتوى قاعدة بيانات Slicer DICOM عبر DICOMweb (إيقاف الخادم لتغيير الخيار)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="128"/>
         <source>DICOMweb API: </source>
-        <translation type="unfinished"></translation>
+        <translation>واجهة برمجة التطبيقات DICOMweb: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
         <source>Enable serving static pages (stop server to change option)</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين تقديم صفحات ثابتة (إيقاف الخادم لتغيير الخيار)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
         <source>Static pages: </source>
-        <translation type="unfinished"></translation>
+        <translation>صفحات ثابتة: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
         <source>Copy log messages to the python console and parent terminal (disable to improve performance)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">قم بنسخ رسائل تسجيل الدخول إلى وحدة التحكم في البايثون والمحطة الأم (تعطيل لتحسين الأداء)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
         <source>Log to Console: </source>
-        <translation type="unfinished"></translation>
+        <translation>سجل إلى وحدة التحكم: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="142"/>
         <source>Copy log messages to the log widget (disable to improve performance)</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ سجل الرسائل إلى سجل الأدوات (تعطيل لتحسين الأداء)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="142"/>
         <source>Log to GUI: </source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدخول إلى واجهة المستخدم الرسومية: </translation>
     </message>
 </context>
 <context>
@@ -15665,27 +15665,27 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="93"/>
         <source>Experimental</source>
-        <translation type="unfinished"></translation>
+        <translation>تجريبي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="97"/>
         <source>Use Surface Nets (fast)</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم الشبكات السطحية (بسرعة)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="99"/>
         <source>Create closed surface using surface nets. By default, flying edges is used. Surface nets are more performant.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء سطح مغلق باستخدام الشباك السطحية. بشكل افتراضي، يتم استخدام الحواف الطائرة. الشباك السطحية أكثر أداءً.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="105"/>
         <source>Use Surface Nets Smoothing (faster)</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم تنعيم الشباك السطحية (أسرع)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="107"/>
         <source>Use surface nets internal smoothing (more performant). vtkWindowedSincPolyDataFilter is used by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم الشباك السطحية لتنعيم داخلي (أكثر أداءً). vtkWindowedSincPolyDataFilter يستخدم افتراضيًا.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="114"/>
@@ -17071,12 +17071,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="138"/>
         <source>Unit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الوحدة:%1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="171"/>
         <source>Properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص:</translation>
     </message>
 </context>
 <context>
@@ -17084,7 +17084,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="481"/>
         <source>Column %1 is invalid. Failed to generate a plot</source>
-        <translation type="unfinished"></translation>
+        <translation>العمود%1 غير صالح. فشل في توليد مؤامرة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="483"/>
