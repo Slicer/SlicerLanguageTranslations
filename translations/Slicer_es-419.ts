@@ -30230,7 +30230,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="687"/>
         <source>Sequence</source>
-        <translation type="unfinished">Sequencia</translation>
+        <translation>Secuencia</translation>
     </message>
 </context>
 </TS>
