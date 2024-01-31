@@ -2924,7 +2924,7 @@ Detener la exportación.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="120"/>
         <source>Diaphanography</source>
-        <translation type="unfinished">Diaphanography</translation>
+        <translation>Diafanografía</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="123"/>
