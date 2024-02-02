@@ -3480,7 +3480,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu.</source>
-        <translation>Modelos generados bajo un nodo de jerarquía de modelos. Los modelos se importan en Slicer bajo un nodo de jerarquía de modelos. El nodo de jerarquía de modelos debe crearse antes de ejecutar el modelo creardor, seleccionando Crear nueva jerarquía de modelos en el menú desplegable Modelos.</translation>
+        <translation>Modelos generados bajo un nodo de jerarquía de modelos. Los modelos se importan en Slicer bajo un nodo de jerarquía de modelos. El nodo de jerarquía de modelos debe crearse antes de ejecutar el modelo creador, seleccionando Crear nueva jerarquía de modelos en el menú desplegable Modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="89"/>
