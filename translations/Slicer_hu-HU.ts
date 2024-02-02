@@ -13520,7 +13520,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="242"/>
         <source>Select a </source>
-        <translation type="unfinished">Select a </translation>
+        <translation>Válasszon: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="300"/>
