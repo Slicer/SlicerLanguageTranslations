@@ -17096,17 +17096,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="489"/>
         <source>Type of column %1 is &apos;bit&apos;. Plotting of these types are currently not supported. Please convert the data type of this column to numeric using Table module&apos;s Column properties section, or select different columns for plotting.</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع العمود%1 هو «بت». لا يتم دعم التخطيط لهذه الأنواع حاليًا. يرجى تحويل نوع البيانات لهذا العمود إلى رقم باستخدام قسم خصائص عمود الجدول، أو اختيار أعمدة مختلفة للتخطيط.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="505"/>
         <source>Multiple &apos;string&apos; type of columns are selected for plotting (%1, %2) but only one is allowed. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم اختيار نوع «سلسلة» متعددة من الأعمدة للتخطيط (%1،%2) ولكن يسمح بواحد فقط. يرجى تغيير اختيار أو تحويل نوع البيانات لهذا العمود إلى رقم باستخدام قسم «خصائص العمود» في الجدول.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="521"/>
         <source>A single &apos;string&apos; type column is selected. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم اختيار عمود واحد من نوع «سلسلة». يرجى تغيير اختيار أو تحويل نوع البيانات لهذا العمود إلى رقم باستخدام قسم «خصائص العمود» في الجدول.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
@@ -17288,7 +17288,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
         <source>Display shadows for improved depth perception</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الظلال لتحسين إدراك العمق</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="216"/>
@@ -17554,22 +17554,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="600"/>
         <source>Stereo viewing</source>
-        <translation type="unfinished"></translation>
+        <translation>مشاهدة الاستريو</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="603"/>
         <source>Select stereo viewing mode</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد وضع عرض الاستريو</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="611"/>
         <source>Shadows visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية الظلال</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="614"/>
         <source>Make objects cast shadows to improve depth perception</source>
-        <translation type="unfinished"></translation>
+        <translation>اجعل الأشياء تلقي بظلالها لتحسين إدراك العمق</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="231"/>
@@ -17602,27 +17602,27 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="276"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>ظلال</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="285"/>
         <source>Size scale</source>
-        <translation type="unfinished"></translation>
+        <translation>مقياس النطاق</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="288"/>
         <source>Size of features to be emphasized by shadows. The scale is logarithmic, default (0.0) corresponds to object size of about 100mm.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الميزات التي يجب التأكيد عليها من خلال الظلال. المقياس لوغاريتمي، الافتراضي (0.0) يتوافق مع حجم الجسم حوالي 100 مم.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="305"/>
         <source>Volume opacity threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>عتبة عتامة الحجم</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="308"/>
         <source>Volume rendering opacity above this will cast shadows.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم الذي يجعل التعتيم فوق هذا سيلقي بظلاله.</translation>
     </message>
 </context>
 <context>
@@ -18743,7 +18743,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="32"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>خوادم</translation>
     </message>
 </context>
 <context>
@@ -19090,32 +19090,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="136"/>
         <source>Initializing...</source>
-        <translation type="unfinished"></translation>
+        <translation>استهلال...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="165"/>
         <source>Registering modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الوحدات...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="173"/>
         <source>Instantiating modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدات إثبات...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="178"/>
         <source>Instantiating module &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة إثبات &quot;%1&quot;...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="206"/>
         <source>Initializing user interface...</source>
-        <translation type="unfinished"></translation>
+        <translation>تهيئة واجهة المستخدم...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="229"/>
         <source>Loading module &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة التحميل «%1»...</translation>
     </message>
 </context>
 <context>
@@ -26732,22 +26732,22 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="282"/>
         <source>Shadows visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية الظلال:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="289"/>
         <source>Show shadows by default to improve depth perception</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر الظلال افتراضيًا لتحسين إدراك العمق</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="299"/>
         <source>Size scale:</source>
-        <translation type="unfinished">مقياس الحجم:</translation>
+        <translation>مقياس النطاق:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="325"/>
         <source>Volume opacity threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>عتبة عتامة الحجم:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="362"/>
@@ -26840,17 +26840,17 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="151"/>
         <source>Shadows visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية الظلال</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="154"/>
         <source>Ambient shadows size scale</source>
-        <translation type="unfinished"></translation>
+        <translation>مقياس حجم الظلال المحيطة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="157"/>
         <source>Ambient shadows volume opacity threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>عتبة عتامة حجم الظلال المحيطة</translation>
     </message>
 </context>
 <context>
@@ -28160,7 +28160,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
         <source>Title:</source>
-        <translation type="unfinished">عنوان:</translation>
+        <translation>عنوان:</translation>
     </message>
     <message>
         <source>Long name:</source>
@@ -28233,12 +28233,12 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="75"/>
         <source>The Tables module allows displaying and editing of spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>تسمح وحدة الجداول بعرض وتحرير جداول البيانات.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="83"/>
         <source>This work was was partially funded by OCAIRO, the Applied Cancer Research Unit program of Cancer Care Ontario, and Department of Anesthesia and Critical Care Medicine, Children&apos;s Hospital of Philadelphia.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تمويل هذا العمل جزئيًا من قبل OCAIRO، وبرنامج وحدة أبحاث السرطان التطبيقية لرعاية مرضى السرطان في أونتاريو، وقسم التخدير وطب الرعاية الحرجة، مستشفى الأطفال في فيلادلفيا.</translation>
     </message>
 </context>
 <context>
@@ -30280,12 +30280,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="685"/>
         <source>Unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation>غير مسمى</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="687"/>
         <source>Sequence</source>
-        <translation type="unfinished">تسلسل</translation>
+        <translation>تسلسل</translation>
     </message>
 </context>
 </TS>
