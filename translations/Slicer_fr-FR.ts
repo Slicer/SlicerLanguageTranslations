@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished">Ajoute deux images. Bien que tous les types d&apos;images soient pris en charge en entrée, seuls les types signés sont produits. Les deux images ne doivent pas nécessairement avoir les mêmes dimensions.</translation>
+        <translation>Ajoute deux images. Bien que tous les types d&apos;images soient pris en charge en entrée, seuls les types signés sont produits. Les deux images ne doivent pas nécessairement avoir les mêmes dimensions.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
@@ -7726,7 +7726,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="26"/>
         <source>Crop volume sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Séquence de volume de récolte</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="30"/>
