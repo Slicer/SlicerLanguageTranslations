@@ -234,27 +234,27 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="194"/>
         <source>Specify a minimum distance before a new point is automatically collected (Auto-Collect mode only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Especificar uma distância mínima antes que um novo ponto seja automaticamente coletado (apenas no modo de Auto-Coleta)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="204"/>
         <source>Points will be collected relative to the anchor coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os pontos serão coletados em relação ao sistema de coordenadas âncora.</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="225"/>
         <source>Anchor Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó âncora:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="252"/>
         <source>Delete All Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir todos os pontos</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="255"/>
         <source>Delete all points from the node</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir todos os pontos do nó</translation>
     </message>
 </context>
 <context>
@@ -262,17 +262,17 @@
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="97"/>
         <source>Delete options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de excluir</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="521"/>
         <source>Auto-Collect</source>
-        <translation type="unfinished"></translation>
+        <translation>Autocoleta</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="527"/>
         <source>Collect</source>
-        <translation type="unfinished"></translation>
+        <translation>Coleta</translation>
     </message>
 </context>
 <context>
@@ -280,17 +280,17 @@
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="33"/>
         <source>Create models</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar modelos</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="39"/>
         <source>Needle model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de agulha</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="67"/>
@@ -305,108 +305,108 @@
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="393"/>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="444"/>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>comprimento</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="99"/>
         <source>Tip radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Raio da ponta:</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="106"/>
         <source>Length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimento: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="113"/>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="403"/>
         <source>Radius: </source>
-        <translation type="unfinished"></translation>
+        <translation>Raio: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="120"/>
         <source>Depth markers: </source>
-        <translation type="unfinished"></translation>
+        <translation>Marcadores de Profundidade: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="133"/>
         <source>Create needle</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar agulha</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="165"/>
         <source>Coordinate system model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de sistema de coordenadas</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="177"/>
         <source>Create coordinate system</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar sistema de coordenadas</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="184"/>
         <source>Axis length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimento do Eixo: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="191"/>
         <source>Thickness: </source>
-        <translation type="unfinished"></translation>
+        <translation>Espessura: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="239"/>
         <source>Cube model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de cubo</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="264"/>
         <source>R-L length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimento R-L: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="277"/>
         <source>Create cube</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar cubo</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="284"/>
         <source>S-I length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimento S-I: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="291"/>
         <source>A-P length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimento A-P: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="339"/>
         <source>Cylinder model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de cilindro</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="370"/>
         <source>Create cylinder</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar cilindro</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="377"/>
         <source>Height: </source>
-        <translation type="unfinished"></translation>
+        <translation>Altura: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="413"/>
         <source>Sphere model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de Esfera</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="425"/>
         <source>Create sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar esfera</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="454"/>
         <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Raio:</translation>
     </message>
 </context>
 <context>
@@ -414,114 +414,114 @@
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="14"/>
         <source>Module Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de módulo</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="26"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibição</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="41"/>
         <source>vtkMRMLFiducialRegistrationWizardNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLFiducialRegistrationWizardNode</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="53"/>
         <source>From fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>De fiduciais</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="65"/>
         <source>To fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Para fiduciais</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="77"/>
         <source>Place fiducials by using position component of transforms. Parent transforms are applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloque fiduciais usando o componente de posição das transformações. As transformações parentais são aplicadas.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="80"/>
         <source>Place fiducials using transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloque fiduciais usando transformações</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="95"/>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="113"/>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="184"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="140"/>
         <source>Click when tracked device tip is placed at a fiducial point</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique quando a ponta do dispositivo rastreado estiver posicionada em um ponto fiducial</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="143"/>
         <source>Place &apos;From&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Colocar &quot;De&quot;</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="153"/>
         <source>Place &apos;To&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Colocar &quot;Para&quot;</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="169"/>
         <source>Registration result (From-&gt;To) transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformação do resultado do registro (De-&gt;Para)</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="184"/>
         <source>vtkMRMLTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="205"/>
         <source>Result transform type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de transformação do resultado:</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="218"/>
         <source>Rigid</source>
-        <translation type="unfinished"></translation>
+        <translation>Rígido</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="234"/>
         <source>Similarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Similaridade</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="247"/>
         <source>Warping</source>
-        <translation type="unfinished"></translation>
+        <translation>Deformação</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="258"/>
         <source>Point Matching Method:</source>
-        <translation type="unfinished"></translation>
+        <translation>Método de correspondência de pontos:</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="270"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Compute output transform from fiducials. Click the checkbox for automatic update.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Calcular transformação de saída a partir de fiduciais. Marque a caixa de seleção para atualização automática.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="273"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="286"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="302"/>
         <source>Preview transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-visualizar transformação</translation>
     </message>
 </context>
 <context>
@@ -529,27 +529,27 @@
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="212"/>
         <source>Point indices in the &quot;From&quot; list match those in the &quot;To&quot; list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os índices de pontos na lista &apos;De&apos; correspondem aos da lista &apos;Para&apos;.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="214"/>
         <source>EXPERIMENTAL. Point pairing between the two lists will be computed automatically. This feature is intended only for rigid and similarity transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>EXPERIMENTAL. A correspondência de pontos entre as duas listas será calculada automaticamente. Esta funcionalidade é destinada apenas para transformações rígidas e similares.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="217"/>
         <source>Update options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de atualização</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="409"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização automática</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="417"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização</translation>
     </message>
 </context>
 <context>
@@ -557,12 +557,12 @@
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerFooBarWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foobar</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foobar</translation>
     </message>
 </context>
 <context>
@@ -570,93 +570,93 @@
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="22"/>
         <source>Parameter node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de parâmetro:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="29"/>
         <source>vtkMRMLLandmarkDetectionNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLLandmarkDetectionNode</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="46"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="52"/>
         <source>Stylus tip transform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformação da ponta da caneta:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="59"/>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="83"/>
         <source>vtkMRMLTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="71"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="95"/>
         <source>Output coordinate transform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformação de coordenadas de saída:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="102"/>
         <source>Use markups output coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar coordenadas de saída de marcações:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="109"/>
         <source>Output landmarks (optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcadores de saída (opcional):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="132"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="138"/>
         <source>Acquisition Rate (Hz):</source>
-        <translation type="unfinished"></translation>
+        <translation>Taxa de Aquisição (Hz):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="145"/>
         <source>Filter window time (s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Duração da janela do filtro (em segundos):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="152"/>
         <source>Detection time(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo de detecção (em segundos):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="159"/>
         <source>Stylus shaft minimum displacement (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>Deslocamento mínimo do eixo da caneta (mm):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="166"/>
         <source>Stylus tip maximum displacement (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>Deslocamento máximo da ponta da caneta (mm):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="173"/>
         <source>Minimum landmark distance (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>Distância mínima de referência (mm):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="270"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Início</translation>
     </message>
 </context>
 <context>
@@ -664,37 +664,37 @@
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="25"/>
         <source>Paths:</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminhos:</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="32"/>
         <source>vtkMRMLPathPlannerTrajectoryNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLPathPlannerTrajectoryNode</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="37"/>
         <source>Trajectory list</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de trajetórias</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="49"/>
         <source>Planning</source>
-        <translation type="unfinished"></translation>
+        <translation>Planejamento</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="83"/>
         <source>Add path</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar caminho</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="93"/>
         <source>Visualization</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualização</translation>
     </message>
 </context>
 <context>
@@ -702,37 +702,37 @@
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="22"/>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="42"/>
         <source>Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distância:</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="49"/>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="56"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="78"/>
         <source>Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>Perpendicular</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="88"/>
         <source>In Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>Em voo</translation>
     </message>
 </context>
 <context>
@@ -740,100 +740,100 @@
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="23"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="32"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="41"/>
         <source>Input (ToolToReference):</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada (Ferramenta para Referência):</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="48"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="64"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="57"/>
         <source>Output (ToolTipToTool):</source>
-        <translation type="unfinished"></translation>
+        <translation>Saída (Ponta da Ferramenta para Ferramenta):</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="79"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controles</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="101"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="121"/>
         <source>Startup delay (seconds):  </source>
-        <translation type="unfinished"></translation>
+        <translation>Atraso de inicialização (segundos):  </translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="148"/>
         <source>Delay and duration (seconds):  </source>
-        <translation type="unfinished"></translation>
+        <translation>Atraso e duração (segundos):  </translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="176"/>
         <source>Data collection will start and end after specified time.</source>
-        <translation type="unfinished"></translation>
+        <translation>A coleta de dados começará e terminará após o tempo especificado.</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="183"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Start collecting data for pivot calibration. The calibration will be computed and orientation will be appropriately flipped on completion.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Inicie a coleta de dados para calibração do pivô. A calibração será calculada e a orientação será ajustada adequadamente ao finalizar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="186"/>
         <source>Start Pivot Calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar calibração do pivô</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="196"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Start collecting data for spin calibration. The calibration will be computed and orientation will be appropriately flipped on completion.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Inicie a coleta de dados para calibração de giro. A calibração será calculada e a orientação será ajustada adequadamente ao finalizar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="199"/>
         <source>Start Spin Calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar calibração de giro</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="212"/>
         <source>Countdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Contagem regressiva</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="239"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="257"/>
         <source>Spin auto-calibrate</source>
-        <translation type="unfinished"></translation>
+        <translation>Autocalibragem de giro</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="267"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="280"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="306"/>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="313"/>
         <source>Stop when complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Parar quando completar</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="333"/>
