@@ -8744,12 +8744,12 @@ You can save the camera position at any point by clicking &quot;Save camera posi
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="148"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="418"/>
         <source>Play flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الطيران عبر</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="150"/>
         <source>Start or stop the flythrough animation.</source>
-        <translation type="unfinished"></translation>
+        <translation>ابدأ أو أوقف الرسوم المتحركة للطيران.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="158"/>
@@ -8875,7 +8875,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="274"/>
         <source>Export the current flythrough path as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>صدّر مسار الطيران الحالي كنموذج.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="356"/>
@@ -8885,7 +8885,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="411"/>
         <source>Stop flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>توقف الطيران عبر</translation>
     </message>
     <message>
         <source>Play</source>
@@ -11346,12 +11346,12 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="436"/>
         <source>Feret diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>قطر فيريت</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="437"/>
         <source>Feret diameter of the segment computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>قطر الفيريت للقطاع محسوب من تمثيل خريطة العلامة الثنائية.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="437"/>
@@ -12400,7 +12400,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
         <source>Slicer API exec: </source>
-        <translation type="unfinished"></translation>
+        <translation>تنفيذ واجهة برمجة التطبيقات Slicer. </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
@@ -12425,7 +12425,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
         <source>Copy log messages to the python console and parent terminal (disable to improve performance)</source>
-        <translation type="unfinished">قم بنسخ رسائل تسجيل الدخول إلى وحدة التحكم في البايثون والمحطة الأم (تعطيل لتحسين الأداء)</translation>
+        <translation>نسخ رسائل السجل إلى وحدة التحكم البايثون والطرفية الأصلية (تعطيل لتحسين الأداء)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
