@@ -18839,7 +18839,7 @@ p, li { white-space : pre-wrap ; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="81"/>
         <source>Documentation</source>
         <oldsource>Interface Documentation</oldsource>
-        <translation>Documentation des interfaces</translation>
+        <translation>Documentation</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
