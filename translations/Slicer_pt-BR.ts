@@ -1270,12 +1270,12 @@ OBSERVE que é sugerido usar samplePercentage em vez dessa opção. No entanto, 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
         <source>Otsu Percentile Threshold</source>
-        <translation>Limiar Percentual Otsu</translation>
+        <translation>Limiar Percentual de Otsu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
         <source>Otsu Correction Factor</source>
-        <translation>Fator de Correção Otsu</translation>
+        <translation>Fator de Correção de Otsu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="23"/>
@@ -1300,12 +1300,12 @@ OBSERVE que é sugerido usar samplePercentage em vez dessa opção. No entanto, 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
         <source>Parameter to the Otsu threshold algorithm.</source>
-        <translation>Parâmetro para o algoritmo de limiar Otsu.</translation>
+        <translation>Parâmetro para o algoritmo de limiar de Otsu.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="28"/>
         <source>A factor to scale the Otsu algorithm&apos;s result threshold, in case clipping mangles the image.</source>
-        <translation>Um fator para dimensionar o resultado de limiar do algoritmo Otsu, caso o recorte destrua a imagem.</translation>
+        <translation>Um fator para dimensionar o resultado de limiar do algoritmo de Otsu, caso o recorte destrua a imagem.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
@@ -5307,7 +5307,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="14"/>
         <source>Binary mask that defines the structure of your interest. NOTE: This parameter is OPTIONAL. If the mask is not specified, the module will use internally Otsu thresholding to define this mask. Better processing results can often be obtained when a meaningful mask is defined.</source>
-        <translation>Máscara binária que define a estrutura de seu interesse. NOTA: Este parâmetro é OPCIONAL. Se a máscara não for especificada, o módulo usará internamente a limiarização Otsu para definir esta máscara. Melhores resultados de processamento geralmente podem ser obtidos quando uma máscara significativa é definida.</translation>
+        <translation>Máscara binária que define a estrutura de seu interesse. NOTA: Este parâmetro é OPCIONAL. Se a máscara não for especificada, o módulo usará internamente a limiarização de Otsu para definir esta máscara. Melhores resultados de processamento geralmente podem ser obtidos quando uma máscara significativa é definida.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="15"/>
