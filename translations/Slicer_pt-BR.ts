@@ -617,7 +617,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation>Especifica uma máscara para considerar apenas uma determinada região da imagem para o registro.  Se ROIAUTO for escolhido, a máscara será calculada usando limiarização Otsu e preenchimento de furos. Se o ROI for escolhido, a máscara deverá ser especificada como na entrada.</translation>
+        <translation>Especifica uma máscara para considerar apenas uma determinada região da imagem para o registro.  Se ROIAUTO for escolhido, a máscara será calculada usando limiarização de Otsu e preenchimento de furos. Se o ROI for escolhido, a máscara deverá ser especificada como na entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
@@ -1194,7 +1194,7 @@ OBSERVE que é sugerido usar samplePercentage em vez dessa opção. No entanto, 
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation>Este programa é usado para criar uma máscara sobre a região de primeiro plano mais proeminente em uma imagem.  Realizado por meio de uma combinação de limiarização otsu e uma operação de fechamento morfológico.
+        <translation>Este programa é usado para criar uma máscara sobre a região de primeiro plano mais proeminente em uma imagem.  Realizado por meio de uma combinação de limiarização de Otsu e uma operação de fechamento morfológico.
   </translation>
     </message>
     <message>
@@ -1270,7 +1270,7 @@ OBSERVE que é sugerido usar samplePercentage em vez dessa opção. No entanto, 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
         <source>Otsu Percentile Threshold</source>
-        <translation>Limiar Percentual de Otsu</translation>
+        <translation>Limiar de percentil de Otsu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
