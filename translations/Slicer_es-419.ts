@@ -5984,7 +5984,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="5"/>
         <source>Paint a model by a volume (using vtkProbeFilter).</source>
-        <translation>Pintar un modelo por un volumen (usando RastrearFiltrovtk).</translation>
+        <translation>Dibujar un modelo por un volumen (usando RastrearFiltrovtk).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="6"/>
@@ -6025,7 +6025,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="13"/>
         <source>Volume to use to &quot;paint&quot; the model</source>
-        <translation>Volumen a utilizar para &quot;pintar&quot; el modelo</translation>
+        <translation>Volumen a utilizar para &quot;dibujar&quot; el modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="15"/>
@@ -10795,16 +10795,16 @@ Si los segmentos se solapan, tendrá prioridad el segmento más alto en la tabla
 &lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; set the selected intensity range as &lt;dfn&gt;Editable intensity range&lt;/dfn&gt; and switch to Paint effect.
 &lt;li&gt;&lt;b&gt;Apply:&lt;/b&gt; set the previewed segmentation in the selected segment. Previous contents of the segment is overwritten.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation>Segmento de relleno basado en el rango de intensidad del volumen de la fuente&lt;br&gt;. Opciones:&lt;p&gt;
+        <translation>Segmenta un volumen basado en un rango de intensidades seleccionado.&lt;br&gt;. Opciones:&lt;p&gt;
 &lt;ul style=&quot;margin: 0&quot;&gt;
-&lt;li&gt;&lt;b&gt;Utilícelo para enmascarar:&lt;/b&gt; establecer el rango de intensidad seleccionado como &lt;dfn&gt;Rango de intensidad editable&lt;/dfn&gt; y cambiar al efecto Pintura.
-&lt;li&gt;&lt;b&gt;Aplicar:&lt;/b&gt; establecer la segmentación previsualizada en el segmento seleccionado. El contenido anterior del segmento se sobrescribe.
+&lt;li&gt;&lt;b&gt;Usar para enmascarado:&lt;/b&gt; establece el rango de intensidad como un&lt;dfn&gt;Rango de intensidad modificable&lt;/dfn&gt; y cambiar el efecto de coloreado.
+&lt;li&gt;&lt;b&gt;Aplicar:&lt;/b&gt; establece una previsualización de la segmentación en el segmento seleccionado. El umbral borra los segmentos previos.
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="154"/>
         <source>Threshold Range:</source>
-        <translation>Rango de umbral:</translation>
+        <translation>Rango del Umbral:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="155"/>
@@ -10814,27 +10814,27 @@ Si los segmentos se solapan, tendrá prioridad el segmento más alto en la tabla
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="164"/>
         <source>threshold above</source>
-        <translation>umbral por encima</translation>
+        <translation>Umbral superior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="165"/>
         <source>threshold below</source>
-        <translation>umbral por debajo</translation>
+        <translation>Umbral inferior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="166"/>
         <source>set as lower value</source>
-        <translation>fijar como valor inferior</translation>
+        <translation>fijar como valor mínimo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="167"/>
         <source>set as upper value</source>
-        <translation>fijar como valor superior</translation>
+        <translation>fijar como valor máximo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="170"/>
         <source>How to set lower and upper values of the threshold range. Threshold above/below: sets the range from the computed value to maximum/minimum. Set as lower/upper value: only modifies one side of the threshold range.</source>
-        <translation>Cómo establecer los valores inferior y superior del rango del umbral. Umbral superior/inferior: establece el rango desde el valor calculado hasta el máximo/mínimo. Establecer como valor inferior/superior: sólo modifica un lado del rango del umbral.</translation>
+        <translation>Cómo establecer los valores mínimos y máximos del rango del umbral. Umbral superior/inferior: establece el rango desde el valor calculado hasta el máximo/mínimo. Establecer como valor inferior/superior: sólo modifica un lado del rango del umbral.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="173"/>
@@ -10992,7 +10992,7 @@ Si los segmentos se solapan, tendrá prioridad el segmento más alto en la tabla
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="386"/>
         <source>Use specified intensity range for masking and switch to Paint effect.</source>
-        <translation>Utilice el rango de intensidad especificado para el enmascaramiento y cambie al efecto Pintar.</translation>
+        <translation>Utilice el rango de intensidad especificado para el enmascaramiento y cambie al efecto Dibujar.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="389"/>
@@ -24460,12 +24460,12 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="973"/>
         <source>Paint</source>
-        <translation>Pintar</translation>
+        <translation>Dibujar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="993"/>
         <source>Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation>Pintar con pincel redondo&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastrar y soltar con el botón izquierdo:&lt;/b&gt; pinceladas.&lt;li&gt;&lt;b&gt;Shift + rueda del mouse&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; ajustar el tamaño del pincel.&lt;li&gt;&lt;b&gt;Ctrl + rueda del mouse:&lt;/b&gt; acercar/alejar la vista en corte.&lt;/ul&gt;&lt;p&gt;La edición está disponible tanto en las vistas en corte como en 3D.&lt;p&gt;</translation>
+        <translation>Dibujar con pincel redondo&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastrar y soltar con el botón izquierdo:&lt;/b&gt; pinceladas.&lt;li&gt;&lt;b&gt;Shift + rueda del mouse&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; ajustar el tamaño del pincel.&lt;li&gt;&lt;b&gt;Ctrl + rueda del mouse:&lt;/b&gt; acercar/alejar la vista en corte.&lt;/ul&gt;&lt;p&gt;La edición está disponible tanto en las vistas en corte como en 3D.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1422"/>
@@ -24502,7 +24502,7 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1461"/>
         <source>Allow painting in 3D views. If enabled, click-and-drag in a 3D view paints in the view instead of rotating the view.</source>
-        <translation>Permitir pintar en vistas 3D. Si se activa, al hacer clic y arrastrar en una vista 3D se pinta en la vista en lugar de rotarla.</translation>
+        <translation>Permitir dibujar en vistas 3D. Si se activa, al hacer clic y arrastrar en una vista 3D se pinta en la vista en lugar de rotarla.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1465"/>
@@ -24532,7 +24532,7 @@ Por favor, seleccione un directorio vacío.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1482"/>
         <source>Paint exactly the pixel under the cursor, ignoring the diameter, threshold, and paint over.</source>
-        <translation>Pinta exactamente el píxel bajo el cursor, ignorando el diámetro, el umbral y pintar encima.</translation>
+        <translation>Dibujar exactamente el píxel bajo el cursor, ignorando el diámetro, el umbral y pintar encima.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1561"/>
