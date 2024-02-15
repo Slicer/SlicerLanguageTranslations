@@ -14743,7 +14743,7 @@ en las opciones de Representación para visualizar todas las celdas.</translatio
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
         <source>Select source volume to enable editing</source>
         <oldsource>Select master volume to enable editing</oldsource>
-        <translation>Seleccione el volúmen principal para permitir la edición</translation>
+        <translation>Seleccione el volumen principal para permitir la edición</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="55"/>
