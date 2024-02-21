@@ -126,7 +126,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation>Obligatoire&#xa0;: l&apos;image d&apos;entrée est une image NRRD 4D.</translation>
+        <translation type="unfinished">Obligatoire&#x202f;: l&apos;image d&apos;entrée est une image NRRD 4D.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
@@ -139,7 +139,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation>Cerveau défiguré à partir d&apos;une image T1/T2 (BRAINS)</translation>
+        <translation type="unfinished">Cerveau défiguré à partir d&apos;une image T1/T2 (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
