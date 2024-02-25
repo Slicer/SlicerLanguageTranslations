@@ -2188,7 +2188,9 @@ Output nodes from the last run will be removed.</source>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; straightens an open input markups curve and displays cumulative and individual lengths between control points. It is intended for quick one dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; redresse une courbe en ligne droite et calcule les espacements individuels et cumulés entre les points de contrôle. Il est conçu pour une mesure rapide des sténoses artérielles, mais peut servir d&apos;autres usages.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="48"/>
@@ -2196,43 +2198,46 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été écrit initialement par Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+and Steve Pieper, Isomics, Inc. et son développement a été partiellement financé avec le grant 3P41RR013218-12S1 du NIH.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
         <source>Cumulative</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumul</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
         <source>Cumulative %</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumul %</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
         <source>Partial</source>
-        <translation type="unfinished"></translation>
+        <translation>Individuel</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
         <source>Partial %</source>
-        <translation type="unfinished"></translation>
+        <translation>Individuel %</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="276"/>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="290"/>
         <source>No curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune courbe.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="383"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du test</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="385"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Succès du test</translation>
     </message>
 </context>
 <context>
@@ -2242,7 +2247,9 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; calculates the surface area of segments cut by a slice plane in its orientation. It is intended for quick two dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; calcule la surface de coupe des segments selon l&apos;orientation d&apos;une vue de tranche. Il est conçu pour une mesure rapide des sténoses des lésions artérielles en surface, mais peut servir à d&apos;autres propos.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="47"/>
@@ -2250,32 +2257,35 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été initialement écrit par Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+and Steve Pieper, Isomics, Inc. et son développement a été partiellement financé avec le grant 3P41RR013218-12S1 du NIH.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="118"/>
         <source>More options</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus d&apos;options</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="120"/>
         <source>Apply to all segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer à tous les segments</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="122"/>
         <source>If unchecked, only the selected segment will be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si non-cochée, seul le segment sélectionné sera traité.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="126"/>
         <source>Calculate the surface area of the closest island to the ficucial control point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer la surface de l&apos;îlot le plus proche au point de contrôle.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="129"/>
         <source>Create an output model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un modèle.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="132"/>
@@ -2286,153 +2296,159 @@ The result is influenced by :
  - holes in the segments
  - point placement, if &apos;Closest island&apos; option is selected,
  - smoothing level in the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un modèle pour chaque de coupe de segment.
+Cela permet de visualiser le modèle à partir duquel la surface est calculée.
+
+Le résultat est influencé par&#x202f;:
+- les vides dans les segments
+- l&apos;emplacement du point de contrôle, si l&apos;option &apos;Îlot le plus proche&apos; est sélectionnée,
+- le facteur de lissage dans l&apos;éditeur de segment.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="133"/>
         <source>Reset control point orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser l&apos;orientation du point de contrôle</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="135"/>
         <source>Click on a control point to reset its recorded slice orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur un point de contrôle pour réinitialiser son orientation.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="137"/>
         <source>Restore orientation of all slice views</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer l&apos;orientation de toutes les vues de tranches</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="138"/>
         <source>... to their default orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">... à leur orientation par défaut.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Control point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Point de contrôle</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segment</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Surface</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Model visibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visibilité du modèle</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Segment visibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visibilité des segments</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="176"/>
         <source>Remove row</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer la ligne</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="181"/>
         <source>Empty table</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer toutes les lignes</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="187"/>
         <source>Dismiss menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher le menu</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="236"/>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="566"/>
         <source>Input segmentation is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation invalide</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="320"/>
         <source>Select a slice node</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une vue tranche</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="323"/>
         <source>Select a fiducial node</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une liste de points</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="326"/>
         <source>Select a segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez un nœud de segmentation</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="329"/>
         <source>Click on a fiducial control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur un point de contrôle</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="331"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec&#x202f;: aucun résultat.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="476"/>
         <source>Fiducial node is no longer observed</source>
-        <translation type="unfinished"></translation>
+        <translation>La liste de points n&apos;est plus observée</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="482"/>
         <source>Fiducial node is being observed</source>
-        <translation type="unfinished"></translation>
+        <translation>La liste de points est observée</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="495"/>
         <source>Slice node not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune vue de tranches sélectionnée</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="512"/>
         <source>Slice orientation recorded</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrement de l&apos;orientation de la vue de tranches</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="522"/>
         <source>Slice orientation restored</source>
-        <translation type="unfinished"></translation>
+        <translation>Restauration de l&apos;orientation de la vue de tranches</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="529"/>
         <source>Reset orientation at point</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer l&apos;orientation au point</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="568"/>
         <source>Input segment ID is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment invalide</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="572"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Démarrage du processus</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="624"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Processus complétée en {duration} secondes</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="676"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du test</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="678"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Succès du test</translation>
     </message>
 </context>
 <context>
@@ -2440,22 +2456,22 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrées</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="23"/>
         <source>Input curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe&#x202f;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="30"/>
         <source>Pick the input markups curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez la courbe à traiter.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="66"/>
         <source>Result table.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tableau des résultats.</translation>
     </message>
 </context>
 <context>
