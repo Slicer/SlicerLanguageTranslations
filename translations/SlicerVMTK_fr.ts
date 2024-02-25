@@ -119,7 +119,10 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
 Break down a centerline model into parts.
 See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Démonte/désassemble une ligne centrale en ses composants.
+Plus d&apos;informations dans la &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;documentation du module&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="50"/>
@@ -127,219 +130,225 @@ See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExten
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été initialement écrit par Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+and Steve Pieper, Isomics, Inc. et son développement a été partiellement financé avec le grant 3P41RR013218-12S1 du NIH.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="95"/>
         <source>Bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifurcations</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="96"/>
         <source>Branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Branches</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="97"/>
         <source>Centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes centrales</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="102"/>
         <source>Show curve names</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les noms des courbes</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="186"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec&#x202f;: aucun résultat.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="190"/>
         <source>Please select the components to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner les composants à créer.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="194"/>
         <source>Please specify whether centerline &apos;Models&apos; and/or &apos;Curves&apos; should be generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez indiquer si les lignes centrales générées doivent être de type &apos;Modèle&apos; et/ou &apos;Courbe&apos;.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="196"/>
         <source>Splitting centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Démontage de la ligne centrale</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="212"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="230"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="248"/>
         <source> models</source>
-        <translation type="unfinished"></translation>
+        <translation> (modèles)</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="215"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="233"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="251"/>
         <source> curves</source>
-        <translation type="unfinished"></translation>
+        <translation> (courbes)</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="217"/>
         <source>Creating bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>Création des bifurcations</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="220"/>
         <source>Bifurcation_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifurcation_Modèle</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="223"/>
         <source>Bifurcation_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifurcation_Courbe</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="235"/>
         <source>Creating branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Création des branches</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="238"/>
         <source>Branch_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Branche_Modèle</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="241"/>
         <source>Branch_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Branche_Courbe</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="253"/>
         <source>Creating centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Création des lignes centrales</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="256"/>
         <source>Centerline_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>LigneCentrale_Modèle</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="259"/>
         <source>Centerline_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>LigneCentrale_Courbe</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="264"/>
         <source>Invalid component</source>
-        <translation type="unfinished"></translation>
+        <translation>Composant invalide</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="268"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminé</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="338"/>
         <source>Input centerline is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>La ligne centrale est invalide</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="430"/>
         <source>Processing curve creation started</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage de la création des courbes</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="490"/>
         <source>Processing curve creation completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Création des courbes complétée en {duration} secondes</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="495"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="525"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline model first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appelez d&apos;abord &apos;splitCenterlines()&apos; avec un modèle de ligne centrale.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="499"/>
         <source>Processing centerline ids started</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du traitement des lignes centrales</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="519"/>
         <source>Processing centerline ids completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Création des lignes centrales complétée en {duration} secondes</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="529"/>
         <source>Processing group ids started</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du traitement des groupes</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="562"/>
         <source>Processing group ids completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Création des groupes complétée en {duration} secondes</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="578"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du test</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="580"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Succès du test</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="19"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de
+ligne centrale&#x202f;:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="29"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un élément de la liste.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="65"/>
         <source>Component:</source>
-        <translation type="unfinished"></translation>
+        <translation>Composant&#x202f;:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="72"/>
         <source>Select the output components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez les composants à créer.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="102"/>
         <source>Create centerline models</source>
-        <translation type="unfinished"></translation>
+        <translation>Créez des composants de type &apos;Modèle&apos;</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="105"/>
         <source>Create models</source>
-        <translation type="unfinished"></translation>
+        <translation>Créez des modèles</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="115"/>
         <source>Create centerline curves.
 
 Upon curve creation, the visibility of the names can be specified via the menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créez des lignes centrales de type &apos;Courbe&apos;
+
+La visibilité des noms des courbes peut être spécifié via le menu.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="120"/>
         <source>Create curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Créez des courbes</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="135"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="138"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
 </context>
 <context>
@@ -1698,7 +1707,9 @@ Output nodes from the last run will be removed.</source>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; attempts to segment major veins using effects of the &apos;Segment editor&apos;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; a pour objectif de segmenter les veines principales en utilisant les effets de &apos;l&apos;Éditeur de segments&apos;.
+</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="48"/>
@@ -1706,88 +1717,92 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été initialement écrit par Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+and Steve Pieper, Isomics, Inc. et son développement a été partiellement financé avec le grant 3P41RR013218-12S1 du NIH.
+</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="195"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec&#x202f;: aucun résultat.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="243"/>
         <source>Input curve or volume or segmentation is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrée invalide&#x202f;: courbe, volume ou segmentation.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="251"/>
         <source>Extrusion kernel size or Gaussian standard deviation
                 or seed radius or shell margin or shell thickness is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>La taille du noyau ou l&apos;écart-type Gaussien
+                ou le rayon du tube initial ou la marge de l&apos;enveloppe ou l&apos;épaisseur de l&apos;enveloppe est invalide.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="255"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du processus</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="371"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Processus complété en {duration} secondes</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="397"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du test</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="399"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Succès du test</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="19"/>
         <source>Open curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="26"/>
         <source>Select an open markups curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une courbe.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="59"/>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="66"/>
         <source>Select a volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un volume.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="99"/>
         <source>Select a segmentation to contain the output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une segmentation pour le résultat.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="132"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="154"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="165"/>
         <source>Shell margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Marge de l&apos;enveloppe&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="178"/>
         <source>Margin of a temporary shell around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marge d&apos;une enveloppe temporaire autour de la courbe.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="181"/>
@@ -1801,68 +1816,71 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="209"/>
         <source>For the &apos;Smoothing::RemoveExtrusion&apos; effect of the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètre de l&apos;effet &apos;Lissage::Ouverture&apos; de &apos;l&apos;Éditeur de segments&apos;.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="234"/>
         <source>Gaussian standard
 deviation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Écart-type
+Gaussien&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="248"/>
         <source>For the &apos;Smoothing::Gaussian&apos; effect of the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètre de l&apos;effet &apos;Lissage::Gaussien&apos; de &apos;l&apos;Éditeur de segments&apos;.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="273"/>
         <source>Extrusion kernel size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille du noyau
+(extrusion)&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="282"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="300"/>
         <source>Dimension of the primary seed around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayon du tube initial autour de la courbe.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="325"/>
         <source>Seed radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayon du tube&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="338"/>
         <source>Thickness of a temporary shell around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur de l&apos;enveloppe temporaire autour de la courbe.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="363"/>
         <source>Shell thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur de l&apos;enveloppe&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="370"/>
         <source>Subtract overlapping parts of other segments from the resulting vein segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soustraire la superposition des segments voisins du segment veineux.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="386"/>
         <source>Remove overlaps:</source>
-        <translation type="unfinished"></translation>
+        <translation>Soustraire les
+superpositions&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="402"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="405"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
 </context>
 <context>
