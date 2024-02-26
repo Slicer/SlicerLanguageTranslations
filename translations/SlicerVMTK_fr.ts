@@ -2655,12 +2655,12 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="22"/>
         <source>Wall surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paroi&#x202f;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="29"/>
         <source>Select an input shape (tube) node, drawn to represent the vascular wall.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un nœud de classe Shape::Tube représentant la paroi artérielle.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="37"/>
@@ -2672,7 +2672,9 @@ The input centerline is expected to be inside the lumen surface.</source>
         <source>Select an input markups fiducial node.
 
 The first and second points are the boundaries between which the analysis will be performed. They should not be at the very ends of the wall surface for accurate results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une liste de points.
+
+Les premier et deuxième points sont les limites entre lesquelles l&apos;analyse sera effectuée. Ils ne devraient pas être aux extrémités du tube représentant la paroi pour des résultats précis.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="69"/>
@@ -2682,116 +2684,118 @@ The first and second points are the boundaries between which the analysis will b
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="94"/>
         <source>Boundary node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Limites d&apos;analyse&#x202f;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="101"/>
         <source>Lumen surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumière vasculaire&#x202f;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="108"/>
         <source>Select a segment representing the vascular lumen.
 
 This should ideally exceed the wall surface a little, and must not be bifurcated for accurate results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un segment représentant la lumière vasculaire.
+
+Il devrait idéalement dépasser légèrement la représentation de la paroi vasculaire, et ne doit pas être bifurqué pour des résultats précis.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="131"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécutez l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="134"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="144"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Résultat</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="152"/>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="235"/>
         <source>Wall:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paroi&#x202f;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="166"/>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="266"/>
         <source>Lumen:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumière&#x202f;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="180"/>
         <source>Lesion:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lésion&#x202f;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="194"/>
         <source>Stenosis:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sténose&#x202f;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="208"/>
         <source>Length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Longueur&#x202f;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="224"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="242"/>
         <source>Show the wall between the boundary points as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher un modèle de la paroi dans la limite d&apos;analyse.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="250"/>
         <source>Wall</source>
-        <translation type="unfinished"></translation>
+        <translation>Paroi</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="273"/>
         <source>Show the lumen between the boundary points as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher un modèle de la lumière dans la limite d&apos;analyse.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="281"/>
         <source>Lumen</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumière</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="114"/>
         <source>Insufficient input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrées manquantes.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="120"/>
         <source>Wrong shape node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le type nœud Shape est inattendu.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="126"/>
         <source>Inconsistent fiducial input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste de points invalide.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="131"/>
         <source>Two fiducial input points are mandatory.</source>
-        <translation type="unfinished"></translation>
+        <translation>La liste de points doit comporter au moins deux points.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="137"/>
         <source>Inconsistent segmentation input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation invalide.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="151"/>
         <source>Processing failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du processus.</translation>
     </message>
 </context>
 <context>
