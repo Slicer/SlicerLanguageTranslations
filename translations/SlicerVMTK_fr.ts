@@ -388,7 +388,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="442"/>
         <source> (MIS diameter {sign}</source>
-        <translation type="unfinished"> (diamètre SGT {sign}</translation>
+        <translation> (diamètre MIS {sign}</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="592"/>
@@ -403,7 +403,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="617"/>
         <source>MIS diameter</source>
-        <translation>Diamètre de la sphère de plus grande taille [SGT]</translation>
+        <translation>Diamètre de la sphère de plus grande taille [MIS]</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="619"/>
@@ -518,7 +518,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1622"/>
         <source>Diameter (MIS)</source>
-        <translation>Diamètre (SGT)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1623"/>
@@ -829,12 +829,12 @@ Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogo
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="737"/>
         <source>Maximum inscribed sphere (MIS) diameter at selected point.</source>
-        <translation>Diamètre de la sphère de plus grande taille (SGT) au point sélectionné.</translation>
+        <translation>Diamètre de la sphère de plus grande taille (MIS) au point sélectionné.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="750"/>
         <source>Jump to the smallest MIS diameter point.</source>
-        <translation>Atteindre le point au diamètre SGT minimal.</translation>
+        <translation>Atteindre le point au diamètre MIS minimal.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="753"/>
@@ -845,7 +845,7 @@ Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogo
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="760"/>
         <source>Jump to the largest MIS diameter point.</source>
-        <translation>Atteindre le point au diamètre SGT maximal.</translation>
+        <translation>Atteindre le point au diamètre MIS maximal.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="763"/>
@@ -863,7 +863,7 @@ Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogo
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="788"/>
         <source>Diameter (MIS):</source>
-        <translation>Diamètre (SGT)&#x202f;:</translation>
+        <translation>Diamètre (MIS)&#x202f;:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="797"/>
@@ -899,7 +899,7 @@ The absolute and percent difference with the maximum inscribed sphere (MIS) diam
 Caution: values at bifurcations may not have clinical meaning.</source>
         <translation>Diamètre circulaire l&apos;équivalent (CE)&#x202f;: celui d&apos;un cercle ayant la superficie de la section transversale.
 
-La différence absolue et en pourcentage avec le diamètre de la sphère de plus grande taille (SGT) est également fournie.
+La différence absolue et en pourcentage avec le diamètre de la sphère de plus grande taille (MIS) est également fournie.
 
 Attention&#x202f;: les valeurs aux bifurcations peuvent ne pas avoir de signification clinique.</translation>
     </message>
