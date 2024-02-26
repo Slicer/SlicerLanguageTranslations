@@ -33,12 +33,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="182"/>
         <source>Failed to compute results.</source>
-        <translation>Échec: pas de résultat.</translation>
+        <translation>Échec&#x202f;: pas de résultat.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="219"/>
         <source>Input segmentation, volume or segment ID is invalid</source>
-        <translation>L&apos;entrée &apos;Segmentation&apos;, &apos;Volume&apos; ou &apos;ID de segment&apos; est invalide.</translation>
+        <translation>L&apos;entrée &apos;Segmentation&apos;, &apos;Volume&apos; ou &apos;ID de segment&apos; est invalide</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="223"/>
@@ -2322,32 +2322,32 @@ Le résultat est influencé par&#x202f;:
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="138"/>
         <source>... to their default orientation.</source>
-        <translation type="unfinished">... à leur orientation par défaut.</translation>
+        <translation>... à leur orientation par défaut.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Control point</source>
-        <translation type="unfinished">Point de contrôle</translation>
+        <translation>Point de contrôle</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Segment</source>
-        <translation type="unfinished">Segment</translation>
+        <translation>Segment</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Surface area</source>
-        <translation type="unfinished">Surface</translation>
+        <translation>Surface</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Model visibility</source>
-        <translation type="unfinished">Visibilité du modèle</translation>
+        <translation>Visibilité du modèle</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Segment visibility</source>
-        <translation type="unfinished">Visibilité des segments</translation>
+        <translation>Visibilité des segments</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="176"/>
@@ -2383,7 +2383,7 @@ Le résultat est influencé par&#x202f;:
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="326"/>
         <source>Select a segmentation node</source>
-        <translation type="unfinished">Sélectionnez un nœud de segmentation</translation>
+        <translation>Sélectionnez un nœud de segmentation</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="329"/>
@@ -2433,7 +2433,7 @@ Le résultat est influencé par&#x202f;:
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="572"/>
         <source>Processing started</source>
-        <translation type="unfinished">Démarrage du processus</translation>
+        <translation>Démarrage du processus</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="624"/>
@@ -2456,7 +2456,7 @@ Le résultat est influencé par&#x202f;:
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="23"/>
@@ -2471,7 +2471,7 @@ Le résultat est influencé par&#x202f;:
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="66"/>
         <source>Result table.</source>
-        <translation type="unfinished">Tableau des résultats.</translation>
+        <translation>Tableau des résultats.</translation>
     </message>
 </context>
 <context>
@@ -2492,143 +2492,144 @@ Le résultat est influencé par&#x202f;:
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="29"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de
+ligne centrale&#x202f;:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="36"/>
         <source>Pick the input centerline model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le modèle de ligne centrale.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="69"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation&#x202f;:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="78"/>
         <source>Input segmentation.
 The input centerline is expected to be inside the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>La ligne centrale devrait être à l&apos;intérieur de la lumière.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="106"/>
         <source>Select an input segment in the selected segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un segment.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="151"/>
         <source>Create a segment for each branch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un segment pour chaque branche.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
         <source>Create branch segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer des surfaces</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="170"/>
         <source>Create a model of each bifurcation splitting line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un modèle de division de chaque bifurcation.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="173"/>
         <source>Create bifurcation profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer les divisions de bifurcation</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="188"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="191"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="92"/>
         <source>No centerline selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de ligne centrale sélectionnée.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="101"/>
         <source>No segmentation selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune segmentation sélectionnée.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="107"/>
         <source>No output selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner les objets à créer.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="121"/>
         <source>Segmentation is NULL in MRML node, aborting</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation NULL dans le nœud MRML, abandon</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="132"/>
         <source>No segment selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun segment sélectionné.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="143"/>
         <source>Could not create closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne peut créer une représentation en surface close.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="152"/>
         <source>Unknown surface node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de surface inconnue</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="162"/>
         <source>Debranching, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Division en cours, veuillez patienter...</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="170"/>
         <source>Could not create a valid surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne peut créer une surface valide.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="190"/>
         <source>No branches could be retrieved; the centerline may be invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune branche n&apos;a pu être créée&#x202f;; la ligne centrale est peut être invalide.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="198"/>
         <source>Processing branch </source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement de la branche </translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="211"/>
         <source>Could not retrieve branch surface </source>
-        <translation type="unfinished"></translation>
+        <translation>N&apos;a pu obtenir la surface de la branche </translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="267"/>
         <source>Could not get a valid collection of bifurcation profiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne peut obtenir une collection valide des divisions des bifurcations.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="276"/>
         <source>Could not get a valid subject hierarchy node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne peut obtenir un nœud de hiérarchie valide.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="286"/>
         <source>Bifurcation profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Divisions des bifurcations</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="312"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminé</translation>
     </message>
 </context>
 <context>
