@@ -138,12 +138,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="95"/>
         <source>Bifurcations</source>
-        <translation>Bifurcations</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="96"/>
         <source>Branches</source>
-        <translation>Branches</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="97"/>
@@ -945,206 +945,211 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     This module replaces the old &quot;Centerline Computation&quot; module. Documentation is available
     &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK&quot;&gt;here&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Générer et quantifier les lignes centrales de vaisseaux ou de voies aériennes à partir d&apos;un modèle de surface.
+    Le modèle de surface peut être créé à partir du volume d&apos;images en utilisant le module Éditeur de Segment.
+    Ce module remplace l&apos;ancien module &quot;Centerline Computation&quot;. La documentation est disponible.
+    &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK&quot;&gt;ici&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="223"/>
         <source>Valid input surface is required</source>
-        <translation type="unfinished"></translation>
+        <translation>Une surface d&apos;entrée valide est requise</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="241"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="334"/>
         <source>Preprocessing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-traitement...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="257"/>
         <source>Get manifold edges...</source>
-        <translation type="unfinished"></translation>
+        <translation>Déterminer les bords multiples..</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="265"/>
         <source>Found {0} non-manifold edges.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{0} bords isolé trouvés.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="266"/>
         <source> Centerline computation may fail. Try to increase target point count or reduce decimation aggressiveness</source>
-        <translation type="unfinished"></translation>
+        <translation> Les calculs peuvent échouer. Essayez d&apos;augmenter le nombre de points cibles ou de réduire l&apos;agressivité de décimation</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="277"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="347"/>
         <source>Extract network...</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraction du réseau...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="298"/>
         <source>Extract centerline...</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraction de la ligne centrale...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="317"/>
         <source>Generate curves and quantification results table...</source>
-        <translation type="unfinished"></translation>
+        <translation>Générer les courbes et le tableau de résultats quantifiés...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="322"/>
         <source>Failed to compute results: </source>
-        <translation type="unfinished"></translation>
+        <translation>Échec&#x202f;: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="326"/>
         <source>Centerline analysis complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Analyse complète de la ligne centrale.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="372"/>
         <source>Failed to detect end points: </source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de détection des terminaisons&#x202f;: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="377"/>
         <source>Automatic endpoint computation complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Détection automatique des terminaisons complète.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="429"/>
         <source>Invalid input surface node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de surface invalide</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="440"/>
         <source>Surface can only be loaded from model or segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>La surface ne peut être chargée que d&apos;un modèle ou d&apos;une segmentation</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="449"/>
         <source>VMTK library is not found</source>
-        <translation type="unfinished"></translation>
+        <translation>La bibliothèque VMTK n&apos;est pas trouvée</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="453"/>
         <source>Input surface model is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Le modèle de surface est vide</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="489"/>
         <source>Mesh subdivision failed. Skip subdivision step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de subdivision du maillage. La subdivision est ignorée.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="541"/>
         <source>Failed to get non-manifold edges (neighborhood filter output was empty)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec d&apos;obtention des bords uniques (le résultat du filtre sur le voisinage était nul)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="659"/>
         <source>At least two endpoints are needed for centerline extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Au moins deux terminaisons sont nécessaires pour l&apos;extraction de ligne centrale</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="720"/>
         <source>Failed to compute centerline (no output was generated)</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du calcul de la ligne centrale (aucune sortie n&apos;a été générée)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="725"/>
         <source>Failed to compute centerline (no Voronoi diagram was generated)</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du calcul de la ligne centrale (aucun diagramme de Voronoï n&apos;a été généré)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="729"/>
         <source>End of Centerline Computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fin du calcul de la ligne centrale.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="746"/>
         <source>openSurfaceAtPoint failed: empty input polydata</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec de openSurfaceAtPoint&#x202f;: polydata vide en entrée</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="775"/>
         <source>Unable to import the SlicerVmtk libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;importer les bibliothèques SlicerVmtk</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1035"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1053"/>
         <source>Network polydata does not contain length cell array</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les polydata du réseau ne contiennent pas de tableau de longueur (cellules)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1047"/>
         <source>Failed to compute array </source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de calcul du tableau </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="14"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="14"/>
         <source>Sampling distance used for generating centerline curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance d&apos;échantillonnage utilisée pour générer la ligne centrale de type courbe</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="20"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="20"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="26"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="26"/>
         <source>Surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Surface&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="33"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="33"/>
         <source>Input surface model of the tree. If computation is slow adjust preprocessing parameters in advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de surface de l&apos;arbre. Si le calcul est lent ajuster les paramètres de pré-traitement dans la section avancée.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="54"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="54"/>
         <source>Select a model or segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un modèle ou un nœud de segmentation</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="61"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="61"/>
         <source>Endpoints:</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminaisons&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="70"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="70"/>
         <source>Branch endpoints. &quot;Unselected&quot; control points are used as sources, &quot;selected&quot; control points are used as targets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminaisons de branche. Les points de contrôle &quot;non-sélectionnés&quot; sont utilisés comme sources, les points de contrôle &quot;sélectionnés&quot; sont utilisés comme cibles.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="81"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="81"/>
         <source>Endpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminaisons</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="106"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="106"/>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-détecter</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="125"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="125"/>
         <source>Paremeter set: </source>
-        <translation type="unfinished"></translation>
+        <translation>Jeu de paramètres&#x202f;: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="132"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="132"/>
         <source>Pick node to store parameter set</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le nœud pour stocker le jeu de paramètres</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="143"/>
@@ -1156,25 +1161,25 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="166"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="166"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorties</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="172"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="172"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Réseau</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="178"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="178"/>
         <source>Network model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle du réseau&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="185"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="185"/>
         <source>Result of quick centerline network extraction.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Résultat de l&apos;extraction rapide de la ligne centrale tenant compte de la géométrie.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="196"/>
@@ -1186,7 +1191,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="218"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="218"/>
         <source>Network properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés du réseau&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="225"/>
@@ -1194,7 +1199,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="225"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="394"/>
         <source>Table containing quantitative analysis of centerline (radius, length, curvature, torsion, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Table contenant une analyse quantitative de la ligne centrale (rayon, longueur, courbure, torsion, etc.)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="236"/>
@@ -1206,7 +1211,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="258"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="258"/>
         <source>Network curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe du réseau&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="265"/>
@@ -1214,7 +1219,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="265"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="354"/>
         <source>Centerline extraction result as a hierarchy of markups curves.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lignes centrales tenant compte de la géométrie, selon une hiérarchie de courbes.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="276"/>
@@ -1226,19 +1231,19 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="301"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="301"/>
         <source>Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbre</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="307"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="307"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de ligne centrale&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="314"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="314"/>
         <source>Centerline extraction result as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modèle de ligne centrale tenant compte du flux.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="325"/>
@@ -1250,7 +1255,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="347"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="347"/>
         <source>Centerline curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe de ligne centrale&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="365"/>
@@ -1262,7 +1267,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="387"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="387"/>
         <source>Centerline properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés de ligne centrale&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="405"/>
@@ -1274,31 +1279,31 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="433"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="433"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="442"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="442"/>
         <source>Preprocess input surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-traitement de le surface d&apos;entrée&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="449"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="449"/>
         <source>Input surface model is reduced to the requested target point count (making computation faster), or subdivided (to make computations more accurate).</source>
-        <translation type="unfinished"></translation>
+        <translation>Le modèle de surface est réduit au nombre de points cibles (calcul plus rapide), ou subdivisé (pour rendre les calculs plus précis).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="462"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="462"/>
         <source>Target point count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Compte de points cible&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="472"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="472"/>
         <source>Preferred number of points in the preprocessed surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de points préféré dans la surface pré-traitée.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="490"/>
@@ -1310,61 +1315,61 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="497"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="497"/>
         <source>Decimation aggressiveness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Agressivité de décimation&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="507"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="507"/>
         <source>Lower values preserve the mesh integrity better but it may not be possible to reduce number of points to the desired level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les valeurs inférieures préservent mieux l&apos;intégrité des mailles, mais il peut ne pas être possible de réduire le nombre de points au niveau souhaité.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="529"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="529"/>
         <source>Subdivide:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub-diviser&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="539"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="539"/>
         <source>Subdivide the mesh to make computation more accurate (at the cost of increased computation time).</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub-divisez le maillage pour rendre le calcul plus précis (au coût du temps de calcul accru).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="549"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="549"/>
         <source>Output preprocessed surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Surface de sortie pré-traitée&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="559"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="559"/>
         <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer le résultat de pré-traitement. Utilisable pour des contrôles de qualité et pour des calculs répétés plus rapidement&#x202f;: la surface pré-traitée peut être utilisée comme surface d&apos;entrée (et l&apos;option &quot;Pre-traitement de la surface d&apos;entrée&quot; peut alors être désactivée).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="570"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="570"/>
         <source>Preprocessed model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle pré-traité</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="592"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="592"/>
         <source>Mesh error check results:</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreurs de vérification du maillage&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="599"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="599"/>
         <source>Output Voronoi diagram:</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramme de Voronoï en sortie&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="606"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="606"/>
         <source>Voronoi diagram (similar to medial surface) that is used for computing centerline path between endpoints. It is useful for quality checks and for showing a model where endpoints can be robustly placed on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le diagramme de Voronoï (similaire à la surface médiane) est utilisé pour le calcul du chemin de la ligne centrale entre les terminaisons. Il est utile pour les contrôles de qualité et pour afficher un modèle où les terminaisons peuvent être placés avec fiabilité.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="617"/>
@@ -1376,37 +1381,37 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="639"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="639"/>
         <source>Result of mesh error checks. Currently the only check is for presence of non-manifold edges.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Résultat des vérifications d&apos;erreur de maillage. Actuellement, le seul contrôle est pour la présence de bords isolés.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="650"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="650"/>
         <source>Mesh errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreurs de maillage</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="672"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="672"/>
         <source>Curve sampling distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance d’échantillonnage de courbe&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="682"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="682"/>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>longeur</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="695"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="695"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="698"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="698"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="36"/>
@@ -1988,7 +1993,11 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 &lt;br&gt;&lt;br&gt;The &apos;Flood filling&apos; effect of the &apos;&lt;a href=&quot;https://github.com/lassoan/SlicerSegmentEditorExtraEffects&quot;&gt;Segment editor extra effects&lt;/a&gt;&apos; is used for segmentation.
 &lt;br&gt;&lt;br&gt;The &apos;&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ExtractCenterline/&quot;&gt;SlicerExtension-VMTK Extract centerline&lt;/a&gt;&apos; module is required.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; vise à créer une segmentation à partir d&apos;un angioscanner injecté, et peut extraire une ligne centrale du segment vasculaire créé.
+&lt;br&gt;&lt;br&gt;Il requiert un angioscanner presque parfait, et qu&apos;une liste de points soit placée dans la lumière.
+&lt;br&gt;&lt;br&gt;Les effets &apos;Flood filling&apos; et &apos;Split volume&apos; de l&apos;extension &apos;&lt;a href=&quot;https://github.com/lassoan/SlicerSegmentEditorExtraEffects&quot;&gt;Segment editor extra effects&lt;/a&gt;&apos; sont mis en oeuvre.
+</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="55"/>
@@ -1996,152 +2005,159 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été initialement écrit par Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+and Steve Pieper, Isomics, Inc. et son développement a été partiellement financé avec le grant 3P41RR013218-12S1 du NIH.
+</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="137"/>
         <source>Failed to install extension: </source>
-        <translation type="unfinished"></translation>
+        <translation>Échec d&apos;installation de l&apos;extension&#x202f;: </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="148"/>
         <source>Could not update metadata from server to install {extension}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de mettre à jour les métadonnées du serveur pour installer {extension}.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="150"/>
         <source>{extension} must be installed. Do you want to install it now ?</source>
-        <translation type="unfinished"></translation>
+        <translation>{extension} doit être installé. Voulez-vous l&apos;installer maintenant&#x202f;?</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="152"/>
         <source>This module cannot be used without {extension}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module ne peut être utilisé sans {extension}.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="155"/>
         <source>Failed to install {extension} extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec d&apos;installation de l&apos;extension {extension}.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="157"/>
         <source>{extension} has been installed from server.
 
 Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished"></translation>
+        <translation>{extension} a été installé à partir du serveur.
+
+Slicer doit être redémarré. Voulez-vous redémarrer maintenant&#x202f;?</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="171"/>
         <source>Fiducial node must have at least 2 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>La liste de points doit avoir au moins 2 points de contrôle.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="365"/>
         <source>No input fiducial node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun nœud liste de points spécifié.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="368"/>
         <source>No input slice node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune vue de tranches spécifiée.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="375"/>
         <source>No volume node selected in input slice node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun nœud Volume sélectionné dans la vue de tranches.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="379"/>
         <source>No input ROI node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun nœud RDI spécifié.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="393"/>
         <source>Failed to compute results: </source>
-        <translation type="unfinished"></translation>
+        <translation>Échec&#x202f;: </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="461"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du processus</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="463"/>
         <source>Segment editor setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Préparation de l&apos;Éditeur de segments</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="542"/>
         <source>Flood filling : {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation>Flood filling&#x202f;: {duration} secondes - </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="565"/>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="621"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Processus terminé en {durée} secondes</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="571"/>
         <source>Extract centerline setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Préparation du module &apos;Extract centerline&apos;</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="20"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="26"/>
         <source>Pick an input markups fiducial node.
 
 The fiducial points are assumed to be on the contrasted lumen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nœud liste de points.
+
+Les points de contrôle doivent être dans la lumière contrastée.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="66"/>
         <source>Pick an optional ROI node. This may speed up segmentation and centerline extraction. The ROI will be forcibly hidden after completion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nœud RDI. Cela peut accélérer la segmentation et l&apos;extraction de ligne centrale. La RDI sera dissimulée à la fin du processus.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="87"/>
         <source>Set the bounds of the ROI accounting for that of the fiducial node. It must  further be manually adjusted to enclose the target region of interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir les limites de la RDI tenant compte de celles du nœud liste de points. Elle doit être modifiée manuellement pour englober la région étudiée.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="93"/>
         <source>Pre-fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-ajuster</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="105"/>
         <source>ROI node:</source>
-        <translation type="unfinished"></translation>
+        <translation>RDI&#x202f;:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="115"/>
         <source>Fiducial node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste de points&#x202f;:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="122"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation&#x202f;:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="129"/>
         <source>Select an output segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une segmentation pour les résultats</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="161"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez une vue de tranches. Le nœud Volume de fond sera utilisé. Attention&#x202f;: utilisez le nœud Volume concerné par l&apos;étude.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="191"/>
         <source>Restore slice views with the referenced volume node</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer les vues de tranches référençant le nœud Volume</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="194"/>
@@ -2151,22 +2167,22 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="203"/>
         <source>Slice node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vue de tranches&#x202f;:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="219"/>
         <source>Flood filling parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de l&apos;effet &apos;Flood filling&apos;</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="243"/>
         <source>Intensity tolerance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolérance d &apos; intensité&#x202f;:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="250"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez des voxels connectés avec la plage d&apos;intensité entre celle à la position d&apos;un point de contrôle +/- cette tolérance.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="275"/>
@@ -2177,31 +2193,36 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="282"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Les régions ne sont ajoutées que si tous les voxels voisins ont des intensités similaires. Utilisez des valeurs plus élevées pour éviter les bavures. Utilisez des valeurs inférieures pour permettre la capture de détails plus fins.
+</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="315"/>
         <source>Use &apos;Extract centerline&apos; module to generate a centerline model and a centerline curve.
 
 It is recommended to generate centerlines on accurate segmentations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez le module &apos;Extract centerline&apos; pour générer un modèle de ligne centrale et une courbe de ligne centrale.
+
+Il est recommandé de générer des lignes centrales à partir de segmentations de bonne qualité.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="323"/>
         <source>Extract centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraire les lignes centrales</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="342"/>
         <source>Create a segmentation and optionally a centerline model and a centerline curve.
 
 Output nodes from the last run will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer une segmentation et optionnellement un modèle de ligne centrale et une courbe de ligne centrale.
+
+Les nœuds du processus précédents seront mis-à-jour.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="347"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
 </context>
 <context>
@@ -2355,7 +2376,7 @@ Le résultat est influencé par&#x202f;:
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Segment</source>
-        <translation>Segment</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
