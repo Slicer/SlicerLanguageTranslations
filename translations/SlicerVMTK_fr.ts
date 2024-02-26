@@ -1456,7 +1456,11 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 &lt;br&gt;&lt;br&gt;The &apos;Flood filling&apos; and &apos;Split volume&apos; effects of the &apos;&lt;a href=&quot;https://github.com/lassoan/SlicerSegmentEditorExtraEffects&quot;&gt;Segment editor extra effects&lt;/a&gt;&apos; are used.
 &lt;br&gt;&lt;br&gt;The &apos;&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ExtractCenterline/&quot;&gt;SlicerExtension-VMTK Extract centerline&lt;/a&gt;&apos; module is required.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; vise à créer une segmentation à partir d&apos;un angioscanner injecté, et peut extraire une ligne centrale du segment vasculaire créé.
+&lt;br&gt;&lt;br&gt;Il requiert qu&apos;une courbe se situe dans la lumière injectée.
+&lt;br&gt;&lt;br&gt;Les effets &apos;Flood filling&apos; et &apos;Split volume&apos; de l&apos;extension &apos;&lt;a href=&quot;https://github.com/lassoan/SlicerSegmentEditorExtraEffects&quot;&gt;Segment editor extra effects&lt;/a&gt;&apos; sont mis en oeuvre.
+</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="55"/>
@@ -1464,164 +1468,173 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été initialement écrit par Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+and Steve Pieper, Isomics, Inc. et son développement a été partiellement financé avec le grant 3P41RR013218-12S1 du NIH.
+</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="140"/>
         <source>Failed to install extension: </source>
-        <translation type="unfinished"></translation>
+        <translation>Échec d&apos;installation de l&apos;extension&#x202f;: </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="152"/>
         <source>Could not update metadata from server to install {extension}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de mettre à jour les métadonnées du serveur pour installer {extension}.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="154"/>
         <source>{extension} must be installed. Do you want to install it now ?</source>
-        <translation type="unfinished"></translation>
+        <translation>{extension} doit être installée. Voulez-vous l&apos;installer maintenant&#x202f;?</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="156"/>
         <source>This module cannot be used without {extension}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module ne peut être utilisé sans {extension}.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="159"/>
         <source>Failed to install {extension} extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec d&apos;installation de l&apos;extension {extension}.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="161"/>
         <source>{extension} has been installed from server.
 
 Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished"></translation>
+        <translation>{extension} a été installé du serveur.
+
+Slicer doit être redémarré. Voulez-vous redémarrer maintenant&#x202f;?</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="175"/>
         <source>Curve node must have at least 3 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud Curve doit avoir au moins 3 points.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="194"/>
         <source>Shape node is not a Tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud Shape n&apos;est pas de type Tube.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="201"/>
         <source>Shape node must have at least 4 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud Shape doit avoir au moins 4 points.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="371"/>
         <source>No input curve node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun nœud Courbe spécifié.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="374"/>
         <source>Input curve node must have at least 3 control points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud Courbe doit avoir au moins 3 points de contrôle.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="377"/>
         <source>No input slice node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune vue de tranches spécifiée.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="384"/>
         <source>No volume node selected in input slice node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun nœud Volume sélectionné dans la vue de tranches.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="398"/>
         <source>Failed to compute results: </source>
-        <translation type="unfinished"></translation>
+        <translation>Échec&#x202f;: </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="469"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du processus</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="471"/>
         <source>Segment editor setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Préparation de l&apos;Éditeur de segments</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="614"/>
         <source>Flood filling : {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation>Flood filling&#x202f;: {duration} secondes - </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="646"/>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="721"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Processus terminé en {durée} secondes</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="652"/>
         <source>Extract centerline setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Préparation du module &apos;Extract centerline&apos;</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="748"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du test</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="750"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Succès du test</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="23"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="32"/>
         <source>Input curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="39"/>
         <source>Pick an input markups curve node.
 
 The control points are assumed to be on the contrasted lumen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un nœud Courbe.
+
+Les points de contrôle doivent être placés dans le produit de contraste.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="80"/>
         <source>Tube diameter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamètre du tube&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="87"/>
         <source>Specify a value slightly above the maximum estimated diameter of the target artery.
 
 If a Shape::Tube node is specified below, this parameter is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Précisez une valeur légèrement supérieure au diamètre maximal estimé de l&apos;artère cible.
+
+Si un nœud Shape::Tube est spécifié ci-dessous, ce paramètre est ignoré.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="114"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="121"/>
         <source>Select an output segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une segmentation pour les résultats</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="153"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez une vue de tranches. Le nœud Volume de fond sera utilisé. Attention&#x202f;: utilisez le nœud Volume concerné par l&apos;étude.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="183"/>
         <source>Restore slice views with the referenced volume node</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer les vues de tranches référençant le nœud Volume</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="186"/>
@@ -1631,45 +1644,48 @@ If a Shape::Tube node is specified below, this parameter is ignored.</source>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="198"/>
         <source>Slice node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vue de tranches&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="217"/>
         <source>Alternative extent</source>
-        <translation type="unfinished"></translation>
+        <translation>Tube alternatif</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="232"/>
         <source>Use a Shape::Tube node to limit the circumferential
 extent, instead of a fixed diameter tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser un nœud Shape::Tube node pour limiter
+l&apos;étendue circonférentielle, au lieu d&apos;un tube de diamètre fixe.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="242"/>
         <source>Tube node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tube&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="249"/>
         <source>Limit the region of interest to this Shape::Tube node.
 
 If specified, the regular tube diameter above is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Limiter l&apos;analyse au nœud Shape::Tube.
+
+Si spécifié, le diamètre régulier du tube ci-dessus est ignoré.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="298"/>
         <source>Flood filling parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de l&apos;effet &apos;Flood filling&apos;</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="319"/>
         <source>Intensity tolerance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolérance d &apos; intensité&#x202f;:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="326"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez des voxels connectés avec la plage d&apos;intensité entre celle à la position d&apos;un point de contrôle +/- cette tolérance.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="351"/>
@@ -1680,24 +1696,27 @@ If specified, the regular tube diameter above is ignored.</source>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="358"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Les régions ne sont ajoutées que si tous les voxels voisins ont des intensités similaires. Utilisez des valeurs plus élevées pour éviter les bavures. Utilisez des valeurs inférieures pour permettre la capture de détails plus fins.
+</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="391"/>
         <source>Extract centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraire les lignes centrales</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="404"/>
         <source>Create a segmentation and optionally a centerline model and a centerline curve.
 
 Output nodes from the last run will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer une segmentation et optionnellement un modèle de ligne centrale et une courbe de ligne centrale.
+
+Les nœuds du processus précédents seront mis-à-jour.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="412"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
 </context>
 <context>
