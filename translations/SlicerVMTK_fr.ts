@@ -2750,7 +2750,7 @@ Il devrait idéalement dépasser légèrement la représentation de la paroi vas
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="242"/>
         <source>Show the wall between the boundary points as a model.</source>
-        <translation>Afficher un modèle de la paroi dans la limite d&apos;analyse.</translation>
+        <translation>Afficher un modèle de la paroi dans les limites de l&apos;analyse.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="250"/>
@@ -2760,7 +2760,7 @@ Il devrait idéalement dépasser légèrement la représentation de la paroi vas
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="273"/>
         <source>Show the lumen between the boundary points as a model.</source>
-        <translation>Afficher un modèle de la lumière dans la limite d&apos;analyse.</translation>
+        <translation>Afficher un modèle de la lumière dans les limites de l&apos;analyse.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="281"/>
