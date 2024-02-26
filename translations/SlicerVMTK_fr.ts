@@ -1237,8 +1237,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="307"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="307"/>
         <source>Centerline model:</source>
-        <translation>Modèle de
-ligne centrale&#x202f;:</translation>
+        <translation>Modèle de ligne centrale&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="314"/>
@@ -1256,8 +1255,7 @@ ligne centrale&#x202f;:</translation>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="347"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="347"/>
         <source>Centerline curve:</source>
-        <translation>Courbe de
-ligne centrale&#x202f;:</translation>
+        <translation>Courbe de ligne centrale&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="365"/>
@@ -1269,8 +1267,7 @@ ligne centrale&#x202f;:</translation>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="387"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="387"/>
         <source>Centerline properties:</source>
-        <translation>Propriétés de
-ligne centrale&#x202f;:</translation>
+        <translation>Propriétés de ligne centrale&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="405"/>
@@ -1288,8 +1285,7 @@ ligne centrale&#x202f;:</translation>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="442"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="442"/>
         <source>Preprocess input surface:</source>
-        <translation>Pré-traitement de
-la surface d&apos;entrée&#x202f;:</translation>
+        <translation>Pré-traitement de la surface d&apos;entrée&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="449"/>
@@ -1301,8 +1297,7 @@ la surface d&apos;entrée&#x202f;:</translation>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="462"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="462"/>
         <source>Target point count:</source>
-        <translation>Compte de
-points cible&#x202f;:</translation>
+        <translation>Compte de points cible&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="472"/>
@@ -1320,8 +1315,7 @@ points cible&#x202f;:</translation>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="497"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="497"/>
         <source>Decimation aggressiveness:</source>
-        <translation>Agressivité de
-décimation&#x202f;:</translation>
+        <translation>Agressivité de décimation&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="507"/>
@@ -1345,8 +1339,7 @@ décimation&#x202f;:</translation>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="549"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="549"/>
         <source>Output preprocessed surface:</source>
-        <translation>Surface de sortie
-pré-traitée&#x202f;:</translation>
+        <translation>Surface de sortie pré-traitée&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="559"/>
@@ -1364,15 +1357,13 @@ pré-traitée&#x202f;:</translation>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="592"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="592"/>
         <source>Mesh error check results:</source>
-        <translation>Erreurs de vérification
-du maillage&#x202f;:</translation>
+        <translation>Erreurs de vérification du maillage&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="599"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="599"/>
         <source>Output Voronoi diagram:</source>
-        <translation>Diagramme de Voronoï
-en sortie&#x202f;:</translation>
+        <translation>Diagramme de Voronoï en sortie&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="606"/>
@@ -1402,8 +1393,7 @@ en sortie&#x202f;:</translation>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="672"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="672"/>
         <source>Curve sampling distance:</source>
-        <translation>Distance d’échantillonnage
-de courbe&#x202f;:</translation>
+        <translation>Distance d’échantillonnage de courbe&#x202f;:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="682"/>
