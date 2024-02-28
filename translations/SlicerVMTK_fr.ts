@@ -138,12 +138,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="95"/>
         <source>Bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifurcations</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="96"/>
         <source>Branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Branches</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="97"/>
@@ -518,7 +518,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1622"/>
         <source>Diameter (MIS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamètre (MIS)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1623"/>
