@@ -414,7 +414,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="620"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1624"/>
         <source>Cross-section area</source>
-        <translation>Surface de la section</translation>
+        <translation>Superficie de la section</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="622"/>
