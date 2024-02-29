@@ -444,7 +444,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation>Determine cómo inicializar el centro de transformación. useAlinearMomentos, asume que el centro de masa de las imágenes representan estructuras similares. useAlinearCentroDeCabeza, intenta usar la parte superior de la cabeza y la forma del cuello para conducir una estimación del centro de masa. useAlinearGeometría, on, asume que el centro de la red de vóxeles de las imágenes representan estructuras similares.  Desactivado, asume que el espacio físico de las imágenes son similares.  Esta bandera es mutuamente excluyente con la transformada Initialization.</translation>
+        <translation>Determine cómo inicializar el centro de transformación. Use &quot;alinear momentos&quot;, asume que el centro de masa de las imágenes representan estructuras similares. useAlinearCentroDeCabeza, intenta usar la parte superior de la cabeza y la forma del cuello para conducir una estimación del centro de masa. useAlinearGeometría, on, asume que el centro de la red de vóxeles de las imágenes representan estructuras similares.  Desactivado, asume que el espacio físico de las imágenes son similares.  Esta bandera es mutuamente excluyente con la transformada Initialization.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -455,22 +455,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
         <source>useMomentsAlign</source>
-        <translation>useAlinearMomentos</translation>
+        <translation>Use&quot;alinear momentos&quot;</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation>useAlineaciónDeCentroDeCabeza</translation>
+        <translation>Use &quot;alineación de centro de cabeza&quot;</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
         <source>useGeometryAlign</source>
-        <translation>useAlineaciónGeométrica</translation>
+        <translation>Use &quot;alineación geométrica&quot;</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
         <source>useCenterOfROIAlign</source>
-        <translation>usarElCentroDeAlineaciónROI</translation>
+        <translation>Usar &quot;El Centro de Alineación ROI&quot;</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
@@ -525,7 +525,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>Realiza un registro EscalaDeVersor 3D como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de Tipodetransformación si alguna de ellas está establecida.</translation>
+        <translation>Realiza un registro Escala de Versor 3D como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de Tipodetransformación si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
@@ -773,7 +773,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
         <source>ResampleInPlace</source>
-        <translation>RemuestrearEnLugar</translation>
+        <translation>Remuestrear en su lugar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="98"/>
@@ -1508,7 +1508,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="36"/>
         <source>Filename for the BRAINSFit transform (ITKv3 or earlier) or composite transform file (ITKv4)</source>
-        <translation>Nombre del archivo de transformación CEREBROSFit (ITKv3 o anterior) o archivo de transformación compuesta (ITKv4)</translation>
+        <translation>Nombre del archivo de transformación CEREBROFit (ITKv3 o anterior) o archivo de transformación compuesta (ITKv4)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
@@ -1612,7 +1612,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="4"/>
         <source>Resize Image (BRAINS)</source>
-        <translation>Redimensionar imagen (CEREBROS)</translation>
+        <translation>Redimensionar imagen (CEREBRO)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="5"/>
@@ -1740,7 +1740,7 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="4"/>
         <source>Strip Rotation (BRAINS)</source>
-        <translation>Rotación de tiras (CEREBROS)</translation>
+        <translation>Rotación de tiras (CEREBRO)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
@@ -1784,7 +1784,7 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
         <source>Transform Convert (BRAINS)</source>
-        <translation>Transformar Convertir (CEREBROS)</translation>
+        <translation>Transformar Convertir (CEREBRO)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
@@ -1854,22 +1854,22 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="19"/>
         <source>VersorRigid</source>
-        <translation>VersorRígido</translation>
+        <translation>Versor rígido</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"/>
         <source>ScaleVersor</source>
-        <translation>EscalaDeVersor</translation>
+        <translation>Escala de versor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="21"/>
         <source>ScaleSkewVersor</source>
-        <translation>EscalaDeVersorInclinada</translation>
+        <translation>Escala de versor inclinada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"/>
         <source>DisplacementField</source>
-        <translation>CampoDeDesplazamiento</translation>
+        <translation>Campo de desplazamiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"/>
@@ -1887,7 +1887,7 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"/>
         <source>Cast Scalar Volume</source>
-        <translation>VolumenEscalarFundido</translation>
+        <translation>Volumen escalar fundido</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"/>
@@ -1952,32 +1952,32 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
         <source>UnsignedChar</source>
-        <translation>CarácterSinSigno</translation>
+        <translation type="unfinished">UnsignedChar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
         <source>Char</source>
-        <translation>Carácter</translation>
+        <translation type="unfinished">Char</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation>Corto</translation>
+        <translation type="unfinished">Short</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation>CortoSinSigno</translation>
+        <translation type="unfinished">UnsignedShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
         <source>Int</source>
-        <translation>int</translation>
+        <translation>Int</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation>IntSinSigno</translation>
+        <translation type="unfinished">UnsignedInt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
@@ -1995,7 +1995,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="4"/>
         <source>CheckerBoard Filter</source>
-        <translation>FiltroDeTableroDeAjedrez</translation>
+        <translation>Filtro de tablero de ajedrez</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"/>
@@ -2010,12 +2010,12 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
         <source>CheckerBoard Parameters</source>
-        <translation>Parámetros del TableroDeControl</translation>
+        <translation>Parámetros del tablero de control</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="8"/>
         <source>Parameters for the checkerboard</source>
-        <translation>Parámetros del tablerodecontrol</translation>
+        <translation>Parámetros del tablero de control</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="9"/>
@@ -2179,33 +2179,33 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="25"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="29"/>
         <source>Short</source>
-        <translation>Corto</translation>
+        <translation type="unfinished">Corto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="26"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="28"/>
         <source>UnsignedChar</source>
-        <translation>CarácterSinSigno</translation>
+        <translation type="unfinished">CarácterSinSigno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="27"/>
         <source>Char</source>
-        <translation>Carácter</translation>
+        <translation type="unfinished">Carácter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="30"/>
         <source>UnsignedShort</source>
-        <translation>CortoSinSigno</translation>
+        <translation type="unfinished">CortoSinSigno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="31"/>
         <source>Int</source>
-        <translation>Entero</translation>
+        <translation type="unfinished">Entero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="32"/>
         <source>UnsignedInt</source>
-        <translation>IntSinSigno</translation>
+        <translation type="unfinished">IntSinSigno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="33"/>
@@ -3205,17 +3205,17 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="33"/>
         <source>Boolean Default true</source>
-        <translation>Booleano Por defecto verdadero</translation>
+        <translation>Booleano por defecto verdadero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="34"/>
         <source>Boolean Default false</source>
-        <translation>Booleano Por defecto falso</translation>
+        <translation>Booleano por defecto falso</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="35"/>
         <source>Boolean No Default</source>
-        <translation>Booleano No Predeterminado</translation>
+        <translation>Booleano no predeterminado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="36"/>
