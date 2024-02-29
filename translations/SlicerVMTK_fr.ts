@@ -990,7 +990,7 @@ Attention&#x202f;: les valeurs aux bifurcations peuvent ne pas avoir de signific
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="265"/>
         <source>Found {0} non-manifold edges.</source>
-        <translation type="unfinished">{0} bords isolé trouvés.</translation>
+        <translation>{0} bords isolés trouvés.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="266"/>
