@@ -162,7 +162,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
         <source>Source Passive Images Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fuente Imágenes pasivas Imagen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
@@ -253,7 +253,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
         <source>Output Image Intensity Normalization</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalización de la intensidad de la imagen de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
@@ -384,47 +384,47 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
         <source>Output Settings (At least one output must be specified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de salida (se debe especificar al menos una salida)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación lineal de segmentación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
         <source>Slicer BSpline Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación BSpline de rebanadora</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
         <source>Output Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de imagen de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
         <source>(optional) Output estimated transform - in case the computed transform is not BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(opcional) Transformación estimada de salida: en caso de que la transformación calculada no sea BSpline. NOTA: Debe configurar al menos un objeto de salida (transformación y/o volumen de salida).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
         <source>(optional) Output estimated transform - in case the computed transform is BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(opcional) Transformación estimada de salida: en caso de que la transformación calculada sea BSpline. NOTA: Debe configurar al menos un objeto de salida (transformación y/o volumen de salida).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(opcional) Imagen de salida: la imagen en movimiento se deforma al espacio de imagen fijo. NOTA: Debe configurar al menos un objeto de salida (transformación y/o volumen de salida).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar configuración de inicialización</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
         <source>Options for initializing transform parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones para inicializar parámetros de transformación.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
