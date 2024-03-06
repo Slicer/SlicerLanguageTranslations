@@ -8304,7 +8304,7 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>default (apply regularization transform)</source>
-        <translation>Par défaut (appliquer la transformation de régularisation)Valeur par défaut (appliquer la transformation de régularisation</translation>
+        <translation>par défaut (appliquer la transformation de régularisation)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="97"/>
@@ -25884,12 +25884,12 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="97"/>
         <source>Extensions server URL:</source>
-        <translation>Extensions serveur URL&#x202f;:</translation>
+        <translation>URL du serveur d&apos;extensions&#x202f;:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="107"/>
         <source>Extensions frontend server URL:</source>
-        <translation>Extensions frontend serveur URL&#x202f;:</translation>
+        <translation>URL du serveur frontal des extensions&#x202f;:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="117"/>
