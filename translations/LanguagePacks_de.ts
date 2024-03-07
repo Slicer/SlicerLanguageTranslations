@@ -26,12 +26,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="66"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprachen:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate (letzte Übersetzungen)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="83"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="90"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lokaler Ordner (für Offlinegebrauch)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="97"/>
@@ -56,12 +56,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>aktualisieren</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="117"/>
         <source>Select language(s) that will be downloaded and installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle die Sprache(n), die heruntergeladen und installiert werden soll(en).</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="124"/>
@@ -76,12 +76,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="157"/>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache der Anwendung:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="170"/>
         <source>Change only takes effect after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Änderung wird erst nach einem Neustart der Anwendung wirksam.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="180"/>
@@ -91,12 +91,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="183"/>
         <source>Restart the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Starte die Anwendung neu</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="192"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Einstellungen</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="204"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="224"/>
         <source>Slicer version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer Version:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="231"/>
@@ -141,27 +141,27 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="275"/>
         <source>Translation file folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner für Übersetzungsdateien:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="282"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste von Ordnern, in denen die Anwendung nach Übersetzungen sucht. Dies ist nur zur Information, die Pfade können nicht geändert werden.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="291"/>
         <source>Show more...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr anzeigen...</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="301"/>
         <source>Find text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text finden</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="313"/>
         <source>Enable text finder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviere Textsuche:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="320"/>
