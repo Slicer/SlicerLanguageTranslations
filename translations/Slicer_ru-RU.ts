@@ -66,17 +66,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширенные параметры для точной настройки вычислений.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Порядок полиномиальной интерполяции, который используется, если два изображения имеют разную геометрию (начало координат, расстояние, направления осей или экстенты): 0 = ближайший сосед, 1 = линейная, 2 = квадратичная, 3 = кубическая интерполяция.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation>Порядок интерполяции</translation>
     </message>
 </context>
 <context>
@@ -94,7 +94,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
         <source>Input Parameters</source>
-        <translation type="unfinished">Параметры ввода</translation>
+        <translation>Входные параметры</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
@@ -137,7 +137,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
         <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта работа была выполнена кафедрой электротехники и вычислительной техники Университета Айовы.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
