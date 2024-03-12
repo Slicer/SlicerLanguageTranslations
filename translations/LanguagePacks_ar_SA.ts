@@ -6,27 +6,27 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="30"/>
         <source>Download, compile, and install latest translations</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتنزيل وتجميع وتثبيت أحدث الترجمات</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="33"/>
         <source>Update translation files</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث ملفات الترجمة</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="47"/>
         <source>Input translations</source>
-        <translation type="unfinished"></translation>
+        <translation>ترجمات المدخلات</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="56"/>
         <source>Input folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد الإدخال:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="66"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>اللغات:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
@@ -41,52 +41,52 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="90"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد محلي (للاستخدام غير المتصل بالإنترنت)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="97"/>
         <source>Latest file only:</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف الأخير فقط:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="107"/>
         <source>Refresh Weblate language list by querying the Weblate server.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتحديث قائمة لغة Weblate عن طريق الاستفسار عن خادم Weblate.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="117"/>
         <source>Select language(s) that will be downloaded and installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر اللغة (اللغات) التي سيتم تنزيلها وتركيبها.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="124"/>
         <source>Folder containing translation (.ts) files.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف يحتوي على ترجمة (ملفات).</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="139"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this option is checked then only the latest .ts file in the folder will be used. Enable this option to ignore previously downloaded .ts files are saved in the same folder.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;إذا تم التحقق من هذا الخيار، فسيتم استخدام آخر ملف .ts فقط في المجلد. تمكين هذا الخيار لتجاهل تنزيل مسبق.الملفات محفوظة في نفس المجلد.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="157"/>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation>لغة التطبيق:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="170"/>
         <source>Change only takes effect after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>يصبح التغيير ساري المفعول فقط بعد إعادة تشغيل التطبيق.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="180"/>
         <source>Restart the application to see updated translations on the graphical user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تشغيل التطبيق لمشاهدة الترجمات المحدثة على واجهة المستخدم الرسومية.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="183"/>
