@@ -10960,49 +10960,49 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="17"/>
         <source>Label Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de Etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="405"/>
         <source>Voxel count</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuenta de Voxel</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="406"/>
         <source>Number of voxels in the binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de Voxels en el mapa de etiquetas binario representación del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="413"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="421"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="414"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="422"/>
         <source>Volume of the segment computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen del segmento computarizado de la representación del mapa de etiquetas binario.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="415"/>
         <source>mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="423"/>
         <source>cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="430"/>
         <source>Centroid</source>
-        <translation type="unfinished"></translation>
+        <translation>Centroide</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="431"/>
         <source>Location of the centroid in RAS. Computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Localización del centroide en RAS. Computado desde la representación del mapa de etiquetas binario.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="436"/>
