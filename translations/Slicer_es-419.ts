@@ -7711,7 +7711,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="26"/>
         <source>Crop volume sequence</source>
-        <translation>Secuencia de recorte de volumen</translation>
+        <translation>Secuencia del volumen de corte</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="30"/>
