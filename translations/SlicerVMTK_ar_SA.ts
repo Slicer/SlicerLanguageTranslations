@@ -187,103 +187,103 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="233"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="251"/>
         <source> curves</source>
-        <translation type="unfinished"></translation>
+        <translation> منحنيات</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="217"/>
         <source>Creating bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء تشعبات</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="220"/>
         <source>Bifurcation_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج التشعب</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="223"/>
         <source>Bifurcation_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>منحنى التشعب</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="235"/>
         <source>Creating branches</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء فروع</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="238"/>
         <source>Branch_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الفرع</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="241"/>
         <source>Branch_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>منحنى الفرع</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="253"/>
         <source>Creating centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء خطوط مركزية</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="256"/>
         <source>Centerline_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>النموذج المركزي</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="259"/>
         <source>Centerline_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>منحنى خط الوسط</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="264"/>
         <source>Invalid component</source>
-        <translation type="unfinished"></translation>
+        <translation>عنصر غير صالح</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="268"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهى</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="338"/>
         <source>Input centerline is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>خط وسط المدخلات غير صالح</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="430"/>
         <source>Processing curve creation started</source>
-        <translation type="unfinished"></translation>
+        <translation>بدأ إنشاء منحنى المعالجة</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="490"/>
         <source>Processing curve creation completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>تم الانتهاء من إنشاء منحنى المعالجة في {مدة} ثانية</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="495"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="525"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline model first.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Call &apos;splitCenterlines()&apos; with an input centerline model first.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="499"/>
         <source>Processing centerline ids started</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء معالجة معرفات خط الوسط</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="519"/>
         <source>Processing centerline ids completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتمل تجهيز هويات خط الوسط في {مدة} ثانية</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="529"/>
         <source>Processing group ids started</source>
-        <translation type="unfinished"></translation>
+        <translation>بدأت معالجات الهوية الجماعية</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="562"/>
         <source>Processing group ids completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتمل تجهيز بطاقات المجموعة في {مدة} ثانية</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="578"/>
