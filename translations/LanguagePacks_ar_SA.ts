@@ -31,12 +31,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate (أحدث الترجمات)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="83"/>
         <source>GitHub (updated daily)</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub (تم تحديثه يوميًا)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="90"/>
@@ -91,12 +91,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="183"/>
         <source>Restart the application</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تشغيل التطبيق</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="192"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"></translation>
+        <translation>الإعدادات المتقدمة</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="204"/>
@@ -106,37 +106,37 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="211"/>
         <source>Path to Qt lrelease executable. Leave empty to use default (the one bundled with the Slicer installer or available in system paths).</source>
-        <translation type="unfinished"></translation>
+        <translation>الطريق إلى Qt lrelease قابل للتنفيذ. اتركه فارغًا لاستخدام الافتراضي (الذي تم تجميعه مع مثبت Slicer أو متوفر في مسارات النظام).</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="224"/>
         <source>Slicer version:</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخة Slicer:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="231"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Only used for GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;يستخدم فقط لـ GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="241"/>
         <source>GitHub repository URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط ملف GitHub:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="248"/>
         <source>Github repository that stores the translated strings.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف Github الذي يخزن السلاسل المترجمة.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="258"/>
         <source>Weblate download URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>تنزيل رابط Weblate :</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="265"/>
         <source>Weblate project that stores the translated strings.</source>
-        <translation type="unfinished"></translation>
+        <translation>مشروع Weblate الذي يخزن السلاسل المترجمة.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="275"/>
