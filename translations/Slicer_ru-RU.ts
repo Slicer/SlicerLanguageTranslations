@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation>Добавляет два изображения. Для ввода доступны все типы изображений , однако выведены будут только подписанные. Введённые изображения должны быть разных размеров.</translation>
+        <translation>Добавляет два изображения. Для ввода доступны все типы изображений , однако выведены будут только подписанные. Введённые изображения могут быть разных размеров.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
