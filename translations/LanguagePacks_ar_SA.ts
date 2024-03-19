@@ -101,7 +101,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="204"/>
         <source>Qt &apos;lrelease&apos; tool path:</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار أداة Qt &apos;lrelease:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="211"/>
@@ -141,42 +141,42 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="275"/>
         <source>Translation file folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلدات ملفات الترجمة:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="282"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة المجلدات التي يبحث فيها التطبيق عن الترجمات. هذا للعلم فقط، لا يمكن تغيير المسارات.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="291"/>
         <source>Show more...</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر المزيد...</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="301"/>
         <source>Find text</source>
-        <translation type="unfinished"></translation>
+        <translation>ابحث عن نص</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="313"/>
         <source>Enable text finder:</source>
-        <translation type="unfinished"></translation>
+        <translation>مكّن مكتشف النص:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="320"/>
         <source>If enabled, then the shortcut opens the text finder, which can be used to extract text from the application user interface and open it in the translation website.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم تمكينه، فإن الاختصار يفتح مكتشف النصوص، والذي يمكن استخدامه لاستخراج النص من واجهة مستخدم التطبيق وفتحه في موقع الترجمة.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="323"/>
         <source> (shortcut: Ctrl+6)</source>
-        <translation type="unfinished"></translation>
+        <translation> (اختصار: Ctrl + 6)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="330"/>
         <source>Edited language:</source>
-        <translation type="unfinished"></translation>
+        <translation>اللغة المحررة:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
