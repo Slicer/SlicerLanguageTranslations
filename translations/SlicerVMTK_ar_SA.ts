@@ -288,64 +288,66 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="578"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء الاختبار</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="580"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>اجتاز الاختبار</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="19"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج خط الوسط:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="29"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر المدخلات إلى الخوارزمية.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="65"/>
         <source>Component:</source>
-        <translation type="unfinished"></translation>
+        <translation>عنصر:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="72"/>
         <source>Select the output components.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد مكونات الإخراج.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="102"/>
         <source>Create centerline models</source>
-        <translation type="unfinished"></translation>
+        <translation>أنشئ نماذج خط الوسط</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="105"/>
         <source>Create models</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء نماذج</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="115"/>
         <source>Create centerline curves.
 
 Upon curve creation, the visibility of the names can be specified via the menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء منحنيات خط الوسط.
+
+عند إنشاء المنحنى، يمكن تحديد رؤية الأسماء عبر القائمة.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="120"/>
         <source>Create curves</source>
-        <translation type="unfinished"></translation>
+        <translation>أنشئ منحنيات</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="135"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="138"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
 </context>
 <context>
@@ -356,7 +358,10 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available
     &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تصف هذه الوحدة المقاطع العرضية على طول نموذج خط مركزي VMTK أو منحنى ترميز مركزي VMTK أو منحنى ترميز اعتباطي. الوثائق متاحة
+    &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;هنا&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="43"/>
@@ -364,18 +369,21 @@ This module describes cross-sections along a VMTK centerline model, a VMTK cente
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطوير هذا الملف في الأصل بواسطة Jean-Christophe Fillion-Robin، Kitware Inc.، Andras Lasso، PerkLab،
+و Steve Piepe، Isomics، Inc. وتم تمويله جزئيًا من قبل 3P41RR013218-12S1 منح المعاهد الوطنية للصحة.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="335"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="868"/>
         <source>Input is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>المدخلات غير صالحة.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="423"/>
         <source>N/A (input lumen surface not specified)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">N/A (سطح تجويف الإدخال غير محدد)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="442"/>
@@ -385,7 +393,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="592"/>
         <source>Selected Shape node is not a Tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة الشكل المختارة ليست أنبوب.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="598"/>
@@ -480,12 +488,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1379"/>
         <source>Could not cut segment. Is it visible in 3D view?</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن قطع المقطع. هل هو مرئي في عرض ثلاثي الأبعاد ؟</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1382"/>
         <source>Not enough points to create surface</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد نقاط كافية لإنشاء سطح</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1416"/>
