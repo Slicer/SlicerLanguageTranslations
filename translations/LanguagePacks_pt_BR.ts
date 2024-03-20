@@ -161,27 +161,27 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="313"/>
         <source>Enable text finder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar o localizador de texto:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="320"/>
         <source>If enabled, then the shortcut opens the text finder, which can be used to extract text from the application user interface and open it in the translation website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ativado, o atalho abrirá o localizador de texto, que pode ser usado para extrair o texto da interface do usuário do aplicativo e abri-lo no site de tradução.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="323"/>
         <source> (shortcut: Ctrl+6)</source>
-        <translation type="unfinished"></translation>
+        <translation> (atalho: Ctrl+6)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="330"/>
         <source>Edited language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma editado:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas linguísticas</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -189,113 +189,121 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo pode construir arquivos de tradução e instalá-los localmente. É útil para criar e testar traduções.
+Veja mais informações na &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;documentação da extensão&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="39"/>
         <source>
 Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+O desenvolvimento deste módulo foi parcialmente financiado pela &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;subsídio CZI EOSS&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="141"/>
         <source>Failed to extract any text from widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao extrair qualquer texto do widget</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="156"/>
         <source>Click on the text to find it on the translation website:
 
 {links}</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique no texto para encontrá-lo no site de tradução:
+
+{links}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="174"/>
         <source>Failed to extract any text from: {object}</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao extrair qualquer texto de: {object}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="296"/>
         <source>Failed to retrieve language list from Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao recuperar a lista de idiomas do Weblate.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="412"/>
         <source>Update failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na atualização.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="439"/>
         <source>Update completed! Select application language and restart the application to see the results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização concluída! Selecione o idioma do aplicativo e reinicie o aplicativo para ver os resultados.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="515"/>
         <source>Failed to query list of languages from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao consultar a lista de idiomas do Weblate ({status_code}:{reason})</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="545"/>
         <source>Failed to query list of components from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao consultar a lista de componentes do Weblate ({status_code}:{reason})</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="584"/>
         <source>No .ts files were found in the specified location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum arquivo .ts foi encontrado no local especificado.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="588"/>
         <source>Use translation file: {file}</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar arquivo de tradução: {file}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="613"/>
         <source>Download translations for {component}/{language}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixar traduções para {component}/{language}...</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="622"/>
         <source>Failed to download translation from: {url} -- {text}</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao fazer o download da tradução de: {url} -- {text}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="623"/>
         <source>Download failed. This component may not have been translated to the selected language.</source>
-        <translation type="unfinished"></translation>
+        <translation>O download falhou. Esse componente pode não ter sido traduzido para o idioma selecionado.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="687"/>
         <location filename="LanguageTools/LanguageTools.py" line="710"/>
         <source>Translation files folder is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>A pasta de arquivos de tradução não foi especificada.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="690"/>
         <source>lrelease tool path is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não se especificou o caminho da ferramenta lrelease.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="728"/>
         <source>No translation (qm) files were found at {location}</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum arquivo de tradução (qm) foi encontrado em {location}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="730"/>
         <source>Update successfully completed.
 Installed {count} translation files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização concluída com sucesso.
+Instalados {count} arquivos de tradução em {location}.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="736"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta versão do Slicer não é compatível com fontes de visualização personalizadas.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="759"/>
         <source>Installed {count} font files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalado {count} arquivos de fonte em {location}.</translation>
     </message>
 </context>
 <context>
@@ -303,7 +311,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="23"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitários</translation>
     </message>
 </context>
 </TS>
