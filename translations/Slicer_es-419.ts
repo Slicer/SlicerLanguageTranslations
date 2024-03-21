@@ -1952,22 +1952,22 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished">UnsignedChar</translation>
+        <translation>UnsignedChar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
         <source>Char</source>
-        <translation type="unfinished">Char</translation>
+        <translation>Char</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation type="unfinished">Short</translation>
+        <translation>Short</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished">UnsignedShort</translation>
+        <translation>UnsignedShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
@@ -1977,7 +1977,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished">UnsignedInt</translation>
+        <translation>UnsignedInt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
@@ -2179,33 +2179,33 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="25"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="29"/>
         <source>Short</source>
-        <translation type="unfinished">Corto</translation>
+        <translation>Short</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="26"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="28"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished">CarácterSinSigno</translation>
+        <translation>UnsignedChar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="27"/>
         <source>Char</source>
-        <translation type="unfinished">Carácter</translation>
+        <translation>Char</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="30"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished">CortoSinSigno</translation>
+        <translation>UnsignedShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="31"/>
         <source>Int</source>
-        <translation type="unfinished">Entero</translation>
+        <translation>Int</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="32"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished">IntSinSigno</translation>
+        <translation>UnsignedInt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="33"/>
@@ -8300,7 +8300,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="99"/>
         <source>harden regularization transform</source>
-        <translation type="unfinished">Transformación de regularización robusta</translation>
+        <translation>Transformación de regularización robusta</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="102"/>
@@ -11607,27 +11607,27 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="174"/>
         <source>Minimum input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished">Dentro del segmento, el valor del vóxel escalar del volumen de entrada es mínimo.</translation>
+        <translation>Dentro del segmento, el valor del vóxel escalar del volumen de entrada es mínimo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="181"/>
         <source>Maximum input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished">Valor máximo de voxel de volumen escalar de entrada dentro del segmento.</translation>
+        <translation>Valor máximo de vóxel de volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="188"/>
         <source>Mean input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished">Valor medio del voxel de volumen escalar de entrada dentro del segmento.</translation>
+        <translation>Valor medio del vóxel de volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="195"/>
         <source>Median input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished">Valor de voxel de volumen escalar de entrada mediano dentro del segmento.</translation>
+        <translation>Valor de vóxel de volumen escalar de entrada mediano dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="204"/>
         <source>Standard deviation of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished">Desviación estándar de los valores de voxel de volumen escalar de entrada dentro del segmento.</translation>
+        <translation>Desviación estándar de los valores de vóxel de volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
         <source>Volume in mm3</source>
