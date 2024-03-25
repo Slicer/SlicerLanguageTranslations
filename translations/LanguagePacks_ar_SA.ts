@@ -181,7 +181,7 @@
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات اللغة</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -189,113 +189,121 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+يمكن لهذه الوحدة إنشاء ملفات الترجمة وتثبيتها محليًا. إنه مفيد لإنشاء واختبار الترجمات.
+انظر المزيد من المعلومات في &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;وثائق التمديد&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="39"/>
         <source>
 Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطوير هذه الوحدة جزئياً من قبل &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="141"/>
         <source>Failed to extract any text from widget</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في استخراج أي نص من الودجة</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="156"/>
         <source>Click on the text to find it on the translation website:
 
 {links}</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر فوق النص للعثور عليه على موقع الترجمة:
+
+{links}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="174"/>
         <source>Failed to extract any text from: {object}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في استخراج أي نص من: {object}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="296"/>
         <source>Failed to retrieve language list from Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في استعادة قائمة اللغة من Weblate.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="412"/>
         <source>Update failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التحديث.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="439"/>
         <source>Update completed! Select application language and restart the application to see the results.</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتمل التحديث! حدد لغة التطبيق وأعد تشغيل التطبيق لمعرفة النتائج.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="515"/>
         <source>Failed to query list of languages from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في الاستعلام عن قائمة اللغات من Weblate ({status_code}: {reason}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="545"/>
         <source>Failed to query list of components from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في الاستعلام عن قائمة المكونات من Weblate ({status_code}:{reason})</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="584"/>
         <source>No .ts files were found in the specified location.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على أي ملفات .ts في المكان المحدد.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="588"/>
         <source>Use translation file: {file}</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم ملف الترجمة: {file}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="613"/>
         <source>Download translations for {component}/{language}...</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتنزيل الترجمات لـ {component}/{language}...</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="622"/>
         <source>Failed to download translation from: {url} -- {text}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تنزيل الترجمة من: {url} - {text}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="623"/>
         <source>Download failed. This component may not have been translated to the selected language.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التنزيل. ربما لم يتم ترجمة هذا المكون إلى اللغة المختارة.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="687"/>
         <location filename="LanguageTools/LanguageTools.py" line="710"/>
         <source>Translation files folder is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد ملفات الترجمة غير محدد.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="690"/>
         <source>lrelease tool path is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار أداة lrelease غير محدد.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="728"/>
         <source>No translation (qm) files were found at {location}</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على ملفات ترجمة (qm) في {location}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="730"/>
         <source>Update successfully completed.
 Installed {count} translation files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتمل التحديث بنجاح.
+تم تثبيت {count} ملفات الترجمة في {location}.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="736"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا الإصدار Slicer لا يدعم خطوط المشاهد المخصصة.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="759"/>
         <source>Installed {count} font files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تثبيت {count} ملفات الخط في {location}.</translation>
     </message>
 </context>
 <context>
@@ -303,7 +311,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="23"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>الأدوات المساعدة</translation>
     </message>
 </context>
 </TS>
