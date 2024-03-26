@@ -119,7 +119,7 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="77"/>
         <source>The following list of paths will be searched for executables which provide a XML parameter description when called with a &quot;--xml&quot; command line argument:</source>
-        <translation type="unfinished"></translation>
+        <translation>A lista de caminhos a seguir será pesquisada em busca de executáveis que forneçam uma descrição de parâmetro XML quando chamados com um argumento de linha de comando &quot;--xml&quot;:</translation>
     </message>
 </context>
 <context>
@@ -127,17 +127,17 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="14"/>
         <source>Module Settings            </source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações de módulo            </translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="32"/>
         <source>Run Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações de execução</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="73"/>
         <source>Maximum parallel running modules:</source>
-        <translation type="unfinished"></translation>
+        <translation>Máximo de módulos em execução paralela:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="93"/>
@@ -150,7 +150,7 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="14"/>
         <source>CTK Command Line Module Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorador de Módulos de Linha de Comando CTK</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="53"/>
@@ -160,12 +160,12 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="61"/>
         <source>&amp;Module</source>
-        <translation type="unfinished">&amp;Módulo</translation>
+        <translation>&amp;Módulo</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="78"/>
         <source>toolBar</source>
-        <translation type="unfinished">toolBar</translation>
+        <translation>Barra de Ferramentas</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="106"/>
@@ -180,7 +180,7 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="195"/>
         <source>Clear</source>
-        <translation type="unfinished">Limpar</translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="266"/>
@@ -190,102 +190,102 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="297"/>
         <source>XML Checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificador XML</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="322"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificar</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="369"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Executar</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="372"/>
         <source>Run module</source>
-        <translation type="unfinished"></translation>
+        <translation>Executar Módulo</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="375"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="384"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cancelar</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="387"/>
         <source>Cancel module</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar módulo</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="390"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="395"/>
         <source>&amp;Load Modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Carregar Módulos...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="398"/>
         <source>Load module</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar módulo</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="401"/>
         <source>Ctrl+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="406"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sair</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="418"/>
         <source>&amp;Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pausar</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="421"/>
         <source>Pause module</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausar módulo</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="424"/>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="429"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opções...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="434"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Redefinir</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="437"/>
         <source>Reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>Redefinir para os valores padrões</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="442"/>
         <source>Clear Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar Cache</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="447"/>
         <source>Reload Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Recarregar módulos</translation>
     </message>
 </context>
 <context>
@@ -294,17 +294,17 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="14"/>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="32"/>
         <source>Registered Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulos registrados</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="134"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Alerta</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="143"/>
         <source>No XML output available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma saída XML disponível.</translation>
     </message>
 </context>
 <context>
@@ -312,22 +312,22 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="14"/>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Progresso</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="51"/>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="82"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
 </context>
 <context>
@@ -335,17 +335,17 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="39"/>
         <source>Show XML Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Descrição XML</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="65"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="75"/>
         <source>No validation errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem erros de validação.</translation>
     </message>
 </context>
 <context>
@@ -353,25 +353,26 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="97"/>
         <source>Closing a running module</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechando um módulo em execução</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="99"/>
         <source>The module &apos;%1&apos; is still running.
 Closing the tab will cancel the current computation.</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O módulo &apos;%1&apos; ainda está em execução.
+Fechar a guia cancelará o cálculo atual.</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="112"/>
         <source>Closing not possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível fechar</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="114"/>
         <source>The module &apos;%1&apos; is still running and does not support being canceled.</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O módulo &apos;%1&apos; ainda está em execução e não permite ser cancelado.</translation>
     </message>
 </context>
 <context>
@@ -379,30 +380,32 @@ Closing the tab will cancel the current computation.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="41"/>
         <source>Uncategorized</source>
-        <translation type="unfinished"></translation>
+        <translation>Não categorizado</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="68"/>
         <source>Warning:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="90"/>
         <source>Create Frontend</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar Interface</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="275"/>
         <source>Frontend creation failed</source>
         <extracomment>%1 is the frontend factory name and %2 is the error description</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A criação de interface falhou</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="276"/>
         <source>Creating a %1 frontend failed:
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>A criação de interface %1 falhou:
+
+%2&quot;</translation>
     </message>
 </context>
 <context>
@@ -451,7 +454,13 @@ due to:
 %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao registrar o módulo:
+
+
+devido a:
+%1
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
@@ -472,12 +481,12 @@ due to:
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="69"/>
         <source>Starting</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="89"/>
         <source>Finished </source>
-        <translation type="unfinished"></translation>
+        <translation>Concluído </translation>
     </message>
 </context>
 <context>
@@ -493,27 +502,27 @@ due to:
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="14"/>
         <source>DICOM Part 19 Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicativo Hospedado DICOM Parte 19</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="20"/>
         <source>CLModule not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo CL não definido.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="30"/>
         <source>Get Data from Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Obter Dados do Hospedeiro</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="43"/>
         <source>No data received</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum dado recebido</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="99"/>
         <source>Run and send data to host</source>
-        <translation type="unfinished"></translation>
+        <translation>Executar e enviar dados para o hospedeiro</translation>
     </message>
 </context>
 <context>
@@ -521,49 +530,51 @@ due to:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="140"/>
         <source>&amp;Run file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Executar arquivo</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="141"/>
         <source>Ctrl+g</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+g</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="145"/>
         <source>Print &amp;help</source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão &amp;Ajuda</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="146"/>
         <source>Ctrl+h</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+h</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="151"/>
         <source>&amp;Run script from file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Executar script do arquivo</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1371"/>
         <source>File &apos;%1&apos; can&apos;t be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo &apos;%1&apos; não pode ser lido.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1400"/>
         <source>Select a script file to run</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um arquivo de script para executar</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1412"/>
         <source>CTRL+h: Print this help message
 </source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+h: Imprimir esta mensagem de ajuda
+</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1413"/>
         <source>CTRL+r: Open a file dialog to select a file to run
 </source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+r: Abrir um diálogo de arquivo para selecionar um arquivo para executar
+</translation>
     </message>
 </context>
 <context>
@@ -571,7 +582,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="20"/>
         <source>ctkDICOMAppWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>ctkDICOMAppWidget</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="38"/>
@@ -581,130 +592,130 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="72"/>
         <source>LocalDatabase:</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de dados local:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="108"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="302"/>
         <source>Previous study</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudo anterior</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="324"/>
         <source>Previous series</source>
-        <translation type="unfinished"></translation>
+        <translation>Séries anteriores</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="346"/>
         <source>Previous image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem prévia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="368"/>
         <source>Next image</source>
-        <translation type="unfinished"></translation>
+        <translation>Próxima imagem</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="390"/>
         <source>Next series</source>
-        <translation type="unfinished"></translation>
+        <translation>Séries seguintes</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="412"/>
         <source>Next study</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudo seguinte</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="448"/>
         <source>auto-play</source>
-        <translation type="unfinished"></translation>
+        <translation>reprodução automática</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="475"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="298"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="478"/>
         <source>Import a DICOM file or folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar um arquivo ou pasta DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="486"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="489"/>
         <source>Export selected study/series to a DICOM folder (not yet available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar estudo/série selecionado para uma pasta DICOM (ainda não disponível)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="494"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="497"/>
         <source>Query and Retrieve DICOM studies from a DICOM node</source>
-        <translation type="unfinished"></translation>
+        <translation>Consultar e Recuperar estudos DICOM de um nó DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="505"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="508"/>
         <source>Send DICOM Studies to a DICOM node (not yet available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar Estudos DICOM para um nó DICOM (ainda não disponível)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="516"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="519"/>
         <source>Remove from database</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover da base de dados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="148"/>
         <source>DICOM Schema Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização do Esquema DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="148"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="190"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="153"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="195"/>
         <source>Initialization...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicialização...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="190"/>
         <source>DICOM Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importação DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="295"/>
         <source>Copy on import</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar durante a importação</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="299"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar arquivos DICOM do diretório ...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="671"/>
@@ -727,7 +738,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="680"/>
         <source>DICOM Directory Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importação de Diretório DICOM</translation>
     </message>
 </context>
 <context>
@@ -736,90 +747,90 @@ due to:
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="20"/>
         <source>DICOM Browser</source>
         <oldsource>ctkDICOMBrowser</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Navegador DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="38"/>
         <source>DICOM Browser Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de Ferramentas do Navegador DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="69"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Alerta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="76"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar banco de dados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="83"/>
         <source>Create new database</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar novo banco de dados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="90"/>
         <source>Select database folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar pasta do banco de dados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="144"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informação</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="151"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceitar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="177"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="272"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1147"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="190"/>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Progresso</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="219"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="386"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="222"/>
         <source>Import a DICOM file or folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar um arquivo ou uma pasta DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="230"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="233"/>
         <source>Export selected series to a DICOM folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar as séries selecionadas para uma pasta DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="238"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="241"/>
         <source>Query and retrieve studies from a DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Consultar e recuperar estudos de um servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="249"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="252"/>
