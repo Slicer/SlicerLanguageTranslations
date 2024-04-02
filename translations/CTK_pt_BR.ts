@@ -835,47 +835,47 @@ devido a:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="252"/>
         <source>Send selected series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar séries selecionadas para o servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="260"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="263"/>
         <source>Remove selected series from database</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover séries selecionadas do banco de dados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="271"/>
         <source>Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Reparar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="274"/>
         <source>Check whether all the files associated with images in the local Database are available on the disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificar se todos os arquivos associados às imagens no Banco de Dados local estão disponíveis no disco.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="272"/>
         <source>DICOM Schema Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização do esquema DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="275"/>
         <source>Initialization...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicialização...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="366"/>
         <source>Add Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar link</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="367"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="369"/>
@@ -885,46 +885,46 @@ devido a:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="371"/>
         <source>Import Directory Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de Importação de Diretório:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="387"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar arquivos DICOM do diretório...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="392"/>
         <source>DICOM File Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadados do arquivo DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="585"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível criar um novo banco de dados na pasta %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="641"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="669"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum banco de dados DICOM válido encontrado na pasta %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="689"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Foi encontrada uma versão incompatível do banco de dados DICOM na pasta %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="832"/>
         <source>Database Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Reparo do Banco de Dados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="862"/>
         <source>All the files in the local database are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos no banco de dados local estão disponíveis.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="889"/>
@@ -943,12 +943,12 @@ Você quer remover a série do banco de dados DICOM?</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1093"/>
         <source>Do you want to delete the following selected items?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deseja excluir os itens selecionados a seguir?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1114"/>
         <source>(and %1 more)</source>
-        <translation type="unfinished"></translation>
+        <translation>(e mais %1)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1146"/>
@@ -956,88 +956,88 @@ Você quer remover a série do banco de dados DICOM?</translation>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1260"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1338"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1178"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1252"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1330"/>
         <source>View DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar metadados DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1181"/>
         <source>View DICOM metadata of %1 selected patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar metadados DICOM de %1 pacientes selecionados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1189"/>
         <source>Delete %1 selected patients</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir %1 pacientes selecionados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1194"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1268"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1346"/>
         <source>Export to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar para o sistema de arquivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1197"/>
         <source>Export %1 selected patients to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar %1 pacientes selecionados para o sistema de arquivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1202"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1276"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1354"/>
         <source>Send to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar para servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1205"/>
         <source>Send %1 selected patients to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar %1 pacientes selecionados para o servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1255"/>
         <source>View DICOM metadata of %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar metadados DICOM de %1 estudos selecionados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1263"/>
         <source>Delete %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir %1 estudos selecionados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1271"/>
         <source>Export %1 selected studies to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar %1 estudos selecionados para o sistema de arquivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1279"/>
         <source>Send %1 selected studies to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar %1 estudos selecionados para o servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1333"/>
         <source>View DICOM metadata of %1 selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar metadados DICOM de %1 séries selecionadas</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1341"/>
         <source>Delete %1 selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir %1 séries selecionadas</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1349"/>
         <source>Export %1 selected series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar %1 séries selecionadas para o sistema de arquivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1357"/>
         <source>Send %1 selected series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar %1 séries selecionadas para o servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1441"/>
@@ -1047,23 +1047,27 @@ Você quer remover a série do banco de dados DICOM?</translation>
 
 Halting export.</source>
         <extracomment>%1 is the destination directory</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível criar o diretório de destino para exportação:
+
+%1
+
+Exportação interrompida.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1455"/>
         <source>DICOM Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportação DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1455"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1461"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Exportando %1 das séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1478"/>
@@ -1075,7 +1079,13 @@ Halting export.
 
 Error may be fixed via Repair.</source>
         <extracomment>%1 is the file path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de origem para exportação não encontrado:
+
+%1
+
+Exportação interrompida.
+
+O erro pode ser corrigido através do reparo.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1491"/>
@@ -1085,7 +1095,11 @@ Error may be fixed via Repair.</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo de destino para exportação já existe:
+
+%1
+
+Exportação interrompida.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1506"/>
@@ -1099,18 +1113,26 @@ to
 
 Halting export.</source>
         <extracomment>%1 and %2 refers to source and destination file paths</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao copiar
+
+%1
+
+para
+
+%2
+
+Exportação interrompida.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1536"/>
         <source>Updating database displayed fields...</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizando campos exibidos do banco de dados...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1810"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Importação concluída: adicionados %1 pacientes, %2 estudos, %3 séries, %4 instâncias.</translation>
     </message>
 </context>
 <context>
@@ -1119,27 +1141,27 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="14"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="20"/>
         <source>DICOM Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretórios DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="32"/>
         <source>Add Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar diretório</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="39"/>
         <source>Remove Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover diretório</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="62"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMDirectoryListWidget.cpp" line="77"/>
         <source>Open Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir diretório</translation>
     </message>
 </context>
 <context>
@@ -1147,17 +1169,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="25"/>
         <source>Unnamed RT Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Plano de RT sem nome</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="26"/>
         <source>Unnamed RT Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de estruturas RT sem nome</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="27"/>
         <source>Unnamed RT Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem RT sem nome</translation>
     </message>
 </context>
 <context>
@@ -1165,17 +1187,17 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="64"/>
         <source>Choose hosted application</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha a aplicação hospedada</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="128"/>
         <source>Series selected: </source>
-        <translation type="unfinished"></translation>
+        <translation>Séries selecionadas: </translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="138"/>
         <source>no series selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma série selecionada</translation>
     </message>
 </context>
 <context>
@@ -1183,27 +1205,27 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="14"/>
         <source>DICOM Hosts</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidores DICOM</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="56"/>
         <source>Show extended controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar controles estendidos</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="83"/>
         <source>Configure Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar aplicativo alojado</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="93"/>
         <source>Send Data to Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar dados para aplicativo alojado</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="100"/>
         <source>nothing selected</source>
-        <translation type="unfinished"></translation>
+        <translation>nenhuma seleção</translation>
     </message>
 </context>
 <context>
@@ -1211,12 +1233,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMImportWidget.ui" line="14"/>
         <source>Import DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMImportWidget.ui" line="29"/>
         <source>Copy to library</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar para biblioteca</translation>
     </message>
 </context>
 <context>
@@ -1226,23 +1248,23 @@ Halting export.</source>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="222"/>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="249"/>
         <source>Parsing DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation>Analisando arquivos DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="131"/>
         <source>Updating database displayed fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizando campos exibidos do banco de dados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="152"/>
         <source>Indexing complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexação completa</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="220"/>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="247"/>
         <source>Updating database fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizando campos do banco de dados</translation>
     </message>
 </context>
 <context>
@@ -1250,72 +1272,72 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="851"/>
         <source>Head First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabeça Primeiro - Prono</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="852"/>
         <source>Head First - Decubitus Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabeça Primeiro - Decúbito direito</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="853"/>
         <source>Feet First - Decubitus Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Pés primeiro - Decúbito direito</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="854"/>
         <source>Feet First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation>Pés primeiro - Prono</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="855"/>
         <source>Head First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabeça primeiro - Supino</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="856"/>
         <source>Head First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabeça primeiro - Decúbito esquerdo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="857"/>
         <source>Feet First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Pés primeiro - Decúbito esquerdo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="858"/>
         <source>Feet First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>Pés primeiro - Supino</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="879"/>
         <source>Computed Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiografia computada</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="880"/>
         <source>Computed Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografia computada</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="881"/>
         <source>Magnetic Resonance</source>
-        <translation type="unfinished"></translation>
+        <translation>Resonância magnética</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="882"/>
         <source>Nuclear Medicine</source>
-        <translation type="unfinished"></translation>
+        <translation>Medicina nuclear</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="883"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultrassom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="884"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Outro</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="885"/>
