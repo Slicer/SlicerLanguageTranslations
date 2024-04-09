@@ -6,12 +6,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="30"/>
         <source>Download, compile, and install latest translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger, compiler et installer les dernières traductions</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="33"/>
         <source>Update translation files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour les fichiers de traduction</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="47"/>
@@ -31,22 +31,22 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate (dernières traductions)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="83"/>
         <source>GitHub (updated daily)</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub (mise à jour quotidienne)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="90"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier local (pour une utilisation hors ligne)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="97"/>
         <source>Latest file only:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier le plus récent uniquement&#x202f;:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="107"/>
@@ -56,12 +56,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>rafraîchir</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="117"/>
         <source>Select language(s) that will be downloaded and installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la ou les langues qui seront téléchargées et installées.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="124"/>
