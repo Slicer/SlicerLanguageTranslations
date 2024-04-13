@@ -6,12 +6,12 @@
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="14"/>
         <source>DICOM Application Host</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-Anwendungshost</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="37"/>
         <source>CTK Example Hosting Application</source>
-        <translation type="unfinished"></translation>
+        <translation>CTK-Beispielanwendung für Hosting</translation>
     </message>
 </context>
 <context>
