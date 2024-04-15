@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>İki resim ekler. Tüm görüntü türleri girişte desteklense de, yalnızca imzalı türler üretilir. İki görüntünün aynı boyutlara sahip olması gerekmez.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
@@ -26,57 +26,57 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş/Çıkış Parametreleri</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacim 1 Giriş</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacim 2 Giriş</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacim Çıkış</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacim 1 Giriş</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacim 2 Giriş</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
         <source>Volume1 + Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacim1 + Hacim2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelişmiş</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesaplamada ince ayar yapmak için gelişmiş parametreler.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>İki görüntünün farklı geometriye (başlangıç, aralık, eksen yönleri veya kapsamlar) sahip olması durumunda kullanılan polinom enterpolasyonunun sırası: 0 = en yakın komşu, 1 = doğrusal, 2 = ikinci dereceden, 3 = kübik enterpolasyon.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation>Enterpolasyon sırası</translation>
     </message>
 </context>
 <context>
@@ -84,42 +84,42 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>DWI Temizliği (BEYİN)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
         <source>Remove bad gradients/volumes from DWI NRRD file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bozuk degradeleri / birimleri DWI NRRD dosyasından kaldırın.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
         <source>Input Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş Parametreleri</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş Görüntü Hacmi</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bozuk degradeleri olan NRRD Dosyası kaldırıldı.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
         <source>list of bad gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>bozuk degrade birimlerinin listesi</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerekli: giriş görüntüsü bir 4D NRRD görüntüsüdür.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
         <source>given a list of </source>
-        <translation type="unfinished"></translation>
+        <translation>verlerilen liste </translation>
     </message>
 </context>
 <context>
@@ -127,7 +127,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>T1 / T2 görüntüsünden Beyin Tahrifi (BEYİNLER)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
