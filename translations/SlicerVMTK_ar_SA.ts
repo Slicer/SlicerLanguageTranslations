@@ -730,118 +730,122 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="499"/>
         <source>Rotation angle for longitudinal slice view</source>
-        <translation type="unfinished"></translation>
+        <translation>زاوية الدوران لعرض الشريحة الطولية</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="502"/>
         <source>Rotate:</source>
-        <translation type="unfinished"></translation>
+        <translation>تدوير:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="509"/>
         <source>Longitudinal</source>
-        <translation type="unfinished"></translation>
+        <translation>طولية</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="512"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="580"/>
         <source>Long.:</source>
-        <translation type="unfinished"></translation>
+        <translation>طويل.:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="521"/>
         <source>Spin / Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>تدور/تقلب</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="615"/>
         <source>Flip:</source>
-        <translation type="unfinished"></translation>
+        <translation>انقلب</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="624"/>
         <source>Flip the slice view horizontally.
 
 Concerns orthogonal reformat in axial navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>اقلب عرض الشريحة أفقيًا.
+
+يتعلق بالإصلاح المتعامد في الملاحة المحورية.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="629"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>أفقي</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="636"/>
         <source>Flip the slice view vertically.
 
 Concerns orthogonal reformat in axial navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>اقلب عرض الشريحة عموديًا.
+
+يتعلق بالإصلاح المتعامد في الملاحة المحورية.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="641"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>عمودي</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="656"/>
         <source>Distance from origin:</source>
-        <translation type="unfinished"></translation>
+        <translation>المسافة من المنشأ:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="665"/>
         <source>Cumulative distance from start of centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>المسافة التراكمية من بداية الخط المركزي</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="678"/>
         <source>Set the current point as origin</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد النقطة الحالية كأصل</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="681"/>
         <source>set</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="691"/>
         <source>Go to origin point</source>
-        <translation type="unfinished"></translation>
+        <translation>اذهب إلى نقطة الأصل</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="694"/>
         <source>go to</source>
-        <translation type="unfinished"></translation>
+        <translation>اذهب الى</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="709"/>
         <source>Coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>إحداثيات:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="716"/>
         <source>RAS coordinate of selected point</source>
-        <translation type="unfinished"></translation>
+        <translation>الإحداثيات الأمامية العليا اليمنى للنقطة المختارة</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="737"/>
         <source>Maximum inscribed sphere (MIS) diameter at selected point.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لقطر الكرة المنقوشة (MIS) عند نقطة محددة.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="750"/>
         <source>Jump to the smallest MIS diameter point.</source>
-        <translation type="unfinished"></translation>
+        <translation>اقفز إلى أصغر نقطة قطر كرة منقوشة كحد أقصى.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="753"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="813"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأدنى</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="760"/>
         <source>Jump to the largest MIS diameter point.</source>
-        <translation type="unfinished"></translation>
+        <translation>اقفز إلى أكبر نقطة قطر كرة منقوشة كحد أقصى.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="763"/>
@@ -849,42 +853,42 @@ Concerns orthogonal reformat in axial navigation.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1018"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1058"/>
         <source>max</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="770"/>
         <source>Show the maximum inscribed sphere diameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر أقصى قطر كرة منقوش.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="788"/>
         <source>Diameter (MIS):</source>
-        <translation type="unfinished"></translation>
+        <translation>القطر (أقصى كرة منقوشة):</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="797"/>
         <source>Area of the cross-section</source>
-        <translation type="unfinished"></translation>
+        <translation>مجال المقطع العريض</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="810"/>
         <source>Jump to the smallest cross-section area point.</source>
-        <translation type="unfinished"></translation>
+        <translation>اقفز إلى أصغر نقطة منطقة عرضية.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="823"/>
         <source>Jump to the largest cross-section area point.</source>
-        <translation type="unfinished"></translation>
+        <translation>اقفز إلى أكبر نقطة منطقة عرضية.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="836"/>
         <source>Show cross-section at current point. Requires input lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر المقطع العرضي في النقطة الحالية. يتطلب مدخلات سطح التجويف.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="851"/>
         <source>Cross-section area:</source>
-        <translation type="unfinished"></translation>
+        <translation>المساحة العابرة:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="858"/>
@@ -893,12 +897,16 @@ Concerns orthogonal reformat in axial navigation.</source>
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
 
 Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation type="unfinished"></translation>
+        <translation>قطر المعادل الدائري: قطر الدائرة التي لها مساحة سطح المقطع العرضي.
+
+كما يتم توفير الفرق المطلق و في المائة مع الحد الأقصى لقطر الكرة المنقوشة (MIS).
+
+الحذر: قد لا يكون للقيم عند التشعبات معنى سريري.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="872"/>
         <source>Diameter (CE):</source>
-        <translation type="unfinished"></translation>
+        <translation>القطر (المكافئ الدائري):</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="879"/>
