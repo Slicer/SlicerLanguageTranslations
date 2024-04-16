@@ -388,7 +388,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="442"/>
         <source> (MIS diameter {sign}</source>
-        <translation type="unfinished"></translation>
+        <translation> (الحد الأقصى لقطر الكرة المنقوش {sign}</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="592"/>
@@ -403,12 +403,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="617"/>
         <source>MIS diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لقطر الكرة المنقوش</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="619"/>
         <source>CE diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>قطر مكافئ دائري</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="620"/>
@@ -911,47 +911,47 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="879"/>
         <source>Angles are in Slicer&apos;s coordinate system</source>
-        <translation type="unfinished"></translation>
+        <translation>الزوايا في نظام إحداثيات Slicer</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="892"/>
         <source>Orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>التوجه:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="914"/>
         <source>Circular equivalent diameter, derived from the surface area.</source>
-        <translation type="unfinished"></translation>
+        <translation>قطر مكافئ دائري، مشتق من مساحة السطح.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="931"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>مساحة سطح</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="951"/>
         <source>Lumen:</source>
-        <translation type="unfinished"></translation>
+        <translation>تجويف:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="967"/>
         <source>Wall:</source>
-        <translation type="unfinished"></translation>
+        <translation>الجدار:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="983"/>
         <source>Stenosis:</source>
-        <translation type="unfinished"></translation>
+        <translation>التضيق:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1015"/>
         <source>Jump to the maximum stenosis point by CE diameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>اقفز إلى أقصى نقطة تضيق بواسطة قطر مكافئ دائري.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1055"/>
         <source>Jump to the maximum stenosis point by surface area.</source>
-        <translation type="unfinished"></translation>
+        <translation>اقفز إلى أقصى نقطة تضيق حسب مساحة السطح.</translation>
     </message>
 </context>
 <context>
@@ -964,7 +964,12 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     This module replaces the old &quot;Centerline Computation&quot; module. Documentation is available
     &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK&quot;&gt;here&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    حساب وقياس الشبكة المركزية للأوعية الدموية أو الممرات الهوائية من نموذج سطحي.
+يمكن إنشاء نموذج السطح من حجم الصورة باستخدام وحدة محرر القطاع.
+تحل هذه الوحدة محل وحدة &quot;حساب الخط المركزي&quot; القديمة. الوثائق متاحة
+    &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK&quot;&gt;هنا&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="223"/>
