@@ -16,12 +16,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="47"/>
         <source>Input translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traductions d’entrée</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="56"/>
         <source>Input folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier d&apos;entrée&#x202f;:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="66"/>
