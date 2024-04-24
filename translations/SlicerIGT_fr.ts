@@ -690,7 +690,7 @@
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="25"/>
         <source>Parameter set:</source>
-        <translation>Jeu de paramètres&#xa0;:</translation>
+        <translation>Jeu de paramètres&#x202f;:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="35"/>
