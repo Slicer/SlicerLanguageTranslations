@@ -184,7 +184,7 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="128"/>
         <source>Output Node:</source>
-        <translation>выходной узел:</translation>
+        <translation>Выходной узел:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="137"/>
@@ -199,12 +199,12 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="147"/>
         <source>Advanced</source>
-        <translation>передовой</translation>
+        <translation>Продвинутый</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="156"/>
         <source>Label Base:</source>
-        <translation>основа этикетки:</translation>
+        <translation>Основа метки:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="163"/>
@@ -761,32 +761,32 @@
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="57"/>
         <source>Output (ToolTipToTool):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вывод (ToolTipToTool):</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="79"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="101"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Вручную</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="121"/>
         <source>Startup delay (seconds):  </source>
-        <translation type="unfinished"></translation>
+        <translation>Задержка запуска (в секундах):  </translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="148"/>
         <source>Delay and duration (seconds):  </source>
-        <translation type="unfinished"></translation>
+        <translation>Задержка и длительность (в секундах):  </translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="176"/>
         <source>Data collection will start and end after specified time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбор данных начнётся и закончится после указанного времени.</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="183"/>
@@ -1482,7 +1482,7 @@
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="70"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="84"/>
