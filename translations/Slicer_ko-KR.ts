@@ -61,7 +61,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished">고급</translation>
+        <translation>고급</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
@@ -462,22 +462,22 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="30"/>
         <source>Off</source>
-        <translation type="unfinished">끄기</translation>
+        <translation>끄기</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
         <source>useMomentsAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>사용 시간 정렬</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>머리 중심 정렬 사용</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
         <source>useGeometryAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>기하학적 정렬 사용</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
