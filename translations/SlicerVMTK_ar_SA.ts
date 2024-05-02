@@ -974,114 +974,114 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="223"/>
         <source>Valid input surface is required</source>
-        <translation type="unfinished"></translation>
+        <translation>مطلوب سطح مدخل صالح</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="241"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="334"/>
         <source>Preprocessing...</source>
-        <translation type="unfinished"></translation>
+        <translation>المعالجة المسبقة...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="257"/>
         <source>Get manifold edges...</source>
-        <translation type="unfinished"></translation>
+        <translation>احصل على حواف متعددة...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="265"/>
         <source>Found {0} non-manifold edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>وجدت {0} حواف غير متعددة.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="266"/>
         <source> Centerline computation may fail. Try to increase target point count or reduce decimation aggressiveness</source>
-        <translation type="unfinished"></translation>
+        <translation> قد يفشل حساب الخط المركزي. حاول زيادة عدد النقاط المستهدفة أو تقليل عدوانية التدمير</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="277"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="347"/>
         <source>Extract network...</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة الاستخراج...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="298"/>
         <source>Extract centerline...</source>
-        <translation type="unfinished"></translation>
+        <translation>استخراج خط الوسط...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="317"/>
         <source>Generate curves and quantification results table...</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتوليد منحنيات وجدول نتائج القياس الكمي...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="322"/>
         <source>Failed to compute results: </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في حساب النتائج: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="326"/>
         <source>Centerline analysis complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتمل تحليل الخط المركزي.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="372"/>
         <source>Failed to detect end points: </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في اكتشاف نقاط النهاية: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="377"/>
         <source>Automatic endpoint computation complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتمل الحساب التلقائي لنقطة النهاية.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="429"/>
         <source>Invalid input surface node</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة سطح مدخل غير صالحة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="440"/>
         <source>Surface can only be loaded from model or segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن تحميل السطح إلا من نموذج أو عقدة تجزئة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="449"/>
         <source>VMTK library is not found</source>
-        <translation type="unfinished"></translation>
+        <translation>مكتبة VMTK غير موجودة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="453"/>
         <source>Input surface model is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج سطح الإدخال فارغ</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="489"/>
         <source>Mesh subdivision failed. Skip subdivision step.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تقسيم الشبكة. تخطي خطوة التقسيم.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="541"/>
         <source>Failed to get non-manifold edges (neighborhood filter output was empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في الحصول على حواف غير متعددة (كان إخراج مرشح الحي فارغًا)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="659"/>
         <source>At least two endpoints are needed for centerline extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>هناك حاجة إلى نقطتي نهاية على الأقل لاستخراج خط الوسط</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="720"/>
         <source>Failed to compute centerline (no output was generated)</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في حساب الخط المركزي (لم يتم توليد أي ناتج)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="725"/>
         <source>Failed to compute centerline (no Voronoi diagram was generated)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">فشل في حساب الخط المركزي (لم يتم إنشاء مخطط Voronoi)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="729"/>
         <source>End of Centerline Computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>حسابات نهاية خط الوسط.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="746"/>
@@ -1091,114 +1091,114 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="775"/>
         <source>Unable to import the SlicerVmtk libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>غير قادر على استيراد مكتبات SlicerVmtk</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1035"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1053"/>
         <source>Network polydata does not contain length cell array</source>
-        <translation type="unfinished"></translation>
+        <translation>لا تحتوي الشبكات المتعددة على مصفوفة الخلايا الطويلة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1047"/>
         <source>Failed to compute array </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في حساب المصفوفة </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="14"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="14"/>
         <source>Sampling distance used for generating centerline curve</source>
-        <translation type="unfinished"></translation>
+        <translation>مسافة أخذ العينات المستخدمة لتوليد منحنى خط الوسط</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="20"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="20"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>مدخلات</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="26"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="26"/>
         <source>Surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>سطح:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="33"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="33"/>
         <source>Input surface model of the tree. If computation is slow adjust preprocessing parameters in advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج سطح المدخل للشجرة. إذا كان الحساب بطيئًا، اضبط معلمات المعالجة المسبقة في القسم المتقدم.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="54"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="54"/>
         <source>Select a model or segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد نموذج أو عقدة تجزئة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="61"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="61"/>
         <source>Endpoints:</source>
-        <translation type="unfinished"></translation>
+        <translation>نقاط النهاية:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="70"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="70"/>
         <source>Branch endpoints. &quot;Unselected&quot; control points are used as sources, &quot;selected&quot; control points are used as targets.</source>
-        <translation type="unfinished"></translation>
+        <translation>نقاط نهاية الفرع. تُستخدم نقاط التحكم &quot;غير المحدد&quot; كمصادر، وتُستخدم نقاط التحكم &quot;المحدد&quot; كأهداف.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="81"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="81"/>
         <source>Endpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>نقاط النهاية</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="106"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="106"/>
         <source>Auto-detect</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتشاف تلقائي</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="125"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="125"/>
         <source>Paremeter set: </source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة المعلمات: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="132"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="132"/>
         <source>Pick node to store parameter set</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر العقدة لتخزين مجموعة المعلمات</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="143"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="143"/>
         <source>ExtractCenterline</source>
-        <translation type="unfinished"></translation>
+        <translation>استخراج خط الوسط</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="166"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="166"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>مخرجات</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="172"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="172"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="178"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="178"/>
         <source>Network model:</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الشبكة:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="185"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="185"/>
         <source>Result of quick centerline network extraction.</source>
-        <translation type="unfinished"></translation>
+        <translation>نتيجة سرعة استخراج الشبكة المركزية.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="196"/>
