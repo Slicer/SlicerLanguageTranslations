@@ -1204,13 +1204,13 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="196"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="196"/>
         <source>Network model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج شبكة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="218"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="218"/>
         <source>Network properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص الشبكة:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="225"/>
@@ -1218,19 +1218,19 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="225"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="394"/>
         <source>Table containing quantitative analysis of centerline (radius, length, curvature, torsion, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول يحتوي على تحليل كمي للخط المركزي (نصف القطر والطول والانحناء والالتواء وما إلى ذلك)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="236"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="236"/>
         <source>Network properties</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص شبكة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="258"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="258"/>
         <source>Network curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>منحنى الشبكة:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="265"/>
@@ -1238,91 +1238,91 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="265"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="354"/>
         <source>Centerline extraction result as a hierarchy of markups curves.</source>
-        <translation type="unfinished"></translation>
+        <translation>نتيجة استخراج الخط المركزي كتسلسل هرمي لمنحنيات الترميز.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="276"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="276"/>
         <source>Network curve</source>
-        <translation type="unfinished"></translation>
+        <translation>منحنى الشبكة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="301"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="301"/>
         <source>Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>شجرة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="307"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="307"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج خط الوسط:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="314"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="314"/>
         <source>Centerline extraction result as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>نتيجة استخراج الخط المركزي كنموذج.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="325"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="325"/>
         <source>Centerline model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج خط الوسط</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="347"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="347"/>
         <source>Centerline curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>منحنى خط الوسط:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="365"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="365"/>
         <source>Centerline curve</source>
-        <translation type="unfinished"></translation>
+        <translation>منحنى خط الوسط</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="387"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="387"/>
         <source>Centerline properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص الخط المركزي:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="405"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="405"/>
         <source>Centerline quantification</source>
-        <translation type="unfinished"></translation>
+        <translation>القياس الكمي للخط المركزي</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="433"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="433"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>متقدمة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="442"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="442"/>
         <source>Preprocess input surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>سطح مدخل المعالجة المسبقة:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="449"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="449"/>
         <source>Input surface model is reduced to the requested target point count (making computation faster), or subdivided (to make computations more accurate).</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم تقليل نموذج سطح الإدخال إلى عدد النقاط المستهدفة المطلوب (مما يجعل الحساب أسرع)، أو يتم تقسيمه (لجعل الحسابات أكثر دقة).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="462"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="462"/>
         <source>Target point count:</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد النقاط المستهدفة:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="472"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="472"/>
         <source>Preferred number of points in the preprocessed surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد النقاط المفضل في السطح المعالج مسبقًا.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="490"/>
@@ -1334,103 +1334,103 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="497"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="497"/>
         <source>Decimation aggressiveness:</source>
-        <translation type="unfinished"></translation>
+        <translation>عدوانية التدمير:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="507"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="507"/>
         <source>Lower values preserve the mesh integrity better but it may not be possible to reduce number of points to the desired level.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحافظ القيم المنخفضة على سلامة الشبكة بشكل أفضل ولكن قد لا يكون من الممكن تقليل عدد النقاط إلى المستوى المطلوب.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="529"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="529"/>
         <source>Subdivide:</source>
-        <translation type="unfinished"></translation>
+        <translation>تقسيم:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="539"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="539"/>
         <source>Subdivide the mesh to make computation more accurate (at the cost of increased computation time).</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتقسيم الشبكة لجعل الحساب أكثر دقة (على حساب زيادة وقت الحساب).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="549"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="549"/>
         <source>Output preprocessed surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>مخرجات السطح المعالج مسبقا:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="559"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="559"/>
         <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
-        <translation type="unfinished"></translation>
+        <translation>إحفظ نتيجة المعالجة المسبقة. مفيد لفحص الجودة ولجعل الحسابات المتكررة أسرع: يمكن استخدام السطح المعالج مسبقًا كسطح إدخال (ويمكن بعد ذلك تعطيل خيار «سطح إدخال المعالجة المسبقة»).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="570"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="570"/>
         <source>Preprocessed model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج معالج مسبقا</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="592"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="592"/>
         <source>Mesh error check results:</source>
-        <translation type="unfinished"></translation>
+        <translation>نتائج فحص الخطأ الشبكي:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="599"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="599"/>
         <source>Output Voronoi diagram:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مخطط فورونوي للإخراج:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="606"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="606"/>
         <source>Voronoi diagram (similar to medial surface) that is used for computing centerline path between endpoints. It is useful for quality checks and for showing a model where endpoints can be robustly placed on.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">رسم فورونوي (مشابه للسطح الإنسي) الذي يستخدم لحساب المسار المركزي بين نقاط النهاية. إنه مفيد لفحوصات الجودة ولإظهار نموذج يمكن فيه وضع نقاط النهاية بقوة.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="617"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="617"/>
         <source>Voronoi diagram</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مخطط فورونوي</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="639"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="639"/>
         <source>Result of mesh error checks. Currently the only check is for presence of non-manifold edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>نتيجة فحص الخطأ الشبكي. التأكد الوحيد حاليًا هو وجود حواف غير متعددة.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="650"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="650"/>
         <source>Mesh errors</source>
-        <translation type="unfinished"></translation>
+        <translation>أخطاء شبكية</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="672"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="672"/>
         <source>Curve sampling distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>مسافة أخذ العينات المنحنية:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="682"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="682"/>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>طول</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="695"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="695"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="698"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="698"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="36"/>
@@ -1439,35 +1439,35 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="562"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="609"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="36"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="73"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="642"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="135"/>
         <source>vtkMRMLScriptedModuleNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLScriptedModuleNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="228"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="397"/>
         <source>vtkMRMLTableNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTableNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="268"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="357"/>
         <source>vtkMRMLMarkupsCurveNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsCurveNode</translation>
     </message>
 </context>
 <context>
@@ -1480,7 +1480,12 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 &lt;br&gt;&lt;br&gt;The &apos;Flood filling&apos; and &apos;Split volume&apos; effects of the &apos;&lt;a href=&quot;https://github.com/lassoan/SlicerSegmentEditorExtraEffects&quot;&gt;Segment editor extra effects&lt;/a&gt;&apos; are used.
 &lt;br&gt;&lt;br&gt;The &apos;&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ExtractCenterline/&quot;&gt;SlicerExtension-VMTK Extract centerline&lt;/a&gt;&apos; module is required.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تهدف هذه &lt; a href = «https://github.com/vmtk/SlicerExtension-VMTK/» &gt; الوحدة &lt;/a &gt; إلى إنشاء تجزئة من تباين معزز للأنجيوسكان بالأشعة المقطعية، واستخراج الخطوط المركزية أخيرًا من النموذج السطحي.
+&lt;br&gt;&lt;br&gt;يفترض أن نقاط التحكم في المنحنى توضع في التجويف المتباين.
+&lt;br&gt;&lt;br&gt;يتم استخدام تأثيرات ملء الفيضان و &quot;الحجم المقسم&quot; لـ &quot;&lt; a href =&quot; https://github.com/lassoan/SlicerSegmentEditorExtraEffects &quot;&gt; تأثيرات محرر القطاع الإضافية &lt;/a &gt;.
+&lt;br&gt;&lt;br&gt;الخط المركزي لمستخلص SlicerExtension-VMTK &lt;/a &gt; https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ExtractCenterline/ &gt; مطلوب وحدة.
+</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="55"/>
@@ -1488,49 +1493,54 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطوير هذا الملف في الأصل بواسطة Jean-Christophe Fillion-Robin، Kitware Inc.، Andras Lasso، PerkLab،
+وSteve Pieper، Isomics، Inc. وتم تمويله جزئيًا من قبل 3P41RR013218-12S1 منح المعاهد الوطنية للصحة.
+</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="140"/>
         <source>Failed to install extension: </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تثبيت التمديد: </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="152"/>
         <source>Could not update metadata from server to install {extension}.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تعذر تحديث البيانات الوصفية من الخادم لتركيب {extension}.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="154"/>
         <source>{extension} must be installed. Do you want to install it now ?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">يجب تثبيت {extension}. هل تريد تثبيته الآن ؟</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="156"/>
         <source>This module cannot be used without {extension}.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لا يمكن استخدام هذه الوحدة بدون {extension}.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="159"/>
         <source>Failed to install {extension} extension.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">فشل في تثبيت {extension} تمديد.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="161"/>
         <source>{extension} has been installed from server.
 
 Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تم تثبيت {extension} من الخادم.
+
+يجب إعادة تشغيل Slicer. هل تريد إعادة التشغيل الآن ؟</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="175"/>
         <source>Curve node must have at least 3 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب أن تحتوي عقدة المنحنى على 3 نقاط على الأقل.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="194"/>
         <source>Shape node is not a Tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة الشكل ليست أنبوب.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="201"/>
