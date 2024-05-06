@@ -420,11 +420,11 @@ due to:
 %2
 
 </source>
-        <translation type="unfinished">Falha ao registrar o módulo:
-% 1
+        <translation>Falha ao registrar o módulo:
+%1
 
 devido a:
-% 2
+%2
 
 </translation>
     </message>
@@ -880,7 +880,7 @@ devido a:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="369"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation type="unfinished">Indique se os arquivos devem ser copiados para o diretório do banco de dados local ou se devem ser criados apenas links?</translation>
+        <translation>Indique se os arquivos devem ser copiados para o diretório do banco de dados local ou se devem ser criados apenas links?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="371"/>
@@ -2442,22 +2442,22 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="14"/>
         <source>DICOM Part 19 Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicativo hospedado DICOM Parte 19</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="23"/>
         <source>Load Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar dados</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="36"/>
         <source>No data received</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum dado recebido</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="59"/>
         <source>Create Secondary Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar uma captura secundária</translation>
     </message>
 </context>
 <context>
@@ -2465,7 +2465,7 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="25"/>
         <source>Application Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminho do aplicativo:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="32"/>
@@ -2475,52 +2475,52 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="56"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="63"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Executar</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="70"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Parar</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="77"/>
         <source>Plugin Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado do Plugin:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="90"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="97"/>
         <source>Process Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado do processo:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="110"/>
         <source>Not running</source>
-        <translation type="unfinished"></translation>
+        <translation>Não está funcionando</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="134"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Suspenso</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="141"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="172"/>
         <source>Show Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar as mensagens</translation>
     </message>
 </context>
 <context>
@@ -2528,17 +2528,17 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="105"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="106"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="107"/>
         <source>Choose</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolher</translation>
     </message>
 </context>
 <context>
@@ -2547,7 +2547,7 @@ Exportação interrompida.</translation>
         <location filename="Libs/Widgets/ctkFileDialogEventTranslator.cpp" line="108"/>
         <source>Loading %1 ... </source>
         <extracomment>%1 is the filename</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Carregando %1 ... </translation>
     </message>
 </context>
 <context>
@@ -2555,12 +2555,12 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="40"/>
         <source>Show details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar detalhes...</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="41"/>
         <source>Hide details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esconder detalhes.</translation>
     </message>
 </context>
 <context>
@@ -2568,12 +2568,12 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.ui" line="25"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.cpp" line="66"/>
         <source>Choose hosted application</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha a aplicação hospedada</translation>
     </message>
 </context>
 <context>
@@ -2581,102 +2581,102 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="29"/>
         <source>CTK Metatype Service - CommonTK Implementation</source>
-        <translation type="unfinished"></translation>
+        <translation>Serviço de Metatipo CTK - Implementação CommonTK</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="31"/>
         <source>Unexpected element %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento inesperado %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="32"/>
         <source>Unexpected text %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto inesperado %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="33"/>
         <source>Missing attribute %1 in tag %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributo %1 ausente na etiqueta %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="34"/>
         <source>Object Class Definition ID not found %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificador da definição de classe do objeto não encontrado %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="35"/>
         <source>Default value cannot be null when cardinality is zero.</source>
-        <translation type="unfinished"></translation>
+        <translation>O valor padrão não pode ser nulo quando a cardinalidade é zero.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="36"/>
         <source>Missing element %1 (Reference ID = %2.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento ausente %1 (ID de referência = %2.)</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="38"/>
         <source>Unexpected exception %1 with message %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exceção inesperada %1 com mensagem %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="39"/>
         <source>Cannot validate an empty value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível validar um valor vazio.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="40"/>
         <source>Value %1 is out of range.</source>
-        <translation type="unfinished"></translation>
+        <translation>O valor %1 está fora do intervalo.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="41"/>
         <source>Value %1 is out of Option.</source>
-        <translation type="unfinished"></translation>
+        <translation>O valor %1 está fora da opção.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="42"/>
         <source>Found too many values in %1 when expecting %2 values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Encontrou muitos valores em %1 quando esperava %2 valores.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="43"/>
         <source>Cannot set Option labels or values empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível definir rótulos ou valores de opção vazios.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="44"/>
         <source>Labels and Values of Option have different sizes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os rótulos e os valores da opção têm tamanhos diferentes.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="45"/>
         <source>Option value %1 is invalid because of %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>O valor da opção %1 é inválido devido a %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="46"/>
         <source>Defaults value %1 is invalid because of %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>O valor padrão %1 é inválido devido a %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="48"/>
         <source>Plugin(ID=&quot;%1&quot;, name=&quot;%2&quot;) has no MetaData file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin(ID=&quot;%1&quot;, name=&quot;%2&quot;) não tem arquivo de metadados.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="49"/>
         <source>OCD(ID=&quot;%1&quot;) cannot support this locale &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>O OCD(ID=&quot;%1&quot;) não é compatível com a localidade &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="50"/>
         <source>The Tokenizer got invalid data.</source>
-        <translation type="unfinished"></translation>
+        <translation>O Tokenizer obteve dados inválidos.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="51"/>
         <source>Plugin %1 with ID %2 provided a ctkMetaTypeProvider with an invalid property. Property %3 with value %4 was not of the expected type (QString or QStringList) and will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>O plug-in %1 com ID %2 forneceu um ctkMetaTypeProvider com uma propriedade inválida. A propriedade %3 com valor %4 não era do tipo esperado (QString ou QStringList) e será ignorada.</translation>
     </message>
 </context>
 <context>
@@ -2684,7 +2684,7 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="14"/>
         <source>Material Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedade material</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="35"/>
@@ -2709,12 +2709,12 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="122"/>
         <source>Specular:</source>
-        <translation type="unfinished"></translation>
+        <translation>Especular:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="139"/>
         <source>Specular power</source>
-        <translation type="unfinished"></translation>
+        <translation>Potência especular</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="142"/>
@@ -2724,72 +2724,72 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="165"/>
         <source>Backface Culling:</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarte da face anterior:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="179"/>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-visualização:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="211"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Predefinições:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="260"/>
         <source>Metallic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Metálico:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="267"/>
         <source>Roughness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rugosidade:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="294"/>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="308"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Plano</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="313"/>
         <source>Gouraud</source>
-        <translation type="unfinished"></translation>
+        <translation>Gouraud</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="318"/>
         <source>Phong</source>
-        <translation type="unfinished"></translation>
+        <translation>Phong</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="323"/>
         <source>PBR</source>
-        <translation type="unfinished"></translation>
+        <translation>PBR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="106"/>
         <source>Full ambient eliminating all directional shading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iluminação ambiente total eliminando todo sombreamento direcional.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="107"/>
         <source>Dull material properties (no specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades do material opacas (sem iluminação especular).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="108"/>
         <source>Smooth material properties (moderate specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades do material suaves (iluminação especular moderada).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="109"/>
         <source>Shiny material properties (high specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades do material brilhantes (iluminação especular alta).</translation>
     </message>
 </context>
 <context>
@@ -2797,12 +2797,12 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="93"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Busca</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="125"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Busca...</translation>
     </message>
 </context>
 <context>
@@ -2810,17 +2810,17 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="78"/>
         <source>Don&apos;t show this message again</source>
-        <translation type="unfinished"></translation>
+        <translation>Não mostre essa mensagem novamente</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="220"/>
         <source>Don&apos;t show this message again and always %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Não mostre essa mensagem novamente e sempre %1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="335"/>
         <source>Are you sure you want to exit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tem certeza de que quer sair?</translation>
     </message>
 </context>
 <context>
@@ -2833,177 +2833,177 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="23"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualquer</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="30"/>
         <source>Computed Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiografia computadorizada</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="33"/>
         <source>CR</source>
-        <translation type="unfinished"></translation>
+        <translation>RC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="40"/>
         <source>Computed Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografia computadorizada</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="43"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>TC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="50"/>
         <source>Magnetic Resonance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ressonância magnética</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="53"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>RM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="60"/>
         <source>Nuclear Medicine</source>
-        <translation type="unfinished"></translation>
+        <translation>Medicina Nuclear</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="63"/>
         <source>NM</source>
-        <translation type="unfinished"></translation>
+        <translation>MN</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="70"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultrassom</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="73"/>
         <source>US</source>
-        <translation type="unfinished"></translation>
+        <translation>US</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="80"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Outro</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="83"/>
         <source>OT</source>
-        <translation type="unfinished"></translation>
+        <translation>OT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="90"/>
         <source>Biomagnetic imaging</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem biomagnética</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="93"/>
         <source>BI</source>
-        <translation type="unfinished"></translation>
+        <translation>IB</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="100"/>
         <source>Color flow Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppler de fluxo colorido</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="103"/>
         <source>CD</source>
-        <translation type="unfinished"></translation>
+        <translation>DC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="110"/>
         <source>Duplex Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppler Dúplex</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="113"/>
         <source>DD</source>
-        <translation type="unfinished"></translation>
+        <translation>DD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="120"/>
         <source>Diaphanography</source>
-        <translation type="unfinished"></translation>
+        <translation>Diafanografia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="123"/>
         <source>DG</source>
-        <translation type="unfinished"></translation>
+        <translation>DG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="130"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Endoscopia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="133"/>
         <source>ES</source>
-        <translation type="unfinished"></translation>
+        <translation>ES</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="140"/>
         <source>Laser surface scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Varredura a laser de superfície</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="143"/>
         <source>LS</source>
-        <translation type="unfinished"></translation>
+        <translation>VL</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="150"/>
         <source>Positron emission tomography (PET)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografia por emissão de pósitrons (TEP)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="153"/>
         <source>PT</source>
-        <translation type="unfinished"></translation>
+        <translation>TP</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="160"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagens radiográficas (filme convencional/tela)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="163"/>
         <source>RG</source>
-        <translation type="unfinished"></translation>
+        <translation>RG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="170"/>
         <source>Single-photon emission computed tomography (SPECT)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografia computadorizada de emissão de fóton único (TCEFU)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="173"/>
         <source>ST</source>
-        <translation type="unfinished"></translation>
+        <translation>TS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="180"/>
         <source>Thermography</source>
-        <translation type="unfinished"></translation>
+        <translation>Termografia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="183"/>
         <source>TG</source>
-        <translation type="unfinished"></translation>
+        <translation>TG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="190"/>
         <source>X-Ray Angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiografia por Raio-X</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="193"/>
         <source>XA</source>
-        <translation type="unfinished"></translation>
+        <translation>AX</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="200"/>
