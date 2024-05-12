@@ -383,7 +383,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="423"/>
         <source>N/A (input lumen surface not specified)</source>
-        <translation type="unfinished">N/A (سطح تجويف الإدخال غير محدد)</translation>
+        <translation>N/A (سطح تجويف الإدخال غير محدد)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="442"/>
@@ -1545,155 +1545,162 @@ Slicer must be restarted. Do you want to restart now ?</source>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="201"/>
         <source>Shape node must have at least 4 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب أن تحتوي عقدة الشكل على 4 نقاط على الأقل.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="371"/>
         <source>No input curve node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد عقدة منحنى مدخل محددة.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="374"/>
         <source>Input curve node must have at least 3 control points.</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب أن تحتوي عقدة منحنى الإدخال على 3 نقاط تحكم على الأقل.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="377"/>
         <source>No input slice node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد عقدة شريحة مدخلة محددة.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="384"/>
         <source>No volume node selected in input slice node.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد عقدة حجم محدّدة في عقدة شريحة الإدخال.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="398"/>
         <source>Failed to compute results: </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في حساب النتائج: </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="469"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>بدأت المعالجة</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="471"/>
         <source>Segment editor setup</source>
-        <translation type="unfinished"></translation>
+        <translation>إعداد محرر المقطع</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="614"/>
         <source>Flood filling : {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ملء الفيضانات: {duration} ثانية - </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="646"/>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="721"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">اكتملت المعالجة في {duration} ثانية</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="652"/>
         <source>Extract centerline setup</source>
-        <translation type="unfinished"></translation>
+        <translation>إعداد استخراج خط الوسط</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="748"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء الاختبار</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="750"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>اجتاز الاختبار</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="23"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>مدخلات</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="32"/>
         <source>Input curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>منحنى المدخلات:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="39"/>
         <source>Pick an input markups curve node.
 
 The control points are assumed to be on the contrasted lumen.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر عقدة منحنى العلامات للإدخال.
+
+يُفترض أن نقاط التحكم موجودة على التجويف المتباين.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="80"/>
         <source>Tube diameter:</source>
-        <translation type="unfinished"></translation>
+        <translation>قطر الأنبوب:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="87"/>
         <source>Specify a value slightly above the maximum estimated diameter of the target artery.
 
 If a Shape::Tube node is specified below, this parameter is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد قيمة أعلى قليلاً من الحد الأقصى للقطر المقدر للشريان المستهدف.
+
+إذا تم تحديد عقدة الأنبوب أدناه، يتم تجاهل هذه المعلمة.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="114"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>التجزئة:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="121"/>
         <source>Select an output segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد تجزئة الإخراج</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="153"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر شريحة عرض. سيتم استخدام عقدة حجم الخلفية. يرجى توخي الحذر لاستخدام عقدة الحجم الصحيحة.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="183"/>
         <source>Restore slice views with the referenced volume node</source>
-        <translation type="unfinished"></translation>
+        <translation>استعادة مناظر الشريحة مع عقدة الحجم المرجعية</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="186"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="198"/>
         <source>Slice node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة الشريحة:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="217"/>
         <source>Alternative extent</source>
-        <translation type="unfinished"></translation>
+        <translation>المدى البديل</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="232"/>
         <source>Use a Shape::Tube node to limit the circumferential
 extent, instead of a fixed diameter tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم الشكل:: عقدة الأنبوب للحد من المحيط
+بدلاً من أنبوب ثابت القطر.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="242"/>
         <source>Tube node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة الأنبوب:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="249"/>
         <source>Limit the region of interest to this Shape::Tube node.
 
 If specified, the regular tube diameter above is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>قصر المنطقة ذات الأهمية على هذا الشكل: عقدة الأنبوب.
+
+إذا تم تحديده، يتم تجاهل قطر الأنبوب العادي أعلاه.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="298"/>
         <source>Flood filling parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات ملء الفيضانات</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="319"/>
@@ -1855,42 +1862,42 @@ deviation:</source>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="248"/>
         <source>For the &apos;Smoothing::Gaussian&apos; effect of the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">بالنسبة لـ «Smoothing:: Gaussian» تأثير «محرر المقطع».</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="273"/>
         <source>Extrusion kernel size:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم نواة البثق:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="282"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="300"/>
         <source>Dimension of the primary seed around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>بعد البذرة الأولية حول منحنى المدخلات.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="325"/>
         <source>Seed radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>نصف قطر البذور:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="338"/>
         <source>Thickness of a temporary shell around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>سمك غلاف مؤقت حول منحنى الإدخال.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="363"/>
         <source>Shell thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>سمك الصدفة:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="370"/>
         <source>Subtract overlapping parts of other segments from the resulting vein segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>طرح أجزاء متداخلة من أجزاء أخرى من الجزء الوريدي الناتج.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="386"/>
