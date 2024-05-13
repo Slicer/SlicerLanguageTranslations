@@ -740,7 +740,7 @@ La ligne centrale doit être à l&apos;intérieur de la lumière.</translation>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="509"/>
         <source>Longitudinal</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitudinal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="512"/>
@@ -770,7 +770,7 @@ Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogo
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="629"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="636"/>
@@ -784,7 +784,7 @@ Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogo
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="641"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="656"/>
@@ -840,7 +840,7 @@ Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogo
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="753"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="813"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>min</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="760"/>
@@ -853,7 +853,7 @@ Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogo
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1018"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1058"/>
         <source>max</source>
-        <translation type="unfinished"></translation>
+        <translation>max</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="770"/>
