@@ -3008,302 +3008,302 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="200"/>
         <source>Radio Fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiofluoroscopia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="203"/>
         <source>RF</source>
-        <translation type="unfinished"></translation>
+        <translation>RF</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="210"/>
         <source>Radiotherapy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de Radioterapia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="213"/>
         <source>RTIMAGE</source>
-        <translation type="unfinished"></translation>
+        <translation>IMAGEM RT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="220"/>
         <source>Radiotherapy Dose</source>
-        <translation type="unfinished"></translation>
+        <translation>Dose de Radioterapia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="223"/>
         <source>RTDOSE</source>
-        <translation type="unfinished"></translation>
+        <translation>DOSE RT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="230"/>
         <source>Radiotherapy Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de estruturas de Radioterapia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="233"/>
         <source>RTSTRUCT</source>
-        <translation type="unfinished"></translation>
+        <translation>ESTRUTURA RT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="240"/>
         <source>Radiotherapy Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Plano de Radioterapia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="243"/>
         <source>RTPLAN</source>
-        <translation type="unfinished"></translation>
+        <translation>PLANO RT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="250"/>
         <source>RT Treatment Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro de Tratamento RT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="253"/>
         <source>RTRECTORD</source>
-        <translation type="unfinished"></translation>
+        <translation>REGISTRO RT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="260"/>
         <source>Hard Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Cópia impressa</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="263"/>
         <source>HC</source>
-        <translation type="unfinished"></translation>
+        <translation>CI (Cópia impressa)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="270"/>
         <source>Digital Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiografia digital</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="273"/>
         <source>DX</source>
-        <translation type="unfinished"></translation>
+        <translation>RD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="280"/>
         <source>Mammography</source>
-        <translation type="unfinished"></translation>
+        <translation>Mamografia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="283"/>
         <source>MG</source>
-        <translation type="unfinished"></translation>
+        <translation>MG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="290"/>
         <source>Intra-oral Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiografia intraoral</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="293"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>IO (Intraoral)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="300"/>
         <source>Panoramic X-Ray</source>
-        <translation type="unfinished"></translation>
+        <translation>Raio-X panorâmico</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="303"/>
         <source>PX</source>
-        <translation type="unfinished"></translation>
+        <translation>XP (Raio-X Panorâmico)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="310"/>
         <source>General Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Microscopia geral</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="313"/>
         <source>GM</source>
-        <translation type="unfinished"></translation>
+        <translation>MG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="320"/>
         <source>Slide Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Microscopia de lâminas</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="323"/>
         <source>SM</source>
-        <translation type="unfinished"></translation>
+        <translation>ML</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="330"/>
         <source>External-camera Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografia com câmera externa</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="333"/>
         <source>XC</source>
-        <translation type="unfinished"></translation>
+        <translation>CE (Câmera externa)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="340"/>
         <source>Presentation State</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado da apresentação</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="343"/>
         <source>PR</source>
-        <translation type="unfinished"></translation>
+        <translation>PR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="350"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Áudio</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="353"/>
         <source>AU</source>
-        <translation type="unfinished"></translation>
+        <translation>ÁU</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="360"/>
         <source>Electrocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation>Eletrocardiografia</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="363"/>
         <source>ECG</source>
-        <translation type="unfinished"></translation>
+        <translation>ECG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="370"/>
         <source>Cardiac Electrophysiology</source>
-        <translation type="unfinished"></translation>
+        <translation>Eletrofisiologia cardíaca</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="373"/>
         <source>EPS</source>
-        <translation type="unfinished"></translation>
+        <translation>EFC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="380"/>
         <source>Hemodynamic Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma de onda hemodinâmica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="383"/>
         <source>HD</source>
-        <translation type="unfinished"></translation>
+        <translation>HD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="390"/>
         <source>SR Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento SR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="393"/>
         <source>SR</source>
-        <translation type="unfinished"></translation>
+        <translation>SR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="400"/>
         <source>Intravascular Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultrassom intravascular</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="403"/>
         <source>IVUS</source>
-        <translation type="unfinished"></translation>
+        <translation>UIVAS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="410"/>
         <source>Ophthalmic Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografia oftálmica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="413"/>
         <source>OP</source>
-        <translation type="unfinished"></translation>
+        <translation>FO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="420"/>
         <source>Stereometric Relationship</source>
-        <translation type="unfinished"></translation>
+        <translation>Relação estereométrica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="423"/>
         <source>SMR</source>
-        <translation type="unfinished"></translation>
+        <translation>RelEM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="430"/>
         <source>Optical Coherence Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomografia de Coerência Óptica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="433"/>
         <source>OCT</source>
-        <translation type="unfinished"></translation>
+        <translation>TCO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="440"/>
         <source>Ophthalmic Refraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Refração oftálmica</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="443"/>
         <source>OPR</source>
-        <translation type="unfinished"></translation>
+        <translation>RO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="450"/>
         <source>Ophthalmic Visual Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo visual oftálmico</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="453"/>
         <source>OPV</source>
-        <translation type="unfinished"></translation>
+        <translation>CVO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="460"/>
         <source>Ophthalmic Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapeamento oftálmico</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="463"/>
         <source>OPM</source>
-        <translation type="unfinished"></translation>
+        <translation>MO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="470"/>
         <source>Key Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção de objetos-chave</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="473"/>
         <source>KO</source>
-        <translation type="unfinished"></translation>
+        <translation>SOC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="480"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="483"/>
         <source>SEG</source>
-        <translation type="unfinished"></translation>
+        <translation>Seg</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="490"/>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="493"/>
         <source>REG</source>
-        <translation type="unfinished"></translation>
+        <translation>Reg</translation>
     </message>
 </context>
 <context>
@@ -3311,22 +3311,22 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="336"/>
         <source>Open a dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra uma caixa de diálogo</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="646"/>
         <source>Select a file to save </source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um arquivo para salvar </translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="661"/>
         <source>Open a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra um arquivo</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="677"/>
         <source>Select a directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha um diretório...</translation>
     </message>
 </context>
 <context>
@@ -3334,43 +3334,43 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="14"/>
         <source>Path list</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de caminhos</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="23"/>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="26"/>
         <source>Add files</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar arquivo</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="33"/>
         <source>Add a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar um diretório</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="36"/>
         <source>Add directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar diretório</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="43"/>
         <source>Remove selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover entradas selecionadas</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="46"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="53"/>
         <source>Edit current entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar entrada atual</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="56"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
 </context>
 <context>
@@ -3378,7 +3378,7 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="123"/>
         <source>Editing the path failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao editar o caminho</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="124"/>
@@ -3391,27 +3391,35 @@ to path
 %2
 
 Please check your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao alterar o caminho:
+
+%1
+
+para o caminho
+
+%2
+
+Verifique suas permissões.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="152"/>
         <source>Select one or more files</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um ou mais arquivos</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="156"/>
         <source>Select a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um arquivo</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="241"/>
         <source>Select a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um diretório</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="316"/>
         <source>Adding paths failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao adicionar caminhos</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="317"/>
@@ -3419,7 +3427,10 @@ Please check your permissions.</source>
 
 %1
 Please check your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao adicionar os seguintes caminhos:
+
+%1
+Verifique suas permissões.</translation>
     </message>
 </context>
 <context>
@@ -3427,67 +3438,67 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="52"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalado</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="53"/>
         <source>Lazy Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativação preguiçosa</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="54"/>
         <source>Resolved</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolvido</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="55"/>
         <source>Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciado</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="56"/>
         <source>Starting</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="57"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Parado</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="58"/>
         <source>Stopping</source>
-        <translation type="unfinished"></translation>
+        <translation>Parando</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="59"/>
         <source>Uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinstalado</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="60"/>
         <source>Unresolved</source>
-        <translation type="unfinished"></translation>
+        <translation>Não resolvido</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="61"/>
         <source>Updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizado</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="115"/>
         <source>Start Plugin (ignore activation policy)</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar o plug-in (ignorar a política de ativação)</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="116"/>
         <source>Start Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar o plug-in</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="117"/>
         <source>Stop Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Parar o plug-in</translation>
     </message>
 </context>
 <context>
@@ -3495,37 +3506,37 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="14"/>
         <source>Plugin Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador de plug-in</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="46"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="58"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plug-ins</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="122"/>
         <source>Qt Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Recursos Qt</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="159"/>
         <source>Plugin Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Recursos do plug-in</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="193"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Serviços</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="260"/>
         <source>Link services</source>
-        <translation type="unfinished"></translation>
+        <translation>Serviços de links</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="304"/>
