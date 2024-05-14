@@ -1705,40 +1705,43 @@ If specified, the regular tube diameter above is ignored.</source>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="319"/>
         <source>Intensity tolerance:</source>
-        <translation type="unfinished"></translation>
+        <translation>التحمل الشديد:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="326"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حدد voxels متصلة مع نطاق شدة بين واحد في موضع نقطة التحكم +/- هذا التحمل.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="351"/>
         <source>Neighbourhood size:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الحي:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="358"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>تتم إضافة المناطق فقط إذا كانت جميع أجهزة voxels في الحي ذات كثافة مماثلة. استخدم قيم أعلى لمنع التسرب. استخدم قيم أقل للسماح بالتقاط التفاصيل الدقيقة.
+</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="391"/>
         <source>Extract centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>استخراج الخطوط المركزية</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="404"/>
         <source>Create a segmentation and optionally a centerline model and a centerline curve.
 
 Output nodes from the last run will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء تجزئة وخياريًا نموذج خط مركزي ومنحنى خط مركزي.
+
+سيتم إزالة عقد الإخراج من الجولة الأخيرة.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="412"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
 </context>
 <context>
@@ -1748,7 +1751,9 @@ Output nodes from the last run will be removed.</source>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; attempts to segment major veins using effects of the &apos;Segment editor&apos;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+هذه &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt; الوحدة &lt;/a&gt; تحاول تقسيم الأوردة الرئيسية باستخدام تأثيرات «محرر المقطع».
+</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="48"/>
@@ -1756,83 +1761,87 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطوير هذا الملف في الأصل بواسطة Jean-Christophe Fillion-Robin، Kitware Inc.، Andras Lasso، PerkLab،
+وSteve Pieper، Isomics، Inc. وتم تمويله جزئيًا من قبل 3P41RR013218-12S1 منح المعاهد الوطنية للصحة.
+</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="195"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في حساب النتائج.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="243"/>
         <source>Input curve or volume or segmentation is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>منحنى الإدخال أو الحجم أو التجزئة غير صالح.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="251"/>
         <source>Extrusion kernel size or Gaussian standard deviation
                 or seed radius or shell margin or shell thickness is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم نواة البثق أو الانحراف المعياري الغاوسي
+أو نصف قطر البذور أو هامش الصدفة أو سمك الصدفة غير صالح.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="255"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>بدأت المعالجة</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="371"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">اكتملت المعالجة في {duration} ثانية</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="397"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء الاختبار</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="399"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>اجتاز الاختبار</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="19"/>
         <source>Open curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>المنحنى المفتوح:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="26"/>
         <source>Select an open markups curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد منحنى الترميز المفتوح.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="59"/>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="66"/>
         <source>Select a volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد الحجم.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="99"/>
         <source>Select a segmentation to contain the output.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد التجزئة لاحتواء الاخراج.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="132"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>التجزئة:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="154"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معايير</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="165"/>
         <source>Shell margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>هامش الصهريج:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="178"/>
