@@ -4302,7 +4302,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"/>
         <source>Name to use for this model.</source>
-        <translation type="unfinished">这个模型要使用的名称。</translation>
+        <translation>模型使用的名称</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="23"/>
