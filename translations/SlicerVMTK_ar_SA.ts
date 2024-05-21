@@ -2342,73 +2342,73 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="137"/>
         <source>Restore orientation of all slice views</source>
-        <translation type="unfinished"></translation>
+        <translation>استعادة التوجه لجميع مناظر الشرائح</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="138"/>
         <source>... to their default orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>... إلى توجههم الافتراضي.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Control point</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة تحكم</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>المساحة السطحية</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Model visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية النموذج</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Segment visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية القطاع</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="176"/>
         <source>Remove row</source>
-        <translation type="unfinished"></translation>
+        <translation>أزل الصف</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="181"/>
         <source>Empty table</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول فارغ</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="187"/>
         <source>Dismiss menu</source>
-        <translation type="unfinished"></translation>
+        <translation>طرد القائمة</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="236"/>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="566"/>
         <source>Input segmentation is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>تجزئة المدخلات غير صالحة</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="320"/>
         <source>Select a slice node</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد عقدة شريحة</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="323"/>
         <source>Select a fiducial node</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد عقدة فيدوسيال</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="326"/>
         <source>Select a segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد عقدة التجزئة</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="329"/>
@@ -2418,7 +2418,7 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="331"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في حساب النتائج.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="476"/>
@@ -2433,32 +2433,32 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="495"/>
         <source>Slice node not set</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة شريحة غير مضبوطة</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="512"/>
         <source>Slice orientation recorded</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تسجيل اتجاه الشرائح</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="522"/>
         <source>Slice orientation restored</source>
-        <translation type="unfinished"></translation>
+        <translation>استعادة اتجاه الشرائح</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="529"/>
         <source>Reset orientation at point</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة ضبط التوجه عند نقطة</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="568"/>
         <source>Input segment ID is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>معرف قطاع المدخلات غير صالح</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="572"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>بدأت المعالجة</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="624"/>
@@ -2468,12 +2468,12 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="676"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء الاختبار</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="678"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>اجتاز الاختبار</translation>
     </message>
 </context>
 <context>
@@ -2481,22 +2481,22 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>مدخلات</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="23"/>
         <source>Input curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>منحنى المدخلات:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="30"/>
         <source>Pick the input markups curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر منحنى رموز الإدخال.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="66"/>
         <source>Result table.</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول النتائج.</translation>
     </message>
 </context>
 <context>
@@ -2512,53 +2512,54 @@ The result is influenced by :
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معايير</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="29"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج خط الوسط:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="36"/>
         <source>Pick the input centerline model.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر نموذج خط الوسط المدخل.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="69"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>التجزئة:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="78"/>
         <source>Input segmentation.
 The input centerline is expected to be inside the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>تجزئة المدخلات.
+من المتوقع أن يكون خط وسط الإدخال داخل سطح التجويف.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="106"/>
         <source>Select an input segment in the selected segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد جزء الإدخال في التجزئة المختارة.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="151"/>
         <source>Create a segment for each branch.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء جزء لكل فرع.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
         <source>Create branch segments</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء أجزاء فرعية</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="170"/>
         <source>Create a model of each bifurcation splitting line.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء نموذج لكل خط تقسيم تشعب.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="173"/>
@@ -2568,27 +2569,27 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="188"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="191"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="92"/>
         <source>No centerline selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يوجد خط مركزي محدد.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="101"/>
         <source>No segmentation selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم اختيار التجزئة.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="107"/>
         <source>No output selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم اختيار أي ناتج.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="121"/>
@@ -2598,12 +2599,12 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="132"/>
         <source>No segment selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم اختيار أي جزء.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="143"/>
         <source>Could not create closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن إنشاء تمثيل سطح مغلق.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="152"/>
