@@ -2413,7 +2413,7 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="329"/>
         <source>Click on a fiducial control point</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر فوق نقطة تحكم اجتماعية</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="331"/>
@@ -2564,7 +2564,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="173"/>
         <source>Create bifurcation profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء ملفات تعريف التشعب</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="188"/>
@@ -2594,7 +2594,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="121"/>
         <source>Segmentation is NULL in MRML node, aborting</source>
-        <translation type="unfinished"></translation>
+        <translation>التجزئة باطلة في عقدة MRML، إحباط</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="132"/>
@@ -2609,7 +2609,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="152"/>
         <source>Unknown surface node</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة سطحية غير معروفة</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="162"/>
@@ -2619,42 +2619,42 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="170"/>
         <source>Could not create a valid surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن إنشاء سطح صالح.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="190"/>
         <source>No branches could be retrieved; the centerline may be invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن استرجاع أي فروع ؛ خط الوسط قد يكون غير صالح.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="198"/>
         <source>Processing branch </source>
-        <translation type="unfinished"></translation>
+        <translation>فرع المعالجة </translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="211"/>
         <source>Could not retrieve branch surface </source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر استرداد سطح الفرع </translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="267"/>
         <source>Could not get a valid collection of bifurcation profiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتمكن من الحصول على مجموعة صالحة من ملفات تعريف التشعب.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="276"/>
         <source>Could not get a valid subject hierarchy node.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن الحصول على عقدة التسلسل الهرمي صالحة.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="286"/>
         <source>Bifurcation profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>ملامح التشعب</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="312"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهى</translation>
     </message>
 </context>
 <context>
@@ -2675,29 +2675,31 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="22"/>
         <source>Wall surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>سطح الحائط:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="29"/>
         <source>Select an input shape (tube) node, drawn to represent the vascular wall.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد عقدة شكل مدخل (أنبوب)، مرسومة لتمثيل جدار الأوعية الدموية.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="37"/>
         <source>Tube</source>
-        <translation type="unfinished"></translation>
+        <translation>أنبوب</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="59"/>
         <source>Select an input markups fiducial node.
 
 The first and second points are the boundaries between which the analysis will be performed. They should not be at the very ends of the wall surface for accurate results.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد علامة الإدخال العقدة الإيمانية.
+
+النقطتان الأولى والثانية هما الحدود التي سيتم إجراء التحليل بينها. لا ينبغي أن تكون في نهايات سطح الجدار للحصول على نتائج دقيقة.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="69"/>
@@ -2707,46 +2709,48 @@ The first and second points are the boundaries between which the analysis will b
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="94"/>
         <source>Boundary node:</source>
-        <translation type="unfinished"></translation>
+        <translation>العقدة الحدودية:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="101"/>
         <source>Lumen surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>سطح التجويف:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="108"/>
         <source>Select a segment representing the vascular lumen.
 
 This should ideally exceed the wall surface a little, and must not be bifurcated for accurate results.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد قطعة تمثل تجويف الأوعية الدموية.
+
+يجب أن يتجاوز هذا سطح الجدار بشكل مثالي قليلاً، ويجب ألا يتشعب للحصول على نتائج دقيقة.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="131"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="134"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="144"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>نتيجة</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="152"/>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="235"/>
         <source>Wall:</source>
-        <translation type="unfinished"></translation>
+        <translation>الجدار:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="166"/>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="266"/>
         <source>Lumen:</source>
-        <translation type="unfinished"></translation>
+        <translation>ضوء:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="180"/>
