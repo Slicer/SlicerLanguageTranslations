@@ -544,7 +544,7 @@
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="409"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Автообновление</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="417"/>
@@ -1449,7 +1449,7 @@
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="405"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Автообновление</translation>
     </message>
 </context>
 <context>
