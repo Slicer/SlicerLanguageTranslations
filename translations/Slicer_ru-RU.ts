@@ -6381,7 +6381,7 @@ Preservation of the Principal Direction (PPD)</source>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры интерполяции Windowed Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
@@ -6427,7 +6427,7 @@ b = Blackman</source>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="98"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры интерполяции функции BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
@@ -6821,7 +6821,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры интерполяции Windowed Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
@@ -6867,7 +6867,7 @@ b = Blackman</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="82"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры интерполяции функции BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="83"/>
@@ -9632,7 +9632,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="15"/>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="118"/>
         <source>Segment Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор сегментов</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="23"/>
@@ -9662,33 +9662,33 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="93"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Автообновление</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="94"/>
         <source>Auto-update results preview when input segments change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновлять предпросмотр результатов при изменении ввода.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="98"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="261"/>
         <source>Initialize</source>
-        <translation type="unfinished"></translation>
+        <translation>Инициализировать</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="100"/>
         <source>Preview complete segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпросмотр полной сегментации</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="110"/>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпросмотр:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="113"/>
         <source>Adjust visibility of results preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Корректировка видимости предпросмотра результатов.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="121"/>
@@ -9708,12 +9708,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="128"/>
         <source>results</source>
-        <translation type="unfinished"></translation>
+        <translation>результат</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="130"/>
         <source>Display:</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображение:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="132"/>
@@ -9723,7 +9723,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="134"/>
         <source>Clear preview and cancel auto-complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить предпросмотр и отменить автообновление</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="136"/>
@@ -9733,12 +9733,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="138"/>
         <source>Replace segments by previewed result</source>
-        <translation type="unfinished"></translation>
+        <translation>Заменить сегменты предварительным результатом</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="177"/>
         <source>Segmentation operation is cancelled because an input segment was deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Операция сегментации отменена из-за удаления сегмента ввода.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="255"/>
@@ -9748,23 +9748,23 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="286"/>
         <source>Running {effectName} auto-complete...</source>
-        <translation type="unfinished"></translation>
+        <translation>Выполняется автодополнение {effectName}...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="288"/>
         <source>Segmentation operation failed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Операция сегментации не удалась:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="450"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="462"/>
         <source>Minimum {minimumNumberOfSegments} visible segments are required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Требуется минимум {minimumNumberOfSegments} видимых сегментов.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="455"/>
         <source>Minimum {minimumNumberOfSegments} visible segments (or specification of editable area or intensity range) is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Требуется минимум {minimumNumberOfSegments} видимых сегментов (либо указание редактируемой области, либо диапазон интенсивности).</translation>
     </message>
 </context>
 <context>
@@ -9772,7 +9772,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorDrawEffect.py" line="21"/>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисовать</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorDrawEffect.py" line="46"/>
@@ -9791,7 +9791,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorFillBetweenSlicesEffect.py" line="22"/>
         <source>Fill between slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка между долями</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorFillBetweenSlicesEffect.py" line="48"/>
@@ -9901,7 +9901,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="72"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить к видимым сегментам:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="74"/>
@@ -10227,7 +10227,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="69"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить к видимым сегментам:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="72"/>
@@ -10488,7 +10488,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="95"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить к видимым сегментам:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="98"/>
@@ -24161,7 +24161,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1275"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить к видимым сегментам:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1276"/>
