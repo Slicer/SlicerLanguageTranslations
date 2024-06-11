@@ -263,7 +263,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="495"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="525"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline model first.</source>
-        <translation type="unfinished">Call &apos;splitCenterlines()&apos; with an input centerline model first.</translation>
+        <translation>اتصل بـ &apos;splitCenterlines()&apos; مع نموذج مركز الإدخال أولاً.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="499"/>
@@ -464,7 +464,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1084"/>
         <source>Processing completed in {duration} seconds - {countOfPoints} points</source>
-        <translation type="unfinished">تم الانتهاء من المعالجة في {duration} ثانية - {CountOfPoints} نقاط</translation>
+        <translation>تم الانتهاء من المعالجة في {duration} ثانية - {CountOfPoints} نقاط</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1149"/>
@@ -725,7 +725,7 @@ The input centerline is expected to be inside the lumen surface.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="573"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="608"/>
         <source> deg</source>
-        <translation type="unfinished"></translation>
+        <translation> deg</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="499"/>
@@ -1076,7 +1076,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="725"/>
         <source>Failed to compute centerline (no Voronoi diagram was generated)</source>
-        <translation type="unfinished">فشل في حساب الخط المركزي (لم يتم إنشاء مخطط Voronoi)</translation>
+        <translation>فشل في حساب الخط المركزي (لم يتم إنشاء مخطط فورونوي)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="729"/>
@@ -1086,7 +1086,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="746"/>
         <source>openSurfaceAtPoint failed: empty input polydata</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل openSurfaceAtPoint: بيانات متعددة المدخلات فارغة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="775"/>
@@ -1328,7 +1328,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="490"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="490"/>
         <source>k</source>
-        <translation type="unfinished"></translation>
+        <translation>k</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="497"/>
@@ -1382,19 +1382,19 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="599"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="599"/>
         <source>Output Voronoi diagram:</source>
-        <translation type="unfinished">مخطط فورونوي للإخراج:</translation>
+        <translation>مخطط فورونوي للإخراج:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="606"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="606"/>
         <source>Voronoi diagram (similar to medial surface) that is used for computing centerline path between endpoints. It is useful for quality checks and for showing a model where endpoints can be robustly placed on.</source>
-        <translation type="unfinished">رسم فورونوي (مشابه للسطح الإنسي) الذي يستخدم لحساب المسار المركزي بين نقاط النهاية. إنه مفيد لفحوصات الجودة ولإظهار نموذج يمكن فيه وضع نقاط النهاية بقوة.</translation>
+        <translation>رسم فورونوي (مشابه للسطح الإنسي) الذي يستخدم لحساب المسار المركزي بين نقاط النهاية. إنه مفيد لفحوصات الجودة ولإظهار نموذج يمكن فيه وضع نقاط النهاية بقوة.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="617"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="617"/>
         <source>Voronoi diagram</source>
-        <translation type="unfinished">مخطط فورونوي</translation>
+        <translation>مخطط فورونوي</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="639"/>
@@ -1506,29 +1506,29 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="152"/>
         <source>Could not update metadata from server to install {extension}.</source>
-        <translation type="unfinished">تعذر تحديث البيانات الوصفية من الخادم لتركيب {extension}.</translation>
+        <translation>تعذر تحديث البيانات الوصفية من الخادم لتركيب {extension}.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="154"/>
         <source>{extension} must be installed. Do you want to install it now ?</source>
-        <translation type="unfinished">يجب تثبيت {extension}. هل تريد تثبيته الآن ؟</translation>
+        <translation>يجب تثبيت {extension}. هل تريد تثبيته الآن ؟</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="156"/>
         <source>This module cannot be used without {extension}.</source>
-        <translation type="unfinished">لا يمكن استخدام هذه الوحدة بدون {extension}.</translation>
+        <translation>لا يمكن استخدام هذه الوحدة بدون {extension}.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="159"/>
         <source>Failed to install {extension} extension.</source>
-        <translation type="unfinished">فشل في تثبيت {extension} تمديد.</translation>
+        <translation>فشل في تثبيت {extension} تمديد.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="161"/>
         <source>{extension} has been installed from server.
 
 Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished">تم تثبيت {extension} من الخادم.
+        <translation>تم تثبيت {extension} من الخادم.
 
 يجب إعادة تشغيل Slicer. هل تريد إعادة التشغيل الآن ؟</translation>
     </message>
@@ -1585,13 +1585,13 @@ Slicer must be restarted. Do you want to restart now ?</source>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="614"/>
         <source>Flood filling : {duration} seconds - </source>
-        <translation type="unfinished">ملء الفيضانات: {duration} ثانية - </translation>
+        <translation>ملء الفيضانات: {duration} ثانية - </translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="646"/>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="721"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">اكتملت المعالجة في {duration} ثانية</translation>
+        <translation>اكتملت المعالجة في {duration} ثانية</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="652"/>
@@ -1710,7 +1710,7 @@ If specified, the regular tube diameter above is ignored.</source>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="326"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
-        <translation type="unfinished">حدد voxels متصلة مع نطاق شدة بين واحد في موضع نقطة التحكم +/- هذا التحمل.</translation>
+        <translation>حدد فوكسل متصلة مع نطاق شدة بين واحد في موضع نقطة التحكم +/- هذا التحمل.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="351"/>
@@ -1791,7 +1791,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="371"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">اكتملت المعالجة في {duration} ثانية</translation>
+        <translation>اكتملت المعالجة في {duration} ثانية</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="397"/>
@@ -1846,7 +1846,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="178"/>
         <source>Margin of a temporary shell around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>هامش غلاف مؤقت حول منحنى الإدخال.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="181"/>
@@ -1855,23 +1855,24 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="303"/>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="341"/>
         <source> mm</source>
-        <translation type="unfinished"></translation>
+        <translation> مم</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="209"/>
         <source>For the &apos;Smoothing::RemoveExtrusion&apos; effect of the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>بالنسبة لـ &apos;Smoothing:: RemoveExtrusion&apos; تأثير &apos;محرر المقطع&apos;.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="234"/>
         <source>Gaussian standard
 deviation:</source>
-        <translation type="unfinished"></translation>
+        <translation>المعيار الغاوسي
+الانحراف:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="248"/>
         <source>For the &apos;Smoothing::Gaussian&apos; effect of the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished">بالنسبة لـ «Smoothing:: Gaussian» تأثير «محرر المقطع».</translation>
+        <translation>بالنسبة لـ &apos;Smoothing:: Gaussian&apos; تأثير &apos;محرر المقطع&apos;.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="273"/>
@@ -1911,17 +1912,17 @@ deviation:</source>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="386"/>
         <source>Remove overlaps:</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة التداخل:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="402"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="405"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
 </context>
 <context>
@@ -1929,27 +1930,27 @@ deviation:</source>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>مدخلات</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="36"/>
         <source>Slice node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة الشريحة:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
         <source>Select an input slice view.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد عرض شريحة الإدخال.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="46"/>
         <source>vtkMRMLSliceNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLSliceNode</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="63"/>
         <source>inputSliceNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">inputSliceNode</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="70"/>
@@ -1966,7 +1967,7 @@ Clicking at a control point allows to track the slice orientation in the selecte
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="82"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="105"/>
@@ -1976,24 +1977,26 @@ Clicking at a control point allows to track the slice orientation in the selecte
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="112"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>التجزئة:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="119"/>
         <source>Select an input segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد تجزئة الإدخال.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="142"/>
         <source>Result table.
 
 Right click for more.</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول النتائج.
+
+انقر جيدًا للمزيد.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="167"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
 </context>
 <context>
@@ -2027,29 +2030,31 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="148"/>
         <source>Could not update metadata from server to install {extension}.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر تحديث البيانات الوصفية من الخادم لتركيب {extension}.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="150"/>
         <source>{extension} must be installed. Do you want to install it now ?</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب تثبيت {extension}. هل تريد تثبيته الآن ؟</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="152"/>
         <source>This module cannot be used without {extension}.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن استخدام هذه الوحدة بدون {extension}.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="155"/>
         <source>Failed to install {extension} extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تثبيت {extension} تمديد.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="157"/>
         <source>{extension} has been installed from server.
 
 Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تثبيت {extension} من الخادم.
+
+يجب إعادة تشغيل Slicer. هل تريد إعادة التشغيل الآن ؟</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="171"/>
@@ -2094,7 +2099,7 @@ Slicer must be restarted. Do you want to restart now ?</source>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="542"/>
         <source>Flood filling : {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation>ملء الفيضانات: {duration} ثانية - </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="565"/>
