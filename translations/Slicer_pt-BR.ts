@@ -29751,7 +29751,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="14"/>
         <source>Welcome</source>
-        <translation>Benvindo</translation>
+        <translation>Bem-vindo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="79"/>
@@ -29767,7 +29767,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
         <source>Customize Slicer</source>
-        <translation>Customizar o Slicer</translation>
+        <translation>Personalizar o Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
@@ -29777,7 +29777,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Welcome&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Bem vindo&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Bem-vindo&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="100"/>
@@ -29826,7 +29826,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; é uma plataforma de software livre de código aberto para processamento de imagens médicas e visualização 3D de dados de imagens. Este módulo contém algumas informações básicas e links úteis para que você comece a usar o Slicer. &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Para maiores informações, visite nosso site &lt;a href=&quot;https://www.slicer.org&quot;&gt; &lt;/a&gt; .&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; é uma plataforma de software livre de código aberto para processamento de imagens médicas e visualização 3D de dados de imagens. Este módulo contém algumas informações básicas e links úteis para que você comece a usar o Slicer. &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Para mais informações, visite nosso site &lt;a href=&quot;https://www.slicer.org&quot;&gt; &lt;/a&gt; .&lt;/p&gt;
 &lt;p&gt;&lt;b&gt; 3D Slicer&lt;/b&gt; é distribuído sob uma licença estilo BSD; para detalhes sobre a contribuição e o contrato de licença de software, consulte o https://www.slicer.org Contrato de Licença de Software 3D Slicer&lt;/a&gt;. Este software foi projetado apenas para fins de pesquisa e não foi revisado ou aprovado pela Food and Drug Administration, ou por qualquer outra agência.&lt;/p&gt;</translation>
     </message>
     <message>
@@ -29890,7 +29890,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="391"/>
         <source>Periodically check for updates. Note that anonymized usage statistics will be recorded. If the box appears as partially checked it means that automatic updates are only checked for the application or for extensions, but not both - click the checkbox to enable/disable all automatic update checks.</source>
-        <translation>Checar atualizações periodicamente. Note que estatísticas de uso anonimizadas serão gravadas. Se a caixa estiver parcialmente checada significa que, atualizações automáticas só serão checadas para a aplicação ou extensões, mas não para ambas - clique na caixa para habilitar/desabilitar todas as checagens automáticas de atualizações.</translation>
+        <translation>Verificar atualizações periodicamente. Note que estatísticas de uso anonimizadas serão gravadas. Se a caixa estiver parcialmente marcada significa que atualizações automáticas só serão verificadas para a aplicação ou as extensões, mas não para ambas - clique na caixa para habilitar/desabilitar todas as verificações automáticas de atualizações.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="394"/>
@@ -29900,7 +29900,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="410"/>
         <source>Check now</source>
-        <translation>Checar agora</translation>
+        <translation>Verificar agora</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="419"/>
@@ -29939,13 +29939,13 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
 &lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
 &lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;p&gt;O desenvolvimento do Slicer 3D é apoiado por &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; e a Comunidade Slicer &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;&lt;/a&gt; . Veja &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; para detalhes.&lt;/p&gt;
-&lt;p&gt;Também gostaríamos de expressar nossos sinceros agradecimentos aos membros da Slicer User Community que nos ajudaram a projetar o conteúdo deste módulo de boas-vindas, e cujo feedback continua a melhorar a funcionalidade, usabilidade e experiência do usuário do Slicer.&lt;/p&gt;
+&lt;p&gt;Também gostaríamos de expressar nossos sinceros agradecimentos aos membros da Slicer User Community que nos ajudaram a projetar o conteúdo deste módulo de boas-vindas, e cujo retorno continua a melhorar a funcionalidade, usabilidade e experiência do usuário do Slicer.&lt;/p&gt;
 &lt;p&gt;Este módulo foi desenvolvido por Jean-Christophe Fillion-Robin e Julien Finet na Kitware, Inc, e por Wendy Plesniak, Sonia Pujol, Steve Pieper e Ron Kikinis no Brigham and Women&apos;s Hospital.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="106"/>
         <source>Checking for updates...</source>
-        <translation>Checando as atualizações...</translation>
+        <translation>Verificando as atualizações...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
