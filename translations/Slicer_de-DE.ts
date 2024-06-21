@@ -270,50 +270,50 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
         <source>Parameters for normalizing the output images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter zur Normalisierung der Ausgabebilder.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
         <source>Upper Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation>Oberes Perzentil</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="34"/>
         <source>Lower Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation>Unteres Perzentil</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="35"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="37"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="42"/>
         <source>Upper Output Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>Obere Ausgangsintensität</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="36"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="43"/>
         <source>Lower Output Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>Untere Ausgangsintensität</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
         <source>Relative Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Relative Skalierung</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
         <source>Debug Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Debug-Ebene</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
         <source>Upper Intensity Percentile (0.99 default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Oberes Intensitäts-Perzentil (Standard 0,99)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="41"/>
         <source>Lower Intensity Percentile (0.01 default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Unteres Intensitäts-Perzentil (Standard 0,01)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
