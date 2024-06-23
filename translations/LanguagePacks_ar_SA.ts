@@ -223,85 +223,89 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
         <translation>فشل في استخراج أي نص من: {object}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="296"/>
+        <location filename="LanguageTools/LanguageTools.py" line="283"/>
         <source>Failed to retrieve language list from Weblate.</source>
         <translation>فشل في استعادة قائمة اللغة من Weblate.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="412"/>
+        <location filename="LanguageTools/LanguageTools.py" line="399"/>
         <source>Update failed.</source>
         <translation>فشل التحديث.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="439"/>
+        <location filename="LanguageTools/LanguageTools.py" line="424"/>
         <source>Update completed! Select application language and restart the application to see the results.</source>
         <translation>اكتمل التحديث! حدد لغة التطبيق وأعد تشغيل التطبيق لمعرفة النتائج.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="515"/>
+        <location filename="LanguageTools/LanguageTools.py" line="500"/>
         <source>Failed to query list of languages from Weblate ({status_code}:{reason})</source>
         <translation>فشل في الاستعلام عن قائمة اللغات من Weblate ({status_code}: {reason}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="545"/>
+        <location filename="LanguageTools/LanguageTools.py" line="530"/>
         <source>Failed to query list of components from Weblate ({status_code}:{reason})</source>
         <translation>فشل في الاستعلام عن قائمة المكونات من Weblate ({status_code}:{reason})</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="584"/>
+        <location filename="LanguageTools/LanguageTools.py" line="569"/>
         <source>No .ts files were found in the specified location.</source>
         <translation>لم يتم العثور على أي ملفات .ts في المكان المحدد.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="588"/>
+        <location filename="LanguageTools/LanguageTools.py" line="573"/>
         <source>Use translation file: {file}</source>
         <translation>استخدم ملف الترجمة: {file}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="613"/>
+        <location filename="LanguageTools/LanguageTools.py" line="598"/>
         <source>Download translations for {component}/{language}...</source>
         <translation>قم بتنزيل الترجمات لـ {component}/{language}...</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="622"/>
+        <location filename="LanguageTools/LanguageTools.py" line="607"/>
         <source>Failed to download translation from: {url} -- {text}</source>
         <translation>فشل في تنزيل الترجمة من: {url} - {text}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="623"/>
-        <source>Download failed. This component may not have been translated to the selected language.</source>
-        <translation>فشل التنزيل. ربما لم يتم ترجمة هذا المكون إلى اللغة المختارة.</translation>
+        <location filename="LanguageTools/LanguageTools.py" line="608"/>
+        <source>Skipped. This component/language was not found on Weblate.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="687"/>
-        <location filename="LanguageTools/LanguageTools.py" line="710"/>
+        <source>Download failed. This component may not have been translated to the selected language.</source>
+        <translation type="vanished">فشل التنزيل. ربما لم يتم ترجمة هذا المكون إلى اللغة المختارة.</translation>
+    </message>
+    <message>
+        <location filename="LanguageTools/LanguageTools.py" line="632"/>
+        <location filename="LanguageTools/LanguageTools.py" line="655"/>
         <source>Translation files folder is not specified.</source>
         <translation>مجلد ملفات الترجمة غير محدد.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="690"/>
+        <location filename="LanguageTools/LanguageTools.py" line="635"/>
         <source>lrelease tool path is not specified.</source>
         <translation>مسار أداة lrelease غير محدد.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="728"/>
+        <location filename="LanguageTools/LanguageTools.py" line="673"/>
         <source>No translation (qm) files were found at {location}</source>
         <translation>لم يتم العثور على ملفات ترجمة (qm) في {location}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="730"/>
+        <location filename="LanguageTools/LanguageTools.py" line="675"/>
         <source>Update successfully completed.
 Installed {count} translation files in {location}.</source>
         <translation>اكتمل التحديث بنجاح.
 تم تثبيت {count} ملفات الترجمة في {location}.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="736"/>
+        <location filename="LanguageTools/LanguageTools.py" line="681"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
         <translation>هذا الإصدار Slicer لا يدعم خطوط المشاهد المخصصة.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="759"/>
+        <location filename="LanguageTools/LanguageTools.py" line="704"/>
         <source>Installed {count} font files in {location}.</source>
         <translation>تم تثبيت {count} ملفات الخط في {location}.</translation>
     </message>

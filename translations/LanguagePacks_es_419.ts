@@ -223,85 +223,89 @@ El desarrollo de este módulo ha sido parcialmente financiado por&lt;a href=&quo
         <translation>No se ha podido extraer ningún texto de: {object}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="296"/>
+        <location filename="LanguageTools/LanguageTools.py" line="283"/>
         <source>Failed to retrieve language list from Weblate.</source>
         <translation>Error al recuperar la lista de idiomas de Weblate.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="412"/>
+        <location filename="LanguageTools/LanguageTools.py" line="399"/>
         <source>Update failed.</source>
         <translation>Actualización fallida.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="439"/>
+        <location filename="LanguageTools/LanguageTools.py" line="424"/>
         <source>Update completed! Select application language and restart the application to see the results.</source>
         <translation>¡Actualización completada! Seleccione el idioma de la aplicación y reiníciela para ver los resultados.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="515"/>
+        <location filename="LanguageTools/LanguageTools.py" line="500"/>
         <source>Failed to query list of languages from Weblate ({status_code}:{reason})</source>
         <translation>Error al consultar la lista de idiomas de Weblate ({status_code}:{reason})</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="545"/>
+        <location filename="LanguageTools/LanguageTools.py" line="530"/>
         <source>Failed to query list of components from Weblate ({status_code}:{reason})</source>
         <translation>Error al consultar la lista de componentes de Weblate ({status_code}:{reason})</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="584"/>
+        <location filename="LanguageTools/LanguageTools.py" line="569"/>
         <source>No .ts files were found in the specified location.</source>
         <translation>No se han encontrado archivos .ts en la ubicación especificada.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="588"/>
+        <location filename="LanguageTools/LanguageTools.py" line="573"/>
         <source>Use translation file: {file}</source>
         <translation>Utilizar archivo de traducción:{file}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="613"/>
+        <location filename="LanguageTools/LanguageTools.py" line="598"/>
         <source>Download translations for {component}/{language}...</source>
         <translation>Descargar traducciones para {component}/{language}...</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="622"/>
+        <location filename="LanguageTools/LanguageTools.py" line="607"/>
         <source>Failed to download translation from: {url} -- {text}</source>
         <translation>Error al descargar la traducción de: {url} -- {text}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="623"/>
-        <source>Download failed. This component may not have been translated to the selected language.</source>
-        <translation>Error de descarga. Es posible que este componente no se haya traducido al idioma seleccionado.</translation>
+        <location filename="LanguageTools/LanguageTools.py" line="608"/>
+        <source>Skipped. This component/language was not found on Weblate.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="687"/>
-        <location filename="LanguageTools/LanguageTools.py" line="710"/>
+        <source>Download failed. This component may not have been translated to the selected language.</source>
+        <translation type="vanished">Error de descarga. Es posible que este componente no se haya traducido al idioma seleccionado.</translation>
+    </message>
+    <message>
+        <location filename="LanguageTools/LanguageTools.py" line="632"/>
+        <location filename="LanguageTools/LanguageTools.py" line="655"/>
         <source>Translation files folder is not specified.</source>
         <translation>No se ha especificado la carpeta de archivos de traducción.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="690"/>
+        <location filename="LanguageTools/LanguageTools.py" line="635"/>
         <source>lrelease tool path is not specified.</source>
         <translation>No se especifica la ruta de la herramienta lrelease.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="728"/>
+        <location filename="LanguageTools/LanguageTools.py" line="673"/>
         <source>No translation (qm) files were found at {location}</source>
         <translation>No se han encontrado archivos de traducción (qm) en {location}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="730"/>
+        <location filename="LanguageTools/LanguageTools.py" line="675"/>
         <source>Update successfully completed.
 Installed {count} translation files in {location}.</source>
         <translation>Actualización completada con éxito.
 Instalado {count} archivos de traducción en {location}.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="736"/>
+        <location filename="LanguageTools/LanguageTools.py" line="681"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
         <translation>Esta versión de Slicer no admite fuentes de visualización personalizadas.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="759"/>
+        <location filename="LanguageTools/LanguageTools.py" line="704"/>
         <source>Installed {count} font files in {location}.</source>
         <translation>Instalado {count} archivos de fuentes en {location}.</translation>
     </message>

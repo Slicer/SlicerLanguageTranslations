@@ -114,18 +114,26 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>تفكيك خط الوسط</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="40"/>
         <source>
 Break down a centerline model into parts.
 See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation>
+        <translation type="vanished">
 قسّم نموذج خط الوسط إلى أجزاء.
 انظر المزيد من المعلومات في &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt; وثائق الوحدة &lt;/a&gt;.
 </translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="50"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="41"/>
+        <source>
+Break down a centerline model into parts.
+This module makes use of the &apos;ExtractCenterline&apos; module to generate curves.
+See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="51"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -136,162 +144,162 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="95"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="96"/>
         <source>Bifurcations</source>
         <translation>التشعبات</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="96"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="97"/>
         <source>Branches</source>
         <translation>فروع</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="97"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="98"/>
         <source>Centerlines</source>
         <translation>الخطوط المركزية</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="102"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="103"/>
         <source>Show curve names</source>
         <translation>إظهار أسماء المنحنى</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="186"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="187"/>
         <source>Failed to compute results.</source>
         <translation>فشل في حساب النتائج.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="190"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="191"/>
         <source>Please select the components to create.</source>
         <translation>الرجاء تحديد المكونات لإنشائها.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="194"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="195"/>
         <source>Please specify whether centerline &apos;Models&apos; and/or &apos;Curves&apos; should be generated.</source>
         <translation>يرجى تحديد ما إذا كان ينبغي إنشاء «النماذج» و/أو «المنحنيات» المركزية.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="196"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="197"/>
         <source>Splitting centerline</source>
         <translation>تقسيم خط الوسط</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="212"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="230"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="248"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="213"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="231"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="249"/>
         <source> models</source>
         <translation> نماذج</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="215"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="233"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="251"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="216"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="234"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="252"/>
         <source> curves</source>
         <translation> منحنيات</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="217"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="218"/>
         <source>Creating bifurcations</source>
         <translation>إنشاء تشعبات</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="220"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="221"/>
         <source>Bifurcation_Model</source>
         <translation>نموذج التشعب</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="223"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="224"/>
         <source>Bifurcation_Curve</source>
         <translation>منحنى التشعب</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="235"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="236"/>
         <source>Creating branches</source>
         <translation>إنشاء فروع</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="238"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="239"/>
         <source>Branch_Model</source>
         <translation>نموذج الفرع</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="241"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="242"/>
         <source>Branch_Curve</source>
         <translation>منحنى الفرع</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="253"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="254"/>
         <source>Creating centerlines</source>
         <translation>إنشاء خطوط مركزية</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="256"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="257"/>
         <source>Centerline_Model</source>
         <translation>النموذج المركزي</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="259"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="260"/>
         <source>Centerline_Curve</source>
         <translation>منحنى خط الوسط</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="264"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="265"/>
         <source>Invalid component</source>
         <translation>عنصر غير صالح</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="268"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="269"/>
         <source>Finished</source>
         <translation>انتهى</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="338"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="339"/>
         <source>Input centerline is invalid</source>
         <translation>خط وسط المدخلات غير صالح</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="430"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="431"/>
         <source>Processing curve creation started</source>
         <translation>بدأ إنشاء منحنى المعالجة</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="490"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="491"/>
         <source>Processing curve creation completed in {duration} seconds</source>
         <translation>تم الانتهاء من إنشاء منحنى المعالجة في {مدة} ثانية</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="495"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="525"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="496"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="526"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline model first.</source>
         <translation>اتصل بـ &apos;splitCenterlines()&apos; مع نموذج مركز الإدخال أولاً.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="499"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="500"/>
         <source>Processing centerline ids started</source>
         <translation>بدء معالجة معرفات خط الوسط</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="519"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="520"/>
         <source>Processing centerline ids completed in {duration} seconds</source>
         <translation>اكتمل تجهيز هويات خط الوسط في {مدة} ثانية</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="529"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="530"/>
         <source>Processing group ids started</source>
         <translation>بدأت معالجات الهوية الجماعية</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="562"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="563"/>
         <source>Processing group ids completed in {duration} seconds</source>
         <translation>اكتمل تجهيز بطاقات المجموعة في {مدة} ثانية</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="578"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="579"/>
         <source>Starting the test</source>
         <translation>بدء الاختبار</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="580"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="581"/>
         <source>Test passed</source>
         <translation>اجتاز الاختبار</translation>
     </message>
@@ -353,18 +361,24 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
 <context>
     <name>CrossSectionAnalysis</name>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="33"/>
         <source>
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available
     &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
 </source>
-        <translation>
+        <translation type="vanished">
 تصف هذه الوحدة المقاطع العرضية على طول نموذج خط مركزي VMTK أو منحنى ترميز مركزي VMTK أو منحنى ترميز اعتباطي. الوثائق متاحة
     &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;هنا&lt;/a&gt;.
 </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="43"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="32"/>
+        <source>
+This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="42"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -375,153 +389,153 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="335"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="868"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="334"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="867"/>
         <source>Input is invalid.</source>
         <translation>المدخلات غير صالحة.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="423"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="422"/>
         <source>N/A (input lumen surface not specified)</source>
         <translation>N/A (سطح تجويف الإدخال غير محدد)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="442"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="441"/>
         <source> (MIS diameter {sign}</source>
         <translation> (الحد الأقصى لقطر الكرة المنقوش {sign}</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="592"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="591"/>
         <source>Selected Shape node is not a Tube.</source>
         <translation>عقدة الشكل المختارة ليست أنبوب.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="598"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="597"/>
         <source>Selected model node does not have radius information.</source>
         <translation>عقدة نموذجية مختارة ليس لديها معلومات نصف القطر.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="617"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="616"/>
         <source>MIS diameter</source>
         <translation>الحد الأقصى لقطر الكرة المنقوش</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="619"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="618"/>
         <source>CE diameter</source>
         <translation>قطر مكافئ دائري</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="620"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1624"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="619"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1623"/>
         <source>Cross-section area</source>
         <translation>منطقة المقطع العرضي</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="622"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1625"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="621"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1624"/>
         <source>Wall diameter</source>
         <translation>قطر الحائط</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="623"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1626"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="622"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1625"/>
         <source>Wall cross-section area</source>
         <translation>منطقة المقطع العرضي الحائطي</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="625"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1629"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="624"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1628"/>
         <source>Stenosis by diameter (CE)</source>
         <translation>التضيق حسب القطر (CE)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="626"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1627"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="625"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1626"/>
         <source>Stenosis by surface area</source>
         <translation>التضيق حسب مساحة السطح</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="871"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="870"/>
         <source>Processing started</source>
         <translation>بدأت المعالجة</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="877"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="876"/>
         <source>Processing completed</source>
         <translation>اكتمال التجهيز</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1016"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1035"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1015"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1034"/>
         <source>Waiting for background jobs...</source>
         <translation>في انتظار وظائف الخلفية...</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1045"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1044"/>
         <source>Updating table :</source>
         <translation>جدول التحديث:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1084"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1083"/>
         <source>Processing completed in {duration} seconds - {countOfPoints} points</source>
         <translation>تم الانتهاء من المعالجة في {duration} ثانية - {CountOfPoints} نقاط</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1149"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1151"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1155"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1148"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1150"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1154"/>
         <source>Diameter ({unitOfLength})</source>
         <translation>القطر ({UnitOfLength})</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1153"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1157"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1152"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1156"/>
         <source>Area ({unitOfArea})</source>
         <translation>المنطقة ({unitOfArea})</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1159"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1161"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1158"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1160"/>
         <source>Stenosis (%)</source>
         <translation>التضيق (%)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1379"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1378"/>
         <source>Could not cut segment. Is it visible in 3D view?</source>
         <translation>لا يمكن قطع المقطع. هل هو مرئي في عرض ثلاثي الأبعاد ؟</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1382"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1381"/>
         <source>Not enough points to create surface</source>
         <translation>لا توجد نقاط كافية لإنشاء سطح</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1416"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1415"/>
         <source>Cross section: </source>
         <translation>المقطع العرضي: </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1438"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1437"/>
         <source>Maximum inscribed sphere radius is not available</source>
         <translation>لا يتوفر الحد الأقصى لنصف قطر الكرة المنقوش</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1553"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1552"/>
         <source>Maximum inscribed sphere: </source>
         <translation>أقصى كرة منقوشة: </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1621"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1620"/>
         <source>Distance</source>
         <translation>مسافة</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1622"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1621"/>
         <source>Diameter (MIS)</source>
         <translation>القطر (MIS)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1623"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1622"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="917"/>
         <source>Diameter (CE)</source>
         <translation>القطر (CE)</translation>
@@ -714,7 +728,6 @@ The input centerline is expected to be inside the lumen surface.</source>
         <translation>محوري:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="450"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="555"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="590"/>
         <source>Rotate slice view around its Z-axis to restore anatomic orientation</source>
@@ -728,7 +741,7 @@ The input centerline is expected to be inside the lumen surface.</source>
         <translation> deg</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="499"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="450"/>
         <source>Rotation angle for longitudinal slice view</source>
         <translation>زاوية الدوران لعرض الشريحة الطولية</translation>
     </message>
@@ -1473,7 +1486,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
 <context>
     <name>GuidedArterySegmentation</name>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="45"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="41"/>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; is intended to create a segmentation from a contrast enhanced CT angioscan, and to finally extract centerlines from the surface model.
 &lt;br&gt;&lt;br&gt;It assumes that curve control points are placed in the contrasted lumen.
@@ -1488,7 +1501,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="55"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="51"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -1499,112 +1512,111 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="140"/>
         <source>Failed to install extension: </source>
-        <translation>فشل في تثبيت التمديد: </translation>
+        <translation type="vanished">فشل في تثبيت التمديد: </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="152"/>
         <source>Could not update metadata from server to install {extension}.</source>
-        <translation>تعذر تحديث البيانات الوصفية من الخادم لتركيب {extension}.</translation>
+        <translation type="vanished">تعذر تحديث البيانات الوصفية من الخادم لتركيب {extension}.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="154"/>
         <source>{extension} must be installed. Do you want to install it now ?</source>
-        <translation>يجب تثبيت {extension}. هل تريد تثبيته الآن ؟</translation>
+        <translation type="vanished">يجب تثبيت {extension}. هل تريد تثبيته الآن ؟</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="156"/>
         <source>This module cannot be used without {extension}.</source>
-        <translation>لا يمكن استخدام هذه الوحدة بدون {extension}.</translation>
+        <translation type="vanished">لا يمكن استخدام هذه الوحدة بدون {extension}.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="159"/>
         <source>Failed to install {extension} extension.</source>
-        <translation>فشل في تثبيت {extension} تمديد.</translation>
+        <translation type="vanished">فشل في تثبيت {extension} تمديد.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="161"/>
         <source>{extension} has been installed from server.
 
 Slicer must be restarted. Do you want to restart now ?</source>
-        <translation>تم تثبيت {extension} من الخادم.
+        <translation type="vanished">تم تثبيت {extension} من الخادم.
 
 يجب إعادة تشغيل Slicer. هل تريد إعادة التشغيل الآن ؟</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="175"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="136"/>
+        <source>Failed to install {nameOfExtension} extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="150"/>
         <source>Curve node must have at least 3 points.</source>
         <translation>يجب أن تحتوي عقدة المنحنى على 3 نقاط على الأقل.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="194"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="169"/>
         <source>Shape node is not a Tube.</source>
         <translation>عقدة الشكل ليست أنبوب.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="201"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="176"/>
         <source>Shape node must have at least 4 points.</source>
         <translation>يجب أن تحتوي عقدة الشكل على 4 نقاط على الأقل.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="371"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="346"/>
         <source>No input curve node specified.</source>
         <translation>لا توجد عقدة منحنى مدخل محددة.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="374"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="349"/>
         <source>Input curve node must have at least 3 control points.</source>
         <translation>يجب أن تحتوي عقدة منحنى الإدخال على 3 نقاط تحكم على الأقل.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="377"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="352"/>
         <source>No input slice node specified.</source>
         <translation>لا توجد عقدة شريحة مدخلة محددة.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="384"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="359"/>
         <source>No volume node selected in input slice node.</source>
         <translation>لا توجد عقدة حجم محدّدة في عقدة شريحة الإدخال.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="398"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="373"/>
         <source>Failed to compute results: </source>
         <translation>فشل في حساب النتائج: </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="469"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="444"/>
         <source>Processing started</source>
         <translation>بدأت المعالجة</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="471"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="446"/>
         <source>Segment editor setup</source>
         <translation>إعداد محرر المقطع</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="614"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="589"/>
         <source>Flood filling : {duration} seconds - </source>
         <translation>ملء الفيضانات: {duration} ثانية - </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="646"/>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="721"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="621"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="696"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>اكتملت المعالجة في {duration} ثانية</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="652"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="627"/>
         <source>Extract centerline setup</source>
         <translation>إعداد استخراج خط الوسط</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="748"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="723"/>
         <source>Starting the test</source>
         <translation>بدء الاختبار</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="750"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="725"/>
         <source>Test passed</source>
         <translation>اجتاز الاختبار</translation>
     </message>
@@ -1928,81 +1940,54 @@ deviation:</source>
 <context>
     <name>ObliqueSegmentSurfaceArea</name>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="17"/>
         <source>Inputs</source>
-        <translation>مدخلات</translation>
+        <translation type="vanished">مدخلات</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="36"/>
         <source>Slice node:</source>
-        <translation>عقدة الشريحة:</translation>
+        <translation type="vanished">عقدة الشريحة:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
         <source>Select an input slice view.</source>
-        <translation>حدد عرض شريحة الإدخال.</translation>
+        <translation type="vanished">حدد عرض شريحة الإدخال.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="46"/>
         <source>vtkMRMLSliceNode</source>
-        <translation>vtkMRMLSliceNode</translation>
+        <translation type="vanished">vtkMRMLSliceNode</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="63"/>
         <source>inputSliceNode</source>
-        <translation type="unfinished">inputSliceNode</translation>
+        <translation type="obsolete">inputSliceNode</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="70"/>
-        <source>Fiducial:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="77"/>
-        <source>Select an input markups fiducial list.
-
-Clicking at a control point allows to track the slice orientation in the selected slice node, on top of the usual jump behaviour. This tracking is scene-wide only, it is not saved with the scene.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="82"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation>vtkMRMLMarkupsFiducialNode</translation>
+        <translation type="vanished">vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="105"/>
-        <source>inputFiducialNode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="112"/>
         <source>Segmentation:</source>
-        <translation>التجزئة:</translation>
+        <translation type="vanished">التجزئة:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="119"/>
         <source>Select an input segmentation.</source>
-        <translation>حدد تجزئة الإدخال.</translation>
+        <translation type="vanished">حدد تجزئة الإدخال.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="142"/>
         <source>Result table.
 
 Right click for more.</source>
-        <translation>جدول النتائج.
+        <translation type="vanished">جدول النتائج.
 
 انقر جيدًا للمزيد.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="167"/>
         <source>Apply</source>
-        <translation>تطبيق</translation>
+        <translation type="vanished">تطبيق</translation>
     </message>
 </context>
 <context>
     <name>QuickArterySegmentation</name>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="45"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="41"/>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; is intended to create a segmentation from a contrast enhanced CT angioscan, and to finally extract centerlines from the surface model.
 &lt;br&gt;&lt;br&gt;It assumes that data acquisition of the input volume is nearly perfect, and that fiducial points are placed in the contrasted lumen.
@@ -2012,7 +1997,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="55"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="51"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -2023,92 +2008,91 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="137"/>
         <source>Failed to install extension: </source>
-        <translation>فشل في تثبيت التمديد: </translation>
+        <translation type="vanished">فشل في تثبيت التمديد: </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="148"/>
         <source>Could not update metadata from server to install {extension}.</source>
-        <translation>تعذر تحديث البيانات الوصفية من الخادم لتركيب {extension}.</translation>
+        <translation type="vanished">تعذر تحديث البيانات الوصفية من الخادم لتركيب {extension}.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="150"/>
         <source>{extension} must be installed. Do you want to install it now ?</source>
-        <translation>يجب تثبيت {extension}. هل تريد تثبيته الآن ؟</translation>
+        <translation type="vanished">يجب تثبيت {extension}. هل تريد تثبيته الآن ؟</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="152"/>
         <source>This module cannot be used without {extension}.</source>
-        <translation>لا يمكن استخدام هذه الوحدة بدون {extension}.</translation>
+        <translation type="vanished">لا يمكن استخدام هذه الوحدة بدون {extension}.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="155"/>
         <source>Failed to install {extension} extension.</source>
-        <translation>فشل في تثبيت {extension} تمديد.</translation>
+        <translation type="vanished">فشل في تثبيت {extension} تمديد.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="157"/>
         <source>{extension} has been installed from server.
 
 Slicer must be restarted. Do you want to restart now ?</source>
-        <translation>تم تثبيت {extension} من الخادم.
+        <translation type="vanished">تم تثبيت {extension} من الخادم.
 
 يجب إعادة تشغيل Slicer. هل تريد إعادة التشغيل الآن ؟</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="171"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="133"/>
+        <source>Failed to install {nameOfExtension} extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="147"/>
         <source>Fiducial node must have at least 2 points.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="365"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="341"/>
         <source>No input fiducial node specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="368"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="344"/>
         <source>No input slice node specified.</source>
         <translation>لا توجد عقدة شريحة مدخلة محددة.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="375"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="351"/>
         <source>No volume node selected in input slice node.</source>
         <translation>لا توجد عقدة حجم مختارة في عقدة شريحة الإدخال.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="379"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="355"/>
         <source>No input ROI node specified.</source>
         <translation>لا توجد منطقة مدخلات ذات فائدة محددة.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="393"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="369"/>
         <source>Failed to compute results: </source>
         <translation>فشل في حساب النتائج: </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="461"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="437"/>
         <source>Processing started</source>
         <translation>بدأت المعالجة</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="463"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="439"/>
         <source>Segment editor setup</source>
         <translation>إعداد محرر المقطع</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="542"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="518"/>
         <source>Flood filling : {duration} seconds - </source>
         <translation>ملء الفيضانات: {duration} ثانية - </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="565"/>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="621"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="541"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="597"/>
         <source>Processing completed in {duration} seconds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="571"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="547"/>
         <source>Extract centerline setup</source>
         <translation>استخراج إعداد خط الوسط</translation>
     </message>
@@ -2182,7 +2166,7 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="219"/>
         <source>Flood filling parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">معلمات ملء الفيضانات</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="243"/>
@@ -2192,7 +2176,7 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="250"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حدد فوكسل متصلة مع نطاق شدة بين واحد في موضع نقطة التحكم +/- هذا التحمل.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="275"/>
@@ -2292,6 +2276,26 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="385"/>
         <source>Test passed</source>
         <translation>اجتاز الاختبار</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="17"/>
+        <source>Inputs</source>
+        <translation type="unfinished">مدخلات</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="23"/>
+        <source>Input curve:</source>
+        <translation type="unfinished">منحنى المدخلات:</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="30"/>
+        <source>Pick the input markups curve.</source>
+        <translation type="unfinished">اختر منحنى رموز الإدخال.</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="66"/>
+        <source>Result table.</source>
+        <translation type="unfinished">جدول النتائج.</translation>
     </message>
 </context>
 <context>
@@ -2504,28 +2508,75 @@ The result is influenced by :
         <source>Test passed</source>
         <translation>اجتاز الاختبار</translation>
     </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="17"/>
+        <source>Inputs</source>
+        <translation type="unfinished">مدخلات</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="36"/>
+        <source>Slice node:</source>
+        <translation type="unfinished">عقدة الشريحة:</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
+        <source>Select an input slice view.</source>
+        <translation type="unfinished">حدد عرض شريحة الإدخال.</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="70"/>
+        <source>Fiducial:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="77"/>
+        <source>Select an input markups fiducial list.
+
+Clicking at a control point allows to track the slice orientation in the selected slice node, on top of the usual jump behaviour. This tracking is scene-wide only, it is not saved with the scene.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="112"/>
+        <source>Segmentation:</source>
+        <translation type="unfinished">التجزئة:</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="119"/>
+        <source>Select an input segmentation.</source>
+        <translation type="unfinished">حدد تجزئة الإدخال.</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="142"/>
+        <source>Result table.
+
+Right click for more.</source>
+        <translation type="unfinished">جدول النتائج.
+
+انقر جيدًا للمزيد.</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="167"/>
+        <source>Apply</source>
+        <translation type="unfinished">تطبيق</translation>
+    </message>
 </context>
 <context>
     <name>StraightCurveGauge</name>
     <message>
-        <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="17"/>
         <source>Inputs</source>
-        <translation>مدخلات</translation>
+        <translation type="vanished">مدخلات</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="23"/>
         <source>Input curve:</source>
-        <translation>منحنى المدخلات:</translation>
+        <translation type="vanished">منحنى المدخلات:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="30"/>
         <source>Pick the input markups curve.</source>
-        <translation>اختر منحنى رموز الإدخال.</translation>
+        <translation type="vanished">اختر منحنى رموز الإدخال.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="66"/>
         <source>Result table.</source>
-        <translation>جدول النتائج.</translation>
+        <translation type="vanished">جدول النتائج.</translation>
     </message>
 </context>
 <context>
@@ -2539,9 +2590,8 @@ The result is influenced by :
 <context>
     <name>qSlicerBranchClipperModuleWidget</name>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>شكل</translation>
+        <translation type="vanished">شكل</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
@@ -2642,7 +2692,8 @@ The input centerline is expected to be inside the lumen surface.</source>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="162"/>
-        <source>Debranching, please wait...</source>
+        <source>Splitting, please wait...</source>
+        <oldsource>Debranching, please wait...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2691,7 +2742,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Foo bar</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="23"/>
@@ -2789,7 +2840,7 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="194"/>
         <source>Stenosis:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">التضيق:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="208"/>

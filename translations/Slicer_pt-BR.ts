@@ -7796,7 +7796,7 @@ Esse arquivo foi originalmente desenvolvido por Andras Lasso
 <context>
     <name>DICOM</name>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="31"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="32"/>
         <source>DICOM</source>
         <translation>DICOM</translation>
     </message>
@@ -7805,92 +7805,122 @@ Esse arquivo foi originalmente desenvolvido por Andras Lasso
         <translation type="obsolete">Informática</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="35"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="36"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
         <translation>Este módulo permite importar, carregar e exportar arquivos DICOM e enviar dados recebidos usando a rede DICOM.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="37"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="38"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation>Este trabalho é apoiado pela NA-MIC, NAC, BIRN, NCIGT e comunidade Slicer .</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="248"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="247"/>
         <source>Add DICOM Data</source>
         <translation>Adicionar dados DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="279"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="278"/>
         <source>DICOM database</source>
         <translation>Banco de Dados DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="360"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="361"/>
         <source>Generic DICOM settings</source>
         <translation>Configurações DICOM genéricas</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="363"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="364"/>
         <source>Database location:</source>
         <translation>Localização do Banco de Dados:</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="366"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
         <source>DICOM general settings</source>
         <translation>Configurações gerais DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="376"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="377"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
         <translation>Determina se as séries DICOM referenciadas são oferecidas ao carregar DICOM ou o comportamento automático se a interação estiver desativada. A seleção interativa de séries referenciadas é a seleção padrão</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="376"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="377"/>
         <source>Ask user</source>
         <translation>Perguntar ao usuário</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="377"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="378"/>
         <source>Always</source>
         <translation>Sempre</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="378"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="379"/>
         <source>Never</source>
         <translation>Nunca</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="380"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Load referenced series:</source>
         <translation>Carregar séries referenciadas:</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="389"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
         <translation>Registre mais detalhes durante as operações DICOM. Útil para investigar problemas de carregamento DICOM, mas impactar no desempenho.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="389"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"/>
         <source>Detailed logging:</source>
         <translation>Registro detalhado:</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="427"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
+        <source>Determines the relative size of the thumbnails when using the visual DICOM browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
+        <source>Small</source>
+        <translation type="unfinished">Pequeno</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="401"/>
+        <source>Medium</source>
+        <translation type="unfinished">Médio</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="402"/>
+        <source>Large</source>
+        <translation type="unfinished">Grande</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="404"/>
+        <source>Thumbnails size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="408"/>
+        <source>DICOM settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="448"/>
         <source>DICOM Directory</source>
         <translation>Diretório DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="428"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="449"/>
         <source>Load directory into DICOM database</source>
         <translation>Carregar diretório no banco de dados DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="522"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="543"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
         <translation>Não foi possível criar um banco de dados DICOM com as configurações padrões. Por favor, crie um novo banco de dados ou atualize o banco de dados incompatível usando as opções mostradas no navegador DICOM.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="533"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="554"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
         <translation>Não há suporte para a importação de arquivos que tenham caracteres especiais (não ASCII) em seus nomes. Recomenda-se mover os arquivos para uma pasta diferente e tentar novamente. Tentar importar do local atual mesmo assim?</translation>
     </message>
@@ -7899,58 +7929,73 @@ Esse arquivo foi originalmente desenvolvido por Andras Lasso
         <translation type="vanished">Não há suporte para a importação de pastas com caracteres especiais (não ASCII) no nome. Recomenda-se mover os arquivos para uma pasta diferente e tentar novamente. Tentar importar do local atual mesmo assim?</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="591"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
         <source>Import options</source>
         <translation>Opções de importação</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="596"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="618"/>
         <source>Copy imported files to DICOM database</source>
         <translation>Copiar arquivos importados para o banco de dados DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="598"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="620"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
         <translation>Se habilitado, todos os arquivos importados são copiados para o banco de dados DICOM. Isso é útil ao importar de dispositivos removíveis.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="796"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="627"/>
+        <source>Show options</source>
+        <translation type="unfinished">Mostrar Opções</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="631"/>
+        <source>Show experimental visual DICOM browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="632"/>
+        <source>If enabled, the DICOM browser widget will be substituted with new experimental visual browser.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="840"/>
         <source>not started</source>
         <translation>não iniciado</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="803"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="847"/>
         <source>starting</source>
         <translation>iniciando</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="808"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="852"/>
         <source>unknown</source>
         <extracomment>used when port number is not defined</extracomment>
         <translation>desconhecido</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="808"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="852"/>
         <source>running at port %s</source>
         <translation>em execução na porta %s</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="824"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="868"/>
         <source>Received DICOM file: {filename}</source>
         <translation>Arquivo DICOM recebido: {filename}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="887"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
         <source>DICOM database is already empty.</source>
         <translation>O banco de dados DICOM já está vazio.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="890"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="947"/>
         <source>Clear entire DICOM database</source>
         <translation>Limpar todo o banco de dados DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="891"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="948"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
         <translation>Tem certeza que deseja deletar todos os dados e arquivos copiados para o banco de dados ({count} pacientes)?</translation>
     </message>
@@ -7999,18 +8044,18 @@ Esse arquivo foi originalmente desenvolvido por Andras Lasso
         <translation>Sequência de imagem</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="154"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
         <source>Image spacing may need to be calibrated for accurate size measurements.</source>
         <translation>O espaçamento da imagem pode precisar ser calibrado para medições de tamanho precisas.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="154"/>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="187"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="206"/>
         <source>{modality} image sequence</source>
         <translation>{modality} sequência de imagens</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="168"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="187"/>
         <source>{modality} image sequence ({count} planes)</source>
         <translation>{modality} sequência de imagens ({count} planos)</translation>
     </message>
@@ -8018,144 +8063,144 @@ Esse arquivo foi originalmente desenvolvido por Andras Lasso
 <context>
     <name>DICOMLib.DICOMBrowser</name>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="86"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="162"/>
         <source>DICOM Browser</source>
         <translation>Navegador DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="135"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="218"/>
         <source>Uncheck All</source>
         <translation>Desmarcar Todos</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="141"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="224"/>
         <source>Examine</source>
         <translation>Examinar</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="147"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="230"/>
         <source>Load</source>
         <translation>Carregar</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="150"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="233"/>
         <source>Load selected items into the scene</source>
         <translation>Carregar itens selecionados na cena</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="155"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="238"/>
         <source>Advanced</source>
         <translation>Avançado</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="230"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="313"/>
         <source>The following data type is in your database:</source>
         <translation>O seguinte tipo de dados está no seu banco de dados:</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="232"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="315"/>
         <source>The following data types are in your database:</source>
         <translation>Os seguintes tipos de dados estão no seu banco de dados:</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="237"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="320"/>
         <source>The following extension is not installed, but may help you work with this data:</source>
         <translation>A seguinte extensão não está instalada, mas pode ajudá-lo a trabalhar com esses dados:</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="239"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="322"/>
         <source>The following extensions are not installed, but may help you work with this data:</source>
         <translation>As seguintes extensões não estão instaladas, mas podem ajudá-lo a trabalhar com esses dados:</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="243"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="326"/>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
         <translation>Você pode instalar extensões usando a opção Gerenciador de Extensões no menu Exibir.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="243"/>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="429"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="326"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="512"/>
         <source>DICOM</source>
         <translation>DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="405"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="488"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
         <translation>Aviso: {missing_file_count} de {total_file_count} arquivos selecionados listados no banco de dados não podem ser encontrados no disco.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="412"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="495"/>
         <source>Checking {what}</source>
         <translation>Verificando {what}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="427"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="510"/>
         <source>Warning: {messages}</source>
         <translation>Aviso: {messages}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="428"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="511"/>
         <source>See python console for error message.</source>
         <translation>Consulte o console python para ver a mensagem de erro.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="538"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="621"/>
         <source>Loading {what}</source>
         <translation>Carregando {what}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="560"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="643"/>
         <source>DICOM loading</source>
         <translation>Carregamento DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="571"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="654"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
         <translation>Aviso no plug-in DICOM {load_type} ao examinar o carregável {name}: {message}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="576"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="659"/>
         <source>Warnings detected during load.  Examine data in Advanced mode for details.  Load anyway?</source>
         <translation>Avisos detectados durante o carregamento. Examine os dados no modo Avançado para detalhes. Carregar mesmo assim?</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="587"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="670"/>
         <source>Referenced datasets found</source>
         <translation>Conjuntos de dados referenciados encontrados</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="591"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="674"/>
         <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
         <translation>Os objetos DICOM carregados contêm referência a outros banco de dados que você não selecionou para carregamento. Por favor, selecione Sim se você quiser carregar os seguintes bancos de dados referenciados, Não se quiser carregar apenas a série originalmente selecionada ou Cancelar para interromper o carregamento.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="601"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="684"/>
         <source>Remember choice and stop asking</source>
         <translation>Lembre-se da escolha e pare de perguntar</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="603"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="686"/>
         <source>Can be changed later in Application Settings / DICOM</source>
         <translation>Pode ser alterado posteriormente em Configurações do Aplicativo / DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="630"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="713"/>
         <source>References</source>
         <translation>Referências</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="663"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="746"/>
         <source>DICOM Data</source>
         <translation>Dados DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="663"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="746"/>
         <source>Reader</source>
         <translation>Leitor</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="663"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="746"/>
         <source>Warnings</source>
         <translation>Avisos</translation>
     </message>
@@ -8243,38 +8288,48 @@ Esse arquivo foi originalmente desenvolvido por Andras Lasso
         <translation>Gerar posição de corte para volumes em vários quadros</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="129"/>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="113"/>
+        <source>If checked, then ultrasound image series are split by instance number. Useful if many ultrasound acquisitions appear in the same series.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="123"/>
+        <source>If checked, then photometric interpretation of JPEG-compressed ultrasound will be set to YBR_FULL_422. This is useful for fixing inconsistency in JPEG-compressed images that used RGB as photometric interpretation due to ambiguity in the DICOM standard before CP156. See https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE and https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf for more details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="146"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
         <translation>Se marcada, algumas informações de identificação do paciente serão removidas dos arquivos DICOM corrigidos. Existem muitos campos que podem identificar um paciente, essa função não remove todos eles.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="130"/>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="147"/>
         <source>Partially anonymize</source>
         <translation>Anonimizar parcialmente</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="137"/>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="154"/>
         <source>Fix DICOM files in input directory and write them to output directory</source>
         <translation>Corrigir arquivos DICOM no diretório de entrada e gravá-los no diretório de saída</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="144"/>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="161"/>
         <source>Import DICOM files in output directory into the application&apos;s DICOM database</source>
         <translation>Importar arquivos DICOM do diretório de saída para o banco de dados DICOM do aplicativo</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="164"/>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="181"/>
         <source>Unexpected error.</source>
         <translation>Erro inesperado.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="263"/>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="284"/>
         <source>Unspecified Patient {patientIndex}</source>
         <translation>Paciente não especificado {patientIndex}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="332"/>
-        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="551"/>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="353"/>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="581"/>
         <source>Unspecified Patient</source>
         <translation>Paciente não especificado</translation>
     </message>
@@ -8499,37 +8554,32 @@ Esse arquivo foi originalmente desenvolvido por Andras Lasso
 <context>
     <name>DMRIInstall</name>
     <message>
-        <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="68"/>
         <source>Install Slicer Diffusion Tools (SlicerDMRI)</source>
-        <translation>Instalar Ferramentas de Difusão do Slicer (SlicerDMRI)</translation>
+        <translation type="vanished">Instalar Ferramentas de Difusão do Slicer (SlicerDMRI)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="77"/>
         <source>
     SlicerDMRI supported by NIH NCI ITCR U01CA199459 (Open Source Diffusion MRI
     Technology For Brain Cancer Research), and made possible by NA-MIC, NAC,
     BIRN, NCIGT, and the Slicer Community.
     </source>
-        <translation>
+        <translation type="vanished">
     O SlicerDMRI recebe apoio do NIH NCI ITCR U01CA199459 (Open Source Diffusion MRI
    Technology For Brain Cancer Research) e tornou-se possível graças a NA-MIC, NAC,
    BIRN, NCIGT e à Comunidade Slicer.
     </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="98"/>
         <source>Installs the &quot;SlicerDMRI&quot; extension from the Diffusion category.</source>
-        <translation>Instala a extensão &quot;SlicerDMRI&quot; da categoria Difusão.</translation>
+        <translation type="vanished">Instala a extensão &quot;SlicerDMRI&quot; da categoria Difusão.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="114"/>
         <source>SlicerDMRI is already installed.</source>
-        <translation>O SlicerDMRI já está instalado.</translation>
+        <translation type="vanished">O SlicerDMRI já está instalado.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="124"/>
         <source>Restart to complete SlicerDMRI installation?</source>
-        <translation>Deseja reiniciar para concluir a instalação do SlicerDMRI?</translation>
+        <translation type="vanished">Deseja reiniciar para concluir a instalação do SlicerDMRI?</translation>
     </message>
 </context>
 <context>
@@ -8897,6 +8947,344 @@ O controle deslizante &quot;Ângulo de visão&quot; é usado para aproximar a ó
     </message>
 </context>
 <context>
+    <name>ExtensionWizard</name>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="48"/>
+        <source>Extension Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="53"/>
+        <source>This module provides tools to create and manage extensions from within Slicer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="54"/>
+        <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
+        <translation type="unfinished">Este trabalho é apoiado pela NA-MIC, NAC, BIRN, NCIGT e comunidade Slicer .</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="125"/>
+        <source>Extension Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="127"/>
+        <source>Create Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="130"/>
+        <source>Select Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="142"/>
+        <source>Extension Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="156"/>
+        <source>Add Module to Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="160"/>
+        <source>Edit Extension Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="165"/>
+        <source>Name:</source>
+        <translation type="unfinished">Nome:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="166"/>
+        <source>Location:</source>
+        <translation type="unfinished">Localização:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="167"/>
+        <source>Repository:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="168"/>
+        <source>Contents:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="247"/>
+        <source>An error occurred while trying to create the extension.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="262"/>
+        <source>Select Extension...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="288"/>
+        <source>Failed to open extension {path}.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="303"/>
+        <source>(none)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="305"/>
+        <source>(local git repository)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="308"/>
+        <source>(unknown local repository)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="386"/>
+        <source>{count} modules could not be registered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="388"/>
+        <source>The {name} module could not be registered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="394"/>
+        <source>Module loading failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"/>
+        <source>The module factory manager reported an error. One or more of the requested module(s) and/or dependencies thereof may not have been loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"/>
+        <source>Error loading module(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="427"/>
+        <source>An error occurred while trying to create the module.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="440"/>
+        <source>An error occurred while adding the module to the extension.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="445"/>
+        <source>The module has been created, but the extension CMakeLists.txt could not be updated. In order to include the module in the extension build, you will need to update the extension CMakeLists.txt by hand.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="492"/>
+        <source>Python scripted modules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="493"/>
+        <source>Add Python scripted modules to the application</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ExtensionWizardLib.CreateComponentDialog</name>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="23"/>
+        <source>Name:</source>
+        <translation type="unfinished">Nome:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="30"/>
+        <source>Type:</source>
+        <translation type="unfinished">Tipo:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="34"/>
+        <source>Destination:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="65"/>
+        <source>{type} name may not be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="66"/>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="73"/>
+        <source>Cannot create {type}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="72"/>
+        <source>Destination must be an existing directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ExtensionWizardLib.DirectoryListWidget</name>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="23"/>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="28"/>
+        <source>Remove</source>
+        <translation type="unfinished">Remover</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="48"/>
+        <source>Select folder</source>
+        <translation type="unfinished">Selecionar pasta</translation>
+    </message>
+</context>
+<context>
+    <name>ExtensionWizardLib.EditExtensionMetadataDialog</name>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="29"/>
+        <source>Name:</source>
+        <translation type="unfinished">Nome:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="32"/>
+        <source>Category:</source>
+        <translation type="unfinished">Categoria:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="35"/>
+        <source>Description:</source>
+        <translation type="unfinished">Descrição:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
+        <source>Name</source>
+        <translation type="unfinished">Nome</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
+        <source>Organization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="42"/>
+        <source>Contributors:</source>
+        <translation type="unfinished">Contribuintes:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
+        <source>Extension name may not be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="78"/>
+        <source>Invalid metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="77"/>
+        <source>Extension description may not be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ExtensionWizardLib.EditableTreeWidget</name>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="31"/>
+        <source>(New item)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="52"/>
+        <source>Move &amp;Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="57"/>
+        <source>Move &amp;Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="62"/>
+        <source>&amp;Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="130"/>
+        <source>Anonymous</source>
+        <translation type="unfinished">Anônimo</translation>
+    </message>
+</context>
+<context>
+    <name>ExtensionWizardLib.LoadModulesDialog</name>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="45"/>
+        <source>Enable developer mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="50"/>
+        <source>Sets the &apos;Developer mode&apos; application option to enabled. Enabling developer mode is recommended while developing scripted modules, as it makes the Reload and Testing section displayed in the module user interface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="90"/>
+        <source>Add selected module to &apos;Additional module paths&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="94"/>
+        <source>Add selected modules to &apos;Additional module paths&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="118"/>
+        <source>The following modules can be loaded. Would you like to load them now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="121"/>
+        <source>The following module can be loaded. Would you like to load it now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="122"/>
+        <source>At least one module must be provided</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ExtensionWizardLib.SettingsPanel</name>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="26"/>
+        <source>(Unavailable)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="28"/>
+        <source>Built-in template path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="31"/>
+        <source>Additional template paths:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="37"/>
+        <source>Additional template paths for {category}:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Form</name>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
@@ -8948,6 +9336,21 @@ O controle deslizante &quot;Ângulo de visão&quot; é usado para aproximar a ó
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="78"/>
         <source>Sequence browser</source>
         <translation>Sequência</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="50"/>
+        <source>Create new </source>
+        <translation type="unfinished">Criar novo </translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="51"/>
+        <source> as...</source>
+        <translation type="unfinished"> como...</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="52"/>
+        <source>Rename </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9006,115 +9409,115 @@ usá-lo para fins comerciais.&lt;/p&gt;
         <translation>Vá para o módulo SampleData para baixar dados da rede</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="512"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="516"/>
         <source>General</source>
         <translation>Geral</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="513"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="517"/>
         <source>Development</source>
         <translation>Desenvolvimento</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="635"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="639"/>
         <source>Failed to create cache folder {path}</source>
         <translation>Falha ao criar pasta de cache {path}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="637"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="641"/>
         <source>Cache folder {path} is not writable</source>
         <translation>A pasta de cache {path} não é gravável</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="682"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="694"/>
         <source>Download failed (attempt {current} of {total})...</source>
         <translation>O download falhou (tentativa {current} de {total})...</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="721"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="748"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
         <translation>Carregamento falhou (tentativa {current} de {total}). Incapaz de apagar e tentar carregar novamente{path}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="725"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="752"/>
         <source>Load failed (attempt {current} of {total})...</source>
         <translation>Carregamento falhou (tentativa {current} de {total})...</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="857"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="889"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
         <translation>Baixado {sizeCompleted} ({percentCompleted}% de {sizeTotal})...</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="874"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="906"/>
         <source>Requesting download {name} from {uri} ...</source>
         <translation>Solicitando o download {name} de {uri} ...</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="877"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="909"/>
         <source>Download finished</source>
         <translation>Download finalizado</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="879"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="911"/>
         <source>Download failed: {errorMessage}</source>
         <translation>O download falhou: {errorMessage}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="880"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="912"/>
         <source>Failed to download {uri} to {filePath}</source>
         <translation>Falha para baixar {uri} para {filePath}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="883"/>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="895"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="915"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="927"/>
         <source>Verifying checksum</source>
         <translation>Verificando a soma de verificação</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="887"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="919"/>
         <source>Checksum verification failed. Computed checksum {currentChecksum} different from expected checksum {expectedChecksum}</source>
         <translation>A verificação da soma de verificação falhou. Soma de verificação calculada {currentChecksum} é diferente da soma de verificação esperada {expectedChecksum}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="892"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="924"/>
         <source>Checksum OK</source>
         <translation>Soma de verificação OK</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="898"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="930"/>
         <source>File already exists in cache but checksum is different - re-downloading it.</source>
         <translation>O arquivo já existe em cache, mas a soma de verificação é diferente - baixando-o novamente.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="903"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="935"/>
         <source>File already exists and checksum is OK - reusing it.</source>
         <translation>O arquivo já existe e a soma de verificação está OK - reutilizando-o.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="906"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="938"/>
         <source>File already exists in cache - reusing it.</source>
         <translation>O arquivo já existe em cache - reutilizando-o.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="910"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="942"/>
         <source>Requesting load {uri}</source>
         <translation>Solicitando carga {uri}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="914"/>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="929"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="946"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="963"/>
         <source>Load failed!</source>
         <translation>Carregamento falhou!</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="916"/>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="932"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="948"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="966"/>
         <source>Load finished</source>
         <translation>Carregamento finalizado</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="920"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="952"/>
         <source>Requesting load {name} from {uri} ...</source>
         <translation>Solicitando carga {name} de {uri} ...</translation>
     </message>
@@ -10808,7 +11211,7 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
         <translation>Limiar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="86"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="92"/>
         <source>Fill segment based on source volume intensity range&lt;br&gt;. Options:&lt;p&gt;
 &lt;ul style=&quot;margin: 0&quot;&gt;
 &lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; set the selected intensity range as &lt;dfn&gt;Editable intensity range&lt;/dfn&gt; and switch to Paint effect.
@@ -10821,205 +11224,205 @@ Se os segmentos se sobrepõem, o segmento mais alto na tabela de segmentos terá
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="154"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="169"/>
         <source>Threshold Range:</source>
         <translation>Faixa de limite:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="155"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="170"/>
         <source>Set the range of the background values that should be labeled.</source>
         <translation>Defina o intervalo dos valores de plano de fundo que devem ser rotulados.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="164"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="179"/>
         <source>threshold above</source>
         <translation>limite acima</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="165"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="180"/>
         <source>threshold below</source>
         <translation>limite abaixo</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="166"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="181"/>
         <source>set as lower value</source>
         <translation>definido como valor inferior</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="167"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="182"/>
         <source>set as upper value</source>
         <translation>definido como valor superior</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="170"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="185"/>
         <source>How to set lower and upper values of the threshold range. Threshold above/below: sets the range from the computed value to maximum/minimum. Set as lower/upper value: only modifies one side of the threshold range.</source>
         <translation>Como definir os valores inferior e superior da faixa de limite. Limite acima/abaixo: define a faixa do valor calculado para máximo/mínimo. Definir como valor inferior/superior: modifica apenas um lado da faixa de limite.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="173"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="188"/>
         <source>Otsu</source>
         <translation>Otsu</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="174"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="189"/>
         <source>Huang</source>
         <translation>Huang</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="175"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="190"/>
         <source>IsoData</source>
         <translation>IsoDados</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="178"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="193"/>
         <source>Kittler-Illingworth</source>
         <translation>Kittler-Illingworth</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="183"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="198"/>
         <source>Maximum entropy</source>
         <translation>Entropia máxima</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="184"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="199"/>
         <source>Moments</source>
         <translation>Momentos</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="185"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="200"/>
         <source>Renyi entropy</source>
         <translation>Entropia de Renyi</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="186"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="201"/>
         <source>Shanbhag</source>
         <translation>Shanbhag</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="187"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="202"/>
         <source>Triangle</source>
         <translation>Triângulo</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="188"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="203"/>
         <source>Yen</source>
         <translation>Yen</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="189"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="204"/>
         <source>Select method to compute threshold value automatically.</source>
         <translation>Selecione o método para calcular o valor do limite automaticamente.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="194"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="209"/>
         <source>Select previous thresholding method and set thresholds. Useful for iterating through all available methods.</source>
         <translation>Selecione o método de limite anterior e defina os limites. Útil para iterar por todos os métodos disponíveis.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="199"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="214"/>
         <source>Select next thresholding method and set thresholds. Useful for iterating through all available methods.</source>
         <translation>Selecione o próximo método de limite e defina os limites. Útil para iterar por todos os métodos disponíveis.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="201"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="216"/>
         <source>Set</source>
         <translation>Configuração</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="202"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="217"/>
         <source>Set threshold using selected method.</source>
         <translation>Defina o limite usando o método selecionado.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="217"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="232"/>
         <source>Automatic threshold</source>
         <translation>Limite automático</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="227"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="242"/>
         <source>Region shape:</source>
         <translation>Forma da região:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="234"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="249"/>
         <source>Box</source>
         <translation>Caixa</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="241"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="256"/>
         <source>Circle</source>
         <translation>Círculo</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="248"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="263"/>
         <source>Draw</source>
         <translation>Desenho</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="255"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="270"/>
         <source>Line</source>
         <translation>Linha</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="316"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="333"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="331"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="348"/>
         <source>Lower</source>
         <translation>Inferior</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="325"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="340"/>
         <source>Min</source>
         <translation>Mín</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="326"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="341"/>
         <source>Minimum</source>
         <translation>Mínimo</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="340"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="358"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="355"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="373"/>
         <source>Mean</source>
         <translation>Média</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="349"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="365"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="364"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="380"/>
         <source>Upper</source>
         <translation>Superior</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="372"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="387"/>
         <source>Max</source>
         <translation>Máx</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="373"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="388"/>
         <source>Maximum</source>
         <translation>Máximo</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="380"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="395"/>
         <source>Local histogram</source>
         <translation>Histograma local</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="385"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="400"/>
         <source>Use for masking</source>
         <translation>Uso para mascaramento</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="386"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="401"/>
         <source>Use specified intensity range for masking and switch to Paint effect.</source>
         <translation>Use o intervalo de intensidade especificado para mascaramento e alterne para o efeito &apos;Pintar&apos;.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="389"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="404"/>
         <source>Apply</source>
         <translation>Aplicar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="391"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="406"/>
         <source>Fill selected segment in regions that are in the specified intensity range.</source>
         <translation>Preenche o segmento selecionado em regiões que estão no intervalo de intensidade especificado.</translation>
     </message>
@@ -12030,6 +12433,7 @@ e pelo Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
+        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
         <source>Import files into DICOM database</source>
         <translation>Importar arquivos no banco de dados DICOM</translation>
     </message>
@@ -12039,9 +12443,11 @@ e pelo Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
         <translation>    Importar arquivos DICOM</translation>
     </message>
     <message>
+        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
-        <source>Show DICOM database browser window</source>
-        <translation>Mostrar janela de banco de dados DICOM</translation>
+        <source>Import files into DICOM database</source>
+        <oldsource>Show DICOM database browser window</oldsource>
+        <translation type="unfinished">Mostrar janela de banco de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
@@ -12301,6 +12707,79 @@ Plano de Pesquisa Médica do NIH, Financiamento U54 EB005149.</translation>
     </message>
 </context>
 <context>
+    <name>VolumeDisplayPresets</name>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="3"/>
+        <source>CT-Bone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="4"/>
+        <source>Emphasize bone in a CT volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="5"/>
+        <source>CT-Air</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="6"/>
+        <source>Emphasize air in a CT volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="7"/>
+        <source>CT-Brain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="8"/>
+        <source>View brain CT volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="9"/>
+        <source>CT-Abdomen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="10"/>
+        <source>View abdominal CT volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="11"/>
+        <source>CT-Lung</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="12"/>
+        <source>View lung CT volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="13"/>
+        <source>PET</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="14"/>
+        <source>Preset for PET volume (uses rainbow color table).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="15"/>
+        <source>DTI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="16"/>
+        <source>Preset for DTI scalar volumes like FA (uses rainbow color table).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>WebServer</name>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="31"/>
@@ -12368,77 +12847,77 @@ Plano de Pesquisa Médica do NIH, Financiamento U54 EB005149.</translation>
         <translation>Limpar a janela de registro.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="105"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="104"/>
         <source>Advanced</source>
         <translation>Avançado</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="114"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="113"/>
         <source>Enable Cross Origin Resource Sharing (stop server to change option). Warning: this option allows any web page to access the server.</source>
         <translation>Permitir Compartilhamento de Recursos de Origem Cruzada (parar o servidor para alterar a opção). Aviso: esta opção permite que qualquer página da web acesse o servidor.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="114"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="113"/>
         <source>Enable CORS: </source>
         <translation>Ativar CORS: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="118"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
         <source>Enable remote control of Slicer application (stop server to change option)</source>
         <translation>Habilitar controle remoto da aplicação Slicer (parar o servidor para alterar a opção)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="118"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
         <source>Slicer API: </source>
         <translation>API do Slicer: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
         <source>Enable execution of arbitrary Python command using Slicer API. It only has effect if Slicer API is enabled, too (stop server to change option).</source>
         <translation>Habilitar a execução de comandos Python arbitrários usando a API do Slicer. Tem efeito apenas se a API do Slicer também estiver habilitada (parar o servidor para alterar a opção).</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="123"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
         <source>Slicer API exec: </source>
         <translation>Execução da API do Slicer: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="126"/>
         <source>Enable serving Slicer DICOM database content via DICOMweb (stop server to change option)</source>
         <translation>Habilitar o fornecimento de conteúdo do banco de dados DICOM do Slicer via DICOMweb (parar o servidor para alterar a opção)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="128"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
         <source>DICOMweb API: </source>
         <translation>API DICOMweb </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
         <source>Enable serving static pages (stop server to change option)</source>
         <translation>Habilitar a veiculação de páginas estáticas (parar o servidor para alterar a opção)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="132"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
         <source>Static pages: </source>
         <translation>Páginas estáticas: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="136"/>
         <source>Copy log messages to the python console and parent terminal (disable to improve performance)</source>
         <translation>Copie as mensagens de registro para o console do python e o terminal principal (desative para melhor desempenho)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="137"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="136"/>
         <source>Log to Console: </source>
         <translation>Registrar no console: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="142"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="141"/>
         <source>Copy log messages to the log widget (disable to improve performance)</source>
         <translation>Copiar mensagens de registro para o widget de registro (desative para melhor desempenho)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/WebServer/WebServer.py" line="142"/>
+        <location filename="Modules/Scripted/WebServer/WebServer.py" line="141"/>
         <source>Log to GUI: </source>
         <translation>Registrar na GUI: </translation>
     </message>
@@ -13060,6 +13539,62 @@ Plano de Pesquisa Médica do NIH, Financiamento U54 EB005149.</translation>
         <source>Resample curve</source>
         <translation>Curva de reamostragem</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="125"/>
+        <source>Linear</source>
+        <translation type="unfinished">Linear</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="129"/>
+        <source>Spline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="133"/>
+        <source>Kochanek spline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="137"/>
+        <source>Polynomial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="141"/>
+        <source>Shortest distance on surface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="146"/>
+        <source>Unknown</source>
+        <translation type="unfinished">Desconhecido</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="158"/>
+        <source>Distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="162"/>
+        <source>Additive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="166"/>
+        <source>Multiplicative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="170"/>
+        <source>Inverse squared</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="262"/>
+        <source>distance</source>
+        <extracomment>Used in mathematical expression of cost function of the curve</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qMRMLMarkupsDisplayNodeWidget</name>
@@ -13475,6 +14010,21 @@ Plano de Pesquisa Médica do NIH, Financiamento U54 EB005149.</translation>
         <source>Opacity:</source>
         <translation>Opacidade:</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="108"/>
+        <source>Three points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="110"/>
+        <source>Point normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="112"/>
+        <source>Plane fit</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qMRMLMarkupsROIWidget</name>
@@ -13566,9 +14116,18 @@ Plano de Pesquisa Médica do NIH, Financiamento U54 EB005149.</translation>
         <translation>Selecionar marcação ativa</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="500"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="501"/>
         <source>Create new %1</source>
         <translation>Criar novo %1</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLMarkupsToolBarPrivate</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="120"/>
+        <source>Open the %1 module</source>
+        <extracomment>%1 is the module name</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13909,44 +14468,39 @@ Plano de Pesquisa Médica do NIH, Financiamento U54 EB005149.</translation>
         <translation>qMRMLNodeAttributeTableView</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="53"/>
         <source>No node selected</source>
-        <translation>Nenhum nó selecionado</translation>
+        <translation type="vanished">Nenhum nó selecionado</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="85"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="69"/>
         <source>Attribute Name</source>
         <translation>Nome do Atributo</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="90"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="74"/>
         <source>Attribute Value</source>
         <translation>Valor do Atributo</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="126"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
         <source>Attribute name</source>
         <translation>Nome do atributo</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="126"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
         <source>Attribute value</source>
         <translation>Valor do atributo</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="133"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="254"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="283"/>
         <source>No node is selected</source>
-        <translation>Nenhum nó selecionado</translation>
+        <translation type="vanished">Nenhum nó selecionado</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="142"/>
         <source>Selected node has no attributes</source>
-        <translation>O nó selecionado não tem atributos</translation>
+        <translation type="vanished">O nó selecionado não tem atributos</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="198"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="196"/>
         <source>There is already an attribute with the same name</source>
         <translation>Já existe um atributo com o mesmo nome</translation>
     </message>
@@ -13959,98 +14513,98 @@ Plano de Pesquisa Médica do NIH, Financiamento U54 EB005149.</translation>
         <translation>qMRMLNodeAttributeTableWidget</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="44"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="35"/>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="74"/>
         <source>Add blank row to the table. The attribute is added to the MRML node when the name and value is set</source>
         <translation>Adicione uma linha em branco à tabela. O atributo é adicionado ao nó MRML quando o nome e o valor são definidos</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="47"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="77"/>
         <source>Add</source>
         <translation>Adicione</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="73"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="103"/>
         <source>Remove selected attribute(s)</source>
         <translation>Remover atributo(s) selecionado(s)</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="76"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="106"/>
         <source>Remove</source>
         <translation>Remover</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="85"/>
-        <source>Node information</source>
-        <translation>Informações do nó</translation>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="118"/>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="100"/>
+        <source>Node information</source>
+        <translation type="vanished">Informações do nó</translation>
+    </message>
+    <message>
         <source>No node information is available.</source>
-        <translation>Nenhuma informação do nó está disponível.</translation>
+        <translation type="vanished">Nenhuma informação do nó está disponível.</translation>
     </message>
 </context>
 <context>
     <name>qMRMLNodeComboBox</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="62"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="71"/>
         <source>None</source>
         <translation>Nenhum</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="242"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="251"/>
         <source>Select a </source>
         <translation>Selecione um </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="300"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="454"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1069"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1072"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1291"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="309"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="485"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1110"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1113"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1332"/>
         <source>Rename current </source>
         <translation>Renomear atual </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="304"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="449"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1043"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1046"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1289"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="313"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="480"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1084"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1087"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1330"/>
         <source>Edit current </source>
         <translation>Editar atual </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="311"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="314"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="429"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="431"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="460"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="463"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="991"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="994"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1285"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="747"/>
+        <source>New name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Create new </source>
-        <translation>Criar novo </translation>
+        <translation type="vanished">Criar novo </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="314"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="429"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="460"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="463"/>
         <source> as...</source>
-        <translation> como...</translation>
+        <translation type="vanished"> como...</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="320"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="444"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1017"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1020"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1287"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="329"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="475"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1058"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1061"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1328"/>
         <source>Delete current </source>
         <translation>Excluir atual </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="608"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="621"/>
         <source>node</source>
         <translation>nó</translation>
     </message>
@@ -15931,6 +16485,21 @@ Deseja prosseguir com a alteração da representação principal?</translation>
         <source>Record snapshot of current state of all proxy nodes</source>
         <translation>Gravar captura do estado atual de todos os nós representantes</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="317"/>
+        <source>Play/Pause (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="333"/>
+        <source>Previous frame (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="349"/>
+        <source>Next frame (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qMRMLSequenceBrowserSeekWidget</name>
@@ -16995,51 +17564,56 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="271"/>
-        <source>Interaction in 3D view</source>
-        <translation>Interação na visualização 3D</translation>
+        <source>Interaction</source>
+        <oldsource>Interaction in 3D view</oldsource>
+        <translation type="unfinished">Interação na visualização 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="273"/>
         <source>Allow interactively modify the transform in 3D views</source>
-        <translation>Permite modificar interativamente a transformação em visualizações 3D</translation>
+        <translation type="vanished">Permite modificar interativamente a transformação em visualizações 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="277"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="274"/>
+        <source>Allow the transform to be modified interactively in the 2D and 3D views</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="278"/>
         <source>Edit transform properties...</source>
         <translation>Editar propriedades de transformação...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="278"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="279"/>
         <source>Edit properties of the current transform</source>
         <translation>Editar propriedades da transformação atual</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="282"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="283"/>
         <source>Harden transform</source>
         <translation>Endurecer transformação</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="283"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="284"/>
         <source>Harden current transform on this node and all children nodes</source>
         <translation>Endurecer a transformação atual neste nó e todos os nós filhos</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="287"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="288"/>
         <source>Create new transform</source>
         <translation>Criar nova transformação</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="288"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="289"/>
         <source>Create and apply new transform</source>
         <translation>Criar e aplicar nova transformação</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="294"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="295"/>
         <source>None</source>
         <translation>Nenhum</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="296"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="297"/>
         <source>Remove parent transform from all the nodes in this branch</source>
         <translation>Remova a transformação pai de todos os nós nesta ramificação</translation>
     </message>
@@ -17049,17 +17623,17 @@ Deseja prosseguir com a alteração da representação principal?</translation>
         <translation>Expandir a árvore até ao nível...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="396"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="397"/>
         <source>Select plugin</source>
         <translation>Selecione o plugin</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2043"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2062"/>
         <source>Delete subject hierarchy branch?</source>
         <translation>Excluir ramificação da hierarquia de objetos?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2044"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2063"/>
         <source>The deleted subject hierarchy item has children. Do you want to remove those too?
 
 If you choose yes, the whole branch will be deleted, including all children.
@@ -17596,7 +18170,52 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
         <translation>Mais</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="337"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="276"/>
+        <source>Shadows</source>
+        <translation type="unfinished">Sombras</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="285"/>
+        <source>Size scale</source>
+        <translation type="unfinished">Escala de tamanho</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="288"/>
+        <source>Size of features to be emphasized by shadows. The scale is logarithmic, default (0.0) corresponds to object size of about 100mm.</source>
+        <translation type="unfinished">Tamanho dos recursos a serem enfatizados pelas sombras. A escala é logarítmica, o padrão (0,0) corresponde ao tamanho do objeto de aproximadamente 100 mm.</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="305"/>
+        <source>Volume opacity threshold</source>
+        <translation type="unfinished">Limite de opacidade do volume</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="309"/>
+        <source>Volume rendering opacity above this will cast shadows.</source>
+        <translation type="unfinished">A opacidade de renderização de volume acima disso criará sombras.</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="325"/>
+        <source>Intensity scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="328"/>
+        <source>Intensity of darkening by shadows. Larger value means more darkening. Default is 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="345"/>
+        <source>Intensity shift</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="348"/>
+        <source>Minimum amount of occlusion required for visible darkening by shadows. Larger value means more occlusion is needed to darkening. Default is 0.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="379"/>
         <source>1</source>
         <translation>1</translation>
     </message>
@@ -17604,29 +18223,24 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
 <context>
     <name>qMRMLThreeDViewControllerWidgetPrivate</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="276"/>
         <source>Shadows</source>
-        <translation>Sombras</translation>
+        <translation type="vanished">Sombras</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="285"/>
         <source>Size scale</source>
-        <translation>Escala de tamanho</translation>
+        <translation type="vanished">Escala de tamanho</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="288"/>
         <source>Size of features to be emphasized by shadows. The scale is logarithmic, default (0.0) corresponds to object size of about 100mm.</source>
-        <translation>Tamanho dos recursos a serem enfatizados pelas sombras. A escala é logarítmica, o padrão (0,0) corresponde ao tamanho do objeto de aproximadamente 100 mm.</translation>
+        <translation type="vanished">Tamanho dos recursos a serem enfatizados pelas sombras. A escala é logarítmica, o padrão (0,0) corresponde ao tamanho do objeto de aproximadamente 100 mm.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="305"/>
         <source>Volume opacity threshold</source>
-        <translation>Limite de opacidade do volume</translation>
+        <translation type="vanished">Limite de opacidade do volume</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="308"/>
         <source>Volume rendering opacity above this will cast shadows.</source>
-        <translation>A opacidade de renderização de volume acima disso criará sombras.</translation>
+        <translation type="vanished">A opacidade de renderização de volume acima disso criará sombras.</translation>
     </message>
 </context>
 <context>
@@ -17674,387 +18288,424 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
         <translation>Se a interface de transformação pode ser traduzido.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="57"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1088"/>
         <source>Interaction</source>
         <translation>Interação</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="83"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1151"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1550"/>
+        <source>Y</source>
+        <translation type="unfinished">Y</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1182"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1570"/>
+        <source>View plane</source>
+        <translation type="unfinished">Visualizar plano</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1223"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1560"/>
+        <source>Z</source>
+        <translation type="unfinished">Z</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1260"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1540"/>
+        <source>X</source>
+        <translation type="unfinished">X</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1346"/>
         <source>Show/Hide the transform widget in the 3D view.</source>
         <translation>Mostrar/ocultar a interface de transformação na visualização 3D.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="96"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Atualize os limites da interface de transformação.&lt;/p&gt;&lt;p&gt;A transformação atualizará seus limites para corresponder à caixa delimitadora de todos os nós abaixo dela (se houver).&lt;/p&gt;&lt;p&gt;Caso contrário, a interface será redimensionada para o tamanho de interação padrão.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Atualize os limites da interface de transformação.&lt;/p&gt;&lt;p&gt;A transformação atualizará seus limites para corresponder à caixa delimitadora de todos os nós abaixo dela (se houver).&lt;/p&gt;&lt;p&gt;Caso contrário, a interface será redimensionada para o tamanho de interação padrão.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="99"/>
         <source>Update bounds</source>
-        <translation>Atualizar limites</translation>
+        <translation type="vanished">Atualizar limites</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="106"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1380"/>
         <source>More options...</source>
         <translation>Mais opções...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="158"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1307"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1428"/>
         <source>Enable translation: </source>
         <translation>Habilitar tradução: </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="168"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1294"/>
         <source>Enable scaling by manpulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</source>
         <translation>Habilite o dimensionamento manipulando a interface 3D (shift + clique esquerdo e arraste a alça no centro da face da interface ou clique esquerdo e arraste a alça central)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="181"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1199"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1414"/>
         <source>Enable rotation: </source>
         <translation>Habilitar a rotação: </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="191"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1240"/>
         <source>Enable translating by manpulating 3D widget (left click and drag anywhere on the widget face)</source>
         <translation>Habilitar o deslocamento através da manipulação da interface 3D (clique esquerdo e arraste em qualquer lugar na face da interface)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="204"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1270"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1505"/>
         <source>Enable scaling: </source>
         <translation>Habilitar escala: </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="214"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1131"/>
         <source>Enable scaling by manpulating 3D widget (left click and drag the handle at the center of widget face)</source>
         <translation>Ative o dimensionamento manipulando a interface 3D (clique com o botão esquerdo e arraste a alça no centro da face da intertface)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="233"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="44"/>
         <source>Visualization</source>
         <translation>Visualização</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="246"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1045"/>
         <source>Show transform in the slice views</source>
         <translation>Mostrar transformação nas visualizações de fatia</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="299"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="107"/>
         <source>Visualize transform using glyphs</source>
         <translation>Visualizar a transformação usando glifos</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="314"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="122"/>
         <source>Glyph</source>
         <translation>Glifo</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="361"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="169"/>
         <source>Visualize transform using a warped grid</source>
         <translation>Visualize a transformação usando uma grade deformada</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="364"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="172"/>
         <source>Grid</source>
         <translation>Grade</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="402"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="210"/>
         <source>Visualize transform by isoline/isosurface contours of the displacement magnitude</source>
         <translation>Visualize a transformação por contornos de isolinhas/isosuperfícies da magnitude do deslocamento</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="405"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="213"/>
         <source>Contour</source>
         <translation>Contorno</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="438"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="246"/>
         <source>Show transform in the 3D views</source>
         <translation>Mostrar transformação nas visualizações 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="451"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="259"/>
         <source>Reference image for visualizing transform nodes (will only use size, orientation and position)</source>
         <translation>Imagem de referência para visualizar nós de transformação (usará apenas tamanho, orientação e posição)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="454"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="262"/>
         <source>Region:</source>
         <translation>Região:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="470"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="278"/>
         <source>Region for visualizing transform nodes (will only use size, orientation and position)</source>
         <translation>Região para visualização dos nós de transformação (utilizará apenas tamanho, orientação e posição)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="500"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="308"/>
         <source>Select a node</source>
         <translation>Selecione um nó</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="509"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="50"/>
         <source>Colors</source>
         <translation>Cores</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="540"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="324"/>
         <source>Advanced</source>
         <translation>Avançado</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="555"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="591"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="339"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="375"/>
         <source>Distance between the glyph points</source>
         <translation>Distância entre os pontos do glifo</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="558"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="944"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="342"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="728"/>
         <source>Spacing:</source>
         <translation>Espaçamento:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="565"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="349"/>
         <source>Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
         <translation>Porcentagem de uso de deslocamento para a definição do tamanho do glifo. 100% significa que o tamanho do glifo é igual ao deslocamento real.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="568"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="991"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="352"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="775"/>
         <source>Scale factor:</source>
         <translation>Fator de Escala:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="575"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="359"/>
         <source>Glyphs are shown if the displacement magnitude is within this range</source>
         <translation>Os glifos são mostrados se a magnitude de deslocamento estiver dentro desta faixa</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="578"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="362"/>
         <source>Visible range:</source>
         <translation>Intervalo visível:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="118"/>
         <source>Visibility in 3D view: </source>
-        <translation>Visibilidade na visualização 3D: </translation>
+        <translation type="vanished">Visibilidade na visualização 3D: </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="239"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1058"/>
         <source>Visibility:</source>
         <translation>Visibilidade:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="259"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1065"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1366"/>
         <source>Visibility in slice view:</source>
         <translation>Visibilidade na exibição de fatia:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="266"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1038"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1327"/>
         <source>Visibility in 3D view:</source>
         <translation>Visibilidade na visualização 3D:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="622"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="406"/>
         <source>Only those glyphs are shown that have displacement magnitude within this range</source>
         <translation>Somente são mostrados os glifos que têm magnitude de deslocamento dentro desta faixa</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="647"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="663"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="431"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="447"/>
         <source>Choose a glyph type to use</source>
         <translation>Escolha um tipo de glifo para usar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="650"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="434"/>
         <source>Glyph type:</source>
         <translation>Tipo de glifo:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="670"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="454"/>
         <source>Arrow</source>
         <translation>Seta</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="675"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="459"/>
         <source>Cone</source>
         <translation>Cone</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="680"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
         <source>Sphere</source>
         <translation>Esfera</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="694"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="478"/>
         <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</source>
         <translation>Porcentagem de deslocamento utilizada para definir o tamanho do glifo. 100% significa que o tamanho do glifo é igual ao deslocamento real. Não afeta a coloração e o alcance visível.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="712"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="818"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="853"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1022"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1241"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="496"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="602"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="637"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="806"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1025"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1593"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="725"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="509"/>
         <source>3D glyph settings</source>
         <translation>Configurações de glifos 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="755"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="539"/>
         <source>Adjust radius of base of arrow tip</source>
         <translation>Ajuste do raio da base da ponta da seta</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="758"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="542"/>
         <source>Diameter:</source>
         <translation>Diâmetro:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="765"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="549"/>
         <source>Base diameter of the widget</source>
         <translation>Diâmetro base da interface</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="793"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="577"/>
         <source>Adjust radius of arrow shaft</source>
         <translation>Ajuste do raio do eixo da seta</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="796"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="580"/>
         <source>Shaft diameter:</source>
         <translation>Diâmetro do eixo:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="803"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="587"/>
         <source>Diameter of the arrow shaft relative to the base diameter</source>
         <translation>Diâmetro do eixo da seta em relação ao diâmetro da base</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="825"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="609"/>
         <source>Adjust how much of the tip the arrow will consist of as a decimal percentage</source>
         <translation>Ajuste o quanto da ponta a flecha consistirá como uma porcentagem decimal</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="828"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="612"/>
         <source>Tip length:</source>
         <translation>Comprimento da ponta:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="835"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="619"/>
         <source>Length of the arrow tip  as percentage of displacement</source>
         <translation>Comprimento da ponta da flecha como porcentagem do deslocamento</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="860"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="644"/>
         <source>Adjust resolution of the glyph (higher value generates smoother curved lines but visualization may be slower)</source>
         <translation>Ajuste a resolução do glifo (valor mais alto gera linhas curvas mais suaves, mas a visualização pode ser mais lenta)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="863"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1073"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1175"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="647"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="857"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="959"/>
         <source>Resolution:</source>
         <translation>Resolução:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="870"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="654"/>
         <source>Adjust resolution of arrow (lower is less detailed but rendered faster)</source>
         <translation>Ajusta a resolução da seta (menor é menos detalhada mas renderiza mais rápido)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="898"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="682"/>
         <source>Source points:</source>
         <translation>Pontos de entrada:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="905"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="689"/>
         <source>Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</source>
         <translation>Marcadores de nó que definem as posições de início dos glifos. Se especificado, a visualização da &apos;Região&apos; na vista 3D é ignorada.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="922"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="706"/>
         <source>Entire region</source>
         <translation>Região inteira</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="941"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="957"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="725"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="741"/>
         <source>Distance between the gridlines</source>
         <translation>Distância entre as linhas de grade</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="988"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1004"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="772"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="788"/>
         <source>Percentage of displacement applied to the gridpoints. 100% means that the grid is deformed with the actual displacement.</source>
         <translation>Porcentagem de deslocamento aplicado aos pontos da grade. 100% significa que a grade é deformada com o deslocamento real.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1029"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1039"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="813"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="823"/>
         <source>Thickness of the gridlines in the 3D view</source>
         <translation>Espessura das linhas de grade na vista 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1032"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="816"/>
         <source>3D gridline diameter:</source>
         <translation>Diâmetro das linhas de grade 3D:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1070"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1080"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="854"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="864"/>
         <source>Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</source>
         <translation>Distância entre os pontos de amostragem ao longo das linhas de grade. Valores menores resultam em linhas de grade que seguem mais próximas dos vetores de deslocamento reais, mas requerem mais tempo de processamento.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1111"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1121"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="895"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="905"/>
         <source>Show non-warped grid in the slice view</source>
         <translation>Mostrar grade não deformada na vista da fatia</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1114"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="898"/>
         <source>Show original grid:</source>
         <translation>Mostrar grade original:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1143"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1153"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="927"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="937"/>
         <source>Values defining the isolines and isosurfaces to contour. Values are separated by spaces.</source>
         <translation>Valores que definem as iso-linhas e iso-superfícies para contorno. Valores são separados por espaços.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1146"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="930"/>
         <source>Levels (mm):</source>
         <translation>Níveis (mm):</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1162"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="946"/>
         <source>1 2 3 4</source>
         <translation>1 2 3 4</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1172"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1188"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="956"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="972"/>
         <source>Sampling distance for discretizing the displacement field. Lower values result in more accurate contours, but require more computation time.</source>
         <translation>Distância de amostragem para discretizar o campo de deslocamento. Valores menores resultam em contornos mais acurados, mas requerem mais tempo de computação.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1219"/>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1229"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1003"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1013"/>
         <source>Opacity of the contour isosurfaces in the 3D view</source>
         <translation>Opacidade do contorno das iso-superfícies na vista 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1222"/>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1006"/>
         <source>3D opacity:</source>
         <translation>Opacidade 3D:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1359"/>
+        <source>Visibility: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1580"/>
+        <source>Size:</source>
+        <translation type="unfinished">Tamanho:</translation>
     </message>
 </context>
 <context>
@@ -18535,6 +19186,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerAbstractCoreModule</name>
     <message>
+        <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="50"/>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="85"/>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="56"/>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="45"/>
@@ -18542,7 +19194,7 @@ p, li { white-space: pre-wrap; }
         <translation>Ferramentas para Desenvolvedores</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="32"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="33"/>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="19"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="78"/>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="74"/>
@@ -18550,9 +19202,9 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="74"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="193"/>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="94"/>
-        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.cxx" line="97"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.cxx" line="102"/>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="100"/>
-        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="90"/>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="91"/>
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="65"/>
         <location filename="Modules/Loadable/Units/qSlicerUnitsModule.cxx" line="99"/>
         <source>Informatics</source>
@@ -18593,7 +19245,6 @@ p, li { white-space: pre-wrap; }
         <translation>BRAINS</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="67"/>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="78"/>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="3"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="3"/>
@@ -19092,32 +19743,32 @@ p, li { white-space: pre-wrap; }
         <translation>Você tem certeza de que quer reiniciar?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="136"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="197"/>
         <source>Initializing...</source>
         <translation>Iniciando...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="165"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="233"/>
         <source>Registering modules...</source>
         <translation>Registro de módulos...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="173"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="241"/>
         <source>Instantiating modules...</source>
         <translation>Instanciando módulos...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="178"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="246"/>
         <source>Instantiating module &quot;%1&quot;...</source>
         <translation>Instanciando o módulo &quot;%1&quot;...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="206"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="279"/>
         <source>Initializing user interface...</source>
         <translation>Iniciando a interface do usuário...</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="229"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="302"/>
         <source>Loading module &quot;%1&quot;...</source>
         <translation>Carregando o módulo &quot;%1&quot;...</translation>
     </message>
@@ -19597,55 +20248,55 @@ Capacidades gráficas deste computador:
 <context>
     <name>qSlicerCoreIOManager</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="626"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="631"/>
         <source>Loading %1</source>
         <extracomment>%1 is the filename</extracomment>
         <translation>Carregando %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="662"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="667"/>
         <source>%1 load failed.</source>
         <translation>Falha ao carregar %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="832"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="837"/>
         <source>No writer found to write file %1 of type %2.</source>
         <translation>Nenhum gravador encontrado para gravar o arquivo %1 do tipo %2.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="847"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="852"/>
         <source>Unable to create directory &apos;%1&apos;</source>
         <translation>Não foi possível criar o diretório &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="880"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="885"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
         <translation>Falha ao salvar com todos os gravadores encontrados para o arquivo &apos;%1&apos; do tipo &apos;%2&apos;.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="893"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="898"/>
         <source>No nodes were saved in the scene</source>
         <translation>Nenhum nó foi salvo na cena</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="964"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="969"/>
         <source>Unable to find a storable node with ID %1</source>
         <translation>Não é possível localizar um nó armazenável com ID %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="977"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1013"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1071"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="982"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1018"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1076"/>
         <source>Error encountered while exporting %1.</source>
         <translation>Erro encontrado durante a exportação %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1039"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1044"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
         <translation>Não foi possível criar o nó de armazenamento padrão para %1 na cena temporária.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1061"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1066"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
         <translation>Não foi possível salvar as propriedades de exibição para %1 na cena temporária.</translation>
     </message>
@@ -20805,260 +21456,260 @@ Se desmarcado, o conjunto de dados exportados será adicionado ao banco de dados
         <translation>Arquivo %1 não contém nenhum arquivo</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1029"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1036"/>
         <source>&apos;slicerRevision&apos; parameter is not specified</source>
         <oldsource>slicerRevision is not specified</oldsource>
         <translation>O parâmetro &apos;slicerRevision&apos; não está especificado</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1033"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1040"/>
         <source>&apos;slicerOs&apos; parameter is not specified</source>
         <oldsource>slicerOs is not specified</oldsource>
         <translation>O parâmetro &apos;slicerOs&apos; não está especificado</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1037"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1044"/>
         <source>&apos;slicerArch&apos; parameter is not specified</source>
         <oldsource>slicerArch is not specified</oldsource>
         <translation>O parâmetro &apos;slicerArch&apos; não está especificado</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1043"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1050"/>
         <source>extensionSlicerRevision [%1] is different from slicerRevision [%2]</source>
         <translation>O extensionSlicerRevision [%1] é diferente do slicerRevision [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1049"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1056"/>
         <source>extensionArch [%1] is different from slicerArch [%2]</source>
         <translation>O extensãoArch [%1] é diferente do cortadorArch [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1054"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1061"/>
         <source>extensionOs [%1] is different from slicerOs [%2]</source>
         <translation>O extensãoArch [%1] é diferente do cortadorArch [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1403"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1410"/>
         <source>Failed to add bookmark extension: %1</source>
         <translation>Falha ao adicionar extensão de marcador: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1570"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1577"/>
         <source>Retrieving extension metadata for %1 extension</source>
         <translation>Recuperando metadados de extensão para a extensão %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1582"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1589"/>
         <source>Failed to get metadata from server for extension: %1</source>
         <translation>Falha ao obter metadados do servidor para a extensão: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1599"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1606"/>
         <source>Retrieving %1 extension files (extensionId: %2)</source>
         <translation>Recuperando arquivos de extensão %1 (ID da extensão: %2)</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1630"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1637"/>
         <source>Downloading %1 extension (item_id: %2, file_id: %3)</source>
         <translation>Download da extensão %1 (item_id: %2, arquivo_id: %3)</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1663"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1670"/>
         <source>Download of extension failed, id is invalid.</source>
         <translation>O download da extensão falhou, o ID é inválido.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1684"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1691"/>
         <source>Download of extension failed, could not find an extension with id = %1</source>
         <translation>O download da extensão falhou, não foi possível encontrar uma extensão com ID = %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1701"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2474"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1708"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2488"/>
         <source>Failed to retrieve metadata for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Falha ao recuperar metadados para a extensão %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1765"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1772"/>
         <source>Do you want to install &apos;%1&apos; now?</source>
         <translation>Deseja instalar &apos;%1&apos; agora?</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1766"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1773"/>
         <source>Install extension ?</source>
         <translation>Instalar extensão?</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1783"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1790"/>
         <source>Failed to install %1 extension</source>
         <translation>Falha para instalar a extensão %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1806"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1813"/>
         <source>Extension %1 has been installed from server.</source>
         <translation>A extensão %1 foi instalada do servidor.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1808"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1815"/>
         <source>Slicer must be restarted. Do you want to restart now ?</source>
         <translation>O Slicer deve ser reiniciado. Deseja reiniciá-lo agora?</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1809"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1816"/>
         <source>Restart slicer ?</source>
         <translation>Reiniciar o Slicer?</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1846"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1853"/>
         <source>Failed downloading: %1</source>
         <translation>Falha ao baixar: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1857"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1864"/>
         <source>Could not create temporary file for writing: %1</source>
         <translation>Não foi possível criar arquivo temporário para escrita: %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1878"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1885"/>
         <source>Failed to list extension archive &apos;%1&apos;</source>
         <translation>Falha ao listar o arquivo de extensão &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1895"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1902"/>
         <source>No extension description found in archive &apos;%1&apos;</source>
         <translation>Nenhuma descrição de extensão encontrada no arquivo &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1908"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1915"/>
         <source>InstallExtension failed: extensionName is not set</source>
         <translation>Instalação da extensão falhou: Nome da extension não está definido</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1913"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1920"/>
         <source>Skip installation of %1 extension. It is already installed.</source>
         <translation>Ignore a instalação da extensão %1. Já está instalada.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1919"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1926"/>
         <source>Extensions/InstallPath setting is not set</source>
         <translation>Extensões/caminho de instalação não está definido</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1925"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1932"/>
         <source>Failed to create extension installation directory %1</source>
         <translation>Falha ao criar o diretório de instalação da extensão %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2033"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2047"/>
         <source>Error while installing dependent extensions:&lt;ul&gt;%1&lt;ul&gt;</source>
         <translation>Erro ao instalar extensões dependentes:&lt;ul&gt;%1&lt;ul&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2056"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2070"/>
         <source>%1 depends on the following extensions, which could not be found:</source>
         <extracomment>%1 is the extension name</extracomment>
         <translation>%1 depende das seguintes extensões, que não puderam ser encontradas:</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2061"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2075"/>
         <source>The extension may not function properly.</source>
         <translation>A extensão pode não funcionar corretamente.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2062"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2076"/>
         <source>Unresolved dependencies</source>
         <translation>Dependências não resolvidas</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2981"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2995"/>
         <source>&apos;extensionName&apos; parameter is not specified</source>
         <translation>O parâmetro &apos;Nome da extensão&apos; não foi especificado</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2086"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2100"/>
         <source>Installed extension %1</source>
         <translation>Extensão %1 instalada</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2168"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2182"/>
         <source>Update extension information from server failed: timed out while waiting for server response from %1</source>
         <translation>Falha na atualização das informações de extensão do servidor: tempo expirado aguardando a resposta do servidor a partir de %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2223"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2237"/>
         <source>Failed to download extension metadata from server</source>
         <translation>Falha ao baixar os metadados da extensão do servidor</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2241"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2255"/>
         <source>Extension metadata response missed required &apos;extensionname&apos; field</source>
         <translation>Resposta de metadados de extensão falhou, campo &apos;nome da extensão&apos; necessário</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2273"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2287"/>
         <source>Update check response for extension %1 missed required &apos;extension_id&apos; or &apos;revision&apos; field</source>
         <translation>Resposta de verificação de atualização para extensão %1 falhou, campo &apos;extensão_id&apos; ou &apos;revisão&apos; requerido</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2284"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2298"/>
         <source>Update found for %1 extension: &apos;%2&apos; installed, &apos;%3&apos; available, </source>
         <translation>Atualização encontrada para a extensão %1: &apos;%2&apos; instalado, &apos;%3&apos; disponível, </translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2359"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2373"/>
         <source>Failed downloading %1 extension from %2</source>
         <translation>Falha ao baixar a extensão %1 de %2</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2375"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2389"/>
         <source>Could not create .updates directory for update archive in %1</source>
         <translation>Não foi possível criar o diretório .updates para o arquivo de atualização em %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2396"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2410"/>
         <source>Could not write file: &apos;%1&apos; (%2)</source>
         <extracomment>%1 is the path name, %2 is the error message</extracomment>
         <translation>Não foi possível gravar o arquivo: &apos;%1&apos; (%2)</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2460"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2474"/>
         <source>Missing download information for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Faltam informações para baixar a extensão %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2492"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2506"/>
         <source>%1 extension scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Extensão %1 agendada para atualização</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2538"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2552"/>
         <source>Failed to update %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Falha ao atualizar a extensão %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2545"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2559"/>
         <source>Failed to update %1 extension: it is not scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Falha ao atualizar a extensão %1: não está programada para atualização</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2669"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2683"/>
         <source>Failed to uninstall %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Falha ao desinstalar a extensão %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2676"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2690"/>
         <source>Failed to uninstall %1 extension: extension is already loaded</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Falha ao desinstalar a extensão %1: a extensão já está carregada</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2951"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2965"/>
         <source>Extension %1 is incompatible</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>A extensão %1 é incompatível</translation>
@@ -21068,26 +21719,26 @@ Se desmarcado, o conjunto de dados exportados será adicionado ao banco de dados
         <translation type="obsolete">extensionName is not specified</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3175"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3189"/>
         <source>Corrupted %1 extension package</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>Pacote de extensão %1 corrompido</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3183"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3197"/>
         <source>Failed to extract %1 extension archive %2 into directory %3</source>
         <extracomment>%1 is extension name, %2 is extension package file path, %3 is destination path</extracomment>
         <translation>Falha ao extrair %1 arquivo de extensão %2 para o diretório %3</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3228"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3235"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3242"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3249"/>
         <source>Failed to copy directory %1 into directory %2</source>
         <translation>Falha ao copiar o diretório %1 para o diretório %2</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3242"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3249"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3256"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3263"/>
         <source>Failed to remove directory %1</source>
         <translation>Falha ao remover o diretório %1</translation>
     </message>
@@ -22733,7 +23384,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3202"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3205"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
@@ -22871,129 +23522,129 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>Criar %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1002"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1005"/>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
         <translation>Clique para desbloquear essa lista de pontos de controle para que os pontos possam ser movidos pelo mouse</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1007"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1010"/>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
         <translation>Clique para bloquear essa lista de pontos de controle para que os pontos não possam ser movidos pelo mouse</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1013"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1016"/>
         <source>Click to unlock the number of control points so points can be added or deleted</source>
         <translation>Clique para desbloquear o número de pontos de controle para que os pontos possam ser adicionados ou excluídos</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1020"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1023"/>
         <source>Click to lock the number of control points so no points can be added or deleted</source>
         <translation>Clique para bloquear o número de pontos de controle para que nenhum ponto possa ser adicionado ou excluído</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1613"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1821"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1616"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1824"/>
         <source>Confirm control point deletion</source>
         <translation>Confirmar a exclusão do ponto de controle</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1614"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1617"/>
         <source>Delete %1 control points from this list?</source>
         <translation>Excluir %1 pontos de controle dessa lista?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1620"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1623"/>
         <source>Delete</source>
         <translation>Excluir</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1822"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1825"/>
         <source>Delete all %1 control points from this list?</source>
         <translation>Excluir todos os %1 pontos de controle dessa lista?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1829"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1832"/>
         <source>Delete All</source>
         <translation>Excluir tudo</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2289"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2292"/>
         <source>Delete highlighted control point(s)</source>
         <translation>Excluir ponto(s) de controle destacado(s)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2296"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2299"/>
         <source>Jump slices</source>
         <translation>Pular fatias</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2303"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2306"/>
         <source>Refocus all cameras</source>
         <translation>Refocar todas as câmeras</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2321"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2324"/>
         <source>Edit position of highlighted control point(s)</source>
         <translation>Editar a posição do(s) ponto(s) de controle destacado(s)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2327"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2330"/>
         <source>Skip placement of highlighted control point(s)</source>
         <translation>Ignorar a colocação do(s) ponto(s) de controle destacado(s)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2333"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2336"/>
         <source>Restore position of highlighted control point(s)</source>
         <translation>Restaurar a posição do(s) ponto(s) de controle destacado(s)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2339"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2342"/>
         <source>Clear position of highlighted control point(s)</source>
         <translation>Limpar a posição do(s) ponto(s) de controle destacado(s)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2453"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2456"/>
         <source>Summed linear distance: %1</source>
         <translation>Distância linear somada: %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3157"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3185"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3160"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3188"/>
         <source>No measurement</source>
         <translation>Sem medição</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3202"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3205"/>
         <source>Enabled</source>
         <translation>Ativado</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3270"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3273"/>
         <source>Output table:</source>
         <translation>Tabela de saída:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3271"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3274"/>
         <source>Export</source>
         <translation>Exportar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3272"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3275"/>
         <source>Export control points coordinates and properties to table.</source>
         <translation>Exporte as coordenadas e propriedades dos pontos de controle para a tabela.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3277"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3280"/>
         <source>Input table:</source>
         <translation>Tabela de entrada:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3278"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3281"/>
         <source>Import</source>
         <translation>Importar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3280"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3283"/>
         <source>Import control points coordinates and properties from table node.
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
@@ -23944,6 +24595,10 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="360"/>
+        <source>Rotate the slice view to be aligned with the axes of the displayed volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="552"/>
         <source>Flip slice view horizontally (left-right)</source>
         <translation>Inverter a visualização da fatia horizontalmente (esquerda-direita)</translation>
@@ -24483,84 +25138,84 @@ Escolha um diretório vazio.</translation>
         <translation type="obsolete">&lt;html&gt;Pintar com pincel redondo&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastar e soltar com o botão esquerdo:&lt;/b&gt; traços de pintura.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Shift + roda do mouse&lt;/b&gt; ou&lt;b&gt;teclas - +/:&lt;/b&gt; ajustar tamanho do pincel.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ctrl + roda do mouse:&lt;/b&gt; zoom in/out na visualização da fatia.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A edição está disponível tanto em visualizações fatiadas quanto em 3D.&lt;p&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="973"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="960"/>
         <source>Paint</source>
         <translation>Pintar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="993"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="980"/>
         <source>Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
         <translation>Pintar com um pincel redondo.&lt;br&gt;&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastar e soltar com o botão esquerdo:&lt;/b&gt; realizar pinceladas.&lt;li&gt;&lt;b&gt;Shift + roda do mouse&lt;/b&gt; ou &lt;b&gt;+/- teclas:&lt;/b&gt; ajustar o tamanho do pincel.&lt;li&gt;&lt;b&gt;Ctrl + roda do mouse:&lt;/b&gt; ampliar/reduzir a visualização da fatia.&lt;/ul&gt;&lt;p&gt;A edição está disponível tanto nas visualizações de fatia quanto nas de 3D.&lt;p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1422"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1415"/>
         <source>Diameter:</source>
         <translation>Diâmetro:</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1417"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1423"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1427"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1438"/>
-        <source>Set the paint brush size as percentage of screen size or as fixed length</source>
-        <translation>Defina o tamanho do pincel como porcentagem do tamanho da tela ou como comprimento fixo</translation>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1426"/>
+        <source>Set the paint brush size as a percentage of screen height or physical size</source>
+        <oldsource>Set the paint brush size as percentage of screen size or as fixed length</oldsource>
+        <translation type="unfinished">Defina o tamanho do pincel como porcentagem do tamanho da tela ou como comprimento fixo</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1446"/>
         <source>Toggle diameter quick set buttons between percentage of window size / absolute size in millimeters</source>
-        <translation>Alternar os botões de ajuste rápido do diâmetro entre porcentagem do tamanho da janela / tamanho absoluto em milímetros</translation>
+        <translation type="vanished">Alternar os botões de ajuste rápido do diâmetro entre porcentagem do tamanho da janela / tamanho absoluto em milímetros</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1456"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1436"/>
         <source>Sphere brush</source>
         <translation>Pincel esférico</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1457"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1437"/>
         <source>Use a 3D spherical brush rather than a 2D circular brush.</source>
         <translation>Use um pincel esférico 3D em vez de um pincel circular 2D.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1460"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1440"/>
         <source>Edit in 3D views</source>
         <translation>Editar em visualizações 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1461"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1441"/>
         <source>Allow painting in 3D views. If enabled, click-and-drag in a 3D view paints in the view instead of rotating the view.</source>
         <translation>Permite pintar em exibições 3D. Se ativado, ao clicar e arrastar em uma visualização 3D, pinta-se a visualização, em vez de girá-la.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1465"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1445"/>
         <source>Color smudge</source>
         <translation>Mancha de cor</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1466"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1446"/>
         <source>Select segment by sampling the pixel locationwhere the brush stroke starts. If brush stroke starts in an empty area then the brush erases highlighted region from the selected segment.</source>
         <translation>Selecione o segmento amostrando o local do píxel onde a pincelada começa. Se a pincelada começar em uma área vazia, o pincel apagará a região destacada do segmento selecionado.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1473"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1453"/>
         <source>Erase all segments</source>
         <translation>Apagar todos os segmentos</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1474"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1454"/>
         <source>If not checked then highlighted area is erased from all segments. If unchecked then only area is only erased from selected segment.</source>
         <translation>Se não estiver marcada, a área destacada será apagada de todos os segmentos. Se não estiver marcada, somente a área será apagada do segmento selecionado.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1481"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1461"/>
         <source>Pixel mode</source>
         <translation>Modo píxel</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1482"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1462"/>
         <source>Paint exactly the pixel under the cursor, ignoring the diameter, threshold, and paint over.</source>
         <translation>Pinta exatamente o píxel sob o cursor, ignorando o diâmetro, o limite e a pintura acima.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1561"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1565"/>
         <source>mm</source>
         <translation>mm</translation>
     </message>
@@ -26749,17 +27404,27 @@ p, li { white-space: pre-wrap; }
         <translation>Escala de tamanho:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="325"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="328"/>
         <source>Volume opacity threshold:</source>
         <translation>Limite de opacidade do volume:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="362"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="363"/>
+        <source>Intensity scale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="395"/>
+        <source>Intensity offset:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="432"/>
         <source>Multi-sampling (MSAA):</source>
         <translation>Multiamostragem (MSAA):</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="375"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="445"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -26855,6 +27520,16 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="157"/>
         <source>Ambient shadows volume opacity threshold</source>
         <translation>Limite de opacidade do volume das sombras do ambiente</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="160"/>
+        <source>Ambient shadows intensity scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="163"/>
+        <source>Ambient shadows intensity shift</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -27216,6 +27891,16 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
         <source>Edit %1 terminology...</source>
         <translation>Editar %1 da terminologia...</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="806"/>
+        <source>Rename %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="806"/>
+        <source>New name:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerSubjectHierarchyModule</name>
@@ -27493,7 +28178,7 @@ Provavelmente, o segmento não pode ser convertido em uma representação de map
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1045"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1095"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1100"/>
         <source>Failed to export segments</source>
         <translation>Falha ao exportar segmentos</translation>
     </message>
@@ -27508,7 +28193,7 @@ Por favor, visite o módulo de Segmentação e tente a função avançada de cri
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1070"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1335"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1340"/>
         <source>Failed to export segmentation to models</source>
         <translation>Falha ao exportar segmentação para modelos</translation>
     </message>
@@ -27518,7 +28203,7 @@ Por favor, visite o módulo de Segmentação e tente a função avançada de cri
         <translation>-modelos</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1091"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1096"/>
         <source>Failed to export segments from segmentation %1 to models!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
@@ -27527,7 +28212,7 @@ Most probably the segment cannot be converted into closed surface representation
 Provavelmente, o segmento não pode ser convertido em uma representação de superfície fechada.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1330"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1335"/>
         <source>Failed to create %1 representation for segmentation %2 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
@@ -27693,27 +28378,66 @@ Etiquetas: %6</translation>
 <context>
     <name>qSlicerSubjectHierarchyTransformsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="92"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="149"/>
         <source>Invert transform</source>
         <translation>Inverter transformação</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="95"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="154"/>
         <source>Reset transform to identity</source>
         <translation>Redefinir a transformação para a identidade</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="98"/>
         <source>Interaction in 3D view</source>
-        <translation>Interação na visualização 3D</translation>
+        <translation type="vanished">Interação na visualização 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="176"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="159"/>
+        <source>Transform origin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="163"/>
+        <source>Transformed nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="173"/>
+        <source>Reset center of transformation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="180"/>
+        <source>Interaction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="187"/>
+        <source>Translate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="193"/>
+        <source>Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="199"/>
+        <source>Scale</source>
+        <translation type="unfinished">Escala</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="211"/>
+        <source>Interaction options</source>
+        <translation type="unfinished">Opções de interação</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="436"/>
         <source>Some nodes in the branch are already transformed</source>
         <translation>Alguns nós da ramificação já estão transformados</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="177"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="437"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
@@ -27722,12 +28446,12 @@ Etiquetas: %6</translation>
 Nota: Se você escolher não, a transformação aplicada será simplesmente substituída.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="269"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="535"/>
         <source>Transform to parent:</source>
         <translation>Transformar para o principal:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="271"/>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="537"/>
         <source>Transform from parent:</source>
         <translation>Transformar a partir do principal:</translation>
     </message>
@@ -28411,6 +29135,24 @@ Nota: Se você escolher não, a transformação aplicada será simplesmente subs
         <source>Terminologies</source>
         <translation>Terminologias</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="68"/>
+        <source>The Terminologies module enables viewing and editing terminology dictionaries used for segmentation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="76"/>
+        <source>This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</source>
+        <translation type="unfinished">Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU do Cancer Care Ontario (CCO) e pelo Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerTerminologiesReader</name>
+    <message>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesReader.cxx" line="71"/>
+        <source>Terminology</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerTerminologyNavigatorWidget</name>
@@ -28426,8 +29168,10 @@ Nota: Se você escolher não, a transformação aplicada será simplesmente subs
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
-        <source>Select type modifier...</source>
-        <translation>Select type modifier...</translation>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1373"/>
+        <source>No type modifier</source>
+        <oldsource>Select type modifier...</oldsource>
+        <translation type="unfinished">Select type modifier...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="169"/>
@@ -28441,8 +29185,10 @@ Nota: Se você escolher não, a transformação aplicada será simplesmente subs
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="243"/>
-        <source>Select anatomic region modifier...</source>
-        <translation>Selecione o modificador anatômico de região...</translation>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="2152"/>
+        <source>No region modifier</source>
+        <oldsource>Select anatomic region modifier...</oldsource>
+        <translation type="unfinished">Selecione o modificador anatômico de região...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="280"/>
@@ -28465,12 +29211,36 @@ Nota: Se você escolher não, a transformação aplicada será simplesmente subs
         <translation>Cor:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1344"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1373"/>
         <source>No type modifier</source>
         <translation>Nenhum modificador de tipo</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1990"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="200"/>
+        <source>None</source>
+        <translation type="unfinished">Nenhum</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="980"/>
+        <source>%1, %2</source>
+        <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="995"/>
+        <source>%1 in %2, %3</source>
+        <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1003"/>
+        <source>%1 in %2</source>
+        <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="2015"/>
         <source>There is a file with name &apos;%1&apos; in the stored contexts.
 
 Do you wish to update the stored context file with the just loaded one?</source>
@@ -28479,7 +29249,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
 Deseja atualizar o arquivo de contexto armazenado com o recém-carregado?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1993"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="2018"/>
         <source>Context file exists</source>
         <translation>O arquivo de contexto existe</translation>
     </message>
@@ -28546,167 +29316,192 @@ Deseja atualizar o arquivo de contexto armazenado com o recém-carregado?</trans
         <translation>Transformações</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="35"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="44"/>
         <source>Active Transform:</source>
         <translation>Transformação Ativa:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="65"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="74"/>
         <source>Information</source>
         <translation>Informação</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="92"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="98"/>
         <source>Edit</source>
         <translation>Editar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="110"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="116"/>
         <source>Transform Matrix</source>
         <translation>Matriz de Transformação</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="163"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="169"/>
         <source>Rotation</source>
         <translation>Rotação</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="184"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="190"/>
         <source>Identity</source>
         <translation>Identidade</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="194"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="200"/>
         <source>Invert</source>
         <translation>Inverter</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="204"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="210"/>
         <source>Split a composite transform to its components</source>
         <translation>Dividir uma transformação composta em seus componentes</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="207"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="213"/>
         <source>Split</source>
         <translation>Dividir</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="214"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="220"/>
         <source>Translation in global or local (rotated) reference frame</source>
         <translation>Translação em quadro de referência global ou local (rotacionado)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="217"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="223"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="254"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="260"/>
         <source>Copy transform</source>
         <translation>Copiar transformação</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="264"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="270"/>
         <source>Paste transform</source>
         <translation>Colar transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="282"/>
+        <source>Center of transformation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="292"/>
+        <source>World</source>
+        <translation type="unfinished">Mundo</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="297"/>
+        <source>Local</source>
+        <translation type="unfinished">Local</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="311"/>
+        <source>Coordinates:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="318"/>
+        <source>Reset</source>
+        <translation type="unfinished">Reiniciar</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="344"/>
         <source>Display</source>
         <translation>Mostrar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="309"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="368"/>
         <source>Apply transform</source>
         <translation>Aplicar transformação</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="317"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="379"/>
         <source>Transformable:</source>
         <translation>Transformável:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="361"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="423"/>
         <source>Apply the active transform to the selected transformable nodes</source>
         <translation>Aplique a transformação ativa aos nós transformáveis selecionados</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="364"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="426"/>
         <source>&gt;</source>
         <translation>&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="371"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="433"/>
         <source>Remove the active transform from the selected transformed nodes</source>
         <translation>Remover a transformação ativa dos nós transformados selecionados</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="374"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="436"/>
         <source>&lt;</source>
         <translation>&lt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="381"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="443"/>
         <source>Harden transform</source>
         <translation>Endurecer transformação</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="399"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="461"/>
         <source>Transformed:</source>
         <translation>Transformado:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="439"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="501"/>
         <source>Convert</source>
         <translation>Converter</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="454"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="513"/>
         <source>Reference volume:</source>
         <translation>Volume de referência:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="470"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="529"/>
         <source>Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</source>
         <translation>Volume que define origem, espaçamento e direções de eixo do campo de deslocamento exportado. Se o volume de referência estiver sob uma transformação não linear, a geometria não transformada será usada como referência.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="500"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="559"/>
         <source>Output displacement field:</source>
         <translation>Campo de deslocamento de saída:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="516"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="575"/>
         <source>Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</source>
         <translation>Nó de volume ou transformada que irá armazenar o campo de deslocamento. Se um nó de volume escalar for selecionado, somente a magnitude do deslocamento será gravada. Em volumes vetoriais ou nós de transformadas o vetor de descolamento 3D é gravado.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="529"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="588"/>
         <source>Displacement Field</source>
         <translation>Campo de deslocamento</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="551"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="610"/>
         <source>Apply</source>
         <translation>Aplicar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="127"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="131"/>
         <source>Copy</source>
         <translation>Copiar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="133"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="137"/>
         <source>Paste</source>
         <translation>Colar</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="703"/>
         <source>Conversion failed</source>
         <translation>Falha na conversão</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="703"/>
         <source>Failed to convert transform. See application log for details.</source>
         <translation>Não foi possível converter a transformação. Consulte o log para detalhes.</translation>
     </message>
@@ -29718,17 +30513,17 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
 <context>
     <name>qSlicerWebWidget</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="389"/>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="387"/>
         <source>bytes/sec</source>
         <translation>bytes/s</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="393"/>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="391"/>
         <source>kB/s</source>
         <translation>kB/s</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="398"/>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="396"/>
         <source>MB/s</source>
         <translation>MB/s</translation>
     </message>
@@ -30053,16 +30848,68 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     </message>
 </context>
 <context>
+    <name>vtkMRMLMarkupsAngleNode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsAngleNode.cxx" line="46"/>
+        <source>Angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsAngleNode.cxx" line="49"/>
+        <source>A</source>
+        <translation type="unfinished">A</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsClosedCurveNode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsClosedCurveNode.cxx" line="57"/>
+        <source>Closed Curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsClosedCurveNode.cxx" line="60"/>
+        <source>CC</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsCurveNode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsCurveNode.cxx" line="78"/>
+        <source>Curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsCurveNode.cxx" line="81"/>
+        <source>OC</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsFiducialNode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialNode.cxx" line="41"/>
+        <source>Point List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialNode.cxx" line="44"/>
+        <source>F</source>
+        <translation type="unfinished">F</translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLMarkupsFiducialStorageNode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="789"/>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="798"/>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="788"/>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="797"/>
         <source>Markups Fiducial CSV</source>
         <extracomment>File format name</extracomment>
         <translation>Marcadores Fiduciais CSV</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="791"/>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="790"/>
         <source>Annotation Fiducial CSV</source>
         <extracomment>File format name</extracomment>
         <translation>Anotação Fiducial CSV</translation>
@@ -30078,6 +30925,58 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
         <source>Markups JSON</source>
         <extracomment>File format name</extracomment>
         <translation>Marcadores JSON</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsLineNode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsLineNode.cxx" line="47"/>
+        <source>Line</source>
+        <translation type="unfinished">Linha</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsLineNode.cxx" line="50"/>
+        <source>L</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsNode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsNode.cxx" line="541"/>
+        <source>M</source>
+        <translation type="unfinished">M</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsNode.cxx" line="551"/>
+        <source>Markup</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsPlaneNode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneNode.cxx" line="54"/>
+        <source>Plane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneNode.cxx" line="57"/>
+        <source>P</source>
+        <translation type="unfinished">P</translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLMarkupsROINode</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROINode.cxx" line="63"/>
+        <source>ROI</source>
+        <translation type="unfinished">ROI</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROINode.cxx" line="66"/>
+        <source>R</source>
+        <translation type="unfinished">R</translation>
     </message>
 </context>
 <context>
@@ -30249,11 +31148,124 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     </message>
 </context>
 <context>
+    <name>vtkMRMLVolumeArchetypeStorageNode</name>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="416"/>
+        <source>Cannot read &apos;%1&apos; file as a volume of type &apos;%2&apos;. Details: %3.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="431"/>
+        <source>Unable to read data from file: &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="441"/>
+        <source>Unable to read DiffusionTensorVolume data from file: &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="450"/>
+        <source>Unable to read ScalarVolume data from file: &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="460"/>
+        <source>Not a scalar volume file: &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="503"/>
+        <source>Cannot read file: &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="531"/>
+        <source>Image reader provided invalid RAS to IJK matrix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="584"/>
+        <source>Voxel vector type is spatial but number of scalar components is not 3. Saved vector type will be non-spatial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="593"/>
+        <source>Spatial vectors will be written to non-NRRD file format (%1). In this format, voxels are saved as regular vectors. If the file is imported again then vector axis directions may be flipped. It is recommended to save volumes that contain spatial vectors in NRRD file format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="636"/>
+        <source>Unable to remove old version of file: &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="646"/>
+        <source>Error renaming file to &apos;%1&apos;, rename returned code %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="738"/>
+        <source>VTK file format can only store LPS axis oriented images. Orientation of the saved image may be incorrect. NRRD file format is recommended for storing this image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="767"/>
+        <source>Saving this image in TIFF format will result in loss of information (image position, orientation, or spacing along the third image axis). NRRD file format is recommended for storing this image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="779"/>
+        <source>Analyze file format is not recommended, as its image orientation specification is ambiguous. NRRD file format is recommended for storing this image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="819"/>
+        <source>Cannot write volume, image data is empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="867"/>
+        <source>Failed to delete directory &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="874"/>
+        <source>Failed to create directory &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="934"/>
+        <source>Failed to write &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="949"/>
+        <source>Failed to open directory &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1063"/>
+        <source>The archetype file &apos;%1&apos; wasn&apos;t written out when writing &apos;%2&apos; in &apos;%3&apos;. Only these %4 file(s) have been written: %5. Old name is &apos;%6&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1086"/>
+        <source>Failed to remove temporary directory &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1135"/>
+        <source>Displacements are expected to be stored as double or float. Vector values will not be converted from LPS to RAS.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkMRMLVolumePropertyStorageNode</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="220"/>
-        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="227"/>
-        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="229"/>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="210"/>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="217"/>
+        <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="219"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
         <translation>Propriedade de volume MRML</translation>
@@ -30272,12 +31284,12 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
 <context>
     <name>vtkSlicerSequencesLogic</name>
     <message>
-        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="685"/>
+        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="687"/>
         <source>Unnamed</source>
         <translation>Sem nome</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="687"/>
+        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="689"/>
         <source>Sequence</source>
         <translation>Sequência</translation>
     </message>

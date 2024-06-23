@@ -327,10 +327,306 @@
     </message>
 </context>
 <context>
+    <name>FiducialsToModelRegistration</name>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="24"/>
+        <source>
+This module registers fiducial list to a model surface using iterative closest points (ICP) method.
+For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
+    </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
+        <source>
+This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
+and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
+        <source>Pick the input fiducial list for the algorithm.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
+        <source>Pick the input model for the algorithm.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
+        <source>Input model: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="96"/>
+        <source>Pick the output to the algorithm.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="97"/>
+        <source>Output transform: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
+        <source>If checked, take screen shots for tutorials. Use Save Data to write them to disk.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="115"/>
+        <source>Set scale factor for the screen shots.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="122"/>
+        <source>Run the algorithm.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="130"/>
+        <source>Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="135"/>
+        <source>Mean distance after registration: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
+        <source>Advanced</source>
+        <translation type="unfinished">Avancé</translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
+        <source>Transform type: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
+        <source>Number of iterations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Form</name>
     <message>
         <source>Form</source>
         <translation type="obsolete">Formulaire</translation>
+    </message>
+</context>
+<context>
+    <name>Guidelet.GuideletLoadable</name>
+    <message>
+        <location filename="Guidelet/GuideletLoadable.py" line="18"/>
+        <source>Guidelet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLoadable.py" line="45"/>
+        <source>Guidelet launcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLoadable.py" line="74"/>
+        <source>Set the Plus Server Host and Name Port:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLoadable.py" line="96"/>
+        <source>Select Configuration: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GuideletLib.Guidelet</name>
+    <message>
+        <location filename="Guidelet/GuideletLib/Guidelet.py" line="165"/>
+        <source>Settings</source>
+        <translation type="unfinished">Paramètres</translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
+        <source>Select connector node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/Guidelet.py" line="190"/>
+        <source>OpenIGTLink connector: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/Guidelet.py" line="193"/>
+        <source>Show 3D Slicer user interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
+        <source>Show Guidelet in full screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/Guidelet.py" line="201"/>
+        <source>Save Guidelet scene</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/Guidelet.py" line="216"/>
+        <source>Save scene directory:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GuideletLib.UltraSound</name>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="47"/>
+        <source>Ultrasound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="57"/>
+        <source>Start Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="60"/>
+        <source>If clicked, start recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="62"/>
+        <source>Freeze</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="74"/>
+        <source>Brightness </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="84"/>
+        <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="88"/>
+        <source>Bright</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="92"/>
+        <source>Brighter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="244"/>
+        <source>  Stop Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="246"/>
+        <source>Recording is being started...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="260"/>
+        <source>  Start Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="262"/>
+        <source>Recording is being stopped...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ModelRegistration</name>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="18"/>
+        <source>Model Registration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
+        <source>
+This module applies Iterative Closest Points registration between two surface models.
+For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="35"/>
+        <source>
+This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="44"/>
+        <source>Parameters</source>
+        <translation type="unfinished">Paramètres</translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
+        <source>Note: Parent transforms of models are not used. Models should be defined in the coordinate system that is being registered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="65"/>
+        <source>Select the model the other will be transformed to. This model required to contain a dense set of points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
+        <source>Select the model that will be transformed. This model may require a sparse set of points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
+        <source>Pick the moving to fixed transform computed by the algorithm.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
+        <source>Output transform: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
+        <source>Run the algorithm.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="112"/>
+        <source>Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
+        <source>Mean distance after registration:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="124"/>
+        <source>Advanced</source>
+        <translation type="unfinished">Avancé</translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
+        <source>Number of iterations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
+        <source>Test is not implemented for ModelRegistration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -375,6 +671,45 @@
     </message>
 </context>
 <context>
+    <name>SequenceReplay</name>
+    <message>
+        <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
+        <source>Time series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
+        <source>Add</source>
+        <translation type="unfinished">Ajouter</translation>
+    </message>
+    <message>
+        <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
+        <source>Recorded nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
+        <source>Sequence Replay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
+        <source>
+This is an example of scripted loadable module bundled in an extension.
+See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SequenceReplay/SequenceReplay.py" line="51"/>
+        <source>
+This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Settings</name>
     <message>
         <source>1</source>
@@ -405,6 +740,71 @@
     </message>
 </context>
 <context>
+    <name>TextureModel</name>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="21"/>
+        <source>Texture Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="29"/>
+        <source>This module applies a texture (stored in a volume node) to a model node.
+It is typically used to display colored surfaces, provided by surface scanners, exported in OBJ format.
+The model must contain texture coordinates. Only a single texture file per model is supported.
+For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="50"/>
+        <source>Parameters</source>
+        <translation type="unfinished">Paramètres</translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="67"/>
+        <source>Model node containing geometry and texture coordinates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="85"/>
+        <source>RGB vector</source>
+        <comment>uchar-vector</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="86"/>
+        <source>RGB float vector</source>
+        <comment>float-vector</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="87"/>
+        <source>RGB float components</source>
+        <comment>float-components</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="91"/>
+        <source>Save color in point data. &quot;RGB vector&quot; is recommended for compatibility with most software. The point data may be used for thresholding or color-based processing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="99"/>
+        <source>Apply texture to selected model.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="298"/>
+        <source>Finished with download and loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="305"/>
+        <source>Test passed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>VectorToScalarVolume</name>
     <message>
         <source>Parameters</source>
@@ -413,6 +813,325 @@
     <message>
         <source>Apply</source>
         <translation type="obsolete">Appliquer</translation>
+    </message>
+</context>
+<context>
+    <name>Viewpoint</name>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="13"/>
+        <source>Viewpoint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="23"/>
+        <source>This module adjusts camera viewpoint of a 3D viewer.
+Bullseye View: position/orient the camera using a tracked tool.
+For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="25"/>
+        <source>
+    This work is part of the Breast NaviKnife project within the Laboratory for Percutaneous Surgery, Queen&apos;s University, Kingston, Ontario. Thomas Vaughan is funded by an NSERC Postgraduate award. Gabor Fichtinger is funded as a Cancer Care Ontario (CCO) Chair.
+    </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="65"/>
+        <source>Enable Bullseye View Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="68"/>
+        <source>Disable Bullseye View Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="94"/>
+        <source>Enable Auto-Center Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="96"/>
+        <source>Disable Auto-Center Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="103"/>
+        <source>View Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="109"/>
+        <source>Scene Camera: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="116"/>
+        <source>Pick the view which should be adjusted, e.g. &apos;View1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="122"/>
+        <source>Parameters for Bullseye View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="129"/>
+        <source>Camera positioning transform: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="136"/>
+        <source>Pick the transform that the camera should follow, e.g. &apos;cauteryCameraToCauteryTransform&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="142"/>
+        <source>Camera Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="150"/>
+        <source>Degrees of Freedom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="159"/>
+        <source>The camera will always look at the target model (or if unselected will act like 5DOF)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="163"/>
+        <source>5DOF: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="165"/>
+        <source>The camera will always be oriented with the selected &apos;up direction&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="169"/>
+        <source>6DOF: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="171"/>
+        <source>The camera will be virtually attached to the tool, and rotate together with it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="178"/>
+        <source>Up Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="186"/>
+        <source>Anterior: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="192"/>
+        <source>Posterior: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="197"/>
+        <source>Right: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="202"/>
+        <source>Left: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="207"/>
+        <source>Superior: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="212"/>
+        <source>Inferior: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="219"/>
+        <source>Target Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="228"/>
+        <source>Target model: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="234"/>
+        <source>This model be the center of rotation using 3DOF Viewpoint (e.g. tumour)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="240"/>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="247"/>
+        <source>View angle (degrees): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="254"/>
+        <location filename="Viewpoint/Viewpoint.py" line="267"/>
+        <source>Make the current viewing target look larger/smaller.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="259"/>
+        <source>View scale: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="274"/>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="281"/>
+        <source>Left/Right (mm): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="290"/>
+        <source>Down/Up (mm): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="300"/>
+        <source>Front/Back (mm): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="311"/>
+        <source>Parallel Projection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="314"/>
+        <source>If checked, render with parallel projection (box-shaped view). Otherwise render with perspective projection (cone-shaped view).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="319"/>
+        <source>The camera will continuously update its position so that it follows the tool.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="328"/>
+        <source>Parameters for Auto-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="335"/>
+        <source>Followed model: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="342"/>
+        <source>Pick the model that the camera should follow, e.g. &apos;tumorModel&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="347"/>
+        <source>Safe Zone (Viewport X percentage): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="355"/>
+        <source>Safe Zone (Viewport Y percentage): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="364"/>
+        <source>Safe Zone (Viewport Z percentage): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="373"/>
+        <source>Adjust Along Camera X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="376"/>
+        <source>If checked, adjust the camera so that it aligns with the target model along the x axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="380"/>
+        <source>Adjust Along Camera Y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="383"/>
+        <source>If checked, adjust the camera so that it aligns with the target model along the y axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="387"/>
+        <source>Adjust Along Camera Z</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="390"/>
+        <source>If checked, adjust the camera so that it aligns with the target model along the z axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="394"/>
+        <source>Update rate (seconds): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="401"/>
+        <source>The rate at which the view will be checked and updated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="405"/>
+        <source>Time Unsafe to Adjust (seconds): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="412"/>
+        <source>The length of time in which the model must be in the unsafe zone before the camera is adjusted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="416"/>
+        <source>Time Adjust to Rest (seconds): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="423"/>
+        <source>The length of time an adjustment takes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="427"/>
+        <source>Time Rest to Safe (seconds): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="434"/>
+        <source>The length of time after an adjustment that the camera remains motionless.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Viewpoint/Viewpoint.py" line="438"/>
+        <source>The camera will continuously update its position so that it follows the model.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -681,6 +1400,39 @@
     </message>
 </context>
 <context>
+    <name>qSlicerAbstractCoreModule</name>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="18"/>
+        <location filename="ModelRegistration/ModelRegistration.py" line="19"/>
+        <location filename="SequenceReplay/SequenceReplay.py" line="36"/>
+        <location filename="Viewpoint/Viewpoint.py" line="14"/>
+        <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="78"/>
+        <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="62"/>
+        <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="95"/>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="66"/>
+        <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="88"/>
+        <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="100"/>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="98"/>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="81"/>
+        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="95"/>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="122"/>
+        <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="63"/>
+        <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="148"/>
+        <source>IGT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Guidelet/GuideletLoadable.py" line="19"/>
+        <source>Guidelet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="22"/>
+        <source>Surface Models</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerBreachWarningModule</name>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="17"/>
@@ -766,6 +1518,16 @@
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="265"/>
         <source>Breach warning distance (mm):</source>
         <translation>Distance d&apos;avertissement de violation (mm)&#xa0;:</translation>
+    </message>
+    <message>
+        <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="103"/>
+        <source>This module can alert the user by color change and sound signal if a tool enters a restricted area. The restricted area is defined by a surface model, the tool position is defined by a linear transform. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="111"/>
+        <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -960,6 +1722,16 @@
         <source>Delete all points from the node</source>
         <translation>Supprimer tous les points de ce noeud</translation>
     </message>
+    <message>
+        <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="73"/>
+        <source>Record motion trajectory of a tracked tool into markups fiducial list, markups curve, or model node. For more information, visit &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&quot;&gt;SlicerIGT project website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="80"/>
+        <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerCollectPointsModuleWidget</name>
@@ -1111,6 +1883,16 @@
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="454"/>
         <source>Radius:</source>
         <translation>Rayon :</translation>
+    </message>
+    <message>
+        <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="68"/>
+        <source>Module for creating simple shapes, such as sphere, cylinder, prism, needle, and coordinate system axes.For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="75"/>
+        <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1264,33 +2046,59 @@
         <source>Preview transform</source>
         <translation>Aperçu de la transformation</translation>
     </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="83"/>
+        <source>Register images, models, or any other nodes to each other using manually placed landmark points. Rigid, affine, and warping transforms are supported. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="91"/>
+        <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerFiducialRegistrationWizardModuleWidget</name>
     <message>
-        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="212"/>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="162"/>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="173"/>
+        <source>Place fiducial corresponding to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="208"/>
         <source>Point indices in the &quot;From&quot; list match those in the &quot;To&quot; list.</source>
         <translation>Les indices de points dans la liste &quot;De&quot; correspondent à ceux de la liste &quot;Vers&quot;.</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="214"/>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="211"/>
         <source>EXPERIMENTAL. Point pairing between the two lists will be computed automatically. This feature is intended only for rigid and similarity transforms.</source>
         <translation>EXPÉRIMENTAL. L&apos;appariement des points entre les deux listes sera calculé automatiquement. Cette fonctionnalité est destinée uniquement aux transformations rigides et de similarité.</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="217"/>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="214"/>
         <source>Update options</source>
         <translation>Options de mise à jour</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="409"/>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="359"/>
+        <source>No Fiducial Registration Wizard module node selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="405"/>
         <source>Auto-update</source>
         <translation>Mise à jour automatique</translation>
     </message>
     <message>
-        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="417"/>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="413"/>
         <source>Update</source>
         <translation>Mise à jour</translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="449"/>
+        <source>Status: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1304,6 +2112,19 @@
         <location filename="CreateModels/Resources/UI/qSlicerFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
         <translation>Foo Bar</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerLandmarkDetectionModule</name>
+    <message>
+        <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="62"/>
+        <source>This is a module for detecting landmarks by pivoting a tracked stylus. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="68"/>
+        <source>This module was developed through support from CANARIE&apos;s Research Software Program, Cancer Care Ontario, OpenAnatomy, and Brigham and Women&apos;s Hospital through NIH grant R01MH112748.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1396,8 +2217,14 @@
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="270"/>
+        <location filename="LandmarkDetection/qSlicerLandmarkDetectionModuleWidget.cxx" line="209"/>
         <source>Start</source>
         <translation>Commencer</translation>
+    </message>
+    <message>
+        <location filename="LandmarkDetection/qSlicerLandmarkDetectionModuleWidget.cxx" line="205"/>
+        <source>Stop</source>
+        <translation type="unfinished">Arrêt</translation>
     </message>
 </context>
 <context>
@@ -1456,6 +2283,19 @@
     </message>
 </context>
 <context>
+    <name>qSlicerPathExplorerModule</name>
+    <message>
+        <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="72"/>
+        <source>Path Explorer is a module designed to facilitate the creation of trajectory, and visualization of volumes along these trajectories For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
+        <source>It is supported by grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerPathExplorerModuleWidget</name>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="14"/>
@@ -1491,6 +2331,16 @@
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="93"/>
         <source>Visualization</source>
         <translation>Visualisation</translation>
+    </message>
+    <message>
+        <location filename="PathExplorer/qSlicerPathExplorerModuleWidget.cxx" line="78"/>
+        <source>Entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="PathExplorer/qSlicerPathExplorerModuleWidget.cxx" line="79"/>
+        <source>Target</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1846,6 +2696,56 @@
         <source>Maximum number of buckets to create for spin auto-calibration</source>
         <translation>Nombre maximal de seaux à créer pour l&apos;auto-calibrage de la rotation</translation>
     </message>
+    <message>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="68"/>
+        <source>Perform pivot calibration to determine the tool tip&apos;s position, by pivoting the tip of the tool about some fixed point. Perform spin calibration to determine the tool&apos;s orientation, by spinning the tool about its axis. The pivot and spin calibrations can be performed in any order. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="77"/>
+        <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="84"/>
+        <source>Franklin King (Queen&apos;s University)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="85"/>
+        <source>Tamas Ungi (Queen&apos;s University)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerPivotCalibrationModuleWidget</name>
+    <message>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="191"/>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="206"/>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="221"/>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="261"/>
+        <source>%1 seconds until start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="225"/>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="243"/>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="266"/>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="284"/>
+        <source>Sampling time left: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="247"/>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="288"/>
+        <source>Sampling complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="405"/>
+        <source>Flipped.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerReformatModuleWidget</name>
@@ -2027,6 +2927,14 @@
     <message>
         <source>Add</source>
         <translation type="obsolete">Ajouter</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyPathExplorerPlugin</name>
+    <message>
+        <location filename="PathExplorer/SubjectHierarchyPlugins/qSlicerSubjectHierarchyPathExplorerPlugin.cxx" line="144"/>
+        <source>Path Explorer trajectories</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2360,17 +3268,62 @@
         <source>Input Transform Node:</source>
         <translation>Nœud de transformation d&apos;entrée&#xa0;:</translation>
     </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="92"/>
+        <source>This module allows combining, inverting, stabilizing, termporal smoothing of transforms in real-time. For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="99"/>
+        <source>This work was partially funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO), and by National Institute of Health (grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886, 8P41EB015898).</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerTransformProcessorModuleWidget</name>
     <message>
-        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="397"/>
-        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="414"/>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="97"/>
+        <source>Compute the quaternion average of all Source transforms provided.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="99"/>
+        <source>Compute a copy of the rotation from the Source to the Reference.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="101"/>
+        <source>Compute a copy of the translation from the Source to the Reference.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="103"/>
+        <source>Compute a copy of the full transform from the Source to the Reference.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="105"/>
+        <source>Compute the inverse of transform to parent, and store it in another node.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="107"/>
+        <source>Compute a constrained version of an Source transform, the translation and z direction are preserved but the other axes resemble the Target coordinate system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="109"/>
+        <source>Compute a stabilized transform by low-pass filtering.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="398"/>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="415"/>
         <source>Update</source>
         <translation>Mise à jour</translation>
     </message>
     <message>
-        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="405"/>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="406"/>
         <source>Auto-update</source>
         <translation>Mise à jour automatique</translation>
     </message>
@@ -2436,6 +3389,29 @@
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="109"/>
         <source>Clear snapshots</source>
         <translation>Effacer les instantanés</translation>
+    </message>
+    <message>
+        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="68"/>
+        <source>Module for taking a snapshot of a position tracked ultrasound image and display it as a model node. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="75"/>
+        <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerUltrasoundSnapshotsModuleWidget</name>
+    <message>
+        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="122"/>
+        <source>This action will delete all snapshots.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="123"/>
+        <source>Continue with this action?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2742,6 +3718,99 @@
         <source>Apply</source>
         <translation>Appliquer</translation>
     </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="93"/>
+        <source>This is a module for reconstructing image volumes from sequences. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="109"/>
+        <source>This module was developed through support from CANARIE&apos;s Research Software Program, and Cancer Care Ontario.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="128"/>
+        <source>Sequences</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerVolumeReconstructionModuleWidget</name>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="129"/>
+        <source>Nearest neighbor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="130"/>
+        <source>Linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="132"/>
+        <source>Full optimization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="133"/>
+        <source>Partial optimization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="134"/>
+        <source>No optimization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="137"/>
+        <source>GPU acceleration (OpenCL)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="140"/>
+        <source>Latest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="141"/>
+        <source>Maximum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="142"/>
+        <source>Mean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="143"/>
+        <source>Importance mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="213"/>
+        <source>Volume reconstruction</source>
+        <translation type="unfinished">Reconstruction de volumes</translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="215"/>
+        <source>Reconstructing volume...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="316"/>
+        <source>Start</source>
+        <translation type="unfinished">Commencer</translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="321"/>
+        <source>Stop</source>
+        <translation type="unfinished">Arrêt</translation>
+    </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="330"/>
+        <source>Apply</source>
+        <translation type="unfinished">Appliquer</translation>
+    </message>
 </context>
 <context>
     <name>qSlicerVolumeRenderingModuleWidget</name>
@@ -2780,12 +3849,35 @@
         <source>Show advanced options</source>
         <translation>Montrer les options avancées</translation>
     </message>
+    <message>
+        <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="75"/>
+        <source>This module allows to set reslicing planes by using linear transforms nodes or positions/orientations in image nodes. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="84"/>
+        <source>This work was supported by NIH National Center for Image Guided Therapy, and National Alliance for Medical Image Computing.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerVolumesModuleWidget</name>
     <message>
         <source>Display</source>
         <translation type="obsolete">Afficher</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerWatchdogModule</name>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="118"/>
+        <source>Displays warning if selected transforms are not continuously updated. It is useful for detecting tracking errors, such as occluded marker or network connection error. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
+        <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2889,6 +3981,64 @@
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="316"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Watch transform modified event:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Regarder l&apos;événement modifié de transformation&#xa0;:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
+        <source>Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
+        <source>Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="302"/>
+        <source>Make list active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="303"/>
+        <source>Delete highlighted row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="463"/>
+        <source>valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="468"/>
+        <source>invalid</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkMRMLFiducialRegistrationWizardNode</name>
+    <message>
+        <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="390"/>
+        <source>Manual</source>
+        <translation type="unfinished">Manuel</translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="391"/>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="395"/>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
