@@ -12443,13 +12443,6 @@ e pelo Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAI
         <translation>    Importar arquivos DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
-        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
-        <source>Import files into DICOM database</source>
-        <oldsource>Show DICOM database browser window</oldsource>
-        <translation type="unfinished">Mostrar janela de banco de dados DICOM</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
         <translation>    Mostrar banco de dados DICOM</translation>
@@ -29209,12 +29202,6 @@ Nota: Se você escolher não, a transformação aplicada será simplesmente subs
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="421"/>
         <source>Color:</source>
         <translation>Cor:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1373"/>
-        <source>No type modifier</source>
-        <translation>Nenhum modificador de tipo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="200"/>

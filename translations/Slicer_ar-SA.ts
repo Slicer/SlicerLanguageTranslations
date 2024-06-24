@@ -12443,13 +12443,6 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
         <translation>    استيراد ملفات  التصوير الرقمي و الاتصالات في الطب (DICOM)</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
-        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
-        <source>Import files into DICOM database</source>
-        <oldsource>Show DICOM database browser window</oldsource>
-        <translation type="unfinished">إظهار نافذة متصفح قاعدة بيانات التصوير الرقمي والاتصالات في الطب (DICOM)</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
         <translation>    إظهار قاعدة بيانات التصوير الرقمي والاتصالات في الطب (DICOM)</translation>
@@ -29211,12 +29204,6 @@ Tags: %5</source>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="421"/>
         <source>Color:</source>
         <translation>لون:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1373"/>
-        <source>No type modifier</source>
-        <translation>لا يوجد معدل للنوع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="200"/>

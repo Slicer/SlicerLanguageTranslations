@@ -11952,13 +11952,6 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
         <translation>    DICOM 파일 가져오기</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
-        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
-        <source>Import files into DICOM database</source>
-        <oldsource>Show DICOM database browser window</oldsource>
-        <translation type="unfinished">DICOM 데이터베이스 브라우저 창 표시</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
         <translation>    DICOM 데이터베이스 표시</translation>
@@ -28591,12 +28584,6 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="421"/>
         <source>Color:</source>
         <translation>색상:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1373"/>
-        <source>No type modifier</source>
-        <translation>유형 수정기 없음</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="200"/>

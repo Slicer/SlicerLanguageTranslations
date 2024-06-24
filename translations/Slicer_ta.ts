@@ -11907,13 +11907,6 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
         <translation>    DICOM கோப்புகளை இறக்குமதி செய்யவும்</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
-        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
-        <source>Import files into DICOM database</source>
-        <oldsource>Show DICOM database browser window</oldsource>
-        <translation type="unfinished">DICOM தரவுத்தள உலாவி சாளரத்தைக் காட்டு</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
         <translation>    DICOM தரவுத்தளத்தைக் காட்டு</translation>
@@ -28166,12 +28159,6 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="421"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1373"/>
-        <source>No type modifier</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

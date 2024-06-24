@@ -12424,13 +12424,6 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
         <translation>    Importar archivos DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
-        <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
-        <source>Import files into DICOM database</source>
-        <oldsource>Show DICOM database browser window</oldsource>
-        <translation type="unfinished">Mostrar ventana de búsqueda de base de datos DICOM</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
         <translation>    Mostrar base de datos DICOM</translation>
@@ -29188,12 +29181,6 @@ Etiquetas: %6</translation>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="421"/>
         <source>Color:</source>
         <translation>Color:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1373"/>
-        <source>No type modifier</source>
-        <translation>Sin modificador de tipo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="200"/>
