@@ -46,7 +46,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="97"/>
         <source>Latest file only:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur die neueste Datei:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="107"/>
