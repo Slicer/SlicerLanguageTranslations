@@ -5062,22 +5062,22 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="49"/>
         <source>Save Intermediate Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvare modele intermediare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
         <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un fișier mrml care conține un arbore ierarhic model șablon cu un nod ierarhic pe culoare utilizat în tabelul de culori al volumului de intrare. Numele de culori utilizate pentru modele sunt potrivite cu numele ierarhiei șablonului pentru a crea un arbore de ieșire pe mai multe niveluri. Creați o ierarhie în GUI Modele și salvați o scenă, apoi curățați-o pentru a elimina totul, cu excepția ierarhiei modelului și a nodurilor de afișare.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation type="unfinished"></translation>
+        <translation>Puteți salva o copie a modelelor după fiecare dintre pașii intermediari (cuburi de marș, netezire și decimare dacă nu netezire articulată, în caz contrar imediat după decimare). Aceste modele intermediare nu sunt salvate în fișierul mrml, trebuie să le încărcați manual după ce dezactivați ștergerea fișierelor temporare din consola lor Python (Vizualizare -&gt;Python Interactor) folosind următoarea comandă slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff(). ).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
         <source>turn this flag on in order to see debugging output (look in the Error Log window that is accessed via the View menu)</source>
-        <translation type="unfinished"></translation>
+        <translation>activați pentru a vedea rezultatul de depanare (uitați-vă în fereastra Jurnal de erori care este accesată prin meniul Vizualizare)</translation>
     </message>
 </context>
 <context>
@@ -5095,7 +5095,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
+        <translation>Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -5120,7 +5120,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="12"/>
@@ -5173,12 +5173,12 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
+        <translation>Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
@@ -5256,7 +5256,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
@@ -5430,12 +5430,12 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
+        <translation>Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
@@ -5486,22 +5486,22 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="42"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>LPS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="18"/>
         <source>Axial</source>
-        <translation type="unfinished">Axial</translation>
+        <translation>Axial</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="19"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>Coronal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="20"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>Sagittal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="21"/>
@@ -5611,7 +5611,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="43"/>
         <source>RAS</source>
-        <translation type="unfinished">RAS</translation>
+        <translation>RAS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="44"/>
@@ -5893,7 +5893,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
@@ -5992,7 +5992,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
@@ -6002,7 +6002,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>Volum intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"/>
@@ -6204,7 +6204,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>none</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="41"/>
@@ -6375,7 +6375,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation>Origine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
@@ -6517,7 +6517,7 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="103"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Transform Matrix</translation>
+        <translation>Transform Matrix</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
@@ -6826,7 +6826,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="60"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation>Origine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="61"/>
@@ -6964,12 +6964,12 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="87"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Transform Matrix</translation>
+        <translation>Transform Matrix</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="88"/>
         <source>Transform</source>
-        <translation type="unfinished">Transform</translation>
+        <translation>Transform</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
@@ -7010,7 +7010,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
+        <translation>Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
@@ -7086,7 +7086,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="24"/>
@@ -7204,7 +7204,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="22"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="23"/>
@@ -7352,7 +7352,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
@@ -7395,12 +7395,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
+        <translation>Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
@@ -7473,12 +7473,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
+        <translation>Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
@@ -7498,7 +7498,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>Volum intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
@@ -7627,12 +7627,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
         <source>Background</source>
-        <translation type="unfinished">Background</translation>
+        <translation>Background</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="12"/>
         <source>Foreground</source>
-        <translation type="unfinished">Foreground</translation>
+        <translation>Foreground</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
@@ -7657,7 +7657,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
@@ -7752,7 +7752,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="121"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Run the algorithm.</translation>
+        <translation>Rulare algorithm.</translation>
     </message>
 </context>
 <context>
@@ -7790,7 +7790,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="364"/>
         <source>Database location:</source>
-        <translation type="unfinished">Database location:</translation>
+        <translation>Locatie bază de date:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
@@ -7840,17 +7840,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
         <source>Small</source>
-        <translation type="unfinished">Small</translation>
+        <translation>Small</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="401"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Medium</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="402"/>
         <source>Large</source>
-        <translation type="unfinished">Large</translation>
+        <translation>Large</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="404"/>
@@ -7900,7 +7900,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="627"/>
         <source>Show options</source>
-        <translation type="unfinished">Show options</translation>
+        <translation>Arată opțiunile</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="631"/>
@@ -8044,7 +8044,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="238"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="313"/>
@@ -8318,7 +8318,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="97"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>none</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="98"/>
@@ -8569,12 +8569,12 @@ indicated by the mouse position.
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="25"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="298"/>
         <source>Data Probe</source>
-        <translation type="unfinished">Data Probe</translation>
+        <translation>Data Probe</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>None</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
@@ -8590,7 +8590,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="541"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">Slice View Annotations Settings</translation>
+        <translation>Setări Slice View Annotations</translation>
     </message>
 </context>
 <context>
@@ -8612,7 +8612,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="107"/>
         <source>Path</source>
-        <translation type="unfinished">Path</translation>
+        <translation>Cale</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="116"/>
@@ -8638,7 +8638,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"/>
         <source>Camera:</source>
-        <translation type="unfinished">Camera:</translation>
+        <translation>Camera:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="128"/>
@@ -8750,7 +8750,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="230"/>
         <source>Next</source>
-        <translation type="unfinished">Next</translation>
+        <translation>Next</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="232"/>
@@ -8770,7 +8770,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="250"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="262"/>
@@ -8853,7 +8853,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="165"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nume:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="166"/>
@@ -8956,12 +8956,12 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="23"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nume:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="30"/>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>Tip:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="34"/>
@@ -8990,17 +8990,17 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="23"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="28"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="48"/>
         <source>Select folder</source>
-        <translation type="unfinished">Select folder</translation>
+        <translation>Selectare director</translation>
     </message>
 </context>
 <context>
@@ -9008,7 +9008,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="29"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nume:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="32"/>
@@ -9018,12 +9018,12 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="35"/>
         <source>Description:</source>
-        <translation type="unfinished">Description:</translation>
+        <translation>Descriere:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
@@ -9146,7 +9146,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
 </context>
 <context>
@@ -9187,22 +9187,22 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="106"/>
         <source>Markups</source>
-        <translation type="unfinished">Markups</translation>
+        <translation>Markups</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="78"/>
         <source>Sequence browser</source>
-        <translation type="unfinished">Sequence browser</translation>
+        <translation>Browser secvență</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="50"/>
         <source>Create new </source>
-        <translation type="unfinished">Create new </translation>
+        <translation>Creare nou </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="51"/>
         <source> as...</source>
-        <translation type="unfinished"> as...</translation>
+        <translation> ca...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="52"/>
@@ -9244,7 +9244,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="113"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">Download Sample Data</translation>
+        <translation>Download Sample Data</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="114"/>
@@ -9254,7 +9254,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="516"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="517"/>
@@ -9370,82 +9370,82 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="20"/>
         <source>Scene Performance</source>
-        <translation type="unfinished">Scene Performance</translation>
+        <translation>Performanța scenei</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="26"/>
         <source>Action</source>
-        <translation type="unfinished">Action</translation>
+        <translation>Actiune</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="35"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>Fișier</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="46"/>
         <source>Add Data (or Scene)</source>
-        <translation type="unfinished">Add Data (or Scene)</translation>
+        <translation>Add Data (sau Scenă)</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="51"/>
         <source>Restore scene</source>
-        <translation type="unfinished">Restore scene</translation>
+        <translation>Restaurare scenă</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="56"/>
         <source>Close Scene</source>
-        <translation type="unfinished">Close Scene</translation>
+        <translation>Închide Scenă</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="61"/>
         <source>Switch to Layout</source>
-        <translation type="unfinished">Switch to Layout</translation>
+        <translation>Comută la Layout</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="66"/>
         <source>Add (copy of current) node</source>
-        <translation type="unfinished">Add (copy of current) node</translation>
+        <translation>Add (copy of current) node</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="71"/>
         <source>Modify (current) node</source>
-        <translation type="unfinished">Modify (current) node</translation>
+        <translation>Modify (current) node</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="79"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="86"/>
         <source>Results</source>
-        <translation type="unfinished">Results</translation>
+        <translation>Resultate</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="100"/>
         <source>Layout</source>
-        <translation type="unfinished">Layout</translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
         <source>file name:</source>
-        <translation type="unfinished">file name:</translation>
+        <translation>nume filșier:</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="134"/>
         <source>Node</source>
-        <translation type="unfinished">Node</translation>
+        <translation>Nod</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="154"/>
         <source>Run and time</source>
-        <translation type="unfinished">Run and time</translation>
+        <translation>Run and time</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="168"/>
         <source>SceneView</source>
-        <translation type="unfinished">SceneView</translation>
+        <translation>SceneView</translation>
     </message>
 </context>
 <context>
@@ -9524,7 +9524,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="135"/>
         <source>Rotation axis:</source>
-        <translation type="unfinished">Rotation axis:</translation>
+        <translation>Axă rotire:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
@@ -9539,7 +9539,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="143"/>
         <source>Sequence:</source>
-        <translation type="unfinished">Sequence:</translation>
+        <translation>Secvență:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="151"/>
@@ -9680,7 +9680,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="267"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="273"/>
@@ -9760,7 +9760,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="327"/>
         <source>Screenshot</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Screenshot</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="331"/>
@@ -9820,17 +9820,17 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="398"/>
         <source>Position:</source>
-        <translation type="unfinished">Position:</translation>
+        <translation>Poziție:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="400"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Mărime:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="402"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacitate:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="405"/>
@@ -10119,7 +10119,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="121"/>
         <source>Show 3D</source>
-        <translation type="unfinished">Show 3D</translation>
+        <translation>Show 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="122"/>
@@ -10144,7 +10144,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="132"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="134"/>
@@ -10154,7 +10154,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="136"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="138"/>
@@ -10169,7 +10169,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="255"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="286"/>
@@ -10332,7 +10332,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="74"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="76"/>
@@ -10451,7 +10451,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="99"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="399"/>
@@ -10509,17 +10509,17 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="52"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="53"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="54"/>
         <source>Subtract</source>
-        <translation type="unfinished">Subtract</translation>
+        <translation>Subtract</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="55"/>
@@ -10529,7 +10529,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="56"/>
         <source>Invert</source>
-        <translation type="unfinished">Invert</translation>
+        <translation>Invert</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
@@ -10559,12 +10559,12 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="65"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="72"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operatie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="74"/>
@@ -10628,7 +10628,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="47"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operatie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="52"/>
@@ -10658,7 +10658,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="72"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="74"/>
@@ -10724,7 +10724,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="67"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operatie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="71"/>
@@ -10801,7 +10801,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="164"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="166"/>
@@ -10919,7 +10919,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="98"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="100"/>
@@ -11112,12 +11112,12 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="340"/>
         <source>Min</source>
-        <translation type="unfinished">Min</translation>
+        <translation>Min</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="341"/>
         <source>Minimum</source>
-        <translation type="unfinished">Minimum</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="355"/>
@@ -11134,12 +11134,12 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="387"/>
         <source>Max</source>
-        <translation type="unfinished">Max</translation>
+        <translation>Max</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="388"/>
         <source>Maximum</source>
-        <translation type="unfinished">Maximum</translation>
+        <translation>Maximum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="395"/>
@@ -11159,7 +11159,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="404"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="406"/>
@@ -11204,7 +11204,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="86"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Intrări</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="96"/>
@@ -11214,7 +11214,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="97"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentation:</translation>
+        <translation>Segmentare:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="108"/>
@@ -11249,13 +11249,13 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="134"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="148"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="215"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="150"/>
@@ -11285,7 +11285,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="227"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Optiuni</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="298"/>
@@ -11326,7 +11326,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="1016"/>
         <source>Load Scene</source>
-        <translation type="unfinished">Load Scene</translation>
+        <translation>Încarcă Scena</translation>
     </message>
 </context>
 <context>
@@ -11653,12 +11653,12 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="174"/>
         <source>Minimum</source>
-        <translation type="unfinished">Minimum</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="181"/>
         <source>Maximum</source>
-        <translation type="unfinished">Maximum</translation>
+        <translation>Maximum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="188"/>
@@ -11697,7 +11697,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="150"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>none</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="153"/>
@@ -11734,72 +11734,72 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="20"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">Slice View Annotations Settings</translation>
+        <translation>Setări Slice View Annotations</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="37"/>
         <source>Enable Slice View Annotations</source>
-        <translation type="unfinished">Enable Slice View Annotations</translation>
+        <translation>Activare Slice View Annotations</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="44"/>
         <source>Corner Text Annotation</source>
-        <translation type="unfinished">Corner Text Annotation</translation>
+        <translation>Corner Text Annotation</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="52"/>
         <source>Active Corners</source>
-        <translation type="unfinished">Active Corners</translation>
+        <translation>Active Corners</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="58"/>
         <source>Top Left</source>
-        <translation type="unfinished">Top Left</translation>
+        <translation>Stânga sus</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="68"/>
         <source>Top Right</source>
-        <translation type="unfinished">Top Right</translation>
+        <translation>Dreapta sus</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="78"/>
         <source>Bottom Left</source>
-        <translation type="unfinished">Bottom Left</translation>
+        <translation>Stânga jos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="104"/>
         <source>Amount</source>
-        <translation type="unfinished">Amount</translation>
+        <translation>Cantitate</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="110"/>
         <source>Annotation Display Level:</source>
-        <translation type="unfinished">Annotation Display Level:</translation>
+        <translation>Annotation Display Level:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="117"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="127"/>
         <source>2</source>
-        <translation type="unfinished">2</translation>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="134"/>
         <source>3</source>
-        <translation type="unfinished">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="157"/>
         <source>Font Properties</source>
-        <translation type="unfinished">Font Properties</translation>
+        <translation>Proporietăți font</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="163"/>
         <source>Font Family: </source>
-        <translation type="unfinished">Font Family: </translation>
+        <translation>Familie font: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
@@ -11809,32 +11809,32 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
         <source>Arial</source>
-        <translation type="unfinished">Arial</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="203"/>
         <source>Font Size: </source>
-        <translation type="unfinished">Font Size: </translation>
+        <translation>Mărime font: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="236"/>
         <source>DICOM Annotations</source>
-        <translation type="unfinished">DICOM Annotations</translation>
+        <translation>DICOM Annotations</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
         <source>Show background volume DICOM annotations if foreground volume is non-DICOM.</source>
-        <translation type="unfinished">Show background volume DICOM annotations if foreground volume is non-DICOM.</translation>
+        <translation>Afișați adnotări DICOM pentru volumul de fundal dacă volumul din foreground nu este DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="245"/>
         <source>Background DICOM annotations persistence</source>
-        <translation type="unfinished">Background DICOM annotations persistence</translation>
+        <translation>Persistența adnotărilor DICOM de fundal</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="262"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished">Restore Defaults</translation>
+        <translation>Restaurare valori implicite</translation>
     </message>
 </context>
 <context>
@@ -11871,17 +11871,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Intrări</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="23"/>
         <source>Input volume:</source>
-        <translation type="unfinished">Input volume:</translation>
+        <translation>Volum intrare:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished">Pick the input to the algorithm.</translation>
+        <translation>Alegeți intrarea în algoritm.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="47"/>
@@ -11891,12 +11891,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="54"/>
         <source>Image threshold:</source>
-        <translation type="unfinished">Image threshold:</translation>
+        <translation>Image threshold:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="61"/>
         <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
-        <translation type="unfinished">Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</translation>
+        <translation>Setați valoarea pragului pentru calcularea imaginii de ieșire. Voxelii care au intensități mai mici decât această valoare vor seta la zero.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="76"/>
@@ -11906,17 +11906,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
         <source>Outputs</source>
-        <translation type="unfinished">Outputs</translation>
+        <translation>Ieșiri</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="92"/>
         <source>Thresholded volume:</source>
-        <translation type="unfinished">Thresholded volume:</translation>
+        <translation>Thresholded volume:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="99"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished">Pick the output to the algorithm.</translation>
+        <translation>Alegeți ieșirea pentru algoritm.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="119"/>
@@ -11926,12 +11926,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="126"/>
         <source>Inverted volume:</source>
-        <translation type="unfinished">Inverted volume:</translation>
+        <translation>Volum inversat:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="133"/>
         <source>Result with inverted threshold will be written into this volume</source>
-        <translation type="unfinished">Result with inverted threshold will be written into this volume</translation>
+        <translation>Rezultatul cu inverted threshold va fi scris în acest volum</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="153"/>
@@ -11941,27 +11941,27 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="163"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansat</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="172"/>
         <source>Invert threshold: </source>
-        <translation type="unfinished">Invert threshold: </translation>
+        <translation>Invert threshold: </translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="179"/>
         <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
-        <translation type="unfinished">If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</translation>
+        <translation>Dacă este bifată, valorile peste prag sunt setate la 0. Dacă nu sunt bifate, valorile de mai jos sunt setate la 0.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="198"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Run the algorithm.</translation>
+        <translation>Rulare algorithm.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="201"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
 </context>
 <context>
@@ -11969,53 +11969,53 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/UtilTest.ui" line="17"/>
         <source>My custom UI</source>
-        <translation type="unfinished">My custom UI</translation>
+        <translation>UI-ul meu customizat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
         <source>Import files into DICOM database</source>
-        <translation type="unfinished">Import files into DICOM database</translation>
+        <translation>Importați fișiere în baza de date DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="34"/>
         <source>    Import DICOM files</source>
-        <translation type="unfinished">    Import DICOM files</translation>
+        <translation>    Importare fișiere DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
-        <translation type="unfinished">    Show DICOM database</translation>
+        <translation>    Arată baza de date DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="99"/>
         <source>Loaded data</source>
-        <translation type="unfinished">Loaded data</translation>
+        <translation>Date încărcate</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="113"/>
         <source>DICOM networking</source>
-        <translation type="unfinished">DICOM networking</translation>
+        <translation>Rețelistică DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="119"/>
         <source>Pull data from remote server:</source>
-        <translation type="unfinished">Pull data from remote server:</translation>
+        <translation>Extrage date de pe serverul de la distanță:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
         <source>Query and retrieve DICOM data sets from remote server</source>
-        <translation type="unfinished">Query and retrieve DICOM data sets from remote server</translation>
+        <translation>Interogați și preluați seturi de date DICOM de la serverul de la distanță</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
         <source>Query and retrieve</source>
-        <translation type="unfinished">Query and retrieve</translation>
+        <translation>Interogare și preluare</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
         <source>Storage listener:</source>
-        <translation type="unfinished">Storage listener:</translation>
+        <translation>Listener storage:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
@@ -12025,62 +12025,62 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
         <source>Start storage listener on startup:</source>
-        <translation type="unfinished">Start storage listener on startup:</translation>
+        <translation>Startare listner storage la pornire:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
         <source>Automatically start listener on application startup</source>
-        <translation type="unfinished">Automatically start listener on application startup</translation>
+        <translation>Startează automat listnerul la pornirea aplicației</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
         <source>DICOM database settings</source>
-        <translation type="unfinished">DICOM database settings</translation>
+        <translation>Setari baza de date DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
         <source>Database location:</source>
-        <translation type="unfinished">Database location:</translation>
+        <translation>Locație bază de date:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
         <source>Auto-hide browser window:</source>
-        <translation type="unfinished">Auto-hide browser window:</translation>
+        <translation>Auto-hide fereastră browser:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="236"/>
         <source>Maintenance:</source>
-        <translation type="unfinished">Maintenance:</translation>
+        <translation>Mentenanță:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
         <source>Hide DICOM database browser after data loaded</source>
-        <translation type="unfinished">Hide DICOM database browser after data loaded</translation>
+        <translation>Ascundeți browserul bazei de date DICOM după încărcarea datelor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
         <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-        <translation type="unfinished">Remove all items from the DICOM database if referenced DICOM file is not found on disk.</translation>
+        <translation>Eliminați toate elementele din baza de date DICOM dacă fișierul DICOM la care se face referire nu este găsit pe disc.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
         <source>Remove unavailable data sets</source>
-        <translation type="unfinished">Remove unavailable data sets</translation>
+        <translation>Eliminați seturile de date indisponibile</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="263"/>
         <source>Removes all data from the database and all files that were copied into the database during import.</source>
-        <translation type="unfinished">Removes all data from the database and all files that were copied into the database during import.</translation>
+        <translation>Elimină toate datele din baza de date și toate fișierele care au fost copiate în baza de date în timpul importului.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="266"/>
         <source>Remove all data sets</source>
-        <translation type="unfinished">Remove all data sets</translation>
+        <translation>Eliminați toate seturile de date</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
         <source>DICOM plugins</source>
-        <translation type="unfinished">DICOM plugins</translation>
+        <translation>Plugin-uri DICOM</translation>
     </message>
 </context>
 <context>
@@ -12098,7 +12098,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished">Pick the input to the algorithm.</translation>
+        <translation>Alegeți intrarea în algoritm.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="51"/>
@@ -12113,12 +12113,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="65"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished">Pick the output to the algorithm.</translation>
+        <translation>Alegeți ieșirea pentru algoritm.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="116"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="59"/>
@@ -12368,7 +12368,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="104"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="113"/>
@@ -12446,18 +12446,18 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="102"/>
         <source>Screenshot</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Screenshot</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image.</source>
         <oldsource>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</oldsource>
-        <translation type="unfinished">Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</translation>
+        <translation>Realizați o captură de ecran cu aspectul complet, vizualizarea 3D sau vizualizările secțiunilor. Folosiți File, Save pentru a salva imaginea.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
         <source>Scene view</source>
-        <translation type="unfinished">Scene view</translation>
+        <translation>Scene view</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
