@@ -5052,7 +5052,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="50"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Depanare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="48"/>
