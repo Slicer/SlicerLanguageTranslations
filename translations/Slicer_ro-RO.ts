@@ -2305,7 +2305,7 @@ Permite conversia la același tip ca și volumul de intrare.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="53"/>
         <source>Study Date</source>
-        <translation>Data</translation>
+        <translation>Data studiu</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="54"/>
@@ -2315,7 +2315,7 @@ Permite conversia la același tip ca și volumul de intrare.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="55"/>
         <source>Study Comments</source>
-        <translation>Comentarii</translation>
+        <translation>Comentarii studiu</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="56"/>
@@ -3469,12 +3469,12 @@ MCDE nu prezintă proprietățile de îmbunătățire a marginilor ale difuziei 
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
         <source>Input model</source>
-        <translation>Model intrare</translation>
+        <translation>Model de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="87"/>
         <source>Output model</source>
-        <translation>Model ieșire</translation>
+        <translation>Model de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"/>
@@ -3687,12 +3687,12 @@ MCDE nu prezintă proprietățile de îmbunătățire a marginilor ale difuziei 
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="10"/>
         <source>Output Image</source>
-        <translation>Imagine ieșire</translation>
+        <translation>Imagine de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="11"/>
         <source>Input image</source>
-        <translation>Imagine intrare</translation>
+        <translation>Imagine de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="12"/>
@@ -4759,7 +4759,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
         <source>Input Volume</source>
-        <translation>Volum intrare</translation>
+        <translation>Volum de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
@@ -4832,7 +4832,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="14"/>
         <source>Output model</source>
-        <translation>Model ieșire</translation>
+        <translation>Model de ieșire</translation>
     </message>
 </context>
 <context>
@@ -4865,7 +4865,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation>Volum intrare</translation>
+        <translation>Volum de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
@@ -5072,7 +5072,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation>Puteți salva o copie a modelelor după fiecare dintre pașii intermediari (cuburi de marș, netezire și decimare dacă nu netezire articulată, în caz contrar imediat după decimare). Aceste modele intermediare nu sunt salvate în fișierul mrml, trebuie să le încărcați manual după ce dezactivați ștergerea fișierelor temporare din consola lor Python (Vizualizare -&gt;Python Interactor) folosind următoarea comandă slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff(). ).</translation>
+        <translation>Puteți salva o copie a modelelor după fiecare dintre pașii intermediari (cuburi de marș, netezire și decimare dacă nu netezire articulată, în caz contrar imediat după decimare). Aceste modele intermediare nu sunt salvate în fișierul mrml, trebuie să le încărcați manual după ce dezactivați ștergerea fișierelor temporare din consola Python (Vizualizare -&gt;Python Interactor) folosind următoarea comandă slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff(). ).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
@@ -5085,12 +5085,12 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="4"/>
         <source>Model To LabelMap</source>
-        <translation type="unfinished"></translation>
+        <translation>Model To LabelMap</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"/>
         <source>Intersects an input model with a reference volume and produces an output label map, filling voxels inside the model with the specified label value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersectează un model de intrare cu un volum de referință și produce o hartă de etichetă de ieșire, umplând voxelii din interiorul modelului cu valoarea etichetei specificată.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
@@ -5100,22 +5100,22 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Setări</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="8"/>
         <source>Parameter settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Setările parametrilor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="9"/>
         <source>Label value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare etichetă</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="10"/>
         <source>The unsigned char label value to use in the output label map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea etichetei - tip unsigned char - de utilizat în harta etichetei de ieșire.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
@@ -5125,37 +5125,37 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="12"/>
         <source>Input/output</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare/Ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
         <source>Output volume will have the same origin, spacing, axis directions, and extent as this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul de ieșire va avea aceeași origine, distanță, direcții ale axei și întindere ca acest volum.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="17"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="18"/>
         <source>Unsigned char label map volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul hărții cu etichete de tip unsigned char</translation>
     </message>
 </context>
 <context>
@@ -5163,12 +5163,12 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="5"/>
         <source>Multiply Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplicare volume scalare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="6"/>
         <source>Multiplies two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplică două imagini. Deși toate tipurile de imagini sunt acceptate la intrare, sunt produse numai tipurile semnate. Cele două imagini pot să nu aibă aceleași dimensiuni.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
@@ -5183,57 +5183,57 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii intrare/ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum 1 de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum 2 de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum 1 de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum 2 de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"/>
         <source>Volume1 * Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum1 * Volum2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controale</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlează modul în care operează modulul</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation>Orin interpolare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordinea de interpolare dacă două imagini sunt în cadre de coordonate diferite sau au eșantionare diferită.</translation>
     </message>
 </context>
 <context>
@@ -5241,17 +5241,17 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="4"/>
         <source>N4ITK MRI Bias correction</source>
-        <translation type="unfinished"></translation>
+        <translation>Corecție N4ITK MRI Bias</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"/>
         <source>Performs image bias correction using N4 algorithm. This module is based on the ITK filters contributed in the following publication:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</source>
-        <translation type="unfinished"></translation>
+        <translation>Efectuează corectarea &quot;image bias&quot; folosind algoritmul N4. Acest modul se bazează pe filtrele ITK din următoarea publicație: Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 ianuarie-iunie, https://hdl.handle.net /10380/3053</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
         <source>The development of this module was partially supported by NIH grants R01 AA016748-01, R01 CA111288 and U01 CA151261 as well as by NA-MIC, NAC, NCIGT and the Slicer community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezvoltarea acestui modul a fost susținută parțial de granturile NIH R01 AA016748-01, R01 CA111288 și U01 CA151261, precum și de NA-MIC, NAC, NCIGT și comunitatea Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"/>
@@ -5261,158 +5261,158 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii intrare/ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imaginea de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="10"/>
         <source>Mask Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imaginea mască</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"/>
         <source>Output bias field image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagine output bias field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="13"/>
         <source>Input image where you observe signal inhomegeneity</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagine de intrare în care observați neomogenitatea semnalului</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="14"/>
         <source>Binary mask that defines the structure of your interest. NOTE: This parameter is OPTIONAL. If the mask is not specified, the module will use internally Otsu thresholding to define this mask. Better processing results can often be obtained when a meaningful mask is defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mască binară care definește structura interesului tău. NOTĂ: Acest parametru este OPȚIONAL. Dacă masca nu este specificată, modulul va folosi Otsu thresholding pentru a defini această mască. Rezultate de procesare mai bune pot fi adesea obținute atunci când este definită o mască semnificativă.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="15"/>
         <source>Result of processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultatul procesării</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="16"/>
         <source>Recovered bias field (OPTIONAL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bias field recuperat (OPȚIONAL)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="17"/>
         <source>N4 Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii N4</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="18"/>
         <source>BSpline grid resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezoluția grilei BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="19"/>
         <source>Spline distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Distanța Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="20"/>
         <source>Bias field Full Width at Half Maximum</source>
-        <translation type="unfinished"></translation>
+        <translation>Bias field Full Width la Half Maximum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"/>
         <source>Resolution of the initial bspline grid defined as a sequence of three numbers. The actual resolution will be defined by adding the bspline order (default is 3) to the resolution in each dimension specified here. For example, 1,1,1 will result in a 4x4x4 grid of control points. This parameter may need to be adjusted based on your input image. In the multi-resolution N4 framework, the resolution of the bspline grid at subsequent iterations will be doubled. The number of resolutions is implicitly defined by Number of iterations parameter (the size of this list is the number of resolutions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezoluția grilei inițiale bspline definită ca o secvență de trei numere. Rezoluția reală va fi definită prin adăugarea ordinii bspline (implicit este 3) la rezoluția în fiecare dimensiune specificată aici. De exemplu, 1,1,1 va avea ca rezultat o grilă 4x4x4 de puncte de control. Este posibil ca acest parametru să fie ajustat în funcție de imaginea de intrare. În cadrul N4 multi-rezoluție, rezoluția grilei bspline la iterațiile ulterioare va fi dublată. Numărul de rezoluții este implicit definit de parametrul Număr de iterații (mărimea acestei liste este numărul de rezoluții)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"/>
         <source>An alternative means to define the spline grid, by setting the distance between the control points. This parameter is used only if the grid resolution is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>O modalitate alternativă de a defini grila spline, prin setarea distanței dintre punctele de control. Acest parametru este utilizat numai dacă nu este specificată rezoluția grilei.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="23"/>
         <source>Bias field Full Width at Half Maximum. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bias field Full Width la Half Maximum. Zero implică utilizarea valorii implicite.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="24"/>
         <source>Advanced N4 Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii N4 avansați</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="25"/>
         <source>Advanced parameters of the algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri avansati ai algoritmului</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="26"/>
         <source>Number of iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr de iterații</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="27"/>
         <source>Convergence threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Pragul de convergență</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="28"/>
         <source>BSpline order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordinea BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="29"/>
         <source>Shrink factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Factor shrink</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="30"/>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="37"/>
         <source>Weight Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Weight Image</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="31"/>
         <source>Wiener filter noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtru zgomot Wiener</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="32"/>
         <source>Number of histogram bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de casete de histograme</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="33"/>
         <source>Maximum number of iterations at each level of resolution. Larger values will increase execution time, but may lead to better results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr maxim de iterații la fiecare nivel de rezoluție. Valorile mai mari vor crește timpul de execuție, dar pot duce la rezultate mai bune.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="34"/>
         <source>Stopping criterion for the iterative bias estimation. Larger values will lead to smaller execution time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Criteriul de oprire pentru estimarea iterativă a părtinirii. Valorile mai mari vor duce la un timp de execuție mai mic.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="35"/>
         <source>Order of B-spline used in the approximation. Larger values will lead to longer execution times, may result in overfitting and poor result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordinea B-spline utilizată în aproximare. Valorile mai mari vor duce la timpi de execuție mai lungi, pot duce la supraadaptare și la rezultate slabe.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
         <source>Defines how much the image should be upsampled before estimating the inhomogeneity field. Increase if you want to reduce the execution time. 1 corresponds to the original resolution. Larger values will significantly reduce the computation time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definește cât de mult ar trebui să fie supraeșantionată imaginea înainte de a estima câmpul de neomogenitate. Măriți dacă doriți să reduceți timpul de execuție. 1 corespunde rezoluției inițiale. Valorile mai mari vor reduce semnificativ timpul de calcul.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="38"/>
         <source>Wiener filter noise. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtru zgomot Wiener. Zero implică utilizarea valorii implicite.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="39"/>
         <source>Number of histogram bins. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de casete de histograme. Zero implică utilizarea valorii implicite.</translation>
     </message>
 </context>
 <context>
@@ -5420,12 +5420,12 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="4"/>
         <source>Orient Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientarea volumului scalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"/>
         <source>Orients an output volume. Rearranges the slices in a volume according to the selected orientation. The slices are not interpolated. They are just reordered and/or permuted. The resulting volume will cover the original volume. NOTE: since Slicer takes into account the orientation of a volume, the re-oriented volume will not show any difference from the original volume, To see the difference, save the volume and display it with a system that either ignores the orientation of the image (e.g. Paraview) or displays individual images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientează un volum de ieșire. Rearanjează feliile într-un volum în funcție de orientarea selectată. Feliile nu sunt interpolate. Sunt doar reordonate și/sau permutate. Volumul rezultat va acoperi volumul original. NOTĂ: deoarece Slicer ia în considerare orientarea unui volum, volumul reorientat nu va arăta nicio diferență față de volumul original. Pentru a vedea diferența, salvați volumul și afișați-l cu un sistem care fie ignoră orientarea imaginii (de exemplu, Paraview) sau afișează imagini individuale.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
@@ -5440,47 +5440,47 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de intrare/ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum 1 intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum 1 de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
         <source>The oriented volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul orientat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="13"/>
         <source>Orientation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii orientării</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientarea ieșirii</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="16"/>
         <source>Orientation choices</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni orientare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="17"/>
@@ -5506,107 +5506,107 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="21"/>
         <source>RIP</source>
-        <translation type="unfinished"></translation>
+        <translation>RIP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="22"/>
         <source>LIP</source>
-        <translation type="unfinished"></translation>
+        <translation>LIP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="23"/>
         <source>RSP</source>
-        <translation type="unfinished"></translation>
+        <translation>RSP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="24"/>
         <source>LSP</source>
-        <translation type="unfinished"></translation>
+        <translation>LSP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="25"/>
         <source>RIA</source>
-        <translation type="unfinished"></translation>
+        <translation>RIA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="26"/>
         <source>LIA</source>
-        <translation type="unfinished"></translation>
+        <translation>LIA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="27"/>
         <source>RSA</source>
-        <translation type="unfinished"></translation>
+        <translation>RSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="28"/>
         <source>LSA</source>
-        <translation type="unfinished"></translation>
+        <translation>LSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="29"/>
         <source>IRP</source>
-        <translation type="unfinished"></translation>
+        <translation>IRP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="30"/>
         <source>ILP</source>
-        <translation type="unfinished"></translation>
+        <translation>ILP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="31"/>
         <source>SRP</source>
-        <translation type="unfinished"></translation>
+        <translation>SRP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="32"/>
         <source>SLP</source>
-        <translation type="unfinished"></translation>
+        <translation>SLP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="33"/>
         <source>IRA</source>
-        <translation type="unfinished"></translation>
+        <translation>IRA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="34"/>
         <source>ILA</source>
-        <translation type="unfinished"></translation>
+        <translation>ILA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="35"/>
         <source>SRA</source>
-        <translation type="unfinished"></translation>
+        <translation>SRA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="36"/>
         <source>SLA</source>
-        <translation type="unfinished"></translation>
+        <translation>SLA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="37"/>
         <source>RPI</source>
-        <translation type="unfinished"></translation>
+        <translation>RPI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="38"/>
         <source>LPI</source>
-        <translation type="unfinished"></translation>
+        <translation>LPI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="39"/>
         <source>RAI</source>
-        <translation type="unfinished"></translation>
+        <translation>RAI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="40"/>
         <source>LAI</source>
-        <translation type="unfinished"></translation>
+        <translation>LAI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="41"/>
         <source>RPS</source>
-        <translation type="unfinished"></translation>
+        <translation>RPS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="43"/>
@@ -5616,127 +5616,127 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="44"/>
         <source>LAS</source>
-        <translation type="unfinished"></translation>
+        <translation>LAS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="45"/>
         <source>PRI</source>
-        <translation type="unfinished"></translation>
+        <translation>PRI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="46"/>
         <source>PLI</source>
-        <translation type="unfinished"></translation>
+        <translation>PLI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="47"/>
         <source>ARI</source>
-        <translation type="unfinished"></translation>
+        <translation>ARI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="48"/>
         <source>ALI</source>
-        <translation type="unfinished"></translation>
+        <translation>ALI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="49"/>
         <source>PRS</source>
-        <translation type="unfinished"></translation>
+        <translation>PRS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="50"/>
         <source>PLS</source>
-        <translation type="unfinished"></translation>
+        <translation>PLS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="51"/>
         <source>ARS</source>
-        <translation type="unfinished"></translation>
+        <translation>ARS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="52"/>
         <source>ALS</source>
-        <translation type="unfinished"></translation>
+        <translation>ALS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="53"/>
         <source>IPR</source>
-        <translation type="unfinished"></translation>
+        <translation>IPR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="54"/>
         <source>SPR</source>
-        <translation type="unfinished"></translation>
+        <translation>SPR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="55"/>
         <source>IAR</source>
-        <translation type="unfinished"></translation>
+        <translation>IAR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="56"/>
         <source>SAR</source>
-        <translation type="unfinished"></translation>
+        <translation>SAR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="57"/>
         <source>IPL</source>
-        <translation type="unfinished"></translation>
+        <translation>IPL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="58"/>
         <source>SPL</source>
-        <translation type="unfinished"></translation>
+        <translation>SPL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="59"/>
         <source>IAL</source>
-        <translation type="unfinished"></translation>
+        <translation>IAL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="60"/>
         <source>SAL</source>
-        <translation type="unfinished"></translation>
+        <translation>SAL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="61"/>
         <source>PIR</source>
-        <translation type="unfinished"></translation>
+        <translation>PIR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="62"/>
         <source>PSR</source>
-        <translation type="unfinished"></translation>
+        <translation>PSR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="63"/>
         <source>AIR</source>
-        <translation type="unfinished"></translation>
+        <translation>AIR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="64"/>
         <source>ASR</source>
-        <translation type="unfinished"></translation>
+        <translation>ASR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="65"/>
         <source>PIL</source>
-        <translation type="unfinished"></translation>
+        <translation>PIL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="66"/>
         <source>PSL</source>
-        <translation type="unfinished"></translation>
+        <translation>PSL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="67"/>
         <source>AIL</source>
-        <translation type="unfinished"></translation>
+        <translation>AIL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="68"/>
         <source>ASL</source>
-        <translation type="unfinished"></translation>
+        <translation>ASL</translation>
     </message>
 </context>
 <context>
@@ -5744,132 +5744,132 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="4"/>
         <source>PET Standard Uptake Value Computation</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcul valorii de absorbție standard PET</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="5"/>
         <source>Computes the standardized uptake value based on body weight. Takes an input PET image in DICOM and NRRD format (DICOM header must contain Radiopharmaceutical parameters). Produces a CSV file that contains patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName for each volume of interest. It also displays some of the information as output strings in the GUI, the CSV file is optional in that case. The CSV file is appended to on each execution of the CLI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculează valoarea standardizată de absorbție pe baza greutății corporale. Preia o imagine PET de intrare în format DICOM și NRRD (antetul DICOM trebuie să conțină parametrii radiofarmaceutici). Produce un fișier CSV care conține pacientID, studyDate, doză, labelID, suvmin, suvmax, suvmean, labelName pentru fiecare volum de interes. De asemenea, afișează unele dintre informații ca șiruri de ieșire în GUI, fișierul CSV este opțional în acest caz. Fișierul CSV este atașat la fiecare execuție a CLI.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
         <source>This work is funded by the Harvard Catalyst, and the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această lucrare este finanțată de Harvard Catalyst și de Alianța Națională pentru Calcularea Imaginelor Medicale (NAMIC), finanțată de National Institutes of Health prin Foaia de parcurs NIH pentru Cercetare Medicală, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="7"/>
         <source>Image and Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagine și informații</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="9"/>
         <source>PET DICOM volume path</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea volumului PET DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="10"/>
         <source>Input PET Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum PET de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="11"/>
         <source>Input VOI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum VOI de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="12"/>
         <source>Input path to a directory containing a PET volume containing DICOM header information for SUV computation</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea de intrare către un director care conține un volum PET care conține informații de antet DICOM pentru calculul SUV</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="13"/>
         <source>Input PET volume for SUVbw computation (must be the same volume as pointed to by the DICOM path!).</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți volumul PET pentru calculul SUVbw (trebuie să fie același volum cu cel indicat de calea DICOM!).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="14"/>
         <source>Input label volume containing the volumes of interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți volumul etichetei care conține volumele de interes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="15"/>
         <source>Color table to to map labels to colors and names</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel de culori pentru a mapa etichetele la culori și nume</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="16"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
         <source>The Output file collects the information on disk from the output label, suv max/mean/min output stringsin the gui, plus some extra information from the DICOM header.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul de ieșire colectează informațiile de pe disc de pe eticheta de ieșire, șirurile de ieșire suv max/mean/min din interfața grafică, plus câteva informații suplimentare din antetul DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="18"/>
         <source>Output table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="19"/>
         <source>Output Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetă de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="20"/>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare etichetă de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="21"/>
         <source>SUV Max</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV Max</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="22"/>
         <source>SUV Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV Mean</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="23"/>
         <source>SUV Minimum</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV Minimum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="24"/>
         <source>A table holding the output SUV values in comma separated lines, one per label. Optional.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un tabel care conține valorile SUV-ului de ieșire în linii separate prin virgulă, câte una pe etichetă. Opțional.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="25"/>
         <source>List of labels for which SUV values were computed</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista etichetelor pentru care au fost calculate valorile SUV</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="26"/>
         <source>List of label values for which SUV values were computed</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista valorilor de etichetă pentru care au fost calculate valorile SUV</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="27"/>
         <source>SUV max for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV max pentru fiecare etichetă</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="28"/>
         <source>SUV mean for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV mean pentru fiecare etichetă</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="29"/>
         <source>SUV minimum for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV minimum pentru fiecare etichetă</translation>
     </message>
 </context>
 <context>
@@ -5877,18 +5877,19 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="4"/>
         <source>Registration Metric Test (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Test Registration Metric (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
         <source>Compare Mattes/MSQ metric value for two input images and a possible input BSpline transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comparați valoarea metrică Mattes/MSQ pentru două imagini de intrare și o posibilă transformare BSpline de intrare.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
@@ -5898,78 +5899,78 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de intrare</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="9"/>
         <source>Transform File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele fișierului ce conține transformarea</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="10"/>
         <source>Fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagine fixă</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="11"/>
         <source>Moving image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagine în mișcare</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"/>
         <source>Input transform that is use to warp moving image before metric comparison.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformare de intrare care este utilizată pentru a deforma imaginea în mișcare înainte de compararea metrică.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"/>
         <source>Input variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabile de intrare</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="14"/>
         <source>Metric type and input parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipul metrici și parametrii de intrare.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="15"/>
         <source>Metric type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipuri de metrici</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="16"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr de eșantioane</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"/>
         <source>Number Of Histogram Bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr de casete de histogramă</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="18"/>
         <source>Comparison metric type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipul de valori de comparație</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="19"/>
         <source>The number of voxels sampled for metric evaluation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de voxeli eșantionați pentru evaluarea metricii.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="20"/>
         <source>The number of histogram bins when MMI (Mattes) is metric type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de casete de histograme când MMI (Mattes) este de tip metric.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="21"/>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="22"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="23"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>MSE</translation>
     </message>
 </context>
 <context>
@@ -5977,17 +5978,17 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="4"/>
         <source>Probe Volume With Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Probe Volume With Model</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="5"/>
         <source>Paint a model by a volume (using vtkProbeFilter).</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenare model după un volum (folosind vtkProbeFilter).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="6"/>
         <source>BWH, NCIGT/LMI</source>
-        <translation type="unfinished"></translation>
+        <translation>BWH, NCIGT/LMI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="7"/>
@@ -5997,7 +5998,7 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de intrare/ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
@@ -6008,32 +6009,32 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="14"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="11"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="12"/>
         <source>Output array name</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele matricei de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="13"/>
         <source>Volume to use to &quot;paint&quot; the model</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul de utilizat pentru a „desena” modelul</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="15"/>
         <source>Output &quot;painted&quot; model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelul &quot;desenat&quot; de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="16"/>
         <source>Name of the array that will contain the voxel values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele matricei care va conține valorile voxelului.</translation>
     </message>
 </context>
 <context>
@@ -6041,165 +6042,165 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="5"/>
         <source>Resample DTI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Reeșantionare volum DTI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reeșantionarea unei imagini este o sarcină foarte importantă în analiza imaginii. Este deosebit de important în cadrul înregistrării imaginii. Acest modul implementează reeșantionarea imaginii DT prin utilizarea itk Transforms. Reeșantionarea este controlată de Output Spacing. „Reeșantionarea” este efectuată în coordonatele spațiului, nu în coordonatele pixelilor/grilei. Este destul de important să vă asigurați că distanța dintre imagini este setată corect pe imaginile implicate. Interpolatorul este necesar, deoarece maparea de la un spațiu la altul va necesita adesea evaluarea intensității imaginii în poziții fără grilă.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceasta lucrare face parte din National Alliance for Medical Image Computing (NAMIC), finantata de National Institutes of Health prin Foaia de parcurs NIH pentru cercetare medicala, Grant U54 EB005149. Informații despre Centrele Naționale de Calcul Biomedical pot fi obținute de la http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
         <source>Input/Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare/ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii intrare/ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"/>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de referință (pentru a seta parametrii de ieșire)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul de intrare pentru a fi reeșantionat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul reeșantionat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="15"/>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul de referință (spațiere, dimensiune, orientare, origine)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="16"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii transformării</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="17"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii utilizați pentru a transforma imaginea de intrare în imaginea de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="18"/>
         <source>Transform Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodul transformării</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="19"/>
         <source>Deformation Field Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul câmpului de deformare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="20"/>
         <source>Displacement or h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Displacement sau h-Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="21"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier care conține câmpul de deformare (imagine vectorială 3D care conține vectori cu 3 componente)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="22"/>
         <source>Set if the deformation field is an -Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Setați dacă câmpul de deformare este un -Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="23"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="25"/>
         <source>h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>h-Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="24"/>
         <source>displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>deplasare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="26"/>
         <source>Processing Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni procesare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="27"/>
         <source>Interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="28"/>
         <source>No Measurement Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără cadru de măsurare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="29"/>
         <source>Tensors Correction</source>
-        <translation type="unfinished"></translation>
+        <translation>Corecție Tensori</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="30"/>
         <source>Sampling algorithm (linear , nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritm de eșantionare (liniar, nn (cel mai apropiat vecin), ws (WindowedSinc), bs (BSpline))</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"/>
         <source>Do not use the measurement frame that is in the input image to transform the tensors. Uses the image orientation instead</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu utilizați cadrul de măsurare care se află în imaginea de intrare pentru a transforma tensorii. Folosește în schimb orientarea imaginii</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"/>
         <source>Correct the tensors if computed tensor is not semi-definite positive</source>
-        <translation type="unfinished"></translation>
+        <translation>Corectați tensorii dacă tensorul calculat nu este pozitiv semidefinit</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="33"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="35"/>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>liniar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="39"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation>zero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"/>
         <source>nn</source>
-        <translation type="unfinished"></translation>
+        <translation>nn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="37"/>
         <source>ws</source>
-        <translation type="unfinished"></translation>
+        <translation>ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="38"/>
         <source>bs</source>
-        <translation type="unfinished"></translation>
+        <translation>bs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"/>
@@ -6209,17 +6210,17 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="41"/>
         <source>abs</source>
-        <translation type="unfinished"></translation>
+        <translation>abs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="42"/>
         <source>nearest</source>
-        <translation type="unfinished"></translation>
+        <translation>nearest</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="43"/>
         <source>Tensor Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip transformare Tensor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
@@ -6227,150 +6228,151 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
 Preservation of the Principal Direction (PPD)</source>
         <oldsource>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Finite Strain (FS) sau 
+Preservation of the Principal Direction (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alege între 2 metode pentru a transforma tensorii: deformare finită (FS), mai rapidă, dar mai puțin precisă, sau conservarea direcției principale (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="47"/>
         <source>PPD</source>
-        <translation type="unfinished"></translation>
+        <translation>PPD</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="48"/>
         <source>FS</source>
-        <translation type="unfinished"></translation>
+        <translation>FS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="49"/>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii avansați transformare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="50"/>
         <source>Those parameters should normally not be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>În mod normal, acești parametri nu ar trebui modificați</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="51"/>
         <source>Transforms Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Orinea transformărilor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="52"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu este de tip Bulk Transform</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inconsistență în orientarea spațiului (între transformare și imagine)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați în ce ordine sunt citite transformările</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformarea care urmează transformării BSpline nu este setată ca o transformare în bloc pentru transformarea BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientarea spațiului dintre transformare și imagine este diferită (RAS/LPS) (atenție: dacă transformarea este un Nod de transformare în Slicer3, nu selectați)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="59"/>
         <source>output-to-input</source>
-        <translation type="unfinished"></translation>
+        <translation>ieșire-la-intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="58"/>
         <source>input-to-output</source>
-        <translation type="unfinished"></translation>
+        <translation>intrare-la-ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="60"/>
         <source>Advanced Rigid/Affine Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri avansati Rigid/Affini</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="61"/>
         <source>Rotation Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centru rotire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="62"/>
         <source>Centered Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformare centrată</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="63"/>
         <source>Image Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrare imagine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="64"/>
         <source>Inverse Transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformare inversă</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="65"/>
         <source>Center of rotation (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Centru de rotație (numai pentru transformări rigide și afine)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Setați centrul transformării în centrul imaginii de intrare (numai pentru transformări Rigid și Affin)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagine de utilizat pentru a centra transformarea (utilizată numai dacă este selectată „Transformare centrată”)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inversați transformarea înainte de a o aplica de la imaginea de ieșire la imaginea de intrare (numai pentru transformări Rigid și Affin)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
         <source>output</source>
-        <translation type="unfinished"></translation>
+        <translation>ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii manuali de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii imaginii de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Spațiere</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Mărime</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
@@ -6380,52 +6382,52 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>Matricea de direcție</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spațierea de-a lungul fiecărei dimensiuni (0 înseamnă utilizarea spațierii de intrare)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea de-a lungul fiecărei dimensiuni (0 înseamnă utilizarea mărimii de intrare)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Originea imaginii de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>9 parametri ai matricei de direcție pe rânduri (ijk la LPS dacă transformarea este LPS, ijk la RAS dacă transformarea este RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="82"/>
         <source>Advanced Resampling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri avansati de reeșantionare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="83"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii utilizați pentru reeșantionare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr de thread-uri</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
         <source>Default Pixel Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea implicită a pixelilor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="86"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de fire utilizate pentru a calcula imaginea de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="87"/>
@@ -9169,7 +9171,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="73"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentare</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="88"/>
@@ -9845,7 +9847,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="414"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Anulare</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="416"/>
@@ -12020,7 +12022,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
         <source>Enable DICOM listening server to receive images (C-Store SCP)</source>
-        <translation type="unfinished">Enable DICOM listening server to receive images (C-Store SCP)</translation>
+        <translation>Activați serverul de ascultare DICOM pentru a primi imagini (C-Store SCP)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
@@ -12462,27 +12464,27 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
         <source>Capture and name a scene view.</source>
-        <translation type="unfinished">Capture and name a scene view.</translation>
+        <translation>Capturați și denumiți o vedere de scenă.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="120"/>
         <source>Restore view</source>
-        <translation type="unfinished">Restore view</translation>
+        <translation>Restaurare vedere</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="122"/>
         <source>Restore or delete saved scene views.</source>
-        <translation type="unfinished">Restore or delete saved scene views.</translation>
+        <translation>Restaurați sau ștergeți vizualizările scenei salvate.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="177"/>
         <source>SceneView Name</source>
-        <translation type="unfinished">SceneView Name</translation>
+        <translation>Nume SceneView</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
         <source>SceneView Name:</source>
-        <translation type="unfinished">SceneView Name:</translation>
+        <translation>Nume SceneView:</translation>
     </message>
 </context>
 <context>
@@ -12500,27 +12502,27 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
         <source>When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</source>
-        <translation type="unfinished">When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</translation>
+        <translation>Când se utilizează mai mult de un plan de felie, această opțiune controlează dacă este uniunea sau intersecția spațiilor pozitive și/sau negative care este folosită pentru a decupa modelul. Părțile modelului din interiorul spațiului selectat sunt păstrate, părțile din afara selecției sunt tăiate.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="33"/>
         <source>Union</source>
-        <translation type="unfinished">Union</translation>
+        <translation>Uniune</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="43"/>
         <source>Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation type="unfinished">Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+        <translation>Utilizați uniunea spațiilor pozitive și/sau negative definite de planurile de felie pentru a decupa modelul.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="50"/>
         <source>Intersection</source>
-        <translation type="unfinished">Intersection</translation>
+        <translation>Intersectie</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="57"/>
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation type="unfinished">Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+        <translation>Utilizați intersecția spațiilor pozitive și/sau negative definite de planurile secțiunii pentru a decupa modelul.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="64"/>
@@ -12530,31 +12532,31 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="67"/>
         <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>Utilizați spațiul pozitiv sau negativ definit de planul Red slice pentru a decupa modelul. Partea pozitivă este către Superior, negativă este către Inferior. Păstrează partea modelului în spațiul selectat, decupează restul.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="77"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="121"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="165"/>
         <source>Positive</source>
-        <translation type="unfinished">Positive</translation>
+        <translation>Pozitiv</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="84"/>
         <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</translation>
+        <translation>Păstrați părțile modelului care se află în interiorul spațiului pozitiv, spre Superior (cap), definit de planul feliei roșii.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="94"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="138"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="182"/>
         <source>Negative</source>
-        <translation type="unfinished">Negative</translation>
+        <translation>Negativ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="101"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</translation>
+        <translation>Păstrați părțile modelului care se află în interiorul spațiului negativ, spre Inferior (picioare), definit de planul feliei roșii.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="108"/>
@@ -12564,17 +12566,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="111"/>
         <source>Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>Utilizați spațiul pozitiv sau negativ definit de planul de felie galben pentru a decupa modelul. Partea pozitivă este spre dreapta, negativă este spre stânga. Păstrează partea modelului în spațiul selectat, decupează restul.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="128"/>
         <source>Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</translation>
+        <translation>Păstrați părțile modelului care se află în interiorul spațiului pozitiv, spre dreapta, definite de planul Yellow Slice.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="145"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</translation>
+        <translation>Păstrați părțile modelului care se află în interiorul spațiului negativ, spre stânga, definite de planul de felie galben .</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="152"/>
@@ -12584,23 +12586,23 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="155"/>
         <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>Utilizați spațiul pozitiv sau negativ definit de planul Green slice pentru a decupa modelul. Partea pozitivă este spre anterioară, cea negativă este spre posterioară. Păstrează partea modelului în spațiul selectat, decupează restul.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="172"/>
         <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</translation>
+        <translation>Păstrați părțile modelului care se află în interiorul spațiului pozitiv, spre Anterior (față), definit de planul Green Slice.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="189"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</translation>
+        <translation>Păstrați părțile modelului care se află în interiorul spațiului negativ, spre Posterior (spate), definit de planul Green slice.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="199"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="202"/>
         <source>Keep only whole cells when clipping</source>
-        <translation type="unfinished">Keep only whole cells when clipping</translation>
+        <translation>Păstrați numai celule întregi atunci când faceți clipping</translation>
     </message>
 </context>
 <context>
@@ -12608,73 +12610,73 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="14"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>Legenda culori</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
         <source>Visibility:</source>
         <oldsource>Visible:</oldsource>
-        <translation type="unfinished">Visible:</translation>
+        <translation>Visibil:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="58"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>View:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="68"/>
         <source>Title:</source>
-        <translation type="unfinished">Title:</translation>
+        <translation>Titlu:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="85"/>
         <source>Label text:</source>
-        <translation type="unfinished">Label text:</translation>
+        <translation>Text etichetă:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="100"/>
         <source>Show numeric value as label text</source>
-        <translation type="unfinished">Show numeric value as label text</translation>
+        <translation>Afișați valoarea numerică ca text de etichetă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="103"/>
         <source>Value</source>
-        <translation type="unfinished">Value</translation>
+        <translation>Valoare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="116"/>
         <source>Show color name as label text</source>
-        <translation type="unfinished">Show color name as label text</translation>
+        <translation>Afișați numele culorii ca text de etichetă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="119"/>
         <source>Color name</source>
-        <translation type="unfinished">Color name</translation>
+        <translation>Nume culoare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="131"/>
         <source>Number of labels:</source>
-        <translation type="unfinished">Number of labels:</translation>
+        <translation>Numar de etichete:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
         <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-        <translation type="unfinished">Number of labels to display. Only applicable if values are used as label text (not color name).</translation>
+        <translation>Numărul de etichete de afișat. Se aplică numai dacă valorile sunt folosite ca text de etichetă (nu numelui culorii).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
         <source>Number of colors:</source>
-        <translation type="unfinished">Number of colors:</translation>
+        <translation>Numar de culori:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="158"/>
         <source>Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</source>
-        <translation type="unfinished">Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</translation>
+        <translation>Numărul maxim de culori afișate. Reduceți numărul pentru a vedea culori discrete în loc de un gradient de culoare continuu. Se aplică numai dacă valorile sunt folosite ca text de etichetă (nu numele culorii).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="174"/>
         <source>Orientation:</source>
-        <translation type="unfinished">Orientation:</translation>
+        <translation>Orientatare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="189"/>
@@ -12684,87 +12686,87 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="202"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Orizontal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="214"/>
         <source>Position:</source>
-        <translation type="unfinished">Position:</translation>
+        <translation>Pozitie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="223"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="233"/>
         <source>Horizontal position of the color legend</source>
-        <translation type="unfinished">Horizontal position of the color legend</translation>
+        <translation>Poziție orizontală a legendei culorii</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="226"/>
         <source>H:</source>
         <extracomment>abbreviation of &quot;horizontal&quot;</extracomment>
-        <translation type="unfinished">H:</translation>
+        <translation>H:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="252"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="262"/>
         <source>Vertical position of the color legend</source>
-        <translation type="unfinished">Vertical position of the color legend</translation>
+        <translation>Poziție verticală a legendei culorii</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="255"/>
         <source>V:</source>
         <extracomment>abbreviation of &quot;vertical&quot;</extracomment>
-        <translation type="unfinished">V:</translation>
+        <translation>V:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="283"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Mărime:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
         <source>Short side length of the color legend, relative to view size</source>
         <oldsource>Short side length of the color legend, as percentage of view size</oldsource>
-        <translation type="unfinished">Short side length of the color legend, as percentage of view size</translation>
+        <translation>Lungimea laterală scurtă a legendei culorii, ca procent din dimensiunea vizualizării</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
         <source>S:</source>
         <extracomment>abbreviation of &quot;short&quot;</extracomment>
-        <translation type="unfinished">S:</translation>
+        <translation>S:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
         <source>Long side length of the color legend, relative to view size</source>
         <oldsource>Long side length of the color legend, as percentage of view size</oldsource>
-        <translation type="unfinished">Long side length of the color legend, as percentage of view size</translation>
+        <translation>Lungimea laterală lungă a legendei culorii, ca procent din dimensiunea vizualizării</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="324"/>
         <source>L:</source>
         <extracomment>abbreviation of &quot;long&quot;</extracomment>
-        <translation type="unfinished">L:</translation>
+        <translation>L:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
         <source>Title properties</source>
-        <translation type="unfinished">Title properties</translation>
+        <translation>Proprietăți titlu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="371"/>
         <source>Label properties</source>
-        <translation type="unfinished">Label properties</translation>
+        <translation>Propertietăți etichetă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="380"/>
         <source>Format:</source>
-        <translation type="unfinished">Format:</translation>
+        <translation>Format:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="80"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;Câmpul Format utilizează sintaxa funcției printf. Exemple de formate:&lt;br&gt; - afișare cu 1 cifră fracționară: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt; - afișare întreg: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt; - afișare cu 4 cifre semnificative: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt; - adnotare etichetă șir: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -12782,12 +12784,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="77"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Opacitate</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="161"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>None</translation>
     </message>
 </context>
 <context>
@@ -12795,12 +12797,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="14"/>
         <source>Color Picker</source>
-        <translation type="unfinished">Color Picker</translation>
+        <translation>Color Picker</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="20"/>
         <source>Color node:</source>
-        <translation type="unfinished">Color node:</translation>
+        <translation>Nod culoare:</translation>
     </message>
 </context>
 <context>
@@ -12809,23 +12811,23 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="14"/>
         <source>Display Properties</source>
         <oldsource>Display Node</oldsource>
-        <translation type="unfinished">Display Node</translation>
+        <translation>Proprietăți de afișare</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Vizibilitate</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
         <source>&amp;Visibility:</source>
         <oldsource>&amp;Visible:</oldsource>
-        <translation type="unfinished">&amp;Visible:</translation>
+        <translation>&amp;Vizibilitate:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
         <source>&amp;Selected:</source>
-        <translation type="unfinished">&amp;Selected:</translation>
+        <translation>&amp;Selectat:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
@@ -12836,38 +12838,38 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
         <source>Slice &amp;Intersections Visibility:</source>
         <oldsource>Slice &amp;Intersections Visible:</oldsource>
-        <translation type="unfinished">Slice &amp;Intersections Visible:</translation>
+        <translation>Vizibilitate Slice &amp;Intersecțiii:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
         <source>Slice Intersections &amp;Thickness:</source>
-        <translation type="unfinished">Slice Intersections &amp;Thickness:</translation>
+        <translation>Slice Intersections &amp;Thickness:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="132"/>
         <source>Slice Intersections Opacity:</source>
-        <translation type="unfinished">Slice Intersections Opacity:</translation>
+        <translation>Opacitate Slice Intersections:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="161"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+        <translation>Selectați vizualizări în care să afișați acest nod. Toate emisiunile nebifate în toate vizualizările 3D și 2D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="168"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>View:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="175"/>
         <source>3D Visibility:</source>
         <oldsource>3D Visible:</oldsource>
-        <translation type="unfinished">3D Visible:</translation>
+        <translation>Vizibilitate 3D:</translation>
     </message>
 </context>
 <context>
@@ -12875,7 +12877,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLEventLoggerWidget.ui" line="14"/>
         <source>MRML Event logger</source>
-        <translation type="unfinished">MRML Event logger</translation>
+        <translation>MRML Event logger</translation>
     </message>
 </context>
 <context>
@@ -12892,42 +12894,42 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
         <source>Angle Settings</source>
-        <translation type="unfinished">Angle Settings</translation>
+        <translation>Setări unghi</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="50"/>
         <source>Measurement mode:</source>
-        <translation type="unfinished">Measurement mode:</translation>
+        <translation>Mod de măsurare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: minimal non-oriented angle, between [0..180)&lt;br/&gt;- Oriented signed: oriented angle [-180..180), using rotation axis in right-hand rule&lt;br/&gt;- Oriented positive: oriented angle [0..360), using rotation axis in right-hand rule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: minimal non-oriented angle, between [0..180)&lt;br/&gt;- Oriented signed: oriented angle [-180..180), using rotation axis in right-hand rule&lt;br/&gt;- Oriented positive: oriented angle [0..360), using rotation axis in right-hand rule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: unghi minim neorientat, între [0..180)&lt;br/&gt;- Orientat cu semn: unghi orientat [-180..180), folosind axa de rotație în rigula din dreapta&lt;br/&gt;- Orientat pozitiv: unghi orientat [0..360), folosind axa de rotație în rigula din dreapta&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="61"/>
         <source>Minimal</source>
-        <translation type="unfinished">Minimal</translation>
+        <translation>Minimal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="66"/>
         <source>Oriented signed</source>
-        <translation type="unfinished">Oriented signed</translation>
+        <translation>Oriented signed</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="71"/>
         <source>Oriented positive</source>
-        <translation type="unfinished">Oriented positive</translation>
+        <translation>Oriented positive</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="79"/>
         <source>Rotation axis:</source>
-        <translation type="unfinished">Rotation axis:</translation>
+        <translation>Axă rotație:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="86"/>
         <source>Rotation axis direction in RAS coordinate system. Used for defining direction in oriented angle modes using right hand rule.</source>
-        <translation type="unfinished">Rotation axis direction in RAS coordinate system. Used for defining direction in oriented angle modes using right hand rule.</translation>
+        <translation>Direcția axei de rotație în sistemul de coordonate RAS. Folosit pentru definirea direcției în modurile de unghi orientat folosind regula mâinii drepte.</translation>
     </message>
 </context>
 <context>
@@ -12940,83 +12942,83 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
         <source>Curve Settings</source>
-        <translation type="unfinished">Curve Settings</translation>
+        <translation>Setări curbe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="58"/>
         <source>Curve Type:</source>
-        <translation type="unfinished">Curve Type:</translation>
+        <translation>Tip curbă:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="68"/>
         <source>Constrain to Model:</source>
-        <translation type="unfinished">Constrain to Model:</translation>
+        <translation>Constrânge la model:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="89"/>
         <source>Surface</source>
-        <translation type="unfinished">Surface</translation>
+        <translation>Suprafaţă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="98"/>
         <source>Cost function:</source>
-        <translation type="unfinished">Cost function:</translation>
+        <translation>Funcție cost:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="105"/>
         <source>Distance weighting function:</source>
-        <translation type="unfinished">Distance weighting function:</translation>
+        <translation>Funcția de ponderare a distanței:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="142"/>
         <source>distance / (</source>
-        <translation type="unfinished">distance / (</translation>
+        <translation>distanța / (</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="164"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Function used to calculate scalar weights for pathfinding. The currently active point scalar can be accessed using the &amp;quot;activeScalar&amp;quot; variable name. All other scalars can be accessed as variables provided that they don&apos;t contain any illegal characters (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Example functions: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Function used to calculate scalar weights for pathfinding. The currently active point scalar can be accessed using the &amp;quot;activeScalar&amp;quot; variable name. All other scalars can be accessed as variables provided that they don&apos;t contain any illegal characters (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Example functions: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Funcție utilizată pentru a calcula greutățile scalare pentru identificarea căii. Punctul scalar activ în prezent poate fi accesat utilizând „activeScalar”; numele variabilei. Toți ceilalți scalari pot fi accesați ca variabile, cu condiția să nu conțină caractere ilegale (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Exemple de funcții: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar&amp;quot; )&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="167"/>
         <source>activeScalar</source>
-        <translation type="unfinished">activeScalar</translation>
+        <translation>activeScalar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="180"/>
         <source>)^2</source>
-        <translation type="unfinished">)^2</translation>
+        <translation>)^2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="196"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="211"/>
         <source>Maximum projection distance:</source>
-        <translation type="unfinished">Maximum projection distance:</translation>
+        <translation>Distanța maximă de proiecție:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="218"/>
         <source>Select the maximum projection distance as percentage of bounding box size.</source>
-        <translation type="unfinished">Select the maximum projection distance as percentage of bounding box size.</translation>
+        <translation>Selectați distanța maximă de proiecție ca procent din dimensiunea casetei de delimitare.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="233"/>
         <source> %</source>
-        <translation type="unfinished"> %</translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="249"/>
         <source>Resample a curve with the number of points specified.</source>
         <oldsource>Resample a curve and optionally constrain the points to a node</oldsource>
-        <translation type="unfinished">Resample a curve and optionally constrain the points to a node</translation>
+        <translation>Reeșantionați o curbă cu numărul de puncte specificat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="252"/>
         <source>Resample</source>
-        <translation type="unfinished">Resample</translation>
+        <translation>Reeșantionare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="333"/>
@@ -13026,42 +13028,42 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="261"/>
         <source>Output node: </source>
-        <translation type="unfinished">Output node: </translation>
+        <translation>Nod de ieșire: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="268"/>
         <source>Select the number of points on the resampled curve. </source>
-        <translation type="unfinished">Select the number of points on the resampled curve. </translation>
+        <translation>Selectați numărul de puncte de pe curba reeșantionată. </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="271"/>
         <source>Number of resampled points: </source>
-        <translation type="unfinished">Number of resampled points: </translation>
+        <translation>Numărul de puncte reeșantionate: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="281"/>
         <source>The active curve will be resamples with the number of points specified.</source>
-        <translation type="unfinished">The active curve will be resamples with the number of points specified.</translation>
+        <translation>Curba activă va fi reeșantionată cu numărul de puncte specificat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="303"/>
         <source>Select a node to store the resampled curve </source>
-        <translation type="unfinished">Select a node to store the resampled curve </translation>
+        <translation>Selectați un nod pentru a stoca curba reeșantionată </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="326"/>
         <source>(Overwrite current node)</source>
-        <translation type="unfinished">(Overwrite current node)</translation>
+        <translation>(Suprascrieți nodul curent)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="336"/>
         <source>Resample curve</source>
-        <translation type="unfinished">Resample curve</translation>
+        <translation>Curba de reeșantionare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="125"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Liniar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="129"/>
@@ -13121,12 +13123,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="14"/>
         <source>Markups Display Properties</source>
         <oldsource>Markups Display Node</oldsource>
-        <translation type="unfinished">Markups Display Node</translation>
+        <translation>Proprietăți de afișare a marcajelor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="34"/>
         <source>Overall visibility of the selected node in all views</source>
-        <translation type="unfinished">Overall visibility of the selected node in all views</translation>
+        <translation>Vizibilitatea generală a nodului selectat în toate vizualizările</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="44"/>
@@ -13134,190 +13136,190 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="424"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="491"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacitate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="63"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Vizibilitate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
         <source>If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</source>
-        <translation type="unfinished">If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</translation>
+        <translation>Dacă butonul este apăsat, atunci dimensiunea glifului punctului de control este specificată în unitatea de lungime fizică, altfel ca procent din dimensiunea ferestrei</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="75"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="354"/>
         <source>absolute</source>
-        <translation type="unfinished">absolute</translation>
+        <translation>absolut</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="91"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="376"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="566"/>
         <source> %</source>
-        <translation type="unfinished"> %</translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="116"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Advansat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="137"/>
         <source>Text Display</source>
-        <translation type="unfinished">Text Display</translation>
+        <translation>Afișare text</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="148"/>
         <source>Bold</source>
-        <translation type="unfinished">Bold</translation>
+        <translation>Bold</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="155"/>
         <source>Italic</source>
-        <translation type="unfinished">Italic</translation>
+        <translation>Italic</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="162"/>
         <source>Shadow</source>
-        <translation type="unfinished">Shadow</translation>
+        <translation>Shadow</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="177"/>
         <source>Font:</source>
-        <translation type="unfinished">Font:</translation>
+        <translation>Font:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="193"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Opacitate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="215"/>
         <source>Background:</source>
-        <translation type="unfinished">Background:</translation>
+        <translation>Background:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="228"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+        <translation>Selectați vizualizări în care să afișați acest nod. Toate emisiunile nebifate în toate vizualizările 3D și 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="235"/>
         <source>Active Color:</source>
-        <translation type="unfinished">Active Color:</translation>
+        <translation>Culoare activă:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="242"/>
         <source>2D Display</source>
-        <translation type="unfinished">2D Display</translation>
+        <translation>Afișare 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="266"/>
         <source>Fill:</source>
-        <translation type="unfinished">Fill:</translation>
+        <translation>Fill:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
         <source>Glyph Type:</source>
-        <translation type="unfinished">Glyph Type:</translation>
+        <translation>Tip Glyph:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>View:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
         <source>Unselected Color:</source>
-        <translation type="unfinished">Unselected Color:</translation>
+        <translation>Culoare neselectată:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="325"/>
         <source>Outline:</source>
-        <translation type="unfinished">Outline:</translation>
+        <translation>Contur:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="332"/>
         <source>Show control point labels</source>
-        <translation type="unfinished">Show control point labels</translation>
+        <translation>Afișați etichetele punctelor de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="351"/>
         <source>If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</source>
-        <translation type="unfinished">If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</translation>
+        <translation>Dacă butonul este apăsat, grosimea liniei este specificată în unitatea de lungime fizică, altfel ca procent din dimensiunea glifului</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="401"/>
         <source>Line Thickness:</source>
-        <translation type="unfinished">Line Thickness:</translation>
+        <translation>Grosimea liniei:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="408"/>
         <source>Selected Color:</source>
-        <translation type="unfinished">Selected Color:</translation>
+        <translation>Culoare selectată:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="446"/>
         <source>Control Point Labels:</source>
-        <translation type="unfinished">Control Point Labels:</translation>
+        <translation>Etichete puncte de control:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="460"/>
         <source>3D Display</source>
-        <translation type="unfinished">3D Display</translation>
+        <translation>Afișare 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="475"/>
         <source>Occluded Visibility:</source>
-        <translation type="unfinished">Occluded Visibility:</translation>
+        <translation>Vizibilitate oclusă:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="513"/>
         <source>Placement mode:</source>
-        <translation type="unfinished">Placement mode:</translation>
+        <translation>Mod de plasare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="526"/>
         <source>Properties Label:</source>
-        <translation type="unfinished">Properties Label:</translation>
+        <translation>Etichetă proprietăți:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="540"/>
         <source>Show node name and measurements</source>
-        <translation type="unfinished">Show node name and measurements</translation>
+        <translation>Afișați numele nodului și măsurătorile</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="553"/>
         <source>Glyph Size:</source>
-        <translation type="unfinished">Glyph Size:</translation>
+        <translation>Mărime Glyph:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="573"/>
         <source>Text Size:</source>
-        <translation type="unfinished">Text Size:</translation>
+        <translation>Mărime text:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="580"/>
         <source>Scalars</source>
-        <translation type="unfinished">Scalars</translation>
+        <translation>Scalari</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="595"/>
         <source>Interaction handles</source>
-        <translation type="unfinished">Interaction handles</translation>
+        <translation>Interaction handles</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="117"/>
         <source>unconstrained</source>
-        <translation type="unfinished">unconstrained</translation>
+        <translation>neconstrâns</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="118"/>
         <source>snap to visible surface</source>
-        <translation type="unfinished">snap to visible surface</translation>
+        <translation>fixat pe suprafața vizibilă</translation>
     </message>
 </context>
 <context>
@@ -13325,65 +13327,65 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="20"/>
         <source>qMRMLMarkupsFiducialProjectionPropertyWidget</source>
-        <translation type="unfinished">qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
+        <translation>qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="41"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="135"/>
         <source>If enabled then all control points will be displayed in 2D viewers, by projecting them to the slice plane.</source>
-        <translation type="unfinished">If enabled then all control points will be displayed in 2D viewers, by projecting them to the slice plane.</translation>
+        <translation>Dacă este activat, atunci toate punctele de control vor fi afișate în vizualizatoare 2D, proiectându-le în planul secțiunii.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="44"/>
         <source>Projection Visibility:</source>
-        <translation type="unfinished">Projection Visibility:</translation>
+        <translation>Vizibilitate proiecție:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="51"/>
         <source>Color of the projected control points on 2D viewers</source>
-        <translation type="unfinished">Color of the projected control points on 2D viewers</translation>
+        <translation>Culoarea punctelor de control proiectate pe vizualizatoarele 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="54"/>
         <source>Projection Color:</source>
-        <translation type="unfinished">Projection Color:</translation>
+        <translation>Culoarea proiecției:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="67"/>
         <source>Color of the projected control points on 2D viewers. Only used if &quot;Use Markup Color&quot; is not checked, otherwise the projection uses the selected or unselected markup color.</source>
-        <translation type="unfinished">Color of the projected control points on 2D viewers. Only used if &quot;Use Markup Color&quot; is not checked, otherwise the projection uses the selected or unselected markup color.</translation>
+        <translation>Culoarea punctelor de control proiectate pe vizualizatoarele 2D. Se utilizează numai dacă „Utilizați culoarea de marcare” nu este bifată, în caz contrar proiecția folosește culoarea de marcare selectată sau neselectată.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="87"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="97"/>
         <source>Projected control points are displayed filled (opacity = Projection Opacity) when above the slice plane, outlined when behind, and with full opacity when in the plane. Outline isn&apos;t used for some glyphs (Dash2D, Cross2D, Starburst).</source>
-        <translation type="unfinished">Projected control points are displayed filled (opacity = Projection Opacity) when above the slice plane, outlined when behind, and with full opacity when in the plane. Outline isn&apos;t used for some glyphs (Dash2D, Cross2D, Starburst).</translation>
+        <translation>Punctele de control proiectate sunt afișate umplute (opacitate = Opacitate de proiecție) atunci când sunt deasupra planului secțiunii, sunt conturate când sunt în spate și cu opacitate completă când se află în plan. Contur nu este folosit pentru unele glife (Dash2D, Cross2D, Starburst).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="90"/>
         <source>Outlined Behind Slice Plane:</source>
-        <translation type="unfinished">Outlined Behind Slice Plane:</translation>
+        <translation>Conturat în spatele planului feliei:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="110"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="120"/>
         <source>Use the same color as the markup</source>
-        <translation type="unfinished">Use the same color as the markup</translation>
+        <translation>Utilizați aceeași culoare ca și marcajul</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="113"/>
         <source>Use Markup Color:</source>
-        <translation type="unfinished">Use Markup Color:</translation>
+        <translation>Folosire culoare de marcare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="148"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacitate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="155"/>
         <source>The opacity of the projection.</source>
-        <translation type="unfinished">The opacity of the projection.</translation>
+        <translation>Opacitatea proiecției.</translation>
     </message>
 </context>
 <context>
@@ -13405,32 +13407,32 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="57"/>
         <source>Y</source>
-        <translation type="unfinished">Y</translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="101"/>
         <source>X</source>
-        <translation type="unfinished">X</translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="117"/>
         <source>Z</source>
-        <translation type="unfinished">Z</translation>
+        <translation>Z</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="140"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Mărime:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="153"/>
         <source>More options...</source>
-        <translation type="unfinished">More options...</translation>
+        <translation>Mai multe opțiuni...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="209"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Vizibilitate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="242"/>
@@ -13450,7 +13452,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="189"/>
         <source> %</source>
-        <translation type="unfinished"> %</translation>
+        <translation> %</translation>
     </message>
 </context>
 <context>
@@ -13467,67 +13469,67 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="32"/>
         <source>Plane settings</source>
-        <translation type="unfinished">Plane settings</translation>
+        <translation>Setări plan</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="52"/>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Tip</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="62"/>
         <source>Size mode:</source>
-        <translation type="unfinished">Size mode:</translation>
+        <translation>Mod Size:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="72"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Dimensiune:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="87"/>
         <source>X:</source>
-        <translation type="unfinished">X:</translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="107"/>
         <source>Y:</source>
-        <translation type="unfinished">Y:</translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="123"/>
         <source>Bounds:</source>
-        <translation type="unfinished">Bounds:</translation>
+        <translation>Limite:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="138"/>
         <source>X max:</source>
-        <translation type="unfinished">X max:</translation>
+        <translation>X max:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="171"/>
         <source>X min:</source>
-        <translation type="unfinished">X min:</translation>
+        <translation>X min:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="184"/>
         <source>Y min:</source>
-        <translation type="unfinished">Y min:</translation>
+        <translation>Y min:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="217"/>
         <source>Y max:</source>
-        <translation type="unfinished">Y max:</translation>
+        <translation>Y max:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="226"/>
         <source>Normal:</source>
-        <translation type="unfinished">Normal:</translation>
+        <translation>Normal:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="242"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacitate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsPlaneWidget.cxx" line="108"/>
@@ -13555,42 +13557,42 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
         <source>ROI Settings</source>
-        <translation type="unfinished">ROI Settings</translation>
+        <translation>Setări ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="49"/>
         <source>ROI type:</source>
-        <translation type="unfinished">ROI type:</translation>
+        <translation>Tip ROI:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="59"/>
         <source>Inside out:</source>
-        <translation type="unfinished">Inside out:</translation>
+        <translation>Inside out:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="77"/>
         <source>L-R Range:</source>
-        <translation type="unfinished">L-R Range:</translation>
+        <translation>L-R Range:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="720"/>
         <source>P-A Range:</source>
-        <translation type="unfinished">P-A Range:</translation>
+        <translation>P-A Range:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1996"/>
         <source>I-S Range:</source>
-        <translation type="unfinished">I-S Range:</translation>
+        <translation>I-S Range:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2038"/>
         <source>Display ROI</source>
-        <translation type="unfinished">Display ROI</translation>
+        <translation>Afișare ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2061"/>
         <source>Interactive Mode</source>
-        <translation type="unfinished">Interactive Mode</translation>
+        <translation>Mod interactiv</translation>
     </message>
 </context>
 <context>
@@ -13619,12 +13621,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="32"/>
         <source>Test Line Settings</source>
-        <translation type="unfinished">Test Line Settings</translation>
+        <translation>Setări linie de test</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="50"/>
         <source>This is a test label in a test widget!</source>
-        <translation type="unfinished">This is a test label in a test widget!</translation>
+        <translation>Aceasta este o etichetă de testare într-un widget de testare!</translation>
     </message>
 </context>
 <context>
@@ -13655,52 +13657,52 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="14"/>
         <source>Model Display Properties</source>
         <oldsource>Model Display Node</oldsource>
-        <translation type="unfinished">Model Display Node</translation>
+        <translation>Proprietăți Model Display Node</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="32"/>
         <source>3D Display</source>
-        <translation type="unfinished">3D Display</translation>
+        <translation>Afișare 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="44"/>
         <source>Representation:</source>
-        <translation type="unfinished">Representation:</translation>
+        <translation>Reprezentare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="52"/>
         <source>Points</source>
-        <translation type="unfinished">Points</translation>
+        <translation>Puncte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="57"/>
         <source>Wireframe</source>
-        <translation type="unfinished">Wireframe</translation>
+        <translation>Wireframe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="62"/>
         <source>Surface</source>
-        <translation type="unfinished">Surface</translation>
+        <translation>Suprafață</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="67"/>
         <source>Surface with Edges</source>
-        <translation type="unfinished">Surface with Edges</translation>
+        <translation>Suprafață cu margini</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="75"/>
         <source>Visible Sides:</source>
-        <translation type="unfinished">Visible Sides:</translation>
+        <translation>Laturile vizibile:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="82"/>
         <source>All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</source>
-        <translation type="unfinished">All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</translation>
+        <translation>Toate: recomandat pentru suprafață deschisă. Față: recomandat pentru redarea mai rapidă a suprafețelor opace închise. Spate: util pentru redarea feței din spate a suprafețelor deschise cu culori diferite.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="86"/>
         <source>All</source>
-        <translation type="unfinished">All</translation>
+        <translation>Toate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="91"/>
@@ -13725,58 +13727,58 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="129"/>
         <source>Configure clipping planes</source>
-        <translation type="unfinished">Configure clipping planes</translation>
+        <translation>Configurare planuri clipping</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="132"/>
         <source>Configure...</source>
-        <translation type="unfinished">Configure...</translation>
+        <translation>Configurare...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="154"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="166"/>
         <source>Point Size:</source>
-        <translation type="unfinished">Point Size:</translation>
+        <translation>Dimensiune punct:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="186"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="435"/>
         <source>Line Width:</source>
-        <translation type="unfinished">Line Width:</translation>
+        <translation>Lățime linie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="206"/>
         <source>Edge Color:</source>
-        <translation type="unfinished">Edge Color:</translation>
+        <translation>Culoare margine:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="216"/>
         <source>Lighting:</source>
-        <translation type="unfinished">Lighting:</translation>
+        <translation>Iluminare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="230"/>
         <source>Interpolation:</source>
-        <translation type="unfinished">Interpolation:</translation>
+        <translation>Interpolare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="238"/>
         <source>Flat</source>
-        <translation type="unfinished">Flat</translation>
+        <translation>Flat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="243"/>
         <source>Gouraud</source>
-        <translation type="unfinished">Gouraud</translation>
+        <translation>Gouraud</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="248"/>
         <source>Phong</source>
-        <translation type="unfinished">Phong</translation>
+        <translation>Phong</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="253"/>
@@ -13786,65 +13788,65 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="274"/>
         <source>Backface color hue, saturation, and brightess offset to frontface color</source>
-        <translation type="unfinished">Backface color hue, saturation, and brightess offset to frontface color</translation>
+        <translation>Nuanța, saturația și luminozitatea feței din spate sunt compensate cu culoarea față</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="277"/>
         <source>Backface Color Offset:</source>
-        <translation type="unfinished">Backface Color Offset:</translation>
+        <translation>Offset culoarea feței din spate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="286"/>
         <source>Color hue offset</source>
-        <translation type="unfinished">Color hue offset</translation>
+        <translation>Compensarea nuanței de culoare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="305"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="324"/>
         <source>Color saturation offset</source>
-        <translation type="unfinished">Color saturation offset</translation>
+        <translation>Compensarea saturației culorii</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="351"/>
         <source>Slice Display</source>
-        <translation type="unfinished">Slice Display</translation>
+        <translation>Afișare felie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="360"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="558"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Visibilitate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="374"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="536"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacitate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="406"/>
         <source>Mode:</source>
-        <translation type="unfinished">Mode:</translation>
+        <translation>Mod:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="413"/>
         <source>Intersection: shows intersection of the model with the slice. Projection: shows the full model projected on the slice plane with solid color. Colored projection: shows the full model projected on the slice plane, colored by distance from the slice plane (overrides Active scalar selection).</source>
-        <translation type="unfinished">Intersection: shows intersection of the model with the slice. Projection: shows the full model projected on the slice plane with solid color. Colored projection: shows the full model projected on the slice plane, colored by distance from the slice plane (overrides Active scalar selection).</translation>
+        <translation>Intersecție: arată intersecția modelului cu felia. Proiecție: arată modelul complet proiectat pe planul feliei cu culoare solidă. Proiecție colorată: arată modelul complet proiectat pe planul secțiunii, colorat în funcție de distanța față de planul secțiunii (supracrie selecția scalară activă).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="417"/>
         <source>Intersection</source>
-        <translation type="unfinished">Intersection</translation>
+        <translation>Intersecție</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="422"/>
         <source>Projection</source>
-        <translation type="unfinished">Projection</translation>
+        <translation>Proiecție</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="427"/>
         <source>Distance encoded projection</source>
-        <translation type="unfinished">Distance encoded projection</translation>
+        <translation>Proiecție codificată la distanță</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="442"/>
@@ -13854,37 +13856,37 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="458"/>
         <source>Color Table:</source>
-        <translation type="unfinished">Color Table:</translation>
+        <translation>Tabelă culoare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="465"/>
         <source>Color table that maps distance from slice plane to colors. Used when &apos;Distance encoded projection&apos; mode is chosen.</source>
-        <translation type="unfinished">Color table that maps distance from slice plane to colors. Used when &apos;Distance encoded projection&apos; mode is chosen.</translation>
+        <translation>Tabel de culoare care mapează distanța de la planul feliei la culori. Folosit când se alege modul „Proiecție codificată la distanță”.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="475"/>
         <source>Scalars</source>
-        <translation type="unfinished">Scalars</translation>
+        <translation>Scalari</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="493"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Vizibilitate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="499"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+        <translation>Selectați vizualizări în care să afișați acest nod. Toate emisiunile nebifate în toate vizualizările 3D și 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="506"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>View:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="520"/>
         <source>Color:</source>
-        <translation type="unfinished">Color:</translation>
+        <translation>Culoare:</translation>
     </message>
 </context>
 <context>
@@ -13892,52 +13894,52 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="14"/>
         <source>Model Information</source>
-        <translation type="unfinished">Model Information</translation>
+        <translation>Informații model</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="23"/>
         <source>Mesh Type:</source>
-        <translation type="unfinished">Mesh Type:</translation>
+        <translation>Tip Mesh:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="37"/>
         <source>Surface Area:</source>
-        <translation type="unfinished">Surface Area:</translation>
+        <translation>Surface Area:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="47"/>
         <source>mm^2</source>
-        <translation type="unfinished">mm^2</translation>
+        <translation>mm^2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="57"/>
         <source>Volume:</source>
-        <translation type="unfinished">Volume:</translation>
+        <translation>Volum:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="67"/>
         <source>mm^3</source>
-        <translation type="unfinished">mm^3</translation>
+        <translation>mm^3</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="77"/>
         <source>Number of Points:</source>
-        <translation type="unfinished">Number of Points:</translation>
+        <translation>Număr de puncte:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="94"/>
         <source>Number of Points Scalars:</source>
-        <translation type="unfinished">Number of Points Scalars:</translation>
+        <translation>Numărul de puncte scalare:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="111"/>
         <source>Number of Cells Scalars:</source>
-        <translation type="unfinished">Number of Cells Scalars:</translation>
+        <translation>Numărul de celule scalare:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="128"/>
         <source>Filename:</source>
-        <translation type="unfinished">Filename:</translation>
+        <translation>Nume fișier:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="185"/>
@@ -13946,37 +13948,37 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="229"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="260"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="195"/>
         <source>Verts</source>
-        <translation type="unfinished">Verts</translation>
+        <translation>Verts</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="212"/>
         <source>Lines</source>
-        <translation type="unfinished">Lines</translation>
+        <translation>Linii</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="239"/>
         <source>Polys</source>
-        <translation type="unfinished">Polys</translation>
+        <translation>Polys</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="246"/>
         <source>Strips</source>
-        <translation type="unfinished">Strips</translation>
+        <translation>Strips</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="253"/>
         <source>Max cell size</source>
-        <translation type="unfinished">Max cell size</translation>
+        <translation>Dimensiune maximă celulă</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="275"/>
         <source>Number of Cells:</source>
-        <translation type="unfinished">Number of Cells:</translation>
+        <translation>Număr de celule:</translation>
     </message>
 </context>
 <context>
@@ -13984,7 +13986,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="26"/>
         <source>qMRMLNodeAttributeTableView</source>
-        <translation type="unfinished">qMRMLNodeAttributeTableView</translation>
+        <translation>qMRMLNodeAttributeTableView</translation>
     </message>
     <message>
         <source>No node selected</source>
@@ -13993,12 +13995,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="69"/>
         <source>Attribute Name</source>
-        <translation type="unfinished">Attribute Name</translation>
+        <translation>Nume atribut</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="74"/>
         <source>Attribute Value</source>
-        <translation type="unfinished">Attribute Value</translation>
+        <translation>Valoare atribut</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
@@ -14021,7 +14023,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="196"/>
         <source>There is already an attribute with the same name</source>
-        <translation type="unfinished">There is already an attribute with the same name</translation>
+        <translation>Există deja un atribut cu același nume</translation>
     </message>
 </context>
 <context>
@@ -14029,7 +14031,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="14"/>
         <source>qMRMLNodeAttributeTableWidget</source>
-        <translation type="unfinished">qMRMLNodeAttributeTableWidget</translation>
+        <translation>qMRMLNodeAttributeTableWidget</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="35"/>
@@ -14039,22 +14041,22 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="74"/>
         <source>Add blank row to the table. The attribute is added to the MRML node when the name and value is set</source>
-        <translation type="unfinished">Add blank row to the table. The attribute is added to the MRML node when the name and value is set</translation>
+        <translation>Adăugă un rând gol la tabel. Atributul este adăugat la nodul MRML atunci când numele și valoarea sunt setate</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="77"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Adaugă</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="103"/>
         <source>Remove selected attribute(s)</source>
-        <translation type="unfinished">Remove selected attribute(s)</translation>
+        <translation>Eliminați atributele selectate</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="106"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Înlătură</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="118"/>
@@ -14075,12 +14077,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="71"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>None</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="251"/>
         <source>Select a </source>
-        <translation type="unfinished">Select a </translation>
+        <translation>Select a </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="309"/>
@@ -14142,7 +14144,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
         <source>Plot data series:</source>
-        <translation type="unfinished">Plot data series:</translation>
+        <translation>Plot data series:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
@@ -14152,119 +14154,119 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="72"/>
         <source>Chart title:</source>
-        <translation type="unfinished">Chart title:</translation>
+        <translation>Titlu grafic:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="79"/>
         <source>Enter a title for the chart.</source>
-        <translation type="unfinished">Enter a title for the chart.</translation>
+        <translation>Introduce un titlu pentru grafic.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="95"/>
         <source>X axis title:</source>
-        <translation type="unfinished">X axis title:</translation>
+        <translation>Titlu axa X:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="102"/>
         <source>Enter a label for the X-axis.</source>
-        <translation type="unfinished">Enter a label for the X-axis.</translation>
+        <translation>Introduceți o etichetă pentru axa X.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="112"/>
         <source>X axis range:</source>
-        <translation type="unfinished">X axis range:</translation>
+        <translation>Domeniul de valori pentru axa X:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="121"/>
         <source>Enable manual setting of X axis range for all views of this chart</source>
-        <translation type="unfinished">Enable manual setting of X axis range for all views of this chart</translation>
+        <translation>Activați setarea manuală a intervalului axei X pentru toate vizualizările acestei diagrame</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="171"/>
         <source>Y axis range:</source>
-        <translation type="unfinished">Y axis range:</translation>
+        <translation>Domeniul de valori pentru axa Y:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="180"/>
         <source>Enable manual setting of Y axis range for all views of this chart</source>
-        <translation type="unfinished">Enable manual setting of Y axis range for all views of this chart</translation>
+        <translation>Activați setarea manuală a intervalului axei Y pentru toate vizualizările acestei diagrame</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="230"/>
         <source>Y axis title:</source>
-        <translation type="unfinished">Y axis title:</translation>
+        <translation>Titlul axei Y:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="237"/>
         <source>Enter a label for the Y-axis.</source>
-        <translation type="unfinished">Enter a label for the Y-axis.</translation>
+        <translation>Introduceți o etichetă pentru axa Y.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="248"/>
         <source>Arial</source>
-        <translation type="unfinished">Arial</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="253"/>
         <source>Times</source>
-        <translation type="unfinished">Times</translation>
+        <translation>Times</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="258"/>
         <source>Courier</source>
-        <translation type="unfinished">Courier</translation>
+        <translation>Courier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="266"/>
         <source>Font Type:</source>
-        <translation type="unfinished">Font Type:</translation>
+        <translation>Tip font:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="273"/>
         <source>Chart title font size:</source>
-        <translation type="unfinished">Chart title font size:</translation>
+        <translation>Dimensiunea fontului titlului graficului:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="287"/>
         <source>Axis title font size:</source>
-        <translation type="unfinished">Axis title font size:</translation>
+        <translation>Dimensiunea fontului titlului axelor:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="301"/>
         <source>Axis label font size:</source>
-        <translation type="unfinished">Axis label font size:</translation>
+        <translation>Dimensiunea fontului etichetelor axelor:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="315"/>
         <source>Legend visibility:</source>
         <oldsource>Legend visible:</oldsource>
-        <translation type="unfinished">Legend visible:</translation>
+        <translation>Vizibilitate legendei:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="329"/>
         <source>Grid visibility:</source>
         <oldsource>Grid visible:</oldsource>
-        <translation type="unfinished">Grid visible:</translation>
+        <translation>Vizibilitate grilă:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="336"/>
         <source>Legend font size:</source>
-        <translation type="unfinished">Legend font size:</translation>
+        <translation>Dimensiunea fontului legendei:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="350"/>
         <source>Logarithmic scale:</source>
-        <translation type="unfinished">Logarithmic scale:</translation>
+        <translation>Scala logaritmică:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="359"/>
         <source>X axis</source>
-        <translation type="unfinished">X axis</translation>
+        <translation>Axa X</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="366"/>
         <source>Y axis</source>
-        <translation type="unfinished">Y axis</translation>
+        <translation>Axa Y</translation>
     </message>
 </context>
 <context>
@@ -14281,133 +14283,133 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
         <source>Input Table:</source>
-        <translation type="unfinished">Input Table:</translation>
+        <translation>Tabel de intrare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="75"/>
         <source>Plot Type:</source>
-        <translation type="unfinished">Plot Type:</translation>
+        <translation>Tip plot:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="86"/>
         <source>line</source>
-        <translation type="unfinished">line</translation>
+        <translation>linie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="91"/>
         <source>bar</source>
-        <translation type="unfinished">bar</translation>
+        <translation>bare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="96"/>
         <source>scatter</source>
-        <translation type="unfinished">scatter</translation>
+        <translation>dispersie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="101"/>
         <source>scatter bar</source>
-        <translation type="unfinished">scatter bar</translation>
+        <translation>bară dispersie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="109"/>
         <source>X Axis Column:</source>
-        <translation type="unfinished">X Axis Column:</translation>
+        <translation>Coloana axei X:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="123"/>
         <source>Y Axis Column:</source>
-        <translation type="unfinished">Y Axis Column:</translation>
+        <translation>Coloana axei Y:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="137"/>
         <source>This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</source>
-        <translation type="unfinished">This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</translation>
+        <translation>Această coloană conține o etichetă pentru fiecare punct de date. Eticheta este afișată în sfatul cu instrumente atunci când mouse-ul trece peste un punct de date din vizualizarea grafică.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="151"/>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="195"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>none</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="156"/>
         <source>cross</source>
-        <translation type="unfinished">cross</translation>
+        <translation>cross</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="161"/>
         <source>plus</source>
-        <translation type="unfinished">plus</translation>
+        <translation>plus</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="166"/>
         <source>square</source>
-        <translation type="unfinished">square</translation>
+        <translation>square</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="171"/>
         <source>circle</source>
-        <translation type="unfinished">circle</translation>
+        <translation>circle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="176"/>
         <source>diamond</source>
-        <translation type="unfinished">diamond</translation>
+        <translation>diamond</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="200"/>
         <source>solid</source>
-        <translation type="unfinished">solid</translation>
+        <translation>solid</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="205"/>
         <source>dash</source>
-        <translation type="unfinished">dash</translation>
+        <translation>dash</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="210"/>
         <source>dot</source>
-        <translation type="unfinished">dot</translation>
+        <translation>dot</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="215"/>
         <source>dash-dot</source>
-        <translation type="unfinished">dash-dot</translation>
+        <translation>dash-dot</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="220"/>
         <source>dash-dot-dot</source>
-        <translation type="unfinished">dash-dot-dot</translation>
+        <translation>dash-dot-dot</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="258"/>
         <source>Labels Column:</source>
-        <translation type="unfinished">Labels Column:</translation>
+        <translation>Coloana Etichete:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="265"/>
         <source>Markers Style:</source>
-        <translation type="unfinished">Markers Style:</translation>
+        <translation>Stilul markerilor:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="272"/>
         <source>Markers Size:</source>
-        <translation type="unfinished">Markers Size:</translation>
+        <translation>Dimensiunea markerilor:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="279"/>
         <source>Line Style:</source>
-        <translation type="unfinished">Line Style:</translation>
+        <translation>Stil linie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="286"/>
         <source>Line Width:</source>
-        <translation type="unfinished">Line Width:</translation>
+        <translation>Lățime linie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="293"/>
         <source>Color:</source>
-        <translation type="unfinished">Color:</translation>
+        <translation>Culoare:</translation>
     </message>
 </context>
 <context>
@@ -14415,7 +14417,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/qMRMLPlotSeriesPropertiesWidget.cxx" line="167"/>
         <source>This plot type uses indexes as X axis values. Switch to scatter plot type to allow column selection.</source>
-        <translation type="unfinished">This plot type uses indexes as X axis values. Switch to scatter plot type to allow column selection.</translation>
+        <translation>Acest plotare folosește indici ca valori ale axei X. Comutați la tipul de grafic de dispersie pentru a permite selecția coloanei.</translation>
     </message>
 </context>
 <context>
@@ -14423,27 +14425,27 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="14"/>
         <source>Plot View Controller</source>
-        <translation type="unfinished">Plot View Controller</translation>
+        <translation>Controlul vizualizării plotării</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="24"/>
         <source>Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</source>
-        <translation type="unfinished">Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</translation>
+        <translation>Selectați PlotChartNode care se ocupă de proprietățile generale ale Plotului și permiteți selectarea mai multor PlotSeriesNodes.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
         <source>Export plot to SVG file</source>
-        <translation type="unfinished">Export plot to SVG file</translation>
+        <translation>Exportați plotarea în fișier SVG</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="54"/>
         <source>Export...</source>
-        <translation type="unfinished">Export...</translation>
+        <translation>Export...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
         <source>Add/Remove plots data series to/from the current chart.</source>
-        <translation type="unfinished">Add/Remove plots data series to/from the current chart.</translation>
+        <translation>Adăugați/Eliminați serii de date plotate în/din graficul curent.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
@@ -14453,87 +14455,87 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="97"/>
         <source>Plot data series:</source>
-        <translation type="unfinished">Plot data series:</translation>
+        <translation>Plotare serii de date:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="104"/>
         <source>Plot type:</source>
-        <translation type="unfinished">Plot type:</translation>
+        <translation>Tip plot:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="111"/>
         <source>This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </source>
-        <translation type="unfinished">This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </translation>
+        <translation>Acest combobox permite modificarea Tipului pentru toate PlotSeriesNodes active. Dacă este aleasă o valoare, toate PlotSeriesNodes la care face referire PlotChartNode vor fi actualizate cu noua valoare. </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="118"/>
         <source>line</source>
-        <translation type="unfinished">line</translation>
+        <translation>linie</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="123"/>
         <source>bar</source>
-        <translation type="unfinished">bar</translation>
+        <translation>bară</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="128"/>
         <source>scatter</source>
-        <translation type="unfinished">scatter</translation>
+        <translation>dispersie</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="133"/>
         <source>scatter bar</source>
-        <translation type="unfinished">scatter bar</translation>
+        <translation>bară dispersie</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="141"/>
         <source>Interaction mode:</source>
-        <translation type="unfinished">Interaction mode:</translation>
+        <translation>Mod interacțiune:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="148"/>
         <source>Action performed on mouse left-click and drag.</source>
-        <translation type="unfinished">Action performed on mouse left-click and drag.</translation>
+        <translation>Acțiune efectuată prin clic stânga al mouse-ului și tragere.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="155"/>
         <source>pan view</source>
-        <translation type="unfinished">pan view</translation>
+        <translation>vedere panoramică</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="160"/>
         <source>select points</source>
-        <translation type="unfinished">select points</translation>
+        <translation>selectare puncte</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="165"/>
         <source>free-hand select points</source>
-        <translation type="unfinished">free-hand select points</translation>
+        <translation>puncte de selectare cu mâna liberă</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="170"/>
         <source>move points</source>
-        <translation type="unfinished">move points</translation>
+        <translation>mutare puncte</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="183"/>
         <source>Grid</source>
-        <translation type="unfinished">Grid</translation>
+        <translation>Grilă</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="186"/>
         <source>Show grid</source>
-        <translation type="unfinished">Show grid</translation>
+        <translation>Arată grila</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="194"/>
         <source>Legend</source>
-        <translation type="unfinished">Legend</translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="197"/>
         <source>Show legend</source>
-        <translation type="unfinished">Show legend</translation>
+        <translation>Arată legenda</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="206"/>
@@ -14543,22 +14545,22 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
         <source>Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</source>
-        <translation type="unfinished">Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</translation>
+        <translation>Ajustați câmpul vizual în Plot Viewer pentru a se potrivi cu extinderea axelor Plot</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="109"/>
         <source>P</source>
-        <translation type="unfinished">P</translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="338"/>
         <source>Save as SVG</source>
-        <translation type="unfinished">Save as SVG</translation>
+        <translation>Salvare ca SVG</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="339"/>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Scalable Vector Graphics (*.svg)</translation>
+        <translation>Scalable Vector Graphics (*.svg)</translation>
     </message>
 </context>
 <context>
@@ -14575,17 +14577,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="31"/>
         <source>L-R Range:</source>
-        <translation type="unfinished">L-R Range:</translation>
+        <translation>L-R Range:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="679"/>
         <source>P-A Range:</source>
-        <translation type="unfinished">P-A Range:</translation>
+        <translation>P-A Range:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1325"/>
         <source>I-S Range:</source>
-        <translation type="unfinished">I-S Range:</translation>
+        <translation>I-S Range:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2003"/>
@@ -14595,7 +14597,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2026"/>
         <source>Interactive Mode</source>
-        <translation type="unfinished">Interactive Mode</translation>
+        <translation>Mod interactiv</translation>
     </message>
 </context>
 <context>
@@ -14611,85 +14613,85 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="14"/>
         <source>Scalars Display</source>
-        <translation type="unfinished">Scalars Display</translation>
+        <translation>Afișaj scalari</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="32"/>
         <source>Visibility:</source>
         <oldsource>Visible:</oldsource>
-        <translation type="unfinished">Visible:</translation>
+        <translation>Vizibilitate:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="46"/>
         <source>Active Scalar:</source>
-        <translation type="unfinished">Active Scalar:</translation>
+        <translation>Scalar activ:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="56"/>
         <source>Color Table:</source>
-        <translation type="unfinished">Color Table:</translation>
+        <translation>Tabel de culoare:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="66"/>
         <source>Scalar Range Mode:</source>
-        <translation type="unfinished">Scalar Range Mode:</translation>
+        <translation>Mod Scalar Range:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="73"/>
         <source>Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</source>
-        <translation type="unfinished">Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</translation>
+        <translation>Setare indicatorul modului interval scalar. Data (auto) actualizează intervalul scalar de afișare din intervalul scalar al datelor. Opțiunea de mapare directă a culorilor ocolește tabelul de căutare și utilizează valori scalare ca culoare RGB.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="80"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="85"/>
         <source>Data scalar range (auto)</source>
-        <translation type="unfinished">Data scalar range (auto)</translation>
+        <translation>Data scalar range (auto)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="90"/>
         <source>Color table (LUT)</source>
-        <translation type="unfinished">Color table (LUT)</translation>
+        <translation>Tabel de culoare (LUT)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="95"/>
         <source>Data type</source>
-        <translation type="unfinished">Data type</translation>
+        <translation>Tip data</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="100"/>
         <source>Direct color mapping</source>
-        <translation type="unfinished">Direct color mapping</translation>
+        <translation>Maparea directă a culorilor</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="108"/>
         <source>Displayed Range:</source>
-        <translation type="unfinished">Displayed Range:</translation>
+        <translation>Interval afișat:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="115"/>
         <source>Set the display scalar range, used when the Display option is selected.</source>
-        <translation type="unfinished">Set the display scalar range, used when the Display option is selected.</translation>
+        <translation>Setare interval scalar de afișare, utilizat când este selectată opțiunea Afișare.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="122"/>
         <source>Threshold:</source>
-        <translation type="unfinished">Threshold:</translation>
+        <translation>Threshold:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="135"/>
         <source>Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
 should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</source>
-        <translation type="unfinished">Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
-should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</translation>
+        <translation>Aplicare Thresold modelului afișat pe baza valorilor sale scalare. Unele celule normale ar putea fi inversate, caz în care
+ar trebui să setați „backface” și „frontface” la OFF în Opțiunile Reprezentare pentru a vizualiza toate celulele.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="143"/>
         <source>Range used to threshold scalar values.</source>
-        <translation type="unfinished">Range used to threshold scalar values.</translation>
+        <translation>Interval utilizat pentru a limita valorile scalare.</translation>
     </message>
 </context>
 <context>
@@ -14706,22 +14708,22 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
         <source>New Scene</source>
-        <translation type="unfinished">New Scene</translation>
+        <translation>Scenă nouă</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="27"/>
         <source>Delete Scene</source>
-        <translation type="unfinished">Delete Scene</translation>
+        <translation>Șterge scena</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="44"/>
         <source>New Node</source>
-        <translation type="unfinished">New Node</translation>
+        <translation>Nod nou</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="61"/>
         <source>Delete Node</source>
-        <translation type="unfinished">Delete Node</translation>
+        <translation>Șterge nod</translation>
     </message>
 </context>
 <context>
@@ -14729,7 +14731,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSceneHierarchyModel.cxx" line="395"/>
         <source>Checked: Force color to children</source>
-        <translation type="unfinished">Checked: Force color to children</translation>
+        <translation>Bifat: Forțați culoarea copiilor</translation>
     </message>
 </context>
 <context>
@@ -14737,7 +14739,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSceneViewMenu.cxx" line="257"/>
         <source>No scene views</source>
-        <translation type="unfinished">No scene views</translation>
+        <translation>Nicio vizualizare a scenei</translation>
     </message>
 </context>
 <context>
@@ -14745,77 +14747,77 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nume:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
         <source>Thumbnail:</source>
-        <translation type="unfinished">Thumbnail:</translation>
+        <translation>Thumbnail:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="44"/>
         <source>Full layout</source>
-        <translation type="unfinished">Full layout</translation>
+        <translation>Aspect complet</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
         <source>3D View</source>
-        <translation type="unfinished">3D View</translation>
+        <translation>View 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="72"/>
         <source>Red Slice View</source>
-        <translation type="unfinished">Red Slice View</translation>
+        <translation>View Red Slice</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="83"/>
         <source>Yellow Slice View</source>
-        <translation type="unfinished">Yellow Slice View</translation>
+        <translation>View Yellow Slice</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="94"/>
         <source>Green Slice View</source>
-        <translation type="unfinished">Green Slice View</translation>
+        <translation>View Green Slice</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="138"/>
         <source>Scale factor:</source>
-        <translation type="unfinished">Scale factor:</translation>
+        <translation>Factor scalare:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="145"/>
         <source>Adjust the Magnification factor.</source>
-        <translation type="unfinished">Adjust the Magnification factor.</translation>
+        <translation>Reglați factorul de mărire.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="154"/>
         <source>x</source>
-        <translation type="unfinished">x</translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="173"/>
         <source>Save As...:</source>
-        <translation type="unfinished">Save As...:</translation>
+        <translation>Salvare ca...:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="180"/>
         <source>Description:</source>
-        <translation type="unfinished">Description:</translation>
+        <translation>Descriere:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="203"/>
         <source>Save snapshot via File Save. Edit in Annotations module.</source>
-        <translation type="unfinished">Save snapshot via File Save. Edit in Annotations module.</translation>
+        <translation>Salvați instantaneul prin Salvare fișier. Editați în modulul Adnotări.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="425"/>
         <source>Save File</source>
-        <translation type="unfinished">Save File</translation>
+        <translation>Salvare fișier</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="426"/>
         <source>Images (*.png *.jpg)</source>
-        <translation type="unfinished">Images (*.png *.jpg)</translation>
+        <translation>Imagini (*.png *.jpg)</translation>
     </message>
 </context>
 <context>
@@ -14823,95 +14825,95 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="14"/>
         <source>qMRMLSegmentEditorWidget</source>
-        <translation type="unfinished">qMRMLSegmentEditorWidget</translation>
+        <translation>qMRMLSegmentEditorWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="22"/>
         <source>Source volume:</source>
         <oldsource>Master volume:</oldsource>
-        <translation type="unfinished">Master volume:</translation>
+        <translation>Volum sursă:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
         <source>Select source volume to enable editing</source>
         <oldsource>Select master volume to enable editing</oldsource>
-        <translation type="unfinished">Select master volume to enable editing</translation>
+        <translation>Selectați volumul sursă pentru a activa editarea</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="55"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentation:</translation>
+        <translation>Segmentare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="62"/>
         <source>Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</source>
-        <translation type="unfinished">Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</translation>
+        <translation>Specificați geometria (originea grilei, spațierea, direcțiile axei și extinderea implicită) reprezentării hărții de etichete editate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="65"/>
         <source>Specify geometry of the edited labelmap representation</source>
-        <translation type="unfinished">Specify geometry of the edited labelmap representation</translation>
+        <translation>Specificați geometria reprezentării labelmap editate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="90"/>
         <source>Slice views orientation are not aligned with segmentation. Striping artifacts may appear. Click to align slice views to segmentation.</source>
-        <translation type="unfinished">Slice views orientation are not aligned with segmentation. Striping artifacts may appear. Click to align slice views to segmentation.</translation>
+        <translation>Orientarea vizualizărilor secțiunii nu este aliniată cu segmentarea. Pot apărea artefacte cu dungi. Faceți clic pentru a alinia vizualizările secțiunii la segmentare.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="93"/>
         <source>Slice rotated</source>
-        <translation type="unfinished">Slice rotated</translation>
+        <translation>Feliie rotită</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="113"/>
         <source>Add new empty segment</source>
-        <translation type="unfinished">Add new empty segment</translation>
+        <translation>Adăugare un nou segment gol</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="116"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Adaugă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="127"/>
         <source>Remove selected segment(s)</source>
-        <translation type="unfinished">Remove selected segment(s)</translation>
+        <translation>Eliminare segmentele selectate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="130"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="144"/>
         <source>Go to Segmentations module</source>
-        <translation type="unfinished">Go to Segmentations module</translation>
+        <translation>Accesați modulul Segmentări</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="147"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="414"/>
         <source>Segmentations</source>
-        <translation type="unfinished">Segmentations</translation>
+        <translation>Segmentări</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="191"/>
         <source>Undo last editing operation</source>
-        <translation type="unfinished">Undo last editing operation</translation>
+        <translation>Anulați ultima operație de editare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="194"/>
         <source>Undo</source>
-        <translation type="unfinished">Undo</translation>
+        <translation>Anulare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="211"/>
         <source>Redo last editing operation</source>
-        <translation type="unfinished">Redo last editing operation</translation>
+        <translation>Reluați ultima operațiune de editare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="214"/>
         <source>Redo</source>
-        <translation type="unfinished">Redo</translation>
+        <translation>Reluare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
@@ -14925,27 +14927,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="294"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Opțiuni</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="333"/>
         <source>Show details.</source>
-        <translation type="unfinished">Show details.</translation>
+        <translation>Arată detaliile.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="352"/>
         <source>Masking</source>
-        <translation type="unfinished">Masking</translation>
+        <translation>Mascare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="376"/>
         <source>Editable area:</source>
-        <translation type="unfinished">Editable area:</translation>
+        <translation>Arie editabilă:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="390"/>
         <source>Editable intensity range:</source>
-        <translation type="unfinished">Editable intensity range:</translation>
+        <translation>Interval de intensitate editabil:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="397"/>
@@ -14955,52 +14957,52 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="414"/>
         <source>Modify other segments:</source>
-        <translation type="unfinished">Modify other segments:</translation>
+        <translation>Modificare alte segmente:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="421"/>
         <source>Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</source>
-        <translation type="unfinished">Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</translation>
+        <translation>Controlează ce segmente va suprascrie segmentul curent. Segmentele care nu sunt suprascrise se pot suprapune cu segmentul selectat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="400"/>
         <source>Everywhere</source>
-        <translation type="unfinished">Everywhere</translation>
+        <translation>Peste tot</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="401"/>
         <source>Inside all segments</source>
-        <translation type="unfinished">Inside all segments</translation>
+        <translation>În interiorul tuturor segmentelor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="402"/>
         <source>Inside all visible segments</source>
-        <translation type="unfinished">Inside all visible segments</translation>
+        <translation>În interiorul tuturor segmentelor vizibile</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="403"/>
         <source>Outside all segments</source>
-        <translation type="unfinished">Outside all segments</translation>
+        <translation>În afara tuturor segmentelor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="404"/>
         <source>Outside all visible segments</source>
-        <translation type="unfinished">Outside all visible segments</translation>
+        <translation>În afara tuturor segmentelor vizibile</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="408"/>
         <source>Overwrite all</source>
-        <translation type="unfinished">Overwrite all</translation>
+        <translation>Suprascrie tot</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="409"/>
         <source>Overwrite visible</source>
-        <translation type="unfinished">Overwrite visible</translation>
+        <translation>Suprascrie doar elemente vizibile</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="410"/>
         <source>Allow overlap</source>
-        <translation type="unfinished">Allow overlap</translation>
+        <translation>Permite suprapunerea</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="416"/>
@@ -15015,7 +15017,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1041"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>None</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1042"/>
@@ -15036,7 +15038,7 @@ Change master representation to binary labelmap?</oldsource>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1379"/>
         <source>Change source representation to binary labelmap?</source>
         <oldsource>Change master representation to binary labelmap?</oldsource>
-        <translation type="unfinished">Change master representation to binary labelmap?</translation>
+        <translation>Schimbați reprezentarea sursei la labelmap binară?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1400"/>
@@ -15047,12 +15049,12 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1402"/>
         <source>Failed to create binary labelmap for editing</source>
-        <translation type="unfinished">Failed to create binary labelmap for editing</translation>
+        <translation>Nu s-a putut crea o hartă binară de etichete pentru editare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2404"/>
         <source>Inside </source>
-        <translation type="unfinished">Inside </translation>
+        <translation>Interior </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="3492"/>
@@ -15065,12 +15067,12 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="14"/>
         <source>qMRMLSegmentSelectorWidget</source>
-        <translation type="unfinished">qMRMLSegmentSelectorWidget</translation>
+        <translation>qMRMLSegmentSelectorWidget</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="106"/>
         <source>Segment: </source>
-        <translation type="unfinished">Segment: </translation>
+        <translation>Segment: </translation>
     </message>
 </context>
 <context>
@@ -15078,12 +15080,12 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="14"/>
         <source>Segmentation conversion parameters</source>
-        <translation type="unfinished">Segmentation conversion parameters</translation>
+        <translation>Parametrii Segmentation conversion</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="37"/>
         <source>Converting</source>
-        <translation type="unfinished">Converting</translation>
+        <translation>Conversie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="57"/>
@@ -15093,12 +15095,12 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="92"/>
         <source>1. Conversion path</source>
-        <translation type="unfinished">1. Conversion path</translation>
+        <translation>1. Cale Conversion</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="129"/>
         <source>Estimated relative cost</source>
-        <translation type="unfinished">Estimated relative cost</translation>
+        <translation>Costul relativ estimat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="134"/>
@@ -15106,12 +15108,12 @@ Please see Segmentations module for details.</source>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="238"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="272"/>
         <source>Path</source>
-        <translation type="unfinished">Path</translation>
+        <translation>Cale</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="145"/>
         <source>2. Conversion parameters</source>
-        <translation type="unfinished">2. Conversion parameters</translation>
+        <translation>2. Parametrii Conversie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="179"/>
@@ -15119,7 +15121,7 @@ Please see Segmentations module for details.</source>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="340"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="424"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="184"/>
@@ -15129,12 +15131,12 @@ Please see Segmentations module for details.</source>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="365"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="372"/>
         <source>Value</source>
-        <translation type="unfinished">Value</translation>
+        <translation>Valoare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="210"/>
         <source>Convert</source>
-        <translation type="unfinished">Convert</translation>
+        <translation>Conversie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="107"/>
@@ -15170,7 +15172,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="356"/>
         <source>Specify geometry</source>
-        <translation type="unfinished">Specify geometry</translation>
+        <translation>Specifică geometria</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="403"/>
@@ -15180,7 +15182,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="404"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>Conversia a eșuat</translation>
     </message>
 </context>
 <context>
@@ -15188,104 +15190,104 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="14"/>
         <source>qMRMLSegmentationDisplayNodeWidget</source>
-        <translation type="unfinished">qMRMLSegmentationDisplayNodeWidget</translation>
+        <translation>qMRMLSegmentationDisplayNodeWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="48"/>
         <source>Overall visibility:</source>
-        <translation type="unfinished">Overall visibility:</translation>
+        <translation>Vizibilitate generală:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="55"/>
         <source>Overall opacity:</source>
-        <translation type="unfinished">Overall opacity:</translation>
+        <translation>Opacitatea generală:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="105"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="372"/>
         <source>Slice fill:</source>
-        <translation type="unfinished">Slice fill:</translation>
+        <translation>Slice fill:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="118"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="358"/>
         <source>Slice outline:</source>
-        <translation type="unfinished">Slice outline:</translation>
+        <translation>Contur felie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="125"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="425"/>
         <source>3D:</source>
-        <translation type="unfinished">3D:</translation>
+        <translation>3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="138"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="495"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Opacitate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="225"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="392"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Vizibilitate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="252"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="282"/>
         <source>Views:</source>
-        <translation type="unfinished">Views:</translation>
+        <translation>Views:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="289"/>
         <source> px</source>
-        <translation type="unfinished"> px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="299"/>
         <source>Representation in 2D views:</source>
-        <translation type="unfinished">Representation in 2D views:</translation>
+        <translation>Reprezentare în vederi 2D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="306"/>
         <source>Representation that is shown in 3D (models only)</source>
-        <translation type="unfinished">Representation that is shown in 3D (models only)</translation>
+        <translation>Reprezentare care este afișată în 3D (numai modele)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="313"/>
         <source>Representation that is shown as a model in 3D and as slice intersections in 2D if exists</source>
-        <translation type="unfinished">Representation that is shown as a model in 3D and as slice intersections in 2D if exists</translation>
+        <translation>Reprezentare care este afișată ca model în 3D și ca intersecții de felii în 2D, dacă există</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="316"/>
         <source>Representation in 3D views:</source>
-        <translation type="unfinished">Representation in 3D views:</translation>
+        <translation>Reprezentare în vederi 3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="323"/>
         <source>Representation that is shown in the 2D slice views</source>
-        <translation type="unfinished">Representation that is shown in the 2D slice views</translation>
+        <translation>Reprezentare care este afișată în secțiuni 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="330"/>
         <source>Slice intersection thickness:</source>
-        <translation type="unfinished">Slice intersection thickness:</translation>
+        <translation>Grosimea intersecției feliei:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="337"/>
         <source>Selected segment</source>
-        <translation type="unfinished">Selected segment</translation>
+        <translation>Segmentul selectat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="432"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="451"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="470"/>
         <source>Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</source>
-        <translation type="unfinished">Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</translation>
+        <translation>Valoare în raport cu alte segmente. Opacitatea finală depinde atât de opacitatea pe segment, cât și de opacitatea generală (mai sus)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="208"/>
@@ -15303,127 +15305,127 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="14"/>
         <source>qMRMLSegmentationFileExportWidget</source>
-        <translation type="unfinished">qMRMLSegmentationFileExportWidget</translation>
+        <translation>qMRMLSegmentationFileExportWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="35"/>
         <source>Visible segments only: </source>
-        <translation type="unfinished">Visible segments only: </translation>
+        <translation>Numai segmente vizibile: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="45"/>
         <source>Adjust the exported model size. Point coordinates in the exported model will be multiplied by this number. By default Slicer uses millimeter unit for coordinates.</source>
-        <translation type="unfinished">Adjust the exported model size. Point coordinates in the exported model will be multiplied by this number. By default Slicer uses millimeter unit for coordinates.</translation>
+        <translation>Ajustați dimensiunea modelului exportat. Coordonatele punctului din modelul exportat vor fi înmulțite cu acest număr. În mod implicit, Slicer utilizează unitatea de milimetri pentru coordonate.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="99"/>
         <source>Destination folder: </source>
-        <translation type="unfinished">Destination folder: </translation>
+        <translation>Director destinație: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="106"/>
         <source>Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</source>
-        <translation type="unfinished">Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</translation>
+        <translation>Axele XYZ ale modelului de ieșire sunt mapate la direcțiile axei pacientului LPS (stânga-posterior-superior) sau RAS (dreapta-anterior-superior). LPS este folosit mai frecvent.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="110"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>LPS</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="115"/>
         <source>RAS</source>
-        <translation type="unfinished">RAS</translation>
+        <translation>RAS</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="123"/>
         <source>Use color table values:</source>
-        <translation type="unfinished">Use color table values:</translation>
+        <translation>Utilizați valorile tabelului de culori:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="130"/>
         <source>File format:</source>
-        <translation type="unfinished">File format:</translation>
+        <translation>Format fișier:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="137"/>
         <source>Coordinate system: </source>
-        <translation type="unfinished">Coordinate system: </translation>
+        <translation>Sistem coordonate: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="150"/>
         <source>Only export those segments that are currently visible.</source>
-        <translation type="unfinished">Only export those segments that are currently visible.</translation>
+        <translation>Exportați numai acele segmente care sunt vizibile în prezent.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="160"/>
         <source>Merge into single file:</source>
-        <translation type="unfinished">Merge into single file:</translation>
+        <translation>Îmbinați într-un singur fișier:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="167"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Export</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="180"/>
         <source>Open destination folder when export is completed.</source>
-        <translation type="unfinished">Open destination folder when export is completed.</translation>
+        <translation>Deschideți folderul de destinație când exportul este finalizat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="211"/>
         <source>Browse to destination folder</source>
-        <translation type="unfinished">Browse to destination folder</translation>
+        <translation>Navigați la folderul de destinație</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="227"/>
         <source>Size scale:</source>
-        <translation type="unfinished">Size scale:</translation>
+        <translation>Scalare dimensiuni:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="239"/>
         <source>Export all segments to a single OBJ file. It is always enabled for OBJ files, as segments can be distinguished based on their material.</source>
-        <translation type="unfinished">Export all segments to a single OBJ file. It is always enabled for OBJ files, as segments can be distinguished based on their material.</translation>
+        <translation>Exportați toate segmentele într-un singur fișier OBJ. Este întotdeauna activat pentru fișierele OBJ, deoarece segmentele pot fi distinse în funcție de materialul lor.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="258"/>
         <source>Export all segments to a single output STL file.</source>
-        <translation type="unfinished">Export all segments to a single output STL file.</translation>
+        <translation>Exportați toate segmentele într-un singur fișier STL de ieșire.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="278"/>
         <source>STL</source>
-        <translation type="unfinished">STL</translation>
+        <translation>STL</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="283"/>
         <source>OBJ</source>
-        <translation type="unfinished">OBJ</translation>
+        <translation>OBJ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="288"/>
         <source>NRRD</source>
-        <translation type="unfinished">NRRD</translation>
+        <translation>NRRD</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="293"/>
         <source>NIFTI</source>
-        <translation type="unfinished">NIFTI</translation>
+        <translation>NIFTI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="301"/>
         <source>Use compression:</source>
-        <translation type="unfinished">Use compression:</translation>
+        <translation>Folosiți compresie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="308"/>
         <source>Show destination folder:</source>
-        <translation type="unfinished">Show destination folder:</translation>
+        <translation>Afișați folderul de destinație:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="315"/>
         <source>Reference volume:</source>
-        <translation type="unfinished">Reference volume:</translation>
+        <translation>Volum referință:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="297"/>
@@ -15453,7 +15455,7 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="104"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="161"/>
@@ -15471,54 +15473,54 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="14"/>
         <source>SegmentationGeometryWidget</source>
-        <translation type="unfinished">SegmentationGeometryWidget</translation>
+        <translation>SegmentationGeometryWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="59"/>
         <source>Source geometry:</source>
-        <translation type="unfinished">Source geometry:</translation>
+        <translation>Geometria sursei:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="83"/>
         <source>Showing current segmentation labelmap geometry. Click here to change</source>
-        <translation type="unfinished">Showing current segmentation labelmap geometry. Click here to change</translation>
+        <translation>Se afișează geometria etichetei hărții de segmentare curentă. Click aici pentru a schimba</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="90"/>
         <source>Volume spacing options</source>
-        <translation type="unfinished">Volume spacing options</translation>
+        <translation>Opțiuni de spațiere a volumului</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="114"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="124"/>
         <source>Split each voxel of the volume to this many voxels along each direction. Useful when increasing the resolution is needed</source>
-        <translation type="unfinished">Split each voxel of the volume to this many voxels along each direction. Useful when increasing the resolution is needed</translation>
+        <translation>Împărțiți fiecare voxel al volumului la acești voxeli de-a lungul fiecărei direcții. Util atunci când este necesară creșterea rezoluției</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="117"/>
         <source>Oversampling factor:</source>
-        <translation type="unfinished">Oversampling factor:</translation>
+        <translation>Factor de supraeșantionare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="143"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="153"/>
         <source>Resample the volume to have isotropic spacing, which means the voxels will be cubes. Use smallest spacing. Useful if the volume has elongated voxels.</source>
-        <translation type="unfinished">Resample the volume to have isotropic spacing, which means the voxels will be cubes. Use smallest spacing. Useful if the volume has elongated voxels.</translation>
+        <translation>Reeșantionați volumul pentru a avea spațiere izotropă, ceea ce înseamnă că voxelii vor fi cuburi. Utilizați cea mai mică distanță. Util dacă volumul are voxeli alungiți.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="146"/>
         <source>Isotropic spacing:</source>
-        <translation type="unfinished">Isotropic spacing:</translation>
+        <translation>Spațiere izotropă:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="169"/>
         <source>Segmentation labelmap geometry</source>
-        <translation type="unfinished">Segmentation labelmap geometry</translation>
+        <translation>Geometrie labelmap de segmentare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="235"/>
         <source>Directions:</source>
-        <translation type="unfinished">Directions:</translation>
+        <translation>Directii:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="332"/>
@@ -15533,17 +15535,17 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="193"/>
         <source>Origin:</source>
-        <translation type="unfinished">Origin:</translation>
+        <translation>Origine:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="295"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>Spațiere:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="302"/>
         <source>Dimensions:</source>
-        <translation type="unfinished">Dimensions:</translation>
+        <translation>Dimensiuni:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="177"/>
@@ -15561,17 +15563,17 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="26"/>
         <source>qMRMLSegmentationRepresentationsListView</source>
-        <translation type="unfinished">qMRMLSegmentationRepresentationsListView</translation>
+        <translation>qMRMLSegmentationRepresentationsListView</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="53"/>
         <source>No node selected</source>
-        <translation type="unfinished">No node selected</translation>
+        <translation>Nu a fost selectat un nod</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="171"/>
         <source>No node is selected</source>
-        <translation type="unfinished">No node is selected</translation>
+        <translation>Nu este selectat niciun nod</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="210"/>
@@ -15581,24 +15583,24 @@ Do you want to crop the segmentation?
         <oldsource>This is the master representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</oldsource>
-        <translation type="unfinished">This is the master representation.
-  1. This representation is saved on disk
-  2. If this representation is modified, the others are cleared</translation>
+        <translation>Aceasta este reprezentarea sursei.
+ 1. Această reprezentare este salvată pe disc
+ 2. Dacă această reprezentare este modificată, celelalte sunt șterse</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="215"/>
         <source>This representation is present</source>
-        <translation type="unfinished">This representation is present</translation>
+        <translation>Această reprezentare este prezentă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="223"/>
         <source>This representation is not present</source>
-        <translation type="unfinished">This representation is not present</translation>
+        <translation>Această reprezentare nu este prezentă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="235"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="236"/>
@@ -15610,7 +15612,7 @@ Click the down-arrow button for additional operations.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="247"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="248"/>
@@ -15626,7 +15628,7 @@ Click the down-arrow button for additional operations.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="268"/>
         <source>Create</source>
-        <translation type="unfinished">Create</translation>
+        <translation>Crează</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="269"/>
@@ -15670,7 +15672,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="318"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>Conversia a eșuat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="338"/>
@@ -15702,12 +15704,12 @@ Do you wish to proceed with changing master representation?</translation>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="77"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="80"/>
         <source>Show 3D</source>
-        <translation type="unfinished">Show 3D</translation>
+        <translation>Arată 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="82"/>
         <source>Surface smoothing</source>
-        <translation type="unfinished">Surface smoothing</translation>
+        <translation>Netezire suprafață</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="84"/>
@@ -15717,7 +15719,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="89"/>
         <source>Smoothing factor</source>
-        <translation type="unfinished">Smoothing factor</translation>
+        <translation>Factor netezire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="93"/>
@@ -15747,7 +15749,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="114"/>
         <source>Higher value means stronger smoothing during closed surface representation conversion.</source>
-        <translation type="unfinished">Higher value means stronger smoothing during closed surface representation conversion.</translation>
+        <translation>O valoare mai mare înseamnă o netezire mai puternică în timpul conversiei reprezentării suprafeței închise.</translation>
     </message>
 </context>
 <context>
@@ -15755,12 +15757,12 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="121"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Opacitate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="125"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="129"/>
@@ -15770,27 +15772,27 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="138"/>
         <source>Segment name</source>
-        <translation type="unfinished">Segment name</translation>
+        <translation>Nume segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="139"/>
         <source>Segment visibility</source>
-        <translation type="unfinished">Segment visibility</translation>
+        <translation>Vizibilitate segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="140"/>
         <source>Segment color</source>
-        <translation type="unfinished">Segment color</translation>
+        <translation>Culoare segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="141"/>
         <source>Segment opacity (3D views)</source>
-        <translation type="unfinished">Segment opacity (3D views)</translation>
+        <translation>Opacitate segment (3D views)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="142"/>
         <source>Segment status</source>
-        <translation type="unfinished">Segment status</translation>
+        <translation>Status segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="471"/>
@@ -15828,47 +15830,47 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="20"/>
         <source>qMRMLSegmentsTableView</source>
-        <translation type="unfinished">qMRMLSegmentsTableView</translation>
+        <translation>qMRMLSegmentsTableView</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="50"/>
         <source>No node selected</source>
-        <translation type="unfinished">No node selected</translation>
+        <translation>Nu este selectat un nod</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="115"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filtru</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="125"/>
         <source>Show/Hide not started segments</source>
-        <translation type="unfinished">Show/Hide not started segments</translation>
+        <translation>Afișați/Ascundeți segmentele neîncepute</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="148"/>
         <source>Show/Hide in progress segments</source>
-        <translation type="unfinished">Show/Hide in progress segments</translation>
+        <translation>Afișați/Ascundeți segmentele în lucru</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="171"/>
         <source>Show/Hide completed segments</source>
-        <translation type="unfinished">Show/Hide completed segments</translation>
+        <translation>Afișați/Ascundeți segmentele finalizate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="194"/>
         <source>Show/Hide flagged segments</source>
-        <translation type="unfinished">Show/Hide flagged segments</translation>
+        <translation>Afișați/Ascundeți segmentele marcate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="470"/>
         <source>No node is selected</source>
-        <translation type="unfinished">No node is selected</translation>
+        <translation>Nu este selectat un nod</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="475"/>
         <source>Empty segmentation</source>
-        <translation type="unfinished">Empty segmentation</translation>
+        <translation>Segmentare goală</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1015"/>
@@ -15903,7 +15905,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1065"/>
         <source>Show in 3D</source>
-        <translation type="unfinished">Show in 3D</translation>
+        <translation>Arată in 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1072"/>
@@ -15928,7 +15930,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1174"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1176"/>
@@ -15941,17 +15943,17 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserPlayWidget</source>
-        <translation type="unfinished">qMRMLSequenceBrowserPlayWidget</translation>
+        <translation>qMRMLSequenceBrowserPlayWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="26"/>
         <source>First frame</source>
-        <translation type="unfinished">First frame</translation>
+        <translation>Primul cadru</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="40"/>
         <source>Previous frame</source>
-        <translation type="unfinished">Previous frame</translation>
+        <translation>Cadrul anterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="54"/>
@@ -15961,32 +15963,32 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="72"/>
         <source>Next frame</source>
-        <translation type="unfinished">Next frame</translation>
+        <translation>Următorul cadru</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="86"/>
         <source>Last frame</source>
-        <translation type="unfinished">Last frame</translation>
+        <translation>Ultimul cadru</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="100"/>
         <source>fps</source>
-        <translation type="unfinished">fps</translation>
+        <translation>fps</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="122"/>
         <source>Loop playback</source>
-        <translation type="unfinished">Loop playback</translation>
+        <translation>Loop playback</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="139"/>
         <source>Record proxy nodes modifications continuously</source>
-        <translation type="unfinished">Record proxy nodes modifications continuously</translation>
+        <translation>Înregistrați continuu modificările nodurilor proxy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="156"/>
         <source>Record snapshot of current state of all proxy nodes</source>
-        <translation type="unfinished">Record snapshot of current state of all proxy nodes</translation>
+        <translation>Înregistrați un instantaneu al stării curente a tuturor nodurilor proxy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="317"/>
@@ -16009,12 +16011,12 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserSeekWidget</source>
-        <translation type="unfinished">qMRMLSequenceBrowserSeekWidget</translation>
+        <translation>qMRMLSequenceBrowserSeekWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="26"/>
         <source>Index name</source>
-        <translation type="unfinished">Index name</translation>
+        <translation>Nume index</translation>
     </message>
 </context>
 <context>
@@ -16027,37 +16029,37 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="44"/>
         <source>Index properties</source>
-        <translation type="unfinished">Index properties</translation>
+        <translation>Proprietăți index</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="50"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nume:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="70"/>
         <source>Unit:</source>
-        <translation type="unfinished">Unit:</translation>
+        <translation>Unitate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="90"/>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>Tip:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="113"/>
         <source>Data nodes</source>
-        <translation type="unfinished">Data nodes</translation>
+        <translation>Noduri date</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="154"/>
         <source>Add/remove data nodes</source>
-        <translation type="unfinished">Add/remove data nodes</translation>
+        <translation>Adăugați/eliminați noduri de date</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="164"/>
         <source>Add to sequence items</source>
-        <translation type="unfinished">Add to sequence items</translation>
+        <translation>Adăugați elemente la secvență</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="174"/>
@@ -16080,7 +16082,7 @@ Do you wish to proceed with changing master representation?</translation>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="200"/>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="210"/>
         <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation type="unfinished">If enabled then after the selected node is added to the sequence items the selection moves to the next item</translation>
+        <translation>Dacă este activată, atunci după ce nodul selectat este adăugat la elementele secvenței, selecția se mută la următorul articol</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="203"/>
@@ -16090,22 +16092,22 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="226"/>
         <source>Index increment:</source>
-        <translation type="unfinished">Index increment:</translation>
+        <translation>Increment index :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="233"/>
         <source>Index value:</source>
-        <translation type="unfinished">Index value:</translation>
+        <translation>Valoare index:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="307"/>
         <source>Node type:</source>
-        <translation type="unfinished">Node type:</translation>
+        <translation>Tip nod:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceEditWidget.cxx" line="356"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Nume</translation>
     </message>
 </context>
 <context>
@@ -16122,12 +16124,12 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
         <source>Unit:</source>
-        <translation type="unfinished">Unit:</translation>
+        <translation>Unitate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="33"/>
         <source>Select the current unit node to modify.</source>
-        <translation type="unfinished">Select the current unit node to modify.</translation>
+        <translation>Selectați nodul unității curente de modificat.</translation>
     </message>
 </context>
 <context>
@@ -16135,32 +16137,32 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="14"/>
         <source>Slice Controller</source>
-        <translation type="unfinished">Slice Controller</translation>
+        <translation>Controller felii</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="51"/>
         <source>Select the label map</source>
-        <translation type="unfinished">Select the label map</translation>
+        <translation>Selectați harta etichetelor</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="179"/>
         <source>Select the foreground</source>
-        <translation type="unfinished">Select the foreground</translation>
+        <translation>Selectați foreground-ul</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="319"/>
         <source>Select the background</source>
-        <translation type="unfinished">Select the background</translation>
+        <translation>Selectați background-ul</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="433"/>
         <source>Link slice views. Synchronizes properties of all slice views in the same view group.</source>
-        <translation type="unfinished">Link slice views. Synchronizes properties of all slice views in the same view group.</translation>
+        <translation>Conectați vizualizările secțiunilor. Sincronizează proprietățile tuturor vizualizărilor secțiunii din același grup de vizualizări.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="457"/>
         <source>Toggle slice visibility in the 3D view.</source>
-        <translation type="unfinished">Toggle slice visibility in the 3D view.</translation>
+        <translation>Comutați vizibilitatea secțiunilor în vizualizarea 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="488"/>
@@ -21281,9 +21283,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished">
-
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+        <translation>Faceți clic pe OK pentru a aștepta finalizarea lor sau alegeți Ignorare pentru a închide acum Managerul de extensii.</translation>
     </message>
 </context>
 <context>
@@ -21560,7 +21560,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished">Select a reader to use for your data?</translation>
+        <translation>Selectați un reader de utilizat pentru datele dvs.:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
@@ -28581,7 +28581,7 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1373"/>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
-        <translation type="unfinished">Select type modifier...</translation>
+        <translation>Fără modificator de tip</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="169"/>
@@ -28598,7 +28598,7 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="2152"/>
         <source>No region modifier</source>
         <oldsource>Select anatomic region modifier...</oldsource>
-        <translation type="unfinished">Select anatomic region modifier...</translation>
+        <translation>Selectați modificatorul regiunii anatomice</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="280"/>
