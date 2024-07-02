@@ -7877,32 +7877,32 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
         <source>Determines the relative size of the thumbnails when using the visual DICOM browser</source>
-        <translation type="unfinished"></translation>
+        <translation>يحدد الحجم النسبي للصور المصغرة عند استخدام متصفح DICOM المرئي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
         <source>Small</source>
-        <translation type="unfinished">صغير</translation>
+        <translation>صغير</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="401"/>
         <source>Medium</source>
-        <translation type="unfinished">متوسط</translation>
+        <translation>متوسط</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="402"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation>كبير</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="404"/>
         <source>Thumbnails size:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الصور المصغرة:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="408"/>
         <source>DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="448"/>
@@ -7946,17 +7946,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="627"/>
         <source>Show options</source>
-        <translation type="unfinished">عرض الخيارات</translation>
+        <translation>عرض الخيارات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="631"/>
         <source>Show experimental visual DICOM browser</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر متصفح DICOM البصري التجريبي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="632"/>
         <source>If enabled, the DICOM browser widget will be substituted with new experimental visual browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>في حالة التمكين، سيتم استبدال أداة متصفح DICOM بمتصفح بصري تجريبي جديد.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="840"/>
@@ -8290,12 +8290,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="113"/>
         <source>If checked, then ultrasound image series are split by instance number. Useful if many ultrasound acquisitions appear in the same series.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم التحقق، يتم تقسيم سلسلة صور الموجات فوق الصوتية حسب رقم المثال. مفيد إذا ظهرت العديد من عمليات الاستحواذ بالموجات فوق الصوتية في نفس السلسلة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="123"/>
         <source>If checked, then photometric interpretation of JPEG-compressed ultrasound will be set to YBR_FULL_422. This is useful for fixing inconsistency in JPEG-compressed images that used RGB as photometric interpretation due to ambiguity in the DICOM standard before CP156. See https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE and https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم التحقق منه، فسيتم ضبط التفسير الضوئي للموجات فوق الصوتية المضغوطة JPEG على YBR_FULL_422. هذا مفيد لإصلاح عدم الاتساق في الصور المضغوطة JPEG التي تستخدم RGB كتفسير ضوئي بسبب الغموض في معيار DICOM قبل CP156. انظر https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf لمزيد من التفاصيل.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="146"/>
@@ -8951,72 +8951,72 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="48"/>
         <source>Extension Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>معالج التمديد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="53"/>
         <source>This module provides tools to create and manage extensions from within Slicer.</source>
-        <translation type="unfinished"></translation>
+        <translation>توفر هذه الوحدة أدوات لإنشاء وإدارة الامتدادات من داخل Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="54"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT ومجتمع Slicer.</translation>
+        <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT ومجتمع Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="125"/>
         <source>Extension Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات التمديد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="127"/>
         <source>Create Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>أنشئ امتداد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="130"/>
         <source>Select Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد الامتداد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="142"/>
         <source>Extension Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر تمديد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="156"/>
         <source>Add Module to Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف وحدة إلى تمديد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="160"/>
         <source>Edit Extension Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير البيانات الوصفية للامتداد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="165"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>الإسم:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="166"/>
         <source>Location:</source>
-        <translation type="unfinished">الموقع:</translation>
+        <translation>الموقع:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="167"/>
         <source>Repository:</source>
-        <translation type="unfinished"></translation>
+        <translation>مستودع:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="168"/>
         <source>Contents:</source>
-        <translation type="unfinished"></translation>
+        <translation>محتوياته:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="247"/>
         <source>An error occurred while trying to create the extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ أثناء محاولة إنشاء الامتداد.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="262"/>
