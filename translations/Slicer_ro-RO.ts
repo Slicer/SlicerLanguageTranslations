@@ -7543,12 +7543,12 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
         <source>Lower</source>
-        <translation type="unfinished">Lower</translation>
+        <translation>Lower</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"/>
         <source>Upper</source>
-        <translation type="unfinished">Upper</translation>
+        <translation>Upper</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"/>
@@ -7739,37 +7739,37 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="73"/>
         <source>Input volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>Secvența volumului de intrare: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="85"/>
         <source>(Overwrite input)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Suprascrieți intrarea)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="88"/>
         <source>Pick a sequence node where the cropped and resampled volumes will be stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți un nod de secvență în care vor fi stocate volumele decupate și reeșantionate.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="89"/>
         <source>Output volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de ieșire secvențat: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="104"/>
         <source>Select a crop volumes parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați parametrii volumelor de decupat.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="111"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Accesați modulul Crop Volume pentru a edita parametrii de decupare.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="114"/>
         <source>Crop volume settings: </source>
-        <translation type="unfinished"></translation>
+        <translation>Setări pentru volumul decupării: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="121"/>
@@ -7782,32 +7782,32 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="32"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="36"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest modul permite importarea, încărcarea și exportul fișierelor DICOM și trimiterea datelor de primire folosind rețeaua DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="38"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această lucrare este susținută de NA-MIC, NAC, BIRN, NCIGT și Comunitatea Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="247"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă date DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="278"/>
         <source>DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Bază date DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="361"/>
         <source>Generic DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Setări generice DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="364"/>
@@ -7817,47 +7817,47 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
         <source>DICOM general settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Setări generale DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="377"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Stabilește dacă seria DICOM la care se face referire sunt oferite la încărcarea DICOM sau comportamentul automat dacă interacțiunea este dezactivată. Selecția interactivă a seriei de referință este selecția implicită</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="377"/>
         <source>Ask user</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreabă utilizatorul</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="378"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Întodeauna</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="379"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Niciodată</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Load referenced series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcă seriile la care se face referire:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrați mai multe detalii în timpul operațiunilor DICOM. Util pentru investigarea problemelor de încărcare DICOM, dar poate afecta performanța.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"/>
         <source>Detailed logging:</source>
-        <translation type="unfinished"></translation>
+        <translation>Detailed logging:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
         <source>Determines the relative size of the thumbnails when using the visual DICOM browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Determină dimensiunea relativă a miniaturilor atunci când utilizați browser-ul vizual DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
@@ -7877,47 +7877,47 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="404"/>
         <source>Thumbnails size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiuni miniaturi:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="408"/>
         <source>DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Setări DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="448"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Director DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="449"/>
         <source>Load directory into DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Încarcă directorul în baza de date DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="543"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut crea o bază de date DICOM cu setări implicite. Creați o nouă bază de date sau actualizați baza de date incompatibilă existentă folosind opțiunile afișate în browserul DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="554"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Importul fișierelor care au caractere speciale (non-ASCII) în numele lor nu este acceptat. Se recomandă să mutați fișierele într-un folder diferit și să încercați din nou. Încercați oricum să importați din locația actuală?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
         <source>Import options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni de import</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="618"/>
         <source>Copy imported files to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiere fișiere importate în baza de date DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="620"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă este activat, toate fișierele importate sunt copiate în baza de date DICOM. Acest lucru este util când se importă de pe unități amovibile.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="627"/>
@@ -7927,53 +7927,53 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="631"/>
         <source>Show experimental visual DICOM browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișați browserul DICOM vizual experimental</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="632"/>
         <source>If enabled, the DICOM browser widget will be substituted with new experimental visual browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă este activat, widget-ul browserului DICOM va fi înlocuit cu noul browser vizual experimental.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="840"/>
         <source>not started</source>
-        <translation type="unfinished"></translation>
+        <translation>nu a pornit</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="847"/>
         <source>starting</source>
-        <translation type="unfinished"></translation>
+        <translation>în pornire</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="852"/>
         <source>unknown</source>
         <extracomment>used when port number is not defined</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>necunoscut</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="852"/>
         <source>running at port %s</source>
-        <translation type="unfinished"></translation>
+        <translation>rulează pe portul %s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="868"/>
         <source>Received DICOM file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Recepționat fișierul DICOM: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
         <source>DICOM database is already empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baza de date DICOM este deja goală.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="947"/>
         <source>Clear entire DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeți întreaga bază de date DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="948"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să ștergeți toate datele și fișierele copiate în baza de date ({count} pacienți)?</translation>
     </message>
 </context>
 <context>
@@ -7981,17 +7981,17 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="26"/>
         <source>Enhanced US volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum îmbunătățit în SUA</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcarea acestui tip de imagine este experimentală. Verificați geometria imaginii și raportați orice problemă găsită.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="94"/>
         <source>Ultrasound volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul ultrasunete</translation>
     </message>
 </context>
 <context>
@@ -7999,17 +7999,17 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="32"/>
         <source>GE ABUS</source>
-        <translation type="unfinished"></translation>
+        <translation>GE ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
         <source>GE Invenia ABUS</source>
-        <translation type="unfinished"></translation>
+        <translation>GE Invenia ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="118"/>
         <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcarea acestui tip de imagine este experimentală. Vă rugăm să verificați dimensiunea și orientarea imaginii și raportați că a fost găsită orice problemă.</translation>
     </message>
 </context>
 <context>
@@ -8017,23 +8017,23 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="36"/>
         <source>Image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Secvență de imagini</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
         <source>Image spacing may need to be calibrated for accurate size measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este posibil să fie necesar ca distanța dintre imagini să fie calibrată pentru măsurători precise de dimensiune.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="206"/>
         <source>{modality} image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>secvență de imagini {modality}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="187"/>
         <source>{modality} image sequence ({count} planes)</source>
-        <translation type="unfinished"></translation>
+        <translation>{modality} secvență de imagini ({count} planuri)</translation>
     </message>
 </context>
 <context>
@@ -8041,27 +8041,27 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="162"/>
         <source>DICOM Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Browser DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="218"/>
         <source>Uncheck All</source>
-        <translation type="unfinished"></translation>
+        <translation>Deselectează tot</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="224"/>
         <source>Examine</source>
-        <translation type="unfinished"></translation>
+        <translation>Examinare</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="230"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Încarcă</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="233"/>
         <source>Load selected items into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcați elementele selectate în scenă</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="238"/>
@@ -8071,114 +8071,114 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="313"/>
         <source>The following data type is in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>Următorul tip de date se află în baza dvs. de date:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="315"/>
         <source>The following data types are in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarele tipuri de date sunt în baza de date:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="320"/>
         <source>The following extension is not installed, but may help you work with this data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarea extensie nu este instalată, dar vă poate ajuta să lucrați cu aceste date:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="322"/>
         <source>The following extensions are not installed, but may help you work with this data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarele extensii nu sunt instalate, dar vă pot ajuta să lucrați cu aceste date:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="326"/>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puteți instala extensii folosind opțiunea Manager de extensii din meniul Vizualizare.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="326"/>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="512"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="488"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>{missing_file_count} din {total_file_count} fișiere selectate listate în baza de date nu pot fi găsite pe disc.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="495"/>
         <source>Checking {what}</source>
-        <translation type="unfinished"></translation>
+        <translation>Verific {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="510"/>
         <source>Warning: {messages}</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertisment: {messages}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="511"/>
         <source>See python console for error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consultați consola Python pentru mesajul de eroare.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="621"/>
         <source>Loading {what}</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcare {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="643"/>
         <source>DICOM loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcare DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="654"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertisment în pluginul DICOM {load_type} când se examinează {name} care poate fi încărcat: {message}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="659"/>
         <source>Warnings detected during load.  Examine data in Advanced mode for details.  Load anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertismente detectate în timpul încărcării.  Examinați datele în modul avansat pentru detalii. Încărcați oricum?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="670"/>
         <source>Referenced datasets found</source>
-        <translation type="unfinished"></translation>
+        <translation>S-au găsit seturile de date la care se face referire</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="674"/>
         <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obiectele DICOM încărcate conțin referințe la alte seturi de date pe care nu le-ați selectat pentru încărcare. Vă rugăm să selectați Da dacă doriți să încărcați următoarele seturi de date la care se face referire, Nu dacă doriți să încărcați doar seria selectată inițial sau Anulați pentru a anula încărcarea.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="684"/>
         <source>Remember choice and stop asking</source>
-        <translation type="unfinished"></translation>
+        <translation>Ține minte alegerea și nu mai întreba</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="686"/>
         <source>Can be changed later in Application Settings / DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Poate fi schimbat mai târziu în Setări aplicație / DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="713"/>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Referințe</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="746"/>
         <source>DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Date DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="746"/>
         <source>Reader</source>
-        <translation type="unfinished"></translation>
+        <translation>Reader</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="746"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertismente</translation>
     </message>
 </context>
 <context>
@@ -8186,128 +8186,128 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="26"/>
         <source>DICOM Patcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Patcher DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="30"/>
         <source>Fix common issues in DICOM files. This module may help fixing DICOM files that Slicer fails to import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remediați problemele comune în fișierele DICOM. Acest modul poate ajuta la repararea fișierelor DICOM pe care Slicer nu le importă.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="40"/>
         <source>This file was originally developed by Andras Lasso, PerkLab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest fișier a fost dezvoltat inițial de Andras Lasso, PerkLab.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="54"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="62"/>
         <source>Input DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorul DICOM de intrare:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="67"/>
         <source>Output DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorul DICOM de ieșire:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="72"/>
         <source>Replace file and folder names with automatically generated names. Fixes errors caused by file path containins special characters or being too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiți numele fișierelor și folderelor cu nume generate automat. Remediază erorile cauzate de faptul că calea fișierului conține caractere speciale sau este prea lungă.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="73"/>
         <source>Normalize file names</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalizare numelele fișierelor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="80"/>
         <source>Generate patient name and ID from the first file in a directory and force all other files in the same directory to have the same patient name and ID. Enable this option if a separate patient directory is created for each patched file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generați numele și ID-ul pacientului din primul fișier dintr-un director și forțați toate celelalte fișiere din același director să aibă același nume și ID pacient. Activați această opțiune dacă este creat un director separat al pacientului pentru fiecare fișier corelat.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="81"/>
         <source>Force same patient name and ID in each directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Forțați același nume și ID de pacient în fiecare director</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="88"/>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generați un nou UID de instanță de serie pentru fiecare director și setați-l în toate fișierele din același director. Activați această opțiune pentru a forța plasarea tuturor cadrelor dintr-un folder într-un singur volum.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="89"/>
         <source>Force same series instance UID in each directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Forțați același UID de instanță de serie în fiecare director</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="95"/>
         <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generați ID-uri de pacient, studiu, serie lipsă. Se presupune că toate fișierele dintr-un director aparțin aceleiași serii. Remediază eroarea cauzată de anonimizarea prea agresivă sau convertoarele de imagini DICOM incorecte.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="96"/>
         <source>Generate missing patient/study/series IDs</source>
-        <translation type="unfinished"></translation>
+        <translation>Generați ID-uri pacient/studiu/serie lipsă</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="101"/>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generați „secvență de poziție a imaginii” pentru fișierele cu mai multe cadre care au doar câmpul „SliceThickness”. Remediază eroarea în scanerele CBCT 3D Dolphin.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="102"/>
         <source>Generate slice position for multi-frame volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Generați poziția secțiunii pentru volume cu mai multe cadre</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="113"/>
         <source>If checked, then ultrasound image series are split by instance number. Useful if many ultrasound acquisitions appear in the same series.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă este bifată, atunci seriile de imagini cu ultrasunete sunt împărțite după numărul de instanță. Util dacă în aceeași serie apar multe achiziții cu ultrasunete.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="123"/>
         <source>If checked, then photometric interpretation of JPEG-compressed ultrasound will be set to YBR_FULL_422. This is useful for fixing inconsistency in JPEG-compressed images that used RGB as photometric interpretation due to ambiguity in the DICOM standard before CP156. See https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE and https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă este bifată, interpretarea fotometrică a ultrasunetelor comprimate JPEG va fi setată la YBR_FULL_422. Acest lucru este util pentru remedierea inconsecvenței imaginilor comprimate în JPEG care foloseau RGB ca interpretare fotometrică din cauza ambiguității standardului DICOM înainte de CP156. Consultați https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE și https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf pentru mai multe detalii.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="146"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă este bifată, atunci unele informații de identificare a pacientului vor fi șterse din fișierele DICOM corelate. Există multe câmpuri care pot identifica un pacient, această funcție nu le elimină pe toate.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="147"/>
         <source>Partially anonymize</source>
-        <translation type="unfinished"></translation>
+        <translation>Anonimizare parțială</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="154"/>
         <source>Fix DICOM files in input directory and write them to output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Remediați fișierele DICOM în directorul de intrare și scrieți-le în directorul de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="161"/>
         <source>Import DICOM files in output directory into the application&apos;s DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Importați fișiere DICOM în directorul de ieșire în baza de date DICOM a aplicației</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="181"/>
         <source>Unexpected error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare neașteptată.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="284"/>
         <source>Unspecified Patient {patientIndex}</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacient nespecificat {patientIndex}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="353"/>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="581"/>
         <source>Unspecified Patient</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacient nespecificat</translation>
     </message>
 </context>
 <context>
@@ -8315,27 +8315,27 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="37"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum scalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="86"/>
         <source>Preferred back end.  Archetype was used by default in Slicer before June of 2017. Change this setting if data that previously loaded stops working (and report an issue).</source>
-        <translation type="unfinished"></translation>
+        <translation>Backend preferat. Arhetipul a fost folosit în mod implicit în Slicer înainte de iunie 2017. Schimbați această setare dacă datele încărcate anterior nu mai funcționează (și raportați o problemă).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="86"/>
         <source>DICOM reader approach:</source>
-        <translation type="unfinished"></translation>
+        <translation>Abordarea readerului DICOM:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activați adăugarea de transformări neliniare pentru a regulariza imaginile dobândite cu geometrie neregulată: grilă nerectilie (cum ar fi achizițiile CT cu portal înclinat) și spațiere neuniformă a segmentelor. Dacă nu se aplică nicio regularizare, atunci imaginea poate apărea distorsionată dacă a fost obținută cu geometrie neregulată.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>default (apply regularization transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>implicit (aplicați transformarea de regularizare)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="97"/>
@@ -8345,12 +8345,12 @@ Acest fișier a fost dezvoltat inițial de Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="98"/>
         <source>apply regularization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>aplicați transformarea de regularizare</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="99"/>
         <source>harden regularization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>întărire transformare de regularizare</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="102"/>
