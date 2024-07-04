@@ -7131,7 +7131,7 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="28"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum reeșantionat</translation>
     </message>
 </context>
 <context>
@@ -7139,87 +7139,87 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="5"/>
         <source>Robust Statistics Segmenter</source>
-        <translation type="unfinished"></translation>
+        <translation>Robust Statistics Segmenter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="6"/>
         <source>Active contour segmentation using robust statistic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentarea activă a conturului folosind statistici robuste.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health</source>
-        <translation type="unfinished"></translation>
+        <translation>Această lucrare face parte din Alianța Națională pentru Calcularea Imaginelor Medicale (NAMIC), finanțată de National Institutes of Health</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de segmentare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="9"/>
         <source>Parameters for robust statistics segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri pentru segmentarea robustă a statisticilor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="10"/>
         <source>Approximate volume(mL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul aproximativ (ml)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="11"/>
         <source>The approximate volume of the object, in mL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumul aproximativ al obiectului, în ml.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="12"/>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii auxiliari</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="13"/>
         <source>Some auxiliary parameters to control the stop criteria.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anumiți parametri auxiliari pentru controlul criteriilor de oprire.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="14"/>
         <source>Intensity Homogeneity[0-1.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogenitate intensitate [0-1,0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="15"/>
         <source>Boundary Smoothness[0-1.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Netezime limită[0-1,0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="16"/>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea etichetei de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="17"/>
         <source>Max running time(min)</source>
-        <translation type="unfinished"></translation>
+        <translation>Timp maxim de rulare (min)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="18"/>
         <source>What is the homogeneity of intensity within the object? Given constant intensity at 1.0 score and extreme fluctuating intensity at 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Care este omogenitatea intensității în interiorul obiectului? Având în vedere intensitatea constantă la scor 1,0 și intensitate fluctuantă extremă la 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="19"/>
         <source>Given sphere 1.0 score and extreme rough boundary/surface 0 score, what is the expected smoothness of the object?</source>
-        <translation type="unfinished"></translation>
+        <translation>Având în vedere scorul sferei 1.0 și scorul extrem de grosier la limită/suprafața 0, care este netezimea așteptată a obiectului?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="20"/>
         <source>Label value of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea etichetei imaginii de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="21"/>
         <source>The program will stop if this time is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Programul se va opri dacă se ajunge la această oră.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="22"/>
@@ -7229,37 +7229,37 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="23"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de intrare/iesire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
         <source>Original Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imaginea originală</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="25"/>
         <source>Label Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Eticheta imagine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
         <source>Original image to be segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>Imaginea originală de segmentat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="28"/>
         <source>Label image for initialization</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetă imagine pentru inițializare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="29"/>
         <source>Segmented image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagine segmentată</translation>
     </message>
 </context>
 <context>
@@ -7267,107 +7267,107 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="5"/>
         <source>Simple Region Growing Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentarea simplă în creștere a regiunii</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="6"/>
         <source>A simple region growing segmentation algorithm based on intensity statistics. To create a list of fiducials (Seeds) for this algorithm, click on the tool bar icon of an arrow pointing to a sphere fiducial to enter the &apos;place a new object mode&apos; and then use the Markups module. This module uses the Slicer Command Line Interface (CLI) and the ITK filters CurvatureFlowImageFilter and ConfidenceConnectedImageFilter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un algoritm de segmentare de creștere a regiunii simplu bazat pe statistici de intensitate. Pentru a crea o listă de puncte de referință (Seeds) pentru acest algoritm, faceți clic pe pictograma barei de instrumente a unei săgeți care indică o sferă de referință pentru a intra în „modul de plasare a unui nou obiect” și apoi utilizați modulul Markups. Acest modul folosește Slicer Command Line Interface (CLI) și filtrele ITK CurvatureFlowImageFilter și ConfidenceConnectedImageFilter.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest modul de comandă a fost derivat din Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="8"/>
         <source>Smoothing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de netezire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="9"/>
         <source>Parameters to denoise the image prior to segmenting</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri pentru a scăpa de zgomotul imaginii înainte de segmentare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"/>
         <source>Smoothing iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Iterații de netezire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="11"/>
         <source>Timestep</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasul de timp</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="12"/>
         <source>Number of smoothing iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de iterații de netezire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="13"/>
         <source>Timestep for curvature flow</source>
-        <translation type="unfinished"></translation>
+        <translation>Timestep for curvature flow</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="14"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de segmentare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="15"/>
         <source>Parameters to prescribe the region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri pentru a prescrie regiunea în creștere</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="16"/>
         <source>Number of iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de iterații</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="17"/>
         <source>Multiplier</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplicator</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="18"/>
         <source>Neighborhood Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Raza vecinătății</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"/>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea etichetei de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
         <source>Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Seeds</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"/>
         <source>Number of iterations of region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de iterații ale regiunii în creștere</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="22"/>
         <source>Number of standard deviations to include in intensity model</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de abateri standard de inclus în modelul de intensitate</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="23"/>
         <source>The radius of the neighborhood over which to calculate intensity model</source>
-        <translation type="unfinished"></translation>
+        <translation>Raza vecinătății pe care se calculează modelul de intensitate</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"/>
         <source>The integer value (0-255) to use for the segmentation results. This will determine the color of the segmentation that will be generated by the Region growing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare întreagă (0-255) de utilizat pentru rezultatele segmentării. Aceasta va determina culoarea segmentării care va fi generată de algoritmul de creștere a regiunii</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="25"/>
         <source>Seed point(s) for region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>Punctele de Seed pentru regiunea de creștere</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
@@ -7377,27 +7377,27 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de intrare/iesire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de intrare pentru a fi filtrat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="31"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieșire filtrată</translation>
     </message>
 </context>
 <context>
@@ -7405,12 +7405,12 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="5"/>
         <source>Subtract Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Scăderea volumelor scalare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="6"/>
         <source>Subtracts two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scade două imagini. Deși toate tipurile de imagini sunt acceptate la intrare, sunt produse numai tipurile semnate. Cele două imagini nu trebuie să aibă aceleași dimensiuni.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
@@ -7425,57 +7425,57 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de intrare/iesire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum 1 de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum 2 de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum 1 de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum 2 de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
         <source>Volume1 - Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum 1 - volum 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controale</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlare mod în care funcționează modulul</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordine interpolare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordinea de interpolare dacă două imagini sunt în cadre de coordonate diferite sau au eșantionare diferită.</translation>
     </message>
 </context>
 <context>
@@ -7483,12 +7483,12 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="4"/>
         <source>Threshold Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum scalar thresold</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Pragul unei imagini.&lt;/p&gt;&lt;p&gt;Setați valorile imaginii la o valoare exterioară specificată de utilizator dacă acestea sunt sub, deasupra sau între valorile de prag simple.&lt;/p&gt;&lt;p&gt;ThresholdAbove: valorile mai mari decât sau egală cu valoarea pragului sunt setate la OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: valorile mai mici sau egale cu valoarea pragului sunt setate la OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: valorile din afara intervalului Lower -Super sunt setate la OutsideValue.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
@@ -7503,17 +7503,17 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de intrare/iesire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
@@ -7523,88 +7523,88 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
         <source>Thresholded input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de intrare thresholduit</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Setări filtrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"/>
         <source>Threshold Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip threshold</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="15"/>
         <source>Threshold Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare threshold</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lower</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"/>
         <source>Upper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upper</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"/>
         <source>Outside Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Outside Value</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="19"/>
         <source>Negate Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Inversare threshold</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"/>
         <source>What kind of threshold to perform. If Outside is selected, uses Upper and Lower values. If Below is selected, uses the ThresholdValue, if Above is selected, uses the ThresholdValue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce fel de threshold să se efectueze. Dacă este selectat Outside, folosește valorile Upper și Lower. Dacă este selectat Below, folosește ThresholdValue, dacă Above este selectat, folosește ThresholdValue.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"/>
         <source>Threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare de threshold</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="22"/>
         <source>Lower threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>Lower threshold value</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="23"/>
         <source>Upper threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upper threshold value</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
         <source>Set the voxels to this value if they fall outside the threshold range</source>
-        <translation type="unfinished"></translation>
+        <translation>Setați voxelii la această valoare dacă se încadrează în afara intervalului de prag</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
         <source>Swap the outside value with the inside value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbați valoarea exterioară cu valoarea interioară.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="26"/>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="29"/>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>In afara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="27"/>
         <source>Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="28"/>
         <source>Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste</translation>
     </message>
 </context>
 <context>
@@ -7612,37 +7612,37 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="4"/>
         <source>Voting Binary Hole Filling Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Voting Binary Hole Filling Image Filter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplică o operațiune de vot pentru a completa cavitățile. Acesta poate fi folosit pentru netezirea contururilor și pentru umplerea găurilor din imaginile binare. Această tehnică este utilizată frecvent la segmentarea organelor complete care pot avea canale sau vasculatură care poate să nu fi fost incluse în segmentarea inițială, de ex. plămâni, rinichi, ficat.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest modul de comandă a fost derivat din Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="7"/>
         <source>Binary Hole Filling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii Binary Hole Filling</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="8"/>
         <source>Parameters for Hole Filling</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii pentru Hole Filling</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="9"/>
         <source>Maximum Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Raza maximă</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="10"/>
         <source>Majority Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Threshold majoritar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
@@ -7657,22 +7657,22 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
         <source>The radius of a hole to be filled</source>
-        <translation type="unfinished"></translation>
+        <translation>Raza unei găuri de umplut</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="14"/>
         <source>The number of pixels over 50% that will decide whether an OFF pixel will become ON or not. For example, if the neighborhood of a pixel has 124 pixels (excluding itself), the 50% will be 62, and if you set a Majority threshold of 5, that means that the filter will require 67 or more neighbor pixels to be ON in order to switch the current OFF pixel to ON.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de pixeli peste 50% care va decide dacă un pixel OFF va deveni ON sau nu. De exemplu, dacă vecinătatea unui pixel are 124 de pixeli (excluzându-se pe sine), 50% va fi 62, iar dacă setați un prag majoritar de 5, asta înseamnă că filtrul va necesita 67 sau mai mulți pixeli vecini pentru a fi ACTIVAT în pentru a comuta pixelul curent OFF la ON.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"/>
         <source>The value associated with the background (not object)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea asociată cu background-ul (nu obiectul)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="16"/>
         <source>The value associated with the foreground (object)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea asociată foreground-ului (obiectul)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"/>
@@ -7682,27 +7682,27 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii de intrare/iesire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de intrare</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de intrare de filtrat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="22"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieșirea filtrată</translation>
     </message>
 </context>
 <context>
@@ -7710,29 +7710,31 @@ a = Transformată affină</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="26"/>
         <source>Crop volume sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Secvență Crop volume</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="30"/>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest modul poate decupa și reeșantiona o secvență de volum pentru a-i reduce dimensiunea pentru o redare și o procesare mai rapidă.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="42"/>
         <source>
 This file was originally developed by Andras Lasso
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Acest fișier a fost dezvoltat inițial de Andras Lasso
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="56"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrii</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="72"/>
         <source>Pick a sequence node of volumes that will be cropped and resampled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți un nod de secvență de volume care va fi decupat și reeșantionat.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="73"/>
