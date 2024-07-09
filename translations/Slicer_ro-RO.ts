@@ -10434,7 +10434,7 @@ Efectul folosește &lt;a href=&quot;https://insight-journal.org/browse/publicati
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="76"/>
         <source>Makes the segment hollow by replacing it with a thick shell at the segment boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Face segmentul gol prin înlocuirea acestuia cu o coajă groasă la limita segmentului.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="131"/>
@@ -12601,7 +12601,7 @@ Foaia de parcurs NIH pentru cercetare medicală, Grant U54 EB005149.</translatio
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="141"/>
         <source>Log to GUI: </source>
-        <translation type="unfinished"></translation>
+        <translation>Trimitere log la GUI: </translation>
     </message>
 </context>
 <context>
@@ -13050,7 +13050,7 @@ Foaia de parcurs NIH pentru cercetare medicală, Grant U54 EB005149.</translatio
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprietăți unghiului</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
@@ -20562,12 +20562,12 @@ Dacă nu este bifat, setul de date exportat va fi adăugat la baza de date DICOM
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
         <source>Scalar Mode:</source>
-        <translation type="unfinished">Scalar Mode:</translation>
+        <translation>Mod scalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
         <source>Glyphs on Slices Display</source>
-        <translation type="unfinished">Glyphs on Slices Display</translation>
+        <translation>Glife pe afișarea feliilor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
@@ -20686,7 +20686,7 @@ Dacă nu este bifat, setul de date exportat va fi adăugat la baza de date DICOM
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="43"/>
         <source>Reset Times</source>
-        <translation type="unfinished">Reset Times</translation>
+        <translation>Resetare timpi</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="50"/>
@@ -22097,132 +22097,132 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="499"/>
         <source>Redo the history of commands most recently undone, from last to first.</source>
-        <translation type="unfinished">Redo the history of commands most recently undone, from last to first.</translation>
+        <translation>Refaceți istoricul comenzilor anulate cel mai recent, de la ultima la prima.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="502"/>
         <source>Ctrl+Y</source>
-        <translation type="unfinished">Ctrl+Y</translation>
+        <translation>Ctrl+Y</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="419"/>
         <source>Save Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvare date</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="23"/>
         <source>Module Panel</source>
-        <translation type="unfinished">Module Panel</translation>
+        <translation>Panoul modulelor</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished">Extensions Manager</translation>
+        <translation>Manager extensii</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="514"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
-        <translation type="unfinished">Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</translation>
+        <translation>Porniți asistentul „Manager de extensii” care oferă stare și informații despre extensiile disponibile</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="517"/>
         <source>Ctrl+4</source>
-        <translation type="unfinished">Ctrl+4</translation>
+        <translation>Ctrl+4</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="522"/>
         <source>Cache &amp; Remote I/O Manager</source>
-        <translation type="unfinished">Cache &amp; Remote I/O Manager</translation>
+        <translation>Cache &amp; Remote I/O Manager</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="525"/>
         <source>The Cache and Remote Data Handling interface provides status and information about all remote data transfers, and allows some control over the local cache.</source>
-        <translation type="unfinished">The Cache and Remote Data Handling interface provides status and information about all remote data transfers, and allows some control over the local cache.</translation>
+        <translation>Interfața Cache și Remote Data Handling oferă stare și informații despre toate transferurile de date de la distanță și permite un anumit control asupra cache-ului local.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="533"/>
         <source>Open settings to the Modules panel where Favorite Modules can be defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți setările în Panoul modulelor, unde pot fi definite modulele favorite.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="542"/>
         <source>Application Settings</source>
-        <translation type="unfinished">Application Settings</translation>
+        <translation>Setările aplicației</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="545"/>
         <source>The Application Settings provides options for controlling the application&apos;s user interface preferences into the application registry, so they are preserved across sessions.</source>
-        <translation type="unfinished">The Application Settings provides options for controlling the application&apos;s user interface preferences into the application registry, so they are preserved across sessions.</translation>
+        <translation>Setările aplicației oferă opțiuni pentru controlul preferințelor interfeței cu utilizatorul aplicației în registrul aplicației, astfel încât acestea să fie păstrate între sesiuni.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="548"/>
         <source>Ctrl+2</source>
-        <translation type="unfinished">Ctrl+2</translation>
+        <translation>Ctrl+2</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="557"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>Cut</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="560"/>
         <source>Cut currently selected item and place in clipboard</source>
-        <translation type="unfinished">Cut currently selected item and place in clipboard</translation>
+        <translation>Tăiați elementul selectat în prezent și plasați-l în clipboard</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="563"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished">Ctrl+X</translation>
+        <translation>Ctrl+X</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="572"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copy</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="575"/>
         <source>Copy currently selected item to clipboard</source>
-        <translation type="unfinished">Copy currently selected item to clipboard</translation>
+        <translation>Copiați elementul selectat în clipboard</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="578"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished">Ctrl+C</translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="587"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Paste</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="590"/>
         <source>Paste the current contents of the clipboard</source>
-        <translation type="unfinished">Paste the current contents of the clipboard</translation>
+        <translation>Lipiți conținutul curent al clipboard-ului</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="593"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished">Ctrl+V</translation>
+        <translation>Ctrl+V</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="604"/>
         <source>&amp;Maximize view</source>
-        <translation type="unfinished">&amp;Maximize view</translation>
+        <translation>&amp;Maximizare vedere</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="607"/>
         <source>Maximize/Minimize the current view.</source>
-        <translation type="unfinished">Maximize/Minimize the current view.</translation>
+        <translation>Maximizați/Minimizați vizualizarea curentă.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="610"/>
         <source>Ctrl+6</source>
-        <translation type="unfinished">Ctrl+6</translation>
+        <translation>Ctrl+6</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="438"/>
         <source>&amp;Error Log</source>
-        <translation type="unfinished">&amp;Error Log</translation>
+        <translation>&amp;Error Log</translation>
     </message>
     <message>
         <source>Raise the error log display.</source>
@@ -22231,239 +22231,239 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="440"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished">Ctrl+0</translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="615"/>
         <source>Feedback: report usability issue (www)</source>
-        <translation type="unfinished">Feedback: report usability issue (www)</translation>
+        <translation>Feedback: raportați probleme de utilizare (www)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="618"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to report any usability issues and make suggestions how to address them.</source>
-        <translation type="unfinished">Create a topic at the Slicer forum (https://discourse.slicer.org) to report any usability issues and make suggestions how to address them.</translation>
+        <translation>Creați un subiect pe forumul Slicer (https://discourse.slicer.org) pentru a raporta orice probleme de utilizare și pentru a face sugestii despre cum să le rezolvați.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="623"/>
         <source>Feedback: make a feature request (www)</source>
-        <translation type="unfinished">Feedback: make a feature request (www)</translation>
+        <translation>Feedback: faceți o solicitare pentru o nouă funcționalitate (www)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="626"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to request a new feature.</source>
-        <translation type="unfinished">Create a topic at the Slicer forum (https://discourse.slicer.org) to request a new feature.</translation>
+        <translation>Creați un subiect pe forumul Slicer (https://discourse.slicer.org) pentru a solicita o nouă funcționalitate.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="631"/>
         <source>Load Module</source>
-        <translation type="unfinished">Load Module</translation>
+        <translation>Încarcă modulul</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="640"/>
         <source>Conventional</source>
-        <translation type="unfinished">Conventional</translation>
+        <translation>Conventional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="652"/>
         <source>Four-Up</source>
-        <translation type="unfinished">Four-Up</translation>
+        <translation>Four-Up</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="664"/>
         <source>Dual 3D</source>
-        <translation type="unfinished">Dual 3D</translation>
+        <translation>Dual 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="676"/>
         <source>3D only</source>
-        <translation type="unfinished">3D only</translation>
+        <translation>3D only</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="688"/>
         <source>3D Table</source>
-        <translation type="unfinished">3D Table</translation>
+        <translation>3D Table</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="700"/>
         <source>Red slice only</source>
-        <translation type="unfinished">Red slice only</translation>
+        <translation>Doar feliile roșii</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="712"/>
         <source>Yellow slice only</source>
-        <translation type="unfinished">Yellow slice only</translation>
+        <translation>Doar feliile galbene</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="724"/>
         <source>Green slice only</source>
-        <translation type="unfinished">Green slice only</translation>
+        <translation>Doar feliile verzi</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="736"/>
         <source>Tabbed 3D</source>
-        <translation type="unfinished">Tabbed 3D</translation>
+        <translation>Tabbed 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="748"/>
         <source>Tabbed slice</source>
-        <translation type="unfinished">Tabbed slice</translation>
+        <translation>Tabbed slice</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="760"/>
         <source>Compare</source>
-        <translation type="unfinished">Compare</translation>
+        <translation>Comparare</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="772"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="775"/>
         <source>Compare Widescreen</source>
-        <translation type="unfinished">Compare Widescreen</translation>
+        <translation>Comparare ecran widescreen</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="787"/>
         <source>Two over two</source>
-        <translation type="unfinished">Two over two</translation>
+        <translation>Two over two</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="790"/>
         <source>Two over Two Layout</source>
-        <translation type="unfinished">Two over Two Layout</translation>
+        <translation>Layout Two over Two</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="802"/>
         <source>Home</source>
-        <translation type="unfinished">Home</translation>
+        <translation>Acasă</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="805"/>
         <source>Favorite module for easy access</source>
-        <translation type="unfinished">Favorite module for easy access</translation>
+        <translation>Modulul preferat pentru acces ușor</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="808"/>
         <source>Ctrl+H</source>
-        <translation type="unfinished">Ctrl+H</translation>
+        <translation>Ctrl+H</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="820"/>
         <source>Conventional Widescreen</source>
-        <translation type="unfinished">Conventional Widescreen</translation>
+        <translation>Ecran widescreen convențional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="829"/>
         <source>Triple 3D</source>
-        <translation type="unfinished">Triple 3D</translation>
+        <translation>Triple 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="838"/>
         <source>Three over three</source>
-        <translation type="unfinished">Three over three</translation>
+        <translation>Three over three</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="847"/>
         <source>Four over four</source>
-        <translation type="unfinished">Four over four</translation>
+        <translation>Four over four</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="856"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="919"/>
         <source>2 viewers</source>
-        <translation type="unfinished">2 viewers</translation>
+        <translation>2 vizualizatori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="865"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="928"/>
         <source>3 viewers</source>
-        <translation type="unfinished">3 viewers</translation>
+        <translation>3 vizualizatori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="874"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="937"/>
         <source>4 viewers</source>
-        <translation type="unfinished">4 viewers</translation>
+        <translation>4 vizualizatori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="883"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="946"/>
         <source>5 viewers</source>
-        <translation type="unfinished">5 viewers</translation>
+        <translation>5 vizualizatori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="892"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="955"/>
         <source>6 viewers</source>
-        <translation type="unfinished">6 viewers</translation>
+        <translation>6 vizualizatori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="901"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="964"/>
         <source>7 viewers</source>
-        <translation type="unfinished">7 viewers</translation>
+        <translation>7 vizualizatori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="910"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="973"/>
         <source>8 viewers</source>
-        <translation type="unfinished">8 viewers</translation>
+        <translation>8 vizualizatori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="982"/>
         <source>Compare Grid</source>
-        <translation type="unfinished">Compare Grid</translation>
+        <translation>Grile comparație</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="991"/>
         <source>2x2 viewers</source>
-        <translation type="unfinished">2x2 viewers</translation>
+        <translation>2x2 vizualizatori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1000"/>
         <source>3x3 viewers</source>
-        <translation type="unfinished">3x3 viewers</translation>
+        <translation>3x3 vizualizatori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1009"/>
         <source>4x4 viewers</source>
-        <translation type="unfinished">4x4 viewers</translation>
+        <translation>4x4 vizualizatori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1014"/>
         <source>Record Macro</source>
-        <translation type="unfinished">Record Macro</translation>
+        <translation>Înregistrare macro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1022"/>
         <source>Play Macro</source>
-        <translation type="unfinished">Play Macro</translation>
+        <translation>Play Macro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1034"/>
         <source>Side by side</source>
-        <translation type="unfinished">Side by side</translation>
+        <translation>Side by side</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1043"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1046"/>
         <source>Four by three slice</source>
-        <translation type="unfinished">Four by three slice</translation>
+        <translation>Four by three slice</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1055"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1058"/>
         <source>Four by two slice</source>
-        <translation type="unfinished">Four by two slice</translation>
+        <translation>Four by two slice</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1067"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1070"/>
         <source>Five by two slice</source>
-        <translation type="unfinished">Five by two slice</translation>
+        <translation>Five by two slice</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1079"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1082"/>
         <source>Three by three slice</source>
-        <translation type="unfinished">Three by three slice</translation>
+        <translation>Three by three slice</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1091"/>
@@ -22474,12 +22474,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1103"/>
         <source>Plot only</source>
-        <translation type="unfinished">Plot only</translation>
+        <translation>Doar plottare</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1106"/>
         <source>Plot view</source>
-        <translation type="unfinished">Plot view</translation>
+        <translation>Vedere plotare</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1118"/>
@@ -22529,149 +22529,149 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1177"/>
         <source>Reset to default</source>
-        <translation type="unfinished">Reset to default</translation>
+        <translation>Resetare la valorile implicite</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1188"/>
         <source>Show Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată bara de status</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="158"/>
         <source>Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</source>
-        <translation type="unfinished">Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</translation>
+        <translation>Restrânge/Extinde panoul GUI și permite vizualizatorilor Slicer să ocupe întreaga fereastră a aplicației</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="315"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="329"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="343"/>
         <source>Select number of viewers...</source>
-        <translation type="unfinished">Select number of viewers...</translation>
+        <translation>Selectează numărul de vizualizatori...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="156"/>
         <source>Show &amp;Module Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișați Panoul &amp;Module</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="184"/>
         <source>Module Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectare module</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="429"/>
         <source>Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Log eroare</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="439"/>
         <source>Show/hide Error Log window</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișați/ascundeți fereastra cu jurnalul de erori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="463"/>
         <source>Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Consola Python</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="475"/>
         <source>Slicer Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Consola Pyton a Slicer-ului</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="486"/>
         <source>&amp;Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Consola &amp;Python</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="487"/>
         <source>Show Python Console window for controlling the application&apos;s data, user interface, and internals</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișați fereastra Consolei Python pentru controlul datelor aplicației, a interfeței cu utilizatorul și a elementelor interne</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="489"/>
         <source>Ctrl+3</source>
-        <translation type="unfinished">Ctrl+3</translation>
+        <translation>Ctrl+3</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="489"/>
         <source>Ctrl+`</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+`</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="589"/>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>Sterge istoricul</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="648"/>
         <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="unfinished">Some data have been modified. Do you want to save them before exit?</translation>
+        <translation>Unele date au fost modificate. Doriți să le salvați înainte de ieșire?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="652"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
-        <translation type="unfinished">The scene has been modified. Do you want to save it before exit?</translation>
+        <translation>Scena a fost modificată. Doriți să o salvați înainte de a ieși?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="657"/>
         <source>Save before exit?</source>
-        <translation type="unfinished">Save before exit?</translation>
+        <translation>Salvați înainte de ieșire?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="661"/>
         <source>Exit (discard modifications)</source>
-        <translation type="unfinished">Exit (discard modifications)</translation>
+        <translation>Ieșire (renunțare la modificări)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="663"/>
         <source>Cancel exit</source>
-        <translation type="unfinished">Cancel exit</translation>
+        <translation>Anulare ieșire</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="693"/>
         <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation type="unfinished">Some data have been modified. Do you want to save them before closing the scene?</translation>
+        <translation>Unele date au fost modificate. Vrei să le salvezi înainte de a închide scena?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="697"/>
         <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation type="unfinished">The scene has been modified. Do you want to save it before closing the scene?</translation>
+        <translation>Scena a fost modificată. Vrei să o salvezi înainte de a închide scena?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="707"/>
         <source>Save before closing scene?</source>
-        <translation type="unfinished">Save before closing scene?</translation>
+        <translation>Salvați înainte de a închide scena?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="712"/>
         <source>Close scene (discard modifications)</source>
-        <translation type="unfinished">Close scene (discard modifications)</translation>
+        <translation>Închide scena (renunțare la modificări)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="713"/>
         <source>Save scene</source>
-        <translation type="unfinished">Save scene</translation>
+        <translation>Salvare scena</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="985"/>
         <source>Slicer Data Bundle Directory (Select Empty Directory)</source>
-        <translation type="unfinished">Slicer Data Bundle Directory (Select Empty Directory)</translation>
+        <translation>Director de pachete de date Slicer (Selectați un director gol)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1017"/>
         <source>Save Data Bundle File</source>
-        <translation type="unfinished">Save Data Bundle File</translation>
+        <translation>Salvare fișier pachet de date</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1018"/>
         <source>Medical Reality Bundle (*.mrb)</source>
-        <translation type="unfinished">Medical Reality Bundle (*.mrb)</translation>
+        <translation>Medical Reality Bundle (*.mrb)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1049"/>
         <source>MRML Scene</source>
-        <translation type="unfinished">MRML Scene</translation>
+        <translation>Scenă MRML</translation>
     </message>
 </context>
 <context>
@@ -22681,320 +22681,320 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="142"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="55"/>
         <source>Markups</source>
-        <translation type="unfinished">Markups</translation>
+        <translation>Markeri</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
         <source>Create Markups:</source>
-        <translation type="unfinished">Create Markups:</translation>
+        <translation>Creare Markere:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="81"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Afișare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="93"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished">Color legend for the Color Table selected in Scalars section.</translation>
+        <translation>Legenda culorilor pentru Tabelul de culori selectat în secțiunea Scalari.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="96"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>Legenda culorilor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</source>
-        <translation type="unfinished">Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</translation>
+        <translation>Salvați setările curente ale proprietăților de afișare la valorile implicite, vor fi salvate pentru când se repornește Slicer (consultați Setările aplicației)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
         <source>Save to Defaults</source>
-        <translation type="unfinished">Save to Defaults</translation>
+        <translation>Salvați la valorile implicite</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="123"/>
         <source>Use default display properties.</source>
-        <translation type="unfinished">Use default display properties.</translation>
+        <translation>Utilizați proprietățile de afișare implicite.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="126"/>
         <source>Reset to Defaults</source>
-        <translation type="unfinished">Reset to Defaults</translation>
+        <translation>Resetați la valorile implicite</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="138"/>
         <source>Control Points</source>
-        <translation type="unfinished">Control Points</translation>
+        <translation>Puncte de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="147"/>
         <source>Interaction: </source>
-        <translation type="unfinished">Interaction: </translation>
+        <translation>Interacțiune: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="174"/>
         <source>Enable/disable all interactions in slice and 3D views.</source>
-        <translation type="unfinished">Enable/disable all interactions in slice and 3D views.</translation>
+        <translation>Activați/dezactivați toate interacțiunile în vizualizările slice și 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="206"/>
         <source>Lock the number of points allowed in the active markup.</source>
-        <translation type="unfinished">Lock the number of points allowed in the active markup.</translation>
+        <translation>Blocați numărul de puncte permis în marcajul activ.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="222"/>
         <source>Jump Slices:</source>
-        <translation type="unfinished">Jump Slices:</translation>
+        <translation>Salt felii:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="235"/>
         <source>Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</source>
-        <translation type="unfinished">Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</translation>
+        <translation>Offset: setați poziția planului feliei. Centrat: setați poziția planului secțiunii și centrați vizualizarea secțiunii pe punctul de control.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="239"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>none</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="244"/>
         <source>offset</source>
-        <translation type="unfinished">offset</translation>
+        <translation>offset</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="249"/>
         <source>centered</source>
-        <translation type="unfinished">centered</translation>
+        <translation>centrat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
         <source>Show Slice Intersections:</source>
-        <translation type="unfinished">Show Slice Intersections:</translation>
+        <translation>Afișați intersecțiile secțiunilor:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+        <translation>Arată cum celelalte planuri de felie intersectează fiecare plan de felie.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="294"/>
         <source>Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</source>
-        <translation type="unfinished">Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</translation>
+        <translation>Comutați indicatorul de vizibilitate pe toate punctele de control din listă. Utilizați meniul derulant pentru a seta totul la vizibil sau invizibil.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="319"/>
         <source>Toggle selected flag on all control points in the list. Use the drop down menu to set all to selected or deselected.</source>
-        <translation type="unfinished">Toggle selected flag on all control points in the list. Use the drop down menu to set all to selected or deselected.</translation>
+        <translation>Comutați marcajul selectat pe toate punctele de control din listă. Folosiți meniul derulant pentru a seta totul la selectat sau deselectat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="344"/>
         <source>Toggle lock flag on all control points in the list. Use the drop down menu to set all to locked or unlocked.</source>
-        <translation type="unfinished">Toggle lock flag on all control points in the list. Use the drop down menu to set all to locked or unlocked.</translation>
+        <translation>Comutați indicatorul de blocare pe toate punctele de control din listă. Folosiți meniul drop-down pentru a seta totul la blocat sau deblocat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="372"/>
         <source>Skip placement of highlighted control point(s) from the active list (will clear current position).</source>
-        <translation type="unfinished">Skip placement of highlighted control point(s) from the active list (will clear current position).</translation>
+        <translation>Omiteți plasarea punctelor de control evidențiate din lista activă (se va șterge poziția curentă).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="407"/>
         <source>Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</source>
-        <translation type="unfinished">Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</translation>
+        <translation>Ștergeți poziția punctelor de control evidențiate din lista activă (punctele de control nu vor fi șterse).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="442"/>
         <source>Delete the highlighted control point(s) from the active list</source>
-        <translation type="unfinished">Delete the highlighted control point(s) from the active list</translation>
+        <translation>Ștergeți punctele de control evidențiate din lista activă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="477"/>
         <source>Remove all control points from the active list</source>
-        <translation type="unfinished">Remove all control points from the active list</translation>
+        <translation>Eliminați toate punctele de control din lista activă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="491"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>Cut</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="501"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="511"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Paste</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="520"/>
         <source>Coordinates:  </source>
-        <translation type="unfinished">Coordinates:  </translation>
+        <translation>Coordonate:  </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="533"/>
         <source>Set visibility and coordinate system of control point positions.</source>
-        <translation type="unfinished">Set visibility and coordinate system of control point positions.</translation>
+        <translation>Setați vizibilitatea și sistemul de coordonate al pozițiilor punctelor de control.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="537"/>
         <source>World</source>
-        <translation type="unfinished">World</translation>
+        <translation>World</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="542"/>
         <source>Local</source>
-        <translation type="unfinished">Local</translation>
+        <translation>Local</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="547"/>
         <source>Hide</source>
-        <translation type="unfinished">Hide</translation>
+        <translation>Ascunde</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="567"/>
         <source>The control points in the currently active markups node. Right click in a row for delete, jump, copy, move.</source>
-        <translation type="unfinished">The control points in the currently active markups node. Right click in a row for delete, jump, copy, move.</translation>
+        <translation>Punctele de control din nodul de markup activ în prezent. Faceți clic dreapta într-un rând pentru ștergere, sări, copiere, mutare.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="570"/>
         <source>active markup control point table</source>
-        <translation type="unfinished">active markup control point table</translation>
+        <translation>tabelul punctelor de control a marcajului activ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="583"/>
         <source>Display, naming, volume interactions, moving up/down, adding</source>
         <oldsource>Display, naming, volume interactions, moving up/down, adding, Annotations import</oldsource>
-        <translation type="unfinished">Display, naming, volume interactions, moving up/down, adding, Annotations import</translation>
+        <translation>Afișare, denumire, interacțiuni de volum, deplasare în sus/jos, adăugare, import adnotări</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="586"/>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="886"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="615"/>
         <source>Move a highlighted control point up one spot in the list</source>
-        <translation type="unfinished">Move a highlighted control point up one spot in the list</translation>
+        <translation>Mutați un punct de control evidențiat cu un loc în sus din listă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="647"/>
         <source>Move a highlighted control point down one spot in the list</source>
-        <translation type="unfinished">Move a highlighted control point down one spot in the list</translation>
+        <translation>Mutați un punct de control evidențiat în jos cu un loc din listă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="679"/>
         <source>Add a new control point to the active list, at origin</source>
-        <translation type="unfinished">Add a new control point to the active list, at origin</translation>
+        <translation>Adăugați un nou punct de control la lista activă, la origine</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="692"/>
         <source>Naming</source>
-        <translation type="unfinished">Naming</translation>
+        <translation>Denumire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="698"/>
         <source>Include %N for list name, %d for number.</source>
-        <translation type="unfinished">Include %N for list name, %d for number.</translation>
+        <translation>Includeți %N pentru numele listei, %d pentru număr.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="701"/>
         <source>Name Format</source>
-        <translation type="unfinished">Name Format</translation>
+        <translation>Format nume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="708"/>
         <source>Format for creating names of new control points, using sprintf format style. %N is replaced by the list name, %S is replaced by the markup&apos;s short name and %d by an integer.</source>
-        <translation type="unfinished">Format for creating names of new control points, using sprintf format style. %N is replaced by the list name, %S is replaced by the markup&apos;s short name and %d by an integer.</translation>
+        <translation>Format pentru crearea numelor de noi puncte de control, folosind stilul format sprintf. %N este înlocuit cu numele listei, %S este înlocuit cu numele scurt al markupului și %d cu un număr întreg.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="715"/>
         <source>Reset the name format field to the default value.</source>
-        <translation type="unfinished">Reset the name format field to the default value.</translation>
+        <translation>Resetați câmpul formatului numelui la valoarea implicită.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="718"/>
         <source>Reset</source>
-        <translation type="unfinished">Reset</translation>
+        <translation>Resetare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="725"/>
         <source>Rename all control points in this list according to the current name format, trying to preserve numbers.</source>
-        <translation type="unfinished">Rename all control points in this list according to the current name format, trying to preserve numbers.</translation>
+        <translation>Redenumiți toate punctele de control din această listă conform formatului actual al numelui, încercând să păstrați numerele.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="728"/>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="879"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="747"/>
         <source>Measurements</source>
-        <translation type="unfinished">Measurements</translation>
+        <translation>Măsurători</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="756"/>
         <source>No measurement</source>
-        <translation type="unfinished">No measurement</translation>
+        <translation>Fără măsurători</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="763"/>
         <source>Measurement settings</source>
-        <translation type="unfinished">Measurement settings</translation>
+        <translation>Setări măsurători</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="823"/>
         <source>Export/import Table</source>
-        <translation type="unfinished">Export/import Table</translation>
+        <translation>Tabel Export/import</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="832"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operație:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="841"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Export</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="848"/>
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Import</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="857"/>
         <source>Table:</source>
-        <translation type="unfinished">Table:</translation>
+        <translation>Tabel:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="913"/>
         <source>Export coordinate system:</source>
-        <translation type="unfinished">Export coordinate system:</translation>
+        <translation>Export sistem de coordonate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="922"/>
         <source>RAS</source>
-        <translation type="unfinished">RAS</translation>
+        <translation>RAS</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="929"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>LPS</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="202"/>
         <source>A module to create and manage markups in 2D and 3D. This module replaced the former Annotations module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un modul pentru crearea și gestionarea markupurilor în 2D și 3D. Acest modul a înlocuit fostul modul Adnotări.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="212"/>
         <source>This work was supported by NAMIC, NAC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această lucrare a fost susținută de NAMIC, NAC și Comunitatea Slicer.</translation>
     </message>
 </context>
 <context>
@@ -23002,148 +23002,148 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="268"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Vizibilitate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="298"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="301"/>
         <source>Lock</source>
-        <translation type="unfinished">Lock</translation>
+        <translation>Blocare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="326"/>
         <source>Selected</source>
-        <translation type="unfinished">Selected</translation>
+        <translation>Selectat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
         <source>Locked</source>
-        <translation type="unfinished">Locked</translation>
+        <translation>Blocat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
         <source>Visible</source>
-        <translation type="unfinished">Visible</translation>
+        <translation>Vizibil</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3205"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Descriere</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>R</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="204"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="205"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziție</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="271"/>
         <source>Visibility On</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizibilitate activată</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="272"/>
         <source>Set visibility flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Setați indicatorul de vizibilitate la activat pentru toate punctele de control din marcajul activ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="280"/>
         <source>Visibility Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizibilitate dezactivată</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="281"/>
         <source>Set visibility flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Setați indicatorul de vizibilitate la dezactivat pentru toate punctele de control din marcajul activ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="302"/>
         <source>Set lock flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Setați marcajul de blocare la activat pentru toate punctele de control din marcajul activ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="309"/>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>Deblocat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="310"/>
         <source>Set lock flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Setați marcajul de blocare la dezactivat pentru toate punctele de control din marcajul activ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="329"/>
         <source>Selected On</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectat pornit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="330"/>
         <source>Set selected flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Setați marcajul selectat la pornit pentru toate punctele de control din marcajul activ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="338"/>
         <source>Selected Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectat oprit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="339"/>
         <source>Set selected flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Setați marcajul selectat la oprit pentru toate punctele de control din marcajul activ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="374"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="378"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>Cut</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="384"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="388"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="394"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="398"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Paste</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="479"/>
         <source>Click in this column to select/deselect control points for passing to CLI modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Faceți clic în această coloană pentru a selecta/deselecta punctele de control pentru trecerea la modulele CLI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="485"/>
         <source>Click in this column to lock/unlock control points to prevent them from being moved by mistake</source>
-        <translation type="unfinished"></translation>
+        <translation>Faceți clic în această coloană pentru a bloca/debloca punctele de control pentru a preveni mutarea lor din greșeală</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="491"/>
         <source>Click in this column to show/hide control points in 2D and 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Faceți clic în această coloană pentru a afișa/ascunde punctele de control în 2D și 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="497"/>
@@ -23153,134 +23153,139 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 - Skip: &apos;Place multiple control points&apos; mode skips over the control point entry
 - Restore: Set the control point position to its last known set position
 - Clear: Clear the defined control point position, but do not delete the control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Faceți clic în această coloană pentru a modifica starea poziției punctului de control.
+
+- Editare: Intrați în modul de plasare pentru a modifica poziția punctului de control în vizualizările secțiunii
+- Salt: modul „Plase mai multe puncte de control” trece peste intrarea punctului de control
+- Restaurare: Setați poziția punctului de control la ultima sa poziție setată cunoscută
+- Ștergeți: ștergeți poziția definită a punctului de control, dar nu ștergeți punctul de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="815"/>
         <source>Create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Creare %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1005"/>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Faceți clic pentru a debloca această listă de puncte de control, astfel încât punctele să poată fi mutate cu mouse-ul</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1010"/>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Faceți clic pentru a bloca această listă de puncte de control, astfel încât punctele să nu poată fi mutate cu mouse-ul</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1016"/>
         <source>Click to unlock the number of control points so points can be added or deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Faceți clic pentru a debloca numărul de puncte de control, astfel încât punctele să poată fi adăugate sau șterse</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1023"/>
         <source>Click to lock the number of control points so no points can be added or deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Faceți clic pentru a bloca numărul de puncte de control, astfel încât niciun punct să nu poată fi adăugat sau șters</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1616"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1824"/>
         <source>Confirm control point deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmați ștergerea punctului de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1617"/>
         <source>Delete %1 control points from this list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeți %1 puncte de control din această listă?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1623"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1825"/>
         <source>Delete all %1 control points from this list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeți %1 puncte de control din această listă?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1832"/>
         <source>Delete All</source>
-        <translation type="unfinished">Delete All</translation>
+        <translation>Șterge tot</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2292"/>
         <source>Delete highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeți punctele de control evidențiate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2299"/>
         <source>Jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Sări felii</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2306"/>
         <source>Refocus all cameras</source>
-        <translation type="unfinished"></translation>
+        <translation>Refocusează toate camerele</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2324"/>
         <source>Edit position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Editați poziția punctelor de control evidențiate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2330"/>
         <source>Skip placement of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Omiteți plasarea punctelor de control evidențiate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2336"/>
         <source>Restore position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Restabiliți poziția punctelor de control evidențiate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2342"/>
         <source>Clear position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeți poziția punctelor de control evidențiate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2456"/>
         <source>Summed linear distance: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Distanța liniară însumată: %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3160"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3188"/>
         <source>No measurement</source>
-        <translation type="unfinished">No measurement</translation>
+        <translation>Fără măsurători</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3205"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Activat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3273"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel de ieșire:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3274"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Export</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3275"/>
         <source>Export control points coordinates and properties to table.</source>
-        <translation type="unfinished">Export control points coordinates and properties to table.</translation>
+        <translation>Exportați coordonatele și proprietățile punctelor de control în tabel.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3280"/>
         <source>Input table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel de intrare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3281"/>
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Import</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3283"/>
@@ -23288,8 +23293,8 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</oldsource>
-        <translation type="unfinished">Import control points coordinates and properties from table node.
-Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</translation>
+        <translation>Importați coordonatele și proprietățile punctelor de control din nodul tabel.
+Numele coloanelor din tabel: etichetă, r, a, s, (sau l, p, s), definit, selectat, vizibil, blocat, descriere.</translation>
     </message>
 </context>
 <context>
@@ -23297,121 +23302,121 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="20"/>
         <source>Place markups</source>
-        <translation type="unfinished">Place markups</translation>
+        <translation>Plasați markerii</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="35"/>
         <source>Select the display color.</source>
-        <translation type="unfinished">Select the display color.</translation>
+        <translation>Selectați culoarea afișajului.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="57"/>
         <source>Place a control point</source>
-        <translation type="unfinished">Place a control point</translation>
+        <translation>Plasați un punct de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="60"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="86"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="106"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="83"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="549"/>
         <source>Delete last added control point</source>
-        <translation type="unfinished">Delete last added control point</translation>
+        <translation>Ștergeți ultimul punct de control adăugat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="103"/>
         <source>Click for more options</source>
-        <translation type="unfinished">Click for more options</translation>
+        <translation>Faceți clic pentru mai multe opțiuni</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="123"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="126"/>
         <source>Place multiple control points</source>
-        <translation type="unfinished">Place multiple control points</translation>
+        <translation>Plasați mai multe puncte de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="135"/>
         <source>Delete all control points</source>
-        <translation type="unfinished">Delete all control points</translation>
+        <translation>Ștergeți toate punctele de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="138"/>
         <source>Delete all control points in the list</source>
-        <translation type="unfinished">Delete all control points in the list</translation>
+        <translation>Ștergeți toate punctele de control din list[</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="147"/>
         <source>Clear last control point position</source>
-        <translation type="unfinished">Clear last control point position</translation>
+        <translation>Ștergeți poziția ultimului punct de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="150"/>
         <source>Clear the position of the last control point placed (the control point will not be deleted).</source>
-        <translation type="unfinished">Clear the position of the last control point placed (the control point will not be deleted).</translation>
+        <translation>Ștergeți poziția ultimului punct de control plasat (punctul de control nu va fi șters).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="160"/>
         <source>Clear all control point positions</source>
-        <translation type="unfinished">Clear all control point positions</translation>
+        <translation>Ștergeți toate pozițiile punctelor de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="163"/>
         <source>Clear the position of all control points in the list (the control points will not be deleted).</source>
-        <translation type="unfinished">Clear the position of all control points in the list (the control points will not be deleted).</translation>
+        <translation>Ștergeți poziția tuturor punctelor de control din listă (punctele de control nu vor fi șterse).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="173"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Vizibilitate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="176"/>
         <source>Toggle markup visibility</source>
-        <translation type="unfinished">Toggle markup visibility</translation>
+        <translation>Comutați vizibilitatea marcajului</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="186"/>
         <source>Locked</source>
-        <translation type="unfinished">Locked</translation>
+        <translation>Blocat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="189"/>
         <source>Toggle control point positions lock</source>
-        <translation type="unfinished">Toggle control point positions lock</translation>
+        <translation>Comutați blocarea pozițiilor punctului de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="199"/>
         <source>Control point number locked</source>
-        <translation type="unfinished">Control point number locked</translation>
+        <translation>Numărul punctului de control blocat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="202"/>
         <source>Toggle control point number lock. If locked then it is not possible to add or delete control points. Instead of deleting, position control points can be unset.</source>
-        <translation type="unfinished">Toggle control point number lock. If locked then it is not possible to add or delete control points. Instead of deleting, position control points can be unset.</translation>
+        <translation>Comutați blocarea numărului punctului de control. Dacă este blocat, atunci nu este posibil să adăugați sau să ștergeți puncte de control. În loc de ștergere, punctele de control al poziției pot fi dezactivate.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="137"/>
         <source>Place options</source>
-        <translation type="unfinished">Place options</translation>
+        <translation>Opțiuni de plasare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="148"/>
         <source>Delete options</source>
-        <translation type="unfinished">Delete options</translation>
+        <translation>Ștergeți opțiunile</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="165"/>
         <source>More options</source>
-        <translation type="unfinished">More options</translation>
+        <translation>Mai multe opțiuni</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="543"/>
         <source>Unset position of the last control point placed (the control point will not be deleted).</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziția dezactivată a ultimului punct de control plasat (punctul de control nu va fi șters).</translation>
     </message>
 </context>
 <context>
@@ -23421,12 +23426,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="92"/>
         <source>Markups</source>
-        <translation type="unfinished">Markups</translation>
+        <translation>Markere</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="93"/>
         <source>Markups Fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Markere fiduciale</translation>
     </message>
 </context>
 <context>
@@ -23434,122 +23439,122 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="14"/>
         <source>Markups Settings</source>
-        <translation type="unfinished">Markups Settings</translation>
+        <translation>Setări markere</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="23"/>
         <source>Default glyph type:</source>
-        <translation type="unfinished">Default glyph type:</translation>
+        <translation>Tip glif implicit:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="30"/>
         <source>The symbol used for the markup</source>
-        <translation type="unfinished">The symbol used for the markup</translation>
+        <translation>Simbolul folosit pentru marcare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="37"/>
         <source>Vertex2D</source>
-        <translation type="unfinished">Vertex2D</translation>
+        <translation>Vertex2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="42"/>
         <source>Dash2D</source>
-        <translation type="unfinished">Dash2D</translation>
+        <translation>Dash2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="47"/>
         <source>Cross2D</source>
-        <translation type="unfinished">Cross2D</translation>
+        <translation>Cross2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="52"/>
         <source>ThickCross2D</source>
-        <translation type="unfinished">ThickCross2D</translation>
+        <translation>ThickCross2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="57"/>
         <source>Triangle2D</source>
-        <translation type="unfinished">Triangle2D</translation>
+        <translation>Triangle2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="62"/>
         <source>Square2D</source>
-        <translation type="unfinished">Square2D</translation>
+        <translation>Square2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="67"/>
         <source>Circle2D</source>
-        <translation type="unfinished">Circle2D</translation>
+        <translation>Circle2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="72"/>
         <source>Diamond2D</source>
-        <translation type="unfinished">Diamond2D</translation>
+        <translation>Diamond2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="77"/>
         <source>Arrow2D</source>
-        <translation type="unfinished">Arrow2D</translation>
+        <translation>Arrow2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="82"/>
         <source>ThickArrow2D</source>
-        <translation type="unfinished">ThickArrow2D</translation>
+        <translation>ThickArrow2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="87"/>
         <source>HookedArrow2D</source>
-        <translation type="unfinished">HookedArrow2D</translation>
+        <translation>HookedArrow2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="92"/>
         <source>StarBurst2D</source>
-        <translation type="unfinished">StarBurst2D</translation>
+        <translation>StarBurst2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="97"/>
         <source>Sphere3D</source>
-        <translation type="unfinished">Sphere3D</translation>
+        <translation>Sphere3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="105"/>
         <source>Default selected color:</source>
-        <translation type="unfinished">Default selected color:</translation>
+        <translation>Culoarea implicită elemente selectate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="129"/>
         <source>Default unselected color:</source>
-        <translation type="unfinished">Default unselected color:</translation>
+        <translation>Culoare implicită elemente neselectate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="153"/>
         <source>Default glyph scale:</source>
-        <translation type="unfinished">Default glyph scale:</translation>
+        <translation>Scala de glif implicită:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="160"/>
         <source>Default glyph scale</source>
-        <translation type="unfinished">Default glyph scale</translation>
+        <translation>Scala de glif implicită</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="176"/>
         <source>Default text scale:</source>
-        <translation type="unfinished">Default text scale:</translation>
+        <translation>Scala implicită a textului:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="183"/>
         <source>Default text scale</source>
-        <translation type="unfinished">Default text scale</translation>
+        <translation>Scala implicită a textului</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="199"/>
         <source>Default opacity:</source>
-        <translation type="unfinished">Default opacity:</translation>
+        <translation>Opacitate implicită:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="219"/>
         <source>Default active color:</source>
-        <translation type="unfinished">Default active color:</translation>
+        <translation>Culoare activă implicită:</translation>
     </message>
 </context>
 <context>
@@ -23557,32 +23562,32 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="14"/>
         <source>Add a 3D model</source>
-        <translation type="unfinished">Add a 3D model</translation>
+        <translation>Adăugați un model 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="26"/>
         <source>Add Model file(s)</source>
-        <translation type="unfinished">Add Model file(s)</translation>
+        <translation>Adăugați fișiere model</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="48"/>
         <source>Add Model directory</source>
-        <translation type="unfinished">Add Model directory</translation>
+        <translation>Adăugare directorul Model</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="64"/>
         <source>Select Model file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectare fișierele model</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="78"/>
         <source>Select a Model directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectare un director de model</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="111"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modele</translation>
     </message>
 </context>
 <context>
@@ -23590,32 +23595,32 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="14"/>
         <source>Models options</source>
-        <translation type="unfinished">Models options</translation>
+        <translation>Opțiuni modele</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="32"/>
         <source>Coordinate system:</source>
-        <translation type="unfinished">Coordinate system:</translation>
+        <translation>Sistem de coordonate:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="45"/>
         <source>Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</source>
-        <translation type="unfinished">Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</translation>
+        <translation>Utilizați LPS (stânga-posterior-superior) pentru o mai bună compatibilitate cu majoritatea software-ului (acesta este implicit). Utilizați RAS (dreapta-anterior-superior) pentru o mai bună compatibilitate cu versiunile anterioare Slicer. Dacă sistemul de coordonate este definit în fișier, atunci acesta este utilizat și această alegere este ignorată.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="49"/>
         <source>Default</source>
-        <translation type="unfinished">Default</translation>
+        <translation>Implicit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="54"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>LPS</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="59"/>
         <source>RAS</source>
-        <translation type="unfinished">RAS</translation>
+        <translation>RAS</translation>
     </message>
 </context>
 <context>
@@ -23627,17 +23632,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="47"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modele</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="73"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulul Modele încarcă și ajustează parametrii de afișare ai modelelor, cum ar fi culoarea, transparența și tăierea.&lt;br&gt;Salvați modelele prin meniul Fișier, butonul Salvare.&lt;br&gt;Butonul Adăugați model 3D sau un director de model vă va permite să încărcați orice model pe care Slicer îl poate citi, precum și toate modelele VTK dintr-un director. Adăugați suprapunere scalară va încărca un fișier scalar și îl va asocia cu modelul activ în prezent.&lt;br&gt;Puteți ajusta proprietățile de afișare ale modelelor în panoul de afișare. Selectați modelul la care doriți să lucrați din meniul derulant al selectorului de modele. Suprapunerile scalare sunt încărcate cu un tabel implicit de căutare a culorilor, dar pot fi reatribuite manual. Odată ce este aleasă o nouă suprapunere scalară, în prezent vechea hartă a culorilor este încă utilizată, astfel încât aceasta trebuie ajustată împreună cu suprapunerea.&lt;br&gt;Decuparea este activată pentru un model în panoul Afișare și planurile de secțiuni care vor decupa modelele sunt selectate în panoul Clipping.&lt;br&gt;Panorul Ierarhie model vă permite să grupați modele împreună și să setați proprietățile grupului.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="96"/>
         <source>This work was partially funded by NIH grants 3P41RR013218-12S1 and R01CA184354.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această lucrare a fost finanțată parțial de granturile NIH 3P41RR013218-12S1 și R01CA184354.</translation>
     </message>
 </context>
 <context>
@@ -23645,52 +23650,52 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="20"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modele</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="61"/>
         <source>Filter by name...</source>
-        <translation type="unfinished">Filter by name...</translation>
+        <translation>Filtrare după nume...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="71"/>
         <source>Turn the visibility off on all models (does not include hierarchies)</source>
-        <translation type="unfinished">Turn the visibility off on all models (does not include hierarchies)</translation>
+        <translation>Dezactivează vizibilitatea pe toate modelele (nu include ierarhiile)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="85"/>
         <source>Turns visibility on for all models (does not include hierarchies)</source>
-        <translation type="unfinished">Turns visibility on for all models (does not include hierarchies)</translation>
+        <translation>Activează vizibilitatea pentru toate modelele (nu include ierarhiile)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>Informații</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="146"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Afișare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="168"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished">Color legend for the Color Table selected in Scalars section.</translation>
+        <translation>Legenda culorilor pentru Tabelul de culori selectat în secțiunea Scalari.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="171"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>Legenda culorilor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clipping Planes</source>
-        <translation type="unfinished">Clipping Planes</translation>
+        <translation>Decupări planuri</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="219"/>
         <source>Clip selected model:</source>
-        <translation type="unfinished">Clip selected model:</translation>
+        <translation>Decupare model selectat:</translation>
     </message>
 </context>
 <context>
@@ -23698,12 +23703,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="14"/>
         <source>Module finder</source>
-        <translation type="unfinished">Module finder</translation>
+        <translation>Găsiți un modul</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="80"/>
         <source>Search in full text (module name and description). If unchecked then only module names are searched.</source>
-        <translation type="unfinished">Search in full text (module name and description). If unchecked then only module names are searched.</translation>
+        <translation>Căutați în text complet (numele și descrierea modulului). Dacă debifați, atunci sunt căutate numai numele modulelor.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
@@ -23713,87 +23718,87 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="93"/>
         <source>Show built-in modules. Unchecking makes it easier to find modules provided by extensions.</source>
-        <translation type="unfinished">Show built-in modules. Unchecking makes it easier to find modules provided by extensions.</translation>
+        <translation>Afișați modulele încorporate. Debifarea facilitează găsirea modulelor furnizate de extensii.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="96"/>
         <source>&amp;Built-in</source>
-        <translation type="unfinished">&amp;Built-in</translation>
+        <translation>&amp;Built-in</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
         <source>Show testing modules. Useful for software testing and troubleshooting.</source>
-        <translation type="unfinished">Show testing modules. Useful for software testing and troubleshooting.</translation>
+        <translation>Afișați modulele de testare. Util pentru testarea software-ului și depanarea.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
         <source>&amp;Testing</source>
-        <translation type="unfinished">&amp;Testing</translation>
+        <translation>&amp;Testare</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
         <source>Switch to module</source>
-        <translation type="unfinished">Switch to module</translation>
+        <translation>Comută la modul</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="205"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorie:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="244"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contributori:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="251"/>
         <source>Internal name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume intern:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="255"/>
         <source>Unknown type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip necunoscut</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="259"/>
         <source>Python Scripted Loadable</source>
-        <translation type="unfinished"></translation>
+        <translation>Scripturi Python încărcabile</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
         <source>C++ Loadable</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcabile C++</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="267"/>
         <source>Command-Line Interface (CLI)</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfață linie de comandă (CLI)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"/>
         <source>built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>integrat</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="273"/>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>Tip:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
         <source>Require:</source>
-        <translation type="unfinished"></translation>
+        <translation>Necesită:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="282"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Locație:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="291"/>
         <source>%1 module is not loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulul %1 nu este încărcat</translation>
     </message>
 </context>
 <context>
@@ -23801,27 +23806,27 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="20"/>
         <source>Module Panel</source>
-        <translation type="unfinished">Module Panel</translation>
+        <translation>Panou module</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="77"/>
         <source>Help &amp;&amp; Acknowledgement</source>
-        <translation type="unfinished">Help &amp;&amp; Acknowledgement</translation>
+        <translation>Ajutor &amp;&amp; Recunoștință</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="93"/>
         <source>Help</source>
-        <translation type="unfinished">Help</translation>
+        <translation>Ajutor</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="110"/>
         <source>Acknowledgement</source>
-        <translation type="unfinished">Acknowledgement</translation>
+        <translation>Recunoștință</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="196"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contributori:</translation>
     </message>
 </context>
 <context>
@@ -23829,68 +23834,68 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="99"/>
         <source>Modules:</source>
-        <translation type="unfinished">Modules:</translation>
+        <translation>Module:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="109"/>
         <source>Module Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Găsiți un modul</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="111"/>
         <source>Find module</source>
-        <translation type="unfinished">Find module</translation>
+        <translation>Găsiți un modul</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="138"/>
         <source>Select a module from the module list</source>
-        <translation type="unfinished">Select a module from the module list</translation>
+        <translation>Selectați un modul din lista de module</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="145"/>
         <source>Modules</source>
-        <translation type="unfinished">Modules</translation>
+        <translation>Module</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="152"/>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="156"/>
         <source>Modules history</source>
-        <translation type="unfinished">Modules history</translation>
+        <translation>Istoric module</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="154"/>
         <source>History</source>
-        <translation type="unfinished">History</translation>
+        <translation>Istoric</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="164"/>
         <source>Modules Previous History</source>
-        <translation type="unfinished">Modules Previous History</translation>
+        <translation>Precedentul modul din istoric</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="167"/>
         <source>Previous</source>
-        <translation type="unfinished">Previous</translation>
+        <translation>Precedentul</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="168"/>
         <source>Previous modules</source>
-        <translation type="unfinished">Previous modules</translation>
+        <translation>Modulele precedente</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="181"/>
         <source>Modules Next History</source>
-        <translation type="unfinished">Modules Next History</translation>
+        <translation>Următorul modul din istoric</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="184"/>
         <source>Next</source>
-        <translation type="unfinished">Next</translation>
+        <translation>Următorul</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="185"/>
         <source>Next modules</source>
-        <translation type="unfinished">Next modules</translation>
+        <translation>Următoarele module</translation>
     </message>
 </context>
 <context>
@@ -23898,7 +23903,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="152"/>
         <source>Requires:</source>
-        <translation type="unfinished"></translation>
+        <translation>Necesită:</translation>
     </message>
 </context>
 <context>
@@ -23906,57 +23911,57 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="81"/>
         <source>Translate/rotate view, adjust displayed objects</source>
-        <translation type="unfinished">Translate/rotate view, adjust displayed objects</translation>
+        <translation>Traduceți/rotiți vizualizarea, ajustați obiectele afișate</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="83"/>
         <source>View</source>
-        <translation type="unfinished">View</translation>
+        <translation>Vizualizare</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
         <source>Adjust</source>
-        <translation type="unfinished">Adjust</translation>
+        <translation>Ajustare</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
         <source>Adjust window/level by click-and-drag in a slice viewer.</source>
-        <translation type="unfinished">Adjust window/level by click-and-drag in a slice viewer.</translation>
+        <translation>Ajustați fereastra/nivelul făcând clic și trageți într-un vizualizator de felii.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
         <source>Select region</source>
-        <translation type="unfinished">Select region</translation>
+        <translation>Selectați regiunea</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="103"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation type="unfinished">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</translation>
+        <translation>Setați nivelul ferestrei pe baza unei regiuni dreptunghiulare, specificată prin clic și glisare într-un vizualizator de secțiuni. Poziția clicului este folosită ca colț al regiunii.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
         <source>Select region - centered</source>
-        <translation type="unfinished">Select region - centered</translation>
+        <translation>Selectați regiunea - centrată</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="109"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation type="unfinished">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</translation>
+        <translation>Setați nivelul ferestrei pe baza unei regiuni dreptunghiulare, specificată prin clic și trage într-un vizualizator de secțiuni. Poziția clicului este folosită ca centru al regiunii.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
         <source>Adjust window/level</source>
-        <translation type="unfinished">Adjust window/level</translation>
+        <translation>Reglați fereastra/nivelul</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
         <source>Adjust window/level of volume by left-click-and-drag in slice views. Hold down Ctrl/Cmd key for temporarily switch between adjustment and region-based setting.</source>
-        <translation type="unfinished">Adjust window/level of volume by left-click-and-drag in slice views. Hold down Ctrl/Cmd key for temporarily switch between adjustment and region-based setting.</translation>
+        <translation>Ajustați fereastra/nivelul de volum făcând clic stânga și trageți în vizualizările secțiuni. Țineți apăsată tasta Ctrl/Cmd pentru a comuta temporar între reglare și setarea bazată pe regiune.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="135"/>
         <source>Window/level</source>
-        <translation type="unfinished">Window/level</translation>
+        <translation>Fereastra/nivel</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
@@ -23964,27 +23969,27 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="178"/>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="179"/>
         <source>Toggle Markups Toolbar</source>
-        <translation type="unfinished">Toggle Markups Toolbar</translation>
+        <translation>Comutați bara de instrumente markeri</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="156"/>
         <source>Place Menu</source>
-        <translation type="unfinished">Place Menu</translation>
+        <translation>Plasare meniu</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="163"/>
         <source>Create and Place</source>
-        <translation type="unfinished">Create and Place</translation>
+        <translation>Creare și plasare</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="164"/>
         <source>Place</source>
-        <translation type="unfinished">Place</translation>
+        <translation>Plasare</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
-        <translation type="unfinished">Place a control point</translation>
+        <translation>Plasați un punct de control</translation>
     </message>
 </context>
 <context>
@@ -24023,12 +24028,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="14"/>
         <source>MultiVolume GPU RayCast</source>
-        <translation type="unfinished">MultiVolume GPU RayCast</translation>
+        <translation>GPU RayCast MultiVolume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Tehnică:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="39"/>
@@ -24044,7 +24049,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="49"/>
         <source>Surface smoothing:</source>
-        <translation type="unfinished">Surface smoothing:</translation>
+        <translation>Netezirea suprafeței:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="77"/>
@@ -24067,12 +24072,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="14"/>
         <source>Node Writer Options</source>
-        <translation type="unfinished">Node Writer Options</translation>
+        <translation>Opțiuni Node Writer</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="23"/>
         <source>Compress</source>
-        <translation type="unfinished">Compress</translation>
+        <translation>Compresie</translation>
     </message>
 </context>
 <context>
@@ -24080,7 +24085,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.h" line="46"/>
         <source>Plots</source>
-        <translation type="unfinished">Plots</translation>
+        <translation>Plotări</translation>
     </message>
 </context>
 <context>
@@ -24088,37 +24093,37 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="20"/>
         <source>Plots</source>
-        <translation type="unfinished">Plots</translation>
+        <translation>Plotări</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="46"/>
         <source>Charts</source>
-        <translation type="unfinished">Charts</translation>
+        <translation>Grafice</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="58"/>
         <source>Chart:</source>
-        <translation type="unfinished">Chart:</translation>
+        <translation>Grafic:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="94"/>
         <source>Allow plot editing</source>
-        <translation type="unfinished">Allow plot editing</translation>
+        <translation>Permiote editarea plotării</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="114"/>
         <source>Series</source>
-        <translation type="unfinished">Series</translation>
+        <translation>Serii</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="120"/>
         <source>Data series:</source>
-        <translation type="unfinished">Data series:</translation>
+        <translation>Serii de date:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="142"/>
         <source>Clone data series</source>
-        <translation type="unfinished">Clone data series</translation>
+        <translation>Clonare serii de date</translation>
     </message>
 </context>
 <context>
@@ -24126,12 +24131,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="149"/>
         <source>Preset</source>
-        <translation type="unfinished">Preset</translation>
+        <translation>Presetări</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="272"/>
         <source>Select a Preset</source>
-        <translation type="unfinished">Select a Preset</translation>
+        <translation>Selectare presetare</translation>
     </message>
 </context>
 <context>
@@ -24139,7 +24144,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="44"/>
         <source>Reformat</source>
-        <translation type="unfinished"></translation>
+        <translation>Reformatare</translation>
     </message>
 </context>
 <context>
@@ -24150,67 +24155,67 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="110"/>
         <source>Reformat</source>
         <oldsource>Form</oldsource>
-        <translation type="unfinished">Form</translation>
+        <translation>Reformatează</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
         <source>Slice:</source>
-        <translation type="unfinished">Slice:</translation>
+        <translation>Felie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="76"/>
         <source>Show reformat widget in 3D view</source>
-        <translation type="unfinished">Show reformat widget in 3D view</translation>
+        <translation>Afișați widgetul de reformat în vizualizarea 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="108"/>
         <source>Display &amp;&amp; Edit</source>
-        <translation type="unfinished">Display &amp;&amp; Edit</translation>
+        <translation>Afișează &amp;&amp; Editează</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="117"/>
         <source>Offset</source>
-        <translation type="unfinished">Offset</translation>
+        <translation>Offset</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="197"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation>Origine</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="215"/>
         <source>Coordinate Reference</source>
-        <translation type="unfinished">Coordinate Reference</translation>
+        <translation>Referință coordonate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="221"/>
         <source>On Plane</source>
-        <translation type="unfinished">On Plane</translation>
+        <translation>Pe plan</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="231"/>
         <source>In Volume</source>
-        <translation type="unfinished">In Volume</translation>
+        <translation>În Volum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="265"/>
         <source>Center</source>
-        <translation type="unfinished">Center</translation>
+        <translation>Centrat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="278"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="302"/>
         <source>Rotate the slice in the current slice plane, around the slice normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotiți felia în planul curent al feliei, în jurul feliei</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="315"/>
         <source>Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="325"/>
@@ -24235,87 +24240,87 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="360"/>
         <source>Rotate the slice view to be aligned with the axes of the displayed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotiți vizualizarea secțiunii pentru a fi aliniată cu axele volumului afișat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="552"/>
         <source>Flip slice view horizontally (left-right)</source>
-        <translation type="unfinished"></translation>
+        <translation>Întoarceți vizualizarea secțiunii pe orizontală (stânga-dreapta)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="363"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished">Rotate to volume plane</translation>
+        <translation>Rotire în planul volumului</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="370"/>
         <source>Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotație:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="383"/>
         <source>Rotate around the slice vertical axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotiți în jurul axei verticale a feliei</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="405"/>
         <source>Rotate around the slice horizontal axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotiți în jurul axei orizontale a feliei</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="421"/>
         <source>Reset to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetare la:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="428"/>
         <source>Normal:</source>
-        <translation type="unfinished">Normal:</translation>
+        <translation>Normal:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="435"/>
         <source>Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Orizontal:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="518"/>
         <source>Normal to Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal to Camera</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="555"/>
         <source>Flip H</source>
-        <translation type="unfinished"></translation>
+        <translation>Întoarcere H</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="562"/>
         <source>Flip slice view vertically (upside-down)</source>
-        <translation type="unfinished"></translation>
+        <translation>Întoarceți vizualizarea secțiunii pe verticală (cu susul în jos)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="565"/>
         <source>Flip V</source>
-        <translation type="unfinished"></translation>
+        <translation>Întoarcere V</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="572"/>
         <source>Rotate slice view clockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotiți vizualizarea secțiunii în sensul acelor de ceasornic cu 90 de grade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="575"/>
         <source>Rotate CW</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotiți CW</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="582"/>
         <source>Rotate slice view counterclockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotiți vizualizarea secțiunii în sens invers acelor de ceasornic cu 90 de grade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="585"/>
         <source>Rotate CCW</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotire CCW</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -24336,22 +24341,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="472"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
-        <translation type="unfinished">Slice orientation (Axial, Sagittal, Coronal, Reformat).</translation>
+        <translation>Orientare secțiune (Axial, Sagital, Coronal, Reformat).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="479"/>
         <source>Axial</source>
-        <translation type="unfinished">Axial</translation>
+        <translation>Axial</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="484"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>Sagittal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="489"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>Coronal</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -24380,12 +24385,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="616"/>
         <source>Lock Normal To Camera</source>
-        <translation type="unfinished">Lock Normal To Camera</translation>
+        <translation>Blocați normal la cameră</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="619"/>
         <source>Lock reformat widget&apos;s normal to the camera one. </source>
-        <translation type="unfinished">Lock reformat widget&apos;s normal to the camera one. </translation>
+        <translation>Blocare widget de reformat este normal la cel al camerei. </translation>
     </message>
 </context>
 <context>
@@ -24393,57 +24398,57 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="14"/>
         <source>Save Scene and Unsaved Data</source>
-        <translation type="unfinished">Save Scene and Unsaved Data</translation>
+        <translation>Salvare scena și datele nesalvate</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="24"/>
         <source>select modified data only</source>
-        <translation type="unfinished">select modified data only</translation>
+        <translation>selectare numai datele modificate</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="54"/>
         <source>Change directory for selected files</source>
-        <translation type="unfinished">Change directory for selected files</translation>
+        <translation>Schimbați directorul pentru fișierele selectate</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="61"/>
         <source>Show options</source>
-        <translation type="unfinished">Show options</translation>
+        <translation>Afișare opțiuni</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="68"/>
         <source>Select scene &amp; modified data only</source>
-        <translation type="unfinished">Select scene &amp; modified data only</translation>
+        <translation>Selectare doar scena și datele modificate</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="98"/>
         <source>File Name</source>
-        <translation type="unfinished">File Name</translation>
+        <translation>Nume fișier</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="103"/>
         <source>File Format</source>
-        <translation type="unfinished">File Format</translation>
+        <translation>Format fișier</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="108"/>
         <source>Directory</source>
-        <translation type="unfinished">Directory</translation>
+        <translation>Director</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="113"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Opțiuni</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="118"/>
         <source>Node Name</source>
-        <translation type="unfinished">Node Name</translation>
+        <translation>Nume nod</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="123"/>
         <source>Node Type</source>
-        <translation type="unfinished">Node Type</translation>
+        <translation>Tip nod</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="128"/>
@@ -24453,12 +24458,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="136"/>
         <source>Create a Medical Record Bundle containing the scene</source>
-        <translation type="unfinished">Create a Medical Record Bundle containing the scene</translation>
+        <translation>Creați un pachet de fișe medicale (MRB) care să conțină scena</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Au apărut erori sau avertismente la salvare. Consultați pictogramele de stare pentru detalii.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="603"/>
@@ -24466,69 +24471,69 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1141"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1148"/>
         <source>Modified</source>
-        <translation type="unfinished">Modified</translation>
+        <translation>Modificat</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="603"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="897"/>
         <source>Not Modified</source>
-        <translation type="unfinished">Not Modified</translation>
+        <translation>Nemodificat</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="656"/>
         <source>Select a format</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați un format</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="682"/>
         <source>Output folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Director de ieșire</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="733"/>
         <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
-        <translation type="unfinished">Scene file was not saved because user chose not to overwrite existing file: %1.</translation>
+        <translation>Fișierul de scenă nu a fost salvat deoarece utilizatorul a ales să nu suprascrie fișierul existent: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="822"/>
         <source>Node %1 not saved, file name is empty.</source>
-        <translation type="unfinished">Node %1 not saved, file name is empty.</translation>
+        <translation>Nodul %1 nu a fost salvat, numele fișierului este nespecificat.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="832"/>
         <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
-        <translation type="unfinished">Node %1 was not saved because user chose not to overwrite existing file: %2.</translation>
+        <translation>Nodul %1 nu a fost salvat deoarece utilizatorul a ales să nu suprascrie fișierul existent: %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="870"/>
         <source>Cannot write data file: %1.</source>
-        <translation type="unfinished">Cannot write data file: %1.</translation>
+        <translation>Nu se poate scrie fișierul de date: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="875"/>
         <source>Failed to save node %1 to file %2.</source>
-        <translation type="unfinished">Failed to save node %1 to file %2.</translation>
+        <translation>Nu s-a salvat nodul %1 în fișierul %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="924"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1128"/>
         <source>Scene</source>
-        <translation type="unfinished">Scene</translation>
+        <translation>Scena</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1440"/>
         <source>Any Data</source>
-        <translation type="unfinished">Any Data</translation>
+        <translation>Orice date</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1473"/>
         <source>Saving file...</source>
-        <translation type="unfinished">Saving file...</translation>
+        <translation>Salvare fișier...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1474"/>
         <source>The file: %1 already exists. Do you want to replace it ?</source>
-        <translation type="unfinished">The file: %1 already exists. Do you want to replace it ?</translation>
+        <translation>Fișierul: %1 există deja. Vrei sa îl inlocuiesti ?</translation>
     </message>
 </context>
 <context>
@@ -24536,42 +24541,42 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="14"/>
         <source>Scalar Volume Display</source>
-        <translation type="unfinished">Scalar Volume Display</translation>
+        <translation>Afișare volumul scalar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="38"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Presetări:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="56"/>
         <source>Lookup Table:</source>
-        <translation type="unfinished">Lookup Table:</translation>
+        <translation>Tabel de căutare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="63"/>
         <source>Select the color mapping for scalar volumes to colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați maparea culorilor pentru volume scalare în culori.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="79"/>
         <source>Interpolate:</source>
-        <translation type="unfinished">Interpolate:</translation>
+        <translation>Interpolare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="86"/>
         <source>When checked, slice views will display linearly interpolated slices through input volumes. Unchecked indicates nearest neighbor resampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Când sunt bifate, vizualizările secțiunilor vor afișa secțiuni interpolate liniar prin volumele de intrare. Nebifat indică reeșantionarea vecinului cel mai apropiat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="132"/>
         <source>Shows the number of pixels (y axis) vs the image intensity (x axis) over a background of the current window/level and threshold mapping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează numărul de pixeli (axa y) față de intensitatea imaginii (axa x) pe fundalul ferestrei/nivelului curent și maparea pragului.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="135"/>
         <source>Histogram</source>
-        <translation type="unfinished">Histogram</translation>
+        <translation>Histogramă</translation>
     </message>
 </context>
 <context>
@@ -24579,12 +24584,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="59"/>
         <source>MRB Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachet de date MRB Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="98"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachetul de realitate medicală (MRB)</translation>
     </message>
 </context>
 <context>
@@ -24592,12 +24597,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="14"/>
         <source>Scene Options</source>
-        <translation type="unfinished">Scene Options</translation>
+        <translation>Opțiuni scenă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="23"/>
         <source>Clear existing scene</source>
-        <translation type="unfinished">Clear existing scene</translation>
+        <translation>Ștergeți scena existentă</translation>
     </message>
 </context>
 <context>
@@ -24606,27 +24611,27 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="65"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="103"/>
         <source>MRML Scene</source>
-        <translation type="unfinished">MRML Scene</translation>
+        <translation>Scenă MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="134"/>
         <source>The scene file was saved with %1 application (this application is %2).</source>
-        <translation type="unfinished">The scene file was saved with %1 application (this application is %2).</translation>
+        <translation>Fișierul scenei a fost salvat cu aplicația %1 (această aplicație este %2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="142"/>
         <source>The scene file was created with a newer version of the application (%1) than the current version (%2).</source>
-        <translation type="unfinished">The scene file was created with a newer version of the application (%1) than the current version (%2).</translation>
+        <translation>Fișierul scenei a fost creat cu o versiune mai nouă a aplicației (%1) decât versiunea curentă (%2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="148"/>
         <source>The scene may not load correctly.</source>
-        <translation type="unfinished">The scene may not load correctly.</translation>
+        <translation>Este posibil ca scena să nu se încarce corect.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="172"/>
         <source>These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</source>
-        <translation type="unfinished">These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</translation>
+        <translation>Aceste extensii au fost instalate când scena a fost salvată, dar nu au fost instalate acum: %1. Aceste extensii pot fi necesare pentru încărcarea cu succes a scenei.</translation>
     </message>
 </context>
 <context>
@@ -24634,7 +24639,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="39"/>
         <source>Views</source>
-        <translation type="unfinished">Views</translation>
+        <translation>Vederi</translation>
     </message>
 </context>
 <context>
@@ -24642,7 +24647,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="31"/>
         <source>3D Slicer SceneView</source>
-        <translation type="unfinished">3D Slicer SceneView</translation>
+        <translation>3D Slicer SceneView</translation>
     </message>
 </context>
 <context>
@@ -24651,40 +24656,40 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="45"/>
         <source>SceneViews</source>
-        <translation type="unfinished">SceneViews</translation>
+        <translation>SceneViews</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="114"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Thumbnail</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="115"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Descriere</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
         <source>Actions</source>
-        <translation type="unfinished">Actions</translation>
+        <translation>Acțiuni</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="181"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="182"/>
         <source>Restore</source>
-        <translation type="unfinished">Restore</translation>
+        <translation>Restaurare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="187"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="188"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Editare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="193"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="194"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Șterge</translation>
     </message>
 </context>
 <context>
@@ -24693,44 +24698,44 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="63"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="83"/>
         <source>MRML Scene</source>
-        <translation type="unfinished">MRML Scene</translation>
+        <translation>Scenă MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="84"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachetul de realitate medicală (MRB)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="85"/>
         <source>Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachet de date Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="101"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="177"/>
         <source>Failed to save scene as %1 (path %2 is not writeable)</source>
-        <translation type="unfinished">Failed to save scene as %1 (path %2 is not writeable)</translation>
+        <translation>Nu s-a salvat scena ca %1 (calea %2 nu poate fi scrisă)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="149"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="194"/>
         <source>Failed to save scene as %1</source>
-        <translation type="unfinished">Failed to save scene as %1</translation>
+        <translation>Nu s-a salvat scena ca %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="232"/>
         <source>fails to be created</source>
-        <translation type="unfinished">fails to be created</translation>
+        <translation>nu reușește să fie creat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="235"/>
         <source>contains 1 file or directory</source>
-        <translation type="unfinished">contains 1 file or directory</translation>
+        <translation>conține 1 fișier sau director</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="238"/>
         <source>contains %1 files or directories</source>
-        <translation type="unfinished">contains %1 files or directories</translation>
+        <translation>conține %1 fișiere sau directoare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="241"/>
@@ -24738,10 +24743,10 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 &quot;%1&quot;
 %2.
 Please choose an empty directory.</source>
-        <translation type="unfinished">Selected directory
-&quot;%1&quot;
+        <translation>Directorul selectat
+„%1”
 %2.
-Please choose an empty directory.</translation>
+Vă rugăm să alegeți un director gol.</translation>
     </message>
 </context>
 <context>
@@ -24749,12 +24754,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1075"/>
         <source>Operate on invisible segment?</source>
-        <translation type="unfinished"></translation>
+        <translation>Operați pe segment invizibil?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1076"/>
         <source>The currently selected segment is hidden. Would you like to make it visible?</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentul selectat în prezent este ascuns. Vrei să-l faci vizibil?</translation>
     </message>
 </context>
 <context>
@@ -24762,12 +24767,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="56"/>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>Şterge</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="75"/>
         <source>Erase from current segment with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; erase from segment around the mouse pointer.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergere din segmentul curent cu o perie rotundă&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Trasați și plasați butonul din stânga:&lt;/b&gt; ștergeți din segmentul din jurul mouse-ului cursor.&lt;li&gt;&lt;b&gt;Shift + rotița mouse-ului&lt;/b&gt; sau &lt;b&gt;+/- tastele:&lt;/b&gt; ajustați dimensiunea pensulei.&lt;li&gt;&lt;b&gt;Ctrl + rotița mouse-ului:&lt;/b&gt; vizualizare în felii măriți/micșorați.&lt;/ul&gt;&lt;p&gt;Editarea este disponibilă atât în vizualizarea slice, cât și în vizualizarea 3D.&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -24780,12 +24785,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="980"/>
         <source>Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pictează cu o perie rotundă&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Trasarea și plasarea butonului din stânga:&lt;/b&gt; mișcări de vopsea.&lt;li&gt;&lt;b&gt; Shift + rotița mouse-ului&lt;/b&gt; sau tastele &lt;b&gt;+/-:&lt;/b&gt; ajustați dimensiunea pensulei.&lt;li&gt;&lt;b&gt;Ctrl + rotița mouse-ului:&lt;/b&gt; măriți/micșorați vizualizarea în secțiune.&lt;/ul &gt;&lt;p&gt;Editarea este disponibilă atât în vizualizări slice, cât și 3D.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1415"/>
         <source>Diameter:</source>
-        <translation type="unfinished">Diameter:</translation>
+        <translation>Diametru:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1417"/>
@@ -24793,62 +24798,62 @@ Please choose an empty directory.</translation>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1426"/>
         <source>Set the paint brush size as a percentage of screen height or physical size</source>
         <oldsource>Set the paint brush size as percentage of screen size or as fixed length</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Setați dimensiunea pensulei ca procent din înălțimea ecranului sau dimensiunea fizică</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1436"/>
         <source>Sphere brush</source>
-        <translation type="unfinished"></translation>
+        <translation>Perie sferică</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1437"/>
         <source>Use a 3D spherical brush rather than a 2D circular brush.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați o perie sferică 3D în loc de o perie circulară 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1440"/>
         <source>Edit in 3D views</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare în vizualizări 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1441"/>
         <source>Allow painting in 3D views. If enabled, click-and-drag in a 3D view paints in the view instead of rotating the view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite pictarea în vizualizări 3D. Dacă este activat, faceți clic și trageți într-o vizualizare 3D pictează în vizualizare în loc să rotiți vizualizarea.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1445"/>
         <source>Color smudge</source>
-        <translation type="unfinished"></translation>
+        <translation>Pata de culoare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1446"/>
         <source>Select segment by sampling the pixel locationwhere the brush stroke starts. If brush stroke starts in an empty area then the brush erases highlighted region from the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați segmentul prin eșantionarea locației pixelului unde începe cursa pensulei. Dacă cursa pensulei începe într-o zonă goală, atunci pensula șterge regiunea evidențiată din segmentul selectat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1453"/>
         <source>Erase all segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeți toate segmentele</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1454"/>
         <source>If not checked then highlighted area is erased from all segments. If unchecked then only area is only erased from selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă nu este bifată, atunci zona evidențiată este ștearsă din toate segmentele. Dacă nu este bifată, atunci numai zona este ștearsă doar din segmentul selectat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1461"/>
         <source>Pixel mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod pixel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1462"/>
         <source>Paint exactly the pixel under the cursor, ignoring the diameter, threshold, and paint over.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pictează exact pixelul de sub cursor, ignorând diametrul, pragul și pictați peste.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1565"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
 </context>
 <context>
@@ -24856,132 +24861,132 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1163"/>
         <source>Scissors</source>
-        <translation type="unfinished"></translation>
+        <translation>Foarfeci</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
         <source>Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Decupați întregul segment din punctul de vedere actual&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Trasați și plasați butonul din stânga:&lt;/b&gt; măturați un contur. &lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; anulați.&lt;/ul&gt;&lt;p&gt;Editarea este disponibilă atât în vizualizările slice, cât și 3D. În vizualizarea secțiunii, tăierea va fi aplicată tuturor feliilor.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1203"/>
         <source>Erase inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge interiorul</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1204"/>
         <source>Erase outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge exteriorul</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1205"/>
         <source>Fill inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Umplere interior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1206"/>
         <source>Fill outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Umplere exterior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1208"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operație:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1225"/>
         <source>Free-form</source>
-        <translation type="unfinished"></translation>
+        <translation>Free-form</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1226"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerc</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreptunghi</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1228"/>
         <source>Centered</source>
-        <translation type="unfinished">Centered</translation>
+        <translation>Centrat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1230"/>
         <source>If checked, click position sets the circle or rectangle center, otherwise click position is at the shape boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă este bifată, poziția clic setează centrul cercului sau dreptunghiului, în caz contrar, poziția clic se află la limita formei.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1232"/>
         <source>Shape:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formă:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1249"/>
         <source>Unlimited</source>
-        <translation type="unfinished">Unlimited</translation>
+        <translation>Nelimitat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1250"/>
         <source>Cut through the entire segmentation. Only used for slice views.</source>
-        <translation type="unfinished">Cut through the entire segmentation. Only used for slice views.</translation>
+        <translation>Tăiați întreaga segmentare. Folosit numai pentru vizualizările secțiunilor.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1251"/>
         <source>Positive</source>
-        <translation type="unfinished">Positive</translation>
+        <translation>Pozitiv</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1252"/>
         <source>Only positive side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation type="unfinished">Only positive side of the slice plane is included in cut region. Only used for slice views.</translation>
+        <translation>Doar partea pozitivă a planului de felie este inclusă în regiunea tăiată. Folosit numai pentru vizualizările secțiunilor.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1253"/>
         <source>Negative</source>
-        <translation type="unfinished">Negative</translation>
+        <translation>Negativ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1254"/>
         <source>Only negative side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation type="unfinished">Only negative side of the slice plane is included in cut region. Only used for slice views.</translation>
+        <translation>Doar partea negativă a planului de felie este inclusă în regiunea tăiată. Folosit numai pentru vizualizările secțiunilor.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1255"/>
         <source>Symmetric</source>
-        <translation type="unfinished">Symmetric</translation>
+        <translation>Simetric</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1256"/>
         <source>Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</source>
-        <translation type="unfinished">Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</translation>
+        <translation>Regiunea de tăiere este limitată la grosimea specificată în jurul planului de felie. Folosit numai pentru vizualizările secțiunilor.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1259"/>
         <source>Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</source>
-        <translation type="unfinished">Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</translation>
+        <translation>Grosimea regiunii tăiate. 0 înseamnă că numai porțiunea curentă este inclusă. Folosit numai pentru vizualizările secțiunilor.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1266"/>
         <source>Slice cut:</source>
-        <translation type="unfinished">Slice cut:</translation>
+        <translation>Tăiere felie:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1267"/>
         <source>Restrict cut region in slice views.</source>
-        <translation type="unfinished">Restrict cut region in slice views.</translation>
+        <translation>Restricționați regiunea tăiată în vizualizările secțiunilor.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1275"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplică la segmentele vizibile:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1276"/>
         <source>Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </source>
-        <translation type="unfinished">Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </translation>
+        <translation>Aplicați efectul de foarfece pe toate segmentele vizibile de sus în jos. După apăsarea „Aplicați”: Vă rugăm să aveți răbdare - acest lucru poate consuma mult timp. Progresul va fi afișat ca mesaj de stare. </translation>
     </message>
 </context>
 <context>
@@ -24989,32 +24994,32 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="14"/>
         <source>Segmentations Options</source>
-        <translation type="unfinished">Segmentations Options</translation>
+        <translation>Opțiuni segmentări</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="32"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-        <translation type="unfinished">Automatically set opacities of the segments based on which contains which, so that no segment obscures another</translation>
+        <translation>Setare automată opacitățile segmentelor în funcție de care ce conține, astfel încât niciun segment să nu ascundă altul</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="35"/>
         <source>Automatic Segment Opacities</source>
-        <translation type="unfinished">Automatic Segment Opacities</translation>
+        <translation>Opacități automate de segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="51"/>
         <source>Color node:</source>
-        <translation type="unfinished">Color node:</translation>
+        <translation>Nod culoare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="61"/>
         <source>Color table node used to display this volume.</source>
-        <translation type="unfinished">Color table node used to display this volume.</translation>
+        <translation>Nodul tabel de culori utilizat pentru afișarea acestui volum.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="64"/>
         <source>vtkMRMLColorTableNode</source>
-        <translation type="unfinished">vtkMRMLColorTableNode</translation>
+        <translation>vtkMRMLColorTableNode</translation>
     </message>
 </context>
 <context>
@@ -25024,142 +25029,142 @@ Please choose an empty directory.</translation>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="180"/>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.h" line="47"/>
         <source>Segmentations</source>
-        <translation type="unfinished">Segmentations</translation>
+        <translation>Segmentări</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="40"/>
         <source> Active segmentation:</source>
-        <translation type="unfinished"> Active segmentation:</translation>
+        <translation> Segmentări active:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="47"/>
         <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
-        <translation type="unfinished">Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</translation>
+        <translation>Nod care a fost folosit pentru setarea geometriei de segmentare (origine, spațiere, direcții ale axei și extinderea implicită)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="50"/>
         <source> Source geometry:</source>
-        <translation type="unfinished"> Source geometry:</translation>
+        <translation> Geometria sursei:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="104"/>
         <source>Add empty segment</source>
-        <translation type="unfinished">Add empty segment</translation>
+        <translation>Adăugare un segment gol</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="107"/>
         <source>Add segment</source>
-        <translation type="unfinished">Add segment</translation>
+        <translation>Adăugare un segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="118"/>
         <source>Remove selected segment</source>
-        <translation type="unfinished">Remove selected segment</translation>
+        <translation>Eliminare segment selectat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="121"/>
         <source>Remove selected</source>
-        <translation type="unfinished">Remove selected</translation>
+        <translation>Eliminare selecție</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="135"/>
         <source>Go to Segment Editor module</source>
-        <translation type="unfinished"></translation>
+        <translation>Accesare modul Editor de segmente</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="138"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="164"/>
         <source>Display settings for the segmentation (all segments)</source>
-        <translation type="unfinished">Display settings for the segmentation (all segments)</translation>
+        <translation>Setări de afișare pentru segmentare (toate segmentele)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="167"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Afișare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="194"/>
         <source>List of representations to see available and existing ones, and creating or updating them</source>
-        <translation type="unfinished">List of representations to see available and existing ones, and creating or updating them</translation>
+        <translation>Lista de reprezentări pentru a vedea cele disponibile și existente și crearea sau actualizarea acestora</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="197"/>
         <source>Representations</source>
-        <translation type="unfinished">Representations</translation>
+        <translation>Reprezentări</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="224"/>
         <source>Copy/move segments</source>
-        <translation type="unfinished">Copy/move segments</translation>
+        <translation>Copiere/mutare segmente</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="265"/>
         <source>Current segmentation</source>
-        <translation type="unfinished">Current segmentation</translation>
+        <translation>Segmentarea curentă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="307"/>
         <source>Move from current segmentation to other Segmentation node</source>
-        <translation type="unfinished">Move from current segmentation to other Segmentation node</translation>
+        <translation>Mutați din segmentarea curentă la alt nod de Segmentare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="310"/>
         <source>&gt;</source>
-        <translation type="unfinished">&gt;</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="335"/>
         <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished">Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</translation>
+        <translation>Copiați din segmentarea curentă în alt nod (nodul de segmentare pentru copiere și nodul Model sau Labelmap pentru import/export)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="338"/>
         <source>+&gt;</source>
-        <translation type="unfinished">+&gt;</translation>
+        <translation>+&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="363"/>
         <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished">Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</translation>
+        <translation>Copiați în segmentarea curentă de la alt nod (nodul de segmentare pentru copiere și nodul Model sau Labelmap pentru import/export)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="366"/>
         <source>&lt;+</source>
-        <translation type="unfinished">&lt;+</translation>
+        <translation>&lt;+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
         <source>Move to current segmentation from other Segmentation node</source>
-        <translation type="unfinished">Move to current segmentation from other Segmentation node</translation>
+        <translation>Mutați în segmentarea curentă de la alt nod de Segmentare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="416"/>
         <source>Select Segmentation node to copy/move segments to/from.</source>
-        <translation type="unfinished">Select Segmentation node to copy/move segments to/from.</translation>
+        <translation>Selectați Nodul Segmentare pentru a copia/muta segmentele către/de la.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="457"/>
         <source>Export/import models and labelmaps</source>
-        <translation type="unfinished">Export/import models and labelmaps</translation>
+        <translation>Export/import modele și hărți de etichete (labelmaps-uri)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="489"/>
         <source>Clear selection indicating that a new node should be created</source>
-        <translation type="unfinished">Clear selection indicating that a new node should be created</translation>
+        <translation>Ștergeți selecția care indică faptul că ar trebui creat un nou nod</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="505"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operație:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="512"/>
@@ -25296,12 +25301,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="99"/>
         <source>Segmentations module manages segmentations. Each segmentation can contain multiple segments, which correspond to one structure or ROI. Each segment can contain multiple data representations for the same structure, and the module supports automatic conversion between these representations as well as advanced display settings and import/export features.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulul Segmentări gestionează segmentările. Fiecare segmentare poate conține mai multe segmente, care corespund unei singure structuri sau ROI. Fiecare segment poate conține mai multe reprezentări de date pentru aceeași structură, iar modulul acceptă conversia automată între aceste reprezentări, precum și setări avansate de afișare și funcții de import/export.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="112"/>
         <source>This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</source>
-        <translation type="unfinished"></translation>
+        <translation>Această lucrare face parte din proiectul SparKit, finanțat de programul ACRU Cancer Care Ontario (CCO) și Consorțiul Ontario pentru Intervenții Adaptative în Oncologie Radiațională (OCAIRO).</translation>
     </message>
 </context>
 <context>
@@ -25309,12 +25314,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="633"/>
         <source>Output type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipe ieșire:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="634"/>
         <source>Output node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nod de ieșire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="635"/>
@@ -25324,12 +25329,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="641"/>
         <source>Input type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip de intrare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="642"/>
         <source>Input node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nod de intrare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="643"/>
@@ -25339,12 +25344,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="660"/>
         <source>Export to new labelmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportarei într-o nouă hartă de etichete</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="668"/>
         <source>Export models to new folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportare modele într-un folder nou</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="779"/>
@@ -25358,7 +25363,11 @@ Note: This may result in unwanted data loss in %5.</source>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate converti reprezentarea sursă „%1” în sursa țintă „%2”, prin urmare nu se poate copia segmentul „%3” din segmentarea „%4” în „%5”.
+
+Doriți să schimbați reprezentarea sursă a lui „%5” în „%1”?
+
+Notă: Acest lucru poate duce la pierderi nedorite de date în %5.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="785"/>
@@ -25368,7 +25377,7 @@ Note: This may result in unwanted data loss in %5.</oldsource>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="793"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut converti %1 în %2!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="794"/>
@@ -25378,26 +25387,30 @@ Note: This may result in unwanted data loss in %5.</oldsource>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="918"/>
         <source>Export may erase data</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportul poate șterge datele</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="923"/>
         <source>Segmentations/AlwaysCropDuringSegmentationNodeExport</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentations/AlwaysCropDuringSegmentationNodeExport</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="924"/>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentarea actuală nu se încadrează complet în noua geometrie.
+Doriți să decupați segmentarea?
+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1000"/>
         <source>Failed to export segments from segmentation %1 to labelmap node %2!
 
 Most probably the segment cannot be converted into binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au putut exporta segmentele din segmentarea %1 în nodul labelmap %2!
+
+Cel mai probabil, segmentul nu poate fi convertit în reprezentare binară labelmap.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1004"/>
@@ -25409,7 +25422,9 @@ Most probably the segment cannot be converted into binary labelmap representatio
         <source>Failed to export segments from segmentation %1 to models in folder %2!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au putut exporta segmentele din segmentarea %1 în modelele din folderul %2!
+
+Cel mai probabil, segmentul nu poate fi convertit în reprezentare de suprafață închisă.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1020"/>
@@ -25419,7 +25434,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1077"/>
         <source>Failed to copy labels from labelmap volume node %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Copierea etichetelor din nodul de volum labelmap %1 a eșuat!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1079"/>
@@ -25429,7 +25444,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1088"/>
         <source>Failed to copy polydata from model node %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Copierea polidatelor din nodul model %1 a eșuat!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1090"/>
@@ -25439,7 +25454,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1099"/>
         <source>Failed to copy polydata from models under folder %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Copierea polidatelor de pe modele din dosarul %1 a eșuat!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1101"/>
@@ -25452,12 +25467,12 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="46"/>
         <source>Crop to minimum extent</source>
-        <translation type="unfinished"></translation>
+        <translation>Decupați în măsura minimă</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="48"/>
         <source>If enabled then segmentation labelmap representation is cropped to the minimum necessary size. This saves storage space but changes voxel coordinate system (physical coordinate system is not affected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă este activată, reprezentarea segmentării labelmap este tăiată la dimensiunea minimă necesară. Acest lucru economisește spațiu de stocare, dar schimbă sistemul de coordonate voxel (sistemul de coordonate fizic nu este afectat).</translation>
     </message>
 </context>
 <context>
@@ -25527,7 +25542,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="110"/>
         <source>Default overwrite mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul de suprascriere implicit:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="93"/>
@@ -25537,27 +25552,27 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="97"/>
         <source>Enable closed surface representation smoothing by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Activare netezirea reprezentării suprafețelor închise în mod implicit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="100"/>
         <source>Default terminology entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare implicită de terminologie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="102"/>
         <source>Ask user</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreabă utilizatorul</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="103"/>
         <source>Always make visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Fă întotdeauna vizibil</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="104"/>
         <source>Always allow</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite întotdeauna</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="108"/>
@@ -25580,7 +25595,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.h" line="60"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>Secvențe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="106"/>
@@ -25590,12 +25605,12 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="167"/>
         <source>This is a module for creating, recording, and replaying node sequences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesta este un modul pentru crearea, înregistrarea și reluarea secvențelor de noduri.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="173"/>
         <source>This work was funded by CCO ACRU and OCAIRO grants.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această lucrare a fost finanțată de granturile CCO ACRU și OCAIRO.</translation>
     </message>
 </context>
 <context>
@@ -25607,7 +25622,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>Secvențe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
@@ -25859,33 +25874,33 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>
         <source>Signal Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensitate semnal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="302"/>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="333"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Timp</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="332"/>
         <source>Displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Deplasare</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="882"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="883"/>
         <source>Master sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Secvență Master</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="888"/>
         <source>Synchronized sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Secvență sincronizată</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="894"/>
@@ -25920,7 +25935,7 @@ Most probably the segment cannot be converted into closed surface representation
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="95"/>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="96"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Secvență de volum</translation>
     </message>
 </context>
 <context>
@@ -26083,17 +26098,17 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="75"/>
         <source>Enable/Disable developer mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Activare/Dezactivare modul dezvoltator</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="79"/>
         <source>Preserve CLI module input/output files</source>
-        <translation type="unfinished"></translation>
+        <translation>Păstrați fișierele de intrare/ieșire ale modulului CLI</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="87"/>
         <source>Enable/Disable QtTesting</source>
-        <translation type="unfinished"></translation>
+        <translation>Activare/Dezactivare QtTesting</translation>
     </message>
 </context>
 <context>
@@ -26106,32 +26121,32 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="37"/>
         <source>Enable Extensions Manager:</source>
-        <translation type="unfinished"></translation>
+        <translation>Activare Managerul de extensii:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="44"/>
         <source>Hide Extensions Manager from the application user interface. Automatic updates are performed even if the Extensions Manager is disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascundeți Managerul de extensii din interfața cu utilizatorul aplicației. Actualizările automate sunt efectuate chiar dacă Managerul de extensii este dezactivat.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="57"/>
         <source>Automatically check for updates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificare automată actualizări:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="64"/>
         <source>Periodically check the extensions server for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificați periodic serverul de extensii pentru actualizări</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="77"/>
         <source>Automatically install updates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalare automată actualizări:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="84"/>
         <source>If updates are found then install them automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă sunt găsite actualizări, instalați-le automat</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="97"/>
