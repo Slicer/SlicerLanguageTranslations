@@ -21802,12 +21802,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="64"/>
         <source>Lookup Table:</source>
-        <translation type="unfinished">Lookup Table:</translation>
+        <translation>Tabel de căutare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="71"/>
         <source>Label Outline &amp;Thickness:</source>
-        <translation type="unfinished">Label Outline &amp;Thickness:</translation>
+        <translation>Contur etichetă și grosime:</translation>
     </message>
 </context>
 <context>
@@ -21815,12 +21815,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateFooBarWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished">Foo bar</translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished">Foo Bar</translation>
+        <translation>Foo Bar</translation>
     </message>
 </context>
 <context>
@@ -21828,7 +21828,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="42"/>
         <source>qSlicerLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -21840,12 +21840,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerLoadableModuleTemplate</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerLoadableModuleTemplate</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="20"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Afișare</translation>
     </message>
 </context>
 <context>
@@ -21853,90 +21853,90 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="63"/>
         <source>Data Probe</source>
-        <translation type="unfinished">Data Probe</translation>
+        <translation>Data Probe</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="76"/>
         <source>Load/Save</source>
-        <translation type="unfinished">Load/Save</translation>
+        <translation>Încărcare/Salvare</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="90"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="530"/>
         <source>Favorite Modules</source>
-        <translation type="unfinished">Favorite Modules</translation>
+        <translation>Module favorite</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="101"/>
         <source>Undo Redo ToolBar</source>
-        <translation type="unfinished">Undo Redo ToolBar</translation>
+        <translation>ToolBar Undo Redo</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="112"/>
         <source>Layout Selection</source>
-        <translation type="unfinished">Layout Selection</translation>
+        <translation>Selecție layout</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="126"/>
         <source>Mouse Interaction</source>
-        <translation type="unfinished">Mouse Interaction</translation>
+        <translation>Interacțiunea cu mouse-ul</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="140"/>
         <source>Capture/Restore</source>
-        <translation type="unfinished">Capture/Restore</translation>
+        <translation>Captură/Restaurare</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="151"/>
         <source>Crosshair Selection</source>
-        <translation type="unfinished">Crosshair Selection</translation>
+        <translation>Selectarea pointer Crosshair</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="162"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Extensii</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="174"/>
         <source>Layout ToolBar</source>
-        <translation type="unfinished">Layout ToolBar</translation>
+        <translation>ToolBar layout</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="221"/>
         <source>&amp;File</source>
-        <translation type="unfinished">&amp;File</translation>
+        <translation>&amp;Fișier</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="225"/>
         <source>Recent</source>
         <oldsource>Recently Loaded</oldsource>
-        <translation type="unfinished">Recently Loaded</translation>
+        <translation>Încărcate recent</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="239"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished">&amp;Edit</translation>
+        <translation>&amp;Editare</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="252"/>
         <source>&amp;View</source>
-        <translation type="unfinished">&amp;View</translation>
+        <translation>&amp;View</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="256"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="369"/>
         <source>Layout</source>
-        <translation type="unfinished">Layout</translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="294"/>
         <source>&amp;Toolbars</source>
-        <translation type="unfinished">&amp;Toolbars</translation>
+        <translation>&amp;Toolbar-uri</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="299"/>
         <source>&amp;Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aspect</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="315"/>
@@ -21946,153 +21946,153 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="329"/>
         <source>Load Scene</source>
-        <translation type="unfinished">Load Scene</translation>
+        <translation>Înărcare scenă</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="332"/>
         <source>Raise a file browser to select a scene (mrml, xcat or xml) to load. It first clears any existing scene in Slicer and resets the application state.</source>
-        <translation type="unfinished">Raise a file browser to select a scene (mrml, xcat or xml) to load. It first clears any existing scene in Slicer and resets the application state.</translation>
+        <translation>Porniți un browser de fișiere pentru a selecta o scenă (mrml, xcat sau xml) de încărcat. Mai întâi șterge orice scenă existentă în Slicer și resetează starea aplicației.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="341"/>
         <source>Load Data</source>
-        <translation type="unfinished">Load Data</translation>
+        <translation>Încărcare date</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="344"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="383"/>
         <source>Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</source>
-        <translation type="unfinished">Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</translation>
+        <translation>Porniți un widget „Adăugați date” care vă permite să selectați seturi de date individuale pentru a le adăuga la scena existentă. Această opțiune de încărcare este cea mai utilă atunci când doriți să încărcați mai multe tipuri de date diferite simultan (volume, modele etc.) care este posibil să nu fie încă descrise de un fișier de scenă.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="353"/>
         <source>Load DICOM</source>
-        <translation type="unfinished">Load DICOM</translation>
+        <translation>Încărcare DICOM</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="356"/>
         <source>Raise the DICOM module for loading DICOM datasets.</source>
-        <translation type="unfinished">Raise the DICOM module for loading DICOM datasets.</translation>
+        <translation>Porniți modulul DICOM pentru a încărca seturile de date DICOM.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="368"/>
         <source>Import Scene</source>
-        <translation type="unfinished">Import Scene</translation>
+        <translation>Importare scenă</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="371"/>
         <source>Raise a file browser to navigate and select a scene file to be added to the existing scene. The scene is not cleared.</source>
-        <translation type="unfinished">Raise a file browser to navigate and select a scene file to be added to the existing scene. The scene is not cleared.</translation>
+        <translation>Porniți un browser de fișiere pentru a naviga și selectați un fișier de scenă pentru a fi adăugat la scena existentă. Scena nu este curățată.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="380"/>
         <source>&amp;Add Data</source>
-        <translation type="unfinished">&amp;Add Data</translation>
+        <translation>&amp;Adăugare date</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="386"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished">Ctrl+O</translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="395"/>
         <source>Add Volume</source>
-        <translation type="unfinished">Add Volume</translation>
+        <translation>Adăugare volum</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="398"/>
         <source>Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</source>
-        <translation type="unfinished">Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</translation>
+        <translation>Porniți un widget „Adăugați volum” care vă permite să selectați un set de date volumetrice pe care să îl adăugați la scena existentă. Panoul „Opțiuni de volum” poate fi folosit pentru a clarifica modul în care un set de date selectat ar trebui să fie încărcat și afișat.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="407"/>
         <source>Add Transform</source>
-        <translation type="unfinished">Add Transform</translation>
+        <translation>Adaugare transformare</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="410"/>
         <source>Raise a standard file browser that allows you to select a transform to the existing scene.</source>
-        <translation type="unfinished">Raise a standard file browser that allows you to select a transform to the existing scene.</translation>
+        <translation>Porniți un browser de fișiere standard care vă permite să selectați o transformare a scenei existente.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="659"/>
         <source>Save</source>
-        <translation type="unfinished">Save</translation>
+        <translation>Salvare</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="422"/>
         <source>Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</source>
-        <translation type="unfinished">Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</translation>
+        <translation>Afișați widgetul „Salvare date”, care oferă multe opțiuni pentru salvarea unei scene și/sau a seturi de date individuale.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="425"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="434"/>
         <source>Save Scene To Directory</source>
-        <translation type="unfinished">Save Scene To Directory</translation>
+        <translation>Salvare scenă în director</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="437"/>
         <source>UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</source>
-        <translation type="unfinished">UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</translation>
+        <translation>ÎN CONSTRUCȚIE: Salvați scena curentă într-un director autonom.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="446"/>
         <source>Save Scene to MRB File</source>
-        <translation type="unfinished">Save Scene to MRB File</translation>
+        <translation>Salvați scena în fișierul MRB</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="449"/>
         <source>Create a Medical Reality Bundle containing the scene.</source>
-        <translation type="unfinished">Create a Medical Reality Bundle containing the scene.</translation>
+        <translation>Creați un pachet de realitate medicală (MRB) care să conțină scena.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="458"/>
         <source>Close Scene</source>
-        <translation type="unfinished">Close Scene</translation>
+        <translation>Închide scena</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="461"/>
         <source>Close the current scene and reset the application state. </source>
-        <translation type="unfinished">Close the current scene and reset the application state. </translation>
+        <translation>Închideți scena curentă și resetați starea aplicației. </translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="464"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished">Ctrl+W</translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="469"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished">E&amp;xit</translation>
+        <translation>E&amp;xit</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="472"/>
         <source>Quit the application</source>
-        <translation type="unfinished">Quit the application</translation>
+        <translation>Părăsire aplicație</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="481"/>
         <source>Undo</source>
-        <translation type="unfinished">Undo</translation>
+        <translation>Undo</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="484"/>
         <source>Undo the history of undoable commands, from last to first.</source>
-        <translation type="unfinished">Undo the history of undoable commands, from last to first.</translation>
+        <translation>Anulați istoricul comenzilor anulabile, de la ultima la prima.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="487"/>
         <source>Ctrl+Z</source>
-        <translation type="unfinished">Ctrl+Z</translation>
+        <translation>Ctrl+Z</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="496"/>
         <source>Redo</source>
-        <translation type="unfinished">Redo</translation>
+        <translation>Redo</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="499"/>
