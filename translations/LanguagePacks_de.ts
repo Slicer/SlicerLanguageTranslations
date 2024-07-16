@@ -41,7 +41,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="90"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished">Lokaler Ordner (für Offlinegebrauch)</translation>
+        <translation>Lokaler Ordner (für Offlinegebrauch)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="97"/>
@@ -51,7 +51,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="107"/>
         <source>Refresh Weblate language list by querying the Weblate server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate-Sprachliste per Weblate-Server-Abfrage aktualisieren.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="124"/>
         <source>Folder containing translation (.ts) files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner mit Übersetzungen (.ts) Dateien.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="139"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="180"/>
         <source>Restart the application to see updated translations on the graphical user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Starten Sie die Anwendung neu, um aktualisierte Sprachen auf der Grafischen Nutzeroberfläche zu sehen.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="183"/>
