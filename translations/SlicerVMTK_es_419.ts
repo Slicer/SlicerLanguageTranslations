@@ -9,7 +9,10 @@
 Segment calcifications around an arterial lumen within a margin.
 See more information in &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Segmento de calcificaciones alrededor de un lumen arterial dentro de un margen.
+Ver más información en &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="52"/>
@@ -17,87 +20,90 @@ See more information in &lt;a href=&quot;href=&quot;https://github.com/vmtk/Slic
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc, Andras Lasso, PerkLab,
+y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3P41RR013218-12S1 de los NIH.
+</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="107"/>
         <source>Show 3D on success</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar 3D con éxito</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="182"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se han podido calcular los resultados.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="219"/>
         <source>Input segmentation, volume or segment ID is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>La segmentación, el volumen o el identificador de los segmentos introducidos no son válidos</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="223"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha comenzado el proceso</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="297"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Proceso completado en {duración} segundos</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="318"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de la prueba</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="320"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Prueba aprobada</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="19"/>
         <source>Select an input lumen segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione un segmento de lumen de entrada.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="32"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="39"/>
         <source>Segment calcification around the lumen within this margin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcificación del segmento alrededor del lumen dentro de este margen.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="42"/>
         <source> mm</source>
-        <translation type="unfinished"></translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="61"/>
         <source>Margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Margen:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="68"/>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="75"/>
         <source>Select the source volume node of the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona el nodo de volumen de origen del segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="123"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecute el algoritmo.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="126"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -105,7 +111,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="33"/>
         <source>Centerline disassembly</source>
-        <translation type="unfinished"></translation>
+        <translation>Desmontaje del eje central</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="41"/>
@@ -114,7 +120,11 @@ Break down a centerline model into parts.
 This module makes use of the &apos;ExtractCenterline&apos; module to generate curves.
 See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Descomponer un modelo de eje central en partes.
+Este módulo hace uso del módulo &apos; Extraer eje central&apos; para generar curvas.
+Ver más información en la sección  &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="51"/>
@@ -122,219 +132,224 @@ See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExten
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc, Andras Lasso, PerkLab,
+y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3P41RR013218-12S1 de los NIH.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="96"/>
         <source>Bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifurcaciones</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="97"/>
         <source>Branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramas</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="98"/>
         <source>Centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejes centrales</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="103"/>
         <source>Show curve names</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar los nombres de las curvas</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="187"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se han podido calcular los resultados.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="191"/>
         <source>Please select the components to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione los elementos que desea crear.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="195"/>
         <source>Please specify whether centerline &apos;Models&apos; and/or &apos;Curves&apos; should be generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique si deben generarse &quot;Modelos&quot; y/o &quot;Curvas&quot; de ejes centrales.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="197"/>
         <source>Splitting centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Eje central divisorio</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="213"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="231"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="249"/>
         <source> models</source>
-        <translation type="unfinished"></translation>
+        <translation> modelos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="216"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="234"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="252"/>
         <source> curves</source>
-        <translation type="unfinished"></translation>
+        <translation> curvas</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="218"/>
         <source>Creating bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>Creación de bifurcaciones</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="221"/>
         <source>Bifurcation_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo_de_bifurcación</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="224"/>
         <source>Bifurcation_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva_de_bifurcación</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="236"/>
         <source>Creating branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Creación de ramas</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="239"/>
         <source>Branch_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo_de_rama</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="242"/>
         <source>Branch_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva_de_ramas</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="254"/>
         <source>Creating centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Creación de ejes centrales</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="257"/>
         <source>Centerline_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo_central</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="260"/>
         <source>Centerline_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva_central</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="265"/>
         <source>Invalid component</source>
-        <translation type="unfinished"></translation>
+        <translation>Componente no válido</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="269"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizado</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="339"/>
         <source>Input centerline is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>El eje central de entrada no es válido</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="431"/>
         <source>Processing curve creation started</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciada la creación de la curva de procesamiento</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="491"/>
         <source>Processing curve creation completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Creación de curva de procesamiento completada en {duración} segundos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="496"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="526"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline model first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra &quot;dividir ejes centrales&quot; primero con un input al modelo del eje central.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="500"/>
         <source>Processing centerline ids started</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio del procesamiento de identificadores del eje central</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="520"/>
         <source>Processing centerline ids completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesamiento de identificadores del eje central completado en {duración} segundos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="530"/>
         <source>Processing group ids started</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio del tratamiento de los identificadores de grupo</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="563"/>
         <source>Processing group ids completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Procesamiento de ids de grupo completado en {duración} segundos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="579"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de la prueba</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="581"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Prueba superada</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="19"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo del eje central:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="29"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija la entrada del algoritmo.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="65"/>
         <source>Component:</source>
-        <translation type="unfinished"></translation>
+        <translation>Componente:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="72"/>
         <source>Select the output components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione los componentes de salida.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="102"/>
         <source>Create centerline models</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear modelos de ejes centrales</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="105"/>
         <source>Create models</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear modelos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="115"/>
         <source>Create centerline curves.
 
 Upon curve creation, the visibility of the names can be specified via the menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear curvas del eje central.
+
+Al crear la curva, se puede especificar la visibilidad de los nombres a través del menú.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="120"/>
         <source>Create curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear curvas</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="135"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar el algoritmo.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="138"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -344,7 +359,9 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
         <source>
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo describe secciones transversales a lo largo de un modelo de línea central VMTK, una curva de marcas de línea central VMTK o una curva de marcas arbitraria. Documentación disponible en  &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="42"/>
@@ -352,99 +369,102 @@ This module describes cross-sections along a VMTK centerline model, a VMTK cente
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc, Andras Lasso, PerkLab,
+y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3P41RR013218-12S1 de los NIH.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="334"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="867"/>
         <source>Input is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>La entrada no es válida.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="422"/>
         <source>N/A (input lumen surface not specified)</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A (superficie luminosa de entrada no especificada)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="441"/>
         <source> (MIS diameter {sign}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (Diámetro MIS {signo}</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="591"/>
         <source>Selected Shape node is not a Tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo Forma seleccionado no es un Tubo.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="597"/>
         <source>Selected model node does not have radius information.</source>
-        <translation type="unfinished"></translation>
+        <translation>El modelo del nodo seleccionado no tiene información de radio.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="616"/>
         <source>MIS diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro MIS</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="618"/>
         <source>CE diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro CE</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="619"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1623"/>
         <source>Cross-section area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de la sección transversal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="621"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1624"/>
         <source>Wall diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro de la pared</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="622"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1625"/>
         <source>Wall cross-section area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de la sección transversal de la pared</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="624"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1628"/>
         <source>Stenosis by diameter (CE)</source>
-        <translation type="unfinished"></translation>
+        <translation>Estenosis por diámetro (CE)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="625"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1626"/>
         <source>Stenosis by surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Estenosis por área de superficie</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="870"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio del proceso</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="876"/>
         <source>Processing completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Proceso finalizado</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1015"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1034"/>
         <source>Waiting for background jobs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperando trabajos de fondo...</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1044"/>
         <source>Updating table :</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización de la tabla :</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1083"/>
         <source>Processing completed in {duration} seconds - {countOfPoints} points</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesamiento completado en {duration} segundos - {cuenta puntos} puntos</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1148"/>
