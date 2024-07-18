@@ -270,7 +270,7 @@ O desenvolvimento deste módulo foi parcialmente financiado pela &lt;a href=&quo
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="608"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorado. Esse componente/idioma não foi encontrado no Weblate.</translation>
     </message>
     <message>
         <source>Download failed. This component may not have been translated to the selected language.</source>
