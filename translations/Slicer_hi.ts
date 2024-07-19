@@ -16,17 +16,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>यह कार्य नेशनल एलायंस फॉर मेडिकल इमेज कम्प्यूटिंग (एनएएमआईसी) का हिस्सा है, जिसे नेशनल इंस्टीट्यूट ऑफ हेल्थ द्वारा एनआईएच रोडमैप फॉर मेडिकल रिसर्च, ग्रांट यू54 ईबी005149 के माध्यम से वित्त पोषित किया गया है।</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>कब</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>निवेश / उत्पादन प्राचल</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
@@ -4058,7 +4058,15 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ग्रेस्केल भराव छेद छवि फ़िल्टर ग्रेस्केल छवि में छेद भरता है।  ग्रेस्केल स्थलाकृति में छेद स्थानीय मिनीमा हैं जो छवि की सीमाओं से जुड़े नहीं हैं। एक छेद से सटे ग्रे स्तर के मानों को छेद के पार एक्सट्रापोलेट किया जाता है।
+
+इस फिल्टर का उपयोग स्थानीय मैक्सिमा के मूल्यों को प्रभावित किए बिना स्थानीय मिनीमा पर चिकना करने के लिए किया जाता है।  यदि आप इस फिल्टर के आउटपुट और मूल छवि के बीच के अंतर को लेते हैं (और शायद एक छोटे से मूल्य से ऊपर के अंतर को सीमित करते हैं) तो आपको स्थानीय मिनीमा का एक नक्शा प्राप्त होगा।
+
+यह फिल्टर itkGrayscaleGeodesicErodeImageFilter का उपयोग करता है।  यह भूगणितीय क्षरण के लिए &quot;मुखौटा&quot; इनपुट के रूप में अपना स्वयं का इनपुट प्रदान करता है।  जियोडेसिक क्षरण के लिए &quot;मार्कर&quot; छवि का निर्माण इस तरह किया जाता है कि सीमा पिक्सेल इनपुट छवि के सीमा पिक्सेल से मेल खाते हैं और आंतरिक पिक्सेल इनपुट छवि में अधिकतम पिक्सेल मूल्य पर सेट होते हैं।
+
+ जियोडेसिक मॉर्फोलॉजी और फिलहोल एल्गोरिथम का वर्णन पियरे सॉइल की पुस्तक &quot;मॉर्फोलॉजिकल इमेज एनालिसिसः प्रिंसिपल्स एंड एप्लीकेशन&quot;, सेकंड एडिशन, स्प्रिंगर, 2003 के अध्याय 6 में किया गया है। 
+
+ एक सहयोगी फिल्टर, ग्रेस्केल ग्राइंड पीक, ग्रेस्केल छवियों में चोटियों को हटा देता है।</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
