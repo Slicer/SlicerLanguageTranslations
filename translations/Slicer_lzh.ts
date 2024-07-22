@@ -324,12 +324,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>普适调和（脑府）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation type="unfinished"></translation>
+        <translation>谨以此文，阐述将三维数据配准至参考数据之古雅文法。此法默认采用Mattes互信息算法，并详尽描述于BRAINSFit软件之中。更详尽之全脑三维图像互信息配准方法，可查阅Johnson H.J.、Harris G.、Williams K.诸位先生于2007年发表于《The Insight Journal》之论文，题为《全脑三维图像的互信息配准》（原文链接：https://itk.org/）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
