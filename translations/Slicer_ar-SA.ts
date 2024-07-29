@@ -9021,17 +9021,17 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="262"/>
         <source>Select Extension...</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد الامتداد...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="288"/>
         <source>Failed to open extension {path}.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في فتح التمديد {path}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="303"/>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>(لا يوجد)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="305"/>
@@ -9046,7 +9046,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="386"/>
         <source>{count} modules could not be registered</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر تسجيل وحدات {count}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="388"/>
