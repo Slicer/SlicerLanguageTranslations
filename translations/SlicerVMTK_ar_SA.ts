@@ -130,7 +130,11 @@ Break down a centerline model into parts.
 This module makes use of the &apos;ExtractCenterline&apos; module to generate curves.
 See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+قسّم نموذج خط الوسط إلى أجزاء.
+تستخدم هذه الوحدة وحدة &apos;ExtractCenterline&apos; لتوليد المنحنيات.
+انظر المزيد من المعلومات في &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt; وثائق الوحدة &lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="51"/>
@@ -375,7 +379,9 @@ This module describes cross-sections along a VMTK centerline model, a VMTK cente
         <source>
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تصف هذه الوحدة المقاطع العرضية على طول نموذج خط مركزي VMTK أو منحنى ترميز مركزي VMTK أو منحنى ترميز اعتباطي. الوثائق متاحة &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt; هنا &lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="42"/>
@@ -1542,7 +1548,7 @@ Slicer must be restarted. Do you want to restart now ?</source>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="136"/>
         <source>Failed to install {nameOfExtension} extension</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تثبيت امتداد {NameOfExtension}</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="150"/>
@@ -2038,7 +2044,7 @@ Slicer must be restarted. Do you want to restart now ?</source>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="133"/>
         <source>Failed to install {nameOfExtension} extension</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تثبيت امتداد {NameOfExtension}</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="147"/>
@@ -2089,7 +2095,7 @@ Slicer must be restarted. Do you want to restart now ?</source>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="541"/>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="597"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتملت المعالجة في {duration} ثانية</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="547"/>
@@ -2121,7 +2127,7 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="93"/>
         <source>Pre-fit</source>
-        <translation type="unfinished"></translation>
+        <translation>مناسب مسبقًا</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="105"/>
@@ -2166,7 +2172,7 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="219"/>
         <source>Flood filling parameters</source>
-        <translation type="unfinished">معلمات ملء الفيضانات</translation>
+        <translation>معلمات ملء الفيضانات</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="243"/>
@@ -2176,7 +2182,7 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="250"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
-        <translation type="unfinished">حدد فوكسل متصلة مع نطاق شدة بين واحد في موضع نقطة التحكم +/- هذا التحمل.</translation>
+        <translation>حدد فوكسل متصلة مع نطاق شدة بين واحد في موضع نقطة التحكم +/- هذا التحمل.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="275"/>
@@ -2280,22 +2286,22 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">مدخلات</translation>
+        <translation>مدخلات</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="23"/>
         <source>Input curve:</source>
-        <translation type="unfinished">منحنى المدخلات:</translation>
+        <translation>منحنى المدخلات:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="30"/>
         <source>Pick the input markups curve.</source>
-        <translation type="unfinished">اختر منحنى رموز الإدخال.</translation>
+        <translation>اختر منحنى رموز الإدخال.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="66"/>
         <source>Result table.</source>
-        <translation type="unfinished">جدول النتائج.</translation>
+        <translation>جدول النتائج.</translation>
     </message>
 </context>
 <context>
@@ -2496,7 +2502,7 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="624"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتملت المعالجة في {duration} ثانية</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="676"/>
@@ -2511,17 +2517,17 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">مدخلات</translation>
+        <translation>مدخلات</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="36"/>
         <source>Slice node:</source>
-        <translation type="unfinished">عقدة الشريحة:</translation>
+        <translation>عقدة الشريحة:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
         <source>Select an input slice view.</source>
-        <translation type="unfinished">حدد عرض شريحة الإدخال.</translation>
+        <translation>حدد عرض شريحة الإدخال.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="70"/>
@@ -2538,26 +2544,26 @@ Clicking at a control point allows to track the slice orientation in the selecte
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="112"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">التجزئة:</translation>
+        <translation>التجزئة:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="119"/>
         <source>Select an input segmentation.</source>
-        <translation type="unfinished">حدد تجزئة الإدخال.</translation>
+        <translation>حدد تجزئة الإدخال.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="142"/>
         <source>Result table.
 
 Right click for more.</source>
-        <translation type="unfinished">جدول النتائج.
+        <translation>جدول النتائج.
 
 انقر جيدًا للمزيد.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="167"/>
         <source>Apply</source>
-        <translation type="unfinished">تطبيق</translation>
+        <translation>تطبيق</translation>
     </message>
 </context>
 <context>
@@ -2584,7 +2590,7 @@ Right click for more.</source>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="34"/>
         <source>Vascular Modeling Toolkit</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة أدوات النمذجة الوعائية</translation>
     </message>
 </context>
 <context>
@@ -2694,7 +2700,7 @@ The input centerline is expected to be inside the lumen surface.</source>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="162"/>
         <source>Splitting, please wait...</source>
         <oldsource>Debranching, please wait...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>تقسيم، يرجى الانتظار...</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="170"/>
@@ -2742,7 +2748,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished">Foo bar</translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="23"/>
@@ -2835,12 +2841,12 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="180"/>
         <source>Lesion:</source>
-        <translation type="unfinished"></translation>
+        <translation>آفة:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="194"/>
         <source>Stenosis:</source>
-        <translation type="unfinished">التضيق:</translation>
+        <translation>التضيق:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="208"/>
