@@ -270,7 +270,7 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="608"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطي. لم يتم العثور على هذا المكون/اللغة على Weblate.</translation>
     </message>
     <message>
         <source>Download failed. This component may not have been translated to the selected language.</source>
