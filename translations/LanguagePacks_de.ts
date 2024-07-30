@@ -71,7 +71,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="139"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this option is checked then only the latest .ts file in the folder will be used. Enable this option to ignore previously downloaded .ts files are saved in the same folder.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Wenn diese Option aktiviert ist, wird nur die neueste .ts Datei im Ordner verwendet. Aktivieren Sie diese Option, um zuvor heruntergeladene .ts Dateien im selben Ordner zu ignorieren.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="157"/>
@@ -101,12 +101,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="204"/>
         <source>Qt &apos;lrelease&apos; tool path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt &apos;lrelease&apos; Werkzeugpfad:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="211"/>
         <source>Path to Qt lrelease executable. Leave empty to use default (the one bundled with the Slicer installer or available in system paths).</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad zur ausführbaren Qt-Datei lrelease. Lassen Sie das Feld leer, um den Standardwert zu verwenden (der im Lieferumfang des Slicer-Installationsprogramms enthalten ist oder in den Systempfaden verfügbar ist).</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="224"/>
@@ -116,27 +116,27 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="231"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Only used for GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Meister, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Wird nur für GitHub verwendet.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="241"/>
         <source>GitHub repository URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL des GitHub-Repositorys:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="248"/>
         <source>Github repository that stores the translated strings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Github-Repository, in dem die übersetzten Zeichenfolgen gespeichert sind.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="258"/>
         <source>Weblate download URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate-Download-URL:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="265"/>
         <source>Weblate project that stores the translated strings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate-Projekt, in dem die übersetzten Zeichenfolgen gespeichert sind.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="275"/>
@@ -166,22 +166,22 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="320"/>
         <source>If enabled, then the shortcut opens the text finder, which can be used to extract text from the application user interface and open it in the translation website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn diese Option aktiviert ist, öffnet die Verknüpfung den Textfinder, mit dem Text aus der Benutzeroberfläche der Anwendung extrahiert und auf der Übersetzungswebsite geöffnet werden kann.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="323"/>
         <source> (shortcut: Ctrl+6)</source>
-        <translation type="unfinished"></translation>
+        <translation> (Tastenkürzel: Strg+6)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="330"/>
         <source>Edited language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeitete Sprache:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprach-Tools</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -189,7 +189,10 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Dieses Modul kann Übersetzungsdateien erstellen und lokal installieren. Es ist nützlich zum Erstellen und Testen von Übersetzungen.
+Weitere Informationen finden Sie in der Dokumentation der &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;Erweiterung&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="39"/>
