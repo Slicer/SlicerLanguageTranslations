@@ -7,17 +7,17 @@
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="20"/>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="56"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectarse</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraseña:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="43"/>
         <source>UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de usuario:</translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="41"/>
         <source>MONAILabel</source>
-        <translation type="unfinished"></translation>
+        <translation>MONAILabel</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="50"/>
@@ -33,159 +33,164 @@
 Active Learning solution.
 See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Solución de Aprendizaje Activo.
+Consulta más información, en la &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;documentación del módulo&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="57"/>
         <source>
 Developed by NVIDIA, KCL
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Desarrollado por NVIDIA, KCL
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="72"/>
         <source>MONAI Label Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor MONAI Label</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="75"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección del servidor:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="79"/>
         <source>Server address history:</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial de direcciones del servidor:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>Default extension for uploading images/labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Extensión predeterminada para cargar imágenes/etiquetas</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>File Extension:</source>
-        <translation type="unfinished"></translation>
+        <translation>Extensión del archivo:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="93"/>
         <source>user-xyz</source>
-        <translation type="unfinished"></translation>
+        <translation>user-xyz</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User ID that will be sent to MONAI Label server for reference</source>
-        <translation type="unfinished"></translation>
+        <translation>ID de cliente/usuario que se enviará al servidor MONAI Label como referencia</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User-ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliente/ID de usuario:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Enable this option to auto run segmentation if pre-trained model exists when Next Sample is fetched</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa esta opción para ejecutar automáticamente la segmentación si existe un modelo preentrenado cuando se obtienes la siguiente muestra</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Auto-Run Pre-Trained Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo preentrenado de ejecución automática:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Enable this option to fetch Next Sample after saving the label</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa esta opción para obtener la siguiente muestra después de guardar la etiqueta</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Auto-Fetch Next Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtener automáticamente la siguiente muestra:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
         <source>Enable this option to auto update model after submitting the label</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita esta opción para actualizar automáticamente el modelo después de enviar la etiqueta</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
         <source>Auto-Update Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de actualización automática:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Enable this option to ask for the user name every time the MONAILabelextension is loaded for the first time</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita esta opción para solicitar el nombre de usuario cada vez que se carga la extensión MONAILabelextension por primera vez</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Ask For User Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitar nombre de usuario:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
         <source>Enable this option to allow overlapping segmentations</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita esta opción para permitir segmentaciones superpuestas</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
         <source>Allow Overlapping Segmentations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir segmentaciones superpuestas:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
         <source>Enable this option to first read original label (predictions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita esta opción para leer primero la etiqueta original (predicciones)</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
         <source>Original Labels:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiquetas originales:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="174"/>
         <source>Enable this option to find options tab etc...</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita esta opción para encontrar la pestaña de opciones, etc.</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="174"/>
         <source>Developer Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo desarrollador:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Enable this option to show segments in 3D (slow) after mask update...</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita esta opción para mostrar segmentos en 3D (lento) después de la actualización de la máscara...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Show Segments In 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar segmentos en 3D:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="204"/>
         <source>Overlapping segmentations are only available with the &apos;.seg.nrrd&apos; file extension!Consider changing MONAILabel file extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Las segmentaciones superpuestas solo están disponibles con la extensión de archivo &apos;.seg.nrrd&apos;! Considera cambiar la extensión del archivo MONAILabel.</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="301"/>
         <source>Select positive points</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar ejes positivos</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="307"/>
         <source>Select negative points</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar ejes negativos</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="336"/>
         <source>Paint scribbles for selected scribble layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Pintar garabatos en la capa de garabatos seleccionada</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="338"/>
         <source>Erase scribbles for selected scribble layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar garabatos de la capa de garabatos seleccionada</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="342"/>
