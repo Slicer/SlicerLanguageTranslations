@@ -367,7 +367,8 @@ Wenn Sie die Anwendung schließen, werden alle aktuellen Berechnungen abgebroche
         <source>The module &apos;%1&apos; is still running.
 Closing the tab will cancel the current computation.</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Das Modul &apos;%1&apos; wird noch ausgeführt.
+Wenn Sie die Registerkarte schließen, wird die aktuelle Berechnung abgebrochen.</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="112"/>
@@ -378,7 +379,7 @@ Closing the tab will cancel the current computation.</source>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="114"/>
         <source>The module &apos;%1&apos; is still running and does not support being canceled.</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Das Modul &apos;%1&apos; wird noch ausgeführt und unterstützt das Abbrechen nicht.</translation>
     </message>
 </context>
 <context>
@@ -391,12 +392,12 @@ Closing the tab will cancel the current computation.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="68"/>
         <source>Warning:</source>
-        <translation type="unfinished">Warnung:</translation>
+        <translation>Warnung:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="90"/>
         <source>Create Frontend</source>
-        <translation type="unfinished"></translation>
+        <translation>Frontend erstellen</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="275"/>
@@ -409,7 +410,9 @@ Closing the tab will cancel the current computation.</source>
         <source>Creating a %1 frontend failed:
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Erstellen eines %1-Frontends:
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -424,7 +427,13 @@ due to:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Registrieren des Moduls:
+%1
+
+wegen:
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="50"/>
@@ -435,7 +444,13 @@ due to xml validation error:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Registrieren des Moduls:
+%1
+
+Aufgrund eines XML-Validierungsfehlers:
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="60"/>
@@ -446,12 +461,17 @@ due to:
 %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Registrieren des Moduls:
+
+wegen:
+%1
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
         <source>Failed to register modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Registrieren von Modulen</translation>
     </message>
 </context>
 <context>
