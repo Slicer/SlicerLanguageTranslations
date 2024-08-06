@@ -1789,52 +1789,52 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="153"/>
         <source>Query studies</source>
-        <translation type="unfinished"></translation>
+        <translation>دراسات الاستعلام</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="155"/>
         <source>Query series</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة الاستعلام</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="157"/>
         <source>Query instances</source>
-        <translation type="unfinished"></translation>
+        <translation>حالات الاستفسار</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="168"/>
         <source>Retrieve patients</source>
-        <translation type="unfinished"></translation>
+        <translation>استرجاع المرضى</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="170"/>
         <source>Retrieve studies</source>
-        <translation type="unfinished"></translation>
+        <translation>دراسات الاسترجاع</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="172"/>
         <source>Retrieve series</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة استرجاع</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="174"/>
         <source>Retrieve instances</source>
-        <translation type="unfinished"></translation>
+        <translation>استرجاع الحالات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="179"/>
         <source>Storage listener</source>
-        <translation type="unfinished"></translation>
+        <translation>مستمع التخزين</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="183"/>
         <source>Echo server</source>
-        <translation type="unfinished"></translation>
+        <translation>خادم الصدى</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="187"/>
         <source>Inserter</source>
-        <translation type="unfinished"></translation>
+        <translation>مدرج</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="293"/>
