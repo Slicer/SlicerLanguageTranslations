@@ -383,42 +383,42 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
         <source>Pick the moving to fixed transform computed by the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر الانتقال إلى تحويل ثابت محسوب بواسطة الخوارزمية.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الناتج: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="112"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>ناتج</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
         <source>Mean distance after registration:</source>
-        <translation type="unfinished"></translation>
+        <translation>متوسط المسافة بعد التسجيل:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="124"/>
         <source>Advanced</source>
-        <translation type="unfinished">متقدم</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد التكرارات:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
         <source>Test is not implemented for ModelRegistration</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تنفيذ الاختبار لنموذج التسجيل</translation>
     </message>
 </context>
 <context>
@@ -455,22 +455,22 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
         <source>Time series</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة زمنية</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation type="unfinished">إضافة</translation>
+        <translation>إضافة</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
         <source>Recorded nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>العقد المسجلة</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
         <source>Sequence Replay</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تشغيل التسلسل</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
@@ -478,7 +478,10 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
 This is an example of scripted loadable module bundled in an extension.
 See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+هذا مثال على وحدة قابلة للتحميل مكتوبة مجمعة في امتداد.
+انظر المزيد من المعلومات في &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt; وثائق الوحدة &lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="51"/>
@@ -486,7 +489,10 @@ See more information in &lt;a href=&quot;https://github.com/organization/project
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطوير هذا الملف في الأصل بواسطة Jean-Christophe Fillion-Robin، Kitware Inc.، Andras Lasso، PerkLab،
+وSteve Pieper، Isomics، Inc. وتم تمويله جزئيًا من قبل 3P41RR013218-12S1 منح المعاهد الوطنية للصحة.
+</translation>
     </message>
 </context>
 <context>
@@ -524,7 +530,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="TextureModel/TextureModel.py" line="21"/>
         <source>Texture Model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الملمس</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="29"/>
@@ -533,17 +539,21 @@ It is typically used to display colored surfaces, provided by surface scanners, 
 The model must contain texture coordinates. Only a single texture file per model is supported.
 For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>تطبق هذه الوحدة نسيجًا (مخزنًا في عقدة الحجم) على عقدة نموذجية.
+يستخدم عادة لعرض الأسطح الملونة، التي توفرها الماسحات الضوئية السطحية، ويتم تصديرها في شكل OBJ.
+يجب أن يحتوي النموذج على إحداثيات الملمس. يتم دعم ملف ملمس واحد فقط لكل نموذج.
+لمزيد من المعلومات، قم بزيارة &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt; موقع مشروع SlicerIGT &lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="50"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معايير</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="67"/>
         <source>Model node containing geometry and texture coordinates.</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة نموذجية تحتوي على إحداثيات الهندسة والملمس.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
@@ -571,17 +581,17 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="99"/>
         <source>Apply texture to selected model.</source>
-        <translation type="unfinished"></translation>
+        <translation>طبق الملمس على نموذج مختار.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="298"/>
         <source>Finished with download and loading</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهى بالتنزيل والتحميل</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="305"/>
         <source>Test passed!</source>
-        <translation type="unfinished"></translation>
+        <translation>اجتاز الاختبار!</translation>
     </message>
 </context>
 <context>
@@ -596,7 +606,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="13"/>
         <source>Viewpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>وجهة نظر</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="23"/>
@@ -611,7 +621,9 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>
     This work is part of the Breast NaviKnife project within the Laboratory for Percutaneous Surgery, Queen&apos;s University, Kingston, Ontario. Thomas Vaughan is funded by an NSERC Postgraduate award. Gabor Fichtinger is funded as a Cancer Care Ontario (CCO) Chair.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    هذا العمل هو جزء من مشروع Breast NaviKnife داخل مختبر جراحة الجلد، جامعة كوينز، كينغستون، أونتاريو. يتم تمويل Thomas Vaughan من خلال جائزة NSERC للدراسات العليا. يتم تمويل Gabor Fichtinger كرئيس لرعاية مرضى السرطان في أونتاريو (CCO).
+    </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="65"/>
@@ -626,27 +638,27 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="94"/>
         <source>Enable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين وضع المركز التلقائي</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="96"/>
         <source>Disable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل وضع المركز التلقائي</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="103"/>
         <source>View Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>اختيار المشهد</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="109"/>
         <source>Scene Camera: </source>
-        <translation type="unfinished"></translation>
+        <translation>كاميرا المشهد: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="116"/>
         <source>Pick the view which should be adjusted, e.g. &apos;View1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر العرض الذي يجب تعديله، على سبيل المثال &apos;View1&apos;</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="122"/>
