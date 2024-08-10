@@ -318,17 +318,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Werte außerhalb dieses Bereichs nicht als „Außenwerte“ abschneiden</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
         <source>Do not scale to the relative percentiles of the output scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht auf die relativen Perzentilen der Ausgabeskala skalieren</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
         <source>Level of Debugging (0=None)</source>
-        <translation type="unfinished"></translation>
+        <translation>Debugging-Level (0=Keine)</translation>
     </message>
 </context>
 <context>
@@ -336,102 +336,102 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Allgemeine Registrierung (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrieren Sie ein dreidimensionales Volumen bei einem Referenzvolumen (mattet standardmäßig gegenseitige Information). Methode beschrieben in brainsfit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5); Ali Ghayoor(4) 1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard  </source>
-        <translation type="unfinished"></translation>
+        <translation>Hans Johnson (1,3,4); Kent Williams (1); Gregory Harris (1), Vincent Magnotta (1,2,3); Andriy Fedorov (5); Ali Ghayoor (4) 1 = Psychiatrieabteilung der Universität Iowa, 2 = Radiologieabteilung der Universität Iowa, 3 = Biomedizintechnikabteilung der Universität Iowa, 4 = Elektro- und Computertechnikabteilung der Universität Iowa, 5 = Operationsplanungslabor, Harvard  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
         <source>Input Images</source>
-        <translation type="unfinished">Eingabe-Bilder</translation>
+        <translation>Eingabe-Bilder</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
         <source>Fixed Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Festes Bildvolumen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
         <source>Moving Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewegtbildvolumen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
         <source>Percentage Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Prozentsatz der Proben</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="11"/>
         <source>B-Spline Grid Size</source>
-        <translation type="unfinished"></translation>
+        <translation>B-Spline-Rastergröße</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
         <source>Input fixed image (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie ein Standbild ein (das bewegte Bild wird in diesen Bildraum transformiert).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
         <source>Input moving image (this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie ein bewegtes Bild ein (dieses Bild wird in den festen Bildraum transformiert).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteil der Voxel des festen Bildes, die für die Registrierung verwendet werden. Die Zahl muss größer als Null und kleiner oder gleich Eins sein. Höhere Werte erhöhen die Rechenzeit, können aber genauere Ergebnisse liefern. Sie können den Sampling-Fokus auch mit ROI-Masken und ROIAUTO-Maskengenerierung einschränken. Der Standardwert ist 0,002 (verwenden Sie ungefähr 0,2 % der Voxel, was 100.000 Samples in einem Volumen von 512 x 512 x 192 ergibt), um in den meisten Fällen eine sehr schnelle Registrierung zu ermöglichen. Typische Werte reichen von 0,01 (1 %) für Bilder mit geringen Details bis 0,2 (20 %) für Bilder mit hohen Details.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der BSpline-Rasterunterteilungen entlang jeder Achse des festen Bildes, zentriert auf den Bildraum. Die Werte müssen 3 oder höher sein, damit der BSpline korrekt berechnet wird.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
         <source>Output Settings (At least one output must be specified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabeeinstellungen (Mindestens eine Ausgabe muss angegeben werden)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer-Lineartransformation</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
         <source>Slicer BSpline Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer BSpline-Transformation</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
         <source>Output Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabebildvolumen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
         <source>(optional) Output estimated transform - in case the computed transform is not BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(optional) Geschätzte Transformation ausgeben – falls die berechnete Transformation kein B-Spline ist. Hinweis: Sie müssen mindestens ein Ausgabeobjekt festlegen (Transformation und/oder Ausgabevolumen).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
         <source>(optional) Output estimated transform - in case the computed transform is BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(optional) Geschätzte Ausgabe der Transformation – falls die berechnete Transformation ein B-Spline ist. Hinweis: Sie müssen mindestens ein Ausgabeobjekt festlegen (Transformation und/oder Ausgabevolumen).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(optional) Ausgabebild: das bewegte Bild, das in den festen Bildraum verzerrt wurde. HINWEIS: Sie müssen mindestens ein Ausgabeobjekt festlegen (Transformation und/oder Ausgabevolumen).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Einstellungen für die Transform-Initialisierung</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
