@@ -82,7 +82,7 @@
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="196"/>
         <source>Closing %1 running modules</source>
         <extracomment>%1 is the number of running modules</extracomment>
-        <translation>Encerrando %1 dos módulos em execução</translation>
+        <translation>Encerrando %1 módulos em execução</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="197"/>
@@ -2667,17 +2667,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="352"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar padrões</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="378"/>
         <source>Apply changes  </source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar alterações  </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="381"/>
         <source>Discard changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar alterações</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="589"/>
@@ -2688,34 +2688,34 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1469"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1485"/>
         <source>unknown</source>
-        <translation type="unfinished">desconhecido</translation>
+        <translation>desconhecido</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="901"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1249"/>
         <source>success</source>
-        <translation type="unfinished"></translation>
+        <translation>sucesso</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="905"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1213"/>
         <source>in-progress</source>
-        <translation type="unfinished"></translation>
+        <translation>em andamento</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1225"/>
         <source>user-stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>interrompido pelo usuário</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1237"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>falhou</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1270"/>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativo</translation>
     </message>
 </context>
 <context>
@@ -2723,7 +2723,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMStorageListener.cpp" line="129"/>
         <source>Got STORE request for %1</source>
-        <translation type="unfinished">Solicitação de ARMAZENAR recebida para %1</translation>
+        <translation>Solicitação de ARMAZENAR recebida para %1</translation>
     </message>
 </context>
 <context>
@@ -2731,17 +2731,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMStudyItemWidget.ui" line="14"/>
         <source>Study Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Item de estudo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMStudyItemWidget.ui" line="110"/>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyItemWidget.cpp" line="298"/>
         <source>UNDEFINED</source>
-        <translation type="unfinished"></translation>
+        <translation>INDEFINIDO</translation>
     </message>
 </context>
 <context>
@@ -2967,215 +2967,216 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="17"/>
         <source>Select data to load</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione os dados a serem carregados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="42"/>
         <source>Warning</source>
-        <translation type="unfinished">Alerta</translation>
+        <translation>Alerta</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="49"/>
         <source>Update database</source>
-        <translation type="unfinished">Atualizar banco de dados</translation>
+        <translation>Atualizar banco de dados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="56"/>
         <source>Create new database</source>
-        <translation type="unfinished">Criar novo banco de dados</translation>
+        <translation>Criar novo banco de dados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="63"/>
         <source>Select database folder</source>
-        <translation type="unfinished">Selecionar pasta do banco de dados</translation>
+        <translation>Selecionar pasta do banco de dados</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="75"/>
         <source>Patients Search   </source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisa de pacientes   </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="120"/>
         <source>ID</source>
-        <translation type="unfinished">ID</translation>
+        <translation>ID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="136"/>
         <source>Filter by patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar por ID do paciente</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="175"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="191"/>
         <source>Filter by patient name</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar por nome do paciente</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="230"/>
         <source>Study</source>
-        <translation type="unfinished">Estudo</translation>
+        <translation>Estudo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="246"/>
         <source>Filter by study description</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar por descrição do estudo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="285"/>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="301"/>
         <source>Filter by series description</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar por descrição da série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="352"/>
         <source>Modality</source>
-        <translation type="unfinished">Modalidade</translation>
+        <translation>Modalidade</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="380"/>
         <source>Filter by modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar por modalidade</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="383"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="399"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="515"/>
         <source>Any</source>
-        <translation type="unfinished">Qualquer</translation>
+        <translation>Qualquer</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="404"/>
         <source>CR</source>
-        <translation type="unfinished">RC</translation>
+        <translation>RC</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="409"/>
         <source>CT</source>
-        <translation type="unfinished">TC</translation>
+        <translation>TC</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="414"/>
         <source>MR</source>
-        <translation type="unfinished">RM</translation>
+        <translation>RM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="419"/>
         <source>NM</source>
-        <translation type="unfinished">MN</translation>
+        <translation>MN</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="424"/>
         <source>US</source>
-        <translation type="unfinished">US</translation>
+        <translation>US</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="429"/>
         <source>PT</source>
-        <translation type="unfinished">TP</translation>
+        <translation>TP</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="434"/>
         <source>XA</source>
-        <translation type="unfinished">AX</translation>
+        <translation>AX</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="483"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="511"/>
         <source>Filter by date</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar por data</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="520"/>
         <source>Today</source>
-        <translation type="unfinished">Hoje</translation>
+        <translation>Hoje</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="525"/>
         <source>Yesterday</source>
-        <translation type="unfinished">Ontem</translation>
+        <translation>Ontem</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="530"/>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>Semana passada</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="535"/>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>Mês passado</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="540"/>
         <source>Last year</source>
-        <translation type="unfinished"></translation>
+        <translation>Ano passado</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="572"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Search the database. If servers are specified, the widget will also conduct queries and retrieve the data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pesquise no banco de dados. Se os servidores forem especificados, o widget também realizará consultas e recuperará os dados.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="615"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ações</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="639"/>
         <source> Close</source>
-        <translation type="unfinished"></translation>
+        <translation> Fechar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="656"/>
         <source> Import</source>
-        <translation type="unfinished"></translation>
+        <translation> Importar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="693"/>
         <source>No filters have been set and no patients have been found in the local database.
 Please set at least one filter to query the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum filtro foi definido e nenhum paciente foi encontrado no banco de dados local.
+Defina pelo menos um filtro para consultar os servidores</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="793"/>
         <source>Patient 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Paciente 1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="802"/>
         <source>Patient 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Paciente 2</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="808"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avançado</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="814"/>
         <source>Jobs   </source>
-        <translation type="unfinished"></translation>
+        <translation>Tarefas   </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="841"/>
         <source>Settings</source>
-        <translation type="unfinished">Configurações</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="900"/>
         <source>Progress</source>
-        <translation type="unfinished">Progresso</translation>
+        <translation>Progresso</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="926"/>
@@ -3183,275 +3184,278 @@ Please set at least one filter to query the servers</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1088"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3942"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="281"/>
         <source>DICOM File Metadata</source>
-        <translation type="unfinished">Metadados do arquivo DICOM</translation>
+        <translation>Metadados do arquivo DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="388"/>
         <source>Show options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar opções</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="393"/>
         <source>Query/Retrieve from servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta/Recuperação de servidores</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="394"/>
         <source>If enabled, the widget will also conduct queries and retrieve the data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ativado, o widget também realizará consultas e recuperará os dados.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="442"/>
         <source>Add Link</source>
-        <translation type="unfinished">Adicionar link</translation>
+        <translation>Adicionar link</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="443"/>
         <source>Copy</source>
-        <translation type="unfinished">Copiar</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="445"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation type="unfinished">Indique se os arquivos devem ser copiados para o diretório do banco de dados local ou se devem ser criados apenas links?</translation>
+        <translation>Indicar se os arquivos devem ser copiados para o diretório do banco de dados local ou se devem ser criados apenas links?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="447"/>
         <source>Import Directory Mode:</source>
-        <translation type="unfinished">Modo de Importação de Diretório:</translation>
+        <translation>Modo de Importação de Diretório:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="462"/>
         <source>Import</source>
-        <translation type="unfinished">Importar</translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="463"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar arquivos DICOM do diretório...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="615"/>
         <source>DICOM Schema Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização do esquema DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="618"/>
         <source>Initialization...</source>
-        <translation type="unfinished">Inicialização...</translation>
+        <translation>Inicialização...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1087"/>
         <source>Retrieving and processing selected series...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperação e processamento de séries selecionadas...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2282"/>
         <source>Database folder does not contain ctkDICOM.sql file: </source>
-        <translation type="unfinished"></translation>
+        <translation>A pasta do banco de dados não contém o arquivo ctkDICOM.sql: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2286"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2314"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished">Nenhum banco de dados DICOM válido encontrado na pasta %1.</translation>
+        <translation>Nenhum banco de dados DICOM válido encontrado na pasta %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2309"/>
         <source>Database error: %1 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Erro no banco de dados: %1 
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2327"/>
         <source>Database version mismatch: version of selected database = %1, version required = %2 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Incompatibilidade de versão do banco de dados: versão do banco de dados selecionado = %1, versão necessária = %2 
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2333"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished">Foi encontrada uma versão incompatível do banco de dados DICOM na pasta %1.</translation>
+        <translation>Foi encontrada uma versão incompatível do banco de dados DICOM na pasta %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2550"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished">Não foi possível criar um novo banco de dados na pasta %1.</translation>
+        <translation>Não foi possível criar um novo banco de dados na pasta %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2891"/>
         <source>No patients have been found in the local database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum paciente foi encontrado no banco de dados local.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2956"/>
         <source>No filters or query/retrieve servers have been set and no patients have been found in the local database.
 Please set at least one filter to query the servers and check that at least one server has the Query/Retrieve property toggled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum filtro ou servidor de consulta/recuperação foi definido e nenhum paciente foi encontrado no banco de dados local.
+Defina pelo menos um filtro para consultar os servidores e verifique se pelo menos um servidor tem a propriedade Consulta/Recuperação ativada.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3042"/>
         <source>The patients query provided no results. Please refine your filters.</source>
-        <translation type="unfinished"></translation>
+        <translation>A consulta de pacientes não forneceu resultados. Refine seus filtros.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3142"/>
         <source>The patients query failed. Please check the servers settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>A consulta dos pacientes falhou. Por favor, verifique as configurações do servidor.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3284"/>
         <source>Load patient files</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar arquivos de pacientes</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3288"/>
         <source>View patient DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar metadados DICOM do paciente</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3292"/>
         <source>Delete patient from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir paciente do banco de dados local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3297"/>
         <source>Export patient to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar o paciente para o sistema de arquivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3301"/>
         <source>Send patient to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar o paciente para o servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3375"/>
         <source>Load study</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar estudo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3376"/>
         <source>Load %1 studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar %1 estudos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3380"/>
         <source>View study DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar metadados DICOM do estudo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3381"/>
         <source>View %1 studies DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar metadados DICOM de %1 estudos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3385"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3495"/>
         <source>Force retrieve series</source>
-        <translation type="unfinished"></translation>
+        <translation>Forçar recuperação de séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3386"/>
         <source>Force retrieve series for %1 studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Forçar recuperação de séries para %1 estudos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3390"/>
         <source>Delete study from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir estudo do banco de dados local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3391"/>
         <source>Delete %1 studies from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir %1 estudos do banco de dados local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3396"/>
         <source>Export study to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar estudo para o sistema de arquivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3397"/>
         <source>Export %1 studies to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar %1 estudos para o sistema de arquivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3401"/>
         <source>Send study to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar estudo para o servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3402"/>
         <source>Send %1 studies to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar %1 estudos para o servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3485"/>
         <source>Load series</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3486"/>
         <source>Load %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar %1 séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3490"/>
         <source>View series DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir metadados DICOM da série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3491"/>
         <source>View %1 series DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir metadados DICOM de %1 séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3496"/>
         <source>Force retrieve for %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Forçar recuperação de %1 séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3500"/>
         <source>Delete series from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir séries do banco de dados local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3501"/>
         <source>Delete %1 series from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir %1 séries do banco de dados local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3506"/>
         <source>Export series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar séries para o sistema de arquivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3507"/>
         <source>Export %1 series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar %1 séries para o sistema de arquivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3511"/>
         <source>Send series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar séries para o servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3512"/>
         <source>Send %1 series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar %1 séries para o servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3582"/>
         <source>Delete all Patients from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir todos os pacientes do banco de dados local</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3703"/>
@@ -3461,7 +3465,7 @@ Please set at least one filter to query the servers and check that at least one 
 
 Halting export.</source>
         <extracomment>%1 is the destination directory</extracomment>
-        <translation type="unfinished">Não é possível criar o diretório de destino para exportação:
+        <translation>Não é possível criar o diretório de destino para exportação:
 
 %1
 
@@ -3470,18 +3474,18 @@ Exportação interrompida.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3717"/>
         <source>DICOM Export</source>
-        <translation type="unfinished">Exportação DICOM</translation>
+        <translation>Exportação DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3717"/>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3723"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
-        <translation type="unfinished">Exportando %1 das séries</translation>
+        <translation>Exportando %1 séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3740"/>
@@ -3493,13 +3497,13 @@ Halting export.
 
 Error may be fixed via Repair.</source>
         <extracomment>%1 is the file path</extracomment>
-        <translation type="unfinished">Arquivo de origem para exportação não encontrado:
+        <translation>Arquivo de origem para exportação não encontrado:
 
 %1
 
 Exportação interrompida.
 
-O erro pode ser corrigido através do reparo.</translation>
+O erro pode ser corrigido pelo reparo.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3753"/>
@@ -3509,7 +3513,7 @@ O erro pode ser corrigido através do reparo.</translation>
 
 Halting export.</source>
         <extracomment>%1 is the destination file name</extracomment>
-        <translation type="unfinished">O arquivo de destino para exportação já existe:
+        <translation>O arquivo de destino para exportação já existe:
 
 %1
 
@@ -3527,7 +3531,7 @@ to
 
 Halting export.</source>
         <extracomment>%1 and %2 refers to source and destination file paths</extracomment>
-        <translation type="unfinished">Falha ao copiar
+        <translation>Falha ao copiar
 
 %1
 
@@ -3542,12 +3546,14 @@ Exportação interrompida.</translation>
         <source>Do you want to delete the following selected items from the LOCAL database? 
 The data will not be deleted from the PACs server. 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Você deseja excluir os seguintes itens selecionados do banco de dados LOCAL?  
+Os dados não serão excluídos do servidor PACS. 
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3941"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir</translation>
     </message>
 </context>
 <context>
@@ -3836,27 +3842,27 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="705"/>
         <source>started</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciou</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="723"/>
         <source>user stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Interrompido pelo usuário</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="746"/>
         <source>finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizado</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="769"/>
         <source>attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentativa falhou</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="792"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falhou</translation>
     </message>
 </context>
 <context>
