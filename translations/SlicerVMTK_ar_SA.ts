@@ -2049,12 +2049,12 @@ Slicer must be restarted. Do you want to restart now ?</source>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="147"/>
         <source>Fiducial node must have at least 2 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب أن تحتوي العقدة المرجعية على نقطتين على الأقل.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="341"/>
         <source>No input fiducial node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحديد عقدة مرجعية مدخلة.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="344"/>
@@ -2112,7 +2112,9 @@ Slicer must be restarted. Do you want to restart now ?</source>
         <source>Pick an input markups fiducial node.
 
 The fiducial points are assumed to be on the contrasted lumen.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر عقدة مرجعية من العلامات المدخلة.
+
+يُفترض أن تكون النقاط المرجعية على اللمعة المتباينة.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="66"/>
@@ -2122,7 +2124,7 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="87"/>
         <source>Set the bounds of the ROI accounting for that of the fiducial node. It must  further be manually adjusted to enclose the target region of interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتعيين حدود منطقة الاهتمام مع مراعاة حدود العقدة المرجعية. يجب تعديلها يدويًا بشكل إضافي لتشمل منطقة الهدف المراد دراستها.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="93"/>
@@ -2137,7 +2139,7 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="115"/>
         <source>Fiducial node:</source>
-        <translation type="unfinished"></translation>
+        <translation>العقدة المرجعية:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="122"/>
@@ -2462,12 +2464,12 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="476"/>
         <source>Fiducial node is no longer observed</source>
-        <translation type="unfinished"></translation>
+        <translation>العقدة المرجعية لم تعد مرصودة</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="482"/>
         <source>Fiducial node is being observed</source>
-        <translation type="unfinished"></translation>
+        <translation>العقدة المرجعية قيد الرصد</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="495"/>
@@ -2532,14 +2534,16 @@ The result is influenced by :
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="70"/>
         <source>Fiducial:</source>
-        <translation type="unfinished"></translation>
+        <translation>المرجعية:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="77"/>
         <source>Select an input markups fiducial list.
 
 Clicking at a control point allows to track the slice orientation in the selected slice node, on top of the usual jump behaviour. This tracking is scene-wide only, it is not saved with the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر قائمة العلامات المرجعية المدخلة.
+
+النقر على نقطة التحكم يسمح بتتبع اتجاه الشريحة في العقدة المحددة للشريحة، بالإضافة إلى السلوك المعتاد للقفز. هذا التتبع يكون على مستوى المشهد فقط، ولا يتم حفظه مع المشهد.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="112"/>
@@ -2876,7 +2880,7 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="281"/>
         <source>Lumen</source>
-        <translation type="unfinished"></translation>
+        <translation>اللمعة</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="114"/>
@@ -2896,7 +2900,7 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="131"/>
         <source>Two fiducial input points are mandatory.</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطتا إدخال مرجعيتان إلزاميتان.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="137"/>
