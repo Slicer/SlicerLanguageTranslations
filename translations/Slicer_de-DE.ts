@@ -436,22 +436,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
         <source>Options for initializing transform parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen für die Initialisierung von Transformationsparametern.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
         <source>Initialization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialisierungstransformation</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
         <source>Initialize Transform Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformationsmodus initialisieren</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformation, die auf das bewegte Bild angewendet werden soll, um die Registrierung zu initialisieren.  Dies kann nur verwendet werden, wenn der Modus &quot;Transformationsinitialisierung&quot; ausgeschaltet ist.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
