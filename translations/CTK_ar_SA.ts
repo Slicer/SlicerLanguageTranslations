@@ -2966,94 +2966,94 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="17"/>
         <source>Select data to load</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد البيانات لتحميلها</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="42"/>
         <source>Warning</source>
-        <translation type="unfinished">إنذار</translation>
+        <translation>إنذار</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="49"/>
         <source>Update database</source>
-        <translation type="unfinished">تحديث قاعدة البيانات</translation>
+        <translation>تحديث قاعدة البيانات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="56"/>
         <source>Create new database</source>
-        <translation type="unfinished">إنشاء قاعدة بيانات جديدة</translation>
+        <translation>إنشاء قاعدة بيانات جديدة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="63"/>
         <source>Select database folder</source>
-        <translation type="unfinished">حدد مجلد قاعدة البيانات</translation>
+        <translation>حدد مجلد قاعدة البيانات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="75"/>
         <source>Patients Search   </source>
-        <translation type="unfinished"></translation>
+        <translation>بحث المرضى   </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="120"/>
         <source>ID</source>
-        <translation type="unfinished">الهوية</translation>
+        <translation>الهوية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="136"/>
         <source>Filter by patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفية حسب هوية المريض</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="175"/>
         <source>Name</source>
-        <translation type="unfinished">اسم</translation>
+        <translation>اسم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="191"/>
         <source>Filter by patient name</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفية حسب اسم المريض</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="230"/>
         <source>Study</source>
-        <translation type="unfinished">الدراسة</translation>
+        <translation>الدراسة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="246"/>
         <source>Filter by study description</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفية حسب وصف الدراسة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="285"/>
         <source>Series</source>
-        <translation type="unfinished">سلسلة</translation>
+        <translation>سلسلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="301"/>
         <source>Filter by series description</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفية حسب وصف السلسلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="352"/>
         <source>Modality</source>
-        <translation type="unfinished">طريقه</translation>
+        <translation>طريقة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="380"/>
         <source>Filter by modality</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفية حسب الطريقة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="383"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="399"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="515"/>
         <source>Any</source>
-        <translation type="unfinished">أي</translation>
+        <translation>أي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="404"/>
         <source>CR</source>
-        <translation type="unfinished">سجل تجاري</translation>
+        <translation>سجل تجاري</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="409"/>
@@ -3088,93 +3088,94 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="483"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>تاريخ</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="511"/>
         <source>Filter by date</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفية حسب التاريخ</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="520"/>
         <source>Today</source>
-        <translation type="unfinished">اليوم</translation>
+        <translation>اليوم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="525"/>
         <source>Yesterday</source>
-        <translation type="unfinished">أمس</translation>
+        <translation>أمس</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="530"/>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>الأسبوع الماضي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="535"/>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>الشهر الماضي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="540"/>
         <source>Last year</source>
-        <translation type="unfinished"></translation>
+        <translation>العام الماضي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="572"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Search the database. If servers are specified, the widget will also conduct queries and retrieve the data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ابحث في قاعدة البيانات. إذا تم تحديد الخوادم ، فستقوم الأداة أيضا بإجراء استعلامات واسترداد البيانات.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="615"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>إجراءات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="639"/>
         <source> Close</source>
-        <translation type="unfinished"></translation>
+        <translation> إغلاق</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="656"/>
         <source> Import</source>
-        <translation type="unfinished"></translation>
+        <translation> استيراد</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="693"/>
         <source>No filters have been set and no patients have been found in the local database.
 Please set at least one filter to query the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تعيين مرشحات ولم يتم العثور على أي مرضى في قاعدة البيانات المحلية.
+يرجى ضبط مرشح واحد على الأقل للاستفسار عن الخوادم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="793"/>
         <source>Patient 1</source>
-        <translation type="unfinished"></translation>
+        <translation>المريض 1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="802"/>
         <source>Patient 2</source>
-        <translation type="unfinished"></translation>
+        <translation>المريض 2</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="808"/>
         <source>Advanced</source>
-        <translation type="unfinished">متقدم</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="814"/>
         <source>Jobs   </source>
-        <translation type="unfinished"></translation>
+        <translation>وظائف   </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="841"/>
         <source>Settings</source>
-        <translation type="unfinished">إعدادات</translation>
+        <translation>إعدادات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="900"/>
         <source>Progress</source>
-        <translation type="unfinished">تقدم</translation>
+        <translation>تقدم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="926"/>
@@ -3182,124 +3183,127 @@ Please set at least one filter to query the servers</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1088"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3942"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="281"/>
         <source>DICOM File Metadata</source>
-        <translation type="unfinished">البيانات الوصفية لملف DICOM</translation>
+        <translation>البيانات الوصفية لملف DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="388"/>
         <source>Show options</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الخيارات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="393"/>
         <source>Query/Retrieve from servers</source>
-        <translation type="unfinished"></translation>
+        <translation>استعلام/استرجاع من الخوادم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="394"/>
         <source>If enabled, the widget will also conduct queries and retrieve the data.</source>
-        <translation type="unfinished"></translation>
+        <translation>في حالة التمكين ، ستقوم الأداة أيضا بإجراء استعلامات واسترداد البيانات.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="442"/>
         <source>Add Link</source>
-        <translation type="unfinished">اضافة رابط</translation>
+        <translation>اضافة رابط</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="443"/>
         <source>Copy</source>
-        <translation type="unfinished">نسخ</translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="445"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation type="unfinished">حدد ما إذا كان يجب نسخ الملفات إلى دليل قاعدة البيانات المحلية أو إذا كان يجب إنشاء روابط فقط؟</translation>
+        <translation>حدد ما إذا كان يجب نسخ الملفات إلى دليل قاعدة البيانات المحلية أو إذا كان يجب إنشاء روابط فقط؟</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="447"/>
         <source>Import Directory Mode:</source>
-        <translation type="unfinished">وضع دليل الاستيراد:</translation>
+        <translation>وضع دليل الاستيراد:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="462"/>
         <source>Import</source>
-        <translation type="unfinished">استيراد</translation>
+        <translation>استيراد</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="463"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished"></translation>
+        <translation>استيراد ملفات DICOM من الدليل...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="615"/>
         <source>DICOM Schema Update</source>
-        <translation type="unfinished">تحديث مخطط DICOM</translation>
+        <translation>تحديث مخطط DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="618"/>
         <source>Initialization...</source>
-        <translation type="unfinished">تمهيد...</translation>
+        <translation>التهيئة...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1087"/>
         <source>Retrieving and processing selected series...</source>
-        <translation type="unfinished"></translation>
+        <translation>استرجاع ومعالجة سلسلة مختارة...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2282"/>
         <source>Database folder does not contain ctkDICOM.sql file: </source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد قاعدة البيانات لا يحتوي على ملف ctkDICOM.sql: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2286"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2314"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished">لم يتم العثور على قاعدة بيانات DICOM صالحة في المجلد %1.</translation>
+        <translation>لم يتم العثور على قاعدة بيانات DICOM صالحة في المجلد %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2309"/>
         <source>Database error: %1 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في قاعدة البيانات: %1 
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2327"/>
         <source>Database version mismatch: version of selected database = %1, version required = %2 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>عدم تطابق إصدار قاعدة البيانات: إصدار قاعدة البيانات المحددة = %1 ، الإصدار المطلوب = %2 
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2333"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished">تم العثور على إصدار قاعدة بيانات DICOM غير متوافق في المجلد %1.</translation>
+        <translation>تم العثور على إصدار قاعدة بيانات DICOM غير متوافق في المجلد %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2550"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished">فشل إنشاء قاعدة بيانات جديدة في المجلد %1.</translation>
+        <translation>فشل إنشاء قاعدة بيانات جديدة في المجلد %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2891"/>
         <source>No patients have been found in the local database.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على أي مريض في قاعدة البيانات المحلية.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2956"/>
         <source>No filters or query/retrieve servers have been set and no patients have been found in the local database.
 Please set at least one filter to query the servers and check that at least one server has the Query/Retrieve property toggled.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تعيين فلاتر أو خوادم استعلام/استرداد ولم يتم العثور على مرضى في قاعدة البيانات المحلية.
+يرجى تعيين عامل تصفية واحد على الأقل للاستعلام عن الخوادم والتحقق من أن ملقم واحد على الأقل لديه خاصية الاستعلام/استرداد مثبت.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3042"/>
         <source>The patients query provided no results. Please refine your filters.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يقدم استعلام المرضى أي نتائج. الرجاء تحسين المرشحات الخاصة بك.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3142"/>
