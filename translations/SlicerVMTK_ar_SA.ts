@@ -2000,7 +2000,12 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 &lt;br&gt;&lt;br&gt;The &apos;Flood filling&apos; effect of the &apos;&lt;a href=&quot;https://github.com/lassoan/SlicerSegmentEditorExtraEffects&quot;&gt;Segment editor extra effects&lt;/a&gt;&apos; is used for segmentation.
 &lt;br&gt;&lt;br&gt;The &apos;&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ExtractCenterline/&quot;&gt;SlicerExtension-VMTK Extract centerline&lt;/a&gt;&apos; module is required.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+يهدف هذا &lt; a href = «https://github.com/vmtk/SlicerExtension-VMTK/» &gt; الوحدة &lt;/a &gt; إلى إنشاء تجزئة من تباين معزز للأنجيوسكان بالأشعة المقطعية، واستخراج الخطوط المركزية أخيرًا من النموذج السطحي.
+&lt; br &gt; &lt; br &gt; يفترض أن الحصول على البيانات لحجم المدخلات مثالي تقريبًا، وأن النقاط المالية توضع في التجويف المتباين.
+&lt; br &gt; &lt; br &gt; تأثير «ملء الفيضانات» لـ «&lt; a href =» https://github.com/lassoan/SlicerSegmentEditorExtraEffects «&gt; يستخدم محرر القطاعات تأثيرات إضافية &lt;/a &gt;» للتجزئة.
+&lt; br &gt; &lt; br &gt; الخط المركزي لمستخلص SlicerExtension-VMTK &lt;/a &gt; https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ExtractCenterline/ &gt; مطلوب وحدة.
+</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="51"/>
@@ -2794,7 +2799,7 @@ The first and second points are the boundaries between which the analysis will b
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="69"/>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="94"/>
