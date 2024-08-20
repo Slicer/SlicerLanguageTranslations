@@ -9,7 +9,10 @@
 Segment calcifications around an arterial lumen within a margin.
 See more information in &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Calcificações segmentares ao redor de um lúmen arterial dentro de uma margem. 
+Veja mais informações na &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="52"/>
@@ -17,87 +20,90 @@ See more information in &lt;a href=&quot;href=&quot;https://github.com/vmtk/Slic
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este arquivo foi originalmente desenvolvido por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+e Steve Pieper, Isomics, Inc., com financiamento parcial do subsídio NIH 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="107"/>
         <source>Show 3D on success</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir 3D se bem-sucedido</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="182"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao computar os resultados.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="219"/>
         <source>Input segmentation, volume or segment ID is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>A segmentação de entrada, o volume ou a ID do segmento são inválidos</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="223"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento iniciado</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="297"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento concluído em {duration} segundos</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="318"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Início do teste</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="320"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Teste aprovado</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="19"/>
         <source>Select an input lumen segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um segmento de lúmen de entrada.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="32"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="39"/>
         <source>Segment calcification around the lumen within this margin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcificação do segmento ao redor do lúmen dentro dessa margem.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="42"/>
         <source> mm</source>
-        <translation type="unfinished"></translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="61"/>
         <source>Margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Margem:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="68"/>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="75"/>
         <source>Select the source volume node of the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o nó do volume de origem do segmento selecionado.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="123"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Execute o algoritmo.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="126"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -105,7 +111,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="33"/>
         <source>Centerline disassembly</source>
-        <translation type="unfinished"></translation>
+        <translation>Desmontagem da linha de centro</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="41"/>
@@ -114,7 +120,11 @@ Break down a centerline model into parts.
 This module makes use of the &apos;ExtractCenterline&apos; module to generate curves.
 See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Divida um modelo de linha central em partes.
+Este módulo faz uso do módulo &apos;Extrair Linha Central&apos; para gerar curvas.
+Veja mais informações na &lt;a href=&apos;https://github.com/vmtk/SlicerExtension-VMTK/&apos;&gt;documentação do módulo&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="51"/>
@@ -122,137 +132,140 @@ See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExten
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este arquivo foi originalmente desenvolvido por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+e Steve Pieper, Isomics, Inc., e foi parcialmente financiado pelo subsídio 3P41RR013218-12S1 do NIH.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="96"/>
         <source>Bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifurcações</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="97"/>
         <source>Branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="98"/>
         <source>Centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas centrais</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="103"/>
         <source>Show curve names</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar nomes das curvas</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="187"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao computar os resultados.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="191"/>
         <source>Please select the components to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione os componentes a serem criados.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="195"/>
         <source>Please specify whether centerline &apos;Models&apos; and/or &apos;Curves&apos; should be generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique se devem ser gerados “Modelos” e/ou “Curvas” de linha central.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="197"/>
         <source>Splitting centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Divisão da linha central</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="213"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="231"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="249"/>
         <source> models</source>
-        <translation type="unfinished"></translation>
+        <translation> modelos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="216"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="234"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="252"/>
         <source> curves</source>
-        <translation type="unfinished"></translation>
+        <translation> curvas</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="218"/>
         <source>Creating bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>Criação de bifurcações</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="221"/>
         <source>Bifurcation_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo_de_bifurcação</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="224"/>
         <source>Bifurcation_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva_de_bifurcação</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="236"/>
         <source>Creating branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Criação de filiais</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="239"/>
         <source>Branch_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo_de_Ramo</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="242"/>
         <source>Branch_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva_de_ramificação</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="254"/>
         <source>Creating centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Criação de linhas de centro</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="257"/>
         <source>Centerline_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo_de_Linha_Central</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="260"/>
         <source>Centerline_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva_da_Linha_Central</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="265"/>
         <source>Invalid component</source>
-        <translation type="unfinished"></translation>
+        <translation>Componente inválido</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="269"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizado</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="339"/>
         <source>Input centerline is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>A linha central de entrada é inválida</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="431"/>
         <source>Processing curve creation started</source>
-        <translation type="unfinished"></translation>
+        <translation>Início da criação da curva de processamento</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="491"/>
         <source>Processing curve creation completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Criação da curva de processamento concluída em {duration} segundos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="496"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="526"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline model first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chame “splitCenterlines()” com um modelo de linha central de entrada primeiro.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="500"/>
