@@ -1811,12 +1811,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="62"/>
         <source>This is a module for detecting landmarks by pivoting a tracked stylus. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذه وحدة لاكتشاف المعالم عن طريق تمحور قلم متتبع. إذا كانت لديك أسئلة، أو واجهت مشكلة، أرسل مشكلة على &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt; صفحة GitHub &lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="68"/>
         <source>This module was developed through support from CANARIE&apos;s Research Software Program, Cancer Care Ontario, OpenAnatomy, and Brigham and Women&apos;s Hospital through NIH grant R01MH112748.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تطوير هذه الوحدة من خلال دعم برنامج الأبحاث التابع لـ CANARIE، و Cancer Care Ontario، و OpenAnatomy، و Brigham and Women&apos;s Hospital من خلال R01MH112748 منح المعاهد الوطنية للصحة.</translation>
     </message>
 </context>
 <context>
@@ -1916,7 +1916,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModuleWidget.cxx" line="205"/>
         <source>Stop</source>
-        <translation type="unfinished">توقف عن</translation>
+        <translation>توقف</translation>
     </message>
 </context>
 <context>
@@ -1979,12 +1979,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="72"/>
         <source>Path Explorer is a module designed to facilitate the creation of trajectory, and visualization of volumes along these trajectories For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>مستكشف المسار هي وحدة مصممة لتسهيل إنشاء المسار، وتصور الأحجام على طول هذه المسارات للحصول على المساعدة حول كيفية استخدام هذه الوحدة قم بزيارة:&lt;a href=&apos;https://www.slicerigt.org&apos;&gt; موقع SlicerIGT &lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
         <source>It is supported by grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</source>
-        <translation type="unfinished"></translation>
+        <translation>وهي مدعومة بمنح 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</translation>
     </message>
 </context>
 <context>
@@ -2027,12 +2027,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModuleWidget.cxx" line="78"/>
         <source>Entry</source>
-        <translation type="unfinished"></translation>
+        <translation>دخول</translation>
     </message>
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModuleWidget.cxx" line="79"/>
         <source>Target</source>
-        <translation type="unfinished"></translation>
+        <translation>الهدف</translation>
     </message>
 </context>
 <context>
@@ -2391,22 +2391,22 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="68"/>
         <source>Perform pivot calibration to determine the tool tip&apos;s position, by pivoting the tip of the tool about some fixed point. Perform spin calibration to determine the tool&apos;s orientation, by spinning the tool about its axis. The pivot and spin calibrations can be performed in any order. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإجراء معايرة محورية لتحديد موضع طرف الأداة، عن طريق تمحور طرف الأداة حول نقطة ثابتة ما. قم بمعايرة الدوران لتحديد اتجاه الأداة، عن طريق تدوير الأداة حول محورها. يمكن إجراء معايرة المحور والدوران بأي ترتيب. للحصول على مساعدة حول كيفية استخدام هذه الوحدة، قم بزيارة: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;موقع SlicerIGT &lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="77"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="84"/>
         <source>Franklin King (Queen&apos;s University)</source>
-        <translation type="unfinished"></translation>
+        <translation>Franklin King(جامعة كوينز)</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="85"/>
         <source>Tamas Ungi (Queen&apos;s University)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamas Ungi (جامعة كوينز)</translation>
     </message>
 </context>
 <context>
@@ -2417,7 +2417,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="221"/>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="261"/>
         <source>%1 seconds until start</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 ثانية حتى البداية</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="225"/>
@@ -2425,18 +2425,18 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="266"/>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="284"/>
         <source>Sampling time left: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الوقت المتبقي لأخذ العينات: %1</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="247"/>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="288"/>
         <source>Sampling complete</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتمال أخذ العينات</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="405"/>
         <source>Flipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقلبت.</translation>
     </message>
 </context>
 <context>
@@ -2612,7 +2612,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/SubjectHierarchyPlugins/qSlicerSubjectHierarchyPathExplorerPlugin.cxx" line="144"/>
         <source>Path Explorer trajectories</source>
-        <translation type="unfinished"></translation>
+        <translation>مسارات مستكشف المسار</translation>
     </message>
 </context>
 <context>
@@ -2949,12 +2949,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="92"/>
         <source>This module allows combining, inverting, stabilizing, termporal smoothing of transforms in real-time. For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>تسمح هذه الوحدة بدمج التحويلات في الوقت الفعلي وعكسها وتثبيتها وتنعيمها. لمزيد من المعلومات، قم بزيارة &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt; موقع مشروع SlicerIGT &lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="99"/>
         <source>This work was partially funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO), and by National Institute of Health (grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886, 8P41EB015898).</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تمويل هذا العمل جزئيًا من قبل رعاية السرطان في أونتاريو واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)، ومن قبل المعهد الوطني للصحة (المنح 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886, 8P41EB015898).</translation>
     </message>
 </context>
 <context>
@@ -2962,7 +2962,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="97"/>
         <source>Compute the quaternion average of all Source transforms provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>احسب متوسط الرباعية لجميع تحويلات المصدر المقدمة.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="99"/>
