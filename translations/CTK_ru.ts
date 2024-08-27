@@ -6,12 +6,12 @@
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="14"/>
         <source>DICOM Application Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Хост приложения DICOM</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="37"/>
         <source>CTK Example Hosting Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Пример применения хостинга CTK</translation>
     </message>
 </context>
 <context>
@@ -19,22 +19,22 @@
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Действие</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
         <source>Shortcut(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярлык(и)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекст</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробно</translation>
     </message>
 </context>
 <context>
@@ -42,27 +42,27 @@
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="14"/>
         <source>Select items</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать элементы</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="36"/>
         <source>Add an object</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить объект</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="59"/>
         <source>Remove select object</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранный объект</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="82"/>
         <source>Edit selected object</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить выбранный объект</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkAddRemoveComboBox.cpp" line="75"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ноль</translation>
     </message>
 </context>
 <context>
