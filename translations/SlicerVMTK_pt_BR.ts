@@ -270,84 +270,86 @@ e Steve Pieper, Isomics, Inc., e foi parcialmente financiado pelo subsídio 3P41
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="500"/>
         <source>Processing centerline ids started</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento de IDs de linha central iniciado</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="520"/>
         <source>Processing centerline ids completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento de IDs de linha central concluído em {duration} segundos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="530"/>
         <source>Processing group ids started</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento de IDs de grupo iniciado</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="563"/>
         <source>Processing group ids completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento de IDs de grupo concluído em {duration} segundos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="579"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>Início do teste</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="581"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Teste aprovado</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="19"/>
         <source>Centerline model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de linha de centro:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="29"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha a entrada para o algoritmo.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="65"/>
         <source>Component:</source>
-        <translation type="unfinished"></translation>
+        <translation>Componente:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="72"/>
         <source>Select the output components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione os componentes de saída.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="102"/>
         <source>Create centerline models</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar modelos de linha de centro</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="105"/>
         <source>Create models</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar modelos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="115"/>
         <source>Create centerline curves.
 
 Upon curve creation, the visibility of the names can be specified via the menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar curvas de linha central.
+
+Após a criação da curva, a visibilidade dos nomes pode ser especificada por meio do menu.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="120"/>
         <source>Create curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar curvas</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="135"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Execute o algoritmo.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="138"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -357,7 +359,9 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
         <source>
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo descreve seções transversais ao longo de um modelo de linha central do VMTK, uma curva de marcações de linha central do VMTK ou uma curva de marcações arbitrária. A documentação está disponível &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;aqui&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="42"/>
@@ -365,49 +369,52 @@ This module describes cross-sections along a VMTK centerline model, a VMTK cente
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este arquivo foi originalmente desenvolvido por Jean-Christophe Fillion-Robin, da Kitware Inc., Andras Lasso, do PerkLab, 
+e Steve Pieper, da Isomics, Inc., e foi parcialmente financiado pela bolsa NIH 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="334"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="867"/>
         <source>Input is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>A entrada é inválida.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="422"/>
         <source>N/A (input lumen surface not specified)</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A (superfície do lúmen de entrada não especificada)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="441"/>
         <source> (MIS diameter {sign}</source>
-        <translation type="unfinished"></translation>
+        <translation> (MIS diâmetro {sinal})</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="591"/>
         <source>Selected Shape node is not a Tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nó de Forma selecionado não é um Tubo.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="597"/>
         <source>Selected model node does not have radius information.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nó do modelo selecionado não tem informações sobre o raio.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="616"/>
         <source>MIS diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diâmetro do MIS</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="618"/>
         <source>CE diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diâmetro CE</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="619"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1623"/>
         <source>Cross-section area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área da seção transversal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="621"/>
