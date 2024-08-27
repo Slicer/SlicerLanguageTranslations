@@ -99,7 +99,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
         <source>Input Image Volume</source>
-        <translation>Ввод объёма образа</translation>
+        <translation>Ввод объёма изображения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
@@ -114,7 +114,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation>Необходимо: вводной образ является 4D NRRD изображением.</translation>
+        <translation>Необходимо: вводимое изображение является изображением 4D NRRD.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
@@ -127,22 +127,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation>Искажение мозга с образа T1/T2 (BRAINS)</translation>
+        <translation>Искажение мозга с изображения T1/T2 (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation>Эта программа: 1) исказит образы из набора изображений.  Вводы должны быть выровнены по ACPC c приложенными AC, PC, LE и RE.</translation>
+        <translation>Эта программа: 1) исказит картинки из набора изображений.  Вводы должны быть выровнены по ACPC c приложенными AC, PC, LE и RE.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
         <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
-        <translation>Эта работа была выполнена кафедрой электротехники и вычислительной техники Университета Айовы.</translation>
+        <translation>Эта работа была выполнена Кафедрой электротехники и вычислительной техники Университета Айовы.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
         <source>Input Images</source>
-        <translation>Вводные изображения</translation>
+        <translation>Входные изображения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
@@ -275,7 +275,7 @@
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="37"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="42"/>
         <source>Upper Output Intensity</source>
-        <translation>Интенсивность верхнего вывода</translation>
+        <translation>Интенсивность верхнего выхода</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="36"/>
@@ -286,37 +286,37 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
         <source>Relative Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Относительное масштабирование</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
         <source>Debug Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень отладки</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
         <source>Upper Intensity Percentile (0.99 default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перцентиль верхней интенсивности (по умолчанию 0.99)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="41"/>
         <source>Lower Intensity Percentile (0.01 default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перцентиль нижней интенсивности (по умолчанию 0.01)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Не обрезайте значения вне этого диапазона как &quot;Внешние значения&quot;</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
         <source>Do not scale to the relative percentiles of the output scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Не масштабируйте к относительным перцентилям выходного масштаба</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
         <source>Level of Debugging (0=None)</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень отладки (0=Нулевой)</translation>
     </message>
 </context>
 <context>
@@ -324,127 +324,127 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Общая регистрация (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистрируйте трёхмерный объём в референсном объёме (матирует общие данные по умолчанию). Метод описан в BRAINSFit: Регистрация общих данных цельных 3D-изображений мозга, используя набор утилит Insight, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5); Ali Ghayoor(4) 1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard  </source>
-        <translation type="unfinished"></translation>
+        <translation>Hans Jonson (1,3,4); Kent Williams (1); Gregory Harris (1), Vincent Magnotta(1,2,3);    Andriy Fedorov(5); Ali Ghayoor(4) 1=Отдел Психиатрии Университета Айовы, 2=Отдел Радиологии Университета Айовы, 3=Отдел Биомедицинской Инженерии Университета Айовы, 4=Отдел Электрической и Компьютерной Инженерии Университета Айовы, 5=Лаборатория Хирургического Планирования, Гарвард  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
         <source>Input Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Входные изображения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
         <source>Fixed Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Объём неподвижного изображения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
         <source>Moving Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Объём движущегося изображения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
         <source>Percentage Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Процентное соотношение сэмплов</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="11"/>
         <source>B-Spline Grid Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер сетки B-Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
         <source>Input fixed image (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите неподвижное изображение (движущаяся картинка будет трансформирована в пространство этого изображения).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
         <source>Input moving image (this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите движущееся изображение (эта картинка будет преобразована в пространство неподвижного изображения).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Часть вокселей этого неподвижного изображения будет использована для регистрации. Число должно быть больше нуля и меньше либо равно единице. Более высокие значения увеличивают время обработки, но могут дать более точные результаты. Вы также можете ограничить фокус сэмплинга ROI маской и генерацией масок ROIAUTO. Значение по умолчанию – 0.002 (используйте примерно 0.2% вокселей, что даст 100000 сэмплов в объёме 512х512х192), что даёт очень быструю регистрацию в большей части случае. Типичные значения находятся в диапазоне от 0.01 (1%) для изображений низкого качества до 0.2 (20%) для изображений высокого качества.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Число подразделений сетки BSpline у каждой оси неподвижного изображения, центрированной на области изображения. Значения должны быть равны или больше 3 для корректного вычисления В-сплайна.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
         <source>Output Settings (At least one output must be specified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выходные настройки (Как минимум один выход должен быть уточнён)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Линейное преобразование слайсера</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
         <source>Slicer BSpline Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразование слайсера BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
         <source>Output Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Объём выходного изображения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
         <source>(optional) Output estimated transform - in case the computed transform is not BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(опционально) Вывод примерного преобразования - не является BSpline в случае вычислительного преобразования. Внимание: необходимо назначить хотя бы один выходной объект (преобразование и/или выходной объём).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
         <source>(optional) Output estimated transform - in case the computed transform is BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(опционально) Вывод примерного преобразования - в случае, если вычисленное преобразование является BSpline. Внимание: необходимо назначить хотя бы один выходной объект (преобразование и/или выходной объём).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(опционально) Выходное изображение: движущееся изображение, искажённое в пространство неподвижного изображения). Внимание: необходимо назначить хотя бы один выходной объект (преобразование и/или выходной объём).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать настройки инициализации</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
         <source>Options for initializing transform parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Опции для инициализации параметров преобразования.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
         <source>Initialization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразование инициализации</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
         <source>Initialize Transform Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Инициализировать режим преобразования</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразование должно быть применено к движущейся картинки для инициализации регистрации.  Это может быть использовано только если Инициализация режима преобразования выключена.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Определите, как инициализовать центр трансформации.  useMomentsAlign предполагает, что центр массы изображений представляет собой схожие структуры.  useCenterOfHeadAlign пытается использовать верх головы и форму шеи для выведения предположительного центра масс. useGeometryAlign во включённом состоянии предполагает, что центр воксельной решётки представляет собой схожией структуры. В выключенном же состоянии предполагается, что физическое пространство изображений близко.  Этот флаг является взимоисключающим по отношению к Преобразованию инициализации.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -455,137 +455,137 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
         <source>useMomentsAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>useMomentsAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>useCenterOfHeadAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
         <source>useGeometryAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>useGeometryAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
         <source>useCenterOfROIAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>useCenterOfROIAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
         <source>Registration Phases (Check one or more, executed in order listed)</source>
-        <translation type="unfinished"></translation>
+        <translation>Фазы регистрации (Поставьте галочки на одной или больше, производятся в том же порядке, в каком указаны)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="36"/>
         <source>Each of the registration phases will be used to initialize the next phase</source>
-        <translation type="unfinished"></translation>
+        <translation>Каждая фаза регистрации будет использована для инициализации следующей</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="37"/>
         <source>Rigid (6 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Жёстко (6 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="38"/>
         <source>Rigid+Scale(7 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Жёстко+масштабированно(7 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="39"/>
         <source>Rigid+Scale+Skew(10 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Жёстко+масштабированно+перекошенно(10 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="40"/>
         <source>Affine(12 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Аффинно(12 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"/>
         <source>BSpline (&gt;27 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline (&gt;27 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"/>
         <source>SyN</source>
-        <translation type="unfinished"></translation>
+        <translation>SyN</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="43"/>
         <source>Composite (many DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Композитно (много DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
         <source>Perform a rigid registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произвести жёсткую регистрацию как один из последовательных шагов регистрации.  Это древо опций переопределяет использование преобразований transformType, если какое-либо из них было назначено.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произведите регистрацию ScaleVersor3D как один из последовательных шагов регистрации.  Это древо опций переопределяет использование преобразований transformType, если какие-либо из них были назначены.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
         <source>Perform a ScaleSkewVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произвести регистрацию ScaleSkewVersor3D как один из последовательных шагов регистрации.  Это древо опций переопределяет использование преобразований transformType, если какое-либо из них было назначено.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="47"/>
         <source>Perform an Affine registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произвести аффинную регистрацию как один из последовательных шагов регистрации.  Это древо опций переопределяет использование преобразований transformType, если какое-либо из них было назначено.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
         <source>Perform a BSpline registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произвести регистрацию BSpline как один из последовательных шагов регистрации.  Это древо опций переопределяет использование преобразований transformType, если какое-либо из них было назначено.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
         <source>Perform a SyN registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произвести регистрацию SyN как один из последовательных шагов регистрации.  Это древо опций переопределяет использование преобразований transformType, если какое-либо из них было назначено.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
         <source>Perform a Composite registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произвести композитную регистрацию как один из последовательных шагов регистрации.  Это древо опций переопределяет использование преобразований transformType, если какое-либо из них было назначено.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
         <source>Image Mask and Pre-Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Маска изображения и предварительная обработка</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
         <source>Masking Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Опция наложения маски</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
         <source>(ROI) Masking input fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROI) Ввод маски неподвижен</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="54"/>
         <source>(ROI) Masking input moving</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROI) Ввод маски находится в движении</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="55"/>
         <source>(ROIAUTO) Output fixed mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROIAUTO) Вывести неподвижную маску</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="56"/>
         <source>(ROIAUTO) Output moving mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROIAUTO) Вывести подвижную маску</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
         <source>Define BSpline grid over the ROI bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>Определить сетку BSpline над ограничивающей рамкой ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
@@ -595,138 +595,138 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
         <source>Median Filter Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Средний размер фильтра</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
         <source>Remove Intensity Outliers value at one tail</source>
-        <translation type="unfinished"></translation>
+        <translation>Убрать заинтервальные значения интенсивности на одном конце</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Назначает учитывание маской только определённой области изображения для регистрации.  Если выбрана опция ROIAUTO, то маска вычисляется посредством ограничения Otsu и заполнения пробелов. Если выбрана опция ROI, то маска должна быть назначена как ввод.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Объём двоичной маски неподвижного изображения необходим, если опция наложения маски – ROI. Области изображения, где объём маски нулевой, игнорируются при регистрации.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Объём двоичной маски подвижного изображения необходим, если опция наложения маски – ROI. Области изображения, где объём маски нулевой, игнорируются при регистрации.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI, который автоматически вычисляется из неподвижного изображения. Доступен только в том случае, если опция наложения маски – ROIAUTO. Области изображения, где объём маски нулевой, игнорируются при регистрации.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI, который автоматически вычисляется из подвижного изображения. Доступен только в том случае, если опция наложения маски – ROIAUTO. Области изображения, где объём маски нулевой, игнорируются при регистрации.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
         <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если активирован, то ограничивающая рамка вводов ROI определяет область поддержки сетки BSpline. В обратном случае область поддержки сетки BSpline является всей неподвижной картинкой.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
         <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить операцию сопоставления гистограмм входных изображений, чтобы сделать их более похожими. Это подходит для изображений равной модальности, которые могут иметь разную яркость или контрастность, но тот же самый профиль общей интенсивности. Не использовать для регистрируемых изображений разной модальности.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
         <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить усреднённую фильтрацию для понижения шума входных изображений. 3 значения уточняют радиус опциональной предварительной обработки MedianImageFilter во всех 3 направлениях (в вокселях).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Устранить воксели очень высокой и очень низкой интенсивности из входных объёмов. Этот параметр определяет половину процента, чтобы выбрать заинтервальные воксели интенсивности изображения. Значение по умолчанию ‐ ноль, то есть заинтервальные воксели удаляться не будут. Если дано значение 0.005, то 0.005% будет удалено с обоих концов, то есть 0.01% интенсивностей будет проигнорировано в вычислении статистики.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="71"/>
         <source>NOMASK</source>
-        <translation type="unfinished"></translation>
+        <translation>NOMASK</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
         <source>ROIAUTO</source>
-        <translation type="unfinished"></translation>
+        <translation>ROIAUTO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
         <source>ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
         <source>Advanced Output Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширенные настройки вывода</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
         <source>Fixed Image Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Объём неподвижного изображения 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
         <source>Moving Image Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Объём подвижного изображения2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип пикселей выходного изображения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
         <source>Background Fill Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение заливки фона</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="79"/>
         <source>Scale Output Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабировать выходные значения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим интерполяции</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
         <source>Input fixed image that will be used for multimodal registration. (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите неподвижное изображение, которое будет использовано при мультимодальной регистрации. (движущееся изображение будет преобразовано в это пространство изображения).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="82"/>
         <source>Input moving image that will be used for multimodal registration(this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите подвижное изображение, которое будет использовано при мультимодальной регистрации. (движущееся изображение будет преобразовано в пространство неподвижного изображения).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
         <source>Data type for representing a voxel of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип данных для представления вокселя выходного объёма.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
         <source>This value will be used for filling those areas of the output image that have no corresponding voxels in the input moving image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Это значение будет использовано для заполнения тех областей выходного изображения, что не имеют сопоставленных им вокселей в входном движущемся изображении.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
         <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если true, и значения вокселей не входят в интервал между минимальным и максимальным значениями желаемого outputVolumePixelType, то линейно масштабировать минимальный/максимальный интервал значений вокселей из outputVolumePixelType.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип интерполяции, который будет использован при преобразовании движущегося объёма.  Имеющиеся опции: Linear (линейное), NearestNeighbor (по ближайшему соседу), BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, или ResampleInPlace. Опция ResampleInPlace создаст изображение с теми же дискретными значениями вокселей и настроит начало и направление их интерпретации в физическом пространстве.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
@@ -743,178 +743,179 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>NearestNeighbor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished"></translation>
+        <translation>ResampleInPlace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="98"/>
         <source>BSpline</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="99"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosine</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"/>
         <source>Welch</source>
-        <translation type="unfinished"></translation>
+        <translation>Welch</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="103"/>
         <source>Lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanczos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"/>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
         <source>Advanced Optimization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширенные настройки оптимизации</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="106"/>
         <source>Max Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальное количество итераций</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="107"/>
         <source>Maximum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальная длина шага</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="108"/>
         <source>Minimum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимальная длина шага</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="109"/>
         <source>Relaxation Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Фактор релаксации</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="110"/>
         <source>Transform Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабирование преобразования</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="111"/>
         <source>Reproportion Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Репропорционирование</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="112"/>
         <source>Skew Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабирование скосом</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="113"/>
         <source>Maximum B-Spline Displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальное смещение B-Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="114"/>
         <source>The maximum number of iterations to try before stopping the optimization. When using a lower value (500-1000) then the registration is forced to terminate earlier but there is a higher risk of stopping before an optimal solution is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальное количество попыток итераций, прежде чем прекратить оптимизацию. При использовании низкого значения (500-1000) регистрация будет принудительно остановлена ранее, но есть больший риск остановки прежде чем оптимальное решение будет найдено.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="115"/>
         <source>Starting step length of the optimizer. In general, higher values allow for recovering larger initial misalignments but there is an increased chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Начальная длина шага оптимизатора. Обычно, более высокие значения позволяют восстановить большее количество изначальных несовпадений, но есть высокий шанс, что регистрация не сойдётся.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="116"/>
         <source>Each step in the optimization takes steps at least this big.  When none are possible, registration is complete. Smaller values allows the optimizer to make smaller adjustments, but the registration time may increase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Каждый шаг оптимизации будет иметь как минимум такую длину.  Если ни один из них невозможен, то регистрация завершена. Более низкие значения позволяют оптимизатору делать уточнения меньшего размера, но время регистрации может увеличиться.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="117"/>
         <source>Specifies how quickly the optimization step length is decreased during registration. The value must be larger than 0 and smaller than 1. Larger values result in slower step size decrease, which allow for recovering larger initial misalignments but it increases the registration time and the chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Уточняет, насколько быстро длина шага оптимизации уменьшается во время регистрации. Значение должно быть больше 0 и меньше 1. Бо́льшие значения будут давать всё более медленное уменьшение длины шага, что позволит восстанавливать бо́льшие изначальные несовпадения, но это увеличит время регистрации и шанс того, что регистрация не сойдётся.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="118"/>
         <source>How much to scale up changes in position (in mm) compared to unit rotational changes (in radians) -- decrease this to allow for more rotation in the search pattern.</source>
-        <translation type="unfinished"></translation>
+        <translation>Насколько масштабировать вверх изменения в позиции (в мм) в сравнении с величиной вращательных изменений (в радианах) – уменьшить, чтобы позволить большее вращение в этом шаблоне поиска.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
         <source>ScaleVersor3D &apos;Scale&apos; compensation factor.  Increase this to allow for more rescaling in a ScaleVersor3D or ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation>Коэффициент компенсации «Scale» ScaleVersor3D.  Увеличьте, чтобы позволить больше повторного масштабирования в шаблоне поиска ScaleVersor3D или ScaleSkewVersor3D.  1.0 функционирует лучше с translationScale 1000.0 .</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="120"/>
         <source>ScaleSkewVersor3D Skew compensation factor.  Increase this to allow for more skew in a ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation>Коэффициент компенсации «Skew» ScaleVersor3D.  Увеличьте, чтобы позволить больше скоса в шаблоне поиска ScaleSkewVersor3D.  1.0 функционирует лучше с translationScale 1000.0 .</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Максимально допустимые смещения в физических координатах изображения (в мм) для контрольной сетки BSpline около каждой оси.  Значение 0.0 означает, что проблема должна быть неограниченной. Внимание: это только ограничивает часть BSpline, и не лимитирует смещение из связанного массивного преобразования.  Это может привести к значительному сокращению времени вычисления в оптимизаторе BSpline.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="122"/>
         <source>Expert-only Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры только для экспертов</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="123"/>
         <source>Fixed Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Временной индекс неподвижного изоображения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="124"/>
         <source>Moving Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Временной индекс подвижного изображения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="125"/>
         <source>Histogram bin count</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество ячеек гистограммы</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="126"/>
@@ -924,62 +925,62 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="127"/>
         <source>Cost Metric</source>
-        <translation type="unfinished"></translation>
+        <translation>Ценовая метрика</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="128"/>
         <source>Inferior Cut Off From Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Срез низлежащего с центра</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="129"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер расширения ROIAuto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="130"/>
         <source>ROIAuto Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер закрытия ROIAuto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество сэмплов</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
         <source>Stripped Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразование бескорпусного вывода</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
         <source>Transform Type</source>
-        <translation type="unfinished">Тип трансформации</translation>
+        <translation>Тип преобразования</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
         <source>Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразование вывода</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
         <source>Pass warped moving image to BSpline registration filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Передать искажённое движущееся изображение в регистрационный фильтр BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
         <source>writes the output registration transforms in single precision</source>
-        <translation type="unfinished"></translation>
+        <translation>записывает преобразование выходной регистрации с одинарной точностью</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
         <source>The index in the time series for the 3D fixed image to fit. Only allowed if the fixed input volume is 4-dimensional.</source>
-        <translation type="unfinished"></translation>
+        <translation>Индекс в временном ряду для подгонки неподвижного 3D-изображения. Разрешён только в том случае, если неподвижный входной объём четырёхмерный.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation type="unfinished"></translation>
+        <translation>Индекс в временном ряду для подгонки подвижного 3D-изображения. Разрешён только в том случае, если подвижный входной объём четырёхмерный</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
@@ -994,177 +995,180 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
         <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ценовая метрика для использования при подгонке. По умолчанию возвращается к MMI. Имеющиеся опции: MMI (матирует общие данные), MSE (среднеквадратическая ошибка), NC (нормализованная корреляция), MC (сопоставление мощности для двоичных изображений)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если опция Инициализировать режим преобразования назначена на useCenterOfHeadAlign, или Опция наложения маски – ROIAUTO, то это значение определяет, сколько будет срезано с нижней части изображения. Дистанция среза уточняется в миллиметрах относительно центра изображения. Если значение 1000 или больше, то среза не происходит.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот флаг имеет значение только тогда, когда для инициализации масок используется режим ROIAUTO.  Он определяет размер последнего расширения для захвата небольшого количества фона вне тканей.  Использование настройки 10мм помогло упорядочить тип регистрации BSpline так, что имеются ограничения фона, что позволяет лучше совместить края головы.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот флаг имеет значение только тогда, когда для инициализации масок используется режим ROIAUTO.  Он определяет размер закрытия дыры в мм.  Размер округляется до размера ближайшего целого пикселя в каждом направлении. По умолчанию используется размер закрытия 9мм.  Для данных мыши это значение должно быть сброшено до 0.9 или меньше.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation type="unfinished"></translation>
+        <translation>Количество вокселей, выбранных для вычисления общих данных.   Увеличить для большей точности в обмен на большее время вычисления.
+Внимание: рекомендуется использовать samplingPercentage вместо этой опции. Однако, если значение ненулевое, numberOfSamples перезаписывает опцию samplingPercentage.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Жёсткая компонента примерного аффинного преобразования. Может быть использована для жёсткой регистрации движущегося изображения к неподвижному изображению. Внимание: это значение переопределяется, если назначен bsplineTransform или linearTransform.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
         <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Уточняет список используемых типов регистрации.  Действительны типы: Rigid (жёсткая), ScaleVersor3D (масштабировать), ScaleSkewVersor3D (масштабировать и перекосить), Affine (аффинная), BSpline и SyN. Уточнение более, чем одного в списке, разделённом запятыми, начнёт следующую стаддию с результатами предыдущей. Если используется флаг registrationClass, то он переопределяет значение этого параметра.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
         <source>(optional) Filename to which save the (optional) estimated transform. NOTE: You must select either the outputTransform or the outputVolume option.</source>
-        <translation type="unfinished"></translation>
+        <translation>(опционально) Имя файла, в который сохранить (опциональное) примерное преобразование. Внимание: должна быть выбрана опция outputTransform или outputVolume.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если этот флаг активирован, используемое в данный момент композитное преобразование, возникшее из стадий линейной регистрации, начнёт процесс нелинейной регистрации. Однако по умолчанию движущееся изображение сначала будет искажено на основании существующего преобразования, прежде чем оно будет передано регистрационному фильтру BSpline. Это позволяет ускорить регистрацию BSpline уменьшением количества вычислений композитного преобразования Jacobian.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>По умолчанию, преобразования регистраций выхода (либо композитное преобразование выхода, либо каждый из компонентов преобразования) записываются в диск с двойной точностью. Если этот флаг активирован, выходные преобразования будут записаны с одинарной точностью. Это особенно важно, если выходное преобразование – преобразование поля смещения, или если это композитное преобразование, которое включает несколько полей смещения.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>MSE</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
         <source>NC</source>
-        <translation type="unfinished"></translation>
+        <translation>NC</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="155"/>
         <source>MIH</source>
-        <translation type="unfinished"></translation>
+        <translation>MIH</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="156"/>
         <source>Debugging Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры отладки</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="157"/>
         <source>Failure Exit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код выхода</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="158"/>
         <source>Write Transform On Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Записать преобразование при ошибке</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество потоков</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="160"/>
         <source>Debug option</source>
-        <translation type="unfinished"></translation>
+        <translation>Опция отладки</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="161"/>
         <source>Set Sampling Strategy</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать стратегию сэмплинга</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="162"/>
         <source>Log File Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Отчёт</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="163"/>
         <source>If the fit fails, exit with this status code.  (It can be used to force a successfult exit status of (0) if the registration fails due to reaching the maximum number of iterations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если подгонка не удастся, выйти с этим кодом состояния. (Он может быть использован для принудительного статуса выхода (0), если регистрация не удастся из-за достижения максимального количества итераций.)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
         <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
-        <translation type="unfinished"></translation>
+        <translation>Активировать этот флаг для сохранения финального преобразования, даже если numberOfIterations был достигнут без схождения. (Предназначен для случаев, если failureExitCode – 0)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
         <source>Explicitly specify the maximum number of threads to use. (default is auto-detected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Явно задать максимальное количество используемых потоков. (автоопределение по умолчанию)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="166"/>
         <source>Display debug messages, and produce debug intermediate results.  0=OFF, 1=Minimal, 10=Maximum debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать сообщения отладки и создавать промежуточные отладочные результаты.  0=Выкл., 10=Максимальная отладка.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the CostFunctionConvergenceFactor. Algorithm terminates when the reduction in cost function is less than (factor * epsmcj) where epsmch is the machine precision. Typical values for factor: 1e+12 for low accuracy; 1e+7 for moderate accuracy and 1e+1 for extremely high accuracy.  1e+9 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Из itkLBFGSBOptimizer.h: Задать/получить CostFunctionConvergenceFactor (коэффициент схождения ценовой функции). Алгоритм прекращается, когда уменьшение ценовой функции меньше чем (коэффициент * epsmch), где epsmch – машинная точность. Обычные значения коэффициента: 1e+12 для низкой точности; 1e+7 для средней точности и 1e+1 для очень высокой точности. 1e+9 работает достаточно хорошо.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="168"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the ProjectedGradientTolerance. Algorithm terminates when the project gradient is below the tolerance. Default lbfgsb value is 1e-5, but 1e-4 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Из itkLBFGSBOptimizer.h: Задать/получить ProjectedGradientTolerance (ожидаемый допуск градиента). Алгоритм прекращается, когда ожидаемый градиент меньше допуска. Значение lbfgsb по умолчанию 1e-5, но 1e-4 работает достаточно хорошо.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="169"/>
         <source>Maximum number of evaluations for line search in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальное количество вычислений для поиска по строке в оптимизаторе lbfgsb.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="170"/>
         <source>Maximum number of corrections in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальное количество исправлений оптимизатора lbfgsb.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="171"/>
         <source>Display intermediate image volumes for debugging.  NOTE:  This is not part of the standard build system, and probably does nothing on your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать промежуточные объёмы изображений для отладки. Внимание: это не является частью стандартной системы, и, возможно, никак не влияет на установку.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
         <source>Prompt the user to hit enter each time an image is sent to the DebugImageViewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Подсказывать пользователю нажимать Enter каждый раз, когда картинка отправляется в DebugImageViewer</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
         <source>It defines the method that registration filter uses to sample the input fixed image. Only Random is supported for now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Определяет метод, которым фильтр регистрации проведёт сэмплинг заданного неподвижного изображения. Пока поддерживается только Random (случайно).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
         <source>A file to write out final information report in CSV file: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл, в который будет записываться финальный репорт по данным в формате CSV: MetricName (метрическое имя), MetricValue (метрическое значение), FixedImageName (имя неподвижного изображения), FixedMaskName (имя неподвижной маски), MovingImageName (имя подвижного изображения), MovingMaskName (имя движущейся маски)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="176"/>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>Random</translation>
     </message>
 </context>
 <context>
@@ -1172,18 +1176,19 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="5"/>
         <source>Foreground masking (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Наложение маски на передний план (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>Эта программа используется для создания маски над самым видным регионом переднего плана изображения. Это достигается за счёт комбинации ограничения Otsu и операции закрытия.
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </source>
-        <translation type="unfinished"></translation>
+        <translation>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (интеграция Slicer); (1=Отдел Психиатрии Университета Айовы, 2=Отдел Радиологии Университета Айовы, 3=Отдел Биомедицинской Инженерии Университета Айовы, 4=Отдел Электрической и Компьютерной Инженерии Университета Айовы, 5=Лаборатория Хирургического Планирования, Гарвард)  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
@@ -1198,107 +1203,107 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Объём входного изображения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
         <source>Output Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Выходная маска</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Выходное изображение</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
         <source>Mask Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Вывод маски</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="14"/>
         <source>Output Image Clipped by ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>Выходное изображение, обрезанное ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="15"/>
         <source>The input image for finding the largest region filled mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Входное изображение для поиска наибольшего региона, заполненного маской.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="16"/>
         <source>The ROI automatically found from the input image.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI, автоматически найденный в входном изображении.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
         <source>The inputVolume with optional [maskOutput|cropOutput] to the region of the brain mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>inputVolume с опциональным [maskOutput|cropOutput] к региону с маской мозга.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="18"/>
         <source>The inputVolume multiplied by the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>inputVolume умноженный на маску ROI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="19"/>
         <source>The inputVolume cropped to the region of the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>inputVolume обрезанный к региону маски ROI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="20"/>
         <source>Configuration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры конфигурации</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
         <source>Otsu Percentile Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Граница перцентиля Otsu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
         <source>Otsu Correction Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Коэффициент коррекции Otsu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="23"/>
         <source>Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер закрытия</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="24"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер расширения ROIAuto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип пикселей выходного изображения</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество потоков</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
         <source>Parameter to the Otsu threshold algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр ограничительного алгоритма Otsu.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="28"/>
         <source>A factor to scale the Otsu algorithm&apos;s result threshold, in case clipping mangles the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Коэффициент для масштабирования границы результата алгоритма Otsu для случаев, когда обрезка рушит изображение.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
         <source>The Closing Size (in millimeters) for largest connected filled mask.  This value is divided by image spacing and rounded to the next largest voxel number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер закрытия (в миллиметрах) для самых больших соединённых заполненных масок. Это значение будет поделено на расстояние между изображениями и округлено до значения ближайшего вокселя.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  At setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот флаг имеет значение только тогда, когда используется режим ROIAUTO для инициализации масок. Он определяет размер конечного расширения для захвата небольшого количества фона вне тканей. При настройке 10мм упорядочивает тип регистрации BSpline так, что имеются некоторые сокращения фона, чтобы лучше совмещать края головы.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
