@@ -9289,7 +9289,7 @@ Vous pouvez enregistrer la position de la caméra à tout moment en cliquant sur
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
         <source>Form</source>
-        <translation>Forme</translation>
+        <translation>Formulaire</translation>
     </message>
 </context>
 <context>
