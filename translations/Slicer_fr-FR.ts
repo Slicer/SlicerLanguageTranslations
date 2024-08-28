@@ -12709,7 +12709,7 @@ Feuille de route des NIH pour la recherche médicale, subvention U54 EB005149.</
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="4"/>
         <source>Emphasize bone in a CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre l&apos;accent sur l&apos;os dans un volume CT.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="5"/>
@@ -12729,7 +12729,7 @@ Feuille de route des NIH pour la recherche médicale, subvention U54 EB005149.</
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="8"/>
         <source>View brain CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir le volume du scan cérébral.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="9"/>
