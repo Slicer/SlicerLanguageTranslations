@@ -10452,7 +10452,7 @@ L&apos;effet utilise la &lt;a href=&quot;https://insight-journal.org/browse/publ
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="24"/>
         <source>Grow from seeds</source>
-        <translation>Cultiver à partir de graines</translation>
+        <translation>Croître à partir de graines</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="60"/>
@@ -11443,7 +11443,7 @@ Si les segments se chevauchent, le segment situé plus haut dans le tableau des 
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="23"/>
         <source>Segment Statistics</source>
-        <translation>Statistiques sectorielles</translation>
+        <translation>Statistiques de segment</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="37"/>
@@ -30873,7 +30873,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsAngleNode.cxx" line="46"/>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsAngleNode.cxx" line="49"/>
@@ -30886,7 +30886,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsClosedCurveNode.cxx" line="57"/>
         <source>Closed Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe fermée</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsClosedCurveNode.cxx" line="60"/>
@@ -30899,7 +30899,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsCurveNode.cxx" line="78"/>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsCurveNode.cxx" line="81"/>
@@ -30912,7 +30912,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialNode.cxx" line="41"/>
         <source>Point List</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste de points</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialNode.cxx" line="44"/>
@@ -30971,7 +30971,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsNode.cxx" line="551"/>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Marqueur</translation>
     </message>
 </context>
 <context>
@@ -30979,7 +30979,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneNode.cxx" line="54"/>
         <source>Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneNode.cxx" line="57"/>
@@ -30992,7 +30992,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROINode.cxx" line="63"/>
         <source>ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>Région d&apos;intérêt</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROINode.cxx" line="66"/>
