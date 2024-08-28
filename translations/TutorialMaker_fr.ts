@@ -6,14 +6,14 @@
     <message>
         <location filename="Resources/UI/WidgetAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="Resources/UI/WidgetAnnotator.ui" line="26"/>
         <location filename="Resources/UI/WidgetAnnotator.ui" line="39"/>
         <location filename="Resources/UI/WidgetAnnotator.ui" line="52"/>
         <source>PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>bouton-poussoir</translation>
     </message>
 </context>
 <context>
@@ -21,27 +21,27 @@
     <message>
         <location filename="Lib/standalone/Editor/Resources/UI/TutorialGUI_v2.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>fenêtrePrincipale</translation>
     </message>
     <message>
         <location filename="Resources/UI/TutorialEditor.ui" line="20"/>
         <source>TutorialEditor</source>
-        <translation type="unfinished"></translation>
+        <translation>ÉditeurTutoriels</translation>
     </message>
     <message>
         <location filename="Resources/UI/TutorialEditor.ui" line="29"/>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Annoter</translation>
     </message>
     <message>
         <location filename="Resources/UI/TutorialEditor.ui" line="36"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrer enregistrement</translation>
     </message>
     <message>
         <location filename="Resources/UI/TutorialEditor.ui" line="46"/>
         <source>Next Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>widget suivant</translation>
     </message>
 </context>
 <context>
@@ -49,42 +49,42 @@
     <message>
         <location filename="Resources/UI/ScreenshotAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>formulaire</translation>
     </message>
     <message>
         <location filename="Resources/UI/TutorialMaker.ui" line="38"/>
         <source>Tutorial Making</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutoriel de fabrication</translation>
     </message>
     <message>
         <location filename="Resources/UI/TutorialMaker.ui" line="47"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editer</translation>
     </message>
     <message>
         <location filename="Resources/UI/TutorialMaker.ui" line="54"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger</translation>
     </message>
     <message>
         <location filename="Resources/UI/TutorialMaker.ui" line="61"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarder</translation>
     </message>
     <message>
         <location filename="Resources/UI/TutorialMaker.ui" line="68"/>
         <source>Export Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter des captures d’écran</translation>
     </message>
     <message>
         <location filename="Resources/UI/TutorialMaker.ui" line="84"/>
         <source>Run and Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter et annoter</translation>
     </message>
     <message>
         <location filename="Resources/UI/TutorialMaker.ui" line="94"/>
         <source>Test Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Tester la traduction</translation>
     </message>
 </context>
 </TS>
