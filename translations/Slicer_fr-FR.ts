@@ -30945,7 +30945,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="357"/>
         <source>Markups JSON</source>
         <extracomment>File format name</extracomment>
-        <translation>Balisages JSON</translation>
+        <translation>Marqueurs JSON</translation>
     </message>
 </context>
 <context>
