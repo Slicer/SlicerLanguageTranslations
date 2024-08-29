@@ -142,6 +142,16 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
+        <source>Input fiducials: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
+        <source>Pick the input model for the algorithm.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
         <source>Input model: </source>
         <translation>نموذج المدخلات: </translation>
@@ -379,6 +389,11 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
         <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
         <source>Select the model that will be transformed. This model may require a sparse set of points.</source>
         <translation>حدد النموذج الذي سيتم تغييره. قد يتطلب هذا النموذج مجموعة قليلة من النقاط.</translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
+        <source>Input moving (sparse) model: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
@@ -1237,7 +1252,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="111"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
     </message>
 </context>
 <context>
@@ -1433,7 +1448,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="80"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
     </message>
 </context>
 <context>
@@ -1595,7 +1610,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
     </message>
 </context>
 <context>
@@ -1746,7 +1761,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="91"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
     </message>
 </context>
 <context>
@@ -3544,7 +3559,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
     </message>
 </context>
 <context>

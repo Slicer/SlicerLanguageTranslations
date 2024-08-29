@@ -374,9 +374,11 @@ Clique em &quot;Cancelar&quot; para não carregar nenhum dado e cancelar a segme
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1409"/>
-        <source>Server Error:: Session creation Failed
+        <source>Server Error: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
-        <translation>Erro do servidor: Falha na criação da sessão
+        <oldsource>Server Error:: Session creation Failed
+Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
+        <translation type="unfinished">Erro do servidor: Falha na criação da sessão
 Atualize para a versão mais recente do MONAILabel (&gt; 0.2.0)</translation>
     </message>
     <message>

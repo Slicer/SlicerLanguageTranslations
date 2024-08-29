@@ -357,8 +357,10 @@ Click &apos;Cancel&apos; to not upload any data and cancel segmentation.
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1409"/>
-        <source>Server Error:: Session creation Failed
+        <source>Server Error: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
+        <oldsource>Server Error:: Session creation Failed
+Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

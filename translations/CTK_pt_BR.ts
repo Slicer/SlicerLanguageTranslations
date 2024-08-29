@@ -17,12 +17,206 @@
 <context>
     <name>QCenteredItemModel</name>
     <message>
-        <source>Progress</source>
-        <translation type="obsolete">Progresso</translation>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="151"/>
+        <source>Query patients</source>
+        <translation type="unfinished">Consultar pacientes</translation>
     </message>
     <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="153"/>
+        <source>Query studies</source>
+        <translation type="unfinished">Consultar estudos</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="155"/>
+        <source>Query series</source>
+        <translation type="unfinished">Consultar séries</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="157"/>
+        <source>Query instances</source>
+        <translation type="unfinished">Consultar instâncias</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="168"/>
+        <source>Retrieve patients</source>
+        <translation type="unfinished">Buscar pacientes</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="170"/>
+        <source>Retrieve studies</source>
+        <translation type="unfinished">Buscar estudos</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="172"/>
+        <source>Retrieve series</source>
+        <translation type="unfinished">Buscar séries</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="174"/>
+        <source>Retrieve instances</source>
+        <translation type="unfinished">Buscar instâncias</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="179"/>
+        <source>Storage listener</source>
+        <translation type="unfinished">Ouvinte de armazenamento</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="183"/>
+        <source>Echo server</source>
+        <translation type="unfinished">Servidor de eco</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="187"/>
+        <source>Inserter</source>
+        <translation type="unfinished">Inseridor</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="210"/>
+        <source>initialized</source>
+        <translation type="unfinished">inicializado</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="293"/>
+        <source>queued</source>
+        <translation type="unfinished">em fila</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="298"/>
+        <source>in-progress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="310"/>
+        <source>failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="315"/>
+        <source>user-stopped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="320"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="427"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="430"/>
+        <source>attempt-failed</source>
+        <translation type="unfinished">tentativa falhou</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="325"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="428"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="431"/>
+        <source>completed</source>
+        <translation type="unfinished">concluído</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="444"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="528"/>
+        <source>Type</source>
+        <translation type="unfinished">Tipo</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="448"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="530"/>
+        <source>Status</source>
+        <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="452"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="532"/>
+        <source>Progress</source>
+        <translation type="unfinished">Progresso</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="456"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="534"/>
+        <source>Time and Date</source>
+        <translation type="unfinished">Hora e data</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="460"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="536"/>
+        <source>Starting Time and Date</source>
+        <translation type="unfinished">Data e hora de início</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="464"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="538"/>
+        <source>Completion Time and Date</source>
+        <translation type="unfinished">Data e hora da conclusão</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="468"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="540"/>
+        <source>DICOM Level</source>
+        <translation type="unfinished">Nível DICOM</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="472"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="542"/>
         <source>Patient ID</source>
-        <translation type="obsolete">ID do paciente</translation>
+        <translation type="unfinished">ID do paciente</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="476"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="544"/>
+        <source>Patient Name</source>
+        <translation type="unfinished">Nome do paciente</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="480"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="546"/>
+        <source>Birth Date</source>
+        <translation type="unfinished">Data de nascimento</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="484"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="548"/>
+        <source>Study UID</source>
+        <translation type="unfinished">UID do estudo</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="488"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="550"/>
+        <source>Series UID</source>
+        <translation type="unfinished">UID da série</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="492"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="552"/>
+        <source>SOP UID</source>
+        <translation type="unfinished">SOP UID</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="496"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="554"/>
+        <source>Connection</source>
+        <translation type="unfinished">Conexão</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="500"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="556"/>
+        <source>Job UID</source>
+        <translation type="unfinished">UID do trabalho</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="504"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="558"/>
+        <source>Class</source>
+        <translation type="unfinished">Classe</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="508"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="560"/>
+        <source>Thread</source>
+        <translation type="unfinished">Tópico</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="512"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="562"/>
+        <source>Logging</source>
+        <translation type="unfinished">Registro</translation>
     </message>
 </context>
 <context>
@@ -1758,219 +1952,161 @@ p, li { white-space: pre-wrap; }
         <translation>Limpeza concluída</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="310"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="936"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1244"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1337"/>
         <source>failed</source>
         <translation>falhou</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="315"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="936"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1244"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1336"/>
         <source>user-stopped</source>
         <translation>Interrompido pelo usuário</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="298"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1264"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1297"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1335"/>
         <source>in-progress</source>
         <translation>em progresso</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="151"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1329"/>
+        <source>^initialized$|^queued$|^in-progress$|^user-stopped$|^failed$</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Query patients</source>
-        <translation>Consultar pacientes</translation>
+        <translation type="vanished">Consultar pacientes</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="153"/>
         <source>Query studies</source>
-        <translation>Consultar estudos</translation>
+        <translation type="vanished">Consultar estudos</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="155"/>
         <source>Query series</source>
-        <translation>Consultar séries</translation>
+        <translation type="vanished">Consultar séries</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="157"/>
         <source>Query instances</source>
-        <translation>Consultar instâncias</translation>
+        <translation type="vanished">Consultar instâncias</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="168"/>
         <source>Retrieve patients</source>
-        <translation>Buscar pacientes</translation>
+        <translation type="vanished">Buscar pacientes</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="170"/>
         <source>Retrieve studies</source>
-        <translation>Buscar estudos</translation>
+        <translation type="vanished">Buscar estudos</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="172"/>
         <source>Retrieve series</source>
-        <translation>Buscar séries</translation>
+        <translation type="vanished">Buscar séries</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="174"/>
         <source>Retrieve instances</source>
-        <translation>Buscar instâncias</translation>
+        <translation type="vanished">Buscar instâncias</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="179"/>
         <source>Storage listener</source>
-        <translation>Ouvinte de armazenamento</translation>
+        <translation type="vanished">Ouvinte de armazenamento</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="183"/>
         <source>Echo server</source>
-        <translation>Servidor de eco</translation>
+        <translation type="vanished">Servidor de eco</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="187"/>
         <source>Inserter</source>
-        <translation>Inseridor</translation>
+        <translation type="vanished">Inseridor</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="293"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1264"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1297"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1334"/>
         <source>queued</source>
         <translation>em fila</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="320"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="427"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="430"/>
         <source>attempt-failed</source>
-        <translation>tentativa falhou</translation>
+        <translation type="vanished">tentativa falhou</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="325"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="428"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="431"/>
         <source>completed</source>
-        <translation>concluído</translation>
+        <translation type="vanished">concluído</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="444"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="528"/>
         <source>Type</source>
-        <translation>Tipo</translation>
+        <translation type="vanished">Tipo</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="448"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="530"/>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation type="vanished">Status</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="452"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="532"/>
         <source>Progress</source>
-        <translation>Progresso</translation>
+        <translation type="vanished">Progresso</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="456"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="534"/>
         <source>Time and Date</source>
-        <translation>Hora e data</translation>
+        <translation type="vanished">Hora e data</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="460"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="536"/>
         <source>Starting Time and Date</source>
-        <translation>Data e hora de início</translation>
+        <translation type="vanished">Data e hora de início</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="464"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="538"/>
         <source>Completion Time and Date</source>
-        <translation>Data e hora da conclusão</translation>
+        <translation type="vanished">Data e hora da conclusão</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="468"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="540"/>
         <source>DICOM Level</source>
-        <translation>Nível DICOM</translation>
+        <translation type="vanished">Nível DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="472"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="542"/>
         <source>Patient ID</source>
-        <translation>ID do paciente</translation>
+        <translation type="vanished">ID do paciente</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="476"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="544"/>
         <source>Patient Name</source>
-        <translation>Nome do paciente</translation>
+        <translation type="vanished">Nome do paciente</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="480"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="546"/>
         <source>Birth Date</source>
-        <translation>Data de nascimento</translation>
+        <translation type="vanished">Data de nascimento</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="484"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="548"/>
         <source>Study UID</source>
-        <translation>UID do estudo</translation>
+        <translation type="vanished">UID do estudo</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="488"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="550"/>
         <source>Series UID</source>
-        <translation>UID da série</translation>
+        <translation type="vanished">UID da série</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="492"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="552"/>
         <source>SOP UID</source>
-        <translation>SOP UID</translation>
+        <translation type="vanished">SOP UID</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="496"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="554"/>
         <source>Connection</source>
-        <translation>Conexão</translation>
+        <translation type="vanished">Conexão</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="500"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="556"/>
         <source>Job UID</source>
-        <translation>UID do trabalho</translation>
+        <translation type="vanished">UID do trabalho</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="504"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="558"/>
         <source>Class</source>
-        <translation>Classe</translation>
+        <translation type="vanished">Classe</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="508"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="560"/>
         <source>Thread</source>
-        <translation>Tópico</translation>
+        <translation type="vanished">Tópico</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="512"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="562"/>
         <source>Logging</source>
-        <translation>Registro</translation>
+        <translation type="vanished">Registro</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="210"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1264"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1297"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1333"/>
         <source>initialized</source>
         <translation>inicializado</translation>
     </message>
@@ -2136,7 +2272,6 @@ p, li { white-space: pre-wrap; }
         <translation>ID:</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="370"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="776"/>
         <source>UNDEFINED</source>
         <translation>INDEFINIDO</translation>
@@ -2145,6 +2280,25 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="784"/>
         <source>Study</source>
         <translation>Estudo</translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="787"/>
+        <source> ID %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="791"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="795"/>
+        <source>  -  %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkDICOMPatientItemWidgetPrivate</name>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="370"/>
+        <source>UNDEFINED</source>
+        <translation type="unfinished">INDEFINIDO</translation>
     </message>
 </context>
 <context>
@@ -2739,9 +2893,16 @@ p, li { white-space: pre-wrap; }
         <translation>Séries</translation>
     </message>
     <message>
+        <source>UNDEFINED</source>
+        <translation type="vanished">INDEFINIDO</translation>
+    </message>
+</context>
+<context>
+    <name>ctkDICOMStudyItemWidgetPrivate</name>
+    <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyItemWidget.cpp" line="298"/>
         <source>UNDEFINED</source>
-        <translation>INDEFINIDO</translation>
+        <translation type="unfinished">INDEFINIDO</translation>
     </message>
 </context>
 <context>

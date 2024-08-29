@@ -31,6 +31,16 @@ e Steve Pieper, Isomics, Inc., e foi parcialmente financiado pelo subsídio do N
         <translation>Escolha a lista fiducial de entrada para o algoritmo.</translation>
     </message>
     <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
+        <source>Input fiducials: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
+        <source>Pick the input model for the algorithm.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
         <source>Input model: </source>
         <translation>Modelo de entrada: </translation>
@@ -261,6 +271,11 @@ Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU do Can
         <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
         <source>Select the model that will be transformed. This model may require a sparse set of points.</source>
         <translation>Selecione o modelo que será transformado. Esse modelo pode exigir um conjunto esparso de pontos.</translation>
+    </message>
+    <message>
+        <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
+        <source>Input moving (sparse) model: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
