@@ -30569,7 +30569,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="47"/>
         <source>Welcome to Slicer</source>
-        <translation>Bienvenue sur Slicer</translation>
+        <translation>Bienvenue dans Slicer</translation>
     </message>
 </context>
 <context>
