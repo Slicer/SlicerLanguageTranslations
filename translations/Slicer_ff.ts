@@ -6,7 +6,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sappinde Hoddondirde Lewruji</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
@@ -29810,7 +29810,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="47"/>
         <source>Welcome to Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation>Djabbama ander Slicer</translation>
     </message>
 </context>
 <context>
@@ -29818,12 +29818,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="14"/>
         <source>Welcome</source>
-        <translation type="unfinished">Welcome</translation>
+        <translation>Djabbama</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="79"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">Download Sample Data</translation>
+        <translation type="unfinished">Hawtindira misaalu huunde</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="59"/>
@@ -29834,7 +29834,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
         <source>Customize Slicer</source>
-        <translation type="unfinished">Customize Slicer</translation>
+        <translation type="unfinished">Jojja Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
