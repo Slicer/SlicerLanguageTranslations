@@ -21214,9 +21214,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished">
-
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+        <translation type="unfinished">Klikk «OK» for å vente på fullførelse, eller velg «Ignorer» for å lukke utvidelseshåndtereren nå.</translation>
     </message>
 </context>
 <context>
