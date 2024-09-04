@@ -11245,7 +11245,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="1013"/>
         <source>Add Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Besda Huunde</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="1016"/>
@@ -18998,7 +18998,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="395"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Henta</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="399"/>
@@ -20698,7 +20698,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Henta</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="95"/>
@@ -21132,7 +21132,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
         <source>Install Extensions</source>
-        <translation type="unfinished">Install Extensions</translation>
+        <translation>Tobba Henta</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="271"/>
@@ -21631,7 +21631,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="162"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Henta</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="174"/>
@@ -25837,7 +25837,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Henta</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="37"/>
@@ -29926,12 +29926,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="355"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Mawnida</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="379"/>
         <source>Check for updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>Tawna mawnida </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="391"/>
@@ -29946,23 +29946,23 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="410"/>
         <source>Check now</source>
-        <translation type="unfinished"></translation>
+        <translation>Tawna jonta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="419"/>
         <source>Application update: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mawnida kawtal: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="438"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="464"/>
         <source>No information is available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wala Faamina.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="451"/>
         <source>Extension updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>Mawnida henta: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="496"/>
@@ -29989,7 +29989,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
         <source>No updates were found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala Mawnida.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="179"/>
