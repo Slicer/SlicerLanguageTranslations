@@ -23406,12 +23406,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="146"/>
         <source>Display</source>
-        <translation type="unfinished">Yillta</translation>
+        <translation>Yillta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="168"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished">Color legend for the Color Table selected in Scalars section.</translation>
+        <translation>Lefol noonde ngam jadwalu noonde cuɓaaɗo e feccere Scalars.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="171"/>
@@ -23557,7 +23557,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="196"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Waɗooɓe:</translation>
     </message>
 </context>
 <context>
@@ -29844,7 +29844,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Welcome&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Djabbama&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="100"/>
@@ -29878,7 +29878,11 @@ This should only used by advanced users who understand the consequences of chang
 &lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Share your stories with us on the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forum&lt;/a&gt; and let us know about how 3D Slicer has enabled your research.&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 &lt;p&gt;We are always interested in improving 3D Slicer, to tell us about your problem or submit a bug report, open &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;table border=&quot;0&quot; align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Renndin daartol mon e amen e dow &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forum&lt;/a&gt; e anndinde min no 3D Slicer addani wiɗto maa.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;Min njiɗi ko moƴƴinde 3D Slicer sahaa kala, ngam humpitaade caɗeele maa walla neldude ciimtol bug, uddit &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
@@ -29889,8 +29893,8 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt;ko lowre udditiinde nde alaa ko yoɓi ngam ƴellitde natal safaara e yiytude dokke natal 3D. Ooɗoo mooɓre ina waɗi humpitooji baɗɗiiɗi e jokkorɗe nafooje ngam fuɗɗaade huutoraade Slicer. Ngam ɓeydaade humpitaade, yah to lowre amen &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt;ina renndini les a BSD-style license;ngam humpitaade ko yowitii e nanondiral laylaytol darnde e lowre ndee, ƴeew &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. Ooɗoo lowre waɗaama ngam wiɗto tan, tee ƴeewtaaka walla jaɓaaka e Fedde toppitiinde ko fayti e nguura e ñawbuuli, walla e fedde woɗnde.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="287"/>
@@ -29916,7 +29920,23 @@ This should only used by advanced users who understand the consequences of chang
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Tinndina&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;Tinndina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Fuɗɗoode Yaawnde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Heɓde Ballal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;Jokkorde kuutortooɗo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;Butoŋoji Mouse, &amp;quot;Kuutorɗe ɓuuɓɗe&amp;quot; e Ɗaɓɓaaɗe Keyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Feewnitde Dewerteede&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Jokkondir e amen&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;Yilloyaade to Slicer Forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/3dslicerapp&quot;&gt;Jokku e amen on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Yiylo Ɗaɓɓaande Feere&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;Habri Bug&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Yaake 3D Slicer&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Yiytu Lislaam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;No waɗetee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt; Binndanɗe Slicer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Anndana&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
@@ -29942,7 +29962,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="394"/>
         <source>Automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="410"/>
@@ -29958,7 +29978,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="438"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="464"/>
         <source>No information is available.</source>
-        <translation type="unfinished">Wala Faamina.</translation>
+        <translation>Wala Faamina.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="451"/>
@@ -29980,12 +30000,19 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;Development of 3D Slicer is supported by &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; and the &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Community&lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details.&lt;/p&gt;
 &lt;p&gt;We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.&lt;/p&gt;
 &lt;p&gt;This module was developed by Jean-Christophe Fillion-Robin and Julien Finet at Kitware, Inc., and by Wendy Plesniak, Sonia Pujol, Steve Pieper and Ron Kikinis at Brigham and Women&apos;s Hospital.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;p align=&quot;center&quot;&gt;
+&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAMIC.png&quot; width=&quot;80&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;Ƴellitaare 3D Slicer ina wallita &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; e ko &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Ummatore Slicer &lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; ngam humpitaade.&lt;/p&gt;
+&lt;p&gt;Min njettii kadi terɗe Fedde Huutortooɓe Slicer walluɓe min e ƴellitde ko woni e ndee Module Welcome, e miijooji maɓɓe ina njokki e moƴƴinde golle, kuutoragol e humpito kuutortooɗo Slicer.&lt;/p&gt;
+&lt;p&gt;Ndee ɗoo deftere ko Jean-Kristof Fillion-Robin e Julien Finet to Kitware, Inc., e Wendi Plesniak, Sonia Pujol, Steve Pieper e Ron Kikinis to opitaal Brigham e Women.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="106"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tawna mawnida...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
@@ -29995,12 +30022,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="179"/>
         <source>Raising %1 Module:</source>
-        <translation type="unfinished">Raising %1 Module:</translation>
+        <translation>Ƴettude %1 Module:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="180"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-        <translation type="unfinished">Unfortunately, this requested module is not available in this Slicer session.</translation>
+        <translation>Ko heddii koo, ndeeɗoo mooɓre ɗaɓɓaande alaa e ndee jonnde Slicer.</translation>
     </message>
     <message numerus="yes">
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="387"/>
