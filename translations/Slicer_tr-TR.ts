@@ -379,27 +379,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sabit görüntünün her ekseni boyunca BSpline ızgara alt bölümlerinin sayısı, görüntü alanına merkezlenmiştir. BSpline&apos;ın doğru şekilde hesaplanması için değerlerin 3 veya daha yüksek olması gerekir.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
         <source>Output Settings (At least one output must be specified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıktı Ayarları (En az bir çıktı belirtilmelidir)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Dilimleyici Doğrusal Dönüşüm</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
         <source>Slicer BSpline Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Dilimleyici BSpline Dönüşümü</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
         <source>Output Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıkış Görüntü Hacmi</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
@@ -409,37 +409,37 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
         <source>(optional) Output estimated transform - in case the computed transform is BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(isteğe bağlı) Tahmini dönüşümü çıktı olarak al - hesaplanan dönüşüm BSpline ise. NOT: En az bir çıktı nesnesi (dönüşüm ve/veya çıktı hacmi) ayarlamanız gerekir.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(isteğe bağlı) Çıkış görüntüsü: hareketli görüntü sabit görüntü alanına bükülür. NOT: En az bir çıkış nesnesi (dönüşüm ve/veya çıkış hacmi) ayarlamanız gerekir.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatma Ayarlarını Dönüştür</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
         <source>Options for initializing transform parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dönüşüm parametrelerini başlatma seçenekleri.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
         <source>Initialization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatma dönüşümü</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
         <source>Initialize Transform Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Dönüştürme Modunu Başlat</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydı başlatmak için hareketli görüntüye uygulanacak dönüşüm. Bu yalnızca Dönüşüm Modunu Başlat Kapalı olduğunda kullanılabilir.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
@@ -460,17 +460,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>useCenterOfHeadAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
         <source>useGeometryAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>useGeometryAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
         <source>useCenterOfROIAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>useCenterOfROIAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
@@ -510,7 +510,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"/>
         <source>SyN</source>
-        <translation type="unfinished"></translation>
+        <translation>SyN</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="43"/>
@@ -651,12 +651,12 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="71"/>
         <source>NOMASK</source>
-        <translation type="unfinished"></translation>
+        <translation>MASKESİZ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
         <source>ROIAUTO</source>
-        <translation type="unfinished"></translation>
+        <translation>ROIAUTO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
@@ -726,7 +726,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hareketli hacme dönüşüm uygularken kullanılacak enterpolasyon türü. Seçenekler Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos veya ResampleInPlace&apos;dir. ResampleInPlace seçeneği aynı ayrık voksel değerlerine sahip bir görüntü oluşturacak ve fiziksel alan yorumlamasının kökenini ve yönünü ayarlayacaktır.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
@@ -748,7 +748,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
@@ -758,12 +758,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
@@ -798,17 +798,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"/>
         <source>Welch</source>
-        <translation type="unfinished"></translation>
+        <translation>Welch</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="103"/>
         <source>Lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanczos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"/>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
@@ -1046,22 +1046,22 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>MSE</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
         <source>NC</source>
-        <translation type="unfinished"></translation>
+        <translation>NC</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="155"/>
         <source>MIH</source>
-        <translation type="unfinished"></translation>
+        <translation>MIH</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="156"/>
@@ -1164,7 +1164,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="176"/>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>Rastgele</translation>
     </message>
 </context>
 <context>
@@ -1324,7 +1324,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
@@ -1334,12 +1334,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
 </context>
 <context>
@@ -1364,7 +1364,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Girişler</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
@@ -1431,7 +1431,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
@@ -1441,22 +1441,22 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation>binary</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>giriş</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="28"/>
@@ -1527,7 +1527,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>NearestNeighbor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
@@ -1667,7 +1667,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"/>
         <source>Specifies the pixel type for the input/output images.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş/çıkış görüntüleri için piksel türünü belirtir. &quot;İkili&quot; piksel türü, görüntünün işaretsiz karakter olarak okunduğu, işaretli bir mesafe haritasının oluşturulduğu, işaretli mesafe haritasının yeniden örneklendiği ve ardından işaretsiz karakter türünde eşikli bir görüntünün diske yazıldığı değiştirilmiş bir algoritma kullanır.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
@@ -1848,22 +1848,22 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"/>
         <source>ScaleVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>ÖlçekVersor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="21"/>
         <source>ScaleSkewVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>ÖlçekEğikliğiVersor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"/>
         <source>DisplacementField</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer değiştirme alanı</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"/>
         <source>Same</source>
-        <translation type="unfinished"></translation>
+        <translation>Same</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
@@ -1939,42 +1939,42 @@ Allows casting to the same type as the input volume.</source>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation>İmzasız Karakter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>Karakter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Kısa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>Int</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedInt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>Float</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Double</translation>
     </message>
 </context>
 <context>
@@ -2012,7 +2012,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"/>
         <source>The pattern of input 1 and input 2 in the output image. The user can specify the number of checkers in each dimension. A checkerPattern of 2,2,1 means that images will alternate in every other checker in the first two dimensions. The same pattern will be used in the 3rd dimension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıkış görüntüsündeki giriş 1 ve giriş 2&apos;nin deseni. Kullanıcı her boyuttaki denetleyici sayısını belirleyebilir. 2,2,1&apos;lik bir denetleyici deseni, resimlerin ilk iki boyuttaki her diğer denetleyicide dönüşümlü olacağı anlamına gelir. Aynı desen 3. boyutta kullanılacaktır.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="11"/>
@@ -2714,7 +2714,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>İletkenlik, iletkenlik teriminin hassasiyetini kontrol eder. Genel bir kural olarak, değer ne kadar düşükse, filtre kenarları o kadar güçlü korur. Yüksek bir değer, kenarlar arasında yayılmaya (düzeltme) neden olur. Yineleme sayısının, kenarlarla sınırlanmış bölgelerde ne kadar düzeltme yapılacağını kontrol ettiğini unutmayın.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="15"/>
@@ -2975,7 +2975,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
         <source>Write the protocol gradients to a file suffixed by &quot;.txt&quot; as they were specified in the procol by multiplying each diffusion gradient direction by the measurement frame.  This file is for debugging purposes only, the format is not fixed, and will likely change as debugging of new dicom formats is necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokol gradyanlarını, her difüzyon gradyanı yönünü ölçüm çerçevesiyle çarparak, prokolde belirtildiği gibi &quot;.txt&quot; eki eklenmiş bir dosyaya yazın. Bu dosya yalnızca hata ayıklama amaçlıdır, biçim sabit değildir ve yeni dicom biçimlerinin hata ayıklaması gerektiğinde muhtemelen değişecektir.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"/>
@@ -3968,7 +3968,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>İletkenlik, iletkenlik teriminin hassasiyetini kontrol eder. Genel bir kural olarak, değer ne kadar düşükse, filtre kenarları o kadar güçlü korur. Yüksek bir değer, kenarlar arasında yayılmaya (düzeltme) neden olur. Yineleme sayısının, kenarlarla sınırlanmış bölgelerde ne kadar düzeltme yapılacağını kontrol ettiğini unutmayın.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
@@ -4872,7 +4872,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş birimindeki tüm etiketler için modeller üret. Bir etiket haritası birimindeki tüm değerlere karşılık gelen tüm modelleri oluşturmak istiyorsanız bu seçeneği seçin (bu seçenekle aşağıdaki Eklem Düzeltme seçeneğini kullanmak yararlıdır). Etiketler, Başlangıç Etiketi, Bitiş Etiketi ayarlarını yok sayar. Etiket 0&apos;ı atlar.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
@@ -4947,7 +4947,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelleri oluşturmak için sürekli bir etiket aralığı belirtmek istiyorsanız, buraya alt etiketi girin. Modelleri oluşturmaya başlamak için voxel değeri. Bir aralığı belirtmek için etiket listesi yerine kullanılır (etiket listesinin boş olduğundan emin olun, aksi takdirde bunu geçersiz kılar).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"/>
@@ -7554,7 +7554,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Boşlukları doldurmak için oylama işlemi uygular. Bu, konturları yumuşatmak ve ikili görüntülerdeki delikleri doldurmak için kullanılabilir. Bu teknik, başlangıçta segmentasyona dahil edilmemiş olabilecek kanallara veya damarlara sahip olabilecek tam organları segmentlere ayırırken sıklıkla kullanılır, örneğin akciğerler, böbrekler, karaciğer.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
@@ -7679,7 +7679,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="85"/>
         <source>(Overwrite input)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Girişi üzerine yaz)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="88"/>
@@ -7812,12 +7812,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="404"/>
         <source>Thumbnails size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Küçük resim boyutu:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="408"/>
         <source>DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM ayarları</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="448"/>
@@ -8641,7 +8641,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="170"/>
         <source>Frame skip:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kare atlama:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="175"/>
@@ -8651,7 +8651,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="181"/>
         <source>Frame delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Çerçeve gecikmesi:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="186"/>
@@ -8661,7 +8661,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="191"/>
         <source>View Angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüş Açısı:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="197"/>
@@ -8765,7 +8765,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="48"/>
         <source>Extension Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzantı Sihirbazı</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="53"/>
@@ -8780,22 +8780,22 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="125"/>
         <source>Extension Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzantı Araçları</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="127"/>
         <source>Create Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzantı Oluştur</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="130"/>
         <source>Select Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzantıyı Seçin</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="142"/>
         <source>Extension Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzantı Düzenleyicisi</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="156"/>
@@ -8835,7 +8835,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="262"/>
         <source>Select Extension...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzantıyı Seç...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="288"/>
@@ -9001,7 +9001,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="78"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçersiz meta veri</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="77"/>
@@ -9014,17 +9014,17 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="31"/>
         <source>(New item)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Yeni ürün)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="52"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Taşı &amp;Yukarı</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="57"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aşağı Taşı</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="62"/>
@@ -9103,7 +9103,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
         <source>Form</source>
-        <translation>Biçim</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9256,7 +9256,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="909"/>
         <source>Download finished</source>
-        <translation type="unfinished"></translation>
+        <translation>İndirme tamamlandı</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="911"/>
@@ -9272,7 +9272,7 @@ use it for commercial purposes.&lt;/p&gt;
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="915"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="927"/>
         <source>Verifying checksum</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplam kontrolü doğrulanıyor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="919"/>
@@ -9282,7 +9282,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="924"/>
         <source>Checksum OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplam Kontrolü Tamam</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="930"/>
@@ -9308,13 +9308,13 @@ use it for commercial purposes.&lt;/p&gt;
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="946"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="963"/>
         <source>Load failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükleme başarısız!</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="948"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="966"/>
         <source>Load finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükleme tamamlandı</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="952"/>
@@ -9392,7 +9392,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="134"/>
         <source>Node</source>
-        <translation>Nod</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="154"/>
@@ -9410,7 +9410,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="27"/>
         <source>Screen Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran Görüntüsü</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="34"/>
@@ -9436,7 +9436,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="91"/>
         <source>Main view: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ana görünüm: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="95"/>
@@ -9471,7 +9471,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="124"/>
         <source>Rotation range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dönme aralığı:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="131"/>
@@ -9506,7 +9506,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="155"/>
         <source>Start index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlangıç dizini:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="159"/>
@@ -9536,7 +9536,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <source>image series</source>
-        <translation type="unfinished"></translation>
+        <translation>resim dizisi</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
@@ -9546,12 +9546,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="184"/>
         <source>lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>ışık kutusu resmi</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="178"/>
         <source>Output type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıktı türü:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="198"/>
@@ -9566,7 +9566,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="206"/>
         <source>Output directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıktı dizini:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="217"/>
@@ -9597,7 +9597,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="230"/>
         <source>Video format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Video formatı:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="247"/>
@@ -9607,7 +9607,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="238"/>
         <source>Video length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Video uzunluğu:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="259"/>
@@ -9667,7 +9667,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="293"/>
         <source>ffmpeg executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg çalıştırılabilir dosyası:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="297"/>
@@ -9737,7 +9737,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="338"/>
         <source>View controllers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünüm denetleyicileri:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="342"/>
@@ -9747,7 +9747,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="343"/>
         <source>Transparent background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Şeffaf arka plan:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="349"/>
@@ -9792,7 +9792,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="405"/>
         <source>Watermark image:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filigran resmi:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="413"/>
@@ -9823,17 +9823,17 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="539"/>
         <source>slice sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>dilim süpürme</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="540"/>
         <source>slice fade</source>
-        <translation type="unfinished"></translation>
+        <translation>dilim solması</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="543"/>
         <source>3D rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>3D döndürme</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="545"/>
@@ -9848,7 +9848,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="689"/>
         <source>Download confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>İndirme onayı</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="691"/>
@@ -9867,7 +9867,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1323"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1367"/>
         <source>Write {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>{filename} yazın</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="730"/>
@@ -9898,7 +9898,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="831"/>
         <source>H.264 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264 (yüksek kalite)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="832"/>
@@ -9908,12 +9908,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="833"/>
         <source>MPEG-4 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4 (yüksek kalite)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="834"/>
         <source>Animated GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Animasyonlu GIF</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="835"/>
@@ -9991,7 +9991,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1445"/>
         <source>Start ffmpeg:</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg&apos;i başlatın:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1452"/>
@@ -10015,7 +10015,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="15"/>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="118"/>
         <source>Segment Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment Editörü</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="23"/>
@@ -10226,7 +10226,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="80"/>
         <source>Seed locality:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tohumun yetiştiği yer:</translation>
     </message>
 </context>
 <context>
@@ -10244,17 +10244,17 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="41"/>
         <source>inside surface</source>
-        <translation type="unfinished"></translation>
+        <translation>iç yüzey</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="42"/>
         <source>medial surface</source>
-        <translation type="unfinished"></translation>
+        <translation>medial yüzey</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="43"/>
         <source>outside surface</source>
-        <translation type="unfinished"></translation>
+        <translation>dış yüzey</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="49"/>
@@ -10274,7 +10274,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="64"/>
         <source>Shell thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kabuk kalınlığı:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="69"/>
@@ -10309,12 +10309,12 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="139"/>
         <source>Empty segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Boş segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="251"/>
         <source>Processing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>{segmentName} işleniyor...</translation>
     </message>
 </context>
 <context>
@@ -10403,7 +10403,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="97"/>
         <source>Minimum size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum boyut:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="99"/>
@@ -10421,7 +10421,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="22"/>
         <source>Level tracing</source>
-        <translation type="unfinished"></translation>
+        <translation>Seviye izleme</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="49"/>
@@ -10444,7 +10444,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="19"/>
         <source>Logical operators</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantıksal operatörler</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="50"/>
@@ -10506,7 +10506,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="61"/>
         <source>Bypass masking</source>
-        <translation type="unfinished"></translation>
+        <translation>Baypas maskeleme</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="62"/>
@@ -10527,7 +10527,7 @@ segment list in effect options - below.
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="74"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="143"/>
         <source>Modifier segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Değiştirici segment:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="85"/>
@@ -10542,12 +10542,12 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="136"/>
         <source>Add segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment ekle:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="138"/>
         <source>Subtract segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmenti çıkar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="140"/>
@@ -10600,7 +10600,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="62"/>
         <source>Margin size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Marj boyutu:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="67"/>
@@ -10635,12 +10635,12 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="130"/>
         <source>Empty segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Boş segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="242"/>
         <source>Processing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>{segmentName} işleniyor...</translation>
     </message>
 </context>
 <context>
@@ -10648,7 +10648,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="15"/>
         <source>Mask volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Maske hacmi</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="42"/>
@@ -10661,12 +10661,12 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="49"/>
         <source>Fill inside</source>
-        <translation type="unfinished"></translation>
+        <translation>İçini doldur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="53"/>
         <source>Fill outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Dışını doldur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="57"/>
@@ -10691,7 +10691,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="72"/>
         <source>Fill value: </source>
-        <translation type="unfinished"></translation>
+        <translation>Değeri doldur: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="76"/>
@@ -12095,7 +12095,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     &lt;li&gt;computes the mean of all the components.&lt;/li&gt;
     &lt;/ul&gt;
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    &lt;p&gt;Vektör hacminden skaler (1 bileşenli) bir hacim oluşturun.&lt;/p&gt;
+
+&lt;p&gt;Birden fazla dönüştürme modu sağlar:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;herhangi bir vektör görüntüsünden tek bileşenleri çıkarın.&lt;/li&gt;
+&lt;li&gt;vtkImageLuminance&apos;da uygulandığı gibi RGB görüntüleri luminans kullanarak skalere dönüştürün (skaler = 0,30*R + 0,59*G + 0,11*B).&lt;/li&gt;
+&lt;li&gt;tüm bileşenlerin ortalamasını hesaplar.&lt;/li&gt;
+&lt;/ul&gt;
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
@@ -12375,7 +12385,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
         <source>Static pages: </source>
-        <translation type="unfinished"></translation>
+        <translation>Statik sayfalar: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="136"/>
@@ -13028,7 +13038,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="133"/>
         <source>Kochanek spline</source>
-        <translation type="unfinished"></translation>
+        <translation>Kochanek spline</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="137"/>
@@ -17598,7 +17608,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="600"/>
         <source>Stereo viewing</source>
-        <translation type="unfinished"></translation>
+        <translation>Stereo görüntüleme</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="603"/>
@@ -17608,7 +17618,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="611"/>
         <source>Shadows visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Gölge görünürlüğü</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="614"/>
@@ -19186,12 +19196,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="233"/>
         <source>Registering modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modüller kaydediliyor...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="241"/>
         <source>Instantiating modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modüller oluşturuluyor...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="246"/>
@@ -20591,7 +20601,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="757"/>
         <source>Export </source>
-        <translation type="unfinished"></translation>
+        <translation>İhracat </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="879"/>
@@ -20686,7 +20696,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="41"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükle</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="52"/>
@@ -20789,7 +20799,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="388"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>bilinmeyen</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="425"/>
@@ -21721,7 +21731,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="299"/>
         <source>&amp;Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dış görünüş</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="315"/>
@@ -22346,7 +22356,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="429"/>
         <source>Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Hata Günlüğü</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="439"/>
@@ -22381,7 +22391,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="489"/>
         <source>Ctrl+`</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+`</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="589"/>
@@ -22825,22 +22835,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>R</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="204"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="205"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Konum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="271"/>
@@ -24050,7 +24060,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="421"/>
         <source>Reset to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Şuraya sıfırla:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="428"/>
@@ -24070,7 +24080,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="555"/>
         <source>Flip H</source>
-        <translation type="unfinished"></translation>
+        <translation>H&apos;yi çevir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="562"/>
@@ -24080,7 +24090,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="565"/>
         <source>Flip V</source>
-        <translation type="unfinished"></translation>
+        <translation>V&apos;yi çevir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="572"/>
@@ -24090,7 +24100,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="575"/>
         <source>Rotate CW</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat yönünde döndür</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="582"/>
@@ -24100,7 +24110,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="585"/>
         <source>Rotate CCW</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat yönünün tersine döndür</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -26429,7 +26439,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="99"/>
         <source>Python editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Python editörü.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="103"/>
@@ -26793,7 +26803,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="282"/>
         <source>Shadows visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gölge görünürlüğü:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="289"/>
@@ -26911,7 +26921,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="151"/>
         <source>Shadows visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Gölge görünürlüğü</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="154"/>
@@ -27079,7 +27089,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="615"/>
         <source>Anonymous</source>
-        <translation type="unfinished"></translation>
+        <translation>Anonim</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="643"/>
@@ -29331,7 +29341,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="81"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume Rendering Modülü, veri kümelerinin etkileşimli volume rendering&apos;ini açıp kapatmak için gelişmiş araçlar sağlar.&lt;br/&gt;Desteklenirse, donanım hızlandırmalı volume rendering kullanılabilir hale getirilir. Modül, göreve uygun bir şekilde verilerin renklendirilmesi ve opaklığının ayarlanması için önceden ayarlanmış transfer fonksiyonlarının seçilmesine ve bu parametreleri belirten transfer fonksiyonlarını özelleştirmek için araçlara izin verir.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="102"/>
@@ -29994,7 +30004,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="394"/>
         <source>Automatically</source>
-        <translation>Kendiliğinden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="410"/>
@@ -30220,7 +30230,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="357"/>
         <source>Markups JSON</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>İşaretlemeler JSON</translation>
     </message>
 </context>
 <context>
@@ -30310,20 +30320,20 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="757"/>
         <source>Movie.BYU Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Film.BYU Mesh</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="759"/>
         <source>MetaIO Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MetaIO Ağ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="761"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="785"/>
         <source>Stereolithography Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Stereolitografi Mesh</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="763"/>
@@ -30343,7 +30353,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="789"/>
         <source>Wavefront Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dalga cephesi ağı</translation>
     </message>
 </context>
 <context>
@@ -30409,14 +30419,14 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="245"/>
         <source>Tab-separated values</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sekmeyle ayrılmış değerler</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="232"/>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="243"/>
         <source>Comma-separated values</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Virgülle ayrılmış değerler</translation>
     </message>
 </context>
 <context>
@@ -30582,7 +30592,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="687"/>
         <source>Unnamed</source>
-        <translation>İsimsiz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="689"/>
