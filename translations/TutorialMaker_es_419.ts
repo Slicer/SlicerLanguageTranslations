@@ -21,7 +21,7 @@
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="33"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>La ruta no existe</translation>
     </message>
 </context>
 <context>
@@ -56,12 +56,12 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="17"/>
         <source>Tutorial Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor de tutoriales</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="104"/>
         <source>Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener grabación</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="109"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="154"/>
         <source>Widget Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotador de widgets</translation>
     </message>
 </context>
 <context>
@@ -79,92 +79,92 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="123"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="124"/>
         <source>Save</source>
-        <translation type="unfinished">Guardar</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="125"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="126"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="127"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="128"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="150"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="154"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Círculo</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="157"/>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="161"/>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="165"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ícono</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="168"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="208"/>
         <source>color</source>
-        <translation type="unfinished"></translation>
+        <translation>color</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="214"/>
         <source> thick.</source>
-        <translation type="unfinished"></translation>
+        <translation> grueso.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="222"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Llenar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="244"/>
         <source>Load icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Icono de carga</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="259"/>
         <source>JSON Files (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos JSON (*.json)</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="464"/>
         <source>Add a tittle here</source>
-        <translation type="unfinished"></translation>
+        <translation>Añada un título aquí</translation>
     </message>
 </context>
 <context>
@@ -212,14 +212,16 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="30"/>
         <source>Tutorial Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial Maker</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="45"/>
         <source>
         Development of this module was funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-localization-and-outreach/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
         </source>
-        <translation type="unfinished"></translation>
+        <translation>
+        El desarrollo de este módulo ha sido financiado por &lt;a href=«https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-localization-and-outreach/»&gt;CZI EOSS grant&lt;/a&gt;.
+        </translation>
     </message>
 </context>
 <context>
@@ -229,7 +231,7 @@
         <location filename="TutorialMaker/Lib/painter.py" line="61"/>
         <location filename="TutorialMaker/Lib/painter.py" line="144"/>
         <source>Error: Load an image first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error: Cargue primero una imagen.</translation>
     </message>
 </context>
 <context>
@@ -237,7 +239,7 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilidades</translation>
     </message>
 </context>
 </TS>
