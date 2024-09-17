@@ -315,7 +315,7 @@ Instalado {count} archivos de traducción en {location}.</translation>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="23"/>
         <source>Utilities</source>
-        <translation>Servicios</translation>
+        <translation>Utilidades</translation>
     </message>
 </context>
 </TS>
