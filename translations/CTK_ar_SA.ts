@@ -19,42 +19,42 @@
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="151"/>
         <source>Query patients</source>
-        <translation type="unfinished">استفسار المرضى</translation>
+        <translation>استفسار المرضى</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="153"/>
         <source>Query studies</source>
-        <translation type="unfinished">دراسات الاستعلام</translation>
+        <translation>دراسات الاستعلام</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="155"/>
         <source>Query series</source>
-        <translation type="unfinished">سلسلة الاستعلام</translation>
+        <translation>سلسلة الاستعلام</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="157"/>
         <source>Query instances</source>
-        <translation type="unfinished">حالات الاستفسار</translation>
+        <translation>حالات الاستفسار</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="168"/>
         <source>Retrieve patients</source>
-        <translation type="unfinished">استرجاع المرضى</translation>
+        <translation>استرجاع المرضى</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="170"/>
         <source>Retrieve studies</source>
-        <translation type="unfinished">دراسات الاسترجاع</translation>
+        <translation>دراسات الاسترجاع</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="172"/>
         <source>Retrieve series</source>
-        <translation type="unfinished">سلسلة استرجاع</translation>
+        <translation>سلسلة استرجاع</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="174"/>
         <source>Retrieve instances</source>
-        <translation type="unfinished">استرجاع الحالات</translation>
+        <translation>استرجاع الحالات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="179"/>
