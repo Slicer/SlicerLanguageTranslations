@@ -724,244 +724,248 @@ Se aplica el pincel «Esfera». En el «Editor de segmentos» se pueden realizar
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="374"/>
         <source>paint</source>
-        <translation type="unfinished"></translation>
+        <translation>pintar</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="389"/>
         <source>Specify how to output point coordinates of the centerline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique cómo dar salida a las coordenadas de punto de la línea central.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="392"/>
         <source>Tab 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pestaña 2</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="472"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecute el algoritmo.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="475"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="403"/>
         <source>Coordinate system:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de coordenadas:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="443"/>
         <source>Split coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordenadas divididas:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="450"/>
         <source>Split coordinate system values into three separate table columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir los valores del sistema de coordenadas en tres columnas separadas de la tabla.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="412"/>
         <source>Right-Anterior-Superior coordinate system. Used in the Slicer scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de coordenadas Derecha-Anterior-Superior. Utilizado en la escena Slicer.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="415"/>
         <source>RAS (Slicer convention)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RAS (convención de Slicer)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="425"/>
         <source>Left-Posterior-Superior coordinate system. Used commonly in files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de coordenadas Izquierda-Posterior-Superior. Se utiliza habitualmente en los archivos.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="428"/>
         <source>LPS (DICOM convention)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LPS (convención DICOM)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="491"/>
         <source>Browse cross-sections</source>
-        <translation type="unfinished"></translation>
+        <translation>Examinar secciones transversales</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="508"/>
         <source>Point index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice de puntos:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="515"/>
         <source>Point of the centerline where the selected slice view should be moved</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de la línea central al que debe desplazarse la vista en corte seleccionada</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="531"/>
         <source>Move slice view:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazar la vista de los cortes:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="540"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="631"/>
         <source>Move this slice view to a point along the centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover esta vista en corte a un punto a lo largo de la línea central</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="564"/>
         <source>Center the selected point in the slice view</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrar el punto seleccionado en la vista de corte</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="567"/>
         <source>centered</source>
-        <translation type="unfinished"></translation>
+        <translation>centrado</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="580"/>
         <source>Orient the slice view orthogonal to the centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientar la vista en corte ortogonal a la línea central</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="583"/>
         <source>orthogonal</source>
-        <translation type="unfinished"></translation>
+        <translation>ortogonal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="596"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="701"/>
         <source>Axial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eje:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="711"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="746"/>
         <source>Rotate slice view around its Z-axis to restore anatomic orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotar la vista de corte alrededor de su eje Z para restaurar la orientación anatómica</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="624"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="729"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="764"/>
         <source> deg</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> deg</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="606"/>
         <source>Rotation angle for longitudinal slice view</source>
-        <translation type="unfinished"></translation>
+        <translation>Ángulo de rotación para la vista del corte longitudinal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="658"/>
         <source>Rotate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotar:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="665"/>
         <source>Longitudinal</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitudinal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="668"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="736"/>
         <source>Long.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Largo.:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="677"/>
         <source>Spin / Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar / Voltear</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="771"/>
         <source>Flip:</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltear:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="780"/>
         <source>Flip the slice view horizontally.
 
 Concerns orthogonal reformat in axial navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltear la vista en corte horizontal.
+
+Se refiere al reformateo ortogonal en la navegación del eje.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="785"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="792"/>
         <source>Flip the slice view vertically.
 
 Concerns orthogonal reformat in axial navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltear la vista en corte vertical.
+
+Se refiere al reformateo ortogonal en la navegación del eje.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="797"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="812"/>
         <source>Distance from origin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia desde el origen:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="821"/>
         <source>Cumulative distance from start of centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia acumulada desde el inicio de la línea central</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="834"/>
         <source>Set the current point as origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer el punto actual como origen</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="837"/>
         <source>set</source>
-        <translation type="unfinished"></translation>
+        <translation>configurar</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="847"/>
         <source>Go to origin point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir al punto de origen</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="357"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="850"/>
         <source>go to</source>
-        <translation type="unfinished"></translation>
+        <translation>ir a</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="865"/>
         <source>Coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordinadas:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="872"/>
         <source>RAS coordinate of selected point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Coordenada RAS del punto seleccionado</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="903"/>
         <source>Maximum inscribed sphere (MIS) diameter at selected point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro máximo de la esfera inscrita (MIS) en el punto seleccionado.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="916"/>
         <source>Jump to the smallest MIS diameter point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salte al punto de menor diámetro del MIS.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="919"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="976"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>mínimo</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="926"/>
         <source>Jump to the largest MIS diameter point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salte al punto de mayor diámetro del MIS.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="929"/>
@@ -969,42 +973,42 @@ Concerns orthogonal reformat in axial navigation.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1174"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1214"/>
         <source>max</source>
-        <translation type="unfinished"></translation>
+        <translation>máximo</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="936"/>
         <source>Show the maximum inscribed sphere diameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el diámetro máximo de la esfera inscrita.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="894"/>
         <source>Diameter (MIS):</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro (MIS):</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="960"/>
         <source>Area of the cross-section</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de la sección transversal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="973"/>
         <source>Jump to the smallest cross-section area point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salte al punto de área de sección transversal más pequeña.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="986"/>
         <source>Jump to the largest cross-section area point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salte al punto de mayor área de sección transversal.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="999"/>
         <source>Show cross-section at current point. Requires input lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestre la sección transversal en el punto actual. Requiere superficie luminosa de entrada.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="951"/>
         <source>Cross-section area:</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de la sección transversal:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1021"/>
@@ -1013,57 +1017,61 @@ Concerns orthogonal reformat in axial navigation.</source>
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
 
 Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro equivalente circular (CE): el de un círculo que tiene la superficie de la sección transversal.
+
+También se proporciona la diferencia absoluta y porcentual con el diámetro máximo de la esfera inscrita (MIS).
+
+Atención: los valores en las bifurcaciones pueden no tener significado clínico.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1014"/>
         <source>Diameter (CE):</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro (CE):</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1045"/>
         <source>Angles are in Slicer&apos;s coordinate system</source>
-        <translation type="unfinished"></translation>
+        <translation>Los ángulos están en el sistema de coordenadas de Slicer</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1038"/>
         <source>Orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientación:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1070"/>
         <source>Circular equivalent diameter, derived from the surface area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro circular equivalente, derivado de la superficie.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1087"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Superficie</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1107"/>
         <source>Lumen:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lumen:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1123"/>
         <source>Wall:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pared:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1139"/>
         <source>Stenosis:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estenosis:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1171"/>
         <source>Jump to the maximum stenosis point by CE diameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar al punto de estenosis máxima por diámetro CE.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1211"/>
         <source>Jump to the maximum stenosis point by surface area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salte al punto de estenosis máxima por superficie.</translation>
     </message>
 </context>
 <context>
@@ -1081,18 +1089,18 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="223"/>
         <source>Valid input surface is required</source>
-        <translation type="unfinished"></translation>
+        <translation>Se requiere una superficie de entrada válida</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="241"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="334"/>
         <source>Preprocessing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preprocesando...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="257"/>
         <source>Get manifold edges...</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtener los bordes del colector...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="265"/>
@@ -1102,68 +1110,68 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="266"/>
         <source> Centerline computation may fail. Try to increase target point count or reduce decimation aggressiveness</source>
-        <translation type="unfinished"></translation>
+        <translation> El cálculo de la línea central puede fallar. Intente aumentar el número de puntos objetivo o reducir la agresividad de la decimación.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="277"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="347"/>
         <source>Extract network...</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraer red...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="298"/>
         <source>Extract centerline...</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraer la línea central...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="317"/>
         <source>Generate curves and quantification results table...</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar curvas y tabla de resultados de cuantificación...</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="322"/>
         <source>Failed to compute results: </source>
-        <translation type="unfinished"></translation>
+        <translation>No se han podido calcular los resultados: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="326"/>
         <source>Centerline analysis complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Análisis de la línea central completado.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="372"/>
         <source>Failed to detect end points: </source>
-        <translation type="unfinished"></translation>
+        <translation>No se han detectado los puntos finales: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="377"/>
         <source>Automatic endpoint computation complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cálculo automático del punto final completado.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="429"/>
         <source>Invalid input surface node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de superficie de entrada no válido</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="440"/>
         <source>Surface can only be loaded from model or segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>La superficie sólo puede cargarse desde el modelo o el nodo de segmentación</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="449"/>
         <source>VMTK library is not found</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encuentra la biblioteca VMTK</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="453"/>
         <source>Input surface model is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>El modelo de superficie de entrada está vacío</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="489"/>
         <source>Mesh subdivision failed. Skip subdivision step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo en la subdivisión de la malla. Omitir paso de subdivisión.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="541"/>
