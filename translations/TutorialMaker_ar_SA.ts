@@ -6,14 +6,14 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="26"/>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="39"/>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="52"/>
         <source>PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>زر الضغط</translation>
     </message>
 </context>
 <context>
@@ -21,7 +21,7 @@
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="33"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>المسار غير موجود</translation>
     </message>
 </context>
 <context>
@@ -29,22 +29,22 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="20"/>
         <source>TutorialEditor</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر تعليمي</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="29"/>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق توضيحي</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="36"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء تسجيل</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="46"/>
         <source>Next Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>الأداة التالية</translation>
     </message>
 </context>
 <context>
@@ -52,22 +52,22 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="17"/>
         <source>Tutorial Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر تعليمي</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="104"/>
         <source>Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف التسجيل</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="109"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء تسجيل</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="154"/>
         <source>Widget Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>مُعلِّم الأداة</translation>
     </message>
 </context>
 <context>
@@ -75,92 +75,92 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="123"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="124"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="125"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="126"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="127"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="128"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="150"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="154"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>دائرة</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="157"/>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="161"/>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>سهم</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="165"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>أيقونة</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="168"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>نص</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="208"/>
         <source>color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="214"/>
         <source> thick.</source>
-        <translation type="unfinished"></translation>
+        <translation> سميكة.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="222"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>ملأ</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="244"/>
         <source>Load icon</source>
-        <translation type="unfinished"></translation>
+        <translation>أيقونة التحميل</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="259"/>
         <source>JSON Files (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>ملفات JSON (* .json)</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="464"/>
         <source>Add a tittle here</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف عنوانًا هنا</translation>
     </message>
 </context>
 <context>
@@ -168,32 +168,32 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/ScreenshotAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="38"/>
         <source>Tutorial Making</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء الدروس التعليمة</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="47"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="54"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="61"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="68"/>
         <source>Export Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>لقطات شاشة التصدير</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="84"/>
