@@ -377,12 +377,12 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="103"/>
         <source>Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Regiones</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="104"/>
         <source>Coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordinadas</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="354"/>
@@ -453,32 +453,32 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="764"/>
         <source>Collection of lumen regions is unexpectedly None.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La recolección de las regiones del lumen es inesperada Ninguna.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="769"/>
         <source>Requested region is beyond range.</source>
-        <translation type="unfinished"></translation>
+        <translation>La región solicitada está fuera de alcance.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="777"/>
         <source> points</source>
-        <translation type="unfinished"></translation>
+        <translation> puntos</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="780"/>
         <source> cells</source>
-        <translation type="unfinished"></translation>
+        <translation> celdas</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="800"/>
         <source>Could not prepare the segment editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo preparar el editor de segmentos.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="972"/>
         <source>Invalid surface polydata.</source>
-        <translation type="unfinished"></translation>
+        <translation>Polidatos de superficie inválidos.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1054"/>
@@ -511,75 +511,75 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1334"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1338"/>
         <source>Diameter ({unitOfLength})</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro ({unidadDeLongitud})</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1336"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1340"/>
         <source>Area ({unitOfArea})</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Área ({unidadDeArea})</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1342"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1344"/>
         <source>Stenosis (%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Estenosis (%)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1523"/>
         <source>Lumen surface node is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo de superficie del lumen no está configurado.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1568"/>
         <source>Could not cut segment. Is it visible in 3D view?</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede cortar el segmento. ¿Es visible en la vista 3D?</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1571"/>
         <source>Not enough points to create surface</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay suficientes puntos para crear una superficie</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1605"/>
         <source>Cross section: </source>
-        <translation type="unfinished"></translation>
+        <translation>Sección transversal: </translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1627"/>
         <source>Maximum inscribed sphere radius is not available</source>
-        <translation type="unfinished"></translation>
+        <translation>El radio máximo de la esfera inscrita no está disponible</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1742"/>
         <source>Maximum inscribed sphere: </source>
-        <translation type="unfinished"></translation>
+        <translation>Máxima esfera inscrita: </translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1810"/>
         <source>Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1811"/>
         <source>Diameter (MIS)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diámetro (MIS)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1812"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1073"/>
         <source>Diameter (CE)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diámetro (CE)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="35"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="41"/>
         <source>Centerline source:</source>
-        <translation type="unfinished"></translation>
+        <translation>Origen de la línea central:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="48"/>
@@ -589,38 +589,44 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
 - a centerline model created by &apos;Extract centerline&apos; module,
 - an arbitrary open markups curve,
 - an invisible centerline of a shape markups node used as a tube.</source>
-        <translation type="unfinished"></translation>
+        <translation>El origen de la línea central puede ser :
+
+- una curva de línea central creada por el módulo «Extraer línea central»,
+- un modelo de línea central creado por el módulo «Extraer línea central»,
+- una curva de marcas abierta arbitraria,
+- una línea central invisible de un nodo de marcas de forma utilizado como tubo.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="88"/>
         <source>Input lumen surface:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Superficie de entrada de lumen:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="97"/>
         <source>Input segmentation or model node, required for computing cross-sectional area.
 The input centerline is expected to be inside the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es necesaria la segmentación de entrada o el nodo del modelo para calcular el área de la sección transversal.
+Se espera que la línea central de entrada esté dentro de la superficie del lumen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="126"/>
         <source>Select an input segment node</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione un nodo del segmento de entrada</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="141"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabla de salida:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="150"/>
         <source>Pick the output table to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija la tabla de salida del algoritmo.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="177"/>
         <source>Toggle between the table layout and the previous one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterne entre el diseño de la tabla y el anterior.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="180"/>
@@ -628,42 +634,42 @@ The input centerline is expected to be inside the lumen surface.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="939"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1002"/>
         <source>show</source>
-        <translation type="unfinished"></translation>
+        <translation>mostrar</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="189"/>
         <source>Output plot series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida de la serie de gráficos:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="198"/>
         <source>Pick the output plot series to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija la serie de gráficos de salida para el algoritmo.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="216"/>
         <source>Select the plot&apos;s Y axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el eje Y del gráfico</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="229"/>
         <source>Toggle between the plot layout and the previous one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterne entre el diseño de la parcela y el anterior.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="247"/>
         <source>Tools / Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramientas / Opciones</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="287"/>
         <source>Manage connected regions of the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestione las regiones conectadas de la superficie del lumen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="290"/>
         <source>Tab 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pestaña 1</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="298"/>
@@ -674,27 +680,33 @@ Ideally, there should be only one region. More regions may indicate the presence
 When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again.
 
 After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenga el número de regiones conectadas distintas en la superficie del lumen.
+
+Lo ideal es que sólo haya una región. Más regiones pueden indicar la presencia de agujeros en el lumen y/o regiones distintas fuera del lumen. Los agujeros en el lumen significan una medición inexacta del área de la sección transversal.
+
+Cuando se hayan reparado las regiones no deseadas, normalmente utilizando el efecto «Pintar» del «Editor de segmentos», esta función podrá ejecutarse de nuevo.
+
+Tras una reparación completa de la superficie del lumen, deben extraerse de nuevo las líneas centrales para que se actualicen las matrices de radios de la «Esfera inscrita máxima».</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="307"/>
         <source>Get:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tomar:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="322"/>
         <source>Cycle through the identified distinct regions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorra las distintas regiones identificadas.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="344"/>
         <source>Indicates the size of the selected region. Low values suggest a parasite region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indica el tamaño de la región seleccionada. Los valores bajos sugieren una región parásita.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="354"/>
         <source>If toggled, the selected region is centred in all slice views, except in the ideal case where there is one single region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está activa, la región seleccionada se centra en todas las vistas de corte, excepto en el caso ideal en el que hay una única región.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="367"/>
@@ -703,7 +715,11 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
 This is available if the lumen surface is a segmentation.
 
 The &apos;Sphere&apos; brush is enforced. Further customisation can be performed in the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Active el efecto «Pintar» del «Editor de segmentos».
+
+Está disponible si la superficie del lumen es una segmentación.
+
+Se aplica el pincel «Esfera». En el «Editor de segmentos» se pueden realizar otras personalizaciones.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="374"/>
