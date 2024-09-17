@@ -7,17 +7,17 @@
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="20"/>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="56"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل دخول</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>كلمة المرور:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="43"/>
         <source>UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم المستخدم:</translation>
     </message>
 </context>
 <context>
@@ -33,14 +33,19 @@
 Active Learning solution.
 See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+حل التعلم النشط.
+انظر المزيد من المعلومات في &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;وثائق الوحدة&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="57"/>
         <source>
 Developed by NVIDIA, KCL
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطويره بواسطة NVIDIA، KCL
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="72"/>
@@ -50,27 +55,27 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="75"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان الخادم:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="79"/>
         <source>Server address history:</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل عنوان الخادم:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>Default extension for uploading images/labels</source>
-        <translation type="unfinished"></translation>
+        <translation>التمديد الافتراضي لتحميل الصور/الملصقات</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>File Extension:</source>
-        <translation type="unfinished"></translation>
+        <translation>تمديد الملف:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="93"/>
         <source>user-xyz</source>
-        <translation type="unfinished"></translation>
+        <translation>مستخدم xyz</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
@@ -80,37 +85,37 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User-ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>العميل/معرف المستخدم:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Enable this option to auto run segmentation if pre-trained model exists when Next Sample is fetched</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتمكين هذا الخيار من تقسيم التشغيل التلقائي إذا كان هناك نموذج مدرب مسبقًا عند إحضار العينة التالية</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Auto-Run Pre-Trained Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل النموذج المدرب مسبقًا تلقائيًا:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Enable this option to fetch Next Sample after saving the label</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين هذا الخيار لجلب العينة التالية بعد حفظ الملصق</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Auto-Fetch Next Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>جلب العينة التالية تلقائيًا:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
         <source>Enable this option to auto update model after submitting the label</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتمكين هذا الخيار لتحديث النموذج تلقائيًا بعد تقديم التصنيف</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
         <source>Auto-Update Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج التحديث التلقائي:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
@@ -120,47 +125,47 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Ask For User Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>اسأل عن اسم المستخدم:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
         <source>Enable this option to allow overlapping segmentations</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين هذا الخيار للسماح بالتقسيمات المتداخلة</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
         <source>Allow Overlapping Segmentations:</source>
-        <translation type="unfinished"></translation>
+        <translation>اسمح بتداخل التقسيمات:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
         <source>Enable this option to first read original label (predictions)</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتمكين هذا الخيار من قراءة التسمية الأصلية أولاً (التنبؤات)</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
         <source>Original Labels:</source>
-        <translation type="unfinished"></translation>
+        <translation>الملصقات الأصلية:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="174"/>
         <source>Enable this option to find options tab etc...</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين هذا الخيار للعثور على علامة تبويب الخيارات إلخ...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="174"/>
         <source>Developer Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع المطور:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Enable this option to show segments in 3D (slow) after mask update...</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتمكين هذا الخيار لعرض المقاطع ثلاثية الأبعاد (بطيئة) بعد تحديث القناع...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Show Segments In 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر المقاطع ثلاثية الأبعاد:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="204"/>
@@ -170,67 +175,67 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="301"/>
         <source>Select positive points</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد النقاط الإيجابية</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="307"/>
         <source>Select negative points</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد النقاط السلبية</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="336"/>
         <source>Paint scribbles for selected scribble layer</source>
-        <translation type="unfinished"></translation>
+        <translation>ارسم الملاحظات على الطبقة المحددة للملاحظات</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="338"/>
         <source>Erase scribbles for selected scribble layer</source>
-        <translation type="unfinished"></translation>
+        <translation>امسح الملاحظات على الطبقة المحددة للملاحظات</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="342"/>
         <source>Update label by sending scribbles to server to apply selected post processing method</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث التصنيف عن طريق إرسال الملاحظات إلى الخادم لتطبيق طريقة المعالجة اللاحقة المحددة</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="345"/>
         <source>Change brush size for scribbles tool</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير حجم الفرشاة لأداة الملاحظات</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="347"/>
         <source>Use 3D brush to paint/erase in multiple slices in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم الفرشاة ثلاثية الأبعاد للطلاء/المحو في شرائح متعددة ثلاثية الأبعاد</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="374"/>
         <source>infer</source>
-        <translation type="unfinished"></translation>
+        <translation>استنتاج</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="375"/>
         <source>train</source>
-        <translation type="unfinished"></translation>
+        <translation>تدريب</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="376"/>
         <source>activelearning</source>
-        <translation type="unfinished"></translation>
+        <translation>تعلم نشط</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="377"/>
         <source>scoring</source>
-        <translation type="unfinished"></translation>
+        <translation>تقييم</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="386"/>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="387"/>
         <source>Please enter your name:</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء إدخال اسمك:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="492"/>
@@ -256,7 +261,8 @@ Developed by NVIDIA, KCL
         <location filename="MONAILabel/MONAILabel.py" line="1019"/>
         <source>This will clear current scribbles session.
 Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>سيؤدي هذا إلى مسح جلسة الملاحظات الحالية.
+ هل أنت متأكد أنك تريد المتابعة؟</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1089"/>
