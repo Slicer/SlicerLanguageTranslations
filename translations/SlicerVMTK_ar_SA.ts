@@ -397,12 +397,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="103"/>
         <source>Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>مناطق</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="104"/>
         <source>Coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>إحداثيات</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="354"/>
@@ -473,32 +473,32 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="764"/>
         <source>Collection of lumen regions is unexpectedly None.</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة مناطق التجويف غير متوقعة.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="769"/>
         <source>Requested region is beyond range.</source>
-        <translation type="unfinished"></translation>
+        <translation>المنطقة المطلوبة خارج النطاق.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="777"/>
         <source> points</source>
-        <translation type="unfinished"></translation>
+        <translation> نقاط</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="780"/>
         <source> cells</source>
-        <translation type="unfinished"></translation>
+        <translation> خلايا</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="800"/>
         <source>Could not prepare the segment editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم أتمكن من إعداد محرر المقطع.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="972"/>
         <source>Invalid surface polydata.</source>
-        <translation type="unfinished"></translation>
+        <translation>بيانات متعددة السطح غير صالحة.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1054"/>
@@ -679,12 +679,12 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="247"/>
         <source>Tools / Options</source>
-        <translation type="unfinished"></translation>
+        <translation>الأدوات/الخيارات</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="287"/>
         <source>Manage connected regions of the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>إدارة المناطق المتصلة من سطح التجويف.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="290"/>
