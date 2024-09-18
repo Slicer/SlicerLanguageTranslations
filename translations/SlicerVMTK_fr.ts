@@ -31,32 +31,32 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
         <translation>Afficher en 3D si succès</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="182"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="183"/>
         <source>Failed to compute results.</source>
         <translation>Échec&#x202f;: pas de résultat.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="219"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="220"/>
         <source>Input segmentation, volume or segment ID is invalid</source>
         <translation>L&apos;entrée &apos;Segmentation&apos;, &apos;Volume&apos; ou &apos;ID de segment&apos; est invalide</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="223"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="224"/>
         <source>Processing started</source>
         <translation>Démarrage du processus</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="300"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="301"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>Processus complété en {duration} secondes</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="321"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="322"/>
         <source>Starting the test</source>
         <translation>Démarrage du test</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="323"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="324"/>
         <source>Test passed</source>
         <translation>Test réussi</translation>
     </message>
@@ -400,7 +400,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="354"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1051"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1046"/>
         <source>Input is invalid.</source>
         <translation>Entrée invalide.</translation>
     </message>
@@ -436,152 +436,156 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="640"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1813"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1808"/>
         <source>Cross-section area</source>
         <translation>Superficie de la section</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="642"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1814"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1809"/>
         <source>Wall diameter</source>
         <translation>Diamètre aux parois</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="643"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1815"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1810"/>
         <source>Wall cross-section area</source>
         <translation>Surface de section aux parois</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="645"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1818"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1813"/>
         <source>Stenosis by diameter (CE)</source>
         <translation>Sténose en diamètre (CE)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="646"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1816"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1811"/>
         <source>Stenosis by surface area</source>
         <translation>Sténose en surface</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="764"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="757"/>
         <source>Collection of lumen regions is unexpectedly None.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="769"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="762"/>
         <source>Requested region is beyond range.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="777"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="770"/>
         <source> points</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="780"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="773"/>
         <source> cells</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="800"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="793"/>
         <source>Could not prepare the segment editor.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="972"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="967"/>
         <source>Invalid surface polydata.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1054"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1049"/>
         <source>Processing started</source>
         <translation>Démarrage du processus</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1060"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1055"/>
         <source>Processing completed</source>
         <translation>Processus terminé</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1199"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1218"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1194"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1213"/>
         <source>Waiting for background jobs...</source>
         <translation>Attente des tâches en arrière plan...</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1228"/>
-        <source>Updating table :</source>
-        <translation>Mise à jour de la table&#x202f;:</translation>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1223"/>
+        <source>Updating table:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1267"/>
+        <source>Updating table :</source>
+        <translation type="vanished">Mise à jour de la table&#x202f;:</translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1262"/>
         <source>Processing completed in {duration} seconds - {countOfPoints} points</source>
         <translation>Processus terminé en {duration} secondes - {countOfPoints} points</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1332"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1334"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1338"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1327"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1329"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1333"/>
         <source>Diameter ({unitOfLength})</source>
         <translation>Diamètre ({unitOfLength})</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1336"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1340"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1331"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1335"/>
         <source>Area ({unitOfArea})</source>
         <translation>Surface ({unitOfArea})</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1342"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1344"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1337"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1339"/>
         <source>Stenosis (%)</source>
         <translation>Sténose (%)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1523"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1518"/>
         <source>Lumen surface node is not set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1568"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1563"/>
         <source>Could not cut segment. Is it visible in 3D view?</source>
         <translation>Ne peut couper le segment. Est-il visible en 3D&#x202f;?</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1571"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1566"/>
         <source>Not enough points to create surface</source>
         <translation>Pas assez de points pour créer une surface</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1605"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1600"/>
         <source>Cross section: </source>
         <translation>Section transversale&#x202f;: </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1627"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1622"/>
         <source>Maximum inscribed sphere radius is not available</source>
         <translation>Diamètre des sphères de plus grande taille non disponible</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1742"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1737"/>
         <source>Maximum inscribed sphere: </source>
         <translation>Sphère de plus grande taille&#x202f;: </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1810"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1805"/>
         <source>Distance</source>
         <translation>Distance</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1811"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1806"/>
         <source>Diameter (MIS)</source>
         <translation>Diamètre (MIS)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1812"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1073"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1807"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1082"/>
         <source>Diameter (CE)</source>
         <translation>Diamètre (CE)</translation>
     </message>
@@ -597,13 +601,19 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="48"/>
-        <source>The centerline source may be :
+        <source>The centerline source may be:
 
 - a centerline curve created by &apos;Extract centerline&apos; module,
 - a centerline model created by &apos;Extract centerline&apos; module,
 - an arbitrary open markups curve,
 - an invisible centerline of a shape markups node used as a tube.</source>
-        <translation>La ligne centrale peut être&#x202f;:
+        <oldsource>The centerline source may be :
+
+- a centerline curve created by &apos;Extract centerline&apos; module,
+- a centerline model created by &apos;Extract centerline&apos; module,
+- an arbitrary open markups curve,
+- an invisible centerline of a shape markups node used as a tube.</oldsource>
+        <translation type="unfinished">La ligne centrale peut être&#x202f;:
 
 - une courbe créée par le module &apos;Extract centerline&apos;,
 - un modèle créé par le module &apos;Extract centerline&apos;,
@@ -623,70 +633,70 @@ The input centerline is expected to be inside the lumen surface.</source>
 La ligne centrale doit être à l&apos;intérieur de la lumière.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="126"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="129"/>
         <source>Select an input segment node</source>
         <translation>Sélectionnez un segment</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="141"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="144"/>
         <source>Output table:</source>
         <translation>Tableau de résultat&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="150"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="153"/>
         <source>Pick the output table to the algorithm.</source>
         <translation>Sélectionnez le tableau de résultat.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="177"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="183"/>
         <source>Toggle between the table layout and the previous one.</source>
         <translation>Basculer la disposition des vues.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="180"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="232"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="939"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1002"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="186"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="241"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="948"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1011"/>
         <source>show</source>
         <translation>afficher</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="189"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="195"/>
         <source>Output plot series:</source>
         <translation>Tracé des données&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="198"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="204"/>
         <source>Pick the output plot series to the algorithm.</source>
         <translation>Sélectionnez un tracé des données.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="216"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="225"/>
         <source>Select the plot&apos;s Y axis</source>
         <translation>Sélectionnez l&apos;axe des Y</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="229"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="238"/>
         <source>Toggle between the plot layout and the previous one.</source>
         <translation>Basculer la disposition des vues.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="247"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="256"/>
         <source>Tools / Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="287"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="296"/>
         <source>Manage connected regions of the lumen surface.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="290"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="299"/>
         <source>Tab 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="298"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="307"/>
         <source>Get the number of distinct connected regions in the lumen surface.
 
 Ideally, there should be only one region. More regions may indicate the presence of holes in the lumen and/or distinct regions outside of the lumen. Holes in the lumen mean inaccurate cross-section area measurement.
@@ -697,27 +707,27 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="307"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="316"/>
         <source>Get:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="322"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="331"/>
         <source>Cycle through the identified distinct regions.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="344"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="353"/>
         <source>Indicates the size of the selected region. Low values suggest a parasite region.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="354"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="363"/>
         <source>If toggled, the selected region is centred in all slice views, except in the ideal case where there is one single region.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="367"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="376"/>
         <source>Activate the &apos;Paint&apos; effect of the &apos;Segment editor&apos;.
 
 This is available if the lumen surface is a segmentation.
@@ -726,27 +736,27 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="374"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="383"/>
         <source>paint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="389"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="398"/>
         <source>Specify how to output point coordinates of the centerline.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="392"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
         <source>Tab 2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="472"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="481"/>
         <source>Run the algorithm.</source>
         <translation>Exécuter l&apos;algorithme.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="475"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="484"/>
         <source>Apply</source>
         <translation>Appliquer</translation>
     </message>
@@ -755,138 +765,138 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
         <translation type="vanished">Options de table</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="403"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="412"/>
         <source>Coordinate system:</source>
         <translation>Système de coordonnée&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="443"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="452"/>
         <source>Split coordinates:</source>
         <translation>Coordonnées dissociées&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="450"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="459"/>
         <source>Split coordinate system values into three separate table columns.</source>
         <translation>Produire une colonne de coordonnée par dimension.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="412"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="421"/>
         <source>Right-Anterior-Superior coordinate system. Used in the Slicer scene.</source>
         <translation>Système de coordonnée &apos;Right-Anterior-Superior&apos;. Utilisé dans Slicer.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="415"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="424"/>
         <source>RAS (Slicer convention)</source>
         <translation>RAS (convention Slicer)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="425"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="434"/>
         <source>Left-Posterior-Superior coordinate system. Used commonly in files.</source>
         <translation>Système de coordonné &apos;Left-Posterior-Superior&apos;. Utilisé couramment dans les fichiers.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="428"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="437"/>
         <source>LPS (DICOM convention)</source>
         <translation>LPS (convention DICOM)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="491"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="500"/>
         <source>Browse cross-sections</source>
         <translation>Parcours des sections transversales</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="508"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="517"/>
         <source>Point index:</source>
         <translation>Indice de point&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="515"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="524"/>
         <source>Point of the centerline where the selected slice view should be moved</source>
         <translation>Position de la ligne centrale où placer la vue de tranches</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="531"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="540"/>
         <source>Move slice view:</source>
         <translation>Déplacer la vue de tranches&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="540"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="631"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="549"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="640"/>
         <source>Move this slice view to a point along the centerline</source>
         <translation>Déplacez cette vue de tranches le long de la ligne centrale</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="564"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="573"/>
         <source>Center the selected point in the slice view</source>
         <translation>Centrer le point dans la vue de tranches</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="567"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="576"/>
         <source>centered</source>
         <translation>centré</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="580"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="589"/>
         <source>Orient the slice view orthogonal to the centerline</source>
         <translation>Orientez la vue de tranche perpendiculaire à la ligne centrale</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="583"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="592"/>
         <source>orthogonal</source>
         <translation>orthogonal</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="596"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="701"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="605"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="710"/>
         <source>Axial:</source>
         <translation>Axial&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="711"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="746"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="720"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="755"/>
         <source>Rotate slice view around its Z-axis to restore anatomic orientation</source>
         <translation>Rotation de la vue de tranche autour de son axe Z pour adapter la position anatomique</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="624"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="729"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="764"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="633"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="738"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="773"/>
         <source> deg</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="606"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="615"/>
         <source>Rotation angle for longitudinal slice view</source>
         <translation>Angle de rotation pour la vue de tranches longitudinale</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="658"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="667"/>
         <source>Rotate:</source>
         <translation>Rotation&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="665"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="674"/>
         <source>Longitudinal</source>
         <translation>Longitudinal</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="668"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="736"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="677"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="745"/>
         <source>Long.:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="677"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="686"/>
         <source>Spin / Flip</source>
         <translation>Tourner / Retourner</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="771"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="780"/>
         <source>Flip:</source>
         <translation>Retourner&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="780"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="789"/>
         <source>Flip the slice view horizontally.
 
 Concerns orthogonal reformat in axial navigation.</source>
@@ -895,12 +905,12 @@ Concerns orthogonal reformat in axial navigation.</source>
 Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogonal&apos; activée.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="785"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="794"/>
         <source>Horizontal</source>
         <translation>Horizontal</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="792"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="801"/>
         <source>Flip the slice view vertically.
 
 Concerns orthogonal reformat in axial navigation.</source>
@@ -909,175 +919,183 @@ Concerns orthogonal reformat in axial navigation.</source>
 Concerne la vue de tranche en navigation axiale avec l&apos;option &apos;Orthogonal&apos; activée.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="797"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="806"/>
         <source>Vertical</source>
         <translation>Vertical</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="812"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="821"/>
         <source>Distance from origin:</source>
         <translation>Distance de l&apos;origine&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="821"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="830"/>
         <source>Cumulative distance from start of centerline</source>
         <translation>Distance cumulée du début de la ligne centrale</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="834"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="843"/>
         <source>Set the current point as origin</source>
         <translation>Assignez ce point comme origine</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="837"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="846"/>
         <source>set</source>
         <translation>origine</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="847"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="856"/>
         <source>Go to origin point</source>
         <translation>Atteindre l&apos;origine</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="357"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="850"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="366"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="859"/>
         <source>go to</source>
         <translation>aller à</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="865"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="874"/>
         <source>Coordinates:</source>
         <translation>Coordonnées&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="872"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="881"/>
         <source>RAS coordinate of selected point</source>
         <translation>Coordonnées RAS du point sélectionné</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="903"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="912"/>
         <source>Maximum inscribed sphere (MIS) diameter at selected point.</source>
         <translation>Diamètre de la sphère de plus grande taille (MIS) au point sélectionné.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="916"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="925"/>
         <source>Jump to the smallest MIS diameter point.</source>
         <translation>Atteindre le point au diamètre MIS minimal.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="919"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="976"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="928"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="985"/>
         <source>min</source>
         <translation>min</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="926"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="935"/>
         <source>Jump to the largest MIS diameter point.</source>
         <translation>Atteindre le point au diamètre MIS maximal.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="929"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="989"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1174"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1214"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="938"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="998"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1183"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1223"/>
         <source>max</source>
         <translation>max</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="936"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="945"/>
         <source>Show the maximum inscribed sphere diameter.</source>
         <translation>Afficher la sphère de plus grande taille.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="894"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="903"/>
         <source>Diameter (MIS):</source>
         <translation>Diamètre (MIS)&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="960"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="969"/>
         <source>Area of the cross-section</source>
         <translation>Superficie de la section transversale</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="973"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="982"/>
         <source>Jump to the smallest cross-section area point.</source>
         <translation>Atteindre le point au diamètre CE minimal.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="986"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="995"/>
         <source>Jump to the largest cross-section area point.</source>
         <translation>Atteindre le point au diamètre CE maximal.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="999"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1008"/>
         <source>Show cross-section at current point. Requires input lumen surface.</source>
         <translation>Afficher la section transversale au point actuel. Nécessite une surface représentant la lumière.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="951"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="960"/>
         <source>Cross-section area:</source>
         <translation>Surface de section&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1021"/>
         <source>Circular equivalent (CE) diameter: that of a circle having the  surface area of the cross-section.
 
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
 
 Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation>Diamètre circulaire l&apos;équivalent (CE)&#x202f;: celui d&apos;un cercle ayant la superficie de la section transversale.
+        <translation type="vanished">Diamètre circulaire l&apos;équivalent (CE)&#x202f;: celui d&apos;un cercle ayant la superficie de la section transversale.
 
 La différence absolue et en pourcentage avec le diamètre de la sphère de plus grande taille (MIS) est également fournie.
 
 Attention&#x202f;: les valeurs aux bifurcations peuvent ne pas avoir de signification clinique.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1014"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1023"/>
         <source>Diameter (CE):</source>
         <translation>Diamètre (CE)&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1045"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1054"/>
         <source>Angles are in Slicer&apos;s coordinate system</source>
         <translation>Les angles sont dans le système de coordonnées de Slicer</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1038"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1047"/>
         <source>Orientation:</source>
         <translation>Orientation&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1070"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1030"/>
+        <source>Circular equivalent (CE) diameter: that of a circle having the surface area of the cross-section.
+
+The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
+
+Caution: values at bifurcations may not have clinical meaning.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1079"/>
         <source>Circular equivalent diameter, derived from the surface area.</source>
         <translation>Diamètre circulaire équivalent , dérivé de la superficie.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1087"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1096"/>
         <source>Surface area</source>
         <translation>Superficie</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1107"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1116"/>
         <source>Lumen:</source>
         <translation>Lumière&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1123"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1132"/>
         <source>Wall:</source>
         <translation>Paroi&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1139"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1148"/>
         <source>Stenosis:</source>
         <translation>Sténose&#x202f;:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1171"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1180"/>
         <source>Jump to the maximum stenosis point by CE diameter.</source>
         <translation>Atteindre le point où la sténose en diamètre CE est maximale.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1211"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1220"/>
         <source>Jump to the maximum stenosis point by surface area.</source>
         <translation>Atteindre le point où la sténose en superficie est maximale.</translation>
     </message>
@@ -1699,38 +1717,42 @@ Slicer doit être redémarré. Voulez-vous redémarrer maintenant&#x202f;?</tran
         <translation>Échec&#x202f;: </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="444"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="442"/>
         <source>Processing started</source>
         <translation>Démarrage du processus</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="446"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="444"/>
         <source>Segment editor setup</source>
         <translation>Préparation de l&apos;Éditeur de segments</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="589"/>
-        <source>Flood filling : {duration} seconds - </source>
-        <translation>Flood filling&#x202f;: {duration} secondes - </translation>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="578"/>
+        <source>Flood filling: {duration} seconds - </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="621"/>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="696"/>
+        <source>Flood filling : {duration} seconds - </source>
+        <translation type="vanished">Flood filling&#x202f;: {duration} secondes - </translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="614"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="690"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>Processus terminé en {durée} secondes</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="627"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="620"/>
         <source>Extract centerline setup</source>
         <translation>Préparation du module &apos;Extract centerline&apos;</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="723"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="717"/>
         <source>Starting the test</source>
         <translation>Démarrage du test</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="725"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="719"/>
         <source>Test passed</source>
         <translation>Succès du test</translation>
     </message>
@@ -2196,28 +2218,32 @@ Slicer doit être redémarré. Voulez-vous redémarrer maintenant&#x202f;?</tran
         <translation>Échec&#x202f;: </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="437"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="435"/>
         <source>Processing started</source>
         <translation>Démarrage du processus</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="439"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="437"/>
         <source>Segment editor setup</source>
         <translation>Préparation de l&apos;Éditeur de segments</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="518"/>
-        <source>Flood filling : {duration} seconds - </source>
-        <translation>Flood filling&#x202f;: {duration} secondes - </translation>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="508"/>
+        <source>Flood filling: {duration} seconds - </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="541"/>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="597"/>
+        <source>Flood filling : {duration} seconds - </source>
+        <translation type="vanished">Flood filling&#x202f;: {duration} secondes - </translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="530"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="587"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>Processus terminé en {durée} secondes</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="547"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="536"/>
         <source>Extract centerline setup</source>
         <translation>Préparation du module &apos;Extract centerline&apos;</translation>
     </message>
@@ -2241,84 +2267,84 @@ Les points de contrôle doivent être dans la lumière contrastée.</translation
         <translation>Choisissez un nœud RDI. Cela peut accélérer la segmentation et l&apos;extraction de ligne centrale. La RDI sera dissimulée à la fin du processus.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="87"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="93"/>
         <source>Set the bounds of the ROI accounting for that of the fiducial node. It must  further be manually adjusted to enclose the target region of interest.</source>
         <translation>Définir les limites de la RDI tenant compte de celles du nœud liste de points. Elle doit être modifiée manuellement pour englober la région étudiée.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="93"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="99"/>
         <source>Pre-fit</source>
         <translation>Pré-ajuster</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="105"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="111"/>
         <source>ROI node:</source>
         <translation>RDI&#x202f;:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="115"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="121"/>
         <source>Fiducial node:</source>
         <translation>Liste de points&#x202f;:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="122"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="128"/>
         <source>Segmentation:</source>
         <translation>Segmentation&#x202f;:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="129"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="135"/>
         <source>Select an output segmentation</source>
         <translation>Sélectionnez une segmentation pour les résultats</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="161"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="167"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
         <translation>Choisissez une vue de tranches. Le nœud Volume de fond sera utilisé. Attention&#x202f;: utilisez le nœud Volume concerné par l&apos;étude.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="191"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="197"/>
         <source>Restore slice views with the referenced volume node</source>
         <translation>Restaurer les vues de tranches référençant le nœud Volume</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="194"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="200"/>
         <source>...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="203"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="209"/>
         <source>Slice node:</source>
         <translation>Vue de tranches&#x202f;:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="219"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="225"/>
         <source>Flood filling parameters</source>
         <translation>Paramètres de l&apos;effet &apos;Flood filling&apos;</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="243"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="249"/>
         <source>Intensity tolerance:</source>
         <translation>Tolérance d &apos; intensité&#x202f;:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="250"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="256"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
         <translation>Sélectionnez des voxels connectés avec la plage d&apos;intensité entre celle à la position d&apos;un point de contrôle +/- cette tolérance.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="275"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="281"/>
         <source>Neighbourhood size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="282"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="288"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
         <translation>Les régions ne sont ajoutées que si tous les voxels voisins ont des intensités similaires. Utilisez des valeurs plus élevées pour éviter les bavures. Utilisez des valeurs inférieures pour permettre la capture de détails plus fins.
 </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="328"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="334"/>
         <source>Use &apos;Extract centerline&apos; module to generate a centerline model and a centerline curve.
 
 It is recommended to generate centerlines on accurate segmentations.</source>
@@ -2327,12 +2353,12 @@ It is recommended to generate centerlines on accurate segmentations.</source>
 Il est recommandé de générer des lignes centrales à partir de segmentations de bonne qualité.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="336"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="342"/>
         <source>Extract centerlines</source>
         <translation>Extraire les lignes centrales</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="355"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="361"/>
         <source>Create a segmentation and optionally a centerline model and a centerline curve.
 
 Output nodes from the last run will be removed.</source>
@@ -2341,7 +2367,7 @@ Output nodes from the last run will be removed.</source>
 Les nœuds du processus précédents seront mis-à-jour.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="360"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="366"/>
         <source>Apply</source>
         <translation>Appliquer</translation>
     </message>
@@ -2477,11 +2503,18 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
         <source>Create a model for each cut segment.
 This allows to view the model from which the surface area is calculated.
 
-The result is influenced by :
+The result is influenced by:
  - holes in the segments
  - point placement, if &apos;Closest island&apos; option is selected,
  - smoothing level in the &apos;Segment editor&apos;.</source>
-        <translation>Créer un modèle pour chaque de coupe de segment.
+        <oldsource>Create a model for each cut segment.
+This allows to view the model from which the surface area is calculated.
+
+The result is influenced by :
+ - holes in the segments
+ - point placement, if &apos;Closest island&apos; option is selected,
+ - smoothing level in the &apos;Segment editor&apos;.</oldsource>
+        <translation type="unfinished">Créer un modèle pour chaque de coupe de segment.
 Cela permet de visualiser le modèle à partir duquel la surface est calculée.
 
 Le résultat est influencé par&#x202f;:
@@ -2746,37 +2779,37 @@ The input centerline is expected to be inside the lumen surface.</source>
         <translation>La ligne centrale devrait être à l&apos;intérieur de la lumière.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="106"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="109"/>
         <source>Select an input segment in the selected segmentation.</source>
         <translation>Sélectionnez un segment.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="151"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
         <source>Create a segment for each branch.</source>
         <translation>Créer un segment pour chaque branche.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="157"/>
         <source>Create branch segments</source>
         <translation>Créer des surfaces</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="170"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="173"/>
         <source>Create a model of each bifurcation splitting line.</source>
         <translation>Créer un modèle de division de chaque bifurcation.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="173"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="176"/>
         <source>Create bifurcation profiles</source>
         <translation>Créer les divisions de bifurcation</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="188"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="191"/>
         <source>Run the algorithm.</source>
         <translation>Exécuter l&apos;algorithme.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="191"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="194"/>
         <source>Apply</source>
         <translation>Appliquer</translation>
     </message>
@@ -2931,69 +2964,69 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
 Il devrait idéalement dépasser légèrement la représentation de la paroi vasculaire, et ne doit pas être bifurqué pour des résultats précis.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="131"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="308"/>
         <source>Run the algorithm.</source>
         <translation>Exécutez l&apos;algorithme.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="134"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="311"/>
         <source>Apply</source>
         <translation>Appliquer</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="144"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="131"/>
         <source>Result</source>
         <translation>Résultat</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="152"/>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="235"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="139"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="222"/>
         <source>Wall:</source>
         <translation>Paroi&#x202f;:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="166"/>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="266"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="153"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="253"/>
         <source>Lumen:</source>
         <translation>Lumière&#x202f;:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="180"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="167"/>
         <source>Lesion:</source>
         <translation>Lésion&#x202f;:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="194"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="181"/>
         <source>Stenosis:</source>
         <translation>Sténose&#x202f;:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="208"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="195"/>
         <source>Length:</source>
         <translation>Longueur&#x202f;:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="224"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="211"/>
         <source>Model</source>
         <translation>Modèle</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="242"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="229"/>
         <source>Show the wall between the boundary points as a model.</source>
         <translation>Afficher un modèle de la paroi dans les limites de l&apos;analyse.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="250"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="237"/>
         <source>Wall</source>
         <translation>Paroi</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="273"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="260"/>
         <source>Show the lumen between the boundary points as a model.</source>
         <translation>Afficher un modèle de la lumière dans les limites de l&apos;analyse.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="281"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="268"/>
         <source>Lumen</source>
         <translation>Lumière</translation>
     </message>

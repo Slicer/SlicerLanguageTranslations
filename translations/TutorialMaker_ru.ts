@@ -6,7 +6,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="26"/>
@@ -80,7 +80,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="124"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сохранить</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="125"/>

@@ -4,152 +4,152 @@
 <context>
     <name>LanguageTools</name>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="30"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="17"/>
         <source>Download, compile, and install latest translations</source>
         <translation>قم بتنزيل وتجميع وتثبيت أحدث الترجمات</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="33"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="20"/>
         <source>Update translation files</source>
         <translation>تحديث ملفات الترجمة</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="47"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="193"/>
         <source>Input translations</source>
         <translation>ترجمات المدخلات</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="56"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="202"/>
         <source>Input folder:</source>
         <translation>مجلد الإدخال:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="66"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="212"/>
         <source>Languages:</source>
         <translation>اللغات:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="222"/>
         <source>Weblate (latest translations)</source>
         <translation>Weblate (أحدث الترجمات)</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="83"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="229"/>
         <source>GitHub (updated daily)</source>
         <translation>GitHub (تم تحديثه يوميًا)</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="90"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="236"/>
         <source>Local folder (for offline use)</source>
         <translation>مجلد محلي (للاستخدام غير المتصل بالإنترنت)</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="97"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="243"/>
         <source>Latest file only:</source>
         <translation>الملف الأخير فقط:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="107"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="253"/>
         <source>Refresh Weblate language list by querying the Weblate server.</source>
         <translation>قم بتحديث قائمة لغة Weblate عن طريق الاستفسار عن خادم Weblate.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="256"/>
         <source>refresh</source>
         <translation>تحديث</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="117"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="263"/>
         <source>Select language(s) that will be downloaded and installed.</source>
         <translation>اختر اللغة (اللغات) التي سيتم تنزيلها وتركيبها.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="124"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="270"/>
         <source>Folder containing translation (.ts) files.</source>
         <translation>ملف يحتوي على ترجمة (ملفات).</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="139"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="285"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this option is checked then only the latest .ts file in the folder will be used. Enable this option to ignore previously downloaded .ts files are saved in the same folder.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;إذا تم التحقق من هذا الخيار، فسيتم استخدام آخر ملف .ts فقط في المجلد. تمكين هذا الخيار لتجاهل تنزيل مسبق.الملفات محفوظة في نفس المجلد.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="157"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="151"/>
         <source>Application language:</source>
         <translation>لغة التطبيق:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="170"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="164"/>
         <source>Change only takes effect after restarting the application.</source>
         <translation>يصبح التغيير ساري المفعول فقط بعد إعادة تشغيل التطبيق.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="180"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="174"/>
         <source>Restart the application to see updated translations on the graphical user interface.</source>
         <translation>إعادة تشغيل التطبيق لمشاهدة الترجمات المحدثة على واجهة المستخدم الرسومية.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="183"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="177"/>
         <source>Restart the application</source>
         <translation>إعادة تشغيل التطبيق</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="192"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="27"/>
         <source>Advanced settings</source>
         <translation>الإعدادات المتقدمة</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="204"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="39"/>
         <source>Qt &apos;lrelease&apos; tool path:</source>
         <translation>مسار أداة Qt &apos;lrelease:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="211"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
         <source>Path to Qt lrelease executable. Leave empty to use default (the one bundled with the Slicer installer or available in system paths).</source>
         <translation>الطريق إلى Qt lrelease قابل للتنفيذ. اتركه فارغًا لاستخدام الافتراضي (الذي تم تجميعه مع مثبت Slicer أو متوفر في مسارات النظام).</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="224"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="59"/>
         <source>Slicer version:</source>
         <translation>نسخة Slicer:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="231"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="66"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Only used for GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;يستخدم فقط لـ GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="241"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
         <source>GitHub repository URL:</source>
         <translation>رابط ملف GitHub:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="248"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="83"/>
         <source>Github repository that stores the translated strings.</source>
         <translation>ملف Github الذي يخزن السلاسل المترجمة.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="258"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="93"/>
         <source>Weblate download URL:</source>
         <translation>تنزيل رابط Weblate :</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="265"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="100"/>
         <source>Weblate project that stores the translated strings.</source>
         <translation>مشروع Weblate الذي يخزن السلاسل المترجمة.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="275"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
         <source>Translation file folders:</source>
         <translation>مجلدات ملفات الترجمة:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="282"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="117"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
         <translation>قائمة المجلدات التي يبحث فيها التطبيق عن الترجمات. هذا للعلم فقط، لا يمكن تغيير المسارات.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="291"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="126"/>
         <source>Show more...</source>
         <translation>أظهر المزيد...</translation>
     </message>
@@ -174,9 +174,8 @@
         <translation> (اختصار: Ctrl + 6)</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="330"/>
         <source>Edited language:</source>
-        <translation>اللغة المحررة:</translation>
+        <translation type="vanished">اللغة المحررة:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
@@ -210,10 +209,13 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="156"/>
-        <source>Click on the text to find it on the translation website:
+        <source>Click on the text to find it on the translation website [{language}]:
 
 {links}</source>
-        <translation>انقر فوق النص للعثور عليه على موقع الترجمة:
+        <oldsource>Click on the text to find it on the translation website:
+
+{links}</oldsource>
+        <translation type="unfinished">انقر فوق النص للعثور عليه على موقع الترجمة:
 
 {links}</translation>
     </message>
@@ -223,52 +225,52 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
         <translation>فشل في استخراج أي نص من: {object}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="283"/>
+        <location filename="LanguageTools/LanguageTools.py" line="285"/>
         <source>Failed to retrieve language list from Weblate.</source>
         <translation>فشل في استعادة قائمة اللغة من Weblate.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="399"/>
+        <location filename="LanguageTools/LanguageTools.py" line="397"/>
         <source>Update failed.</source>
         <translation>فشل التحديث.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="424"/>
+        <location filename="LanguageTools/LanguageTools.py" line="422"/>
         <source>Update completed! Select application language and restart the application to see the results.</source>
         <translation>اكتمل التحديث! حدد لغة التطبيق وأعد تشغيل التطبيق لمعرفة النتائج.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="500"/>
+        <location filename="LanguageTools/LanguageTools.py" line="498"/>
         <source>Failed to query list of languages from Weblate ({status_code}:{reason})</source>
         <translation>فشل في الاستعلام عن قائمة اللغات من Weblate ({status_code}: {reason}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="530"/>
+        <location filename="LanguageTools/LanguageTools.py" line="531"/>
         <source>Failed to query list of components from Weblate ({status_code}:{reason})</source>
         <translation>فشل في الاستعلام عن قائمة المكونات من Weblate ({status_code}:{reason})</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="569"/>
+        <location filename="LanguageTools/LanguageTools.py" line="570"/>
         <source>No .ts files were found in the specified location.</source>
         <translation>لم يتم العثور على أي ملفات .ts في المكان المحدد.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="573"/>
+        <location filename="LanguageTools/LanguageTools.py" line="574"/>
         <source>Use translation file: {file}</source>
         <translation>استخدم ملف الترجمة: {file}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="598"/>
+        <location filename="LanguageTools/LanguageTools.py" line="599"/>
         <source>Download translations for {component}/{language}...</source>
         <translation>قم بتنزيل الترجمات لـ {component}/{language}...</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="607"/>
+        <location filename="LanguageTools/LanguageTools.py" line="608"/>
         <source>Failed to download translation from: {url} -- {text}</source>
         <translation>فشل في تنزيل الترجمة من: {url} - {text}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="608"/>
+        <location filename="LanguageTools/LanguageTools.py" line="609"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
         <translation>تخطي. لم يتم العثور على هذا المكون/اللغة على Weblate.</translation>
     </message>
@@ -277,35 +279,35 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
         <translation type="vanished">فشل التنزيل. ربما لم يتم ترجمة هذا المكون إلى اللغة المختارة.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="632"/>
-        <location filename="LanguageTools/LanguageTools.py" line="655"/>
+        <location filename="LanguageTools/LanguageTools.py" line="633"/>
+        <location filename="LanguageTools/LanguageTools.py" line="656"/>
         <source>Translation files folder is not specified.</source>
         <translation>مجلد ملفات الترجمة غير محدد.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="635"/>
+        <location filename="LanguageTools/LanguageTools.py" line="636"/>
         <source>lrelease tool path is not specified.</source>
         <translation>مسار أداة lrelease غير محدد.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="673"/>
+        <location filename="LanguageTools/LanguageTools.py" line="674"/>
         <source>No translation (qm) files were found at {location}</source>
         <translation>لم يتم العثور على ملفات ترجمة (qm) في {location}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="675"/>
+        <location filename="LanguageTools/LanguageTools.py" line="676"/>
         <source>Update successfully completed.
 Installed {count} translation files in {location}.</source>
         <translation>اكتمل التحديث بنجاح.
 تم تثبيت {count} ملفات الترجمة في {location}.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="681"/>
+        <location filename="LanguageTools/LanguageTools.py" line="682"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
         <translation>هذا الإصدار Slicer لا يدعم خطوط المشاهد المخصصة.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="704"/>
+        <location filename="LanguageTools/LanguageTools.py" line="705"/>
         <source>Installed {count} font files in {location}.</source>
         <translation>تم تثبيت {count} ملفات الخط في {location}.</translation>
     </message>
