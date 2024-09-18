@@ -3881,17 +3881,17 @@ Los datos no se borrarán del servidor PACs.
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="746"/>
         <source>finished</source>
-        <translation type="unfinished"></translation>
+        <translation>finalizado</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="769"/>
         <source>attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>intento fallido</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="792"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>ha fallado</translation>
     </message>
 </context>
 <context>
