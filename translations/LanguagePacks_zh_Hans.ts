@@ -6,27 +6,27 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="30"/>
         <source>Download, compile, and install latest translations</source>
-        <translation type="unfinished"></translation>
+        <translation>下载，编译并安装最新版本的翻译</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="33"/>
         <source>Update translation files</source>
-        <translation type="unfinished"></translation>
+        <translation>更新翻译文件</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="47"/>
         <source>Input translations</source>
-        <translation type="unfinished"></translation>
+        <translation>输入翻译</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="56"/>
         <source>Input folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入文件夹：</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="66"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>语言：</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
