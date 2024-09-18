@@ -377,12 +377,12 @@ e Steve Pieper, da Isomics, Inc., e foi parcialmente financiado pela bolsa NIH 3
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="103"/>
         <source>Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Regiões</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="104"/>
         <source>Coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordenadas</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="354"/>
@@ -430,60 +430,60 @@ e Steve Pieper, da Isomics, Inc., e foi parcialmente financiado pela bolsa NIH 3
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="642"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1814"/>
         <source>Wall diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diâmetro da parede</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="643"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1815"/>
         <source>Wall cross-section area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área da seção transversal da parede</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="645"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1818"/>
         <source>Stenosis by diameter (CE)</source>
-        <translation type="unfinished"></translation>
+        <translation>Estenose por diâmetro (CE)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="646"/>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1816"/>
         <source>Stenosis by surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Estenose por área de superfície</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="764"/>
         <source>Collection of lumen regions is unexpectedly None.</source>
-        <translation type="unfinished"></translation>
+        <translation>A coleção de regiões do lúmen é inesperadamente Nenhuma.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="769"/>
         <source>Requested region is beyond range.</source>
-        <translation type="unfinished"></translation>
+        <translation>A região solicitada está fora do alcance.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="777"/>
         <source> points</source>
-        <translation type="unfinished"></translation>
+        <translation> pontos</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="780"/>
         <source> cells</source>
-        <translation type="unfinished"></translation>
+        <translation> células</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="800"/>
         <source>Could not prepare the segment editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível preparar o editor de segmentos.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="972"/>
         <source>Invalid surface polydata.</source>
-        <translation type="unfinished"></translation>
+        <translation>Polidados de superfície inválidos.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1054"/>
         <source>Processing started</source>
-        <translation type="unfinished">Processamento iniciado</translation>
+        <translation>Processamento iniciado</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1060"/>
