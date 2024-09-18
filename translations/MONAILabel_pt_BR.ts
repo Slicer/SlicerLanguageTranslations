@@ -378,7 +378,7 @@ Clique em &quot;Cancelar&quot; para não carregar nenhum dado e cancelar a segme
 Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
         <oldsource>Server Error:: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
-        <translation type="unfinished">Erro do servidor: Falha na criação da sessão
+        <translation>Erro do servidor: Falha na criação da sessão
 Atualize para a versão mais recente do MONAILabel (&gt; 0.2.0)</translation>
     </message>
     <message>
