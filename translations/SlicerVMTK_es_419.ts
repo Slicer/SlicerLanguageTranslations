@@ -1084,7 +1084,12 @@ Atención: los valores en las bifurcaciones pueden no tener significado clínico
     This module replaces the old &quot;Centerline Computation&quot; module. Documentation is available
     &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK&quot;&gt;here&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Calcule y cuantifique la red central de vasculatura o vías respiratorias a partir de un modelo de superficie.
+    El modelo de superficie puede crearse a partir de un volumen de imagen utilizando el módulo Segment Editor.
+    Este módulo sustituye al antiguo módulo «Cálculo de la línea central». Documentación disponible
+&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK&quot;&gt;here&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="223"/>
@@ -1554,7 +1559,7 @@ Atención: los valores en las bifurcaciones pueden no tener significado clínico
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="562"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="609"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="36"/>
