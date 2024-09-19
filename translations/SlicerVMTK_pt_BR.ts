@@ -2737,32 +2737,32 @@ Espera-se que a linha central de entrada esteja na superfície do lúmen.</trans
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="198"/>
         <source>Processing branch </source>
-        <translation type="unfinished"></translation>
+        <translation>Processando ramificação </translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="211"/>
         <source>Could not retrieve branch surface </source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível recuperar a superfície da ramificação </translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="267"/>
         <source>Could not get a valid collection of bifurcation profiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível obter uma coleção válida de perfis de bifurcação.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="276"/>
         <source>Could not get a valid subject hierarchy node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível obter um nó de hierarquia de assunto válido.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="286"/>
         <source>Bifurcation profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Perfis de bifurcação</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="312"/>
         <source>Finished</source>
-        <translation type="unfinished">Finalizado</translation>
+        <translation>Finalizado</translation>
     </message>
 </context>
 <context>
@@ -2770,12 +2770,12 @@ Espera-se que a linha central de entrada esteja na superfície do lúmen.</trans
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo Bar</translation>
     </message>
 </context>
 <context>
@@ -2783,148 +2783,152 @@ Espera-se que a linha central de entrada esteja na superfície do lúmen.</trans
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="22"/>
         <source>Wall surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Superfície da parede:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="29"/>
         <source>Select an input shape (tube) node, drawn to represent the vascular wall.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um nó de forma de entrada (tubo), desenhado para representar a parede vascular.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="37"/>
         <source>Tube</source>
-        <translation type="unfinished"></translation>
+        <translation>Tubo</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="59"/>
         <source>Select an input markups fiducial node.
 
 The first and second points are the boundaries between which the analysis will be performed. They should not be at the very ends of the wall surface for accurate results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um nó fiducial de marcações de entrada.
+
+O primeiro e o segundo pontos são os limites entre os quais a análise será realizada. Para obter resultados precisos, eles não devem estar nas extremidades da superfície da parede.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="69"/>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="94"/>
         <source>Boundary node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de limite:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="101"/>
         <source>Lumen surface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Superfície do lúmen:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="108"/>
         <source>Select a segment representing the vascular lumen.
 
 This should ideally exceed the wall surface a little, and must not be bifurcated for accurate results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um segmento que represente o lúmen vascular.
+
+O ideal é que ele ultrapasse um pouco a superfície da parede e não seja bifurcado para obter resultados precisos.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="308"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Execute o algoritmo.</translation>
+        <translation>Execute o algoritmo.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="311"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="131"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="139"/>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="222"/>
         <source>Wall:</source>
-        <translation type="unfinished">Parede:</translation>
+        <translation>Parede:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="153"/>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="253"/>
         <source>Lumen:</source>
-        <translation type="unfinished">Lúmen:</translation>
+        <translation>Lúmen:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="167"/>
         <source>Lesion:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesão:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="181"/>
         <source>Stenosis:</source>
-        <translation type="unfinished">Estenose:</translation>
+        <translation>Estenose:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="195"/>
         <source>Length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimento:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="211"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="229"/>
         <source>Show the wall between the boundary points as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostre a parede entre os pontos de limite como um modelo.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="237"/>
         <source>Wall</source>
-        <translation type="unfinished"></translation>
+        <translation>Parede</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="260"/>
         <source>Show the lumen between the boundary points as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostre o lúmen entre os pontos de limite como um modelo.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="268"/>
         <source>Lumen</source>
-        <translation type="unfinished"></translation>
+        <translation>Lúmen</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="114"/>
         <source>Insufficient input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada insuficiente.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="120"/>
         <source>Wrong shape node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de forma incorreto.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="126"/>
         <source>Inconsistent fiducial input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada fiducial inconsistente.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="131"/>
         <source>Two fiducial input points are mandatory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dois pontos de entrada fiduciais são obrigatórios.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="137"/>
         <source>Inconsistent segmentation input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada de segmentação inconsistente.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/qSlicerStenosisMeasurement3DModuleWidget.cxx" line="151"/>
         <source>Processing failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha no processamento.</translation>
     </message>
 </context>
 <context>
@@ -2932,12 +2936,12 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo Bar</translation>
     </message>
 </context>
 </TS>
