@@ -2732,7 +2732,7 @@ Espera-se que a linha central de entrada esteja na superfície do lúmen.</trans
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="190"/>
         <source>No branches could be retrieved; the centerline may be invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível recuperar nenhuma ramificação; a linha central pode ser inválida.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="198"/>
