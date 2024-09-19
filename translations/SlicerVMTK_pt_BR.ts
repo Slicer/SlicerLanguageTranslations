@@ -2716,18 +2716,18 @@ Espera-se que a linha central de entrada esteja na superfície do lúmen.</trans
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="152"/>
         <source>Unknown surface node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de superfície desconhecido</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="162"/>
         <source>Splitting, please wait...</source>
         <oldsource>Debranching, please wait...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Dividindo, aguarde...</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="170"/>
         <source>Could not create a valid surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível criar uma superfície válida.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="190"/>
