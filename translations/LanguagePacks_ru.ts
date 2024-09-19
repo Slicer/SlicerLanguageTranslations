@@ -116,7 +116,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="66"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Only used for GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Используется только для GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Используется только для GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="93"/>
         <source>Weblate download URL:</source>
-        <translation type="unfinished">URL-адрес для загрузки Weblate:</translation>
+        <translation>URL-адрес для загрузки Weblate:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="100"/>
@@ -188,9 +188,9 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished">
+        <translation>
 Этот модуль может создавать файлы переводов и устанавливать их локально. Это полезно для создания и тестирования переводов.
-Смотрите дополнительную информацию в документации расширения &lt;a href=&quot;https://github.com/Slicer/Slicer Языковые пакеты&quot;&gt;&lt;/a&gt;.
+Смотрите дополнительную информацию на &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;в документации расширения &lt;/a&gt;..
 </translation>
     </message>
     <message>
@@ -215,9 +215,9 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
         <oldsource>Click on the text to find it on the translation website:
 
 {links}</oldsource>
-        <translation type="unfinished">Нажмите на текст, чтобы найти его на веб-сайте перевода:
+        <translation>Нажмите на текст, чтобы найти его на веб-сайте перевода [{language}]:
 
-{ссылки}</translation>
+{links}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="174"/>
@@ -272,7 +272,7 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="609"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустить. Этот компонент/язык не обнаружен на Weblate.</translation>
     </message>
     <message>
         <source>Download failed. This component may not have been translated to the selected language.</source>
@@ -287,7 +287,7 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="636"/>
         <source>lrelease tool path is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь к инструменту lrelease не указан.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="674"/>
@@ -304,7 +304,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="682"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
-        <translation type="unfinished">Эта версия Slicer не поддерживает пользовательские шрифты для просмотра.</translation>
+        <translation>Эта версия Slicer не поддерживает пользовательские шрифты для просмотра.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="705"/>
@@ -317,7 +317,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="23"/>
         <source>Utilities</source>
-        <translation type="unfinished">Полезности</translation>
+        <translation>Утилита</translation>
     </message>
 </context>
 </TS>
