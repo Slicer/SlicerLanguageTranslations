@@ -2102,7 +2102,7 @@ Permite conversia la același tip ca și volumul de intrare.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
         <source>Input volume to be resampled</source>
-        <translation>Volumul de intrare penttru a fi reeșantionat</translation>
+        <translation>Volumul de intrare pentru a fi reeșantionat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
@@ -2117,12 +2117,12 @@ Permite conversia la același tip ca și volumul de intrare.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="13"/>
         <source>DICOM Directory</source>
-        <translation>Director DICOM</translation>
+        <translation>Registrul DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="14"/>
         <source>DICOM filename prefix</source>
-        <translation>Prefix fișier DICOM</translation>
+        <translation>Prefix nume de fișier DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="15"/>
@@ -2137,7 +2137,7 @@ Permite conversia la același tip ca și volumul de intrare.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
         <source>Use Compression</source>
-        <translation>Utilizare compresie</translation>
+        <translation>Utilizează compresia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"/>
@@ -2147,7 +2147,7 @@ Permite conversia la același tip ca și volumul de intrare.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
         <source>The directory to contain the DICOM series.</source>
-        <translation>Directorul ce conține seriile DICOM.</translation>
+        <translation>Registrul conține seriile DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
