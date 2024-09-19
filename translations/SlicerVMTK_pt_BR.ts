@@ -499,7 +499,7 @@ e Steve Pieper, da Isomics, Inc., e foi parcialmente financiado pela bolsa NIH 3
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1223"/>
         <source>Updating table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização da tabela:</translation>
     </message>
     <message>
         <source>Updating table :</source>
@@ -599,12 +599,12 @@ e Steve Pieper, da Isomics, Inc., e foi parcialmente financiado pela bolsa NIH 3
 - a centerline model created by &apos;Extract centerline&apos; module,
 - an arbitrary open markups curve,
 - an invisible centerline of a shape markups node used as a tube.</oldsource>
-        <translation type="unfinished">A fonte da linha de centro pode ser :
+        <translation>A fonte da linha central pode ser :
 
-- uma curva de linha de centro criada pelo módulo &apos;Extrair linha central&apos;,
-- um modelo de linha de centro criado pelo módulo &apos;Extrair linha central&apos;,
+- uma curva de linha central criada pelo módulo &apos;Extrair linha central&apos;,
+- um modelo de linha central criado pelo módulo &apos;Extrair linha central&apos;,
 - uma curva de marcação aberta arbitrária,
-- uma linha de centro invisível de um nó de marcações de forma usado como um tubo.</translation>
+- uma linha central invisível de um nó de marcações de forma, usado como um tubo.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="88"/>
@@ -1054,7 +1054,11 @@ Atenção: os valores nas bifurcações podem não ter significado clínico.</tr
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
 
 Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diâmetro circular equivalente (CE): o de um círculo com a área de superfície da seção transversal.
+
+A diferença absoluta e percentual com o diâmetro da esfera máxima inscrita (MIS) também é fornecida.
+
+Cuidado: os valores nas bifurcações podem não ter significado clínico.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1079"/>
@@ -1694,7 +1698,7 @@ e Steve Pieper, da Isomics, Inc., e foi parcialmente financiado pelo subsídio N
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="578"/>
         <source>Flood filling: {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation>Preenchimento por inundação: {duration} segundos - </translation>
     </message>
     <message>
         <source>Flood filling : {duration} seconds - </source>
@@ -1806,50 +1810,55 @@ em vez de um tubo de diâmetro fixo.</translation>
         <source>Limit the region of interest to this Shape::Tube node.
 
 If specified, the regular tube diameter above is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Limita a região de interesse a esse nó Forma::Tubo.
+
+Se especificado, o diâmetro regular do tubo acima será ignorado.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="298"/>
         <source>Flood filling parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de preenchimento de inundação</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="319"/>
         <source>Intensity tolerance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolerância à intensidade:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="326"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione vóxeis conectados com a faixa de intensidade entre a posição de um ponto de controle e +/- essa tolerância.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="351"/>
         <source>Neighbourhood size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da vizinhança:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="358"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>As regiões são adicionadas somente se todos os vóxeis na vizinhança tiverem intensidades semelhantes. Use valores mais altos para evitar vazamentos. Use valores mais baixos para permitir a captura de detalhes mais finos.
+</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="407"/>
         <source>Extract centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrair linhas centrais</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="420"/>
         <source>Create a segmentation and optionally a centerline model and a centerline curve.
 
 Output nodes from the last run will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crie uma segmentação e, opcionalmente, um modelo de linha central e uma curva de linha central.
+
+Os nós de saída da última execução serão removidos.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="428"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -1859,7 +1868,9 @@ Output nodes from the last run will be removed.</source>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; attempts to segment major veins using effects of the &apos;Segment editor&apos;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo&lt;/a&gt; tenta segmentar veias principais usando os efeitos do &apos;Editor de segmentação&apos;.
+</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="48"/>
@@ -1867,93 +1878,97 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este arquivo foi originalmente desenvolvido por Jean-Christophe Fillion-Robin, da Kitware Inc., Andras Lasso, do PerkLab,
+e Steve Pieper, da Isomics, Inc., e foi parcialmente financiado pelo subsídio NIH 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="195"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished">Falha ao computar os resultados.</translation>
+        <translation>Falha ao calcular os resultados.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="243"/>
         <source>Input curve or volume or segmentation is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>A curva, o volume ou a segmentação de entrada é inválida.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="251"/>
         <source>Extrusion kernel size or Gaussian standard deviation
                 or seed radius or shell margin or shell thickness is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do núcleo de extrusão ou desvio padrão gaussiano
+                ou raio da semente ou margem da casca ou espessura da casca é inválido.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="255"/>
         <source>Processing started</source>
-        <translation type="unfinished">Processamento iniciado</translation>
+        <translation>Processamento iniciado</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="279"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="370"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Processamento concluído em {duration} segundos</translation>
+        <translation>Processamento concluído em {duration} segundos</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="396"/>
         <source>Starting the test</source>
-        <translation type="unfinished">Início do teste</translation>
+        <translation>Início do teste</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="398"/>
         <source>Test passed</source>
-        <translation type="unfinished">Teste aprovado</translation>
+        <translation>Teste aprovado</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="19"/>
         <source>Open curve:</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva aberta:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="26"/>
         <source>Select an open markups curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione uma curva de marcações aberta.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="59"/>
         <source>Volume:</source>
-        <translation type="unfinished">Volume:</translation>
+        <translation>Volume:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="66"/>
         <source>Select a volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um volume.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="99"/>
         <source>Select a segmentation to contain the output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione uma segmentação para conter a saída.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="132"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentação:</translation>
+        <translation>Segmentação:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="154"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parâmetros</translation>
+        <translation>Parâmetros</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="165"/>
         <source>Shell margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Margem da concha:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="178"/>
         <source>Margin of a temporary shell around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Margem de um shell temporário ao redor da curva de entrada.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="181"/>
@@ -1962,73 +1977,74 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="303"/>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="341"/>
         <source> mm</source>
-        <translation type="unfinished"> mm</translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="209"/>
         <source>For the &apos;Smoothing::RemoveExtrusion&apos; effect of the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para o efeito “Suavização::RemoverExtrusão” do “Editor de segmentos”.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="234"/>
         <source>Gaussian standard
 deviation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Padrão gaussiano
+desvio:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="248"/>
         <source>For the &apos;Smoothing::Gaussian&apos; effect of the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para o efeito “Suavização::Gaussiano” do “Editor de segmentos”.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="273"/>
         <source>Extrusion kernel size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do núcleo de extrusão:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="282"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="300"/>
         <source>Dimension of the primary seed around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensão da semente primária em torno da curva de entrada.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="325"/>
         <source>Seed radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Raio da semente:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="338"/>
         <source>Thickness of a temporary shell around the input curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Espessura de uma concha temporária ao redor da curva de entrada.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="363"/>
         <source>Shell thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espessura da casca:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="370"/>
         <source>Subtract overlapping parts of other segments from the resulting vein segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtraia as partes sobrepostas de outros segmentos do segmento de veia resultante.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="386"/>
         <source>Remove overlaps:</source>
-        <translation type="unfinished"></translation>
+        <translation>Remova as sobreposições:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="402"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Execute o algoritmo.</translation>
+        <translation>Execute o algoritmo.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="405"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -2041,7 +2057,12 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 &lt;br&gt;&lt;br&gt;The &apos;Flood filling&apos; effect of the &apos;&lt;a href=&quot;https://github.com/lassoan/SlicerSegmentEditorExtraEffects&quot;&gt;Segment editor extra effects&lt;/a&gt;&apos; is used for segmentation.
 &lt;br&gt;&lt;br&gt;The &apos;&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ExtractCenterline/&quot;&gt;SlicerExtension-VMTK Extract centerline&lt;/a&gt;&apos; module is required.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo&lt;/a&gt; é destinado a criar uma segmentação a partir de uma angiotomografia contrastada e, finalmente, extrair as linhas centrais do modelo de superfície. 
+&lt;br&gt;&lt;br&gt;Ele pressupõe que a aquisição de dados do volume de entrada é quase perfeita e que os pontos fiduciários estão posicionados no lúmen contrastado. 
+&lt;br&gt;&lt;br&gt;O efeito &apos;Preenchimento por inundação&apos; dos &apos;&lt;a href=&quot;https://github.com/lassoan/SlicerSegmentEditorExtraEffects&quot;&gt;Efeitos extras do editor de segmentação&lt;/a&gt;&apos; é utilizado para a segmentação. 
+&lt;br&gt;&lt;br&gt;O módulo &apos;&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ExtractCenterline/&quot;&gt;SlicerExtension-VMTK Extrair linha central&lt;/a&gt;&apos; é necessário.
+</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="51"/>
@@ -2049,185 +2070,195 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este arquivo foi originalmente desenvolvido por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+e Steve Pieper, Isomics, Inc., e foi parcialmente financiado pelo subsídio 3P41RR013218-12S1 do NIH.
+</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="133"/>
         <source>Failed to install {nameOfExtension} extension</source>
-        <translation type="unfinished">Falha ao instalar a extensão {nameOfExtension}</translation>
+        <translation>Falha ao instalar a extensão {nameOfExtension}</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="147"/>
         <source>Fiducial node must have at least 2 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nó fiducial deve ter pelo menos 2 pontos.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="341"/>
         <source>No input fiducial node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum nó fiducial de entrada foi especificado.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="344"/>
         <source>No input slice node specified.</source>
-        <translation type="unfinished">Nenhum nó de fatia de entrada especificado.</translation>
+        <translation>Nenhum nó de fatia de entrada especificado.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="351"/>
         <source>No volume node selected in input slice node.</source>
-        <translation type="unfinished">Nenhum nó de volume selecionado no nó de fatia de entrada.</translation>
+        <translation>Nenhum nó de volume selecionado no nó de fatia de entrada.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="355"/>
         <source>No input ROI node specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não se especificou nenhum nó de ROI de entrada.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="369"/>
         <source>Failed to compute results: </source>
-        <translation type="unfinished">Falha ao calcular os resultados: </translation>
+        <translation>Falha ao calcular os resultados: </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="435"/>
         <source>Processing started</source>
-        <translation type="unfinished">Processamento iniciado</translation>
+        <translation>Processamento iniciado</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="437"/>
         <source>Segment editor setup</source>
-        <translation type="unfinished">Configuração do editor de segmentos</translation>
+        <translation>Configuração do editor de segmentos</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="508"/>
         <source>Flood filling: {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation>Preenchimento por inundação: {duration} segundos -- </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="530"/>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="587"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Processamento concluído em {duration} segundos</translation>
+        <translation>Processamento concluído em {duration} segundos</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="536"/>
         <source>Extract centerline setup</source>
-        <translation type="unfinished">Configuração da linha central de extração</translation>
+        <translation>Configuração da linha central de extração</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="20"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entradas</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="26"/>
         <source>Pick an input markups fiducial node.
 
 The fiducial points are assumed to be on the contrasted lumen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha um nó fiducial de marcações de entrada.
+
+Presume-se que os pontos fiduciais estejam no lúmen contrastado.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="66"/>
         <source>Pick an optional ROI node. This may speed up segmentation and centerline extraction. The ROI will be forcibly hidden after completion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha um nó ROI opcional. Isso pode acelerar a segmentação e a extração da linha central. A ROI será forçosamente ocultada após a conclusão.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="93"/>
         <source>Set the bounds of the ROI accounting for that of the fiducial node. It must  further be manually adjusted to enclose the target region of interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Defina os limites da ROI considerando o nó fiducial. Ela também deve ser ajustada manualmente para incluir a região de interesse alvo.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="99"/>
         <source>Pre-fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-ajuste</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="111"/>
         <source>ROI node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de ROI:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="121"/>
         <source>Fiducial node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó fiducial:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="128"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentação:</translation>
+        <translation>Segmentação:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="135"/>
         <source>Select an output segmentation</source>
-        <translation type="unfinished">Selecione uma segmentação de saída</translation>
+        <translation>Selecione uma segmentação de saída</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="167"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
-        <translation type="unfinished">Escolha uma visualização de fatia. O nó de volume de fundo será usado. Tenha cuidado para usar o nó de volume correto.</translation>
+        <translation>Escolha uma visualização de fatia. O nó de volume de fundo será usado. Tenha cuidado para usar o nó de volume correto.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="197"/>
         <source>Restore slice views with the referenced volume node</source>
-        <translation type="unfinished">Restaurar visualizações de fatias com o nó de volume referenciado</translation>
+        <translation>Restaurar visualizações de fatias com o nó de volume referenciado</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="200"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="209"/>
         <source>Slice node:</source>
-        <translation type="unfinished">Nó de fatia:</translation>
+        <translation>Nó de fatia:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="225"/>
         <source>Flood filling parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de preenchimento de inundação</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="249"/>
         <source>Intensity tolerance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolerância à intensidade:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="256"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione vóxeis conectados com a faixa de intensidade entre a posição de um ponto de controle e +/- essa tolerância.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="281"/>
         <source>Neighbourhood size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da vizinhança:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="288"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>As regiões são adicionadas somente se todos os vóxeis na vizinhança tiverem intensidades semelhantes. Use valores mais altos para evitar vazamentos. Use valores mais baixos para permitir a captura de detalhes mais finos.
+</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="334"/>
         <source>Use &apos;Extract centerline&apos; module to generate a centerline model and a centerline curve.
 
 It is recommended to generate centerlines on accurate segmentations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Use o módulo “Extrair linha central” para gerar um modelo de linha central e uma curva de linha central.
+
+Recomenda-se gerar linhas centrais em segmentações precisas.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="342"/>
         <source>Extract centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrair linhas centrais</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="361"/>
         <source>Create a segmentation and optionally a centerline model and a centerline curve.
 
 Output nodes from the last run will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crie uma segmentação e, opcionalmente, um modelo de linha central e uma curva de linha central.
+
+Os nós de saída da última execução serão removidos.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="366"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -2237,7 +2268,9 @@ Output nodes from the last run will be removed.</source>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; straightens an open input markups curve and displays cumulative and individual lengths between control points. It is intended for quick one dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo&lt;/a&gt; endireita uma curva de marcação de entrada aberta e exibe comprimentos cumulativos e individuais entre os pontos de controle. Destina-se à avaliação rápida de estenose arterial unidimensional, mas, na verdade, é independente da finalidade.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="48"/>
@@ -2245,63 +2278,66 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este arquivo foi originalmente desenvolvido por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+e Steve Pieper, Isomics, Inc., e foi parcialmente financiado pelo subsídio 3P41RR013218-12S1 do NIH.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
         <source>Cumulative</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumulativo</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
         <source>Cumulative %</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumulativo %</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
         <source>Partial</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcial</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
         <source>Partial %</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcial %</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="276"/>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="290"/>
         <source>No curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem curva.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="383"/>
         <source>Starting the test</source>
-        <translation type="unfinished">Início do teste</translation>
+        <translation>Início do teste</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="385"/>
         <source>Test passed</source>
-        <translation type="unfinished">Teste aprovado</translation>
+        <translation>Teste aprovado</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entradas</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="23"/>
         <source>Input curve:</source>
-        <translation type="unfinished">Curva de entrada:</translation>
+        <translation>Curva de entrada:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="30"/>
         <source>Pick the input markups curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha a curva de marcações de entrada.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="66"/>
         <source>Result table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela de resultados.</translation>
     </message>
 </context>
 <context>
@@ -2311,7 +2347,9 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; calculates the surface area of segments cut by a slice plane in its orientation. It is intended for quick two dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;módulo&lt;/a&gt; calcula a área de superfície dos segmentos cortados por um plano de corte em sua orientação. Destina-se à avaliação rápida da estenose arterial bidimensional, mas, na verdade, não tem finalidade específica.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="47"/>
@@ -2319,32 +2357,35 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este arquivo foi originalmente desenvolvido por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+e Steve Pieper, Isomics, Inc., e foi parcialmente financiado pelo subsídio 3P41RR013218-12S1 do NIH.
+</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="118"/>
         <source>More options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais opções</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="120"/>
         <source>Apply to all segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar a todos os segmentos</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="122"/>
         <source>If unchecked, only the selected segment will be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se desmarcar, somente o segmento selecionado será processado.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="126"/>
         <source>Calculate the surface area of the closest island to the ficucial control point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcule a área de superfície da ilha mais próxima do ponto de controle fictício.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="129"/>
         <source>Create an output model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crie um modelo de saída.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="132"/>
@@ -2362,202 +2403,212 @@ The result is influenced by :
  - holes in the segments
  - point placement, if &apos;Closest island&apos; option is selected,
  - smoothing level in the &apos;Segment editor&apos;.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Crie um modelo para cada segmento cortado.
+Isso permite visualizar o modelo a partir do qual a área de superfície é calculada.
+
+O resultado é influenciado por:
+ - buracos nos segmentos
+ - posicionamento dos pontos, se a opção “Ilha mais próxima&quot; estiver selecionada,
+ - nível de suavização no “Editor de segmentos”.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="133"/>
         <source>Reset control point orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Redefinir a orientação do ponto de controle</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="135"/>
         <source>Click on a control point to reset its recorded slice orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique em um ponto de controle para redefinir a orientação do corte registrado.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="137"/>
         <source>Restore orientation of all slice views</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar a orientação de todas as visualizações de fatias</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="138"/>
         <source>... to their default orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>... à sua orientação padrão.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponto de controle</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Surface area</source>
-        <translation type="unfinished">Área de superfície</translation>
+        <translation>Área de superfície</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Model visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidade do modelo</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Segment visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidade do segmento</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="176"/>
         <source>Remove row</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover fila</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="181"/>
         <source>Empty table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela vazia</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="187"/>
         <source>Dismiss menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispensar menu</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="236"/>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="566"/>
         <source>Input segmentation is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>A segmentação de entrada é inválida</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="320"/>
         <source>Select a slice node</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um nó de fatia</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="323"/>
         <source>Select a fiducial node</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um nó fiducial</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="326"/>
         <source>Select a segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um nó de segmentação</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="329"/>
         <source>Click on a fiducial control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique em um ponto de controle fiducial</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="331"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished">Falha ao computar os resultados.</translation>
+        <translation>Falha ao calcular os resultados.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="476"/>
         <source>Fiducial node is no longer observed</source>
-        <translation type="unfinished"></translation>
+        <translation>Não se observa mais o nó fiducial</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="482"/>
         <source>Fiducial node is being observed</source>
-        <translation type="unfinished"></translation>
+        <translation>O nó fiducial está em observação</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="495"/>
         <source>Slice node not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de fatia não definido</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="512"/>
         <source>Slice orientation recorded</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientação da fatia registrada</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="522"/>
         <source>Slice orientation restored</source>
-        <translation type="unfinished"></translation>
+        <translation>Restauração da orientação das fatias</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="529"/>
         <source>Reset orientation at point</source>
-        <translation type="unfinished"></translation>
+        <translation>Redefinir a orientação no ponto</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="568"/>
         <source>Input segment ID is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>A ID do segmento de entrada é inválida</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="572"/>
         <source>Processing started</source>
-        <translation type="unfinished">Processamento iniciado</translation>
+        <translation>Processamento iniciado</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="624"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Processamento concluído em {duration} segundos</translation>
+        <translation>Processamento concluído em {duration} segundos</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="676"/>
         <source>Starting the test</source>
-        <translation type="unfinished">Início do teste</translation>
+        <translation>Início do teste</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="678"/>
         <source>Test passed</source>
-        <translation type="unfinished">Teste aprovado</translation>
+        <translation>Teste aprovado</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entradas</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="36"/>
         <source>Slice node:</source>
-        <translation type="unfinished">Nó de fatia:</translation>
+        <translation>Nó de fatia:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
         <source>Select an input slice view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione uma visualização de corte de entrada.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="70"/>
         <source>Fiducial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiducial:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="77"/>
         <source>Select an input markups fiducial list.
 
 Clicking at a control point allows to track the slice orientation in the selected slice node, on top of the usual jump behaviour. This tracking is scene-wide only, it is not saved with the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione uma lista fiducial de marcações de entrada.
+
+Clicar em um ponto de controle permite rastrear a orientação da fatia no nó de fatia selecionado, além do comportamento de salto usual. Esse rastreamento é apenas em toda a cena, não é salvo com a cena.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="112"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentação:</translation>
+        <translation>Segmentação:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="119"/>
         <source>Select an input segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione uma segmentação de entrada.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="142"/>
         <source>Result table.
 
 Right click for more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela de resultados.
+
+Clique com o botão direito do mouse para ver mais.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="167"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -2565,7 +2616,7 @@ Right click for more.</source>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="34"/>
         <source>Vascular Modeling Toolkit</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit de ferramentas de modelagem vascular</translation>
     </message>
 </context>
 <context>
@@ -2573,93 +2624,94 @@ Right click for more.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parâmetros</translation>
+        <translation>Parâmetros</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="29"/>
         <source>Centerline model:</source>
-        <translation type="unfinished">Modelo de linha de centro:</translation>
+        <translation>Modelo de linha central:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="36"/>
         <source>Pick the input centerline model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha o modelo de linha central de entrada.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="69"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentação:</translation>
+        <translation>Segmentação:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="78"/>
         <source>Input segmentation.
 The input centerline is expected to be inside the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação de entrada.
+Espera-se que a linha central de entrada esteja na superfície do lúmen.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="109"/>
         <source>Select an input segment in the selected segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um segmento de entrada na segmentação selecionada.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
         <source>Create a segment for each branch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crie um segmento para cada filial.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="157"/>
         <source>Create branch segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar segmentos de filiais</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="173"/>
         <source>Create a model of each bifurcation splitting line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crie um modelo de cada linha de divisão de bifurcação.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="176"/>
         <source>Create bifurcation profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar perfis de bifurcação</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="191"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Execute o algoritmo.</translation>
+        <translation>Execute o algoritmo.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="194"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="92"/>
         <source>No centerline selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma linha central selecionada.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="101"/>
         <source>No segmentation selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma segmentação selecionada.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="107"/>
         <source>No output selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma saída selecionada.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="121"/>
         <source>Segmentation is NULL in MRML node, aborting</source>
-        <translation type="unfinished"></translation>
+        <translation>A segmentação é NULL no nó MRML, abortando</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="132"/>
         <source>No segment selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum segmento selecionado.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="143"/>
         <source>Could not create closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível criar uma representação de superfície fechada.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="152"/>
