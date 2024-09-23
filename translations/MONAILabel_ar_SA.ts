@@ -651,19 +651,19 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="615"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="38"/>
         <source>Reviewer&apos;s mode</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع المُراجِع</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="618"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="53"/>
         <source>Search Images</source>
-        <translation type="unfinished"></translation>
+        <translation>البحث عن الصور</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="619"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="80"/>
         <source>Image Ids</source>
-        <translation type="unfinished"></translation>
+        <translation>معرّفات الصور</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="622"/>
@@ -679,25 +679,25 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="161"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="232"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="626"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="74"/>
         <source>Ids</source>
-        <translation type="unfinished"></translation>
+        <translation>معرّفات</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="627"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="111"/>
         <source>Select annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر المُعلِّم</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="628"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="121"/>
         <source>Select reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر المُراجِع</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="629"/>
@@ -705,7 +705,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="131"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="820"/>
         <source>approved</source>
-        <translation type="unfinished"></translation>
+        <translation>مُعتمد</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="630"/>
@@ -713,61 +713,61 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="138"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="802"/>
         <source>flagged</source>
-        <translation type="unfinished"></translation>
+        <translation>مُعلَّم</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="634"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="105"/>
         <source>Annotator/Reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>المُعلِّم/المُراجِع</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="636"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="175"/>
         <source>Select level of difficulty</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر مستوى الصعوبة</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="637"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="195"/>
         <source>easy</source>
-        <translation type="unfinished"></translation>
+        <translation>سهل</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="638"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="202"/>
         <source>medium</source>
-        <translation type="unfinished"></translation>
+        <translation>متوسط</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="639"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="209"/>
         <source>hard</source>
-        <translation type="unfinished"></translation>
+        <translation>صعب</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="643"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="169"/>
         <source>Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>جودة</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="644"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="247"/>
         <source>Result:</source>
-        <translation type="unfinished"></translation>
+        <translation>النتيجة:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="646"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="258"/>
         <source>Image Id</source>
-        <translation type="unfinished"></translation>
+        <translation>معرّف الصورة</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="648"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="271"/>
         <source>found</source>
-        <translation type="unfinished"></translation>
+        <translation>تم العثور عليه</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="650"/>
@@ -775,13 +775,13 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="284"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="813"/>
         <source>segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>مُجزَّأ</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="651"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="295"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="652"/>
