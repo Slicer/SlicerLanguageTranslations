@@ -317,7 +317,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="23"/>
         <source>Utilities</source>
-        <translation>الأدوات المساعدة</translation>
+        <translation>الأدوات</translation>
     </message>
 </context>
 </TS>
