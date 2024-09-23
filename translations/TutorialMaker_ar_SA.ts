@@ -198,24 +198,26 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="84"/>
         <source>Run and Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل وتعليم</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="94"/>
         <source>Test Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>اختبار الترجمة</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="30"/>
         <source>Tutorial Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>صانع الدروس التعليمية</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="45"/>
         <source>
         Development of this module was funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-localization-and-outreach/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
         </source>
-        <translation type="unfinished"></translation>
+        <translation>
+        تم تمويل تطوير هذه الوحدة من قبل &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-localization-and-outreach/&quot;&gt;منحة CZI EOSS&lt;/a&gt;.
+        </translation>
     </message>
 </context>
 <context>
@@ -225,7 +227,7 @@
         <location filename="TutorialMaker/Lib/painter.py" line="61"/>
         <location filename="TutorialMaker/Lib/painter.py" line="144"/>
         <source>Error: Load an image first.</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ: حمل صورة أولاً.</translation>
     </message>
 </context>
 <context>
@@ -233,7 +235,7 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>الأدوات</translation>
     </message>
 </context>
 </TS>
