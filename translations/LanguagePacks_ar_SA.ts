@@ -215,7 +215,7 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
         <oldsource>Click on the text to find it on the translation website:
 
 {links}</oldsource>
-        <translation type="unfinished">انقر فوق النص للعثور عليه على موقع الترجمة:
+        <translation>انقر فوق النص للعثور عليه على موقع الترجمة [{language}]:
 
 {links}</translation>
     </message>
