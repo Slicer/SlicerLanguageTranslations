@@ -519,7 +519,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1223"/>
         <source>Updating table:</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث الجدول:</translation>
     </message>
     <message>
         <source>Updating table :</source>
@@ -552,7 +552,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1518"/>
         <source>Lumen surface node is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">عقدة سطح Lumen غير مُعدة.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1563"/>
@@ -619,12 +619,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 - a centerline model created by &apos;Extract centerline&apos; module,
 - an arbitrary open markups curve,
 - an invisible centerline of a shape markups node used as a tube.</oldsource>
-        <translation type="unfinished">قد يكون مصدر الخط المركزي:
+        <translation>قد يكون مصدر خط المركز:
 
-- منحنى خط الوسط الذي تم إنشاؤه بواسطة وحدة «خط الوسط المستخرج»،
-- نموذج محوري تم إنشاؤه بواسطة وحدة «خط الوسط المستخرج»،
-- منحنى التسويق المفتوح التعسفي،
-- خط مركزي غير مرئي لشكل يرمز العقدة المستخدمة كأنبوب.</translation>
+- منحنى خط المركز الذي تم إنشاؤه بواسطة وحدة &quot;استخراج خط المركز&quot;.
+- نموذج خط المركز الذي تم إنشاؤه بواسطة وحدة &quot;استخراج خط المركز&quot;.
+- منحنى علامات مفتوح عشوائي.
+- خط مركز غير مرئي لعنصر علامات الشكل المستخدم كأنبوب.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="88"/>
@@ -699,7 +699,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="299"/>
         <source>Tab 1</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة التبويب 1</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="307"/>
@@ -715,22 +715,22 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="316"/>
         <source>Get:</source>
-        <translation type="unfinished"></translation>
+        <translation>احصل على:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="331"/>
         <source>Cycle through the identified distinct regions.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بالتبديل بين المناطق المميزة المحددة.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="353"/>
         <source>Indicates the size of the selected region. Low values suggest a parasite region.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشير إلى حجم المنطقة المحددة. القيم المنخفضة تشير إلى منطقة طفيلي.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="363"/>
         <source>If toggled, the selected region is centred in all slice views, except in the ideal case where there is one single region.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم التبديل، ستتمركز المنطقة المحددة في جميع طرق العرض المقطعية، باستثناء الحالة المثالية حيث توجد منطقة واحدة فقط.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="376"/>
@@ -749,12 +749,12 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="398"/>
         <source>Specify how to output point coordinates of the centerline.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد كيفية إخراج إحداثيات النقاط لخط المركز.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
         <source>Tab 2</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة التبويب 2</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="481"/>
@@ -1946,7 +1946,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="279"/>
         <source>Segment</source>
-        <translation type="unfinished">شريحة</translation>
+        <translation>جزء</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="370"/>
