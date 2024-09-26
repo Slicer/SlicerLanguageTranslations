@@ -186,7 +186,7 @@
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="492"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="552"/>
         <source>SOP UID</source>
-        <translation type="unfinished">SOP UID</translation>
+        <translation>SOP UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="496"/>
@@ -2643,7 +2643,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="255"/>
         <source>Calling AETitle</source>
-        <translation type="unfinished">Llamando a AETitle</translation>
+        <translation>Llamando a AETitle</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="260"/>
@@ -2673,7 +2673,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="285"/>
         <source>Retrieve Proxy</source>
-        <translation type="unfinished">Recuperar proxy</translation>
+        <translation>Recuperar proxy</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="307"/>
