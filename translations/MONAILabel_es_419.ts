@@ -408,7 +408,7 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1512"/>
         <source>Label-Mask saved into MONAI Label Server</source>
-        <translation type="unfinished">&quot;Máscara de etiqueta&quot; guardada en el servidor de etiquetas MONAI</translation>
+        <translation>Label-Mask guardada en el servidor de etiquetas MONAI</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1557"/>
@@ -420,17 +420,17 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1574"/>
         <source>Please select a deepgrow model</source>
-        <translation type="unfinished">Seleccione un modelo de cultivo profundo</translation>
+        <translation type="unfinished">Seleccione un modelo de crecimiento profundo</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1579"/>
         <source>Please add the required label to run deepgrow</source>
-        <translation type="unfinished">Añada la etiqueta necesaria para ejecutar el cultivo profundo</translation>
+        <translation>Añada la etiqueta necesaria para ejecutar el crecimiento profundo</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1596"/>
         <source>Run Deepgrow for segment: {label}; model: {model}; 3d {in3d}</source>
-        <translation type="unfinished">Ejecutar el &quot;Cultivo profundo&quot; para el segmento: {etiqueta}; modelo: {modelo}; 3d {en3d}</translation>
+        <translation>Ejecutar el Crecimiento profundo para el segmento: {etiqueta}; modelo: {modelo}; 3d {en3d}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1597"/>
@@ -517,7 +517,7 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="238"/>
         <source>Average Dice score computed over submitted labels</source>
-        <translation type="unfinished">Puntuación media de Dados calculada sobre las etiquetas enviadas</translation>
+        <translation>Puntuación media de Dice calculada sobre las etiquetas enviadas</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="248"/>
@@ -575,7 +575,7 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="389"/>
         <source>SmartEdit / Deepgrow</source>
-        <translation type="unfinished">Edición inteligente / Cultivo profundo</translation>
+        <translation>Edición inteligente / Crecimiento profundo</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="425"/>
@@ -712,7 +712,7 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="627"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="111"/>
         <source>Select annotator</source>
-        <translation type="unfinished">Seleccionar un anotador</translation>
+        <translation>Seleccionar un anotador</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="628"/>
