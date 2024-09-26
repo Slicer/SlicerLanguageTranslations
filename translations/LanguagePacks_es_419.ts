@@ -215,7 +215,7 @@ El desarrollo de este módulo ha sido parcialmente financiado por&lt;a href=&quo
         <oldsource>Click on the text to find it on the translation website:
 
 {links}</oldsource>
-        <translation type="unfinished">Haga clic en el texto para encontrarlo en el sitio web de traducción:
+        <translation>Haga clic en el texto para encontrarlo en el sitio web de traducció [{language}]:n:
 
 {links}</translation>
     </message>
