@@ -285,7 +285,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="563"/>
         <source>Processing group ids completed in {duration} seconds</source>
-        <translation type="unfinished">Procesamiento de ids de grupo completado en {duración} segundos</translation>
+        <translation>Procesamiento de ids de grupo completado en {duration} segundos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="579"/>
@@ -453,7 +453,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="757"/>
         <source>Collection of lumen regions is unexpectedly None.</source>
-        <translation type="unfinished">La recolección de las regiones del lumen es inesperada Ninguna.</translation>
+        <translation>La recolección de las regiones del lumen ha sido ninguna.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="762"/>
@@ -609,7 +609,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="88"/>
         <source>Input lumen surface:</source>
-        <translation type="unfinished">Superficie de entrada de lumen:</translation>
+        <translation>Superficie de entrada del lumen:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="97"/>
@@ -626,7 +626,7 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="144"/>
         <source>Output table:</source>
-        <translation type="unfinished">Tabla de salida:</translation>
+        <translation>Tabla de salida:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="153"/>
@@ -701,7 +701,7 @@ Tras una reparación completa de la superficie del lumen, deben extraerse de nue
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="316"/>
         <source>Get:</source>
-        <translation type="unfinished">Tomar:</translation>
+        <translation>Obtener:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="331"/>
@@ -779,7 +779,7 @@ Se aplica el pincel «Esfera». En el «Editor de segmentos» se pueden realizar
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="424"/>
         <source>RAS (Slicer convention)</source>
-        <translation type="unfinished">RAS (convención de Slicer)</translation>
+        <translation>RAS (convención de Slicer)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="434"/>
@@ -789,7 +789,7 @@ Se aplica el pincel «Esfera». En el «Editor de segmentos» se pueden realizar
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="437"/>
         <source>LPS (DICOM convention)</source>
-        <translation type="unfinished">LPS (convención DICOM)</translation>
+        <translation>LPS (convención DICOM)</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="500"/>
@@ -854,7 +854,7 @@ Se aplica el pincel «Esfera». En el «Editor de segmentos» se pueden realizar
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="738"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="773"/>
         <source> deg</source>
-        <translation type="unfinished"> deg</translation>
+        <translation> deg</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="615"/>
@@ -954,7 +954,7 @@ Se refiere al reformateo ortogonal en la navegación del eje.</translation>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="881"/>
         <source>RAS coordinate of selected point</source>
-        <translation type="unfinished">Coordenada RAS del punto seleccionado</translation>
+        <translation>Coordenada RAS del punto seleccionado</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="912"/>
@@ -1064,12 +1064,12 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1096"/>
         <source>Surface area</source>
-        <translation type="unfinished">Superficie</translation>
+        <translation>Área de superficie</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1116"/>
         <source>Lumen:</source>
-        <translation type="unfinished">Lumen:</translation>
+        <translation>Lumen:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1132"/>
@@ -1394,7 +1394,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="307"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="307"/>
         <source>Centerline model:</source>
-        <translation type="unfinished">Modelo del eje central:</translation>
+        <translation>Modelo de eje central:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="314"/>
@@ -1568,7 +1568,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="698"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="698"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="36"/>
@@ -1577,7 +1577,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="562"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="609"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished">vtkMRMLModelNode</translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="36"/>
@@ -1626,7 +1626,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc, Andras Lasso, PerkLab,
 y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3P41RR013218-12S1 de los NIH.
 </translation>
@@ -1644,7 +1644,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="169"/>
         <source>Shape node is not a Tube.</source>
-        <translation type="unfinished">El nodo Shape no es un Tubo.</translation>
+        <translation>La forma del nodo no es un Tubo.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="176"/>
@@ -1669,7 +1669,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="359"/>
         <source>No volume node selected in input slice node.</source>
-        <translation type="unfinished">No se ha seleccionado ningún nodo de volumen en el nodo de corte de entrada.</translation>
+        <translation>No se ha seleccionado ningún nodo de volumen en el nodo de corte de entrada.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="373"/>
@@ -1709,7 +1709,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="717"/>
         <source>Starting the test</source>
-        <translation type="unfinished">Inicio de la prueba</translation>
+        <translation>Inicio de la prueba</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="719"/>
@@ -1752,7 +1752,7 @@ Si a continuación se especifica un nodo Forma::Tubo, este parámetro se ignora.
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="114"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentación:</translation>
+        <translation>Segmentación:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="121"/>
@@ -1848,7 +1848,7 @@ Se eliminarán los nodos de salida de la última ejecución.</translation>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="428"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
