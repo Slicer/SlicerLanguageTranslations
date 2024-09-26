@@ -13,7 +13,7 @@
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="39"/>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="52"/>
         <source>PushButton</source>
-        <translation>ícono</translation>
+        <translation>Push Button</translation>
     </message>
 </context>
 <context>
