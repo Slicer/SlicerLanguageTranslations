@@ -520,651 +520,655 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
         <source>Perform a rigid registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изврши ригидну регистрацију као део секвенцијалних корака регистрације. Ова породица опција надјачава употребу transformType ако је било која од њих подешена.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изврши ScaleVersor3D регистрацију као део секвенцијалних корака регистрације. Ова породица опција надјачава употребу transformType ако је било која од њих подешена.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
         <source>Perform a ScaleSkewVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изврши ScaleSkewVersor3D регистрацију као део секвенцијалних корака регистрације. Ова породица опција надјачава употребу transformType ако је било која од њих подешена.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="47"/>
         <source>Perform an Affine registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изврши афинску регистрацију као део секвенцијалних корака регистрације. Ова породица опција надјачава употребу transformType ако је било која од њих подешена.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
         <source>Perform a BSpline registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изврши BSpline регистрацију као део секвенцијалних корака регистрације. Ова породица опција надјачава употребу transformType ако је било која од њих подешена.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
         <source>Perform a SyN registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изврши SyN регистрацију као део секвенцијалних корака регистрације. Ова породица опција надјачава употребу transformType ако је било која од њих подешена.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
         <source>Perform a Composite registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изврши композитну регистрацију као део секвенцијалних корака регистрације. Ова породица опција надјачава употребу transformType ако је било која од њих подешена.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
         <source>Image Mask and Pre-Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Маска слике и претпроцесирање</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
         <source>Masking Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Опција маскирања</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
         <source>(ROI) Masking input fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROI) Маскирање улазне фиксне слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="54"/>
         <source>(ROI) Masking input moving</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROI) Маскирање улазне покретне слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="55"/>
         <source>(ROIAUTO) Output fixed mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROIAUTO) Излазна фиксна маска</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="56"/>
         <source>(ROIAUTO) Output moving mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROIAUTO) Излазна покретна маска</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
         <source>Define BSpline grid over the ROI bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>Дефиниши BSpline мрежу преко оквира ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
         <source>Histogram Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Упаривање хистограма</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
         <source>Median Filter Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Величина медијан филтера</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
         <source>Remove Intensity Outliers value at one tail</source>
-        <translation type="unfinished"></translation>
+        <translation>Уклони вредности интензитета које одступају на једном крају</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Специфицира маску да би се разматрао само одређени регион слике за регистрацију. Ако је изабран ROIAUTO, онда се маска рачуна коришћењем Otsu прага и попуњавања рупа. Ако је изабран ROI, онда маска мора бити специфицирана као улаз.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Бинарни волумен маске фиксне слике, потребан ако је опција маскирања ROI. Подручја слике где волумен маске има нулту вредност се игноришу током регистрације.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Бинарни волумен маске покретне слике, потребан ако је опција маскирања ROI. Подручја слике где волумен маске има нулту вредност се игноришу током регистрације.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI који се аутоматски рачуна из фиксне слике. Доступно само ако је опција маскирања ROIAUTO. Подручја слике где волумен маске има нулту вредност се игноришу током регистрације.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI који се аутоматски рачуна из покретне слике. Доступно само ако је опција маскирања ROIAUTO. Подручја слике где волумен маске има нулту вредност се игноришу током регистрације.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
         <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако је омогућено, онда оквир улазних ROI дефинише подржани регион BSpline мреже. У супротном, подржани регион BSpline мреже је цела фиксна слика.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
         <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Примени операцију упаривања хистограма за улазне слике да би их учинио сличнијим. Ово је погодно за слике исте модалности које могу имати различиту осветљеност или контраст, али исти укупни профил интензитета. НЕ користити ако се региструју слике различитих модалитета.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
         <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Примени медијан филтрирање да би се смањила бука у улазним волуменима. Три вредности специфицирају радијус за опционално претпроцесирање MedianImageFilter у сва три правца (у вокселима).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Уклони веома високе и веома ниске интензитетне вокселе из улазних волумена. Параметар специфицира половину процента за одређивање одступања интензитета слике. Подразумевана вредност је нула, што значи да нема уклањања одступања. Ако је дата вредност 0.005, 0.005% оба краја ће бити одбачено, тако да ће укупно 0.01% интензитета бити игнорисано у статистичком израчунавању.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="71"/>
         <source>NOMASK</source>
-        <translation type="unfinished"></translation>
+        <translation>NOMASK</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
         <source>ROIAUTO</source>
-        <translation type="unfinished"></translation>
+        <translation>ROIAUTO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
         <source>Advanced Output Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Напредна подешавања излаза</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
         <source>Fixed Image Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Волумен фиксне слике 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
         <source>Moving Image Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Волумен покретне слике 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип пиксела излазне слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
         <source>Background Fill Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Вредност попуњавања позадине</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="79"/>
         <source>Scale Output Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Скалирај излазне вредности</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим интерполације</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
         <source>Input fixed image that will be used for multimodal registration. (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна фиксна слика која ће се користити за мултимодалну регистрацију. (покретна слика ће бити трансформисана у овај простор слике).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="82"/>
         <source>Input moving image that will be used for multimodal registration(this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна покретна слика која ће се користити за мултимодалну регистрацију (ова слика ће бити трансформисана у простор фиксне слике).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
         <source>Data type for representing a voxel of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип података за представљање воксела излазног волумена.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
         <source>This value will be used for filling those areas of the output image that have no corresponding voxels in the input moving image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ова вредност ће се користити за попуњавање оних подручја излазне слике која немају одговарајуће вокселе у улазној покретној слици.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
         <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако је тачно, и вредности воксела не одговарају минималним и максималним вредностима жељеног outputVolumePixelType, онда линеарно скалирај минималне/максималне вредности воксела излазне слике да би се уклопиле у минимални/максимални опсег outputVolumePixelType.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип интерполације који ће се користити при примени трансформације на покретни волумен. Опције су Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, или ResampleInPlace. Опција ResampleInPlace ће креирати слику са истим дискретним вредностима воксела и прилагодиће порекло и смер интерпретације физичког простора.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>NearestNeighbor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished"></translation>
+        <translation>ResampleInPlace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="98"/>
         <source>BSpline</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="99"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosine</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"/>
         <source>Welch</source>
-        <translation type="unfinished"></translation>
+        <translation>Welch</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="103"/>
         <source>Lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanczos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"/>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
         <source>Advanced Optimization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Напредна подешавања оптимизације</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="106"/>
         <source>Max Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Максималан број итерација</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="107"/>
         <source>Maximum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимална дужина корака</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="108"/>
         <source>Minimum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимална дужина корака</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="109"/>
         <source>Relaxation Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Фактор релаксације</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="110"/>
         <source>Transform Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Скала трансформације</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="111"/>
         <source>Reproportion Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Скала пропорције</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="112"/>
         <source>Skew Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Скала искошења</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="113"/>
         <source>Maximum B-Spline Displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимално померање B-Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="114"/>
         <source>The maximum number of iterations to try before stopping the optimization. When using a lower value (500-1000) then the registration is forced to terminate earlier but there is a higher risk of stopping before an optimal solution is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максималан број итерација пре заустављања оптимизације. Када се користи нижа вредност (500-1000), регистрација је приморана да се раније заврши, али постоји већи ризик да се заустави пре него што се постигне оптимално решење.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="115"/>
         <source>Starting step length of the optimizer. In general, higher values allow for recovering larger initial misalignments but there is an increased chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Почетна дужина корака оптимизатора. Уопштено, веће вредности омогућавају опоравак већих почетних неусклађености, али постоји повећана шанса да регистрација неће конвергирати.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="116"/>
         <source>Each step in the optimization takes steps at least this big.  When none are possible, registration is complete. Smaller values allows the optimizer to make smaller adjustments, but the registration time may increase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сваки корак у оптимизацији предузима кораке најмање ове величине. Када ниједан није могућ, регистрација је завршена. Мање вредности омогућавају оптимизатору да прави мање прилагођавања, али време регистрације може порасти.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="117"/>
         <source>Specifies how quickly the optimization step length is decreased during registration. The value must be larger than 0 and smaller than 1. Larger values result in slower step size decrease, which allow for recovering larger initial misalignments but it increases the registration time and the chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Специфицира колико брзо се дужина корака оптимизације смањује током регистрације. Вредност мора бити већа од 0 и мања од 1. Веће вредности резултирају споријим смањењем величине корака, што омогућава опоравак већих почетних неусклађености, али повећава време регистрације и шансу да регистрација неће конвергирати.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="118"/>
         <source>How much to scale up changes in position (in mm) compared to unit rotational changes (in radians) -- decrease this to allow for more rotation in the search pattern.</source>
-        <translation type="unfinished"></translation>
+        <translation>Колико повећати промене у позицији (у мм) у поређењу са јединичним ротационим променама (у радијанима) -- смањите ово да бисте омогућили више ротације у обрасцу претраге.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
         <source>ScaleVersor3D &apos;Scale&apos; compensation factor.  Increase this to allow for more rescaling in a ScaleVersor3D or ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation>ScaleVersor3D &apos;Scale&apos; компензациони фактор. Повећајте ово да бисте омогућили више рескалирања у ScaleVersor3D или ScaleSkewVersor3D обрасцу претраге. 1.0 добро функционише са translationScale од 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="120"/>
         <source>ScaleSkewVersor3D Skew compensation factor.  Increase this to allow for more skew in a ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation>ScaleSkewVersor3D компензациони фактор искошења. Повећајте ово да бисте омогућили више искошења у ScaleSkewVersor3D обрасцу претраге. 1.0 добро функционише са translationScale од 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Максимално дозвољена померања у физичким координатама слике (мм) за BSpline контролни мрежу дуж сваке осе. Вредност од 0.0 указује да проблем треба да буде неограничен. НАПОМЕНА: Ово ограничава само BSpline део и не ограничава померање од повезане велике трансформације. Ово може довести до значајног смањења времена рачунања у BSpline оптимизатору.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="122"/>
         <source>Expert-only Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри само за стручњаке</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="123"/>
         <source>Fixed Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Индекс времена фиксне слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="124"/>
         <source>Moving Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Индекс времена покретне слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="125"/>
         <source>Histogram bin count</source>
-        <translation type="unfinished"></translation>
+        <translation>Број бинова хистограма</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="126"/>
         <source>Histogram match point count</source>
-        <translation type="unfinished"></translation>
+        <translation>Број тачака упаривања хистограма</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="127"/>
         <source>Cost Metric</source>
-        <translation type="unfinished"></translation>
+        <translation>Метрика трошкова</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="128"/>
         <source>Inferior Cut Off From Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Доњи одсечак од центра</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="129"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Величина дилатације ROIAuto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="130"/>
         <source>ROIAuto Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Величина затварања ROIAuto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Број узорака</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
         <source>Stripped Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрипована излазна трансформација</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип трансформације</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
         <source>Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна трансформација</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
         <source>Pass warped moving image to BSpline registration filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Проследи деформисану покретну слику BSpline регистрационом филтеру</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
         <source>writes the output registration transforms in single precision</source>
-        <translation type="unfinished"></translation>
+        <translation>пише излазне регистрационе трансформације у једнострукој прецизности</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
         <source>The index in the time series for the 3D fixed image to fit. Only allowed if the fixed input volume is 4-dimensional.</source>
-        <translation type="unfinished"></translation>
+        <translation>Индекс у временској серији за 3D фиксну слику за уклапање. Дозвољено само ако је фиксни улазни волумен 4-димензионалан.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation type="unfinished"></translation>
+        <translation>Индекс у временској серији за 3D покретну слику за уклапање. Дозвољено само ако је покретни улазни волумен 4-димензионалан.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
         <source>The number of histogram levels used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Број нивоа хистограма који се користе за процену метрике узајамне информације.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="140"/>
         <source>Number of histogram match points used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Број тачака упаривања хистограма који се користе за процену метрике узајамне информације.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
         <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
-        <translation type="unfinished"></translation>
+        <translation>Метрика трошкова која ће се користити током уклапања. Подразумевано је MMI. Опције су MMI (Mattes узајамна информација), MSE (Средња квадратна грешка), NC (Нормализована корелација), MC (Усклађеност кардиналности за бинарне слике)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако је Initialize Transform Mode подешен на useCenterOfHeadAlign или је опција маскирања ROIAUTO, онда ова вредност дефинише колико се одсеца од доњег дела слике. Растојање одсецања је специфицирано у милиметрима, релативно у односу на центар слике. Ако је вредност 1000 или већа, онда се не врши одсецање.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ова опција је релевантна само када се користи ROIAUTO режим за иницијализацију маски. Дефинише коначну величину дилатације да би се захватило мало позадине изван региона ткива. Подешавање од 10мм је показало да помаже у регуларизацији BSpline типа регистрације тако да постоје нека ограничења позадине за боље усклађивање ивица главе.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Овај флаг је релевантан само када се користи ROIAUTO режим за иницијализацију маски. Он дефинише величину затварања рупа у мм. Заокружује се на најближу целу величину пиксела у сваком правцу. Подразумевано је да се користи величина затварања од 9мм. За податке о мишевима ова вредност можда треба да се ресетује на 0.9 или мање.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation type="unfinished"></translation>
+        <translation>Број воксела узоркованих за израчунавање узајамне информације. Повећајте ово за већу тачност, на рачун дужег времена израчунавања.
+НАПОМЕНА да се препоручује коришћење samplingPercentage уместо ове опције. Међутим, ако је постављено на ненулту вредност, numberOfSamples ће преписати опцију samplingPercentage.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ригидна компонента процењене афине трансформације. Може се користити за ригидну регистрацију покретне слике са фиксном сликом. НАПОМЕНА: Ова вредност се занемарује ако је постављен или bsplineTransform или linearTransform.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
         <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Специфицира листу типова регистрације који ће се користити. Важећи типови су: Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline и SyN. Специфицирање више од једног у листи одвојеној зарезима ће иницијализовати следећу фазу са претходним резултатима. Ако се користи флаг registrationClass, он ће преписати ову поставку параметра.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
         <source>(optional) Filename to which save the (optional) estimated transform. NOTE: You must select either the outputTransform or the outputVolume option.</source>
-        <translation type="unfinished"></translation>
+        <translation>(опционо) Назив фајла у који ће се сачувати (опционо) процењена трансформација. НАПОМЕНА: Морате изабрати или опцију outputTransform или опцију outputVolume.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако је овај флаг УКЉУЧЕН, тренутна генеричка композитна трансформација, добијена из фаза линеарне регистрације, се поставља да иницијализује следећи нелинеарни процес регистрације. Међутим, подразумевано понашање је да се покретна слика прво деформише на основу постојеће трансформације пре него што се проследи BSpline филтеру за регистрацију. Ово се ради ради убрзања BSpline регистрације смањењем израчунавања Јакобијана композитне трансформације.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подразумевано, излазне регистрационе трансформације (или излазна композитна трансформација или свака компонента трансформације) се записују на диск у двострукој прецизности. Ако је овај флаг УКЉУЧЕН, излазне трансформације ће бити записане у једнострукој (float) прецизности. Ово је посебно важно ако је излазна трансформација поље померања, или је композитна трансформација која укључује неколико поља померања.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>MSE</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
         <source>NC</source>
-        <translation type="unfinished"></translation>
+        <translation>NC</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="155"/>
         <source>MIH</source>
-        <translation type="unfinished"></translation>
+        <translation>MIH</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="156"/>
         <source>Debugging Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за отклањање грешака</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="157"/>
         <source>Failure Exit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код за излазак у случају неуспеха</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="158"/>
         <source>Write Transform On Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Запиши трансформацију у случају неуспеха</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Број нити</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="160"/>
         <source>Debug option</source>
-        <translation type="unfinished"></translation>
+        <translation>Опција за отклањање грешака</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="161"/>
         <source>Set Sampling Strategy</source>
-        <translation type="unfinished"></translation>
+        <translation>Постави стратегију узорковања</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="162"/>
         <source>Log File Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Извештај у лог фајлу</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="163"/>
         <source>If the fit fails, exit with this status code.  (It can be used to force a successfult exit status of (0) if the registration fails due to reaching the maximum number of iterations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако регистрација не успе, изађи са овим статусним кодом. (Може се користити за форсирање успешног статусног кода (0) ако регистрација не успе због достизања максималног броја итерација.)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
         <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
-        <translation type="unfinished"></translation>
+        <translation>Флаг за чување финалне трансформације чак и ако је број итерација достигнут без конвергенције. (Намењено за коришћење када је --failureExitCode 0)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
         <source>Explicitly specify the maximum number of threads to use. (default is auto-detected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Експлицитно специфицирајте максималан број нити за коришћење. (подразумевано се аутоматски детектује)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="166"/>
         <source>Display debug messages, and produce debug intermediate results.  0=OFF, 1=Minimal, 10=Maximum debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приказуј поруке за отклањање грешака и производи интермедијарне резултате за отклањање грешака. 0=ИСКЉУЧЕНО, 1=Минимално, 10=Максимално отклањање грешака.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the CostFunctionConvergenceFactor. Algorithm terminates when the reduction in cost function is less than (factor * epsmcj) where epsmch is the machine precision. Typical values for factor: 1e+12 for low accuracy; 1e+7 for moderate accuracy and 1e+1 for extremely high accuracy.  1e+9 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Из itkLBFGSBOptimizer.h: Постави/Преузми фактор конвергенције функције трошкова. Алгоритам се завршава када је смањење функције трошкова мање од (фактор * epsmcj) где је epsmch прецизност машине. Типичне вредности за фактор: 1e+12 за ниску тачност; 1e+7 за умерену тачност и 1e+1 за изузетно високу тачност. 1e+9 изгледа да добро функционише.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="168"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the ProjectedGradientTolerance. Algorithm terminates when the project gradient is below the tolerance. Default lbfgsb value is 1e-5, but 1e-4 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Из itkLBFGSBOptimizer.h: Постави/Преузми толеранцију пројектованог градијента. Алгоритам се завршава када је пројектовани градијент испод толеранције. Подразумевана lbfgsb вредност је 1e-5, али 1e-4 изгледа да добро функционише.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="169"/>
         <source>Maximum number of evaluations for line search in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максималан број евалуација за претрагу линије у lbfgsb оптимизатору.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="170"/>
         <source>Maximum number of corrections in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максималан број корекција у lbfgsb оптимизатору.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="171"/>
         <source>Display intermediate image volumes for debugging.  NOTE:  This is not part of the standard build system, and probably does nothing on your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приказуј интермедијарне волумене слика за отклањање грешака. НАПОМЕНА: Ово није део стандардног система за изградњу и вероватно не ради ништа на вашој инсталацији.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
         <source>Prompt the user to hit enter each time an image is sent to the DebugImageViewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Затражи од корисника да притисне Enter сваки пут када се слика пошаље DebugImageViewer-у.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
         <source>It defines the method that registration filter uses to sample the input fixed image. Only Random is supported for now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Дефинише метод који филтер за регистрацију користи за узорковање улазне фиксне слике. Тренутно је подржан само Random.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
         <source>A file to write out final information report in CSV file: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</source>
-        <translation type="unfinished"></translation>
+        <translation>Фајл за записивање финалног извештаја у CSV фајлу: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="176"/>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>Random</translation>
     </message>
 </context>
 <context>
@@ -1172,174 +1176,175 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="5"/>
         <source>Foreground masking (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Маскирање предњег плана (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>Овај програм се користи за креирање маске преко најистакнутијег региона предњег плана на слици. Ово се постиже комбинацијом Отсу праговања и операције затварања.
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </source>
-        <translation type="unfinished"></translation>
+        <translation>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3); Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (интеграција са Slicer-ом); (1=Универзитет Ајове, Одељење за психијатрију, 2=Универзитет Ајове, Одељење за радиологију, 3=Универзитет Ајове, Одељење за биомедицинско инжењерство, 4=Универзитет Ајове, Одељење за електротехнику и рачунарско инжењерство, 5=Лабораторија за хируршко планирање, Харвард)  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улаз/Излаз параметри</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished">Input Image Volume</translation>
+        <translation>Улазни волумен слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
         <source>Output Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна маска</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна слика</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
         <source>Mask Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Излаз маске</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="14"/>
         <source>Output Image Clipped by ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна слика исечена по ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="15"/>
         <source>The input image for finding the largest region filled mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна слика за проналажење највеће маске испуњеног региона.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="16"/>
         <source>The ROI automatically found from the input image.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI аутоматски пронађен из улазне слике.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
         <source>The inputVolume with optional [maskOutput|cropOutput] to the region of the brain mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен са опционим [maskOutput|cropOutput] до региона маске мозга.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="18"/>
         <source>The inputVolume multiplied by the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен помножен са ROI маском.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="19"/>
         <source>The inputVolume cropped to the region of the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен исечен до региона ROI маске.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="20"/>
         <source>Configuration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри конфигурације</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
         <source>Otsu Percentile Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсу Процентуални Праг</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
         <source>Otsu Correction Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсу Корекциони Фактор</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="23"/>
         <source>Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Величина затварања</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="24"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ROIAuto Величина дилатације</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип пиксела излазне слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Број нити</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
         <source>Parameter to the Otsu threshold algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметар за Отсу алгоритам прага.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="28"/>
         <source>A factor to scale the Otsu algorithm&apos;s result threshold, in case clipping mangles the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Фактор за скалирање резултата Отсу алгоритма прага, у случају да исечак оштети слику.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
         <source>The Closing Size (in millimeters) for largest connected filled mask.  This value is divided by image spacing and rounded to the next largest voxel number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Величина затварања (у милиметрима) за највећу повезану испуњену маску. Ова вредност се дели са размаком слике и заокружује на следећи највећи број воксела.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  At setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Овај флаг је релевантан само када се користи ROIAUTO режим за иницијализацију маски. Он дефинише финалну величину дилатације за хватање мало позадине изван региона ткива. Постављање на 10мм је показало да помаже у регуларизацији BSpline типа регистрације тако да постоје нека ограничења позадине за боље подударање ивица главе.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
         <source>The output image Pixel Type is the scalar datatype for representation of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип пиксела излазне слике је скаларни тип података за репрезентацију излазног волумена.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Експлицитно специфицирајте максималан број нити за коришћење.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="35"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
 </context>
 <context>
@@ -1347,257 +1352,259 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="4"/>
         <source>Resample Image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ресемплирање слике (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="5"/>
         <source>
     This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Овај програм обједињује три уобичајена задатка обраде слика који сви укључују ресемплирање волумена слике: Ресемплирање на нову резолуцију и размак, примена трансформације (коришћењем ITK механизама за Улаз/Излаз трансформације) и Деформација (коришћењем поља векторске слике).
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation>Развој овог алата је подржан финансирањем из грантова NS050568 и NS40068 од Националног института за неуролошке поремећаје и мождани удар и грантова MH31593, MH40856, од Националног института за ментално здравље.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Улази</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за специфицирање слике за деформацију и резултујућег простора слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="11"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Слика за деформацију</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
         <source>Reference Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Референтна слика</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="12"/>
         <source>Reference image used only to define the output space. If not specified, the warping is done in the same space as the image to warp.</source>
-        <translation type="unfinished"></translation>
+        <translation>Референтна слика се користи само за дефинисање излазног простора. Ако није специфицирана, деформација се врши у истом простору као и слика за деформацију.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="13"/>
         <source>Outputs</source>
-        <translation type="unfinished">Outputs</translation>
+        <translation>Излази</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="14"/>
         <source>Resulting deformed image parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри резултујуће деформисане слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="15"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна слика</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="16"/>
         <source>Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип пиксела</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="17"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Резултујућа деформисана слика</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="18"/>
         <source>Specifies the pixel type for the input/output images.  If the type is &quot;input&quot;, then infer from the input image.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Специфицира тип пиксела за улазне/излазне слике. Ако је тип &quot;input&quot;, онда се инферира из улазне слике. &quot;binary&quot; тип пиксела користи модификовани алгоритам при чему се слика чита као unsigned char, креира се мапа удаљености са знаком, мапа удаљености са знаком се ресемплира, и затим се праговита слика типа unsigned char записује на диск.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="20"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation>binary</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>input</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="28"/>
         <source>Warping Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри деформације</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="29"/>
         <source>Parameters used to define home the image is warped</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри који се користе за дефинисање како се слика деформише</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="30"/>
         <source>Displacement Field (deprecated)</source>
-        <translation type="unfinished"></translation>
+        <translation>Поље померања (застарело)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="31"/>
         <source>Transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Фајл са трансформацијом</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим интерполације</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
         <source>Compute inverse transform of given transformation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Израчунати инверзну трансформацију дате трансформације?</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="34"/>
         <source>Default Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Подразумевана вредност</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="35"/>
         <source>Displacement Field to be used to warp the image (ITKv3 or earlier)</source>
-        <translation type="unfinished"></translation>
+        <translation>Поље померања које ће се користити за деформацију слике (ITKv3 или раније)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="36"/>
         <source>Filename for the BRAINSFit transform (ITKv3 or earlier) or composite transform file (ITKv4)</source>
-        <translation type="unfinished"></translation>
+        <translation>Назив фајла за BRAINSFit трансформацију (ITKv3 или раније) или композитну трансформацију (ITKv4)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип интерполације који ће се користити при примени трансформације на покретни волумен. Опције су Linear, ResampleInPlace, NearestNeighbor, BSpline, или WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
         <source>True/False is to compute inverse of given transformation. Default is false</source>
-        <translation type="unfinished"></translation>
+        <translation>True/False је за израчунавање инверзне дате трансформације. Подразумевано је false</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="39"/>
         <source>Default voxel value</source>
-        <translation type="unfinished"></translation>
+        <translation>Подразумевана вредност воксела</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="40"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="42"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>НајближиСусед</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished"></translation>
+        <translation>Преправи на месту</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"/>
         <source>BSpline</source>
-        <translation type="unfinished"></translation>
+        <translation>БСплин</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="45"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>ПрозорскиСинц</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="46"/>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>Хаминг</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"/>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>Косинус</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="48"/>
         <source>Welch</source>
-        <translation type="unfinished"></translation>
+        <translation>Велч</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="49"/>
         <source>Lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>Ланцос</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="50"/>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Блекман</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"/>
         <source>Advanced Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Напредне Опције</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="52"/>
         <source>Add Grids</source>
-        <translation type="unfinished"></translation>
+        <translation>Додај Мреже</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation type="unfinished"></translation>
+        <translation>Додај изобличену мрежу на излазну слику да би се приказала деформација која се догодила са одређеним размаком. Размак од 0 у димензији указује да линије мреже треба да буду приказане тачно (тј. не дозволити померања ван те равни). Ово је корисно за прављење 2Д слике линија мреже из 3Д простора</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
         <source>Multiprocessing Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Контрола Вишепроцесирања</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="55"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Број Нити</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Експлицитно одредите максималан број нити за коришћење.</translation>
     </message>
 </context>
 <context>
@@ -1605,125 +1612,127 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="4"/>
         <source>Resize Image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Промени Величину Слике (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="5"/>
         <source>
 This program is useful for downsampling an image by a constant scale factor.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Овај програм је користан за смањење резолуције слике константним фактором скалирања.
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation>Развој овог алата је подржан финансирањем из грантова NS050568 и NS40068 од Националног института за неуролошке поремећаје и мождани удар и грантова MH31593, MH40856, од Националног института за ментално здравље.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Улази</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за одређивање слике за изобличење и резултујућег простора слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Слика За Изобличење</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"/>
         <source>Image To Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Слика За Скалирање</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"/>
         <source>Outputs</source>
-        <translation type="unfinished">Outputs</translation>
+        <translation>Излази</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"/>
         <source>Resulting scaled image parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри резултујуће скалиране слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна Слика</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
         <source>Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип Пиксела</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="15"/>
         <source>Resulting scaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>Резултујућа скалирана слика</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"/>
         <source>Specifies the pixel type for the input/output images.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Одређује тип пиксела за улазне/излазне слике. &quot;Бинарни&quot; тип пиксела користи модификовани алгоритам при чему се слика чита као беззнаковни карактер, креира се мапа удаљености са знаком, мапа удаљености са знаком се преправља, а затим се праговна слика типа беззнаковни карактер записује на диск.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>флоат</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>кратак</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>беззнаковни кратак</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>цео</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="22"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>беззнаковни цео</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>беззнаковни карактер</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="24"/>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation>бинарни</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="25"/>
         <source>Scaling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри Скалирања</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="26"/>
         <source>Parameters used to define the scaling of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри који се користе за дефинисање скалирања излазне слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="27"/>
         <source>Scale Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Фактор Скалирања</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="28"/>
         <source>The scale factor for the image spacing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Фактор скалирања за размак слике.</translation>
     </message>
 </context>
 <context>
@@ -1731,43 +1740,43 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="4"/>
         <source>Strip Rotation (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Уклони Ротацију (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
         <source>Read an Image, write out same image with identity rotation matrix plus an ITK transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Прочитај слику, запиши исту слику са матрицом ротације идентитета плус ITK трансформациони фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
         <source>Input Parameters</source>
-        <translation type="unfinished">Input Parameters</translation>
+        <translation>Улазни Параметри</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Слика За Изобличење</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна Слика</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
         <source>Transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Трансформациони фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Резултујућа деформисана слика</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"/>
         <source>Filename for the transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Назив фајла за трансформацију</translation>
     </message>
 </context>
 <context>
@@ -1775,100 +1784,101 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
         <source>Transform Convert (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Претвори Трансформацију (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
         <source>Convert ITK transforms to higher order transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Претвори ITK трансформације у трансформације вишег реда</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улазни/излазни параметри</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
         <source>Transform File Name To Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Назив Трансформационог Фајла За Претварање</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"/>
         <source>Reference image</source>
-        <translation type="unfinished"></translation>
+        <translation>Референтна слика</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="12"/>
         <source>Output displacement field</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазно поље померања</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"/>
         <source>Transform File Name To Save ConvertedTransform</source>
-        <translation type="unfinished"></translation>
+        <translation>Назив Трансформационог Фајла За Чување ПретворенеТрансформације</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
         <source>The target transformation type. Must be conversion-compatible with the input transform type</source>
-        <translation type="unfinished"></translation>
+        <translation>Циљни тип трансформације. Мора бити компатибилан за претварање са типом улазне трансформације</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="15"/>
         <source>Precision type of the output transform. It can be either single precision or double precision</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип прецизности излазне трансформације. Може бити или једнострука прецизност или двострука прецизност</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="16"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="18"/>
         <source>Affine</source>
-        <translation type="unfinished"></translation>
+        <translation>Афин</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="24"/>
         <source>double</source>
-        <translation type="unfinished">double</translation>
+        <translation>двоструко</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="19"/>
         <source>VersorRigid</source>
-        <translation type="unfinished"></translation>
+        <translation>ВерсорРигид</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"/>
         <source>ScaleVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>СкалаВерсор</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="21"/>
         <source>ScaleSkewVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>СкалаСкевВерсор</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"/>
         <source>DisplacementField</source>
-        <translation type="unfinished"></translation>
+        <translation>ПољеПомерања</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"/>
         <source>Same</source>
-        <translation type="unfinished"></translation>
+        <translation>Исто</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>флоат</translation>
     </message>
 </context>
 <context>
@@ -1876,105 +1886,107 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"/>
         <source>Cast Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Промени Тип Скалара Волумена</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"/>
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Промени волумен у дати тип података.
+Користите на сопствени ризик када мењате улазни волумен у тип ниже прецизности!
+Омогућава промену у исти тип као улазни волумен.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Овај рад је део Националног савеза за рачунарску обраду медицинских слика (NAMIC), финансиран од стране Националних института за здравље кроз NIH Путоказ за медицинска истраживања, Грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улазни/излазни параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни Волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Output Volume</translation>
+        <translation>Излазни Волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
         <source>Input volume, the volume to cast.</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен, волумен за промену типа.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"/>
         <source>Output volume, cast to the new type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни волумен, промењен у нови тип.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="14"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Подешавања Филтера</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="15"/>
         <source>Output Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни Тип</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="16"/>
         <source>Scalar data type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип скаларних података за нови излазни волумен.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation>БеззнаковниКарактер</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>Карактер</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Кратак</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation>БеззнаковниКратак</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>Цео</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>БеззнаковниЦео</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>Флоат</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Двоструко</translation>
     </message>
 </context>
 <context>
@@ -1982,77 +1994,77 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="4"/>
         <source>CheckerBoard Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаховски Филтер</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"/>
         <source>Create a checkerboard volume of two volumes. The output volume will show the two inputs alternating according to the user supplied checkerPattern. This filter is often used to compare the results of image registration. Note that the second input is resampled to the same origin, spacing and direction before it is composed with the first input. The scalar type of the output volume will be the same as the input image scalar type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Направи шаховски волумен од два волумена. Излазни волумен ће приказати два улаза наизменично према кориснички унетом шаховском узорку. Овај филтер се често користи за поређење резултата регистрације слика. Имајте на уму да је други улаз преправљен на исто порекло, размак и правац пре него што се састави са првим улазом. Тип скалара излазног волумена ће бити исти као тип скалара улазне слике.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Овај рад је део Националног савеза за рачунарску обраду медицинских слика (NAMIC), финансиран од стране Националних института за здравље кроз NIH Путоказ за медицинска истраживања, Грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
         <source>CheckerBoard Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаховски Параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="8"/>
         <source>Parameters for the checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за шаховски узорак</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="9"/>
         <source>Checker Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаховски Узор</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"/>
         <source>The pattern of input 1 and input 2 in the output image. The user can specify the number of checkers in each dimension. A checkerPattern of 2,2,1 means that images will alternate in every other checker in the first two dimensions. The same pattern will be used in the 3rd dimension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Узор улаза 1 и улаза 2 у излазној слици. Корисник може одредити број поља у свакој димензији. Шаховски узор од 2,2,1 значи да ће се слике наизменично појављивати у сваком другом пољу у прве две димензије. Исти узор ће се користити у 3. димензији.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="11"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="12"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улазни/излазни параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Input Volume 1</translation>
+        <translation>Улазни Волумен 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Input Volume 2</translation>
+        <translation>Улазни Волумен 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Output Volume</translation>
+        <translation>Излазни Волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
         <source>First Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Први Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="17"/>
         <source>Second Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Други Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="18"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Излаз је филтриран</translation>
     </message>
 </context>
 <context>
@@ -2060,602 +2072,602 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"/>
         <source>Create a DICOM Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Креирај DICOM серију</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Креирај DICOM серију из Slicer волумена. Корисник може да одреди вредности за изабране DICOM ознаке у корисничком интерфејсу. С обзиром на број ознака које DICOM серије имају, немогуће је приказати све ознаке у корисничком интерфејсу. Тако да само важне ознаке могу бити подешене од стране корисника.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Овај командни модул је изведен из Insight/Examples (ауторска права) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Улаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен који треба ресемплирати</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="12"/>
         <source>Output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="13"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM директоријум</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="14"/>
         <source>DICOM filename prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM префикс имена фајла</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="15"/>
         <source>DICOM file number format</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM формат броја фајла</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="16"/>
         <source>Reverse Slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрни слојеве</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
         <source>Use Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Користи компресију</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"/>
         <source>Output Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип излаза:</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
         <source>The directory to contain the DICOM series.</source>
-        <translation type="unfinished"></translation>
+        <translation>Директоријум који ће садржати DICOM серију.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
         <source>The prefix of the DICOM filename.</source>
-        <translation type="unfinished"></translation>
+        <translation>Префикс DICOM имена фајла.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="21"/>
         <source>The printf-style format to be used when creating the per-slice DICOM filename. The leading % sign can be omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>printf-стил формат који ће се користити при креирању DICOM имена фајла по слоју. Водећи % знак може бити изостављен.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="22"/>
         <source>Reverse the slices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрни слојеве.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="23"/>
         <source>Compress the output pixel data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Компресуј излазне пиксел податке.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="24"/>
         <source>Type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип за нови излазни волумен.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="25"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="29"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Short</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="26"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="28"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedChar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="27"/>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>Char</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="30"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="31"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>Int</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="32"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedInt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="33"/>
         <source>Patient Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри пацијента</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="34"/>
         <source>Parameters that apply to a patient</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри који се односе на пацијента</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="35"/>
         <source>Patient Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име пацијента</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="36"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ИД пацијента</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="37"/>
         <source>Patient Birth Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Датум рођења пацијента</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="38"/>
         <source>Patient Sex</source>
-        <translation type="unfinished"></translation>
+        <translation>Пол пацијента</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="39"/>
         <source>Patient Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Коментари пацијента</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="40"/>
         <source>The name of the patient (0010,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>Име пацијента (0010,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="41"/>
         <source>The patient ID (0010,0020). If set to [random] then a random ID will be generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>ИД пацијента (0010,0020). Ако је подешено на [random] онда ће бити генерисан случајни ИД.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="42"/>
         <source>Patient birth date (0010,0030) in the format YYYYMMDD.</source>
-        <translation type="unfinished"></translation>
+        <translation>Датум рођења пацијента (0010,0030) у формату ГГГГММДД.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="43"/>
         <source>Patient sex (0010,0040). M=male, F=female, O=other, [unknown]=not specified</source>
-        <translation type="unfinished"></translation>
+        <translation>Пол пацијента (0010,0040). М=мушкарац, Ж=жена, О=друго, [непознато]=није наведено</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="44"/>
         <source>Patient comments (0010,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Коментари пацијента (0010,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="45"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="46"/>
         <source>[unknown]</source>
-        <translation type="unfinished"></translation>
+        <translation>[непознато]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="47"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation>М</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="48"/>
         <source>F</source>
-        <translation type="unfinished"></translation>
+        <translation>Ж</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="49"/>
         <source>O</source>
-        <translation type="unfinished"></translation>
+        <translation>О</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="50"/>
         <source>Study Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри студије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="51"/>
         <source>Parameters that apply to a study</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри који се односе на студију</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="52"/>
         <source>Study ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ИД студије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="53"/>
         <source>Study Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Датум студије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="54"/>
         <source>Study Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Време студије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="55"/>
         <source>Study Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Коментари студије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="56"/>
         <source>Study Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Опис студије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="57"/>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Модалитет</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="58"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>Произвођач</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="59"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Модел</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="60"/>
         <source>The study ID (0020,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>ИД студије (0020,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="61"/>
         <source>The date of the study (0008,0020) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Датум студије (0008,0020) у формату ГГГГММДД. Ако је подешено на &quot;[сада]&quot; онда се користи тренутни датум.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="62"/>
         <source>The time of the study (0008,0030) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Време студије (0008,0030) у формату ЧЧММСС. Ако је подешено на &quot;[сада]&quot; онда се користи тренутно време.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="63"/>
         <source>Study comments (0032,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Коментари студије (0032,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="64"/>
         <source>Study description (0008,1030)</source>
-        <translation type="unfinished"></translation>
+        <translation>Опис студије (0008,1030)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="65"/>
         <source>Modality (0008,0060)</source>
-        <translation type="unfinished"></translation>
+        <translation>Модалитет (0008,0060)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="66"/>
         <source>Manufacturer (0008,0070)</source>
-        <translation type="unfinished"></translation>
+        <translation>Произвођач (0008,0070)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="67"/>
         <source>model (0008,1090)</source>
-        <translation type="unfinished"></translation>
+        <translation>модел (0008,1090)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="68"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="69"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>CT</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="70"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="71"/>
         <source>NM</source>
-        <translation type="unfinished"></translation>
+        <translation>NM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="72"/>
         <source>US</source>
-        <translation type="unfinished"></translation>
+        <translation>US</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="73"/>
         <source>CR</source>
-        <translation type="unfinished"></translation>
+        <translation>CR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="74"/>
         <source>SC</source>
-        <translation type="unfinished"></translation>
+        <translation>SC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="75"/>
         <source>Series Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри серије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="76"/>
         <source>Parameters that apply to a series</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри који се односе на серију</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="77"/>
         <source>Series Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Број серије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="78"/>
         <source>Series Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Опис серије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="79"/>
         <source>Series Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Датум серије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="80"/>
         <source>Series Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Време серије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="81"/>
         <source>Patient Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>Позиција пацијента:</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="82"/>
         <source>The series number (0020,0011)</source>
-        <translation type="unfinished"></translation>
+        <translation>Број серије (0020,0011)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="83"/>
         <source>Series description (0008,103E)</source>
-        <translation type="unfinished"></translation>
+        <translation>Опис серије (0008,103E)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="84"/>
         <source>The date of the series (0008,0021) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Датум серије (0008,0021) у формату ГГГГММДД. Ако је подешено на &quot;[сада]&quot; онда се користи тренутни датум.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="85"/>
         <source>The time of the series (0008,0031) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Време серије (0008,0031) у формату ЧЧММСС. Ако је подешено на &quot;[сада]&quot; онда се користи тренутно време.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="86"/>
         <source>Patient position descriptor relative to the equipment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Опис позиције пацијента у односу на опрему.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="87"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="88"/>
         <source>HFS</source>
-        <translation type="unfinished"></translation>
+        <translation>HFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="89"/>
         <source>HFP</source>
-        <translation type="unfinished"></translation>
+        <translation>HFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="90"/>
         <source>HFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>HFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="91"/>
         <source>HFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>HFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="92"/>
         <source>FFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>FFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="93"/>
         <source>FFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>FFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="94"/>
         <source>FFP</source>
-        <translation type="unfinished"></translation>
+        <translation>FFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="95"/>
         <source>FFS</source>
-        <translation type="unfinished"></translation>
+        <translation>FFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="96"/>
         <source>LFP</source>
-        <translation type="unfinished"></translation>
+        <translation>LFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="97"/>
         <source>LFS</source>
-        <translation type="unfinished"></translation>
+        <translation>LFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="98"/>
         <source>RFP</source>
-        <translation type="unfinished"></translation>
+        <translation>RFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="99"/>
         <source>RFS</source>
-        <translation type="unfinished"></translation>
+        <translation>RFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="100"/>
         <source>AFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>AFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="101"/>
         <source>AFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>AFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="102"/>
         <source>PFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>PFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="103"/>
         <source>PFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>PFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="104"/>
         <source>Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри слике</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="105"/>
         <source>Parameters that apply to the images and data in each image</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри који се односе на слике и податке у свакој слици</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="106"/>
         <source>Window center</source>
-        <translation type="unfinished"></translation>
+        <translation>Центар прозора</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="107"/>
         <source>Window width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина прозора</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="108"/>
         <source>Rescale intercept</source>
-        <translation type="unfinished"></translation>
+        <translation>Прескалирај пресретање</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="109"/>
         <source>Rescale slope</source>
-        <translation type="unfinished"></translation>
+        <translation>Прескалирај нагиб</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="110"/>
         <source>Rescale Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип прескалирања</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="111"/>
         <source>Content Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Датум садржаја</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="112"/>
         <source>Content Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Време садржаја</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="113"/>
         <source>Window center (0028,1050). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Center contains the input value that is the center of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Центар прозора (0028,1050). Одређује линеарну конверзију од сачуваних пиксел вредности (након што су примењени прескалирање нагиба и пресретање) до вредности које ће бити приказане. Центар прозора садржи улазну вредност која је центар прозора. Ако је или центар прозора или ширина неодређена, прозор се поставља на пуни интензитетни опсег слике.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="114"/>
         <source>Window width (0028,1051). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Width contains the width of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина прозора (0028,1051). Одређује линеарну конверзију од сачуваних пиксел вредности (након што су примењени прескалирање нагиба и пресретање) до вредности које ће бити приказане. Ширина прозора садржи ширину прозора. Ако је или центар прозора или ширина неодређена, прозор се поставља на пуни интензитетни опсег слике.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"/>
         <source>Rescale intercept (0028,1052). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleIntercept.  Default is 0.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation>Прескалирај пресретање (0028,1052). Конвертује пиксел вредности на диску у пиксел вредности у меморији. (Пиксел вредност у меморији) = (Пиксел вредност на диску) * прескалирај нагиб + прескалирај пресретање. Подразумевана вредност је 0.0. Вредности података се конвертују при упису (подаци се скалирају и померају тако да нагиб и пресретање врате тренутни интензитетни опсег).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"/>
         <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation>Прескалирај нагиб (0028,1053). Конвертује пиксел вредности на диску у пиксел вредности у меморији. (Пиксел вредност у меморији) = (Пиксел вредност на диску) * прескалирај нагиб + прескалирај пресретање. Подразумевана вредност је 1.0. Вредности података се конвертују при упису (подаци се скалирају и померају тако да нагиб и пресретање врате тренутни интензитетни опсег).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
         <source>Specifies the output units of the rescaled image (0008,1054). Leave it blank to set it automatically (Hounsfield unit for CT, unspecified for others).</source>
-        <translation type="unfinished"></translation>
+        <translation>Одређује излазне јединице прескалиране слике (0008,1054). Оставите празно да се аутоматски подеси (Хаунсфилд јединица за ЦТ, неодређено за остале).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="118"/>
         <source>The date of the image content (0008,0023) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Датум садржаја слике (0008,0023) у формату ГГГГММДД. Ако је постављено на &quot;[сада]&quot;, користи се тренутни датум.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="119"/>
         <source>The time of the image content (0008,0033) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Време садржаја слике (0008,0033) у формату ЧЧММСС. Ако је постављено на &quot;[сада]&quot;, користи се тренутно време.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="120"/>
         <source>Unique Identifiers (UIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Јединствени идентификатори (UIDs)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="121"/>
         <source>Unique identifiers (UIDs) that allow appending frames to existing studies or series. To generate UIDs automatically, leave all of them blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Јединствени идентификатори (UIDs) који омогућавају додавање кадрова постојећим студијама или серијама. Да бисте аутоматски генерисали UIDs, оставите све празно.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="122"/>
         <source>Study Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>UID инстанце студије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="123"/>
         <source>Series Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>UID инстанце серије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="124"/>
         <source>Frame of Reference UID</source>
-        <translation type="unfinished"></translation>
+        <translation>UID референтног оквира</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"/>
         <source>The study instance UID (0020,000d). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>UID инстанце студије (0020,000d). Оставите празно да бисте аутоматски генерисали UIDs.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="126"/>
         <source>The series instance UID (0020,000e). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>UID инстанце серије (0020,000e). Оставите празно да бисте аутоматски генерисали UIDs.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="127"/>
         <source>The frame of reference UID (0020,0052). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>UID референтног оквира (0020,0052). Оставите празно да бисте аутоматски генерисали UIDs.</translation>
     </message>
 </context>
 <context>
@@ -2663,7 +2675,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="5"/>
         <source>Curvature Anisotropic Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>Анизотропна дифузија закривљености</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
@@ -2672,84 +2684,88 @@ Allows casting to the same type as the input volume.</source>
 MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изводи анизотропну дифузију на слици користећи модификовану једначину дифузије закривљености (MCDE).
+
+MCDE не показује својства побољшања ивица као класична анизотропна дифузија, која под одређеним условима може проћи кроз &apos;негативну&apos; дифузију, која побољшава контраст ивица. Једначине у облику MCDE увек пролазе кроз позитивну дифузију, при чему термин проводљивости само варира снагу те дифузије.
+
+Квалитативно, MCDE се добро пореди са другим нелинеарним техникама дифузије. Мање је осетљив на контраст него класична Перона-Малик дифузија и чува финије детаљне структуре у сликама. Постоји потенцијална брзинска компромиса за коришћење ове функције уместо Градијентне анизотропне дифузије. Свака итерација решења траје отприлике два пута дуже. Међутим, може бити потребно мање итерација да би се постигло прихватљиво решење.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Овај командни модул је изведен из Insight/Examples (ауторска права) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри анизотропне дифузије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за алгоритам анизотропне дифузије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="10"/>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="14"/>
         <source>Conductance</source>
-        <translation type="unfinished"></translation>
+        <translation>Проводљивост</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Итерације</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="12"/>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="17"/>
         <source>Time Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Временски корак</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проводљивост контролише осетљивост термина проводљивости. Као опште правило, што је вредност нижа, филтер јаче чува ивице. Висока вредност ће узроковати дифузију (изглађивање) преко ивица. Имајте на уму да број итерација контролише колико се изглађивање врши унутар региона ограничених ивицама.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="15"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Што више итерација, то више изглађивања. Свака итерација траје исто време. Ако једна итерација траје 10 секунди, онда ће 10 итерација трајати 100 секунди. Имајте на уму да проводљивост контролише колико свака итерација изглађује преко ивица.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Временски корак зависи од димензионалности слике. У Slicer-у су слике 3Д и подразумевани (.0625) временски корак ће обезбедити стабилно решење.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="19"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улазни/излазни параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Output Volume</translation>
+        <translation>Излазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен који ће бити филтриран</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="23"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни филтрирани</translation>
     </message>
 </context>
 <context>
@@ -2757,275 +2773,276 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="5"/>
         <source>Diffusion-weighted DICOM Import (DWIConvert)</source>
-        <translation type="unfinished"></translation>
+        <translation>Увоз ДИКОМ-а са дифузијом (DWIConvert)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
         <source>Converts diffusion weighted MR images in DICOM series into NRRD format for analysis in Slicer. This program has been tested on only a limited subset of DTI DICOM formats available from Siemens, GE, and Philips scanners. Work in progress to support DICOM multi-frame data. The program parses DICOM header to extract necessary information about measurement frame, diffusion weighting directions, b-values, etc, and write out a NRRD image. For non-diffusion weighted DICOM images, it loads in an entire DICOM series and writes out a single dicom volume in a .nhdr/.raw pair.</source>
-        <translation type="unfinished"></translation>
+        <translation>Конвертује магнетно-резонантне слике са дифузијом у ДИКОМ серијама у НРРД формат за анализу у Slicer-у. Овај програм је тестиран само на ограниченом подскупу ДТИ ДИКОМ формата доступних од Siemens, GE и Philips скенера. Рад у току за подршку ДИКОМ мулти-фрејм података. Програм парсира ДИКОМ заглавље да извуче неопходне информације о мерном оквиру, правцима дифузионог оптерећења, b-вредностима итд, и пише НРРД слику. За ДИКОМ слике без дифузионог оптерећења, учитава целу ДИКОМ серију и пише један ДИКОМ волумен у .nhdr/.raw пару.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  Additional support for DTI data produced on Philips scanners was contributed by Vincent Magnotta and Hans Johnson at the University of Iowa.</source>
-        <translation type="unfinished"></translation>
+        <translation>Овај рад је део Националне алијансе за рачунарску обраду медицинских слика (NAMIC), финансиран од стране Националних института за здравље кроз NIH Roadmap за медицинска истраживања, Грант U54 EB005149. Додатну подршку за ДТИ податке произведене на Philips скенерима допринели су Vincent Magnotta и Hans Johnson на Универзитету у Ајови.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="8"/>
         <source>Conversion Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Опције конверзије</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="9"/>
         <source>Options that are used for all conversion modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Опције које се користе за све модове конверзије</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="10"/>
         <source>Input DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни ДВИ волумен фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="11"/>
         <source>Output DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни ДВИ волумен фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="12"/>
         <source>Determine which conversion to perform. DicomToNrrd (default): Convert DICOM series to NRRD DicomToFSL: Convert DICOM series to NIfTI File + gradient/bvalue text files NrrdToFSL: Convert DWI NRRD file to NIfTI File + gradient/bvalue text files FSLToNrrd: Convert NIfTI File + gradient/bvalue text files to NRRD file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Одредите коју конверзију да извршите. DicomToNrrd (подразумевано): Конвертујте ДИКОМ серију у НРРД DicomToFSL: Конвертујте ДИКОМ серију у NIfTI фајл + текстуалне фајлове градијента/b-вредности NrrdToFSL: Конвертујте ДВИ НРРД фајл у NIfTI фајл + текстуалне фајлове градијента/b-вредности FSLToNrrd: Конвертујте NIfTI фајл + текстуалне фајлове градијента/b-вредности у НРРД фајл.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="13"/>
         <source>Input DWI volume -- not used for DicomToNrrd mode.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни ДВИ волумен -- не користи се за DicomToNrrd мод.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="14"/>
         <source>Output filename (.nhdr or .nrrd)</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазно име фајла (.nhdr или .nrrd)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="15"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="16"/>
         <source>DicomToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>DicomToNrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="17"/>
         <source>DicomToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>DicomToFSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="18"/>
         <source>NrrdToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>NrrdToFSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="19"/>
         <source>FSLToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>FSLToNrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="20"/>
         <source>Dicom To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри конверзије из ДИКОМ-а у НРРД</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="21"/>
         <source>Parameters for Dicom to NRRD Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за конверзију из ДИКОМ-а у НРРД</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="22"/>
         <source>Input Dicom Data Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни ДИКОМ директоријум података</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
         <source>Directory holding Dicom series</source>
-        <translation type="unfinished"></translation>
+        <translation>Директоријум који садржи ДИКОМ серије</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="24"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="25"/>
         <source>NiftiFSL To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри конверзије из NiftiFSL у НРРД</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="26"/>
         <source>FSL NIfTI File</source>
-        <translation type="unfinished"></translation>
+        <translation>FSL NIfTI фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="27"/>
         <source>Input bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни bval фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="28"/>
         <source>Input bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни bvec фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="29"/>
         <source>4D NIfTI file containing gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>4Д NIfTI фајл који садржи градијентне волумене</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="30"/>
         <source>The B Values are stored in FSL .bval text file format</source>
-        <translation type="unfinished"></translation>
+        <translation>B-вредности су сачуване у FSL .bval текстуалном формату фајла</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="31"/>
         <source>The Gradient Vectors are stored in FSL .bvec text file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Градијентни вектори су сачувани у FSL .bvec текстуалном формату фајла</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="32"/>
         <source>Nrrd To NiftiFSL Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри конверзије из НРРД у NiftiFSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="33"/>
         <source>Nrrd To NiftiFSL (NrrdToFSL) Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри конверзије из НРРД у NiftiFSL (NrrdToFSL)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="34"/>
         <source>Output nii file</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни nii фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="35"/>
         <source>Output bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни bval фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="36"/>
         <source>Output bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни bvec фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="37"/>
         <source>Nifti output filename (for Slicer GUI use).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nifti излазно име фајла (за коришћење у Slicer GUI).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="38"/>
         <source>The B Values are stored in FSL .bval text file format (defaults to &lt;outputVolume&gt;.bval)</source>
-        <translation type="unfinished"></translation>
+        <translation>B-вредности су сачуване у FSL .bval текстуалном формату фајла (подразумевано &lt;outputVolume&gt;.bval)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="39"/>
         <source>The Gradient Vectors are stored in FSL .bvec text file format (defaults to &lt;outputVolume&gt;.bvec)</source>
-        <translation type="unfinished"></translation>
+        <translation>Градијентни вектори су сачувани у FSL .bvec текстуалном формату фајла (подразумевано &lt;outputVolume&gt;.bvec)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="40"/>
         <source>Advanced Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Напредни параметри конверзије</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="41"/>
         <source>Options to control the output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Опције за контролу излаза.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="42"/>
         <source>Write Protocol Gradients File</source>
-        <translation type="unfinished"></translation>
+        <translation>Пиши фајл градијената протокола</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="43"/>
         <source>Use Identity Measurement Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Користи идентични мерни оквир</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="44"/>
         <source>Use BMatrix Gradient Directions</source>
-        <translation type="unfinished"></translation>
+        <translation>Користи правце градијента BMatrix</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="45"/>
         <source>Output Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни директоријум</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="46"/>
         <source>Small Gradient Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Праг малог градијента</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="47"/>
         <source>Transpose Input BVectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Транспонуј улазне B-векторе</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="48"/>
         <source>Allow lossy image conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволи губитничку конверзију слике</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
         <source>Write the protocol gradients to a file suffixed by &quot;.txt&quot; as they were specified in the procol by multiplying each diffusion gradient direction by the measurement frame.  This file is for debugging purposes only, the format is not fixed, and will likely change as debugging of new dicom formats is necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пишите градијенте протокола у фајл са наставком &quot;.txt&quot; како су наведени у протоколу множењем сваког правца дифузионог градијента са мерним оквиром. Овај фајл је само за потребе дебаговања, формат није фиксни и вероватно ће се мењати како буде потребно дебаговање нових ДИКОМ формата.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"/>
         <source>Adjust all the gradients so that the measurement frame is an identity matrix.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подесите све градијенте тако да мерни оквир буде идентична матрица.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="51"/>
         <source>Fill the nhdr header with the gradient directions and bvalues computed out of the BMatrix. Only changes behavior for Siemens data.  In some cases the standard public gradients are not properly computed.  The gradients can be empirically computed from the private BMatrix fields.  In some cases the private BMatrix is consistent with the public grandients, but not in all cases, when it exists BMatrix is usually most robust.</source>
-        <translation type="unfinished"></translation>
+        <translation>Попуните nhdr заглавље са правцима градијента и b-вредностима израчунатим из BMatrix. Мења понашање само за Siemens податке. У неким случајевима стандардни јавни градијенти нису правилно израчунати. Градијенти се могу емпиријски израчунати из приватних BMatrix поља. У неким случајевима приватни BMatrix је конзистентан са јавним градијентима, али не у свим случајевима, када постоји BMatrix је обично најпоузданији.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
         <source>Directory holding the output NRRD file</source>
-        <translation type="unfinished"></translation>
+        <translation>Директоријум који садржи излазни НРРД фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"/>
         <source>If a gradient magnitude is greater than 0 and less than smallGradientThreshold, then DWIConvert will display an error message and quit, unless the useBMatrixGradientDirections option is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако је величина градијента већа од 0 и мања од прага малог градијента, онда ће DWIConvert приказати поруку о грешци и изаћи, осим ако опција useBMatrixGradientDirections није постављена.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"/>
         <source>FSL input BVectors are expected to be encoded in the input file as one vector per line. If it is not the case, use this option to transpose the file as it is read</source>
-        <translation type="unfinished"></translation>
+        <translation>FSL улазни BVector-и се очекују да буду кодирани у улазном фајлу као један вектор по линији. Ако то није случај, користите ову опцију да транспонујете фајл док се чита.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
         <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation>Једини подржани излазни тип је &apos;short&apos;. Конверзија из слика различитог типа може изазвати губитак података због заокруживања или скраћивања. Користите са опрезом!</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
         <source>DEPRECATED THESE DO NOT WORK</source>
-        <translation type="unfinished"></translation>
+        <translation>ЗАСТАРЕЛО ОВО НЕ РАДИ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="57"/>
         <source>Gradient Vector File</source>
-        <translation type="unfinished"></translation>
+        <translation>Фајл са градијентним векторима</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="58"/>
         <source>Output fMRI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни fMRI фајл</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="59"/>
         <source>DEPRECATED:  Use --inputBVector --inputBValue files Text file giving gradient vectors</source>
-        <translation type="unfinished"></translation>
+        <translation>ЗАСТАРЕЛО: Користите --inputBVector --inputBValue фајлове Текстуални фајл који даје градијентне векторе</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="60"/>
         <source>DEPRECATED:  No support or testing.  Output a NRRD file, but without gradients</source>
-        <translation type="unfinished"></translation>
+        <translation>ЗАСТАРЕЛО: Нема подршке или тестирања. Излаз NRRD фајла, али без градијената</translation>
     </message>
 </context>
 <context>
@@ -3033,97 +3050,97 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="4"/>
         <source>Execution Model Tour</source>
-        <translation type="unfinished"></translation>
+        <translation>Тур извршног модела</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="5"/>
         <source>Shows one of each type of parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приказује један од сваког типа параметра.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Овај рад је део Националног савеза за рачунарску обраду медицинских слика (NAMIC), финансиран од стране Националних института за здравље кроз NIH Roadmap за медицинска истраживања, Грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
         <source>Scalar Parameters (árvíztűrő tükörfúrógép)</source>
-        <translation type="unfinished"></translation>
+        <translation>Скалари параметри (árvíztűrő tükörfúrógép)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="8"/>
         <source>Variations on scalar parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Варијације на скаларним параметрима</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="9"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Целовити параметар</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="10"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Дупли параметар</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="11"/>
         <source>An integer without constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Целовити број без ограничења</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="12"/>
         <source>A double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Дупли број са ограничењима</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="13"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Векторски параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="14"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Варијације на векторским параметрима</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="15"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Векторски параметар са покретним зарезом</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="16"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Векторски параметар са стрингом</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="17"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>Вектор са покретним зарезом</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="18"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Вектор са стрингом</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="19"/>
         <source>Enumeration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри енумације</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="20"/>
         <source>Variations on enumeration parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Варијације на параметрима енумације</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="21"/>
         <source>String Enumeration Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметар енумације са стрингом</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="22"/>
         <source>An enumeration of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Енумација стрингова</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="23"/>
@@ -3131,503 +3148,503 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="123"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="126"/>
         <source>Bill</source>
-        <translation type="unfinished"></translation>
+        <translation>Бил</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="24"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="124"/>
         <source>Ron</source>
-        <translation type="unfinished"></translation>
+        <translation>Рон</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="25"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="125"/>
         <source>Eric</source>
-        <translation type="unfinished"></translation>
+        <translation>Ерик</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="27"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="127"/>
         <source>Ross</source>
-        <translation type="unfinished"></translation>
+        <translation>Рос</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="28"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="128"/>
         <source>Steve</source>
-        <translation type="unfinished"></translation>
+        <translation>Стив</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="29"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="129"/>
         <source>Will</source>
-        <translation type="unfinished"></translation>
+        <translation>Вил</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="30"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="130"/>
         <source>árvíztűrő tükörfúrógép</source>
-        <translation type="unfinished"></translation>
+        <translation>árvíztűrő tükörfúrógép</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="31"/>
         <source>Boolean Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Булови параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="32"/>
         <source>Variations on boolean parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Варијације на буловим параметрима</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="33"/>
         <source>Boolean Default true</source>
-        <translation type="unfinished"></translation>
+        <translation>Булов подразумевано тачно</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="34"/>
         <source>Boolean Default false</source>
-        <translation type="unfinished"></translation>
+        <translation>Булов подразумевано нетачно</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="35"/>
         <source>Boolean No Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Булов без подразумеваног</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="36"/>
         <source>A boolean default true</source>
-        <translation type="unfinished"></translation>
+        <translation>Булов подразумевано тачно</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="37"/>
         <source>A boolean default false</source>
-        <translation type="unfinished"></translation>
+        <translation>Булов подразумевано нетачно</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="38"/>
         <source>A boolean with no default, should be defaulting to false</source>
-        <translation type="unfinished"></translation>
+        <translation>Булов без подразумеваног, треба да подразумева нетачно</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="39"/>
         <source>File, Directory and Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри фајлова, директоријума и слика</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="40"/>
         <source>Parameters that describe files and directories.</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри који описују фајлове и директоријуме.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="41"/>
         <source>Input file</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни фајл</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="42"/>
         <source>Input Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни фајлови</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="43"/>
         <source>Output file</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни фајл</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="44"/>
         <source>Input directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни директоријум</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="45"/>
         <source>Input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна слика</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="46"/>
         <source>Input 4D Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна 4D слика</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="47"/>
         <source>Output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна слика</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="48"/>
         <source>An input file</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни фајл</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="49"/>
         <source>Multiple input files</source>
-        <translation type="unfinished"></translation>
+        <translation>Више улазних фајлова</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="50"/>
         <source>An output file</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни фајл</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="51"/>
         <source>An input directory. If no default is specified, the current directory is used,</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни директоријум. Ако није наведено подразумевано, користи се тренутни директоријум,</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="52"/>
         <source>An input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна слика</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="53"/>
         <source>Input 4D Image (txyz)</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна 4D слика (txyz)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="54"/>
         <source>An output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна слика</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="55"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри трансформације</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="56"/>
         <source>Parameters that describe transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри који описују трансформације.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="57"/>
         <source>Input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="58"/>
         <source>Input transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна линеарна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="59"/>
         <source>Input transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна нелинеарна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="60"/>
         <source>Input transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна bspline трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
         <source>Output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
         <source>Output transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна линеарна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="63"/>
         <source>Output transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна нелинеарна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="64"/>
         <source>Output transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна bspline трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="65"/>
         <source>A generic input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Генеричка улазна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="66"/>
         <source>A linear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Линеарна улазна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="67"/>
         <source>A nonlinear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Нелинеарна улазна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="68"/>
         <source>A bspline input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Bspline улазна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="69"/>
         <source>A generic output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Генеричка излазна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="70"/>
         <source>A linear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Линеарна излазна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="71"/>
         <source>A nonlinear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Нелинеарна излазна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="72"/>
         <source>A bspline output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Bspline излазна трансформација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="73"/>
         <source>Point Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри тачака</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="74"/>
         <source>Parameters that describe point sets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри који описују сетове тачака.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="75"/>
         <source>Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Семе</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="76"/>
         <source>Seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>Фајл са семеном</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="77"/>
         <source>Output seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни фајл са семеном</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="78"/>
         <source>Lists of points in the CLI correspond to slicer fiducial lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Листе тачака у CLI одговарају листама референтних тачака у Slicer-у</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="79"/>
         <source>Test file of input fiducials, compared to seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Тест фајл улазних референтних тачака, упоређен са семеном</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="80"/>
         <source>Output file to read back in, compare to seeds with flipped settings on first fiducial</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни фајл за поновно читање, упоређен са семеном са обрнутим подешавањима на првој референтној тачки</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="81"/>
         <source>Geometry Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри геометрије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="82"/>
         <source>Parameters that describe models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри који описују моделе.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="83"/>
         <source>Input Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни модел</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="84"/>
         <source>Output Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни модел</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Модели</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни модел</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="87"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни модел</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Генерисани модели, под чвором хијерархије модела. Модели се увозе у Slicer под чвором хијерархије модела. Чвор хијерархије модела мора бити креиран пре покретања креирања модела, одабиром Create New ModelHierarchy из падајућег менија Models.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="89"/>
         <source>Index Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри индекса</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="90"/>
         <source>Variations on parameters that use index rather than flags.</source>
-        <translation type="unfinished"></translation>
+        <translation>Варијације на параметрима који користе индекс уместо застава.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="91"/>
         <source>First index argument</source>
-        <translation type="unfinished"></translation>
+        <translation>Први индексни аргумент</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="92"/>
         <source>Second index argument</source>
-        <translation type="unfinished"></translation>
+        <translation>Други индексни аргумент</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="93"/>
         <source>First index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Први индексни аргумент је слика</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="94"/>
         <source>Second index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Други индексни аргумент је слика</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="95"/>
         <source>Regions of interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Региони од интереса</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="96"/>
         <source>Input region list</source>
-        <translation type="unfinished"></translation>
+        <translation>Листа улазних региона</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="97"/>
         <source>List of regions to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Листа региона за обраду</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="98"/>
         <source>Measurements</source>
-        <translation type="unfinished">Measurements</translation>
+        <translation>Мерења</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="99"/>
         <source>Input FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Унос FA мерења</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="100"/>
         <source>Output FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Излаз FA мерења</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="101"/>
         <source>Array of FA values to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Низ FA вредности за обраду</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="102"/>
         <source>Array of processed (output) FA values</source>
-        <translation type="unfinished"></translation>
+        <translation>Низ обрађених (излазних) FA вредности</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="103"/>
         <source>Generic Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>Генеричке Табеле</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="104"/>
         <source>Input Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна Табела</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="105"/>
         <source>Output Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна Табела</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="106"/>
         <source>Array of Table values to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Низ вредности Табеле за обраду</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="107"/>
         <source>Array of processed (output) Table values</source>
-        <translation type="unfinished"></translation>
+        <translation>Низ обрађених (излазних) вредности Табеле</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="108"/>
         <source>Simple return types</source>
-        <translation type="unfinished"></translation>
+        <translation>Једноставни типови повратних вредности</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="109"/>
         <source>An integer return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Целобројна повратна вредност</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="110"/>
         <source>A boolean return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Булова повратна вредност</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="111"/>
         <source>A floating point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Повратна вредност са покретним зарезом</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="112"/>
         <source>A double point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Повратна вредност са двоструким зарезом</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="113"/>
         <source>A string point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Повратна вредност као стринг</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="114"/>
         <source>An integer vector return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Вектор целобројних повратних вредности</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="115"/>
         <source>A string enumeration return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Повратна вредност као стринг енумација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="116"/>
         <source>An example of an integer return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Пример целобројног типа повратне вредности</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="117"/>
         <source>An example of a boolean return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Пример буловог типа повратне вредности</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="118"/>
         <source>An example of a float return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Пример типа повратне вредности са покретним зарезом</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="119"/>
         <source>An example of a double return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Пример типа повратне вредности са двоструким зарезом</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="120"/>
         <source>An example of a string return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Пример типа повратне вредности као стринг</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="121"/>
         <source>An example of an integer vector return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Пример типа повратне вредности као вектор целобројних вредности</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="122"/>
         <source>An enumeration of strings as a return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Енумација стрингова као тип повратне вредности</translation>
     </message>
 </context>
 <context>
@@ -3635,118 +3652,118 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="4"/>
         <source>Extract Skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation>Извлачење Скелета</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="5"/>
         <source>Extract the skeleton of a binary object.  The skeleton can be limited to being a 1D curve or allowed to be a full 2D manifold.  The branches of the skeleton can be pruned so that only the maximal center skeleton is returned.</source>
-        <translation type="unfinished"></translation>
+        <translation>Извлачење скелета бинарног објекта. Скелет може бити ограничен на 1Д криву или може бити дозвољено да буде пуна 2Д манифолда. Гране скелета могу бити орезане тако да се врати само максимални централни скелет.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="6"/>
         <source>The original implementation of this method was provided by ETH Zurich, Image Analysis Laboratory of Profs Olaf Kuebler, Gabor Szekely and Guido Gerig.  Martin Styner at UNC, Chapel Hill made enhancements.  Wrapping for Slicer was provided by Pierre Seroul and Stephen Aylward at Kitware, Inc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Оригиналну имплементацију ове методе обезбедио је ETH Zurich, Лабораторија за анализу слика проф. Олаф Киблер, Габор Секељ и Гвидо Гериг. Мартин Стајнер на UNC, Chapel Hill је направио побољшања. Обмотавање за Slicer обезбедили су Пјер Серул и Стивен Ајлвард у Kitware, Inc.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улаз/Излаз параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна Слика</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="10"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна Слика</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="11"/>
         <source>Input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна слика</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="12"/>
         <source>Skeleton of the input image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скелет улазне слике.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="13"/>
         <source>Skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation>Скелет</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="14"/>
         <source>Skeleton parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри скелета</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="15"/>
         <source>Skeleton type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип скелета</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="16"/>
         <source>Extract full tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Извлачење целог дрвета</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="17"/>
         <source>Number Of Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Број Тачака</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="18"/>
         <source>Output points list</source>
-        <translation type="unfinished"></translation>
+        <translation>Листа излазних тачака</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="19"/>
         <source>Output markups curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна кривуља маркера</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="20"/>
         <source>Type of skeleton to create. 1D extract centerline curve points. 2D extracts medial surface points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип скелета који треба креирати. 1Д извлачи тачке централне линије. 2Д извлачи тачке медијалне површине.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="21"/>
         <source>Include the full tree in the output, not just the longest branch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Укључи цело дрво у излаз, не само најдужу грану.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="22"/>
         <source>Number of points used to represent the skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation>Број тачака које се користе за представљање скелета</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="23"/>
         <source>Name of the file to store the coordinates of the central (1D) skeleton points</source>
-        <translation type="unfinished"></translation>
+        <translation>Назив фајла за чување координата централних (1Д) тачака скелета</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="24"/>
         <source>Centerline points as markups curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Тачке централне линије као кривуља маркера</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="25"/>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="26"/>
         <source>1D</source>
-        <translation type="unfinished">1D</translation>
+        <translation>1Д</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="27"/>
         <source>2D</source>
-        <translation type="unfinished">2D</translation>
+        <translation>2Д</translation>
     </message>
 </context>
 <context>
@@ -3754,108 +3771,108 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="5"/>
         <source>Fiducial Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистрација Фидучијала</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="6"/>
         <source>Computes a rigid, similarity or affine transform from a matched list of fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Израчунава ригидну, сличну или афинску трансформацију из упарене листе фидучијала</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Овај рад је део Националне алијансе за рачунарску обраду медицинских слика (NAMIC), финансиран од стране Националних института за здравље кроз NIH Roadmap за медицинска истраживања, Грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улаз/Излаз параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
         <source>Fixed landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиксни оријентири</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="11"/>
         <source>Moving landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Покретни оријентири</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="12"/>
         <source>Save transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Сачувај трансформацију</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="13"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип Трансформације</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"/>
         <source>RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation>RMS Грешка</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="15"/>
         <source>Output Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна Порука</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"/>
         <source>Ordered list of landmarks in the fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Уређена листа оријентира у фиксној слици</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="17"/>
         <source>Ordered list of landmarks in the moving image</source>
-        <translation type="unfinished"></translation>
+        <translation>Уређена листа оријентира у покретној слици</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="18"/>
         <source>Save the transform that results from registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Сачувај трансформацију која је резултат регистрације</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="19"/>
         <source>Type of transform to produce</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип трансформације који треба произвести</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="20"/>
         <source>Display RMS Error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приказ RMS грешке.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="21"/>
         <source>Provides more information on the output</source>
-        <translation type="unfinished"></translation>
+        <translation>Пружа више информација о излазу</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="22"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="24"/>
         <source>Rigid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ригидна</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
         <source>Translation</source>
-        <translation type="unfinished">Translation</translation>
+        <translation>Превод</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
         <source>Similarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Сличност</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="26"/>
         <source>Affine</source>
-        <translation type="unfinished"></translation>
+        <translation>Афинска</translation>
     </message>
 </context>
 <context>
@@ -3863,57 +3880,57 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="5"/>
         <source>Gaussian Blur Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Гаусова Замагљивање Слике</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="6"/>
         <source>Apply a gaussian blur to an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Примени гаусово замагљивање на слику</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Овај рад је део Националне алијансе за рачунарску обраду медицинских слика (NAMIC), финансиран од стране Националних института за здравље кроз NIH Roadmap за медицинска истраживања, Грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улаз/Излаз параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation>Сигма</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни Волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Output Volume</translation>
+        <translation>Излазни Волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
         <source>Sigma value in physical units (e.g., mm) of the Gaussian kernel</source>
-        <translation type="unfinished"></translation>
+        <translation>Вредност сигме у физичким јединицама (нпр. мм) гаусовог језгра</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="14"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"/>
         <source>Blurred Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Замагљени Волумен</translation>
     </message>
 </context>
 <context>
@@ -3921,109 +3938,111 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="5"/>
         <source>Gradient Anisotropic Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>Анизотропна Дифузија Градијента</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="6"/>
         <source>Runs gradient anisotropic diffusion on a volume.
 
 Anisotropic diffusion methods reduce noise (or unwanted detail) in images while preserving specific image features, like edges.  For many applications, there is an assumption that light-dark transitions (edges) are interesting.  Standard isotropic diffusion methods move and blur light-dark boundaries.  Anisotropic diffusion methods are formulated to specifically preserve edges. The conductance term for this implementation is a function of the gradient magnitude of the image at each point, reducing the strength of diffusion at edges. The numerical implementation of this equation is similar to that described in the Perona-Malik paper, but uses a more robust technique for gradient magnitude estimation and has been generalized to N-dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Покреће анизотропну дифузију градијента на волумену.
+
+Методе анизотропне дифузије смањују шум (или нежељене детаље) у сликама док очувавају специфичне карактеристике слике, као што су ивице. За многе апликације, постоји претпоставка да су прелази светло-тамно (ивице) интересантни. Стандардне методе изотропне дифузије померају и замагљују светло-тамне границе. Методе анизотропне дифузије су формулисане да специфично очувају ивице. Термин проводљивости за ову имплементацију је функција величине градијента слике у свакој тачки, смањујући снагу дифузије на ивицама. Нумеричка имплементација ове једначине је слична оној описаној у Perona-Malik раду, али користи робуснију технику за процену величине градијента и генерализована је на N-димензије.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Овај командни модул је изведен из Insight/Examples (ауторско право) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри Анизотропне Дифузије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за алгоритам анизотропне дифузије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="10"/>
         <source>Conductance</source>
-        <translation type="unfinished"></translation>
+        <translation>Проводљивост</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Итерације</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="12"/>
         <source>Time Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Временски Корак</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проводљивост контролише осетљивост термина проводљивости. Као опште правило, што је вредност нижа, филтер јаче очувава ивице. Висока вредност ће узроковати дифузију (замагљивање) преко ивица. Имајте на уму да број итерација контролише колико се замагљивање врши унутар региона ограничених ивицама.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Што више итерација, то више замагљивања. Свака итерација траје исто време. Ако једна итерација траје 10 секунди, онда ће 10 итерација трајати 100 секунди. Имајте на уму да проводљивост контролише колико свака итерација замагљује преко ивица.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Временски корак зависи од димензионалности слике. У Slicer-у су слике 3Д и подразумевани (.0625) временски корак ће обезбедити стабилно решење.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="17"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улаз/Излаз параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни Волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Output Volume</translation>
+        <translation>Излазни Волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен који треба филтрирати</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни филтрирани</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Напредно</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
         <source>Advanced parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Напредни параметри за алгоритам анизотропне дифузије</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="24"/>
         <source>Use image spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Користи простор слике</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
         <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
-        <translation type="unfinished"></translation>
+        <translation>![CDATA[Узмите у обзир размак између слика у прорачуну. Препоручљиво је укључити ову опцију, посебно када је величина пиксела различита у различитим димензијама. Међутим, да бисте добили резултате који су конзистентни са Slicer4.2 и ранијим верзијама, ову опцију треба искључити.]]</translation>
     </message>
 </context>
 <context>
@@ -4031,7 +4050,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="5"/>
         <source>Grayscale Fill Hole Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Филтер за попуњавање рупа у сивој скали</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="6"/>
@@ -4044,42 +4063,50 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
-        <translation type="unfinished"></translation>
+        <translation>GrayscaleFillholeImageFilter попуњава рупе у слици у сивој скали. Рупе су локални минимални у топографији сиве скале који нису повезани са границама слике. Вредности нивоа сиве боје у близини рупе се екстраполирају преко рупе.
+
+Овај филтер се користи за изглађивање локалних минималних вредности без утицаја на вредности локалних максималних вредности. Ако узмете разлику између излаза овог филтера и оригиналне слике (и можда поставите праг разлике изнад мале вредности), добићете мапу локалних минималних вредности.
+
+Овај филтер користи itkGrayscaleGeodesicErodeImageFilter. Он обезбеђује свој улаз као &quot;маску&quot; улаз за геодетску ерозију. &quot;Маркер&quot; слика за геодетску ерозију је конструисана тако да гранични пиксели одговарају граничним пикселима улазне слике, а унутрашњи пиксели су постављени на максималну вредност пиксела у улазној слици.
+
+ Геодетска морфологија и алгоритам Fillhole су описани у 6. поглављу књиге Пјера Сојла &quot;Морфолошка анализа слике: Принципи и примене&quot;, Друго издање, Спрингер, 2003. 
+
+ Пратећи филтер, Grayscale Grind Peak, уклања врхове у сликама у сивој скали.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Овај рад је део Националне алијансе за рачунарску обраду медицинских слика (NAMIC), финансиран од стране Националних института за здравље кроз NIH Roadmap за медицинска истраживања, Грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улаз/Излаз параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Output Volume</translation>
+        <translation>Излазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен за филтрирање</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Филтрирани излаз</translation>
     </message>
 </context>
 <context>
@@ -4087,7 +4114,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="5"/>
         <source>Grayscale Grind Peak Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Филтер за уклањање врхова у сивој скали</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="6"/>
@@ -4102,42 +4129,52 @@ This filter is the dual to the GrayscaleFillholeImageFilter which implements the
 Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</source>
-        <translation type="unfinished"></translation>
+        <translation>GrayscaleGrindPeakImageFilter уклања врхове у слици у сивој скали. Врхови су локални максимални у топографији сиве скале који нису повезани са границама слике. Вредности нивоа сиве боје у близини врха се екстраполирају кроз врх.
+
+Овај филтер се користи за изглађивање локалних максималних вредности без утицаја на вредности локалних минималних вредности. Ако узмете разлику између излаза овог филтера и оригиналне слике (и можда поставите праг разлике изнад мале вредности), добићете мапу локалних максималних вредности.
+
+Овај филтер користи GrayscaleGeodesicDilateImageFilter. Он обезбеђује свој улаз као &quot;маску&quot; улаз за геодетску ерозију. &quot;Маркер&quot; слика за геодетску ерозију је конструисана тако да гранични пиксели одговарају граничним пикселима улазне слике, а унутрашњи пиксели су постављени на минималну вредност пиксела у улазној слици.
+
+Овај филтер је дуал GrayscaleFillholeImageFilter који имплементира Fillhole алгоритам. Пошто је дуал, донекле је сувишан, али је обезбеђен као погодност.
+
+Геодетска морфологија и алгоритам Fillhole су описани у 6. поглављу књиге Пјера Сојла &quot;Морфолошка анализа слике: Принципи и примене&quot;, Друго издање, Спрингер, 2003.
+
+Пратећи филтер, Grayscale Fill Hole, попуњава рупе у сликама у сивој скали.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Овај рад је део Националне алијансе за рачунарску обраду медицинских слика (NAMIC), финансиран од стране Националних института за здравље кроз NIH Roadmap за медицинска истраживања, Грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улаз/Излаз параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Output Volume</translation>
+        <translation>Излазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен за филтрирање</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Филтрирани излаз</translation>
     </message>
 </context>
 <context>
@@ -4145,132 +4182,132 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="4"/>
         <source>Grayscale Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>Модел у сивој скали</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from grayscale data. This module uses Marching Cubes to create an isosurface at a given threshold. The resulting surface consists of triangles that separate a volume into regions below and above the threshold. The resulting surface can be smoothed and decimated. This model works on continuous data while the module Model Maker works on labeled (or discrete) data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Креирајте 3D површинске моделе из података у сивој скали. Овај модул користи Marching Cubes за креирање изосурфејса на датом прагу. Резултујућа површина се састоји од троуглова који раздвајају волумен на регионе испод и изнад прага. Резултујућа површина може бити изглађена и редукована. Овај модел ради на континуираним подацима док модул Model Maker ради на означеним (или дискретним) подацима.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Овај рад је део Националне алијансе за рачунарску обраду медицинских слика (NAMIC), финансиран од стране Националних института за здравље кроз NIH Roadmap за медицинска истраживања, Грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улаз/Излаз параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"/>
         <source>Output Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна геометрија</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="11"/>
         <source>Volume containing the input grayscale data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Волумен који садржи улазне податке у сивој скали.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="12"/>
         <source>Output that contains geometry model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Излаз који садржи геометријски модел.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="13"/>
         <source>Grayscale Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за модел у сивој скали</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="14"/>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри који се користе за креирање модела.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="15"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Праг</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Назив модела</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="17"/>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Изглађивање</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="18"/>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation>Редукција</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="19"/>
         <source>Split Normals?</source>
-        <translation type="unfinished"></translation>
+        <translation>Поделити нормале?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="20"/>
         <source>Compute Point Normals?</source>
-        <translation type="unfinished"></translation>
+        <translation>Израчунати нормале тачака?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="21"/>
         <source>Grayscale threshold of isosurface. The resulting surface of triangles separates the volume into voxels that lie above (inside) and below (outside) the threshold.</source>
-        <translation type="unfinished"></translation>
+        <translation>Праг у сивој скали изосурфејса. Резултујућа површина троуглова раздваја волумен на вокселе који су изнад (унутар) и испод (изван) прага.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"/>
         <source>Name to use for this model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Назив који ће се користити за овај модел.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="23"/>
         <source>Number of smoothing iterations. If 0, no smoothing will be done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Број итерација изглађивања. Ако је 0, изглађивање се неће извршити.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="24"/>
         <source>Target reduction during decimation, as a decimal percentage reduction in the number of polygons. If 0, no decimation will be done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Циљна редукција током редукције, као децимални проценат редукције броја полигона. Ако је 0, редукција се неће извршити.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="25"/>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affect measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Подела нормала је корисна за визуализацију оштрих карактеристика. Међутим, она ствара рупе у површинама које утичу на мерења.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="26"/>
         <source>Calculate the point normals? Calculated point normals make the surface appear smooth. Without point normals, the surface will appear faceted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Израчунати нормале тачака? Израчунате нормале тачака чине да површина изгледа глатко. Без нормала тачака, површина ће изгледати фасетирано.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="27"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Напредно</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="28"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Дебаг</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="29"/>
         <source>Turn this flag on to log more details during execution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Укључите ову заставицу да бисте бележили више детаља током извршења.</translation>
     </message>
 </context>
 <context>
@@ -4278,7 +4315,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="4"/>
         <source>Histogram Matching</source>
-        <translation type="unfinished"></translation>
+        <translation>Усклађивање хистограма</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="5"/>
@@ -4289,92 +4326,98 @@ The filter was originally designed to normalize MR images of the sameMR protocol
  Number of match points governs the number of quantile values to be matched.
 
 The filter assumes that both the source and reference are of the same type and that the input and output image type have the same number of dimension and have scalar pixel types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нормализује вредности у сивој скали изворне слике на основу вредности у сивој скали референтне слике. Овај филтер користи технику усклађивања хистограма где се хистограми две слике усклађују само на одређеном броју квантилних вредности.
+
+Филтер је првобитно дизајниран за нормализацију МР слика истог МР протокола и истог дела тела. Алгоритам најбоље функционише ако су пиксели позадине искључени из оба хистограма, и изворног и референтног. Једноставан метод искључивања позадине је искључивање свих пиксела чије су вредности у сивој скали мање од средње вредности у сивој скали. ThresholdAtMeanIntensity укључује овај једноставан метод искључивања позадине.
+
+ Број тачака усклађивања одређује број квантилних вредности које ће бити усклађене.
+
+Филтер претпоставља да су и извор и референтна слика истог типа и да улазни и излазни тип слике имају исти број димензија и имају скаларне типове пиксела.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Овај рад је део Националне алијансе за рачунарску обраду медицинских слика (NAMIC), финансиран од стране Националних института за здравље кроз NIH Roadmap за медицинска истраживања, Грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
         <source>Histogram Matching Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за усклађивање хистограма</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="8"/>
         <source>Parameters for Histogram Matching</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за усклађивање хистограма</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="9"/>
         <source>Number of Histogram Levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Број нивоа хистограма</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="10"/>
         <source>Number of Match Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Број тачака усклађивања</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="11"/>
         <source>Threshold at mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Праг на средњој вредности</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="12"/>
         <source>The number of hisogram levels to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Број нивоа хистограма који ће се користити</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="13"/>
         <source>The number of match points to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Број тачака усклађивања који ће се користити</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="14"/>
         <source>If on, only pixels above the mean in each volume are thresholded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако је укључено, само пиксели изнад средње вредности у сваком волумену ће бити прагови.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Улаз/Излаз параметри</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
         <source>Reference Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Референтни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Output Volume</translation>
+        <translation>Излазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен који ће бити филтриран</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="21"/>
         <source>Input volume whose histogram will be matched</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен чији ће хистограм бити усклађен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="22"/>
         <source>Output volume. This is the input volume with intensities matched to the reference volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни волумен. Ово је улазни волумен са интензитетима усклађеним са референтним волуменом.</translation>
     </message>
 </context>
 <context>
@@ -4382,68 +4425,68 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="4"/>
         <source>Image Label Combine</source>
-        <translation type="unfinished"></translation>
+        <translation>Комбиновање ознака слике</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="5"/>
         <source>Combine two label maps into one</source>
-        <translation type="unfinished"></translation>
+        <translation>Комбинујте две мапе ознака у једну</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="6"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Параметри улаза/излаза</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
         <source>Input Label Map A</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна мапа ознака А</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="9"/>
         <source>Input Label Map B</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна мапа ознака Б</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="10"/>
         <source>Output Label Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазна мапа ознака</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="11"/>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="12"/>
         <source>Label map image</source>
-        <translation type="unfinished"></translation>
+        <translation>Слика мапе ознака</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="13"/>
         <source>Resulting Label map image</source>
-        <translation type="unfinished"></translation>
+        <translation>Резултујућа слика мапе ознака</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="14"/>
         <source>Label combination options</source>
-        <translation type="unfinished"></translation>
+        <translation>Опције комбиновања ознака</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="15"/>
         <source>Selection of how to combine label maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор начина комбиновања мапа ознака</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="16"/>
         <source>First Label Overwrites Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Прва ознака замењује другу</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="17"/>
         <source>Use first or second label when both are present</source>
-        <translation type="unfinished"></translation>
+        <translation>Користите прву или другу ознаку када су обе присутне</translation>
     </message>
 </context>
 <context>
@@ -4451,117 +4494,117 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="4"/>
         <source>Label Map Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Изглађивање мапе ознака</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="5"/>
         <source>This filter smoothes a binary label map.  With a label map as input, this filter runs an anti-alising algorithm followed by a Gaussian smoothing algorithm.  The output is a smoothed label map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Овај филтер изглађује бинарну мапу ознака. Са мапом ознака као улазом, овај филтер покреће алгоритам против алијасинга праћен Гауссовим алгоритмом изглађивања. Резултат је изглађена мапа ознака.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  This filter is based on work developed at the University of Utah, and implemented at GE Research.</source>
-        <translation type="unfinished"></translation>
+        <translation>Овај рад је део Националног савеза за рачунарску обраду медицинских слика (NAMIC), финансираног од стране Националних института за здравље кроз NIH Roadmap за медицинска истраживања, Грант U54 EB005149. Овај филтер је заснован на раду развијеном на Универзитету у Јути, и имплементиран у GE Research.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="7"/>
         <source>Label Selection Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри избора ознака</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="8"/>
         <source>Parameters for selecting the label to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за избор ознаке за изглађивање</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="9"/>
         <source>Label to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Означити за изглађивање</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"/>
         <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Означити за изглађивање. Све остале ће бити игнорисане. Ако корисник не изабере ознаку, подразумевано ће бити изабрана максимална ознака у слици.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"/>
         <source>AntiAliasing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри против алијасинга</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="12"/>
         <source>Parameters for the AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за алгоритам против алијасинга</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="13"/>
         <source>Number of Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Број итерација</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="14"/>
         <source>Maximum RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимална RMS грешка</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="15"/>
         <source>The number of iterations of the level set AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Број итерација алгоритма против алијасинга нивоа сета</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="16"/>
         <source>The maximum RMS error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимална RMS грешка.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="17"/>
         <source>Gaussian Smoothing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри Гауссовог изглађивања</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="18"/>
         <source>Parameters for Gaussian Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за Гауссово изглађивање</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="19"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation>Сигма</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="20"/>
         <source>The standard deviation of the Gaussian kernel</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандардна девијација Гауссовог језгра</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="21"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Параметри улаза/излаза</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Output Volume</translation>
+        <translation>Излазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
         <source>Input label map to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазна мапа ознака за изглађивање</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="26"/>
         <source>Smoothed label map</source>
-        <translation type="unfinished"></translation>
+        <translation>Изглађена мапа ознака</translation>
     </message>
 </context>
 <context>
@@ -4569,87 +4612,87 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="5"/>
         <source>Mask Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Маска скаларног волумена</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="6"/>
         <source>Masks two images. The output image is set to 0 everywhere except where the chosen label from the mask volume is present, at which point it will retain it&apos;s original values. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Маскира две слике. Излазна слика је постављена на 0 свуда осим где је присутна изабрана ознака из волумена маске, у ком случају ће задржати своје оригиналне вредности. Две слике не морају имати исте димензије.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Овај рад је део Националног савеза за рачунарску обраду медицинских слика (NAMIC), финансираног од стране Националних института за здравље кроз NIH Roadmap за медицинска истраживања, Грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
         <source>Input and Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Улаз и излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Параметри улаза/излаза</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="11"/>
         <source>Mask Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Волумен маске</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="12"/>
         <source>Masked Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Маскирани волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="13"/>
         <source>Input volume to be masked</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен који ће бити маскиран</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="14"/>
         <source>Label volume containing the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Волумен ознака који садржи маску</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="15"/>
         <source>Output volume: Input Volume masked by label value from Mask Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни волумен: Улазни волумен маскиран вредношћу ознаке из волумена маске</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="16"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Подешавања</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="17"/>
         <source>Filter settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Подешавања филтера</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="18"/>
         <source>Label value</source>
-        <translation type="unfinished"></translation>
+        <translation>Вредност ознаке</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="19"/>
         <source>Replace value</source>
-        <translation type="unfinished"></translation>
+        <translation>Замени вредност</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="20"/>
         <source>Label value in the Mask Volume to use as the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Вредност ознаке у волумену маске која ће се користити као маска</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="21"/>
         <source>Value to use for the output volume outside of the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Вредност која ће се користити за излазни волумен ван маске</translation>
     </message>
 </context>
 <context>
@@ -4657,67 +4700,67 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="5"/>
         <source>Median Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Медијански филтер слике</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="6"/>
         <source>The MedianImageFilter is commonly used as a robust approach for noise reduction. This filter is particularly efficient against &quot;salt-and-pepper&quot; noise. In other words, it is robust to the presence of gray-level outliers. MedianImageFilter computes the value of each output pixel as the statistical median of the neighborhood of values around the corresponding input pixel.</source>
-        <translation type="unfinished"></translation>
+        <translation>Медијански филтер слике се често користи као робустан приступ за смањење шума. Овај филтер је посебно ефикасан против &quot;сол и бибер&quot; шума. Другим речима, робустан је према присуству сивих нивоа одступања. Медијански филтер слике израчунава вредност сваког излазног пиксела као статистички медијан суседства вредности око одговарајућег улазног пиксела.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Овај командни модул је изведен из Insight/Examples/Filtering/MedianImageFilter (ауторска права) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="8"/>
         <source>Median Filter Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри медијанског филтера</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="9"/>
         <source>Parameters for the median filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри за медијански филтер</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="10"/>
         <source>Neighborhood Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Величина суседства</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="11"/>
         <source>The size of the neighborhood in each dimension</source>
-        <translation type="unfinished"></translation>
+        <translation>Величина суседства у свакој димензији</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="12"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>Параметри улаза/излаза</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Output Volume</translation>
+        <translation>Излазни волумен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни волумен који ће бити филтриран</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="17"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Филтрирани излаз</translation>
     </message>
 </context>
 <context>
@@ -4725,57 +4768,57 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="4"/>
         <source>Merge Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Споји моделе</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="5"/>
         <source>Merge the polydata from two input models and output a new model with the combined polydata. Uses the vtkAppendPolyData filter. Works on .vtp and .vtk surface files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Спојите полидате из два улазна модела и излазите нови модел са комбинованим полидатама. Користи vtkAppendPolyData филтер. Ради са .vtp и .vtk површинским фајловима.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Овај рад је део Националног савеза за рачунарску обраду медицинских слика (NAMIC), финансираног од стране Националних института за здравље кроз NIH Roadmap за медицинска истраживања, Грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
         <source>Input/output</source>
-        <translation type="unfinished"></translation>
+        <translation>Улаз/Излаз</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="9"/>
         <source>Model 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Модел 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="10"/>
         <source>Model 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Модел 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="11"/>
         <source>Output Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни модел</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="12"/>
         <source>Input model 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни модел 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="13"/>
         <source>Input model 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Улазни модел 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="14"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>Излазни модел</translation>
     </message>
 </context>
 <context>
@@ -4783,12 +4826,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="4"/>
         <source>Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>Креатор модела</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Креирајте 3D површинске моделе из сегментираних података.&lt;p&gt;Модели се увозе у Slicer под чвором хијерархије модела у MRML сцени. Боје модела се подешавају према табели боја повезаној са улазним волуменом (ове боје ће бити видљиве само ако учитате фајл сцене модела).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Улаз/Излаз:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Наведите &lt;i&gt;Улазни волумен&lt;/i&gt; који је сегментирани волумен мапе ознака. Креирајте нову &lt;i&gt;Хијерархију модела&lt;/i&gt; да бисте обезбедили структуру за садржај повратних модела креираних из улазног волумена.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Креирајте више:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ако наведете листу &lt;i&gt;Ознака&lt;/i&gt;, она ће заменити сва подешавања почетне/крајње ознаке.&lt;/p&gt;&lt;p&gt;Ако кликнете &lt;i&gt;Генериши све&lt;/i&gt;, она ће заменити листу ознака и сва подешавања почетне/крајње ознаке.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Параметри креатора модела:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Можете подесити број итерација изглађивања, циљано смањење броја полигона (децимални проценат). Користите 0 и 1 ако не желите изглађивање нити децимацију.&lt;br&gt;Можете подесити заставице за раздвајање нормала или генерисање тачкастих нормала у овом панелу.&lt;br&gt;Можете сачувати копију модела након међупроцесних корака (марширајуће коцке, изглађивање и децимација ако није заједничко изглађивање, иначе само након децимације); ови модели нису сачувани у mrml фајлу, прво искључите брисање привремених фајлова у python прозору:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
