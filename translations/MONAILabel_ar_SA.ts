@@ -596,47 +596,47 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="541"/>
         <source>Scribbles</source>
-        <translation type="unfinished"></translation>
+        <translation>شخبطات</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="564"/>
         <source>Paint</source>
-        <translation type="unfinished"></translation>
+        <translation>طلاء</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="574"/>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>محو</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="588"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="626"/>
         <source>3D</source>
-        <translation type="unfinished"></translation>
+        <translation>ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="638"/>
         <source>Scribbles:</source>
-        <translation type="unfinished"></translation>
+        <translation>شخبطات:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="687"/>
         <source>ROI:</source>
-        <translation type="unfinished"></translation>
+        <translation>المنطقة ذات الاهتمام:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="714"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="735"/>
         <source>Import Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>استيراد التصنيف:</translation>
     </message>
 </context>
 <context>
@@ -645,7 +645,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="614"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="22"/>
         <source>Basic mode</source>
-        <translation type="unfinished"></translation>
+        <translation>الوضع الأساسي</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="615"/>
@@ -787,13 +787,13 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="652"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="307"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>خادم</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="655"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="345"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>اتصال</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="656"/>
