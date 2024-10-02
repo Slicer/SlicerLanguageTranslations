@@ -7,17 +7,17 @@
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="20"/>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="56"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mot de passe&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="43"/>
         <source>UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;utilisateur&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="41"/>
         <source>MONAILabel</source>
-        <translation type="unfinished"></translation>
+        <translation>MONAILabel</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="50"/>
@@ -33,14 +33,19 @@
 Active Learning solution.
 See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Solution d&apos;apprentissage actif.
+Voir plus d&apos;informations dans la &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;documentation du module&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="57"/>
         <source>
 Developed by NVIDIA, KCL
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Développé par NVIDIA, KCL
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="72"/>
