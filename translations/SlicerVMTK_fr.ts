@@ -130,7 +130,11 @@ Break down a centerline model into parts.
 This module makes use of the &apos;ExtractCenterline&apos; module to generate curves.
 See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce module décompose une ligne centrale de type &apos;Modèle&apos; en ses constituants.
+Il peut aussi générer des courbes en appellant le module &apos;Extract centerline&apos;.
+Pour plus d&apos;informations, veuillez consulter la &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;documentation&lt;/a&gt; en ligne.
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="51"/>
@@ -146,12 +150,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="96"/>
         <source>Bifurcations</source>
-        <translation>Bifurcations</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="97"/>
         <source>Branches</source>
-        <translation>Branches</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="98"/>
@@ -375,7 +379,9 @@ Ce module décrit des coupes transversales le long d&apos;une ligne centrale VMT
         <source>
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce module réalise des sections orthogonales à un ligne centrale qui peut être un modèle généré par les bibliothèques VMTK, une courbe générée par le module &apos;Extract centerline&apos; ou une courbe arbitraire. Pour plus d&apos;informations, veuillez consulter la &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;documentation&lt;/a&gt; en ligne.
+</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="42"/>
@@ -391,12 +397,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="103"/>
         <source>Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Régions</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="104"/>
         <source>Coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordonnées</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="354"/>
@@ -467,12 +473,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="757"/>
         <source>Collection of lumen regions is unexpectedly None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur «None» inattendue pour la collection des régions.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="762"/>
         <source>Requested region is beyond range.</source>
-        <translation type="unfinished"></translation>
+        <translation>La région souhaitée est hors-limite.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="770"/>
@@ -482,17 +488,17 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="773"/>
         <source> cells</source>
-        <translation type="unfinished"></translation>
+        <translation> cellule</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="793"/>
         <source>Could not prepare the segment editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne peut préparer l&apos;éditeur de segmentations.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="967"/>
         <source>Invalid surface polydata.</source>
-        <translation type="unfinished"></translation>
+        <translation>Surface invalide.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1049"/>
@@ -513,7 +519,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1223"/>
         <source>Updating table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour de la table&#xa0;:</translation>
     </message>
     <message>
         <source>Updating table :</source>
@@ -546,7 +552,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1518"/>
         <source>Lumen surface node is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>La surface représentant la lumière n&apos;est pas précisée.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1563"/>
@@ -613,7 +619,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
 - a centerline model created by &apos;Extract centerline&apos; module,
 - an arbitrary open markups curve,
 - an invisible centerline of a shape markups node used as a tube.</oldsource>
-        <translation type="unfinished">La ligne centrale peut être&#x202f;:
+        <translation>La ligne centrale peut être&#xa0;:
 
 - une courbe créée par le module &apos;Extract centerline&apos;,
 - un modèle créé par le module &apos;Extract centerline&apos;,
@@ -683,12 +689,12 @@ La ligne centrale doit être à l&apos;intérieur de la lumière.</translation>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="256"/>
         <source>Tools / Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Outils / Options</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="296"/>
         <source>Manage connected regions of the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gérer les régions connectées de la surface.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="299"/>
@@ -704,27 +710,33 @@ Ideally, there should be only one region. More regions may indicate the presence
 When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again.
 
 After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Déterminer le nombre de régions connectées distinctes de la surface.
+
+Idéalement, il devrait exister une seule région. Plusieurs régions signalent la présence de &apos;trous&apos; dans la lumière et/ou des régions distinctes en dehors de la lumière. Les trous dans la lumière signifient une mesure imprécise de la surface de section.
+
+Lorsque les régions surnuméraires ont été supprimées, utilisant l&apos;effet &apos;Paint&apos; de l&apos;éditeur de segments, veuillez exécuter cette fonction à nouveau.
+
+Après un réparation complète de la surface, les lignes centrales doivent être extraites à nouveau pour mettre à jour les tables &apos;Maximum inscribed sphere&apos;.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="316"/>
         <source>Get:</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifier&#xa0;:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="331"/>
         <source>Cycle through the identified distinct regions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcourir les régions identifiées.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="353"/>
         <source>Indicates the size of the selected region. Low values suggest a parasite region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de la région. Des valeurs peu élevées suggèrent une région parasite.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="363"/>
         <source>If toggled, the selected region is centred in all slice views, except in the ideal case where there is one single region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrer la région dans les vues de tranches&#x202f;; ne s&apos;applique pas s&apos;il existe une seule région.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="376"/>
@@ -733,17 +745,21 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
 This is available if the lumen surface is a segmentation.
 
 The &apos;Sphere&apos; brush is enforced. Further customisation can be performed in the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer l&apos;effet &apos;Peindre&apos; de l&apos;Éditeur de segments.
+
+Seulement si la surface est un segment.
+
+Le pinceau est placé en mode &apos;Sphère&apos;. L&apos;Éditeur de segments permet de faire des réglages supplémentaires .</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="383"/>
         <source>paint</source>
-        <translation type="unfinished"></translation>
+        <translation>peindre</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="398"/>
         <source>Specify how to output point coordinates of the centerline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spécifier le mode d&apos;écriture des coordonnées de la ligne centrale.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
@@ -843,7 +859,7 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="592"/>
         <source>orthogonal</source>
-        <translation>orthogonal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="605"/>
@@ -877,7 +893,7 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="674"/>
         <source>Longitudinal</source>
-        <translation>Longitudinal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="677"/>
@@ -1062,7 +1078,11 @@ Attention&#x202f;: les valeurs aux bifurcations peuvent ne pas avoir de signific
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
 
 Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamètre circulaire équivalent (CE)&#xa0;: celui d&apos;un cercle ayant la superficie de la section transversale.
+
+La différence absolue et en pourcentage avec le diamètre de la sphère de plus grande taille (MIS) est également fournie.
+
+Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de signification clinique.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1079"/>
@@ -1540,7 +1560,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="617"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="617"/>
         <source>Voronoi diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramme de Voronoï</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="639"/>
@@ -1674,7 +1694,7 @@ Slicer doit être redémarré. Voulez-vous redémarrer maintenant&#x202f;?</tran
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="136"/>
         <source>Failed to install {nameOfExtension} extension</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec d&apos;installation de l&apos;extension {nameOfExtension}</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="150"/>
@@ -1863,7 +1883,7 @@ Si spécifié, le diamètre régulier du tube ci-dessus est ignoré.</translatio
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="351"/>
         <source>Neighbourhood size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rayon&#xa0;:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="358"/>
@@ -2185,7 +2205,7 @@ Slicer doit être redémarré. Voulez-vous redémarrer maintenant&#x202f;?</tran
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="133"/>
         <source>Failed to install {nameOfExtension} extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec d&apos;installation de l&apos;extension {nameOfExtension}</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="147"/>
@@ -2334,7 +2354,7 @@ Les points de contrôle doivent être dans la lumière contrastée.</translation
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="281"/>
         <source>Neighbourhood size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayon&#xa0;:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="288"/>
@@ -2433,22 +2453,22 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="23"/>
         <source>Input curve:</source>
-        <translation type="unfinished">Courbe&#x202f;:</translation>
+        <translation>Courbe&#xa0;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="30"/>
         <source>Pick the input markups curve.</source>
-        <translation type="unfinished">Choisissez la courbe à traiter.</translation>
+        <translation>Choisissez la courbe à traiter.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="66"/>
         <source>Result table.</source>
-        <translation type="unfinished">Tableau des résultats.</translation>
+        <translation type="unfinished">Tableau de résultats.</translation>
     </message>
 </context>
 <context>
@@ -2671,22 +2691,22 @@ Le résultat est influencé par&#x202f;:
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="36"/>
         <source>Slice node:</source>
-        <translation type="unfinished">Vue de tranches&#x202f;:</translation>
+        <translation>Vue de tranches&#xa0;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
         <source>Select an input slice view.</source>
-        <translation type="unfinished">Sélectionnez une vue de tranches.</translation>
+        <translation>Sélectionnez une vue de tranches.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="70"/>
         <source>Fiducial:</source>
-        <translation type="unfinished">Liste de points&#x202f;:</translation>
+        <translation>Liste de points&#xa0;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="77"/>
@@ -2700,26 +2720,26 @@ En cliquant sur un point de contrôle, vous pouvez enregistrer l&apos;orientatio
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="112"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentation&#x202f;:</translation>
+        <translation>Segmentation&#xa0;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="119"/>
         <source>Select an input segmentation.</source>
-        <translation type="unfinished">Sélectionnez une segmentation.</translation>
+        <translation>Sélectionnez une segmentation.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="142"/>
         <source>Result table.
 
 Right click for more.</source>
-        <translation type="unfinished">Tableau des résultats.
+        <translation>Tableau de résultat.
 
 Clic droit pour plus.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="167"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquer</translation>
+        <translation>Appliquer</translation>
     </message>
 </context>
 <context>
@@ -2852,7 +2872,7 @@ The input centerline is expected to be inside the lumen surface.</source>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="162"/>
         <source>Splitting, please wait...</source>
         <oldsource>Debranching, please wait...</oldsource>
-        <translation type="unfinished">Division en cours, veuillez patienter...</translation>
+        <translation>Division en cours, veuillez patienter...</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="170"/>
