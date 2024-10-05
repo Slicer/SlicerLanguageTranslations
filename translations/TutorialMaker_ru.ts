@@ -235,7 +235,7 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
         <source>Utilities</source>
-        <translation>Утилита</translation>
+        <translation>Утилиты</translation>
     </message>
 </context>
 </TS>
