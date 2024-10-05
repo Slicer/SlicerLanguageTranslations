@@ -1976,12 +1976,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation>поплавок</translation>
+        <translation>Дробное</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
         <source>Double</source>
-        <translation>Двойной</translation>
+        <translation>Дробное двойной точности</translation>
     </message>
 </context>
 <context>
@@ -1999,7 +1999,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>Данная работа является частью проекта Национального объединения медицинских компьютерных вычислений для изображений (NAMIC), финансируемой Национальными институтами здравоохранения США (NIH) в рамках программы планируемых медицинских исследований NIH, Грант U54 EB005149.</translation>
+        <translation>Данная работа является частью проекта Национального объединения медицинских компьютерных вычислений для изображений (NAMIC), финансируемой Национальными институтами здравоохранения США (NIH) в рамках программы планируемых медицинских исследований NIH, грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
@@ -2034,12 +2034,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"/>
         <source>Input Volume 1</source>
-        <translation>Объём ввода 1</translation>
+        <translation>Значение входа 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
         <source>Input Volume 2</source>
-        <translation>Объём Ввода 2</translation>
+        <translation>Значение входа 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
@@ -2067,12 +2067,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"/>
         <source>Create a DICOM Series</source>
-        <translation>Создать DICOM Серии</translation>
+        <translation>Создать последовательности DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation>Создать серию DICOM из объёма Slicer. Пользователь может указать значения для выбранных тегов DICOM в пользовательском интерфейсе. Учитывая количество тегов, которые есть у серии DICOM, невозможно отобразить все теги в пользовательском интерфейсе. Поэтому пользователь может задать только важные теги.</translation>
+        <translation>Создать серию DICOM из объёма Slicer. Пользователь может указать значения для выбранных тегов DICOM в пользовательском интерфейсе. Учитывая количество тегов, которые есть у последовательности DICOM, невозможно отобразить все теги в пользовательском интерфейсе. Поэтому пользователь может задать только важные теги.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
@@ -2097,7 +2097,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
         <source>Input volume to be resampled</source>
-        <translation>Входной объем для повторной выборки</translation>
+        <translation>Значение входа для повторной выборки</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
@@ -2132,7 +2132,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
         <source>Use Compression</source>
-        <translation>Используй компрессию</translation>
+        <translation>Использовать сжатие</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"/>
@@ -2142,7 +2142,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
         <source>The directory to contain the DICOM series.</source>
-        <translation>Реестр содержит серии DICOM.</translation>
+        <translation>Путь, содержащий последовательности DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
@@ -6293,7 +6293,7 @@ Preservation of the Principal Direction (PPD)</source>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"/>
         <source>input</source>
-        <translation type="unfinished">ввод</translation>
+        <translation>вход</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
@@ -18693,7 +18693,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="4"/>
         <source>Utilities</source>
-        <translation>Утилита</translation>
+        <translation>Утилиты</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="4"/>
