@@ -180,7 +180,7 @@
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="488"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="550"/>
         <source>Series UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Série UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="492"/>
@@ -2227,17 +2227,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="933"/>
         <source>Starting Instances C-FIND for Series: </source>
-        <translation type="unfinished"></translation>
+        <translation>Instances de démarrage C-FIND pour série&#xa0;: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="970"/>
         <source>Find succeeded on Series level for Series: </source>
-        <translation type="unfinished"></translation>
+        <translation>Trouver réussi au niveau Série pour Séries&#xa0;: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="975"/>
         <source>Find on Series level failed for Series: </source>
-        <translation type="unfinished"></translation>
+        <translation>Trouver sur le niveau de la série a échoué pour la série&#xa0;: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="1022"/>
@@ -2492,18 +2492,19 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMSeriesItemWidget.ui" line="14"/>
         <source>Series Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesItemWidget.cpp" line="561"/>
         <source>Series: %1
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Série&#xa0;: %1
+%2</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesItemWidget.cpp" line="564"/>
         <source>Series: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Série&#xa0;: %1</translation>
     </message>
 </context>
 <context>
@@ -2796,7 +2797,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="111"/>
         <source>Series:</source>
-        <translation>Séries :</translation>
+        <translation>Séries&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -3059,12 +3060,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="285"/>
         <source>Series</source>
-        <translation type="unfinished">Série</translation>
+        <translation>Série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="301"/>
         <source>Filter by series description</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrer par description de série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="352"/>
@@ -3280,7 +3281,7 @@ Please set at least one filter to query the servers</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="1087"/>
         <source>Retrieving and processing selected series...</source>
-        <translation type="unfinished"></translation>
+        <translation>Récupération et traitement des séries sélectionnées...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2282"/>
@@ -3388,12 +3389,12 @@ Please set at least one filter to query the servers and check that at least one 
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3385"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3495"/>
         <source>Force retrieve series</source>
-        <translation type="unfinished"></translation>
+        <translation>Récupération forcée de séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3386"/>
         <source>Force retrieve series for %1 studies</source>
-        <translation type="unfinished"></translation>
+        <translation>Récupération forcée de %1 études</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3390"/>
@@ -3428,57 +3429,57 @@ Please set at least one filter to query the servers and check that at least one 
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3485"/>
         <source>Load series</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3486"/>
         <source>Load %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger %1 série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3490"/>
         <source>View series DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir les métadonnées DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3491"/>
         <source>View %1 series DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir les métadonnées DICOM de %1 série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3496"/>
         <source>Force retrieve for %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>Récupération forcée de %1 séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3500"/>
         <source>Delete series from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer la série de la base de données locale</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3501"/>
         <source>Delete %1 series from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer %1 séries de la base de données locale</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3506"/>
         <source>Export series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Série d&apos;exportation pour système de fichiers</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3507"/>
         <source>Export %1 series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter %1 séries dans le système de fichiers</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3511"/>
         <source>Send series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoyer la série au serveur DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3512"/>
         <source>Send %1 series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoyer %1 séries au serveur DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3582"/>
