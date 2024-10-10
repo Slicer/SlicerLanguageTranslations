@@ -605,27 +605,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Específica una máscara para considerar solamente una determina región de la imagen para el registro. Si elige ROIAUTO, la máscara se computa utilizando el umbral de Otsu y el relleno de agujeros. Si se elige ROI, la máscara debe especificarse como entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si la opción de la máscara es ROI, se requiere el volumen fijo de la máscara binaria de la imagen. Las áreas de la imagen donde el volumen de la máscara tiene el valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si la opción de máscara es ROI, se requiere el volumen de máscara binaria en movimiento. Las áreas de imagen en las que el volumen de máscara tiene valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI calculado automáticamente a partir de la imagen fija. Disponible solo si la opción de máscara es ROIAUTO. Las áreas de imagen en las que el volumen de la máscara tiene un valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI se calcula automáticamente a partir de la imagen en movimiento. Disponible solo si la opción de máscara es ROIAUTO. Las áreas de la imagen en las que el volumen de la máscara tiene un valor cero durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
