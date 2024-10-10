@@ -444,7 +444,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation>Определите, как инициализовать центр трансформации.  useMomentsAlign предполагает, что центр массы изображений представляет собой схожие структуры.  useCenterOfHeadAlign пытается использовать верх головы и форму шеи для выведения предположительного центра масс. useGeometryAlign во включённом состоянии предполагает, что центр воксельной решётки представляет собой схожией структуры. В выключенном же состоянии предполагается, что физическое пространство изображений близко.  Этот флаг является взимоисключающим по отношению к Преобразованию инициализации.</translation>
+        <translation type="unfinished">Определить, как инициализировать центр трансформации. useMomentsAlign предполагает, что центр масс изображений представляет собой схожие структуры. useCenterOfHeadAlign пытается использовать верхнюю часть головы и форму шеи для вычисления оценки центра масс. useGeometryAlign предполагает, что центр воксельной решетки изображений представляет собой схожие структуры. Off предполагает, что физическое пространство изображений близко. Этот флаг является взаимоисключающим с трансформацией инициализации.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -732,13 +732,13 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation type="unfinished">плавать</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation type="unfinished">Линейный</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
@@ -1319,7 +1319,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="35"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation type="unfinished">короткий</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
