@@ -27094,7 +27094,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="643"/>
         <source>No study description</source>
-        <translation type="unfinished"></translation>
+        <translation>Çalışma açıklaması yok</translation>
     </message>
 </context>
 <context>
