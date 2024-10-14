@@ -320,7 +320,9 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تسجل هذه الوحدة قائمة مرجعية على سطح النموذج باستخدام طريقة أقرب النقاط التكرارية (ICP). للحصول على مساعدة حول كيفية استخدام هذه الوحدة، تفضل بزيارة: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;موقع SlicerIGT على الويب&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
@@ -328,62 +330,64 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تم تطوير هذا الملف في الأصل بواسطة Jean-Christophe Fillion-Robin، Kitware Inc. وSteve Pieper، Isomics, Inc. وتم تمويله جزئيًا بواسطة منحة NIH 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
         <source>Pick the input fiducial list for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر قائمة الإدخال المرجعية للخوارزمية.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation type="unfinished"></translation>
+        <translation>مدخلات الاعتماد: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
         <source>Pick the input model for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر نموذج الإدخال للخوارزمية.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
         <source>Input model: </source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الإدخال: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="96"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر الناتج للخوارزمية.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإخراج: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
         <source>If checked, take screen shots for tutorials. Use Save Data to write them to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم تحديد هذا المربع، فالتقط لقطات شاشة للدروس التعليمية. استخدم خيار حفظ البيانات لكتابتها على القرص.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="115"/>
         <source>Set scale factor for the screen shots.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين عامل المقياس للقطات الشاشة.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="122"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="130"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>الناتج</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="135"/>
         <source>Mean distance after registration: </source>
-        <translation type="unfinished"></translation>
+        <translation>متوسط المسافة بعد التسجيل: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
@@ -393,12 +397,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
         <source>Transform type: </source>
-        <translation type="unfinished"></translation>
+        <translation>نوع التحويل: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد التكرارات:</translation>
     </message>
 </context>
 <context>
@@ -418,7 +422,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="45"/>
         <source>Guidelet launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>مشغل الإرشادات</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
@@ -428,7 +432,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
         <source>Select Configuration: </source>
-        <translation type="unfinished"></translation>
+        <translation>حدد التكوين: </translation>
     </message>
 </context>
 <context>
