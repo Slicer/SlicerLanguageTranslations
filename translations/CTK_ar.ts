@@ -19,108 +19,108 @@
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="151"/>
         <source>Query patients</source>
-        <translation type="unfinished"></translation>
+        <translation>الاستعلام عن المرضى</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="153"/>
         <source>Query studies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">دراسات الاستعلام</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="155"/>
         <source>Query series</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة الاستعلامات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="157"/>
         <source>Query instances</source>
-        <translation type="unfinished"></translation>
+        <translation>حالات الاستعلام</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="168"/>
         <source>Retrieve patients</source>
-        <translation type="unfinished"></translation>
+        <translation>استرجاع المرضى</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="170"/>
         <source>Retrieve studies</source>
-        <translation type="unfinished"></translation>
+        <translation>استرجاع الدراسات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="172"/>
         <source>Retrieve series</source>
-        <translation type="unfinished"></translation>
+        <translation>استرجاع السلسلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="174"/>
         <source>Retrieve instances</source>
-        <translation type="unfinished"></translation>
+        <translation>استرداد الحالات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="179"/>
         <source>Storage listener</source>
-        <translation type="unfinished"></translation>
+        <translation>مستمع التخزين</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="183"/>
         <source>Echo server</source>
-        <translation type="unfinished"></translation>
+        <translation>خادم الصدى</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="187"/>
         <source>Inserter</source>
-        <translation type="unfinished"></translation>
+        <translation>الواضع</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="210"/>
         <source>initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تهيئة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="293"/>
         <source>queued</source>
-        <translation type="unfinished"></translation>
+        <translation>في قائمة الانتظار</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="298"/>
         <source>in-progress</source>
-        <translation type="unfinished"></translation>
+        <translation>في تَقَدم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="310"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="315"/>
         <source>user-stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>تم إيقاف المستخدم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="320"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="427"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="430"/>
         <source>attempt-failed</source>
-        <translation type="unfinished"></translation>
+        <translation>محاولة فاشلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="325"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="428"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="431"/>
         <source>completed</source>
-        <translation type="unfinished"></translation>
+        <translation>مكتمل</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="444"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="528"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>يكتب</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="448"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="530"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>حالة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="452"/>
@@ -132,25 +132,25 @@
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="456"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="534"/>
         <source>Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>الوقت والتاريخ</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="460"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="536"/>
         <source>Starting Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت وتاريخ البدء</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="464"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="538"/>
         <source>Completion Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت وتاريخ الانتهاء</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="468"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="540"/>
         <source>DICOM Level</source>
-        <translation type="unfinished"></translation>
+        <translation>مستوى ديكوم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="472"/>
