@@ -9036,7 +9036,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="305"/>
         <source>(local git repository)</source>
-        <translation type="unfinished"></translation>
+        <translation>(مستودع المحلي)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="308"/>
@@ -9081,7 +9081,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="445"/>
         <source>The module has been created, but the extension CMakeLists.txt could not be updated. In order to include the module in the extension build, you will need to update the extension CMakeLists.txt by hand.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم إنشاء الوحدة، ولكن لم يكن من الممكن تحديث الامتداد CMakeLists.txt. لتضمين الوحدة في بناء الامتداد، ستحتاج إلى تحديث الامتداد CMakeLists.txt يدويًا.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="492"/>
