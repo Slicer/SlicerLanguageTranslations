@@ -334,7 +334,10 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce module enregistre une liste de points fiduciaires sur une surface modèle en utilisant la méthode des points les plus proches itératifs (ICP).  
+Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez&#xa0;: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;site web de SlicerIGT&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
@@ -342,77 +345,79 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, Kitware Inc., et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvention NIH 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
         <source>Pick the input fiducial list for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la liste de points fiduciaires en entrée pour l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation type="unfinished"></translation>
+        <translation>Points fiduciaires en entrée&#xa0;: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
         <source>Pick the input model for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le modèle en entrée pour l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
         <source>Input model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle en entrée&#xa0;: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="96"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la sortie pour l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Transformation en sortie&#xa0;: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
         <source>If checked, take screen shots for tutorials. Use Save Data to write them to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette option est cochée, prendre des captures d&apos;écran pour les tutoriels. Utilisez &quot;Enregistrer les données&quot; pour les écrire sur le disque.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="115"/>
         <source>Set scale factor for the screen shots.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le facteur d&apos;échelle pour les captures d&apos;écran.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="122"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="130"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortie</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="135"/>
         <source>Mean distance after registration: </source>
-        <translation type="unfinished"></translation>
+        <translation>Distance moyenne après l&apos;enregistrement&#xa0;: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avancé</translation>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
         <source>Transform type: </source>
-        <translation type="unfinished"></translation>
+        <translation>Type de transformation&#xa0;: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre d&apos;itérations&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -556,7 +561,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="18"/>
         <source>Model Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrement du modèle</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
@@ -564,79 +569,84 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 This module applies Iterative Closest Points registration between two surface models.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce module applique l&apos;enregistrement par points les plus proches itératifs (ICP) entre deux modèles de surface. 
+Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez&#xa0;: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;site web de SlicerIGT&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="35"/>
         <source>
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce travail fait partie du projet SparKit, financé par le programme ACRU de Cancer Care Ontario (CCO) et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO).
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="44"/>
         <source>Parameters</source>
-        <translation type="unfinished">Paramètres</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
         <source>Note: Parent transforms of models are not used. Models should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remarque&#xa0;: Les transformations parentales des modèles ne sont pas utilisées. Les modèles doivent être définis dans le système de coordonnées qui est en cours d&apos;enregistrement.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="65"/>
         <source>Select the model the other will be transformed to. This model required to contain a dense set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le modèle auquel l&apos;autre sera transformé. Ce modèle doit contenir un ensemble dense de points.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
         <source>Select the model that will be transformed. This model may require a sparse set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le modèle qui sera transformé. Ce modèle peut nécessiter un ensemble de points clairsemé.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
         <source>Input moving (sparse) model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle mobile (clairsemé) en entrée&#xa0;: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
         <source>Pick the moving to fixed transform computed by the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la transformation de mobile à fixe calculée par l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Transformation en sortie&#xa0;: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="112"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortie</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
         <source>Mean distance after registration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance moyenne après l&apos;enregistrement&#xa0;:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="124"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avancé</translation>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre d&apos;itérations&#xa0;:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
         <source>Test is not implemented for ModelRegistration</source>
-        <translation type="unfinished"></translation>
+        <translation>Le test n&apos;est pas implémenté pour ModelRegistration.</translation>
     </message>
 </context>
 <context>
@@ -1897,7 +1907,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="68"/>
         <source>Module for creating simple shapes, such as sphere, cylinder, prism, needle, and coordinate system axes.For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Module pour la création de formes simples, telles que des sphères, des cylindres, des prismes, des aiguilles et des axes de systèmes de coordonnées. Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez&#xa0;: &lt;a href=&apos;http://www.slicerigt.org&apos;&gt;site web de SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="75"/>
