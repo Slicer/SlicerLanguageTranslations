@@ -150,12 +150,12 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="96"/>
         <source>Bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifurcations</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="97"/>
         <source>Branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Branches</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="98"/>
@@ -483,7 +483,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="770"/>
         <source> points</source>
-        <translation type="unfinished"></translation>
+        <translation> points</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="773"/>
@@ -699,7 +699,7 @@ La ligne centrale doit être à l&apos;intérieur de la lumière.</translation>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="299"/>
         <source>Tab 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Onglet 1</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="307"/>
@@ -764,7 +764,7 @@ Le pinceau est placé en mode &apos;Sphère&apos;. L&apos;Éditeur de segments p
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
         <source>Tab 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Onglet 2</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="481"/>
@@ -859,7 +859,7 @@ Le pinceau est placé en mode &apos;Sphère&apos;. L&apos;Éditeur de segments p
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="592"/>
         <source>orthogonal</source>
-        <translation type="unfinished"></translation>
+        <translation>orthogonal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="605"/>
@@ -878,7 +878,7 @@ Le pinceau est placé en mode &apos;Sphère&apos;. L&apos;Éditeur de segments p
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="738"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="773"/>
         <source> deg</source>
-        <translation type="unfinished"></translation>
+        <translation> deg</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="615"/>
@@ -893,13 +893,13 @@ Le pinceau est placé en mode &apos;Sphère&apos;. L&apos;Éditeur de segments p
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="674"/>
         <source>Longitudinal</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitudinal</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="677"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="745"/>
         <source>Long.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Long.&#xa0;:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="686"/>
@@ -1227,7 +1227,7 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="541"/>
         <source>Failed to get non-manifold edges (neighborhood filter output was empty)</source>
-        <translation type="unfinished">Échec d&apos;obtention des bords uniques (le résultat du filtre sur le voisinage était nul)</translation>
+        <translation>Échec d&apos;obtention des bords uniques (le résultat du filtre sur le voisinage était nul)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="659"/>
@@ -1252,7 +1252,7 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="746"/>
         <source>openSurfaceAtPoint failed: empty input polydata</source>
-        <translation type="unfinished">Échec de openSurfaceAtPoint&#x202f;: polydata vide en entrée</translation>
+        <translation>Échec de openSurfaceAtPoint&#xa0;: polydata vide en entrée</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="775"/>
@@ -1263,7 +1263,7 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1035"/>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1053"/>
         <source>Network polydata does not contain length cell array</source>
-        <translation type="unfinished">Les polydata du réseau ne contiennent pas de tableau de longueur (cellules)</translation>
+        <translation>Les polydata du réseau ne contiennent pas de tableau de longueur (cellules)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/ExtractCenterline.py" line="1047"/>
@@ -1340,7 +1340,7 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="143"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="143"/>
         <source>ExtractCenterline</source>
-        <translation type="unfinished"></translation>
+        <translation>ExtraireLigneMédiane</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="166"/>
@@ -1364,13 +1364,13 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="185"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="185"/>
         <source>Result of quick centerline network extraction.</source>
-        <translation type="unfinished">Résultat de l&apos;extraction rapide de la ligne centrale tenant compte de la géométrie.</translation>
+        <translation>Résultat de l&apos;extraction rapide de la ligne médiane tenant compte de la géométrie.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="196"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="196"/>
         <source>Network model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de réseau</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="218"/>
@@ -1390,7 +1390,7 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="236"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="236"/>
         <source>Network properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés du réseau</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="258"/>
@@ -1404,13 +1404,13 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="265"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="354"/>
         <source>Centerline extraction result as a hierarchy of markups curves.</source>
-        <translation type="unfinished">Lignes centrales tenant compte de la géométrie, selon une hiérarchie de courbes.</translation>
+        <translation>Lignes médianes tenant compte de la géométrie, selon une hiérarchie de courbes.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="276"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="276"/>
         <source>Network curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe du réseau</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="301"/>
@@ -1428,13 +1428,13 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="314"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="314"/>
         <source>Centerline extraction result as a model.</source>
-        <translation type="unfinished">Modèle de ligne centrale tenant compte du flux.</translation>
+        <translation>Modèle de ligne médiane tenant compte du flux.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="325"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="325"/>
         <source>Centerline model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de LigneMédiane</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="347"/>
@@ -1446,7 +1446,7 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="365"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="365"/>
         <source>Centerline curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe de ligne médiane</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="387"/>
@@ -1458,7 +1458,7 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="405"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="405"/>
         <source>Centerline quantification</source>
-        <translation type="unfinished"></translation>
+        <translation>Quantification Ligne médiane</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="433"/>
@@ -1494,7 +1494,7 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="490"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="490"/>
         <source>k</source>
-        <translation type="unfinished"></translation>
+        <translation>k</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="497"/>
@@ -1566,7 +1566,7 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="639"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="639"/>
         <source>Result of mesh error checks. Currently the only check is for presence of non-manifold edges.</source>
-        <translation type="unfinished">Résultat des vérifications d&apos;erreur de maillage. Actuellement, le seul contrôle est pour la présence de bords isolés.</translation>
+        <translation>Résultat des vérifications d&apos;erreur de maillage. Actuellement, la seule vérification concerne la présence d&apos;arêtes non-manifold.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="650"/>
@@ -1605,35 +1605,35 @@ Attention&#xa0;: les valeurs aux bifurcations peuvent ne pas avoir de significat
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="562"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="609"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="36"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="73"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="642"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="135"/>
         <source>vtkMRMLScriptedModuleNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLScriptedModuleNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="228"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="397"/>
         <source>vtkMRMLTableNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTableNode</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="268"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="357"/>
         <source>vtkMRMLMarkupsCurveNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsCurveNode</translation>
     </message>
 </context>
 <context>
@@ -1694,7 +1694,7 @@ Slicer doit être redémarré. Voulez-vous redémarrer maintenant&#x202f;?</tran
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="136"/>
         <source>Failed to install {nameOfExtension} extension</source>
-        <translation type="unfinished">Échec d&apos;installation de l&apos;extension {nameOfExtension}</translation>
+        <translation>Échec de l&apos;installation de l&apos;extension {nameOfExtension}</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="150"/>
@@ -1749,7 +1749,7 @@ Slicer doit être redémarré. Voulez-vous redémarrer maintenant&#x202f;?</tran
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="578"/>
         <source>Flood filling: {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation>Remplissage par débordement&#xa0;: {duration} secondes - </translation>
     </message>
     <message>
         <source>Flood filling : {duration} seconds - </source>
@@ -1832,7 +1832,7 @@ Si un nœud Shape::Tube est spécifié ci-dessous, ce paramètre est ignoré.</t
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="186"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="198"/>
@@ -1883,7 +1883,7 @@ Si spécifié, le diamètre régulier du tube ci-dessus est ignoré.</translatio
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="351"/>
         <source>Neighbourhood size:</source>
-        <translation type="unfinished">Rayon&#xa0;:</translation>
+        <translation>Taille du voisinage&#xa0;:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="358"/>
@@ -1959,7 +1959,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="279"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmenter</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="370"/>
@@ -2028,7 +2028,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="303"/>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="341"/>
         <source> mm</source>
-        <translation type="unfinished"> mm</translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="209"/>
@@ -2250,7 +2250,7 @@ Slicer doit être redémarré. Voulez-vous redémarrer maintenant&#x202f;?</tran
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="508"/>
         <source>Flood filling: {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation>Remplissage par débordement&#xa0;: {duration} secondes - </translation>
     </message>
     <message>
         <source>Flood filling : {duration} seconds - </source>
@@ -2329,7 +2329,7 @@ Les points de contrôle doivent être dans la lumière contrastée.</translation
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="200"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="209"/>
@@ -2468,7 +2468,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="StenosisMeasurement1D/Resources/UI/StenosisMeasurement1D.ui" line="66"/>
         <source>Result table.</source>
-        <translation type="unfinished">Tableau de résultats.</translation>
+        <translation>Table des résultats.</translation>
     </message>
 </context>
 <context>
@@ -2534,13 +2534,13 @@ The result is influenced by :
  - holes in the segments
  - point placement, if &apos;Closest island&apos; option is selected,
  - smoothing level in the &apos;Segment editor&apos;.</oldsource>
-        <translation type="unfinished">Créer un modèle pour chaque de coupe de segment.
+        <translation>Créer un modèle pour chaque segment découpé. 
 Cela permet de visualiser le modèle à partir duquel la surface est calculée.
 
-Le résultat est influencé par&#x202f;:
-- les vides dans les segments
-- l&apos;emplacement du point de contrôle, si l&apos;option &apos;Îlot le plus proche&apos; est sélectionnée,
-- le facteur de lissage dans l&apos;éditeur de segment.</translation>
+Le résultat est influencé par&#xa0;:
+- les trous dans les segments,
+- le placement des points, si l&apos;option « Île la plus proche » est sélectionnée,
+- le niveau de lissage dans l&apos;« Éditeur de segments ».</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="133"/>
@@ -2570,7 +2570,7 @@ Le résultat est influencé par&#x202f;:
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmenter</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
@@ -2713,9 +2713,9 @@ Le résultat est influencé par&#x202f;:
         <source>Select an input markups fiducial list.
 
 Clicking at a control point allows to track the slice orientation in the selected slice node, on top of the usual jump behaviour. This tracking is scene-wide only, it is not saved with the scene.</source>
-        <translation type="unfinished">Sélectionnez une liste de points.
+        <translation>Sélectionnez une liste de fiduciaux d&apos;annotations d&apos;entrée.
 
-En cliquant sur un point de contrôle, vous pouvez enregistrer l&apos;orientation de la coupe dans la vue de tranches, en plus du comportement habituel de saut. Cette mémoire d&apos;orientation est volatile, elle n&apos;est pas enregistrée si la scène est sauvegardé sur un support de stockage.</translation>
+Cliquer sur un point de contrôle permet de suivre l&apos;orientation de la coupe dans le nœud de coupe sélectionné, en plus du comportement de saut habituel. Ce suivi est uniquement global à la scène, il n&apos;est pas enregistré avec la scène.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="112"/>
@@ -2766,7 +2766,7 @@ Clic droit pour plus.</translation>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="34"/>
         <source>Vascular Modeling Toolkit</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit d&apos;outils de modélisation vasculaire</translation>
     </message>
 </context>
 <context>
@@ -2920,12 +2920,12 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo Bar</translation>
     </message>
 </context>
 <context>
@@ -2933,7 +2933,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forme</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="22"/>
@@ -2948,7 +2948,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="37"/>
         <source>Tube</source>
-        <translation type="unfinished"></translation>
+        <translation>Tube</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="59"/>
@@ -2962,7 +2962,7 @@ Les premier et deuxième points sont les limites entre lesquelles l&apos;analyse
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="69"/>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="94"/>
@@ -3086,12 +3086,12 @@ Il devrait idéalement dépasser légèrement la représentation de la paroi vas
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Foo Bar</translation>
     </message>
 </context>
 </TS>
