@@ -432,22 +432,22 @@ Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="18"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation>Guidelet</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="45"/>
         <source>Guidelet launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanceur de guidelet</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
         <source>Set the Plus Server Host and Name Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir l&apos;hôte du serveur Plus et le numéro de port&#xa0;:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
         <source>Select Configuration: </source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la configuration&#xa0;: </translation>
     </message>
 </context>
 <context>
@@ -455,42 +455,42 @@ Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="165"/>
         <source>Settings</source>
-        <translation type="unfinished">Paramètres</translation>
+        <translation>Réglages</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
         <source>Select connector node</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le nœud de connecteur</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="190"/>
         <source>OpenIGTLink connector: </source>
-        <translation type="unfinished"></translation>
+        <translation>Connecteur OpenIGTLink&#xa0;: </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="193"/>
         <source>Show 3D Slicer user interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher l&apos;interface utilisateur de 3D Slicer</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
         <source>Show Guidelet in full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le guidelet en plein écran</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="201"/>
         <source>Save Guidelet scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer la scène du guidelet</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="216"/>
         <source>Save scene directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire d&apos;enregistrement de la scène&#xa0;:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortir</translation>
     </message>
 </context>
 <context>
@@ -498,62 +498,62 @@ Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="47"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Echographie</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="57"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Commencer l&apos;enregistrement</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="60"/>
         <source>If clicked, start recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cliqué, commencez l&apos;enregistrement</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="62"/>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Geler</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="74"/>
         <source>Brightness </source>
-        <translation type="unfinished"></translation>
+        <translation>Luminosité </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="84"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="88"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumineux</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="92"/>
         <source>Brighter</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus lumineux</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="244"/>
         <source>  Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>  Arrêter l&apos;enregistrement</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="246"/>
         <source>Recording is being started...</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;enregistrement est en cours de démarrage...</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="260"/>
         <source>  Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>  Commencer l&apos;enregistrement</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="262"/>
         <source>Recording is being stopped...</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;enregistrement est en cours d&apos;arrêt...</translation>
     </message>
 </context>
 <context>
@@ -695,22 +695,22 @@ Ce travail fait partie du projet SparKit, financé par le programme ACRU de Canc
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
         <source>Time series</source>
-        <translation type="unfinished"></translation>
+        <translation>Série temporelle</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation type="unfinished">Ajouter</translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
         <source>Recorded nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœuds enregistrés</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
         <source>Sequence Replay</source>
-        <translation type="unfinished"></translation>
+        <translation>Relecture de séquence</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
@@ -718,7 +718,10 @@ Ce travail fait partie du projet SparKit, financé par le programme ACRU de Canc
 This is an example of scripted loadable module bundled in an extension.
 See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ceci est un exemple de module chargable par script inclus dans une extension. 
+Pour plus d&apos;informations, consultez la &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;documentation du module&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="51"/>
@@ -726,7 +729,9 @@ See more information in &lt;a href=&quot;https://github.com/organization/project
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab, et Steve Pieper, Isomics, Inc., et a été partiellement financé par la subvention NIH 3P41RR013218-12S1.
+</translation>
     </message>
 </context>
 <context>
@@ -764,7 +769,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="TextureModel/TextureModel.py" line="21"/>
         <source>Texture Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de texture</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="29"/>
@@ -773,55 +778,59 @@ It is typically used to display colored surfaces, provided by surface scanners, 
 The model must contain texture coordinates. Only a single texture file per model is supported.
 For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module applique une texture (stockée dans un nœud de volume) à un nœud de modèle. 
+Il est généralement utilisé pour afficher des surfaces colorées, fournies par des scanners de surface, exportées au format OBJ.  
+Le modèle doit contenir des coordonnées de texture. Un seul fichier de texture par modèle est pris en charge.  
+Pour plus d&apos;informations, visitez le &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;site web du projet SlicerIGT&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="50"/>
         <source>Parameters</source>
-        <translation type="unfinished">Paramètres</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="67"/>
         <source>Model node containing geometry and texture coordinates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de modèle contenant la géométrie et les coordonnées de texture.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
         <source>RGB vector</source>
         <comment>uchar-vector</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vecteur RGB</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="86"/>
         <source>RGB float vector</source>
         <comment>float-vector</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vecteur flottant RGB</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="87"/>
         <source>RGB float components</source>
         <comment>float-components</comment>
-        <translation type="unfinished"></translation>
+        <translation>Composants flottants RGB</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="91"/>
         <source>Save color in point data. &quot;RGB vector&quot; is recommended for compatibility with most software. The point data may be used for thresholding or color-based processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer la couleur dans les données des points. &quot;Vecteur RGB&quot; est recommandé pour la compatibilité avec la plupart des logiciels. Les données des points peuvent être utilisées pour le seuillage ou le traitement basé sur la couleur.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="99"/>
         <source>Apply texture to selected model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer une texture au modèle sélectionné.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="298"/>
         <source>Finished with download and loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement et chargement terminés</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="305"/>
         <source>Test passed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Test réussi&#x202f;!</translation>
     </message>
 </context>
 <context>
@@ -840,7 +849,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="13"/>
         <source>Viewpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Point de vue</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="23"/>
@@ -848,310 +857,315 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module ajuste le point de vue de la caméra d&apos;un visualiseur 3D. 
+Vue Bullseye&#xa0;: positionnez/orientez la caméra à l&apos;aide d&apos;un outil suivi.  
+Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;site web de SlicerIGT&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="25"/>
         <source>
     This work is part of the Breast NaviKnife project within the Laboratory for Percutaneous Surgery, Queen&apos;s University, Kingston, Ontario. Thomas Vaughan is funded by an NSERC Postgraduate award. Gabor Fichtinger is funded as a Cancer Care Ontario (CCO) Chair.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Ce travail fait partie du projet Breast NaviKnife au sein du Laboratoire de chirurgie percutanée de l&apos;Université Queen&apos;s à Kingston, Ontario. Thomas Vaughan est financé par une bourse de troisième cycle du CRSNG. Gabor Fichtinger est financé en tant que titulaire de la chaire de Cancer Care Ontario (CCO).
+    </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="65"/>
         <source>Enable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le mode Vue Bullseye</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="68"/>
         <source>Disable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactiver le mode Vue Bullseye</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="94"/>
         <source>Enable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le mode de recentrage automatique</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="96"/>
         <source>Disable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactiver le mode de recentrage auto</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="103"/>
         <source>View Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection de la vue</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="109"/>
         <source>Scene Camera: </source>
-        <translation type="unfinished"></translation>
+        <translation>Caméra de la scène&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="116"/>
         <source>Pick the view which should be adjusted, e.g. &apos;View1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez la vue qui doit être ajustée, par exemple &apos;Vue1&apos;</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="122"/>
         <source>Parameters for Bullseye View</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres pour la vue Bullseye</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="129"/>
         <source>Camera positioning transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Transformation de positionnement de la caméra&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="136"/>
         <source>Pick the transform that the camera should follow, e.g. &apos;cauteryCameraToCauteryTransform&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez la transformation que la caméra doit suivre, par exemple &apos;cauteryCameraToCauteryTransform&apos;</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="142"/>
         <source>Camera Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle de la caméra</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="150"/>
         <source>Degrees of Freedom</source>
-        <translation type="unfinished"></translation>
+        <translation>Degrés de liberté</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="159"/>
         <source>The camera will always look at the target model (or if unselected will act like 5DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>La caméra regardera toujours le modèle cible (ou, si non sélectionnée, agira comme 5DOF)</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="163"/>
         <source>5DOF: </source>
-        <translation type="unfinished"></translation>
+        <translation>5DOF&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="165"/>
         <source>The camera will always be oriented with the selected &apos;up direction&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>La caméra sera toujours orientée selon la &apos;direction vers le haut&apos; sélectionnée</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="169"/>
         <source>6DOF: </source>
-        <translation type="unfinished"></translation>
+        <translation>6DOF&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="171"/>
         <source>The camera will be virtually attached to the tool, and rotate together with it</source>
-        <translation type="unfinished"></translation>
+        <translation>La caméra sera virtuellement attachée à l&apos;outil et tournera avec lui</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="178"/>
         <source>Up Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direction vers le haut</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="186"/>
         <source>Anterior: </source>
-        <translation type="unfinished"></translation>
+        <translation>Antérieur&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="192"/>
         <source>Posterior: </source>
-        <translation type="unfinished"></translation>
+        <translation>Postérieur&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="197"/>
         <source>Right: </source>
-        <translation type="unfinished"></translation>
+        <translation>Droit&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="202"/>
         <source>Left: </source>
-        <translation type="unfinished"></translation>
+        <translation>Gauche&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="207"/>
         <source>Superior: </source>
-        <translation type="unfinished"></translation>
+        <translation>Supérieur&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="212"/>
         <source>Inferior: </source>
-        <translation type="unfinished"></translation>
+        <translation>Inférieur&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="219"/>
         <source>Target Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle cible</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="228"/>
         <source>Target model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle cible&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="234"/>
         <source>This model be the center of rotation using 3DOF Viewpoint (e.g. tumour)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce modèle sera le centre de rotation utilisant le point de vue 3DOF (par exemple, une tumeur)</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="240"/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="247"/>
         <source>View angle (degrees): </source>
-        <translation type="unfinished"></translation>
+        <translation>Angle de vue (degrés)&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="254"/>
         <location filename="Viewpoint/Viewpoint.py" line="267"/>
         <source>Make the current viewing target look larger/smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendre la cible de visualisation actuelle plus grande/plus petite.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="259"/>
         <source>View scale: </source>
-        <translation type="unfinished"></translation>
+        <translation>Échelle de vue&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="274"/>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Translation</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="281"/>
         <source>Left/Right (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>Gauche/Droite (mm)&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="290"/>
         <source>Down/Up (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>Bas/Haut (mm)&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="300"/>
         <source>Front/Back (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>Avant/Arrière (mm)&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="311"/>
         <source>Parallel Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Projection parallèle</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="314"/>
         <source>If checked, render with parallel projection (box-shaped view). Otherwise render with perspective projection (cone-shaped view).</source>
-        <translation type="unfinished"></translation>
+        <translation>Si coché, le rendu sera effectué avec une projection parallèle (vue en forme de boîte). Sinon, le rendu sera effectué avec une projection perspective (vue en forme de cône).</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="319"/>
         <source>The camera will continuously update its position so that it follows the tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>La caméra mettra continuellement à jour sa position afin de suivre l&apos;outil.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="328"/>
         <source>Parameters for Auto-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres pour le recentrage auto</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="335"/>
         <source>Followed model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle suivi&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="342"/>
         <source>Pick the model that the camera should follow, e.g. &apos;tumorModel&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez le modèle que la caméra doit suivre, par exemple &apos;tumorModel&apos;</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="347"/>
         <source>Safe Zone (Viewport X percentage): </source>
-        <translation type="unfinished"></translation>
+        <translation>Zone de sécurité (pourcentage X du viewport)&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="355"/>
         <source>Safe Zone (Viewport Y percentage): </source>
-        <translation type="unfinished"></translation>
+        <translation>Zone de sécurité (pourcentage Y du viewport)&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="364"/>
         <source>Safe Zone (Viewport Z percentage): </source>
-        <translation type="unfinished"></translation>
+        <translation>Zone de sécurité (pourcentage Z du viewport)&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="373"/>
         <source>Adjust Along Camera X</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuster le long de l&apos;axe X de la caméra</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="376"/>
         <source>If checked, adjust the camera so that it aligns with the target model along the x axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si coché, ajustez la caméra pour qu&apos;elle s&apos;aligne avec le modèle cible le long de l&apos;axe x.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="380"/>
         <source>Adjust Along Camera Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuster le long de l&apos;axe Y de la caméra</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="383"/>
         <source>If checked, adjust the camera so that it aligns with the target model along the y axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si coché, ajustez la caméra pour qu&apos;elle s&apos;aligne avec le modèle cible le long de l&apos;axe y.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="387"/>
         <source>Adjust Along Camera Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuster le long de l&apos;axe Z de la caméra</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="390"/>
         <source>If checked, adjust the camera so that it aligns with the target model along the z axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si coché, ajustez la caméra pour qu&apos;elle s&apos;aligne avec le modèle cible le long de l&apos;axe z.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="394"/>
         <source>Update rate (seconds): </source>
-        <translation type="unfinished"></translation>
+        <translation>Taux de mise à jour (secondes)&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="401"/>
         <source>The rate at which the view will be checked and updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le taux auquel la vue sera vérifiée et mise à jour.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="405"/>
         <source>Time Unsafe to Adjust (seconds): </source>
-        <translation type="unfinished"></translation>
+        <translation>Temps non sécurisé pour ajuster (secondes)&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="412"/>
         <source>The length of time in which the model must be in the unsafe zone before the camera is adjusted.</source>
-        <translation type="unfinished"></translation>
+        <translation>La durée pendant laquelle le modèle doit rester dans la zone non sécurisée avant que la caméra ne soit ajustée.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="416"/>
         <source>Time Adjust to Rest (seconds): </source>
-        <translation type="unfinished"></translation>
+        <translation>Temps d&apos;ajustement au repos (secondes)&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="423"/>
         <source>The length of time an adjustment takes.</source>
-        <translation type="unfinished"></translation>
+        <translation>La durée nécessaire pour effectuer un ajustement.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="427"/>
         <source>Time Rest to Safe (seconds): </source>
-        <translation type="unfinished"></translation>
+        <translation>Temps de repos à sécurisé (secondes)&#xa0;: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="434"/>
         <source>The length of time after an adjustment that the camera remains motionless.</source>
-        <translation type="unfinished"></translation>
+        <translation>La durée pendant laquelle la caméra reste immobile après un ajustement.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="438"/>
         <source>The camera will continuously update its position so that it follows the model.</source>
-        <translation type="unfinished"></translation>
+        <translation>La caméra mettra continuellement à jour sa position afin de suivre le modèle.</translation>
     </message>
 </context>
 <context>
@@ -1439,17 +1453,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="63"/>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="148"/>
         <source>IGT</source>
-        <translation type="unfinished"></translation>
+        <translation>IGT</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="19"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation>Guidelet</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="22"/>
         <source>Surface Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèles de surface</translation>
     </message>
 </context>
 <context>
@@ -1542,12 +1556,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="103"/>
         <source>This module can alert the user by color change and sound signal if a tool enters a restricted area. The restricted area is defined by a surface model, the tool position is defined by a linear transform. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module peut alerter l&apos;utilisateur par un changement de couleur et un signal sonore si un outil entre dans une zone restreinte. La zone restreinte est définie par un modèle de surface, et la position de l&apos;outil est définie par une transformation linéaire. Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;site web de SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="111"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail a été financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)</translation>
     </message>
 </context>
 <context>
@@ -1745,12 +1759,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="73"/>
         <source>Record motion trajectory of a tracked tool into markups fiducial list, markups curve, or model node. For more information, visit &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&quot;&gt;SlicerIGT project website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer la trajectoire de mouvement d&apos;un outil suivi dans une liste de fiduciaux d&apos;annotations, une courbe d&apos;annotations ou un nœud de modèle. Pour plus d&apos;informations, visitez le &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&quot;&gt;site web du projet SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="80"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail a été financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)</translation>
     </message>
 </context>
 <context>
@@ -1912,7 +1926,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail a été financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)</translation>
     </message>
 </context>
 <context>
@@ -2069,12 +2083,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="83"/>
         <source>Register images, models, or any other nodes to each other using manually placed landmark points. Rigid, affine, and warping transforms are supported. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer des images, des modèles ou tout autre nœud les uns par rapport aux autres en utilisant des points de repère placés manuellement. Les transformations rigides, affines et de déformation sont prises en charge. Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;site web de SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="91"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail a été financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)</translation>
     </message>
 </context>
 <context>
@@ -2083,7 +2097,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="162"/>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="173"/>
         <source>Place fiducial corresponding to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Placer un fiducial correspondant à %1</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="208"/>
@@ -2103,7 +2117,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="359"/>
         <source>No Fiducial Registration Wizard module node selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun nœud de module du registre de fiducial n&apos;est sélectionné.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="405"/>
@@ -2118,7 +2132,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="449"/>
         <source>Status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut&#xa0;: %1</translation>
     </message>
 </context>
 <context>
@@ -2139,12 +2153,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="62"/>
         <source>This is a module for detecting landmarks by pivoting a tracked stylus. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceci est un module pour détecter des repères en pivotant un stylet suivi. Si vous avez des questions ou si vous rencontrez un problème, soumettez un problème sur la &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;page GitHub&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="68"/>
         <source>This module was developed through support from CANARIE&apos;s Research Software Program, Cancer Care Ontario, OpenAnatomy, and Brigham and Women&apos;s Hospital through NIH grant R01MH112748.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module a été développé grâce au soutien du Programme de logiciels de recherche de CANARIE, de Cancer Care Ontario, d&apos;OpenAnatomy et de l&apos;Hôpital Brigham et des femmes par le biais de la subvention NIH R01MH112748.</translation>
     </message>
 </context>
 <context>
@@ -2244,7 +2258,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModuleWidget.cxx" line="205"/>
         <source>Stop</source>
-        <translation type="unfinished">Arrêt</translation>
+        <translation>Arrêter</translation>
     </message>
 </context>
 <context>
@@ -2307,12 +2321,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="72"/>
         <source>Path Explorer is a module designed to facilitate the creation of trajectory, and visualization of volumes along these trajectories For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Path Explorer est un module conçu pour faciliter la création de trajectoires et la visualisation des volumes le long de ces trajectoires. Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;site web de SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
         <source>It is supported by grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</source>
-        <translation type="unfinished"></translation>
+        <translation>Il est soutenu par les subventions 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886 et 8P41EB015898</translation>
     </message>
 </context>
 <context>
@@ -2355,12 +2369,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModuleWidget.cxx" line="78"/>
         <source>Entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrée</translation>
     </message>
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModuleWidget.cxx" line="79"/>
         <source>Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Cible</translation>
     </message>
 </context>
 <context>
@@ -2719,22 +2733,22 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="68"/>
         <source>Perform pivot calibration to determine the tool tip&apos;s position, by pivoting the tip of the tool about some fixed point. Perform spin calibration to determine the tool&apos;s orientation, by spinning the tool about its axis. The pivot and spin calibrations can be performed in any order. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Effectuez la calibration de pivot pour déterminer la position de la pointe de l&apos;outil, en pivotant la pointe de l&apos;outil autour d&apos;un point fixe. Effectuez la calibration de rotation pour déterminer l&apos;orientation de l&apos;outil, en faisant tourner l&apos;outil autour de son axe. Les calibrations de pivot et de rotation peuvent être effectuées dans n&apos;importe quel ordre. Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;site web de SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="77"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail a été financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="84"/>
         <source>Franklin King (Queen&apos;s University)</source>
-        <translation type="unfinished"></translation>
+        <translation>Franklin King (Université Queen&apos;s)</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="85"/>
         <source>Tamas Ungi (Queen&apos;s University)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamas Ungi (Université Queen&apos;s)</translation>
     </message>
 </context>
 <context>
@@ -2745,7 +2759,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="221"/>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="261"/>
         <source>%1 seconds until start</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 secondes avant le début</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="225"/>
@@ -2753,18 +2767,18 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="266"/>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="284"/>
         <source>Sampling time left: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps d&apos;échantillonnage restant&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="247"/>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="288"/>
         <source>Sampling complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Échantillonnage terminé</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModuleWidget.cxx" line="405"/>
         <source>Flipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inversé.</translation>
     </message>
 </context>
 <context>
@@ -2954,7 +2968,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/SubjectHierarchyPlugins/qSlicerSubjectHierarchyPathExplorerPlugin.cxx" line="144"/>
         <source>Path Explorer trajectories</source>
-        <translation type="unfinished"></translation>
+        <translation>Trajectoires de Path Explorer</translation>
     </message>
 </context>
 <context>
@@ -3291,12 +3305,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="92"/>
         <source>This module allows combining, inverting, stabilizing, termporal smoothing of transforms in real-time. For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module permet de combiner, inverser, stabiliser et lisser temporellement des transformations en temps réel. Pour plus d&apos;informations, visitez le &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;site web du projet SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="99"/>
         <source>This work was partially funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO), and by National Institute of Health (grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886, 8P41EB015898).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail a été partiellement financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO), ainsi que par le National Institute of Health (subventions 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886, 8P41EB015898).</translation>
     </message>
 </context>
 <context>
@@ -3304,37 +3318,37 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="97"/>
         <source>Compute the quaternion average of all Source transforms provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer la moyenne quaternion de toutes les transformations source fournies.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="99"/>
         <source>Compute a copy of the rotation from the Source to the Reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer une copie de la rotation de la Source vers la Référence.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="101"/>
         <source>Compute a copy of the translation from the Source to the Reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer une copie de la translation de la Source vers la Référence.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="103"/>
         <source>Compute a copy of the full transform from the Source to the Reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer une copie de la transformation complète de la Source vers la Référence.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="105"/>
         <source>Compute the inverse of transform to parent, and store it in another node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer l&apos;inverse de la transformation vers le parent et l&apos;enregistrer dans un autre nœud.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="107"/>
         <source>Compute a constrained version of an Source transform, the translation and z direction are preserved but the other axes resemble the Target coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer une version contrainte d&apos;une transformation source, la translation et la direction z étant préservées, mais les autres axes ressemblent au système de coordonnées de la cible.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="109"/>
         <source>Compute a stabilized transform by low-pass filtering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer une transformation stabilisée par filtrage passe-bas.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="398"/>
@@ -3413,12 +3427,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="68"/>
         <source>Module for taking a snapshot of a position tracked ultrasound image and display it as a model node. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Module pour prendre un instantané d&apos;une image échographique suivie de position et l&apos;afficher en tant que nœud de modèle. Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;site web de SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail a été financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)</translation>
     </message>
 </context>
 <context>
@@ -3426,12 +3440,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="122"/>
         <source>This action will delete all snapshots.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette action supprimera tous les instantanés.</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="123"/>
         <source>Continue with this action?</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuer avec cette action&#x202f;?</translation>
     </message>
 </context>
 <context>
@@ -3741,17 +3755,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="93"/>
         <source>This is a module for reconstructing image volumes from sequences. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceci est un module pour reconstruire des volumes d&apos;image à partir de séquences. Si vous avez des questions ou si vous rencontrez un problème, soumettez un problème sur la &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;page GitHub&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="109"/>
         <source>This module was developed through support from CANARIE&apos;s Research Software Program, and Cancer Care Ontario.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module a été développé grâce au soutien du Programme de logiciels de recherche de CANARIE et de Cancer Care Ontario.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="128"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>Séquences</translation>
     </message>
 </context>
 <context>
@@ -3759,77 +3773,77 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="129"/>
         <source>Nearest neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Voisin le plus proche</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="130"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linéaire</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="132"/>
         <source>Full optimization</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimisation complète</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="133"/>
         <source>Partial optimization</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimisation partielle</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="134"/>
         <source>No optimization</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune optimisation</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="137"/>
         <source>GPU acceleration (OpenCL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Accélération GPU (OpenCL)</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="140"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Dernier</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="141"/>
         <source>Maximum</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximum</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="142"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Signifie</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="143"/>
         <source>Importance mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Masque d&apos;importance</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="213"/>
         <source>Volume reconstruction</source>
-        <translation type="unfinished">Reconstruction de volumes</translation>
+        <translation>Reconstruction de volume</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="215"/>
         <source>Reconstructing volume...</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstruire le volume...</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="316"/>
         <source>Start</source>
-        <translation type="unfinished">Commencer</translation>
+        <translation>Démarrer</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="321"/>
         <source>Stop</source>
-        <translation type="unfinished">Arrêt</translation>
+        <translation>Arrêter</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="330"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquer</translation>
+        <translation>Appliquer</translation>
     </message>
 </context>
 <context>
@@ -3872,12 +3886,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="75"/>
         <source>This module allows to set reslicing planes by using linear transforms nodes or positions/orientations in image nodes. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module permet de définir des plans de re-slicing en utilisant des nœuds de transformations linéaires ou des positions/orientations dans les nœuds d&apos;image. Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;site web de SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="84"/>
         <source>This work was supported by NIH National Center for Image Guided Therapy, and National Alliance for Medical Image Computing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail a été soutenu par le Centre national des NIH pour la thérapie guidée par l&apos;image et l&apos;Alliance nationale pour le calcul d&apos;images médicales.</translation>
     </message>
 </context>
 <context>
@@ -3892,12 +3906,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="118"/>
         <source>Displays warning if selected transforms are not continuously updated. It is useful for detecting tracking errors, such as occluded marker or network connection error. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Affiche un avertissement si les transformations sélectionnées ne sont pas mises à jour en continu. Cela est utile pour détecter des erreurs de suivi, telles qu&apos;un marqueur obstrué ou une erreur de connexion réseau. Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;site web de SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail a été financé par Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</translation>
     </message>
 </context>
 <context>
@@ -4005,42 +4019,42 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Message</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Son</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="302"/>
         <source>Make list active</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendre liste active</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="303"/>
         <source>Delete highlighted row</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer la ligne surlignée</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="463"/>
         <source>valid</source>
-        <translation type="unfinished"></translation>
+        <translation>valide</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="468"/>
         <source>invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>invalide</translation>
     </message>
 </context>
 <context>
@@ -4048,17 +4062,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="390"/>
         <source>Manual</source>
-        <translation type="unfinished">Manuel</translation>
+        <translation>Manuel</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="391"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatique</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="395"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Inconnu</translation>
     </message>
 </context>
 </TS>
