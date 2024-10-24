@@ -7877,17 +7877,17 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
         <source>Determines the relative size of the thumbnails when using the visual DICOM browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Détermine la taille relative des vignettes lors de l&apos;utilisation du navigateur visuel DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
         <source>Small</source>
-        <translation type="unfinished">Petit</translation>
+        <translation>Petit</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="401"/>
         <source>Medium</source>
-        <translation type="unfinished">Moyen</translation>
+        <translation>Moyen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="402"/>
@@ -7897,12 +7897,12 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="404"/>
         <source>Thumbnails size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille des vignettes&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="408"/>
         <source>DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="448"/>
@@ -7946,17 +7946,17 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="627"/>
         <source>Show options</source>
-        <translation type="unfinished">Afficher les options</translation>
+        <translation>Afficher les options</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="631"/>
         <source>Show experimental visual DICOM browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le navigateur visuel DICOM expérimental</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="632"/>
         <source>If enabled, the DICOM browser widget will be substituted with new experimental visual browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si activé, le widget du navigateur DICOM sera remplacé par le nouveau navigateur visuel expérimental.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="840"/>
@@ -8290,12 +8290,12 @@ Ce fichier a été initialement développé par Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="113"/>
         <source>If checked, then ultrasound image series are split by instance number. Useful if many ultrasound acquisitions appear in the same series.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si coché, les séries d&apos;images échographiques sont séparées par numéro d&apos;instance. Utile si de nombreuses acquisitions échographiques apparaissent dans la même série.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="123"/>
         <source>If checked, then photometric interpretation of JPEG-compressed ultrasound will be set to YBR_FULL_422. This is useful for fixing inconsistency in JPEG-compressed images that used RGB as photometric interpretation due to ambiguity in the DICOM standard before CP156. See https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE and https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si coché, l&apos;interprétation photométrique des échographies compressées en JPEG sera définie sur YBR_FULL_422. Cela est utile pour corriger l&apos;incohérence dans les images compressées en JPEG qui utilisaient RGB comme interprétation photométrique en raison de l&apos;ambiguïté dans la norme DICOM avant la CP156. Voir https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE et https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf pour plus de détails.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="146"/>
@@ -8951,132 +8951,132 @@ Vous pouvez enregistrer la position de la caméra à tout moment en cliquant sur
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="48"/>
         <source>Extension Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Assistant d&apos;extension</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="53"/>
         <source>This module provides tools to create and manage extensions from within Slicer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module fournit des outils pour créer et gérer des extensions directement depuis Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="54"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Ce travail est soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer.</translation>
+        <translation>Ce travail est soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="125"/>
         <source>Extension Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Outils d&apos;extension</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="127"/>
         <source>Create Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer une extension</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="130"/>
         <source>Select Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner une extension</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="142"/>
         <source>Extension Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Éditeur d&apos;extension</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="156"/>
         <source>Add Module to Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un module à l&apos;extension</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="160"/>
         <source>Edit Extension Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier les métadonnées de l&apos;extension</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="165"/>
         <source>Name:</source>
-        <translation type="unfinished">Nom :</translation>
+        <translation>Nom&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="166"/>
         <source>Location:</source>
-        <translation type="unfinished">Emplacement :</translation>
+        <translation>Emplacement&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="167"/>
         <source>Repository:</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="168"/>
         <source>Contents:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contenu&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="247"/>
         <source>An error occurred while trying to create the extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur est survenue lors de la tentative de création de l&apos;extension.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="262"/>
         <source>Select Extension...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner une extension...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="288"/>
         <source>Failed to open extension {path}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;ouverture de l&apos;extension {path}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="303"/>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>(aucun)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="305"/>
         <source>(local git repository)</source>
-        <translation type="unfinished"></translation>
+        <translation>(local git repository)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="308"/>
         <source>(unknown local repository)</source>
-        <translation type="unfinished"></translation>
+        <translation>(répertoire local inconnu)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="386"/>
         <source>{count} modules could not be registered</source>
-        <translation type="unfinished"></translation>
+        <translation>{count} modules n&apos;ont pas pu être enregistrés</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="388"/>
         <source>The {name} module could not be registered</source>
-        <translation type="unfinished"></translation>
+        <translation>Le module {name} n&apos;a pas pu être enregistré</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="394"/>
         <source>Module loading failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du chargement du module</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"/>
         <source>The module factory manager reported an error. One or more of the requested module(s) and/or dependencies thereof may not have been loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le gestionnaire de la fabrique de modules a signalé une erreur. Un ou plusieurs des modules demandés et/ou leurs dépendances n&apos;ont peut-être pas été chargés.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"/>
         <source>Error loading module(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors du chargement du ou des modules</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="427"/>
         <source>An error occurred while trying to create the module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur est survenue lors de la tentative de création du module.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="440"/>
         <source>An error occurred while adding the module to the extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur est survenue lors de l&apos;ajout du module à l&apos;extension.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="445"/>
@@ -27088,13 +27088,13 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adding a style plugin path will make accessible this style plugin (and thus all the its styles) to the application. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;&#x202f;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http&#xa0;://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap;; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Ajouter un chemin d&apos;extension de style.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;L&apos;ajout d&apos;un chemin d&apos;extension de style rendra accessible cette extension de style (et donc tous ses styles) à l&apos;application. Cette action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;nécessite&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; de redémarrer l&apos;application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+p, li { white-space&#xa0;: pre-wrap&#x202f;;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family&#xa0;:&apos;MS Shell Dlg 2&apos;&#x202f;; font-size&#xa0;:8.25pt&#x202f;; font-weight&#xa0;:400&#x202f;; font-style&#xa0;:normal&#x202f;;&quot;&gt;
+&lt;p style=&quot; margin-top&#xa0;:0px&#x202f;; margin-bottom&#xa0;:0px&#x202f;; margin-left&#xa0;:0px&#x202f;; margin-right&#xa0;:0px&#x202f;; -qt-block-indent&#xa0;:0&#x202f;; text-indent&#xa0;:0px&#x202f;;&quot;&gt;&lt;span style=&quot; font-size&#xa0;:8pt&#x202f;;&quot;&gt;Ajouter un chemin d&apos;extension de style.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type&#xa0;:empty&#x202f;; margin-top&#xa0;:0px&#x202f;; margin-bottom&#xa0;:0px&#x202f;; margin-left&#xa0;:0px&#x202f;; margin-right&#xa0;:0px&#x202f;; -qt-block-indent&#xa0;:0&#x202f;; text-indent&#xa0;:0px&#x202f;; font-size&#xa0;:8pt&#x202f;;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top&#xa0;:0px&#x202f;; margin-bottom&#xa0;:0px&#x202f;; margin-left&#xa0;:0px&#x202f;; margin-right&#xa0;:0px&#x202f;; -qt-block-indent&#xa0;:0&#x202f;; text-indent&#xa0;:0px&#x202f;;&quot;&gt;&lt;span style=&quot; font-size&#xa0;:8pt&#x202f;;&quot;&gt;L&apos;ajout d&apos;un chemin d&apos;extension de style rendra accessible cette extension de style (et donc tous ses styles) à l&apos;application. Cette action &lt;/span&gt;&lt;span style=&quot; font-size&#xa0;:8pt&#x202f;; font-weight&#xa0;:600&#x202f;;&quot;&gt;nécessite&lt;/span&gt;&lt;span style=&quot; font-size&#xa0;:8pt&#x202f;;&quot;&gt; de redémarrer l&apos;application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
@@ -27110,13 +27110,13 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>extension&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>extension&lt;&#x202f;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http&#xa0;://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Ajouter un chemin d&apos;extension de style.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;L&apos;ajout d&apos;un chemin d&apos;extension de style rendra accessible cette extensison de style (et donc tous ses styles) à l&apos;application. Cette action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;nécessite&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; de redémarrer l&apos;application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+p, li { white-space&#xa0;: pre-wrap&#x202f;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family&#xa0;:&apos;MS Shell Dlg 2&apos;&#x202f;; font-size&#xa0;:8.25pt&#x202f;; font-weight&#xa0;:400&#x202f;; font-style&#xa0;:normal&#x202f;;&quot;&gt;
+&lt;p style=&quot; margin-top&#xa0;:0px&#x202f;; margin-bottom&#xa0;:0px&#x202f;; margin-left&#xa0;:0px&#x202f;; margin-right&#xa0;:0px&#x202f;; -qt-block-indent&#xa0;:0&#x202f;; text-indent&#xa0;:0px&#x202f;;&quot;&gt;&lt;span style=&quot; font-size&#xa0;:8pt&#x202f;;&quot;&gt;Ajouter un chemin d&apos;extension de style.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type&#xa0;:empty&#x202f;; margin-top&#xa0;:0px&#x202f;; margin-bottom&#xa0;:0px&#x202f;; margin-left&#xa0;:0px&#x202f;; margin-right&#xa0;:0px&#x202f;; -qt-block-indent&#xa0;:0&#x202f;; text-indent&#xa0;:0px&#x202f;; font-size&#xa0;:8pt&#x202f;;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top&#xa0;:0px&#x202f;; margin-bottom&#xa0;:0px&#x202f;; margin-left&#xa0;:0px&#x202f;; margin-right&#xa0;:0px&#x202f;; -qt-block-indent&#xa0;:0&#x202f;; text-indent&#xa0;:0px&#x202f;;&quot;&gt;&lt;span style=&quot; font-size&#xa0;:8pt&#x202f;;&quot;&gt;L&apos;ajout d&apos;un chemin d&apos;extension de style rendra accessible cette extensison de style (et donc tous ses styles) à l&apos;application. Cette action &lt;/span&gt;&lt;span style=&quot; font-size&#xa0;:8pt&#x202f;; font-weight&#xa0;:600&#x202f;;&quot;&gt;nécessite&lt;/span&gt;&lt;span style=&quot; font-size&#xa0;:8pt&#x202f;;&quot;&gt; de redémarrer l&apos;application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
