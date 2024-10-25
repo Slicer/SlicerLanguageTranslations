@@ -50,251 +50,254 @@ Développé par NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="72"/>
         <source>MONAI Label Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur d&apos;étiquettes MONAI</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="75"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse du serveur&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="79"/>
         <source>Server address history:</source>
-        <translation type="unfinished"></translation>
+        <translation>Historique des adresses des serveurs&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>Default extension for uploading images/labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Extension par défaut pour le téléchargement d&apos;images/étiquettes</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>File Extension:</source>
-        <translation type="unfinished"></translation>
+        <translation>Extension de fichier&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="93"/>
         <source>user-xyz</source>
-        <translation type="unfinished"></translation>
+        <translation>utilisateur-xyz</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User ID that will be sent to MONAI Label server for reference</source>
-        <translation type="unfinished"></translation>
+        <translation>ID Client/Utilisateur qui sera envoyé au serveur MONAI Label pour référence</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User-ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID Client/Utilisateur&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Enable this option to auto run segmentation if pre-trained model exists when Next Sample is fetched</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez cette option pour exécuter automatiquement la segmentation si un modèle pré-entraîné existe lorsque l&apos;échantillon suivant est récupéré</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Auto-Run Pre-Trained Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécution automatique du modèle pré-entraîné&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Enable this option to fetch Next Sample after saving the label</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez cette option pour récupérer l&apos;échantillon suivant après avoir enregistré l&apos;étiquette</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Auto-Fetch Next Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>Récupération auto de l&apos;échantillon suivant&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
         <source>Enable this option to auto update model after submitting the label</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez cette option pour mettre à jour automatiquement le modèle après avoir soumis l&apos;étiquette</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
         <source>Auto-Update Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour auto du modèle&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Enable this option to ask for the user name every time the MONAILabelextension is loaded for the first time</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez cette option pour demander le nom d&apos;utilisateur chaque fois que l&apos;extension MONAI Label est chargée pour la première fois</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Ask For User Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Demander le nom d&apos;utilisateur&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
         <source>Enable this option to allow overlapping segmentations</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez cette option pour permettre les segmentations chevauchantes</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
         <source>Allow Overlapping Segmentations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser les segmentations chevauchantes&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
         <source>Enable this option to first read original label (predictions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez cette option pour d&apos;abord lire l&apos;étiquette originale (prédictions)</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
         <source>Original Labels:</source>
-        <translation type="unfinished"></translation>
+        <translation>Étiquettes originales&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="174"/>
         <source>Enable this option to find options tab etc...</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez cette option pour trouver l&apos;onglet des options, etc.</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="174"/>
         <source>Developer Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode développeur&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Enable this option to show segments in 3D (slow) after mask update...</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez cette option pour afficher les segments en 3D (lent) après la mise à jour du masque...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Show Segments In 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les segments en 3D&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="204"/>
         <source>Overlapping segmentations are only available with the &apos;.seg.nrrd&apos; file extension!Consider changing MONAILabel file extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les segmentations chevauchantes ne sont disponibles qu&apos;avec l&apos;extension de fichier &apos;.seg.nrrd&apos;&#x202f;! Envisagez de modifier l&apos;extension de fichier MONAILabel.</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="301"/>
         <source>Select positive points</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner des points positifs</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="307"/>
         <source>Select negative points</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner des points négatifs</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="336"/>
         <source>Paint scribbles for selected scribble layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Peindre des gribouillis pour la couche de gribouillis sélectionnée</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="338"/>
         <source>Erase scribbles for selected scribble layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer les gribouillis pour la couche de gribouillis sélectionnée</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="342"/>
         <source>Update label by sending scribbles to server to apply selected post processing method</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour l&apos;étiquette en envoyant les gribouillis au serveur pour appliquer la méthode de post-traitement sélectionnée</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="345"/>
         <source>Change brush size for scribbles tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la taille du pinceau pour l&apos;outil de gribouillage</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="347"/>
         <source>Use 3D brush to paint/erase in multiple slices in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser un pinceau 3D pour peindre/effacer dans plusieurs coupes en 3D</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="374"/>
         <source>infer</source>
-        <translation type="unfinished"></translation>
+        <translation>inférer</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="375"/>
         <source>train</source>
-        <translation type="unfinished"></translation>
+        <translation>entraîner</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="376"/>
         <source>activelearning</source>
-        <translation type="unfinished"></translation>
+        <translation>apprentissageActif</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="377"/>
         <source>scoring</source>
-        <translation type="unfinished"></translation>
+        <translation>évaluation</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="386"/>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="387"/>
         <source>Please enter your name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez entrer votre nom&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="492"/>
         <source>{current}/{total} epoch is completed</source>
-        <translation type="unfinished"></translation>
+        <translation>{current}/{total} époque est terminée</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="503"/>
         <source>Training: {status}</source>
-        <translation type="unfinished"></translation>
+        <translation>Entraînement&#xa0;: {status}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="602"/>
         <source>{current}/{total} samples are labeled</source>
-        <translation type="unfinished"></translation>
+        <translation>{current}/{total} échantillons sont étiquetés</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="875"/>
         <source>Accuracy: {value}</source>
-        <translation type="unfinished"></translation>
+        <translation>Précision&#xa0;: {value}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1019"/>
         <source>This will clear current scribbles session.
 Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Cela effacera la session de gribouillis actuelle. 
+Êtes-vous sûr de vouloir continuer&#x202f;?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1089"/>
         <source>Please upgrade the monai server to latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez mettre à jour le serveur MONAI vers la dernière version</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1100"/>
         <source>Failed to fetch models from remote server. Make sure server address is correct and &lt;server_uri&gt;/info/ is accessible in browser.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la récupération des modèles depuis le serveur distant. Assurez-vous que l&apos;adresse du serveur est correcte et que &lt;server_uri&gt;/info/ est accessible dans le navigateur. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1134"/>
         <location filename="MONAILabel/MONAILabel.py" line="1139"/>
         <source>Wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Attendez...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1155"/>
         <source>No Model selected is to run the training</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun modèle sélectionné pour exécuter l&apos;entraînement</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1163"/>
         <source>Training: STARTED</source>
-        <translation type="unfinished"></translation>
+        <translation>Entraînement&#xa0;: DÉMARRÉ</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1170"/>
         <source>Failed to run training in MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;exécution de l&apos;entraînement sur le serveur MONAI Label. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1177"/>
@@ -302,18 +305,22 @@ Are you sure to continue?</source>
 Status: {status}
 Start Time: {start_time}
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ID&#xa0;: {id} 
+Statut&#xa0;: {status} 
+Heure de début&#xa0;: {start_time}
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1192"/>
         <source>This will kill/stop current Training task.  Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Cela arrêtera la tâche d&apos;entraînement actuelle. Êtes-vous sûr de vouloir continuer&#x202f;?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1202"/>
         <source>Failed to stop Training Task.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;arrêt de la tâche d&apos;entraînement. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1209"/>
@@ -321,30 +328,36 @@ Start Time: {start_time}
 Start Time: {start_time}
 End Time: {end_time}
 Result: {result}</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut&#xa0;: {status} 
+Heure de début&#xa0;: {start_time} 
+Heure de fin&#xa0;: {end_time} 
+Résultat&#xa0;: {result}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1237"/>
         <source>This will close current scene.  Please make sure you have saved your current work.
 Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Cela fermera la scène actuelle. Veuillez vous assurer que vous avez enregistré votre travail actuel.  
+Êtes-vous sûr de vouloir continuer&#x202f;?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1249"/>
         <source>No Strategy Found/Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune stratégie trouvée/sélectionnée</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1260"/>
         <source>Unlabeled samples or images not found at server.
 Instead please go to File -&gt; Add Data to load image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échantillons ou images non étiquetés non trouvés sur le serveur. 
+Veuillez plutôt aller dans Fichier -&gt; Ajouter des données pour charger l&apos;image.</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1318"/>
         <source>Failed to fetch Sample from MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la récupération de l&apos;échantillon depuis le serveur MONAI Label. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1368"/>
@@ -353,7 +366,11 @@ Instead please go to File -&gt; Add Data to load image.</source>
 Click &apos;OK&apos; to proceed with the segmentation.
 Click &apos;Cancel&apos; to not upload any data and cancel segmentation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Le volume source - sans aucune information supplémentaire sur le patient - sera envoyé au serveur de traitement de données distant&#xa0;: {server_url}. 
+
+Cliquez sur &apos;OK&apos; pour procéder à la segmentation. 
+Cliquez sur &apos;Annuler&apos; pour ne pas télécharger de données et annuler la segmentation.
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1409"/>
@@ -361,141 +378,146 @@ Click &apos;Cancel&apos; to not upload any data and cancel segmentation.
 Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
         <oldsource>Server Error:: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Erreur du serveur&#xa0;: Échec de la création de la session. 
+Veuillez mettre à jour vers la dernière version de MONAI Label (&gt; 0.2.0)</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1415"/>
         <source>Failed to upload volume to Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement du volume vers le serveur. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1422"/>
         <source>Label File not selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier d&apos;étiquette non sélectionné</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1431"/>
         <source>Failed to import label</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;importation de l&apos;étiquette</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1501"/>
         <source>Failed to save Label to MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;enregistrement de l&apos;étiquette sur le serveur MONAI Label. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1512"/>
         <source>Label-Mask saved into MONAI Label Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Masque d&apos;étiquette enregistré sur le serveur MONAI Label</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1557"/>
         <source>Failed to run inference in MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;exécution de l&apos;inférence sur le serveur MONAI Label. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1574"/>
         <source>Please select a deepgrow model</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner un modèle deepgrow</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1579"/>
         <source>Please add the required label to run deepgrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez ajouter l&apos;étiquette requise pour exécuter deepgrow</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1596"/>
         <source>Run Deepgrow for segment: {label}; model: {model}; 3d {in3d}</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter Deepgrow pour segmenter&#xa0;: {label}&#x202f;; modèle&#xa0;: {model}&#x202f;; 3d {in3d}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1597"/>
         <source>enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>activé</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1598"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>désactivé</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1979"/>
         <source>Failed to post process label on MONAI Label Server using {scribbles_method}.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du post-traitement de l&apos;étiquette sur le serveur MONAI Label en utilisant {scribbles_method}. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="2342"/>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion utilisateur</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="40"/>
         <source>Fetch/Refresh models from Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Récupérer/Rafraîchir les modèles depuis le serveur</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="50"/>
         <source>App Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l&apos;application&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="73"/>
         <source>MONAI Label server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur MONAI Label&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="80"/>
         <source>Source Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume source&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="90"/>
         <source>Select Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner le nœud</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="103"/>
         <source>Upload Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger le volume</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="115"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="157"/>
         <source>Section:</source>
-        <translation type="unfinished"></translation>
+        <translation>Section&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="174"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="189"/>
         <source>Active Learning</source>
-        <translation type="unfinished"></translation>
+        <translation>Apprentissage Actif</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="217"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="231"/>
         <source>Accuracy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Précision&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="238"/>
         <source>Average Dice score computed over submitted labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Score Dice moyen calculé sur les étiquettes soumises</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="248"/>
@@ -503,139 +525,139 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="409"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="665"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="267"/>
         <source>Train</source>
-        <translation type="unfinished"></translation>
+        <translation>Entraîner</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="274"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrêter</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="286"/>
         <source>Submit Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Soumettre l&apos;étiquette</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="293"/>
         <source>Strategy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stratégie&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="300"/>
         <source>Next Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Échantillon suivant</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="313"/>
         <source>Segment Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Éditeur de segment</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="338"/>
         <source>Auto Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation Auto</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="362"/>
         <source>Select pre-trained segmentation model</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner un modèle de segmentation pré-entraîné</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="379"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="389"/>
         <source>SmartEdit / Deepgrow</source>
-        <translation type="unfinished"></translation>
+        <translation>SmartEdit / Deepgrow</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="425"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="557"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="438"/>
         <source>Select Deepgrow/DeepEdit Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner le modèle DeepGrow/DeepEdit</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="445"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="645"/>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Étiquette&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="473"/>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Geler</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="482"/>
         <source>Foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Premier plan&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="504"/>
         <source>  Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>  Arrière-plan&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="526"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="541"/>
         <source>Scribbles</source>
-        <translation type="unfinished"></translation>
+        <translation>Gribouillis</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="564"/>
         <source>Paint</source>
-        <translation type="unfinished"></translation>
+        <translation>Peindre</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="574"/>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="588"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="626"/>
         <source>3D</source>
-        <translation type="unfinished"></translation>
+        <translation>3D</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="638"/>
         <source>Scribbles:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gribouillis&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="687"/>
         <source>ROI:</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="714"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Outils</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="735"/>
         <source>Import Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer l&apos;étiquette&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -644,31 +666,31 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="614"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="22"/>
         <source>Basic mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode basique</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="615"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="38"/>
         <source>Reviewer&apos;s mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode de l&apos;examinateur</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="618"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="53"/>
         <source>Search Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher des images</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="619"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="80"/>
         <source>Image Ids</source>
-        <translation type="unfinished"></translation>
+        <translation>Ids Image</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="622"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="87"/>
         <source>imageId_1, imageId2, ...</source>
-        <translation type="unfinished"></translation>
+        <translation>imageId_1, imageId2, ...</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="623"/>
@@ -678,25 +700,25 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="161"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="232"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="626"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="74"/>
         <source>Ids</source>
-        <translation type="unfinished"></translation>
+        <translation>Ids</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="627"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="111"/>
         <source>Select annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner l&apos;annotateur</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="628"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="121"/>
         <source>Select reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner le réviseur</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="629"/>
@@ -704,7 +726,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="131"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="820"/>
         <source>approved</source>
-        <translation type="unfinished"></translation>
+        <translation>approuvé</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="630"/>
@@ -712,61 +734,61 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="138"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="802"/>
         <source>flagged</source>
-        <translation type="unfinished"></translation>
+        <translation>signalé</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="634"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="105"/>
         <source>Annotator/Reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotateur/Réviseur</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="636"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="175"/>
         <source>Select level of difficulty</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner le niveau de difficulté</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="637"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="195"/>
         <source>easy</source>
-        <translation type="unfinished"></translation>
+        <translation>facile</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="638"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="202"/>
         <source>medium</source>
-        <translation type="unfinished"></translation>
+        <translation>moyen</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="639"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="209"/>
         <source>hard</source>
-        <translation type="unfinished"></translation>
+        <translation>difficile</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="643"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="169"/>
         <source>Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualité</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="644"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="247"/>
         <source>Result:</source>
-        <translation type="unfinished"></translation>
+        <translation>Résultat&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="646"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="258"/>
         <source>Image Id</source>
-        <translation type="unfinished"></translation>
+        <translation>Id image</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="648"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="271"/>
         <source>found</source>
-        <translation type="unfinished"></translation>
+        <translation>trouvé</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="650"/>
@@ -774,25 +796,25 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="284"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="813"/>
         <source>segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>segmenté</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="651"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="295"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="652"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="307"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="655"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="345"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Se connecter</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="656"/>
@@ -800,7 +822,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="352"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="754"/>
         <source>Segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmenté</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="657"/>
@@ -808,201 +830,201 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="369"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="747"/>
         <source>Approved</source>
-        <translation type="unfinished"></translation>
+        <translation>Approuvé</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="658"/>
         <source>Server IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur IP&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="659"/>
         <source>Reviewer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Réviseur&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="662"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="415"/>
         <source>Data Evaluation</source>
-        <translation type="unfinished"></translation>
+        <translation>Évaluation des données</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="665"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="428"/>
         <source>Level of difficulty</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau de difficulté</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="666"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="440"/>
         <source>Easy</source>
-        <translation type="unfinished"></translation>
+        <translation>Facile</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="667"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="450"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Moyen</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="668"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="460"/>
         <source>Hard</source>
-        <translation type="unfinished"></translation>
+        <translation>Difficile</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="669"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="476"/>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Précédent</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="670"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="486"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Suivant</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="671"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="493"/>
         <source>Flag</source>
-        <translation type="unfinished"></translation>
+        <translation>Signaliser</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="672"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="500"/>
         <source>Approve</source>
-        <translation type="unfinished"></translation>
+        <translation>Approuver</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="673"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="511"/>
         <source>Image: x/y</source>
-        <translation type="unfinished"></translation>
+        <translation>Image&#xa0;: x/y</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="674"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="534"/>
         <source>Version of labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Version des étiquettes</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="675"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="549"/>
         <source>Start label edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrer l&apos;édition de l&apos;étiquette</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="678"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="564"/>
         <source>Overwrite this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Écraser cette version</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="679"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="572"/>
         <source>Save as new version</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer en tant que nouvelle version</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="680"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="577"/>
         <source>Delete this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer cette version</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="681"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="588"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="682"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="603"/>
         <source>Image Id: </source>
-        <translation type="unfinished"></translation>
+        <translation>Id image&#xa0;: </translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="683"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="610"/>
         <source>Annotator:</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotateur&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="684"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="617"/>
         <source>Annotation Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Date d&apos;annotation&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="685"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="624"/>
         <source>Difficulty Level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau de difficulté&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="686"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="631"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="687"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="638"/>
         <source>Editor: </source>
-        <translation type="unfinished"></translation>
+        <translation>Éditeur&#xa0;: </translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="688"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="645"/>
         <source>Editing Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Date de modification&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="689"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="701"/>
         <source>Add Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un commentaire</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="692"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="716"/>
         <source>Data Set Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorateur de Jeux de Données</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="693"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="727"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="696"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="761"/>
         <source>Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotateur</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="697"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="781"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrer</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="698"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="795"/>
         <source>not segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>non segmenté</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="383"/>
         <source>Server Url</source>
-        <translation type="unfinished"></translation>
+        <translation>URL du serveur</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="400"/>
         <source>Reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Réviseur</translation>
     </message>
 </context>
 <context>
@@ -1010,7 +1032,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="42"/>
         <source>Active Learning</source>
-        <translation type="unfinished"></translation>
+        <translation>Apprentissage Actif</translation>
     </message>
 </context>
 </TS>
