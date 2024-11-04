@@ -18646,7 +18646,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="4"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>工具</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="4"/>
