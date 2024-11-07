@@ -460,7 +460,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
         <source>Show Guidelet in full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار Guidelet في وضع ملء الشاشة</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="201"/>
@@ -475,7 +475,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>خروج</translation>
     </message>
 </context>
 <context>
@@ -488,17 +488,17 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="57"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء التسجيل</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="60"/>
         <source>If clicked, start recording</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم النقر فوقه، ابدأ التسجيل</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="62"/>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميد</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="74"/>
