@@ -26,7 +26,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>入出力パラメータ</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
         <source>Input Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>入力パラメータ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
@@ -198,12 +198,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="19"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation>ゼロ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="21"/>
         <source>Output Files</source>
-        <translation type="unfinished"></translation>
+        <translation>出力ファイル</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
@@ -218,7 +218,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
         <source>OutputDirectory</source>
-        <translation type="unfinished"></translation>
+        <translation>出力ディレクトリ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
