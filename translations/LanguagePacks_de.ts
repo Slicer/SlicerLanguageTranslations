@@ -215,9 +215,9 @@ Die Entwicklung dieses Moduls wurde teilweise durch &lt;ein href=&quot;https://c
         <oldsource>Click on the text to find it on the translation website:
 
 {links}</oldsource>
-        <translation type="unfinished">Klicken Sie auf den Text, um ihn auf der Übersetzungswebsite zu finden:
+        <translation>Klicken Sie auf den Text, um ihn auf der Übersetzungswebsite [{language}] zu finden:
 
-{Verknüpfungen}</translation>
+{links}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="174"/>
