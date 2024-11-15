@@ -181,7 +181,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="74"/>
         <source>Brightness </source>
-        <translation type="unfinished"></translation>
+        <translation>Brilho </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="84"/>
@@ -191,12 +191,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="88"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Brilho</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="92"/>
         <source>Brighter</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais brilho</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="244"/>
@@ -408,7 +408,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="305"/>
         <source>Test passed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Teste aprovado!</translation>
     </message>
 </context>
 <context>
@@ -416,7 +416,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="13"/>
         <source>Viewpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponto de vista</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="23"/>
@@ -424,7 +424,10 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo ajusta o ponto de vista da câmera em um visualizador 3D.
+Visão Bullseye: posicione/oriente a câmera usando uma ferramenta rastreada.
+Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="25"/>
