@@ -352,12 +352,12 @@ Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
         <source>Pick the input fiducial list for the algorithm.</source>
-        <translation>Sélectionnez la liste de points fiduciaires en entrée pour l&apos;algorithme.</translation>
+        <translation>Sélectionnez la liste de repères en entrée pour l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation>Points fiduciaires en entrée&#xa0;: </translation>
+        <translation>Repères d&apos;entrée&#xa0;: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
@@ -367,7 +367,7 @@ Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
         <source>Input model: </source>
-        <translation>Modèle en entrée&#xa0;: </translation>
+        <translation>Modèle d&apos;entrée&#xa0;: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="96"/>
@@ -377,7 +377,7 @@ Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation>Transformation en sortie&#xa0;: </translation>
+        <translation>Transformation de sortie&#xa0;: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
