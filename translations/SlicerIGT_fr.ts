@@ -1986,12 +1986,12 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="53"/>
         <source>From fiducials</source>
-        <translation>Depuis repères</translation>
+        <translation>De repères</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="65"/>
         <source>To fiducials</source>
-        <translation>Aux repères</translation>
+        <translation>À repères</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="77"/>
@@ -2053,7 +2053,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="247"/>
         <source>Warping</source>
-        <translation>Gauchissement</translation>
+        <translation>Déformation</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="258"/>
@@ -2063,7 +2063,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="270"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Compute output transform from fiducials. Click the checkbox for automatic update.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Calculer la transformation de sortie à partir des fiducials. Cliquez sur la case à cocher pour la mise à jour automatique.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Calculer la transformation de sortie à partir des repères. Cliquez sur la case à cocher pour la mise à jour automatique.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="273"/>
@@ -2097,12 +2097,12 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="162"/>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="173"/>
         <source>Place fiducial corresponding to %1</source>
-        <translation>Placer un fiducial correspondant à %1</translation>
+        <translation>Placer un repère correspondant à %1</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="208"/>
         <source>Point indices in the &quot;From&quot; list match those in the &quot;To&quot; list.</source>
-        <translation>Les indices de points dans la liste &quot;De&quot; correspondent à ceux de la liste &quot;Vers&quot;.</translation>
+        <translation>Les indices de points dans la liste &quot;De&quot; correspondent à ceux de la liste &quot;À&quot;.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="211"/>
@@ -2117,7 +2117,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="359"/>
         <source>No Fiducial Registration Wizard module node selected.</source>
-        <translation>Aucun nœud de module du registre de fiducial n&apos;est sélectionné.</translation>
+        <translation>Aucun nœud de module du registre de repère n&apos;est sélectionné.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="405"/>
