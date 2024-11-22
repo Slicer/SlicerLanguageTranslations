@@ -139,7 +139,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation>Cerveau défiguré à partir d&apos;une image T1/T2 (BRAINS)</translation>
+        <translation>Cerveau flouté à partir d&apos;une image T1/T2 (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
@@ -12465,7 +12465,7 @@ et le Consortium ontarien pour les interventions adaptatives en radio-oncologie 
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
         <source>Query and retrieve DICOM data sets from remote server</source>
-        <translation>Rechercher et récupérer des jeux de données DICOM depuis un serveur distant</translation>
+        <translation>Interroger et récupérer des données DICOM depuis un serveur distant</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
@@ -20549,7 +20549,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="124"/>
         <source>Input ROI is under a non-linear transform.</source>
-        <translation>Le retour sur investissement d&apos;entrée est soumis à une transformation non linéaire.</translation>
+        <translation>Une transformation non linéaire est appliquée à la région d&apos;interêt.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="137"/>
