@@ -213,75 +213,75 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="23"/>
         <source>brain volume mask</source>
-        <translation type="unfinished"></translation>
+        <translation>máscara de volume cerebral</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
         <source>OutputDirectory</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório de Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
         <source>The brain volume mask generated from the MUSH image</source>
-        <translation type="unfinished"></translation>
+        <translation>A máscara de volume cerebral gerada a partir da imagem MUSH</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="26"/>
         <source>The output directory to writing the defaced input files</source>
-        <translation type="unfinished"></translation>
+        <translation>O diretório de saída para gravar os arquivos de entrada desfigurados</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
         <source>Run Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de execução</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
         <source>Modify the program to only generate a mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifique o programa para gerar apenas uma máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
         <source>No Mask Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem aplicação de máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Não aplique a máscara às imagens de entrada usadas para gerar a máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
         <source>Output Image Intensity Normalization</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalização da intensidade da imagem de saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
         <source>Parameters for normalizing the output images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros para normalizar as imagens de saída.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
         <source>Upper Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="34"/>
         <source>Lower Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil inferior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="35"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="37"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="42"/>
         <source>Upper Output Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensidade de saída superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="36"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="43"/>
         <source>Lower Output Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>Menor intensidade de saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
@@ -296,7 +296,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
         <source>Upper Intensity Percentile (0.99 default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil de intensidade superior (padrão 0,99)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="41"/>
@@ -311,7 +311,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
         <source>Do not scale to the relative percentiles of the output scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Não dimensione para os percentis relativos da escala de produção</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
@@ -324,7 +324,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro Geral (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
@@ -344,7 +344,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
         <source>Fixed Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de imagem fixo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
