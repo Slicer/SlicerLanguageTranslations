@@ -230,12 +230,12 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="386"/>
         <source>User Name</source>
-        <translation>Nombre de Usuario</translation>
+        <translation>Nombre de usuario</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="387"/>
         <source>Please enter your name:</source>
-        <translation>Por favor ingrese su nombre</translation>
+        <translation>Por favor, introduce tu nombre:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="492"/>
@@ -245,17 +245,17 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="503"/>
         <source>Training: {status}</source>
-        <translation type="unfinished"></translation>
+        <translation>Formación: {status}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="602"/>
         <source>{current}/{total} samples are labeled</source>
-        <translation type="unfinished"></translation>
+        <translation>{current}/{total} muestras están etiquetadas</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="875"/>
         <source>Accuracy: {value}</source>
-        <translation type="unfinished"></translation>
+        <translation>Exactitud: {value}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1019"/>
