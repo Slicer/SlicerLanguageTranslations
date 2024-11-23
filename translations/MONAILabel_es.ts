@@ -195,52 +195,52 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="342"/>
         <source>Update label by sending scribbles to server to apply selected post processing method</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar etiqueta enviando garabatos (bocetos, dibujos, rayas, etc.) al servidor para aplicar el método de postprocesamiento seleccionado</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="345"/>
         <source>Change brush size for scribbles tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar el tamaño del pincel para la herramienta de Dibujos</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="347"/>
         <source>Use 3D brush to paint/erase in multiple slices in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa el pincel 3D para pintar/borrar en múltiples capas en 3D</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="374"/>
         <source>infer</source>
-        <translation type="unfinished"></translation>
+        <translation>inferir</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="375"/>
         <source>train</source>
-        <translation type="unfinished"></translation>
+        <translation>Instruir</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="376"/>
         <source>activelearning</source>
-        <translation type="unfinished"></translation>
+        <translation>Aprendizaje activo</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="377"/>
         <source>scoring</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluación</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="386"/>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de Usuario</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="387"/>
         <source>Please enter your name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor ingrese su nombre</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="492"/>
         <source>{current}/{total} epoch is completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha completado la época {current}/{total}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="503"/>
