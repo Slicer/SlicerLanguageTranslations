@@ -261,40 +261,43 @@ Desarrollado por NVIDIA, KCL
         <location filename="MONAILabel/MONAILabel.py" line="1019"/>
         <source>This will clear current scribbles session.
 Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto borrará la sesión actual de scribbles.
+¿Estás seguro de continuar?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1089"/>
         <source>Please upgrade the monai server to latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, actualice el servidor monai a la última versión</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1100"/>
         <source>Failed to fetch models from remote server. Make sure server address is correct and &lt;server_uri&gt;/info/ is accessible in browser.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al recuperar modelos del servidor remoto. Asegúrese de que la dirección del servidor es correcta y &lt;server_uri&gt;/info/ es accesible en el navegador.
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1134"/>
         <location filename="MONAILabel/MONAILabel.py" line="1139"/>
         <source>Wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Espere...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1155"/>
         <source>No Model selected is to run the training</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha seleccionado ningún modelo para ejecutar el entrenamiento</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1163"/>
         <source>Training: STARTED</source>
-        <translation type="unfinished"></translation>
+        <translation>Formación: INICIADA</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1170"/>
         <source>Failed to run training in MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al ejecutar la formación en MONAI Label Server.
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1177"/>
@@ -302,18 +305,22 @@ Are you sure to continue?</source>
 Status: {status}
 Start Time: {start_time}
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ID: {id}
+Estado: {status}
+Hora de inicio: {start_time}
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1192"/>
         <source>This will kill/stop current Training task.  Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto matará/detendrá la tarea de Formación actual.  ¿Está seguro de continuar?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1202"/>
         <source>Failed to stop Training Task.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al detener la tarea de formación.
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1209"/>
@@ -321,13 +328,17 @@ Start Time: {start_time}
 Start Time: {start_time}
 End Time: {end_time}
 Result: {result}</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado: {status}
+Hora de inicio: {start_time}
+Hora de fin: {end_time}
+Resultado: {result}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1237"/>
         <source>This will close current scene.  Please make sure you have saved your current work.
 Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto cerrará la escena actual.  Por favor, asegúrese de haber guardado su trabajo.
+¿Estás seguro de continuar?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1249"/>
