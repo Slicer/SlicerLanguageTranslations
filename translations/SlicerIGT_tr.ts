@@ -9,7 +9,9 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Bu modül, tekrarlamalı en yakın noktalar (Iterative Closest Points-ICP) yöntemi kullanarak referans (fiducial) listesini bir model yüzeyine hizalar. Bu modülü nasıl kullanacağınızla ilgili yardım için: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT web sitesini&lt;/a&gt; ziyaret edin.
+    </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
@@ -17,77 +19,80 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Bu dosya orijinal olarak Jean-Christophe Fillion-Robin, Kitware Inc.
+ve Steve Pieper, Isomics, Inc. tarafından geliştirilmiş olup, kısmen NIH grant 3P41RR013218-12S1 numaralı hibesi ile desteklenmiştir.
+</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
         <source>Pick the input fiducial list for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Algoritma için girdi referans (fiducial) listesini seçin.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Girdi referanslar (fiducial): </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
         <source>Pick the input model for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Algoritmanın girdi modelini seçin.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
         <source>Input model: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Girdi modeli: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="96"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Algoritmanın çıktısını seçin.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Çıktı dönüşümü: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
         <source>If checked, take screen shots for tutorials. Use Save Data to write them to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">İşaretlendiğinde, öğretici için ekran görüntüleri alır. Diske yazmak için Veriyi Kaydet&apos;i kullanın.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="115"/>
         <source>Set scale factor for the screen shots.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ekran görüntülerinin ölçeğini belirleyin.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="122"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Algoritmayı çalıştır.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="130"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıktı</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="135"/>
         <source>Mean distance after registration: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hizalamadan sonra ortalama mesafe: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gelişmiş</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
         <source>Transform type: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dönüşüm türü: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">İterasyon sayısı:</translation>
     </message>
 </context>
 <context>
@@ -95,7 +100,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="18"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rehber tel (Guidelet)</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="45"/>
@@ -110,7 +115,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
         <source>Select Configuration: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yapılandırma Seçin: </translation>
     </message>
 </context>
 <context>
@@ -118,7 +123,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="165"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
@@ -133,12 +138,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="193"/>
         <source>Show 3D Slicer user interface</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D Slicer arayüzünü göster</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
         <source>Show Guidelet in full screen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rehber teli (Guidelet) tam ekranda görüntüle</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="201"/>
@@ -153,7 +158,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıkış</translation>
     </message>
 </context>
 <context>
@@ -161,62 +166,62 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="47"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultrason</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="57"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Kayda Başla</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="60"/>
         <source>If clicked, start recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tıklandığında kayda başla</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="62"/>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dondur</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="74"/>
         <source>Brightness </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parlaklık </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="84"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="88"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parlak</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="92"/>
         <source>Brighter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Daha Parlak</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="244"/>
         <source>  Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">  Kaydı Durdur</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="246"/>
         <source>Recording is being started...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kayıt başlatılıyor...</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="260"/>
         <source>  Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>  Kayda Başla</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="262"/>
         <source>Recording is being stopped...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kayıt durduruluyor</translation>
     </message>
 </context>
 <context>
@@ -244,7 +249,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="44"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametreler</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
@@ -317,7 +322,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekle</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
@@ -365,7 +370,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="50"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametreler</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="67"/>
@@ -393,12 +398,12 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="91"/>
         <source>Save color in point data. &quot;RGB vector&quot; is recommended for compatibility with most software. The point data may be used for thresholding or color-based processing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nokta verisine renk kaydet. &quot;RGB vektör&quot; bir çok yazılımla uyumlu olduğu için önerilir. Nokta verisi, eşikleme veya renk-tabanlı işleme için kullanılabilir.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="99"/>
         <source>Apply texture to selected model.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seçilen modele doku uygula.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="298"/>
@@ -486,12 +491,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="142"/>
         <source>Camera Control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kamera Kontrol</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="150"/>
         <source>Degrees of Freedom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Serbestlik Derecesi</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="159"/>
@@ -506,7 +511,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="165"/>
         <source>The camera will always be oriented with the selected &apos;up direction&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kamera her zaman seçilen &apos;yukarı yön&apos; ile hizalanacaktır</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="169"/>
@@ -521,7 +526,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="178"/>
         <source>Up Direction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yukarı Yön</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="186"/>
@@ -556,12 +561,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="219"/>
         <source>Target Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Hedef Model</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="228"/>
         <source>Target model: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hedef Model: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="234"/>
@@ -592,27 +597,27 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="274"/>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Öteleme</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="281"/>
         <source>Left/Right (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sol/Sağ (mm): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="290"/>
         <source>Down/Up (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağı/Yukarı (mm): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="300"/>
         <source>Front/Back (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">İleri/Geri (mm): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="311"/>
         <source>Parallel Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Paralel Projeksiyon</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="314"/>
@@ -622,7 +627,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="319"/>
         <source>The camera will continuously update its position so that it follows the tool.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kamera sürekli olarak konumunu günceleyerek aleti takip eder.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="328"/>
@@ -2991,17 +2996,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="234"/>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkaplan rengi</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="255"/>
         <source>Text Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin Rengi:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="273"/>
         <source>Font size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yazı boyutu</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="283"/>
@@ -3021,22 +3026,22 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>İsim</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesaj</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ses</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Durum</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="302"/>
@@ -3046,17 +3051,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="303"/>
         <source>Delete highlighted row</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen satırı sil</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="463"/>
         <source>valid</source>
-        <translation type="unfinished"></translation>
+        <translation>geçerli</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="468"/>
         <source>invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>geçersiz</translation>
     </message>
 </context>
 <context>
@@ -3064,12 +3069,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="390"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El ile</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="391"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="395"/>
