@@ -51,7 +51,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation>Volumen de Salida 2</translation>
+        <translation>Volumen de Entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
@@ -66,12 +66,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation>Parámetros avanzados para afinación del cálculo.</translation>
+        <translation>Parámetros avanzados para afinar el cálculo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation>Orden de la interpolación polinomial que es usada si dos imágenes tienen diferente geometría (origen, espaciamiento, dirección del eje, o extensiones):0= Objeto más cercano , 1=linear, 2=Cuadrática, 3=Interpolación Cúbica.</translation>
+        <translation>Orden de la interpolación polinomial que es usada si dos imágenes tienen diferente geometría (origen, espaciamiento, dirección del eje, o extensiones): 0= Objeto más cercano, 1=linear, 2=Cuadrática, 3=Interpolación Cúbica.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
@@ -84,12 +84,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation>Limpieza de DWI(Cerebro)</translation>
+        <translation>Limpieza de DWI (Cerebro)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
         <source>Remove bad gradients/volumes from DWI NRRD file.</source>
-        <translation>Quitar malas gradientes/volúmenes del archivo DWI NRRD.</translation>
+        <translation>Quitar gradientes/volúmenes erróneos del archivo NRRD de DWI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
@@ -104,22 +104,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation>El archivo NRRD con malas gradientes ha quitado.</translation>
+        <translation>Archivo NRRD con gradientes defectuosos removidos.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
         <source>list of bad gradient volumes</source>
-        <translation>lista de malos volúmenes de gradiente</translation>
+        <translation>Lista de volúmenes de gradientes erróneos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation>Requerido: la imagen de entrada es una imagen 4D NRRD.</translation>
+        <translation>Requerido: la imagen de entrada debe ser una imagen NRRD 4D.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
         <source>given a list of </source>
-        <translation>dado una lista de... </translation>
+        <translation>dada una lista de… </translation>
     </message>
 </context>
 <context>
