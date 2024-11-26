@@ -6,12 +6,12 @@
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="14"/>
         <source>DICOM Application Host</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM 應用程式主機</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="37"/>
         <source>CTK Example Hosting Application</source>
-        <translation type="unfinished"></translation>
+        <translation>CTK 範例裝載應用程式</translation>
     </message>
 </context>
 <context>
@@ -19,42 +19,42 @@
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="151"/>
         <source>Query patients</source>
-        <translation type="unfinished"></translation>
+        <translation>查詢病人</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="153"/>
         <source>Query studies</source>
-        <translation type="unfinished"></translation>
+        <translation>查詢試驗</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="155"/>
         <source>Query series</source>
-        <translation type="unfinished"></translation>
+        <translation>查詢系列</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="157"/>
         <source>Query instances</source>
-        <translation type="unfinished"></translation>
+        <translation>查詢執行個體</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="168"/>
         <source>Retrieve patients</source>
-        <translation type="unfinished"></translation>
+        <translation>取得病人</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="170"/>
         <source>Retrieve studies</source>
-        <translation type="unfinished"></translation>
+        <translation>取得試驗</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="172"/>
         <source>Retrieve series</source>
-        <translation type="unfinished"></translation>
+        <translation>取得系列</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="174"/>
         <source>Retrieve instances</source>
-        <translation type="unfinished"></translation>
+        <translation>取得執行個體</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="179"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="183"/>
         <source>Echo server</source>
-        <translation type="unfinished"></translation>
+        <translation>回應伺服器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="187"/>
@@ -74,41 +74,41 @@
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="210"/>
         <source>initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>已初始化</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="293"/>
         <source>queued</source>
-        <translation type="unfinished"></translation>
+        <translation>在佇列中</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="298"/>
         <source>in-progress</source>
-        <translation type="unfinished"></translation>
+        <translation>正在進行</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="310"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>失敗</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="315"/>
         <source>user-stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者停止</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="320"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="427"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="430"/>
         <source>attempt-failed</source>
-        <translation type="unfinished"></translation>
+        <translation>嘗試失敗</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="325"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="428"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="431"/>
         <source>completed</source>
-        <translation type="unfinished"></translation>
+        <translation>已完成</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="444"/>
@@ -120,31 +120,31 @@
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="448"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="530"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="452"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="532"/>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>進度</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="456"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="534"/>
         <source>Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>時間和日期</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="460"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="536"/>
         <source>Starting Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>開始時間和日期</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="464"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="538"/>
         <source>Completion Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>完成時間和日期</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="468"/>
@@ -156,37 +156,37 @@
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="472"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="542"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>病人 ID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="476"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="544"/>
         <source>Patient Name</source>
-        <translation type="unfinished"></translation>
+        <translation>病人姓名</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="480"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="546"/>
         <source>Birth Date</source>
-        <translation type="unfinished"></translation>
+        <translation>出生日期</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="484"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="548"/>
         <source>Study UID</source>
-        <translation type="unfinished"></translation>
+        <translation>試驗 UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="488"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="550"/>
         <source>Series UID</source>
-        <translation type="unfinished"></translation>
+        <translation>系列 UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="492"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="552"/>
         <source>SOP UID</source>
-        <translation type="unfinished"></translation>
+        <translation>SOP UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="496"/>
@@ -198,7 +198,7 @@
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="500"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="556"/>
         <source>Job UID</source>
-        <translation type="unfinished"></translation>
+        <translation>工作 UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="504"/>
@@ -210,7 +210,7 @@
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="508"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="560"/>
         <source>Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>執行緒</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="512"/>
@@ -229,17 +229,17 @@
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
         <source>Shortcut(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>捷徑</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation>背景介紹</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>詳細內容</translation>
     </message>
 </context>
 <context>
@@ -247,27 +247,27 @@
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="14"/>
         <source>Select items</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇項目</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="36"/>
         <source>Add an object</source>
-        <translation type="unfinished"></translation>
+        <translation>新增物件</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="59"/>
         <source>Remove select object</source>
-        <translation type="unfinished"></translation>
+        <translation>移除選擇的物件</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="82"/>
         <source>Edit selected object</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯選擇的物件</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkAddRemoveComboBox.cpp" line="75"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>無</translation>
     </message>
 </context>
 <context>
@@ -276,23 +276,24 @@
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="196"/>
         <source>Closing %1 running modules</source>
         <extracomment>%1 is the number of running modules</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>關閉正在執行的 %1 模組</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="197"/>
         <source>Some modules are still running.
 Closing the application will cancel all current computations.</source>
-        <translation type="unfinished"></translation>
+        <translation>有些模組仍在執行。
+關閉程式將取消目前所有的計算。</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="283"/>
         <source>Load modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>讀取模組...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="435"/>
         <source>Failed while checking XML:</source>
-        <translation type="unfinished"></translation>
+        <translation>檢查 XML 時失敗：</translation>
     </message>
 </context>
 <context>
@@ -300,12 +301,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="398"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>所有</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="393"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>無</translation>
     </message>
 </context>
 <context>
@@ -313,12 +314,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="14"/>
         <source>Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>搜尋路徑</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="32"/>
         <source>Module Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>模組搜尋路徑</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="77"/>
