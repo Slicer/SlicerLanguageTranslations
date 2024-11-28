@@ -12749,7 +12749,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
         <source>&amp;Selected:</source>
-        <translation></translation>
+        <translation>&amp;Selected:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
