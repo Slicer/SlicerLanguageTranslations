@@ -20293,6 +20293,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -29399,6 +29400,7 @@ This should only used by advanced users who understand the consequences of chang
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
