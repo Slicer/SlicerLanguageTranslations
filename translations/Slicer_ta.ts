@@ -329,7 +329,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation>ஒரு குறிப்பு தொகுதிக்கு முப்பரிமாண அளவை பதிவு செய்யுங்கள் (இயல்பாகவே மேட்ச் பரச்பர தகவல்களை). மூளைச்சிவில் விவரிக்கப்பட்டுள்ள முறை: இன்சைட் டூல்கிட், சான்சன் எச்.சே., ஆரிச் சி., வில்லியம்ச் கே., தி இன்சைட் சர்னல், 2007 ஐப் பயன்படுத்தி முழு மூளை 3D படங்களின் பரச்பர செய்தி பதிவுகள்.</translation>
+        <translation>ஒரு குறிப்புத் தொகுதிக்கு முப்பரிமாண அளவை பதிவு செய்யுங்கள் (இயல்பாகவே மேட்ச் பரச்பர தகவல்களை). மூளைச்சிவில் விவரிக்கப்பட்டுள்ள முறை: இன்சைட் டூல்கிட், சான்சன் எச்.சே., ஆரிச் சி., வில்லியம்ச் கே., தி இன்சைட் சர்னல், 2007 ஐப் பயன்படுத்தி முழு மூளை 3D படங்களின் பரச்பர செய்தி பதிவுகள். https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
@@ -748,7 +748,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation>ushort</translation>
+        <translation>யுசார்ட்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
@@ -758,7 +758,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
         <source>uint</source>
-        <translation>uint</translation>
+        <translation>யுஇன்ட்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"/>
@@ -1329,7 +1329,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
         <source>ushort</source>
-        <translation>ushort</translation>
+        <translation>யுசார்ட்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
@@ -1339,7 +1339,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
         <source>uint</source>
-        <translation>uint</translation>
+        <translation>யுஇன்ட்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
@@ -1438,7 +1438,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation>ushort</translation>
+        <translation>யுசார்ட்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
@@ -1448,7 +1448,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
         <source>uint</source>
-        <translation>uint</translation>
+        <translation>யுஇன்ட்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
@@ -1692,7 +1692,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
         <source>ushort</source>
-        <translation>ushort</translation>
+        <translation>யுசார்ட்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"/>
@@ -1702,7 +1702,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="22"/>
         <source>uint</source>
-        <translation>uint</translation>
+        <translation>யுஇன்ட்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"/>
@@ -1796,7 +1796,7 @@ This program is useful for downsampling an image by a constant scale factor.
         <source>
   </source>
         <translation>
-</translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
@@ -1816,7 +1816,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"/>
         <source>Reference image</source>
-        <translation>குறிப்பு படம்</translation>
+        <translation>குறிப்புப் படம்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="12"/>
@@ -1961,7 +1961,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation>குறுக்கு</translation>
+        <translation>சார்ட்</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
@@ -3369,7 +3369,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="67"/>
         <source>A nonlinear input transform</source>
-        <translation>ஒரு நேரியல் உள்ளீட்டு மாற்றம்</translation>
+        <translation>ஒரு நேரியல்அல்லாத உள்ளீட்டு மாற்றம்</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="68"/>
@@ -4672,7 +4672,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="17"/>
         <source>Filter settings</source>
-        <translation>அமைப்புகளை வடிகட்டவும்</translation>
+        <translation>வடிகட்டி அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="18"/>
@@ -4831,7 +4831,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
-        <translation>பிரிக்கப்பட்ட தரவுகளிலிருந்து 3D மேற்பரப்பு மாதிரிகளை உருவாக்கவும். &lt;p&gt; எம்.ஆர்.எம்.எல் காட்சியில் மாதிரி வரிசைமுறை முனையின் கீழ் மாதிரிகள் ச்லைசரில் இறக்குமதி செய்யப்படுகின்றன. மாதிரி வண்ணங்கள் உள்ளீட்டு அளவோடு தொடர்புடைய வண்ண அட்டவணையால் அமைக்கப்படுகின்றன (நீங்கள் மாதிரி காட்சி கோப்பை ஏற்றினால் மட்டுமே இந்த வண்ணங்கள் தெரியும்). &lt;/P&gt; &lt;p&gt; &lt;b&gt; io: &lt;/b&gt; &lt;/p&gt; &lt;p&gt; ஒரு &lt;i&gt; உள்ளீட்டு தொகுதி &lt;/i&gt; இது ஒரு பிரிக்கப்பட்ட சிட்டை வரைபட அளவு என்பதைக் குறிப்பிடவும். உள்ளீட்டு அளவிலிருந்து உருவாக்கப்பட்ட திரும்ப மாதிரிகளைக் கட்டுப்படுத்த ஒரு கட்டமைப்பை வழங்க புதிய &lt;i&gt; மாதிரிகள் &lt;/i&gt; வரிசைமுறையை உருவாக்கவும். &lt;/P&gt; &lt;p&gt; &lt;b&gt; பலவற்றை உருவாக்கவும்: &lt;/b&gt; &lt;/p&gt; &lt;p &gt; &lt;i&gt; லேபிள்களின் பட்டியலை நீங்கள் குறிப்பிட்டால், அது எந்த தொடக்க/இறுதி சிட்டை அமைப்புகளையும் சவாரி செய்யும். &lt;/P&gt; &lt;p&gt; நீங்கள் சொடுக்கு செய்தால் &lt;i&gt; அனைத்தையும் உருவாக்குங்கள் &lt;/i&gt; அது சவாரி செய்யும் லேபிள்களின் பட்டியல் மற்றும் எந்த தொடக்க/இறுதி சிட்டை அமைப்புகள். பலகோணங்களின் (தசம சதவீதம்). நீங்கள் மென்மையான அல்லது அழிவை விரும்பவில்லை என்றால் 0 மற்றும் 1 ஐப் பயன்படுத்தவும். &lt;br&gt; இந்த பலகத்தில் இயல்புநிலைகளைப் பிரிக்க அல்லது புள்ளி இயல்புகளை உருவாக்க நீங்கள் கொடிகளை அமைக்கலாம். , மூட்டு மென்மையாக்காவிட்டால் மென்மையாக்குதல், மற்றும் அழிவு, இல்லையெனில் அழிவுக்குப் பிறகு); இந்த மாதிரிகள் எம்.ஆர்.எம்.எல் கோப்பில் சேமிக்கப்படவில்லை, பைதான் சாளரத்தில் தற்காலிக கோப்புகளை நீக்குவதை முடக்குகின்றன: &lt;br&gt; &lt;i&gt; sliceer.modules.modelmaker.climodulelogic ().</translation>
+        <translation>பிரிக்கப்பட்ட தரவுகளிலிருந்து 3D மேற்பரப்பு மாதிரிகளை உருவாக்கவும். &lt;p&gt; எம்.ஆர்.எம்.எல் காட்சியில் மாதிரி வரிசைமுறை முனையின் கீழ் மாதிரிகள் ச்லைசரில் இறக்குமதி செய்யப்படுகின்றன. மாதிரி வண்ணங்கள் உள்ளீட்டு அளவோடு தொடர்புடைய வண்ண அட்டவணையால் அமைக்கப்படுகின்றன (நீங்கள் மாதிரிக் காட்சி கோப்பை ஏற்றினால் மட்டுமே இந்த வண்ணங்கள் தெரியும்). &lt;/P&gt; &lt;p&gt; &lt;b&gt; io: &lt;/b&gt; &lt;/p&gt; &lt;p&gt; ஒரு &lt;i&gt; உள்ளீட்டு தொகுதி &lt;/i&gt; இது ஒரு பிரிக்கப்பட்ட சிட்டை வரைபட அளவு என்பதைக் குறிப்பிடவும். உள்ளீட்டு அளவிலிருந்து உருவாக்கப்பட்ட திரும்ப மாதிரிகளைக் கட்டுப்படுத்த ஒரு கட்டமைப்பை வழங்கப் புதிய &lt;i&gt; மாதிரிகள் &lt;/i&gt; வரிசைமுறையை உருவாக்கவும். &lt;/P&gt; &lt;p&gt; &lt;b&gt; பலவற்றை உருவாக்கவும்: &lt;/b&gt; &lt;/p&gt; &lt;p &gt; &lt;i&gt; லேபிள்களின் பட்டியலை நீங்கள் குறிப்பிட்டால், அது எந்தத் தொடக்க/இறுதி சிட்டை அமைப்புகளையும் சவாரி செய்யும். &lt;/P&gt; &lt;p&gt; நீங்கள் சொடுக்கு செய்தால் &lt;i&gt; அனைத்தையும் உருவாக்குங்கள் &lt;/i&gt; அது சவாரி செய்யும் லேபிள்களின் பட்டியல் மற்றும் எந்தத் தொடக்க/இறுதி சிட்டை அமைப்புகள். பலகோணங்களின் (தசம சதவீதம்). நீங்கள் மென்மையான அல்லது அழிவை விரும்பவில்லை என்றால் 0 மற்றும் 1 ஐப் பயன்படுத்தவும். &lt;br&gt; இந்தப் பலகத்தில் இயல்புநிலைகளைப் பிரிக்க அல்லது புள்ளி இயல்புகளை உருவாக்க நீங்கள் கொடிகளை அமைக்கலாம். , மூட்டு மென்மையாக்காவிட்டால் மென்மையாக்குதல், மற்றும் அழிவு, இல்லையெனில் அழிவுக்குப் பிறகு); இந்த மாதிரிகள் எம்.ஆர்.எம்.எல் கோப்பில் சேமிக்கப்படவில்லை, பைதான் சாளரத்தில் தற்காலிக கோப்புகளை நீக்குவதை முடக்குகின்றன: &lt;br&gt; &lt;i&gt; sliceer.modules.modelmaker.climodulelogic ().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
@@ -5027,7 +5027,7 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="45"/>
         <source>Sinc</source>
-        <translation>Sinc</translation>
+        <translation>சின்சி</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="46"/>
@@ -5058,7 +5058,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation>ஒவ்வொரு இடைநிலை படிகளுக்கும் பிறகு நீங்கள் மாடல்களின் நகலைச் சேமிக்க முடியும் (அணிவகுப்பு க்யூப்ச், மென்மையானது மற்றும் மூட்டு மென்மையாக்காவிட்டால் அழித்தல், இல்லையெனில் அழிவுக்குப் பிறகு). இந்த இடைநிலை மாதிரிகள் எம்.ஆர்.எம்.எல் கோப்பில் சேமிக்கப்படவில்லை, தற்காலிக கோப்புகளை நீக்கிவிட்ட பிறகு அவற்றை கைமுறையாக ஏற்ற வேண்டும் (அவை பைதான் கன்சோலில் (காண்க -&gt; பைதான் இன்டராக்டர்) பின்வரும் கட்டளையைப் பயன்படுத்தி ச்லிசர்.மோடூல்ச்.மோடெல்மேக்கர்.லிமோடூலெலோசிக் (). ).</translation>
+        <translation>ஒவ்வொரு இடைநிலை படிகளுக்கும் பிறகு நீங்கள் மாடல்களின் நகலைச் சேமிக்க முடியும் (அணிவகுப்பு க்யூப்ச், மென்மையானது மற்றும் மூட்டு மென்மையாக்காவிட்டால் அழித்தல், இல்லையெனில் அழிவுக்குப் பிறகு). இந்த இடைநிலை மாதிரிகள் எம்.ஆர்.எம்.எல் கோப்பில் சேமிக்கப்படவில்லை, தற்காலிக கோப்புகளை நீக்கிவிட்ட பிறகு அவற்றைக் கைமுறையாக ஏற்ற வேண்டும் (அவை பைதான் கன்சோலில் (காண்க -&gt; பைதான் இன்டராக்டர்) பின்வரும் கட்டளையைப் பயன்படுத்தி slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
@@ -5875,7 +5875,7 @@ The filter assumes that both the source and reference are of the same type and t
         <source>
   </source>
         <translation>
-</translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
@@ -7038,12 +7038,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="16"/>
         <source>nearestNeighbor</source>
-        <translation>nearestNeighbor</translation>
+        <translation>அருகில்உள்ளநபர்</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="17"/>
         <source>bspline</source>
-        <translation>bspline</translation>
+        <translation>பைஎச்பிகோடு</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="18"/>
@@ -7455,7 +7455,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation>&lt;p&gt; ஒரு படத்தை வாசிக்கவும். &lt;/p&gt; &lt;p&gt; பட மதிப்புகளை பயனர் குறிப்பிட்ட வெளிப்புற மதிப்புக்கு கீழே, மேலே, அல்லது எளிய வாசல் மதிப்புகளுக்கு இடையில் அமைக்கவும். &lt;/p&gt; &lt;p&gt; வாசல்: அல்லது வாசல் மதிப்புக்கு சமம் வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது. -பர் வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது. &lt;/P&gt;</translation>
+        <translation>&lt;p&gt; ஒரு படத்தை வாசிக்கவும். &lt;/p&gt; &lt;p&gt; பட மதிப்புகளைப் பயனர் குறிப்பிட்ட வெளிப்புற மதிப்புக்குக் கீழே, மேலே, அல்லது எளிய வாசல் மதிப்புகளுக்கு இடையில் அமைக்கவும். &lt;/p&gt; &lt;p&gt; வாசல்: அல்லது வாசல் மதிப்புக்குச் சமம் வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது. -பர் வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
@@ -7925,7 +7925,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="868"/>
         <source>Received DICOM file: {filename}</source>
-        <translation>பெறப்பட்ட டிகாம் கோப்பு: {கோப்பு பெயர்}</translation>
+        <translation>பெறப்பட்ட டிகாம் கோப்பு: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
@@ -7940,7 +7940,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="948"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation>தரவுத்தளத்தில் ({எண்ணிக்கை} நோயாளிகள்) நகலெடுக்கப்பட்ட அனைத்து தரவு மற்றும் கோப்புகளையும் நீக்க விரும்புகிறீர்களா?</translation>
+        <translation>தரவுத்தளத்தில் ({count} நோயாளிகள்) நகலெடுக்கப்பட்ட அனைத்து தரவு மற்றும் கோப்புகளையும் நீக்க விரும்புகிறீர்களா?</translation>
     </message>
 </context>
 <context>
@@ -8000,7 +8000,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="187"/>
         <source>{modality} image sequence ({count} planes)</source>
-        <translation>{முறை} பட வரிசை ({எண்ணிக்கை} விமானங்கள்)</translation>
+        <translation>{modality} பட வரிசை ({count} விமானங்கள்)</translation>
     </message>
 </context>
 <context>
@@ -8070,7 +8070,7 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="488"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation>{மொத்தம்_பீல்_கவுண்ட் {dotal_file_count of ஐக் காணவில்லை} தரவுத்தளத்தில் பட்டியலிடப்பட்ட தேர்ந்தெடுக்கப்பட்ட கோப்புகள் வட்டில் காண முடியாது.</translation>
+        <translation>{total_file_count} இல் {missing_file_count}ஐக் காணவில்லை} தரவுத்தளத்தில் பட்டியலிடப்பட்ட தேர்ந்தெடுக்கப்பட்ட கோப்புகள் வட்டில் காண முடியாது.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="495"/>
@@ -15988,52 +15988,52 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1031"/>
         <source>Move selected segments down</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட பிரிவுகளை கீழே நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1038"/>
         <source>Show filter bar</source>
-        <translation type="unfinished"></translation>
+        <translation>வடிகட்டி பட்டியைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1044"/>
         <source>Show layer column</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுக்கு நெடுவரிசையைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1065"/>
         <source>Show in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>3D இல் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1072"/>
         <source>Show in 2D as fill</source>
-        <translation type="unfinished"></translation>
+        <translation>2D இல் நிரப்பு எனக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1079"/>
         <source>Show in 2D as outline</source>
-        <translation type="unfinished"></translation>
+        <translation>2D இல் அவுட்லைன் எனக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1103"/>
         <source>Clear selected segments</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட பிரிவுகளை அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1173"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>தெளிவான</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1174"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1176"/>
         <source>Are you sure you want to clear the contents of the selected segments?</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட பிரிவுகளின் உள்ளடக்கங்களை அழிக்க விரும்புகிறீர்களா?</translation>
     </message>
 </context>
 <context>
@@ -16041,67 +16041,67 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserPlayWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>QMRMLENCENBROWSERPLAYWIDGET</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="26"/>
         <source>First frame</source>
-        <translation type="unfinished"></translation>
+        <translation>முதல் சட்டகம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="40"/>
         <source>Previous frame</source>
-        <translation type="unfinished"></translation>
+        <translation>முந்தைய சட்டகம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="54"/>
         <source>Play/Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாடு/இடைநிறுத்தம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="72"/>
         <source>Next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுத்த சட்டகம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="86"/>
         <source>Last frame</source>
-        <translation type="unfinished"></translation>
+        <translation>கடைசி சட்டகம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="100"/>
         <source>fps</source>
-        <translation type="unfinished"></translation>
+        <translation>fps</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="122"/>
         <source>Loop playback</source>
-        <translation type="unfinished"></translation>
+        <translation>லூப் பிளேபேக்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="139"/>
         <source>Record proxy nodes modifications continuously</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிலாள் முனைகள் மாற்றங்களை தொடர்ந்து பதிவுசெய்க</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="156"/>
         <source>Record snapshot of current state of all proxy nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து பதிலாள் முனைகளின் தற்போதைய நிலையின் ச்னாப்சாட்டை பதிவு செய்யுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="317"/>
         <source>Play/Pause (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Play/இடைநிறுத்தம் (%1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="333"/>
         <source>Previous frame (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>முந்தைய சட்டகம் (%1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceBrowserPlayWidget.cxx" line="349"/>
         <source>Next frame (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுத்த சட்டகம் (%1)</translation>
     </message>
 </context>
 <context>
@@ -16109,12 +16109,12 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserSeekWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>QMRMLENCESBROWSERSEEKWIDGET</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="26"/>
         <source>Index name</source>
-        <translation type="unfinished"></translation>
+        <translation>குறியீட்டு பெயர்</translation>
     </message>
 </context>
 <context>
@@ -16122,90 +16122,90 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="20"/>
         <source>Edit sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசையைத் திருத்து</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="44"/>
         <source>Index properties</source>
-        <translation type="unfinished"></translation>
+        <translation>குறியீட்டு பண்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="50"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="70"/>
         <source>Unit:</source>
-        <translation type="unfinished"></translation>
+        <translation>அலகு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="90"/>
         <source>Type:</source>
-        <translation type="unfinished">வகை:</translation>
+        <translation>தட்டச்சு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="113"/>
         <source>Data nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவு முனைகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="154"/>
         <source>Add/remove data nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவு முனைகளைச் சேர்க்கவும்/அகற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="164"/>
         <source>Add to sequence items</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசை உருப்படிகளில் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="174"/>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="223"/>
         <source>Increment index by this much after adding a data node</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவு முனையைச் சேர்த்த பிறகு இது மிகவும் அதிகரிப்பு குறியீட்டை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="190"/>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="240"/>
         <source>Use node name as index value</source>
-        <translation type="unfinished"></translation>
+        <translation>குறியீட்டு மதிப்பாக முனை பெயரைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="193"/>
         <source>Use node name:</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை பெயரைப் பயன்படுத்தவும்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="200"/>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="210"/>
         <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation type="unfinished"></translation>
+        <translation>இயக்கப்பட்டிருந்தால், தேர்ந்தெடுக்கப்பட்ட முனை வரிசை உருப்படிகளில் சேர்க்கப்பட்ட பிறகு, தேர்வு அடுத்த உருப்படிக்கு நகர்கிறது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="203"/>
         <source>Auto-advance:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்டோ-அட்வான்ச்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="226"/>
         <source>Index increment:</source>
-        <translation type="unfinished"></translation>
+        <translation>குறியீட்டு அதிகரிப்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="233"/>
         <source>Index value:</source>
-        <translation type="unfinished"></translation>
+        <translation>குறியீட்டு மதிப்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="307"/>
         <source>Node type:</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை வகை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/qMRMLSequenceEditWidget.cxx" line="356"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர்</translation>
     </message>
 </context>
 <context>
@@ -16217,17 +16217,17 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Unit Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>அலகு அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
         <source>Unit:</source>
-        <translation type="unfinished"></translation>
+        <translation>அலகு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="33"/>
         <source>Select the current unit node to modify.</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்ற தற்போதைய அலகு முனையைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
 </context>
 <context>
@@ -16235,489 +16235,489 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="14"/>
         <source>Slice Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் கன்ட்ரோலர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="60"/>
         <source>Select the label map</source>
-        <translation type="unfinished"></translation>
+        <translation>சிட்டை வரைபடத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="188"/>
         <source>Select the foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்புறத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="328"/>
         <source>Select the background</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்னணியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="451"/>
         <source>Link slice views. Synchronizes properties of all slice views in the same view group.</source>
-        <translation type="unfinished"></translation>
+        <translation>இணைப்பு துண்டு காட்சிகள். ஒரே பார்வைக் குழுவில் உள்ள அனைத்து துண்டு காட்சிகளின் பண்புகளையும் ஒத்திசைக்கிறது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="475"/>
         <source>Toggle slice visibility in the 3D view.</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையில் துண்டு தெரிவுநிலையை மாற்றவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="506"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் நோக்குநிலை (அச்சு, சகிட்டல், கொரோனல், சீர்திருத்தம்).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="513"/>
         <source>Axial</source>
-        <translation type="unfinished"></translation>
+        <translation>அச்சு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="518"/>
         <source>Sagittal</source>
-        <translation type="unfinished"></translation>
+        <translation>சகிட்டல்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="523"/>
         <source>Coronal</source>
-        <translation type="unfinished"></translation>
+        <translation>கொரோனல்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="528"/>
         <source>Reformat</source>
-        <translation type="unfinished">படிவம்</translation>
+        <translation>மறுவடிவமைப்பு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="536"/>
         <source>Lightbox view.</source>
-        <translation type="unfinished"></translation>
+        <translation>லைட்பாக்ச் பார்வை.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="553"/>
         <source>Show reformat widget in 3D view</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையில் சீர்திருத்த விட்செட்டை காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="585"/>
         <source>Slice spacing may be set automatically or manually by the user or context</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் இடைவெளி தானாகவோ அல்லது கைமுறையாகவோ பயனர் அல்லது சூழலால் அமைக்கப்படலாம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="616"/>
         <source>Show orientation marker</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை மார்க்கரைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="633"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="650"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished"></translation>
+        <translation>தடிமனான ச்லாப் புனரமைப்பு (டி.எச்.ஆர்) ஐ இயக்கவும். ஒரு குறிப்பிட்ட வரம்பிற்குள் தொடர்ச்சியான துண்டுகளை இணைக்க டி.எச்.ஆர் பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="667"/>
         <source>Advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>மேம்பட்ட விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="730"/>
         <source>Hot linked</source>
-        <translation type="unfinished"></translation>
+        <translation>சூடான இணைக்கப்பட்ட</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="733"/>
         <source>Set linking behavior to hot linked controls. When on, Slice interactions affect other slices immediately. When off, Slice interactions affect other slices after the interaction completes.</source>
-        <translation type="unfinished"></translation>
+        <translation>சூடான இணைக்கப்பட்ட கட்டுப்பாடுகளுடன் இணைக்கும் நடத்தை அமைக்கவும். இயங்கும் போது, துண்டு இடைவினைகள் மற்ற துண்டுகளை உடனடியாக பாதிக்கின்றன. முடக்கும்போது, தொடர்பு முடிந்ததும் துண்டு இடைவினைகள் மற்ற துண்டுகளை பாதிக்கின்றன.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="742"/>
         <source>Fit to window</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளரத்திற்கு பொருந்தும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="745"/>
         <source>Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வைத் துறையை மீட்டமை. குறைந்த தொகுதி அடுக்கின் அளவோடு பொருந்துவதற்கு ச்லைச் வியூவின் பார்வையின் புலத்தை சரிசெய்கிறது (பின்னணி, பின்னர் முன்புறம், பின்னர் லேபிள்).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="754"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="757"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி விமானத்திற்கு சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="773"/>
         <source>Hide labelmap outlines</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப் கோடிட்டுகளை மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="776"/>
         <source>Toggle between showing label map volume with regions outlined or filled.</source>
-        <translation type="unfinished"></translation>
+        <translation>கோடிட்டுக் காட்டப்பட்ட அல்லது நிரப்பப்பட்ட பகுதிகளுடன் சிட்டை வரைபட அளவைக் காண்பிப்பதற்கு இடையில் மாற்றவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="789"/>
         <source>Show reformat widget</source>
-        <translation type="unfinished"></translation>
+        <translation>சீர்திருத்த விட்செட்டைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="797"/>
         <source>Enable Thick Slab Reconstruction</source>
         <oldsource>Show Slab Reconstruction</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>தடிமனான ச்லாப் புனரமைப்பை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="805"/>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>ஊடாடும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="813"/>
         <source>Cube</source>
-        <translation type="unfinished"></translation>
+        <translation>கன சதுரம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="821"/>
         <source>Human</source>
-        <translation type="unfinished"></translation>
+        <translation>மனித</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="829"/>
         <source>Axes</source>
-        <translation type="unfinished"></translation>
+        <translation>அச்சுகள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="837"/>
         <source>Alpha blend</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆல்பா கலவை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="845"/>
         <source>Reverse alpha blend</source>
-        <translation type="unfinished"></translation>
+        <translation>தலைகீழ் ஆல்பா கலவை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="853"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>கூட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="861"/>
         <source>Subtract</source>
-        <translation type="unfinished"></translation>
+        <translation>கழிக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="874"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>தானியங்கி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="882"/>
         <source>FOV, Spacing match Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>FOV, இடைவெளி போட்டி தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="890"/>
         <source>FOV, Spacing match 2D</source>
-        <translation type="unfinished"></translation>
+        <translation>FOV, இடைவெளி போட்டி 2 டி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="898"/>
         <source>FOV matches 2D, Spacing matches Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>FOV 2D உடன் பொருந்துகிறது, இடைவெளி பொருந்துகிறது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="906"/>
         <source>FOV matches Volumes, Spacing matches 2D View</source>
-        <translation type="unfinished"></translation>
+        <translation>FOV தொகுதிகளுடன் பொருந்துகிறது, இடைவெளி போட்டிகள் 2 டி பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="914"/>
         <source>1x1 view</source>
-        <translation type="unfinished"></translation>
+        <translation>1x1 பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="922"/>
         <source>1x2 view</source>
-        <translation type="unfinished"></translation>
+        <translation>1x2 பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="930"/>
         <source>1x3 view</source>
-        <translation type="unfinished"></translation>
+        <translation>1x3 பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="938"/>
         <source>1x4 view</source>
-        <translation type="unfinished"></translation>
+        <translation>1x4 பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="946"/>
         <source>1x6 view</source>
-        <translation type="unfinished"></translation>
+        <translation>1x6 பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="954"/>
         <source>1x8 view</source>
-        <translation type="unfinished"></translation>
+        <translation>1x8 பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="962"/>
         <source>2x2 view</source>
-        <translation type="unfinished"></translation>
+        <translation>2x2 பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="970"/>
         <source>3x3 view</source>
-        <translation type="unfinished"></translation>
+        <translation>3x3 பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="978"/>
         <source>6x6 view</source>
-        <translation type="unfinished"></translation>
+        <translation>6x6 பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="986"/>
         <source>Foreground volume</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்புற தொகுதி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="994"/>
         <source>Background volume</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்னணி தொகுதி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1002"/>
         <source>Label map volume</source>
-        <translation type="unfinished"></translation>
+        <translation>சிட்டை வரைபட தொகுதி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1018"/>
         <source>Interpolate foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைக்கணிப்பு முன்புறம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1034"/>
         <source>Interpolate background</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைக்கணிப்பு பின்னணி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1050"/>
         <source>Show LabelMap</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப்பைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1053"/>
         <source>Toggle labelmap visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப் தெரிவுநிலையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1069"/>
         <source>Show Foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்புறத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1072"/>
         <source>Toggle foreground visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்புற தெரிவுநிலையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1088"/>
         <source>Show Background</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்னணியைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1091"/>
         <source>Toggle background visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்னணி தெரிவுநிலையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1104"/>
         <source>Show in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>3D இல் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1107"/>
         <source>Toggle slice visibility in 3D view</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையில் துண்டு தெரிவுநிலையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1115"/>
         <source>Lock Normal To Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>கேமராவுக்கு இயல்பான பூட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1118"/>
         <source>Lock reformat widget&apos;s normal to the camera one. </source>
-        <translation type="unfinished"></translation>
+        <translation>கேமரா ஒன்றிற்கு லாக் மறுவடிவமைப்பு விட்செட்டின் இயல்பானது. </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1126"/>
         <source>No orientation marker</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை மார்க்கர் இல்லை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1129"/>
         <source>Hide orientation marker</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை மார்க்கரை மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1137"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறிய</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1140"/>
         <source>Set orientation marker size to small</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை மார்க்கர் அளவை சிறியதாக அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1148"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>சராசரி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1151"/>
         <source>Set orientation marker size to small to medium</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை மார்க்கர் அளவை சிறிய முதல் நடுத்தர வரை அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1159"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation>பெரிய</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1162"/>
         <source>Set orientation marker size to large</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை மார்க்கர் அளவை பெரியதாக அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1170"/>
         <source>No ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்சியாளர் இல்லை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1173"/>
         <source>Hide ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்சியாளரை மறைக்க</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1181"/>
         <source>Thin</source>
-        <translation type="unfinished"></translation>
+        <translation>மெல்லிய</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1184"/>
         <source>Show thin ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>மெல்லிய ஆட்சியாளரைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1192"/>
         <source>Thick</source>
-        <translation type="unfinished"></translation>
+        <translation>அடர்த்தியான</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1195"/>
         <source>Show thick ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>தடிமனான ஆட்சியாளரைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1203"/>
         <source>White ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>வெள்ளை ஆட்சியாளர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1211"/>
         <source>Black ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>கருப்பு ஆட்சியாளர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1219"/>
         <source>Yellow ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>மஞ்சள் ஆட்சியாளர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1227"/>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்சம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1230"/>
         <source>Set slab reconstruction type to Max</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லாப் புனரமைப்பு வகையை அதிகபட்சமாக அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1238"/>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>மணித்துளி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1241"/>
         <source>Set slab reconstruction type to Min</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லாப் புனரமைப்பு வகையை மணித்துளி அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1249"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>இடை, சராசரி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1252"/>
         <source>Set slab reconstruction type to Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லாப் புனரமைப்பு வகையை அர்த்தப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1260"/>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1263"/>
         <source>Set slab reconstruction type to Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லாப் புனரமைப்பு வகையை தொகைக்கு அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1272"/>
         <source>Toggle segmentation outline/fill</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு அவுட்லைன்/நிரப்பவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1275"/>
         <source>Toggle between segmentation outline only, outline and fill, and fill only states</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு அவுட்லைன் மட்டும், கோடிட்டுக் காட்டி நிரப்பவும், மாநிலங்களை மட்டும் நிரப்பவும் இடையே மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1291"/>
         <source>Show Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1294"/>
         <source>Toggle segmentation visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு தெரிவுநிலையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1302"/>
         <source>Clip to background</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்னணிக்கு கிளிப்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1305"/>
         <source>Control if the layers blending would clip the rendering to the background volume</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுக்குகள் கலப்பது பின்னணி அளவிற்கு வழங்குதல் செய்வதை கிளிப் செய்யும் என்றால் கட்டுப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="407"/>
         <source>Slice distance from RAS origin</source>
-        <translation type="unfinished"></translation>
+        <translation>RAS தோற்றத்திலிருந்து தூரத்தை நறுக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2729"/>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடரவும்</translation>
     </message>
 </context>
 <context>
@@ -16725,122 +16725,122 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="489"/>
         <source>Linked</source>
-        <translation type="unfinished"></translation>
+        <translation>இணைக்கப்பட்ட</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="504"/>
         <source>Reformat</source>
-        <translation type="unfinished">படிவம்</translation>
+        <translation>மறுவடிவமைப்பு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="519"/>
         <source>Lightbox view</source>
-        <translation type="unfinished"></translation>
+        <translation>லைட்பாக்ச் பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="531"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>தனிப்பயன்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="541"/>
         <source>Apply</source>
-        <translation type="unfinished">விண்ணப்பிக்கவும்</translation>
+        <translation>இடு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="568"/>
         <source>Compositing</source>
-        <translation type="unfinished"></translation>
+        <translation>கலப்பு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="591"/>
         <source>Slice spacing mode</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு இடைவெளி பயன்முறையை நறுக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="595"/>
         <source>Manual spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>கையேடு இடைவெளி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="610"/>
         <source>Field of view</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை புலம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="635"/>
         <source>Slice model mode</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரி முறை பயன்முறை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="655"/>
         <source>Manual FOV</source>
-        <translation type="unfinished"></translation>
+        <translation>கையேடு FOV</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="680"/>
         <source>Manual Dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>கையேடு பரிமாணங்கள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="705"/>
         <source>Manual Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>கையேடு தோற்றம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="734"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="743"/>
         <source>LabelMap</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="752"/>
         <source>Advanced</source>
-        <translation type="unfinished">மேம்படுத்தபட்ட</translation>
+        <translation>மேம்பட்ட</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="915"/>
         <source>Hide label volume outlines</source>
-        <translation type="unfinished"></translation>
+        <translation>சிட்டை தொகுதி கோடிட்டுக் காட்டுவதை மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="915"/>
         <source>Show label volume outlines</source>
-        <translation type="unfinished"></translation>
+        <translation>சிட்டை தொகுதி வெளிப்புறங்களைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="920"/>
         <source>Hide reformat widget</source>
-        <translation type="unfinished"></translation>
+        <translation>சீர்திருத்த விட்செட்டை மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="920"/>
         <source>Show reformat widget</source>
-        <translation type="unfinished"></translation>
+        <translation>சீர்திருத்த விட்செட்டைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1550"/>
         <source>Orientation marker</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை மார்க்கர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1586"/>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்சியாளர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1598"/>
         <source>Thick slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>தடிமனான ச்லாப் புனரமைப்பு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1608"/>
         <source>Slab thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லாப் தடிமன்</translation>
     </message>
 </context>
 <context>
@@ -16852,155 +16852,155 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Slice Information</source>
-        <translation type="unfinished"></translation>
+        <translation>தகவல்களை நறுக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="26"/>
         <source>Layout Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>தளவமைப்பு பெயர்:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="33"/>
         <source>Name of the slice</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டுகளின் பெயர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="43"/>
         <source>Orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="50"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat)</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் நோக்குநிலை (அச்சு, சகிட்டல், கொரோனல், சீர்திருத்தம்)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="54"/>
         <source>Axial</source>
-        <translation type="unfinished"></translation>
+        <translation>அச்சு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="59"/>
         <source>Sagittal</source>
-        <translation type="unfinished"></translation>
+        <translation>சகிட்டல்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="64"/>
         <source>Coronal</source>
-        <translation type="unfinished"></translation>
+        <translation>கொரோனல்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="69"/>
         <source>Reformat</source>
-        <translation type="unfinished">படிவம்</translation>
+        <translation>மறுவடிவமைப்பு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="77"/>
         <source>Slice visibility:</source>
         <oldsource>Slice visible:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு தெரிவுநிலை:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="84"/>
         <source>Toggle the visibility of the slice in the 3D scene</source>
-        <translation type="unfinished"></translation>
+        <translation>3D காட்சியில் துண்டுகளின் தெரிவுநிலையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="87"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="121"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="111"/>
         <source>Widget visibility:</source>
         <oldsource>Widget visible:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>விட்செட் தெரிவுநிலை:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="118"/>
         <source>Toggle the visibility of the reformat widget in the 3D scene</source>
-        <translation type="unfinished"></translation>
+        <translation>3D காட்சியில் சீர்திருத்த விட்செட்டின் தெரிவுநிலையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="145"/>
         <source>Dimension of the slice.</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டின் பரிமாணம்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="148"/>
         <source>Dimension:</source>
-        <translation type="unfinished"></translation>
+        <translation>பரிமாணம்:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="171"/>
         <source>Field of view of slice</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டுகளின் பார்வை புலம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="174"/>
         <source>Field of view:</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வைத் துறை:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="191"/>
         <source>Layout of the lightbox (rows, columns)</source>
-        <translation type="unfinished"></translation>
+        <translation>லைட்பாக்சின் தளவமைப்பு (வரிசைகள், நெடுவரிசைகள்)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="194"/>
         <source>Lightbox layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>லைட்பாக்ச் தளவமைப்பு:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="203"/>
         <source>Number of rows in the lightbox</source>
-        <translation type="unfinished"></translation>
+        <translation>லைட்பாக்சில் வரிசைகளின் எண்ணிக்கை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="216"/>
         <source>Number of columns in the lightbox</source>
-        <translation type="unfinished"></translation>
+        <translation>லைட்பாக்சில் நெடுவரிசைகளின் எண்ணிக்கை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="231"/>
         <source>Slice spacing may be set automatically or manually by the user or context</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் இடைவெளி தானாகவோ அல்லது கைமுறையாகவோ பயனர் அல்லது சூழலால் அமைக்கப்படலாம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="234"/>
         <source>Slice spacing mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு இடைவெளி பயன்முறை:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="246"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>தானியங்கி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="256"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>கையேடு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="265"/>
         <source>Manual spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>கையேடு இடைவெளி:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="275"/>
         <source>Manual spacing is used when slice spacing is set manually by the user or context</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் இடைவெளி பயனர் அல்லது சூழலால் கைமுறையாக அமைக்கப்படும்போது கையேடு இடைவெளி பயன்படுத்தப்படுகிறது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="288"/>
         <source>View group:</source>
-        <translation type="unfinished"></translation>
+        <translation>குழுவைக் காண்க:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="295"/>
         <source>Navigation and linked properties are synchronized in views that has the same group index.</source>
-        <translation type="unfinished"></translation>
+        <translation>வழிசெலுத்தல் மற்றும் இணைக்கப்பட்ட பண்புகள் ஒரே குழு குறியீட்டைக் கொண்ட பார்வைகளில் ஒத்திசைக்கப்படுகின்றன.</translation>
     </message>
 </context>
 <context>
@@ -17008,12 +17008,12 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceVerticalControllerWidget.ui" line="35"/>
         <source>Vertical Slice Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>செங்குத்து துண்டு கட்டுப்படுத்தி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceVerticalControllerWidget.cxx" line="80"/>
         <source>Slice distance from RAS origin</source>
-        <translation type="unfinished"></translation>
+        <translation>RAS தோற்றத்திலிருந்து தூரத்தை நறுக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -17021,7 +17021,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceWidget.ui" line="14"/>
         <source>qMRMLSliceWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qmrmlsliceWidget</translation>
     </message>
 </context>
 <context>
@@ -17029,84 +17029,86 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="72"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>எதுவுமில்லை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="128"/>
         <source>Node</source>
-        <translation type="unfinished">முனை</translation>
+        <translation>கணு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="129"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>விவரம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
         <source>IDs</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐடிஎச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
         <source>Node name and type</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை பெயர் மற்றும் வகை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="136"/>
         <source>Node description</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை விளக்கம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="137"/>
         <source>Show/hide branch or node</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளை அல்லது முனையைக் காட்டவும்/மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="138"/>
         <source>Node color</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை நிறம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="139"/>
         <source>Applied transform</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டு உருமாற்றம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="140"/>
         <source>Node ID</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை ஐடி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="987"/>
         <source>No subject hierarchy role assigned! Please report error</source>
-        <translation type="unfinished"></translation>
+        <translation>பொருள் வரிசைமுறை பங்கு ஒதுக்கப்படவில்லை! பிழையைப் புகாரளிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1153"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1163"/>
         <source>Apply transform to children</source>
-        <translation type="unfinished"></translation>
+        <translation>குழந்தைகளுக்கு மாற்றத்தைப் பயன்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1167"/>
         <source>This node is not transformable</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த முனை மாற்ற முடியாதது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1356"/>
         <source>Some nodes in the branch are already transformed</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளையில் சில முனைகள் ஏற்கனவே மாற்றப்பட்டுள்ளன</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1357"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதியதை அமைப்பதற்கு முன்பு ஏற்கனவே பயன்படுத்தப்பட்ட அனைத்து உருமாற்றங்களையும் கடினப்படுத்த விரும்புகிறீர்களா?
+
+ குறிப்பு: நீங்கள் இல்லை என்பதைத் தேர்வுசெய்தால், பயன்படுத்தப்பட்ட உருமாற்றம் மாற்றப்படும்.</translation>
     </message>
 </context>
 <context>
@@ -17114,98 +17116,98 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="233"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>மறுபெயரிடுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="238"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="243"/>
         <source>Edit properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>பண்புகளைத் திருத்து ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="248"/>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>மறை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="251"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="254"/>
         <source>Toggle visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரிவுநிலையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="271"/>
         <source>Interaction</source>
         <oldsource>Interaction in 3D view</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>உள்வினை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="274"/>
         <source>Allow the transform to be modified interactively in the 2D and 3D views</source>
-        <translation type="unfinished"></translation>
+        <translation>2D மற்றும் 3D பார்வைகளில் மாற்றத்தை ஊடாடும் வகையில் மாற்றியமைக்க அனுமதிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="278"/>
         <source>Edit transform properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்ற பண்புகளைத் திருத்தவும் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="279"/>
         <source>Edit properties of the current transform</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய உருமாற்றத்தின் பண்புகளைத் திருத்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="283"/>
         <source>Harden transform</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆர்டன் உருமாற்றம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="284"/>
         <source>Harden current transform on this node and all children nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த முனை மற்றும் அனைத்து குழந்தைகளின் முனைகளிலும் தற்போதைய உருமாற்றத்தை கடினப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="288"/>
         <source>Create new transform</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய உருமாற்றத்தை உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="289"/>
         <source>Create and apply new transform</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய உருமாற்றத்தை உருவாக்கி பயன்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="295"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>எதுவுமில்லை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="297"/>
         <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த கிளையில் உள்ள அனைத்து முனைகளிலிருந்தும் பெற்றோர் உருமாற்றத்தை அகற்று</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
         <source>Expand tree to level...</source>
-        <translation type="unfinished"></translation>
+        <translation>மரத்தை நிலைக்கு விரிவாக்குங்கள் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="397"/>
         <source>Select plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>சொருகி தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2062"/>
         <source>Delete subject hierarchy branch?</source>
-        <translation type="unfinished"></translation>
+        <translation>பொருள் வரிசைமுறை கிளையை நீக்கவா?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2063"/>
@@ -17213,7 +17215,10 @@ Do you wish to proceed with changing source representation?</source>
 
 If you choose yes, the whole branch will be deleted, including all children.
 If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>நீக்கப்பட்ட பொருள் வரிசைமுறை உருப்படிக்கு குழந்தைகள் உள்ளனர். அவற்றையும் அகற்ற விரும்புகிறீர்களா?
+
+ நீங்கள் ஆம் என்பதைத் தேர்வுசெய்தால், எல்லா குழந்தைகளும் உட்பட முழு கிளையும் நீக்கப்படும்.
+ அனைவருக்கும் ஆம் என்பதை நீங்கள் தேர்வுசெய்தால், இந்த கேள்வி மீண்டும் ஒருபோதும் தோன்றாது, மேலும் அனைத்து பாட வரிசைமுறை குழந்தைகளும் தானாக நீக்கப்படும். பயன்பாட்டு அமைப்புகளில் இதை பின்னர் மாற்றலாம்.</translation>
     </message>
 </context>
 <context>
@@ -17221,12 +17226,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="138"/>
         <source>Unit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>அலகு: %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableModel.cxx" line="171"/>
         <source>Properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>பண்புகள்:</translation>
     </message>
 </context>
 <context>
@@ -17234,34 +17239,34 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="481"/>
         <source>Column %1 is invalid. Failed to generate a plot</source>
-        <translation type="unfinished"></translation>
+        <translation>நெடுவரிசை %1 தவறானது. ஒரு சதித்திட்டத்தை உருவாக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="483"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="493"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="509"/>
         <source>Failed to create Plot</source>
-        <translation type="unfinished"></translation>
+        <translation>சதித்திட்டத்தை உருவாக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="489"/>
         <source>Type of column %1 is &apos;bit&apos;. Plotting of these types are currently not supported. Please convert the data type of this column to numeric using Table module&apos;s Column properties section, or select different columns for plotting.</source>
-        <translation type="unfinished"></translation>
+        <translation>நெடுவரிசை வகை %1 &apos;பிட்&apos;. இந்த வகைகளின் சதித்திட்டம் தற்போது ஆதரிக்கப்படவில்லை. அட்டவணை தொகுதிகளின் நெடுவரிசை பண்புகள் பிரிவைப் பயன்படுத்தி இந்த நெடுவரிசையின் தரவு வகையை எண் என மாற்றவும் அல்லது சூழ்ச்சி செய்ய வெவ்வேறு நெடுவரிசைகளைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="505"/>
         <source>Multiple &apos;string&apos; type of columns are selected for plotting (%1, %2) but only one is allowed. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>பல &apos;சரம்&apos; நெடுவரிசைகள் சூழ்ச்சி செய்ய ( %1, %2) தேர்ந்தெடுக்கப்படுகின்றன, ஆனால் ஒன்று மட்டுமே அனுமதிக்கப்படுகிறது. அட்டவணை தொகுதியின் &apos;நெடுவரிசை பண்புகள்&apos; பிரிவைப் பயன்படுத்தி இந்த நெடுவரிசையின் தேர்வை மாற்றவும் அல்லது இந்த நெடுவரிசையின் தரவு வகையை மாற்றவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="521"/>
         <source>A single &apos;string&apos; type column is selected. Please change selection or convert data type of this column to numeric using Table module&apos;s &apos;Column properties&apos; section.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒற்றை &apos;சரம்&apos; வகை நெடுவரிசை தேர்ந்தெடுக்கப்பட்டது. அட்டவணை தொகுதியின் &apos;நெடுவரிசை பண்புகள்&apos; பிரிவைப் பயன்படுத்தி இந்த நெடுவரிசையின் தேர்வை மாற்றவும் அல்லது இந்த நெடுவரிசையின் தரவு வகையை மாற்றவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
         <source>Failed to plot data</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவை சூழ்ச்சி செய்யத் தவறிவிட்டது</translation>
     </message>
 </context>
 <context>
@@ -17269,18 +17274,18 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="14"/>
         <source>Table View Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணை பார்வை கட்டுப்படுத்தி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="64"/>
         <source>Allow table editing</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணை திருத்துதல் அனுமதிக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>நகலெடு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="94"/>
@@ -17292,49 +17297,49 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="251"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="265"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="92"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="99"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணையின் நெடுவரிசைகளின் பயனர்-தேர்வின் அடிப்படையில் ஒரு ஊடாடும் சதித்திட்டத்தை உருவாக்கவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="173"/>
         <source>Add column</source>
-        <translation type="unfinished"></translation>
+        <translation>நெடுவரிசையைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="187"/>
         <source>Delete column</source>
-        <translation type="unfinished"></translation>
+        <translation>நெடுவரிசையை நீக்கு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="201"/>
         <source>Lock first column</source>
-        <translation type="unfinished"></translation>
+        <translation>முதல் நெடுவரிசையை பூட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="234"/>
         <source>Add row</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசையைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="248"/>
         <source>Delete row</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசையை நீக்கு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="262"/>
         <source>Lock first row</source>
-        <translation type="unfinished"></translation>
+        <translation>முதல் வரிசையை பூட்டு</translation>
     </message>
     <message>
         <source>1</source>
@@ -17343,12 +17348,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="377"/>
         <source>Click to unlock this table so that values can be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த அட்டவணையைத் திறக்க சொடுக்கு செய்க, இதனால் மதிப்புகளை மாற்ற முடியும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="382"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் இடைமுகத்தில் மதிப்புகளை மாற்றுவதைத் தடுக்க இந்த அட்டவணையைப் பூட்ட சொடுக்கு செய்க</translation>
     </message>
 </context>
 <context>
@@ -17360,22 +17365,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Text Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>உரை பண்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="31"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="57"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>சேமி</translation>
     </message>
 </context>
 <context>
@@ -17383,394 +17388,394 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="20"/>
         <source>3D View Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வை கட்டுப்படுத்தி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="59"/>
         <source>Zoom out of the scene by a small amount.</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியை ஒரு சிறிய அளவு பெரிதாக்கவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="79"/>
         <source>Spin the 3D view.</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையை சுழற்றவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="99"/>
         <source>Rock the 3D view.</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையை ராக் செய்யுங்கள்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="119"/>
         <source>Toggle visibility of elements in the 3D view.</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையில் உறுப்புகளின் தெரிவுநிலையை மாற்றவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="139"/>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="151"/>
         <source>Orientation marker</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை மார்க்கர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="159"/>
         <source>Zoom in on the scene by a small amount.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு சிறிய அளவு காட்சியை பெரிதாக்கவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
         <source>Display shadows for improved depth perception</source>
-        <translation type="unfinished"></translation>
+        <translation>மேம்பட்ட ஆழம் உணர்வுக்கு நிழல்களைக் காண்பி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="216"/>
         <source>Show ruler. Only available in orthographic projection mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்சியாளரைக் காட்டு. ஆர்த்தோகிராஃபிக் ப்ரொசெக்சன் பயன்முறையில் மட்டுமே கிடைக்கும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="219"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="236"/>
         <source>Toggle between orthographic and perspective rendering in the 3D view.</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையில் ஆர்த்தோகிராஃபிக் மற்றும் முன்னோக்கு வழங்குதல் இடையே மாற்றவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="257"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="401"/>
         <source>Center view</source>
-        <translation type="unfinished"></translation>
+        <translation>மைய பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="264"/>
         <source>Link 3D views. Synchronizes properties of all 3D views in the same view group.</source>
-        <translation type="unfinished"></translation>
+        <translation>3D காட்சிகளை இணைக்கவும். ஒரே பார்வைக் குழுவில் அனைத்து 3D பார்வைகளின் பண்புகளையும் ஒத்திசைக்கிறது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="296"/>
         <source>No Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்டீரியோ இல்லை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="304"/>
         <source>Red/blue</source>
-        <translation type="unfinished"></translation>
+        <translation>சிவப்பு/நீலம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="312"/>
         <source>Anaglyph</source>
-        <translation type="unfinished"></translation>
+        <translation>அனக்லிஃப்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="320"/>
         <source>QuadBuffer</source>
-        <translation type="unfinished"></translation>
+        <translation>குவாட்பஃபர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="328"/>
         <source>Interlaced</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒன்றோடொன்று</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="331"/>
         <source>Switch to Interlaced stereo mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒன்றிணைந்த ச்டீரியோ பயன்முறைக்கு மாறவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="342"/>
         <source>3D cube</source>
-        <translation type="unfinished"></translation>
+        <translation>3 டி கியூப்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="353"/>
         <source>3D axis label</source>
-        <translation type="unfinished"></translation>
+        <translation>3 டி அச்சு சிட்டை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="364"/>
         <source>Light blue background</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளிர் நீல பின்னணி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="367"/>
         <source>Set light blue background</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளிர் நீல பின்னணியை அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="375"/>
         <source>Black background</source>
-        <translation type="unfinished"></translation>
+        <translation>கருப்பு பின்னணி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="378"/>
         <source>Set black background</source>
-        <translation type="unfinished"></translation>
+        <translation>கருப்பு பின்னணியை அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="386"/>
         <source>White background</source>
-        <translation type="unfinished"></translation>
+        <translation>வெள்ளை பின்னணி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="389"/>
         <source>Set white background</source>
-        <translation type="unfinished"></translation>
+        <translation>வெள்ளை பின்னணியை அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="398"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>நடுவண்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="409"/>
         <source>Use depth peeling</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆழம் உரித்தல் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="412"/>
         <source>Depth peeling is used to render transparent surface models in order</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசையில் வெளிப்படையான மேற்பரப்பு மாதிரிகளை வழங்க ஆழம் உரித்தல் பயன்படுத்தப்படுகிறது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="424"/>
         <source>Show/Hide frames per second (FPS)</source>
-        <translation type="unfinished"></translation>
+        <translation>நொடிக்கு பிரேம்களைக் காட்டு/மறைக்க (FPS)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="432"/>
         <source>User Defined 1</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் வரையறுக்கப்பட்ட 1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="435"/>
         <source>Switch to user defined stereo mode 1</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் வரையறுக்கப்பட்ட ச்டீரியோ பயன்முறை 1 க்கு மாறவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="443"/>
         <source>User Defined 2</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் வரையறுக்கப்பட்ட 2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="446"/>
         <source>Switch to user defined stereo mode 2</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் வரையறுக்கப்பட்ட ச்டீரியோ பயன்முறை 2 க்கு மாறவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="454"/>
         <source>User Defined 3</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் வரையறுக்கப்பட்ட 3</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="457"/>
         <source>Switch to user defined stereo mode 3</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் வரையறுக்கப்பட்ட ச்டீரியோ பயன்முறை 3 க்கு மாறவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="465"/>
         <source>No orientation marker</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை மார்க்கர் இல்லை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="468"/>
         <source>Hide orientation marker</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை மார்க்கரை மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="476"/>
         <source>Cube</source>
-        <translation type="unfinished"></translation>
+        <translation>கன சதுரம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="479"/>
         <source>Show cube orientation marker</source>
-        <translation type="unfinished"></translation>
+        <translation>கியூப் நோக்குநிலை மார்க்கரைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="487"/>
         <source>Human</source>
-        <translation type="unfinished"></translation>
+        <translation>மனித</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="490"/>
         <source>Show human-shaped orientation marker</source>
-        <translation type="unfinished"></translation>
+        <translation>மனித வடிவ நோக்குநிலை குறிப்பானைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="498"/>
         <source>Axes</source>
-        <translation type="unfinished"></translation>
+        <translation>அச்சுகள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="501"/>
         <source>Show axes orientation marker</source>
-        <translation type="unfinished"></translation>
+        <translation>அச்சுகள் நோக்குநிலை குறிப்பானைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="509"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறிய</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="512"/>
         <source>Small orientation marker size</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறிய நோக்குநிலை மார்க்கர் அளவு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="520"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>சராசரி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="523"/>
         <source>Medium orientation marker size</source>
-        <translation type="unfinished"></translation>
+        <translation>நடுத்தர நோக்குநிலை மார்க்கர் அளவு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="531"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation>பெரிய</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="534"/>
         <source>Large orientation marker size</source>
-        <translation type="unfinished"></translation>
+        <translation>பெரிய நோக்குநிலை மார்க்கர் அளவு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="542"/>
         <source>No ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்சியாளர் இல்லை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="545"/>
         <source>Hide ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்சியாளரை மறைக்க</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="553"/>
         <source>Thin</source>
-        <translation type="unfinished"></translation>
+        <translation>மெல்லிய</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="556"/>
         <source>Show thin ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>மெல்லிய ஆட்சியாளரைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="564"/>
         <source>Thick</source>
-        <translation type="unfinished"></translation>
+        <translation>அடர்த்தியான</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="567"/>
         <source>Show thick ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>தடிமனான ஆட்சியாளரைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="575"/>
         <source>White ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>வெள்ளை ஆட்சியாளர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="583"/>
         <source>Black ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>கருப்பு ஆட்சியாளர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="591"/>
         <source>Yellow ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>மஞ்சள் ஆட்சியாளர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="600"/>
         <source>Stereo viewing</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்டீரியோ பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="603"/>
         <source>Select stereo viewing mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்டீரியோ பார்க்கும் பயன்முறையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="611"/>
         <source>Shadows visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>நிழல்கள் தெரிவுநிலை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="614"/>
         <source>Make objects cast shadows to improve depth perception</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆழமான உணர்வை மேம்படுத்த பொருள்கள் நிழல்களைச் செய்யுங்கள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="231"/>
         <source>Stereo Modes</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்டீரியோ முறைகள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="109"/>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>விழிமை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="185"/>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்சியாளர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="193"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="276"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>நிழல்கள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="285"/>
         <source>Size scale</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவு அளவு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="288"/>
         <source>Size of features to be emphasized by shadows. The scale is logarithmic, default (0.0) corresponds to object size of about 100mm.</source>
-        <translation type="unfinished"></translation>
+        <translation>நிழல்களால் வலியுறுத்தப்பட வேண்டிய அம்சங்களின் அளவு. அளவுகோல் மடக்கை, இயல்புநிலை (0.0) பொருள் 100 மிமீ அளவிற்கு ஒத்திருக்கிறது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="305"/>
         <source>Volume opacity threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி ஒளிபுகா வாசல்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="309"/>
         <source>Volume rendering opacity above this will cast shadows.</source>
-        <translation type="unfinished"></translation>
+        <translation>இதற்கு மேலே உள்ள தொகுதி வழங்குதல் ஒளிபுகாநிலை நிழல்களைக் கொடுக்கும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="325"/>
         <source>Intensity scale</source>
-        <translation type="unfinished"></translation>
+        <translation>தீவிரம் அளவு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="328"/>
         <source>Intensity of darkening by shadows. Larger value means more darkening. Default is 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>நிழல்களால் இருட்டின் தீவிரம். பெரிய மதிப்பு என்பது மிகவும் இருட்டாகிறது. இயல்புநிலை 1.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="345"/>
         <source>Intensity shift</source>
-        <translation type="unfinished"></translation>
+        <translation>தீவிரம் மாற்றம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="348"/>
         <source>Minimum amount of occlusion required for visible darkening by shadows. Larger value means more occlusion is needed to darkening. Default is 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>நிழல்களால் காணக்கூடிய இருட்டிற்கு தேவைப்படும் குறைந்தபட்ச அளவு. பெரிய மதிப்பு என்றால் இருட்டடிப்பதற்கு அதிக மறைவு தேவை. இயல்புநிலை 0.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="379"/>
         <source>1</source>
-        <translation type="unfinished">ஒன்று</translation>
+        <translation>1</translation>
     </message>
 </context>
 <context>
@@ -17782,27 +17787,27 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>3D View Information</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வை செய்தி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="26"/>
         <source>Layout Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>தளவமைப்பு பெயர்:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="33"/>
         <source>Name of the slice</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டுகளின் பெயர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="43"/>
         <source>View group:</source>
-        <translation type="unfinished"></translation>
+        <translation>குழுவைக் காண்க:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="50"/>
         <source>Navigation and linked properties are synchronized in views that has the same group index.</source>
-        <translation type="unfinished"></translation>
+        <translation>வழிசெலுத்தல் மற்றும் இணைக்கப்பட்ட பண்புகள் ஒரே குழு குறியீட்டைக் கொண்ட பார்வைகளில் ஒத்திசைக்கப்படுகின்றன.</translation>
     </message>
 </context>
 <context>
@@ -17810,245 +17815,245 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="23"/>
         <source>qMRMLTransformDisplayNodeWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qmrmltransformdisplaynodewidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="26"/>
         <source>Whether the transform widget can be translated.</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்ற விட்செட்டை மொழிபெயர்க்க முடியுமா.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1088"/>
         <source>Interaction</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்வினை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1151"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1550"/>
         <source>Y</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒய்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1182"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1570"/>
         <source>View plane</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி வானூர்தி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1223"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1560"/>
         <source>Z</source>
-        <translation type="unfinished"></translation>
+        <translation>சட்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1260"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1540"/>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1346"/>
         <source>Show/Hide the transform widget in the 3D view.</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையில் உருமாற்ற விட்செட்டை காட்டவும்/மறைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1380"/>
         <source>More options...</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் விருப்பங்கள் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1307"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1428"/>
         <source>Enable translation: </source>
-        <translation type="unfinished"></translation>
+        <translation>மொழிபெயர்ப்பை இயக்கு: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1294"/>
         <source>Enable scaling by manpulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</source>
-        <translation type="unfinished"></translation>
+        <translation>3D விட்செட்டை மனிதநேயமாக்குவதன் மூலம் அளவிடுதல் (சிப்ட் +இடது சொடுக்கு செய்து விட்செட் முகத்தின் மையத்தில் கைப்பிடியை இழுக்கவும், அல்லது இடது சொடுக்கு செய்து மைய கைப்பிடியை இழுக்கவும்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1199"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1414"/>
         <source>Enable rotation: </source>
-        <translation type="unfinished"></translation>
+        <translation>சுழற்சியை இயக்கு: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1240"/>
         <source>Enable translating by manpulating 3D widget (left click and drag anywhere on the widget face)</source>
-        <translation type="unfinished"></translation>
+        <translation>3 டி விட்செட்டை மனிதநேயமாக்குவதன் மூலம் மொழிபெயர்ப்பை இயக்கவும் (விட்செட் முகத்தில் இடது சொடுக்கு செய்து எங்கும் இழுக்கவும்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1270"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1505"/>
         <source>Enable scaling: </source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதலை இயக்கு: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1131"/>
         <source>Enable scaling by manpulating 3D widget (left click and drag the handle at the center of widget face)</source>
-        <translation type="unfinished"></translation>
+        <translation>3D விட்செட்டை மனிதநேயப்படுத்துவதன் மூலம் அளவிடுதல் (இடது சொடுக்கு செய்து கைப்பிடியை விட்செட் முகத்தின் மையத்தில் இழுக்கவும்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="44"/>
         <source>Visualization</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சிப்படுத்தல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1045"/>
         <source>Show transform in the slice views</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் காட்சிகளில் உருமாற்றத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="107"/>
         <source>Visualize transform using glyphs</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃப்களைப் பயன்படுத்தி உருமாற்றத்தைக் காட்சிப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="122"/>
         <source>Glyph</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃப்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="169"/>
         <source>Visualize transform using a warped grid</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு திசைதிருப்பப்பட்ட கட்டத்தைப் பயன்படுத்தி உருமாற்றத்தைக் காட்சிப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="172"/>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>வலைவாய்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="210"/>
         <source>Visualize transform by isoline/isosurface contours of the displacement magnitude</source>
-        <translation type="unfinished"></translation>
+        <translation>இடப்பெயர்ச்சி அளவின் ஐசோலினைன்/ஐசோசர்ஃபேச் வரையறைகளால் உருமாற்றத்தைக் காட்சிப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="213"/>
         <source>Contour</source>
-        <translation type="unfinished"></translation>
+        <translation>விளிம்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="246"/>
         <source>Show transform in the 3D views</source>
-        <translation type="unfinished"></translation>
+        <translation>3D காட்சிகளில் உருமாற்றத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="259"/>
         <source>Reference image for visualizing transform nodes (will only use size, orientation and position)</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்ற முனைகளைக் காட்சிப்படுத்துவதற்கான குறிப்பு படம் (அளவு, நோக்குநிலை மற்றும் நிலையை மட்டுமே பயன்படுத்தும்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="262"/>
         <source>Region:</source>
-        <translation type="unfinished"></translation>
+        <translation>பகுதி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="278"/>
         <source>Region for visualizing transform nodes (will only use size, orientation and position)</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்ற முனைகளைக் காட்சிப்படுத்துவதற்கான பகுதி (அளவு, நோக்குநிலை மற்றும் நிலையை மட்டுமே பயன்படுத்தும்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="308"/>
         <source>Select a node</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு முனையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="50"/>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="324"/>
         <source>Advanced</source>
-        <translation type="unfinished">மேம்படுத்தபட்ட</translation>
+        <translation>மேம்பட்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="339"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="375"/>
         <source>Distance between the glyph points</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃப் புள்ளிகளுக்கு இடையிலான தூரம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="342"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="728"/>
         <source>Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைவெளி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="349"/>
         <source>Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃப் அளவை அமைப்பதற்கான இடப்பெயர்ச்சி USEF இன் விழுக்காடு. 100% என்றால் கிளிஃப் அளவு உண்மையான இடப்பெயர்வுக்கு சமம்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="352"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="775"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிலான காரணி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="359"/>
         <source>Glyphs are shown if the displacement magnitude is within this range</source>
-        <translation type="unfinished"></translation>
+        <translation>இடப்பெயர்ச்சி அளவு இந்த வரம்பிற்குள் இருந்தால் கிளிஃப்கள் காட்டப்படுகின்றன</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="362"/>
         <source>Visible range:</source>
-        <translation type="unfinished"></translation>
+        <translation>புலப்படும் வரம்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1058"/>
         <source>Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1065"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1366"/>
         <source>Visibility in slice view:</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு பார்வையில் தெரிவுநிலை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1038"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1327"/>
         <source>Visibility in 3D view:</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையில் தெரிவுநிலை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="406"/>
         <source>Only those glyphs are shown that have displacement magnitude within this range</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வரம்பிற்குள் இடப்பெயர்ச்சி அளவைக் கொண்ட அந்த கிளிஃப்கள் மட்டுமே காட்டப்படுகின்றன</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="431"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="447"/>
         <source>Choose a glyph type to use</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்படுத்த கிளிஃப் வகையைத் தேர்வுசெய்க</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="434"/>
         <source>Glyph type:</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃப் வகை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="454"/>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>அம்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="459"/>
         <source>Cone</source>
-        <translation type="unfinished"></translation>
+        <translation>கூம்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
         <source>Sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>கோளம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="478"/>
         <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃப் அளவை அமைப்பதற்குப் பயன்படுத்தப்படும் இடப்பெயர்ச்சியின் விழுக்காடு. 100% என்றால் கிளிஃப் அளவு உண்மையான இடப்பெயர்வுக்கு சமம். வண்ணமயமாக்கல் மற்றும் புலப்படும் வரம்பை பாதிக்காது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="496"/>
@@ -18058,172 +18063,172 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1025"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1593"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="509"/>
         <source>3D glyph settings</source>
-        <translation type="unfinished"></translation>
+        <translation>3D கிளிஃப் அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="539"/>
         <source>Adjust radius of base of arrow tip</source>
-        <translation type="unfinished"></translation>
+        <translation>அம்பு நுனியின் அடித்தளத்தின் ஆரம் சரிசெய்யவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="542"/>
         <source>Diameter:</source>
-        <translation type="unfinished"></translation>
+        <translation>விட்டம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="549"/>
         <source>Base diameter of the widget</source>
-        <translation type="unfinished"></translation>
+        <translation>விட்செட்டின் அடிப்படை விட்டம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="577"/>
         <source>Adjust radius of arrow shaft</source>
-        <translation type="unfinished"></translation>
+        <translation>அம்பு தண்டு ஆரம் சரிசெய்யவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="580"/>
         <source>Shaft diameter:</source>
-        <translation type="unfinished"></translation>
+        <translation>தண்டு விட்டம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="587"/>
         <source>Diameter of the arrow shaft relative to the base diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>அடிப்படை விட்டம் ஒப்பிடும்போது அம்பு தண்டு விட்டம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="609"/>
         <source>Adjust how much of the tip the arrow will consist of as a decimal percentage</source>
-        <translation type="unfinished"></translation>
+        <translation>அம்பு எவ்வளவு நுனி தசம சதவீதமாகக் கொண்டிருக்கும் என்பதை சரிசெய்யவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="612"/>
         <source>Tip length:</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை நீளம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="619"/>
         <source>Length of the arrow tip  as percentage of displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>அம்பு முனையின் நீளம் இடப்பெயர்ச்சியின் சதவீதமாக</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="644"/>
         <source>Adjust resolution of the glyph (higher value generates smoother curved lines but visualization may be slower)</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃபின் சரிசெய்தல் (அதிக மதிப்பு மென்மையான வளைந்த கோடுகளை உருவாக்குகிறது, ஆனால் காட்சிப்படுத்தல் மெதுவாக இருக்கலாம்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="647"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="857"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="959"/>
         <source>Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>தீர்மானம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="654"/>
         <source>Adjust resolution of arrow (lower is less detailed but rendered faster)</source>
-        <translation type="unfinished"></translation>
+        <translation>அம்புக்குறியின் சரிசெய்தல் (குறைந்தது குறைந்த விரிவானது, ஆனால் வேகமாக வழங்கப்படுகிறது)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="682"/>
         <source>Source points:</source>
-        <translation type="unfinished"></translation>
+        <translation>மூல புள்ளிகள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="689"/>
         <source>Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃப் தொடக்க நிலைகளை வரையறுக்கும் மார்க்அப்ச் முனை. குறிப்பிடப்பட்டால், 3D பார்வை &apos;பகுதி&apos; புறக்கணிக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="706"/>
         <source>Entire region</source>
-        <translation type="unfinished"></translation>
+        <translation>முழு பகுதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="725"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="741"/>
         <source>Distance between the gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>கிரிட்லைன்களுக்கு இடையிலான தூரம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="772"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="788"/>
         <source>Percentage of displacement applied to the gridpoints. 100% means that the grid is deformed with the actual displacement.</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டம் புள்ளிகளில் பயன்படுத்தப்படும் இடப்பெயர்ச்சியின் விழுக்காடு. 100% என்பது கட்டம் உண்மையான இடப்பெயர்ச்சியுடன் சிதைக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="813"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="823"/>
         <source>Thickness of the gridlines in the 3D view</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையில் கட்டங்களின் தடிமன்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="816"/>
         <source>3D gridline diameter:</source>
-        <translation type="unfinished"></translation>
+        <translation>3D கிரிட்லைன் விட்டம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="854"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="864"/>
         <source>Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</source>
-        <translation type="unfinished"></translation>
+        <translation>கிரிட்லைன்களுடன் மாதிரி புள்ளிகளுக்கு இடையிலான தூரம். குறைந்த மதிப்புகள் உண்மையான இடப்பெயர்ச்சி திசையன்களை மிக நெருக்கமாகப் பின்பற்றும் கட்டமைப்புகளை விளைவிக்கின்றன, ஆனால் அதிக கணக்கீட்டு நேரம் தேவைப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="895"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="905"/>
         <source>Show non-warped grid in the slice view</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் வியூவில் போர்த்தப்படாத கட்டத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="898"/>
         <source>Show original grid:</source>
-        <translation type="unfinished"></translation>
+        <translation>அசல் கட்டத்தைக் காட்டு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="927"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="937"/>
         <source>Values defining the isolines and isosurfaces to contour. Values are separated by spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>தனிமைகள் மற்றும் ஐசோசர்ஃபேச்களை வரையறுக்கும் மதிப்புகள். மதிப்புகள் இடைவெளிகளால் பிரிக்கப்படுகின்றன.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="930"/>
         <source>Levels (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலைகள் (மிமீ):</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="946"/>
         <source>1 2 3 4</source>
-        <translation type="unfinished">மூன்று {1 2 3 4?}</translation>
+        <translation>1 2 3 4</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="956"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="972"/>
         <source>Sampling distance for discretizing the displacement field. Lower values result in more accurate contours, but require more computation time.</source>
-        <translation type="unfinished"></translation>
+        <translation>இடப்பெயர்ச்சி புலத்தை தனித்தனியாக மாற்றுவதற்கான மாதிரி. குறைந்த மதிப்புகள் மிகவும் துல்லியமான வரையறைகளை விளைவிக்கின்றன, ஆனால் அதிக கணக்கீட்டு நேரம் தேவைப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1003"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1013"/>
         <source>Opacity of the contour isosurfaces in the 3D view</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையில் விளிம்பு ஐசோசர்ஃபேச்களின் ஒளிபுகாநிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1006"/>
         <source>3D opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>3 டி ஒளிபுகாநிலை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1359"/>
         <source>Visibility: </source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1580"/>
         <source>Size:</source>
-        <translation type="unfinished">அளவு:</translation>
+        <translation>அளவு:</translation>
     </message>
 </context>
 <context>
@@ -18231,28 +18236,28 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="14"/>
         <source>Transform Information</source>
-        <translation type="unfinished"></translation>
+        <translation>தகவல்களை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="23"/>
         <source>Transform to parent:</source>
-        <translation type="unfinished"></translation>
+        <translation>பெற்றோராக உருமாற்றம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="48"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="85"/>
         <source>No information available.</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்த தகவலும் கிடைக்கவில்லை.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="60"/>
         <source>Transform from parent:</source>
-        <translation type="unfinished"></translation>
+        <translation>பெற்றோரிடமிருந்து உருமாற்றம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="96"/>
         <source>ViewerRAS</source>
-        <translation type="unfinished"></translation>
+        <translation>வியூராச்</translation>
     </message>
 </context>
 <context>
@@ -18260,67 +18265,67 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="14"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்று, உருமாற்றம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="26"/>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>மொழிபெயர்ப்பு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="32"/>
         <source>Left-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>இடது-வலது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="35"/>
         <source>LR</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்.ஆர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="48"/>
         <source>L&lt;--&gt;R</source>
-        <translation type="unfinished"></translation>
+        <translation>எல் &lt;-&gt; ஆர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="64"/>
         <source>Posterior-Anterior</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்புற-புல்வெளி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="67"/>
         <source>PA</source>
-        <translation type="unfinished"></translation>
+        <translation>பா</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="80"/>
         <source>P&lt;--&gt;A</source>
-        <translation type="unfinished"></translation>
+        <translation>பி &lt;-&gt; அ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="99"/>
         <source>Inferior-Superior</source>
-        <translation type="unfinished"></translation>
+        <translation>தாழ்வான-சூப்பர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="102"/>
         <source>IS</source>
-        <translation type="unfinished"></translation>
+        <translation>என்பது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="115"/>
         <source>I&lt;--&gt;S</source>
-        <translation type="unfinished"></translation>
+        <translation>நான் &lt;-&gt; கள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="167"/>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>மணித்துளி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="219"/>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்சம்</translation>
     </message>
 </context>
 <context>
@@ -18328,17 +18333,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="110"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>மறுபெயரிடுங்கள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="117"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>நீக்கு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="123"/>
         <source>Edit properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>பண்புகளைத் திருத்து ...</translation>
     </message>
 </context>
 <context>
@@ -18346,22 +18351,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="14"/>
         <source>UnitWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>யூனிட் அகெட்செட்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="23"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்னமைவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="53"/>
         <source>Select a preset</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்னமைவைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="60"/>
         <source>Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்னொட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="67"/>
@@ -18371,12 +18376,17 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; அலகு முன்னொட்டை அமைக்கவும். &lt;/span&gt; &lt;/p&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; அலகு முன்னொட்டு அலகு மதிப்புக்கு முன் பயன்பாட்டில் காண்பிக்கப்படும். எடுத்துக்காட்டாக, முன்னொட்டு &amp; quot; ஒரு யூனிட்டுக்கு முன் பயன்படுத்தலாம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="79"/>
         <source>Suffix</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்னொட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="86"/>
@@ -18385,12 +18395,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; அலகு பின்னொட்டை அமைக்கவும். எடுத்துக்காட்டாக, அலகு &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt; font-weight: 600;&quot;&gt; மீட்டர் &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt;&quot;&gt; வேண்டும் ஒருவேளை &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt; font-weight: 600; பி&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="97"/>
         <source>Maximum</source>
-        <translation type="unfinished"></translation>
+        <translation>பெருமம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="107"/>
@@ -18400,12 +18414,17 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the maximum value possible for the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;For example, a speed unit (in &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) should probably have a maximum of 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; அலகுக்கு சாத்தியமான அதிகபட்ச மதிப்பை அமைக்கவும். &lt;/span&gt; &lt;/p&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8PT;&quot; font-size: 8pt-600; &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="131"/>
         <source>Precision</source>
-        <translation type="unfinished"></translation>
+        <translation>துல்லியம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="138"/>
@@ -18415,12 +18434,17 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the precision (i.e. number of significant digits) of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;This is used by the GUI to determine how many digits one can input for the current unit. For example, with a &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Precision&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; of 3 the 1.0123 will be rounded to 1.112.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; அலகின் துல்லியத்தை (அதாவது குறிப்பிடத்தக்க இலக்கங்களின் எண்ணிக்கை) அமைக்கவும். &lt;/span&gt; &lt;/p&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; இது தற்போதைய அலகுக்கு எத்தனை இலக்கங்களை உள்ளிடலாம் என்பதை தீர்மானிக்க GUI ஆல் பயன்படுத்தப்படுகிறது. எடுத்துக்காட்டாக, ஒரு &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt; எழுத்துரு-எடை: 600;&quot;&gt; துல்லியம் &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt;&quot;&gt; 3 இன் 1.0123 1.112 க்கு வட்டமிடப்படும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="159"/>
         <source>Minimum</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறுமம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="166"/>
@@ -18430,27 +18454,32 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Set the minimum value possible for the unit.&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;For example, a temperature unit (in &lt;span style=&quot; font-weight:600;&quot;&gt;Kelvin&lt;/span&gt;) should probably have a minimum of 0. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; அலகுக்கு சாத்தியம். &lt;/p&gt;
+ &lt;p சூல் தண்டு = &quot;margin-top: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; வெப்பநிலை அலகு (&lt;ச்பான் பாணி = &quot;எழுத்துரு-எடை: 600;&quot;&gt; கெல்வின் &lt;/ச்பான்&gt;) குறைந்தபட்சம் 0 ஆக இருக்க வேண்டும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="190"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="207"/>
         <source>Quantity</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="221"/>
         <source>Coefficient</source>
-        <translation type="unfinished"></translation>
+        <translation>கெழு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="244"/>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>ஈடுசெய்யும்</translation>
     </message>
 </context>
 <context>
@@ -18458,12 +18487,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="358"/>
         <source>Restore view layout</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை தளவமைப்பை மீட்டெடுங்கள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="363"/>
         <source>Maximize view</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வையை அதிகரிக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -18471,7 +18500,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="132"/>
         <source>Maximize/restore view</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வையை அதிகரிக்கவும்/மீட்டெடுக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -18479,82 +18508,82 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="20"/>
         <source>Volume Information</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி செய்தி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="38"/>
         <source>Image Dimensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>பட பரிமாணங்கள்:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="58"/>
         <source>Image Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>பட இடைவெளி:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="77"/>
         <source>0,0,0</source>
-        <translation type="unfinished">மூன்று {0,0,0?}</translation>
+        <translation>0,0,0</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="90"/>
         <source>Image Origin:</source>
-        <translation type="unfinished"></translation>
+        <translation>பட தோற்றம்:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="119"/>
         <source>IJK to RAS Direction Matrix:</source>
-        <translation type="unfinished"></translation>
+        <translation>IJK பெறுநர் RAS DIRECT MAGARDS:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="157"/>
         <source>Set a parent transform to the volume that center it on the origin. Harden the transform to permanently change the volume position.</source>
-        <translation type="unfinished"></translation>
+        <translation>பெற்றோரின் மாற்றத்தை தோற்றத்தை மையமாகக் கொண்ட தொகுதிக்கு அமைக்கவும். தொகுதி நிலையை நிரந்தரமாக மாற்றுவதற்கான மாற்றத்தை கடினப்படுத்துங்கள்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="160"/>
         <source>Center Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>மைய தொகுதி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="167"/>
         <source>Scan Order:</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்கேன் ஆர்டர்:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="188"/>
         <source>Number of Scalars:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுபவர்களின் எண்ணிக்கை:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="216"/>
         <source>Scalar Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் வகை:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="240"/>
         <source>Scalar Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் வரம்பு:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="254"/>
         <source>Volume type:</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வகை:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="261"/>
         <source>VolumeTag</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="268"/>
         <source>File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு பெயர்:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
         <source>Window/Level Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளரம்/நிலை முன்னமைவுகள்:</translation>
     </message>
 </context>
 <context>
@@ -18562,7 +18591,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="14"/>
         <source>Volume Property Node</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி சொத்து முனை</translation>
     </message>
 </context>
 <context>
@@ -18574,32 +18603,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
         <source>Volume Thresholding</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வாசல்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="29"/>
         <source>Threshold: </source>
-        <translation type="unfinished"></translation>
+        <translation>வாசல்: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="37"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>தானி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="42"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>கையேடு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="47"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>அணை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="60"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -18608,7 +18637,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="83"/>
         <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="93"/>
         <source>Set the range boundaries to control large numbers or allow fine tuning</source>
-        <translation type="unfinished"></translation>
+        <translation>பெரிய எண்ணிக்கையைக் கட்டுப்படுத்த வரம்பு எல்லைகளை அமைக்கவும் அல்லது சிறந்த டியூனிங்கை அனுமதிக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -18616,42 +18645,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="20"/>
         <source>Window Level</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளர நிலை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="29"/>
         <source>Window/Level:</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளரம்/நிலை:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="37"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>தானி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="42"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>கையேடு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="57"/>
         <source>W: </source>
-        <translation type="unfinished"></translation>
+        <translation>W: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="47"/>
         <source>Manual Min/Max</source>
-        <translation type="unfinished"></translation>
+        <translation>கையேடு நிமிடம்/அதிகபட்சம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="97"/>
         <source>L: </source>
-        <translation type="unfinished"></translation>
+        <translation>எல்: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="110"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -18659,22 +18688,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerAboutDialog.ui" line="20"/>
         <source>About 3D Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation>சுமார் 3 டி ச்லைசர்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="67"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய பயன்பாட்டு பதிப்பு கிடைக்கிறது: %1</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="75"/>
         <source>download site</source>
-        <translation type="unfinished"></translation>
+        <translation>தளத்தைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="76"/>
         <source>Visit the %1 to check if a new version is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய பதிப்பு கிடைக்குமா என்பதை சரிபார்க்க %1 ஐப் பார்வையிடவும்.</translation>
     </message>
 </context>
 <context>
@@ -18685,7 +18714,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="56"/>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="45"/>
         <source>Developer Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்குபவர் கருவிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="33"/>
@@ -18702,23 +18731,23 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="65"/>
         <location filename="Modules/Loadable/Units/qSlicerUnitsModule.cxx" line="99"/>
         <source>Informatics</source>
-        <translation type="unfinished"></translation>
+        <translation>செய்தி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="73"/>
         <source>Wizards</source>
-        <translation type="unfinished"></translation>
+        <translation>மந்திரவாதிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="79"/>
         <source>IGT</source>
-        <translation type="unfinished"></translation>
+        <translation>Igt</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="34"/>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="83"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>எண்டோச்கோபி</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="27"/>
@@ -18736,7 +18765,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="4"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="4"/>
         <source>BRAINS</source>
-        <translation type="unfinished"></translation>
+        <translation>மூளை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="78"/>
@@ -18744,7 +18773,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="3"/>
         <source>Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>விரவல்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="75"/>
@@ -18755,7 +18784,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="3"/>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="72"/>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="16"/>
@@ -18764,18 +18793,18 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="4"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="4"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="4"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="4"/>
         <source>Specialized</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறப்பு</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="4"/>
         <source>Import and Export</source>
-        <translation type="unfinished"></translation>
+        <translation>இறக்குமதி மற்றும் ஏற்றுமதி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="80"/>
@@ -18800,7 +18829,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="3"/>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="3"/>
         <source>Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>வடிகட்டுதல்</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="4"/>
@@ -18809,7 +18838,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="4"/>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="4"/>
         <source>Arithmetic</source>
-        <translation type="unfinished"></translation>
+        <translation>எண்கணித</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="60"/>
@@ -18818,7 +18847,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="3"/>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.cxx" line="77"/>
         <source>Converters</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றிகள்</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="4"/>
@@ -18826,20 +18855,20 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="4"/>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="4"/>
         <source>Denoising</source>
-        <translation type="unfinished"></translation>
+        <translation>டெனோயிங்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="32"/>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="87"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="3"/>
         <source>Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>சோதனை</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="4"/>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="4"/>
         <source>Morphology</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவவியல்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="81"/>
@@ -18850,7 +18879,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="3"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="3"/>
         <source>Surface Models</source>
-        <translation type="unfinished"></translation>
+        <translation>மேற்பரப்பு மாதிரிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="26"/>
@@ -18858,7 +18887,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="77"/>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="3"/>
         <source>Quantification</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="86"/>
@@ -18866,33 +18895,33 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="3"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="3"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>மரபு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="84"/>
         <source>Registration.Specialized</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவு. சிறப்பு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="27"/>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="193"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசைகள்</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="346"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் தகவலுக்கு %1 ஐப் பார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="347"/>
         <source>online documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்நிலை ஆவணங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="32"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையகங்கள்</translation>
     </message>
 </context>
 <context>
@@ -18900,22 +18929,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="14"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="27"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்குவழிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="44"/>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="72"/>
         <source>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/USER_GUIDE/USER_INTERFACE.HTML#மவுச்-கீபோர்டு-சோர்ட்கட்ச்</translation>
     </message>
 </context>
 <context>
@@ -18923,22 +18952,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="14"/>
         <source>Volume Options</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="33"/>
         <source>Fiducial</source>
-        <translation type="unfinished"></translation>
+        <translation>நம்பகப்புள்ளி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="43"/>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்சியாளர்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="50"/>
         <source>ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>ரோய்</translation>
     </message>
 </context>
 <context>
@@ -18946,7 +18975,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/qSlicerAnnotationsModule.h" line="41"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறுகுறிப்புகள்</translation>
     </message>
 </context>
 <context>
@@ -18954,12 +18983,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="84"/>
         <source>Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறுகுறி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerAnnotationsReader.cxx" line="97"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறுகுறிப்புகள்</translation>
     </message>
 </context>
 <context>
@@ -18968,104 +18997,104 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="76"/>
         <source>&amp;Keyboard Shortcuts Reference</source>
         <oldsource>&amp;Keyboard Shortcuts</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; விசைப்பலகை குறுக்குவழிகள் குறிப்பு</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
         <source>Raise a window that lists commonly-used keyboard shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>பொதுவாகப் பயன்படுத்தப்படும் விசைப்பலகை குறுக்குவழிகளை பட்டியலிடும் சாளரத்தை உயர்த்தவும்.</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="81"/>
         <source>Documentation</source>
         <oldsource>Interface Documentation</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ஆவணப்படுத்துதல்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
         <source>Ctrl+1</source>
         <comment>Documentation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+1</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="86"/>
         <source>Quick Start</source>
-        <translation type="unfinished"></translation>
+        <translation>விரைவான தொடக்க</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="90"/>
         <source>Get Help</source>
-        <translation type="unfinished"></translation>
+        <translation>உதவி பெறு</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="94"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் இடைமுகம்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="98"/>
         <source>Visit the Slicer Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் மன்றத்தைப் பார்வையிடவும்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="102"/>
         <source>Browse Tutorials</source>
-        <translation type="unfinished"></translation>
+        <translation>பயிற்சிகளை உலாவுக</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="127"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒப்புதல்கள்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="131"/>
         <source>Report a Bug</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு பிழையைப் புகாரளிக்கவும்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="103"/>
         <source>Raise the training pages in your favorite web browser</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்களுக்கு பிடித்த வலை உலாவியில் பயிற்சி பக்கங்களை உயர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
         <source>Join Us on Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation>ட்விட்டரில் எங்களுடன் சேருங்கள்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="111"/>
         <source>Search Feature Requests</source>
-        <translation type="unfinished"></translation>
+        <translation>அம்ச கோரிக்கைகளைத் தேடுங்கள்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="115"/>
         <source>View License</source>
-        <translation type="unfinished"></translation>
+        <translation>உரிமத்தைக் காண்க</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="119"/>
         <source>How to Cite</source>
-        <translation type="unfinished"></translation>
+        <translation>மேற்கோள் காட்டுவது எப்படி</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="123"/>
         <source>Slicer Publications</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் வெளியீடுகள்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
         <source>Report error or request enhancement or new feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை அல்லது கோரிக்கை மேம்பாடு அல்லது புதிய அம்சத்தைப் புகாரளிக்கவும்.</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="136"/>
         <source>About 3D Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation>சுமார் 3 டி ச்லைசர்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="137"/>
         <source>Provides a description of the Slicer effort and its support.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் முயற்சி மற்றும் அதன் உதவி பற்றிய விளக்கத்தை வழங்குகிறது.</translation>
     </message>
 </context>
 <context>
@@ -19073,60 +19102,60 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="376"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>பொது</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="927"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="379"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="851"/>
         <source>Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="383"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>தோற்றம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="387"/>
         <source>Views</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="391"/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="395"/>
         <source>Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="399"/>
         <source>Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>கேச்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="404"/>
         <source>Internationalization</source>
-        <translation type="unfinished"></translation>
+        <translation>பன்னாட்டுமயமாக்கல்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="410"/>
         <source>Python</source>
-        <translation type="unfinished"></translation>
+        <translation>பைதான்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="415"/>
         <source>Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்குநர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="523"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="559"/>
         <source>%1 has caught an application error, </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 பயன்பாட்டு பிழையைப் பிடித்துள்ளது, </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="524"/>
@@ -19134,46 +19163,56 @@ p, li { white-space: pre-wrap; }
         <source>please save your work and restart.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் வேலையைச் சேமித்து மறுதொடக்கம் செய்யுங்கள்.
+
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="525"/>
         <source>The application has run out of memory. </source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாடு நினைவகம் இல்லை. </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="528"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>கணினி அமைப்புகளில் மெய்நிகர் நினைவக அளவை அதிகரிப்பது அல்லது அதிக ரேம் சேர்ப்பது இந்த சிக்கலை சரிசெய்யக்கூடும்.
+
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="532"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>கணினி அமைப்புகளில் இடமாற்று அளவை அதிகரிப்பது அல்லது அதிக ரேம் சேர்ப்பது இந்த சிக்கலை சரிசெய்யக்கூடும்.
+
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="536"/>
         <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>இலவச வட்டு இடத்தை அதிகரிப்பது அல்லது அதிக ரேம் சேர்ப்பது இந்த சிக்கலை சரிசெய்யக்கூடும்.
+
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="540"/>
         <source>Adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் ரேம் சேர்ப்பது இந்த சிக்கலை சரிசெய்யக்கூடும்.
+
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="542"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="561"/>
         <source>If you have a repeatable sequence of steps that causes this message, </source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த செய்தியை ஏற்படுத்தும் படிகளின் தொடர்ச்சியான வரிசை உங்களிடம் இருந்தால், </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="543"/>
@@ -19182,7 +19221,10 @@ p, li { white-space: pre-wrap; }
 
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>https://slicer.org இல் கிடைக்கும் வழிமுறைகளைத் தொடர்ந்து சிக்கலைப் புகாரளிக்கவும்
+
+
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="544"/>
@@ -19190,54 +19232,56 @@ p, li { white-space: pre-wrap; }
         <source>The message detail is:
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>செய்தி விவரம்:
+
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="545"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="564"/>
         <source>Exception thrown in event: </source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வில் வீசப்பட்ட விதிவிலக்கு: </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="553"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="572"/>
         <source>Application Error</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டு பிழை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="729"/>
         <source>Are you sure you want to restart?</source>
-        <translation type="unfinished"></translation>
+        <translation>நீங்கள் மறுதொடக்கம் செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="197"/>
         <source>Initializing...</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடங்குதல் ...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="233"/>
         <source>Registering modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள் பதிவு செய்தல் ...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="241"/>
         <source>Instantiating modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>உடனடி தொகுதிகள் ...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="246"/>
         <source>Instantiating module &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவுதல் தொகுதி &quot;%1&quot; ...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="279"/>
         <source>Initializing user interface...</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் இடைமுகத்தைத் தொடங்குதல் ...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.txx" line="302"/>
         <source>Loading module &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி &quot;%1&quot; ஏற்றுகிறது ...</translation>
     </message>
 </context>
 <context>
@@ -19245,7 +19289,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="250"/>
         <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த பயன்பாட்டை இயக்க இந்த கணினியின் கிராபிக்ச் திறன் போதுமானதாக இல்லை. பயன்பாடு பெரும்பாலும் சரியாக செயல்படாது.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="253"/>
@@ -19255,12 +19299,17 @@ p, li { white-space: pre-wrap; }
 Graphics capabilities of this computer:
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் தகவலைக் காண்க மற்றும் உதவி:
+ %1/USER_GUIDE/get_help.html#ச்லைசர்-அப்ளிகேசன்-டோச்-ச்டார்ட்
+
+ இந்த கணினியின் கிராபிக்ச் திறன்கள்:
+
+</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="262"/>
         <source>Insufficient graphics capability</source>
-        <translation type="unfinished"></translation>
+        <translation>போதிய கிராபிக்ச் திறன்</translation>
     </message>
 </context>
 <context>
@@ -19268,29 +19317,29 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="187"/>
         <source>online documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்நிலை ஆவணங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="189"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் தகவலுக்கு %1 ஐப் பார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="88"/>
         <source>Failed to find python interpreter for CLI: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI க்கான பைதான் மொழிபெயர்ப்பாளரைக் கண்டுபிடிக்கத் தவறிவிட்டது: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="113"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="111"/>
         <source>CLI description: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI விளக்கம்: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="114"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="112"/>
         <source>Failed to read XML Description</source>
-        <translation type="unfinished"></translation>
+        <translation>எக்ச்எம்எல் விளக்கத்தைப் படிக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="151"/>
@@ -19298,65 +19347,65 @@ Graphics capabilities of this computer:
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="201"/>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="207"/>
         <source>CLI executable: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI இயங்கக்கூடியது: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="156"/>
         <source>The process failed to start. Either the invoked program is missing, or you may have insufficient permissions to invoke the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்முறை தொடங்கத் தவறிவிட்டது. தூண்டப்பட்ட நிரல் காணவில்லை, அல்லது நிரலை அழைக்க உங்களுக்கு போதுமான அனுமதிகள் இல்லை.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="161"/>
         <source>The process crashed some time after starting successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>வெற்றிகரமாக தொடங்கிய பின்னர் செயல்முறை சிறிது நேரம் செயலிழந்தது.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="165"/>
         <source>The process timed out after %1 msecs.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த செயல்முறை %1 எம்எச்சிகளுக்குப் பிறகு முடிந்தது.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="169"/>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="174"/>
         <source>An error occurred when attempting to read from the process. For example, the process may not be running.</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்முறையிலிருந்து படிக்க முயற்சிக்கும்போது பிழை ஏற்பட்டது. எடுத்துக்காட்டாக, செயல்முறை இயங்காமல் இருக்கலாம்.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="179"/>
         <source>Failed to execute process. An unknown error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்முறையை செயல்படுத்துவதில் தோல்வி. அறியப்படாத பிழை ஏற்பட்டது.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="202"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="158"/>
         <source>Failed to retrieve XML Description</source>
-        <translation type="unfinished"></translation>
+        <translation>எக்ச்எம்எல் விளக்கத்தை மீட்டெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="208"/>
         <source>XML description doesn&apos;t start right away.</source>
-        <translation type="unfinished"></translation>
+        <translation>எக்ச்எம்எல் விளக்கம் இப்போதே தொடங்காது.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="209"/>
         <source>Output before &apos;&lt;?xml&apos; is [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;&lt;? Xml&apos; க்கு முன் வெளியீடு [%1]</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="157"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="175"/>
         <source>CLI loadable: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI ஏற்றக்கூடியது: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="176"/>
         <source>Failed to retrieve Module Entry Point</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி நுழைவு புள்ளியை மீட்டெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="236"/>
         <source>Failed to resolve expected symbol &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>எதிர்பார்க்கப்படும் குறியீடான &apos;%1&apos; ஐ தீர்க்கத் தவறிவிட்டது</translation>
     </message>
 </context>
 <context>
@@ -19364,12 +19413,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="932"/>
         <source>Compatible Files</source>
-        <translation type="unfinished"></translation>
+        <translation>இணக்கமான கோப்புகள்</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="945"/>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து கோப்புகள்</translation>
     </message>
 </context>
 <context>
@@ -19377,93 +19426,93 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="14"/>
         <source>Module</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="47"/>
         <source>Module Title</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி தலைப்பு</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="70"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவுரு தொகுப்பு:</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="104"/>
         <source>Reset parameters to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலைக்கு அளவுருக்களை மீட்டமைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="107"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished">இயல்புநிலைகளை மீட்டமை</translation>
+        <translation>இயல்புநிலைகளை மீட்டெடுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="98"/>
         <source>AutoRun</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்டோரூன்</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="143"/>
         <source>Cancel the execution of the module</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதியின் செயல்பாட்டை ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="146"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="156"/>
         <source>Execute the module</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதியை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="159"/>
         <source>Apply</source>
-        <translation type="unfinished">விண்ணப்பிக்கவும்</translation>
+        <translation>இடு</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="101"/>
         <source>AutoRun on changed parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றப்பட்ட அளவுருவில் ஆட்டோரூன்</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="103"/>
         <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்டோரூன் பொத்தானை முடக்கும் வரை, ஒரு அளவுரு மதிப்பு மாற்றப்படும் எந்த நேரத்திலும் தொகுதி இயக்கப்படும்.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="110"/>
         <source>AutoRun on modified input</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றியமைக்கப்பட்ட உள்ளீட்டில் ஆட்டோரன்</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="112"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node is modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்டோரூன் பொத்தான் கீழே இருக்கும் வரை, உள்ளீட்டு முனை மாற்றியமைக்கப்படும் எந்த நேரத்திலும் தொகுதி இயக்கப்படும்.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="119"/>
         <source>AutoRun on other input events</source>
-        <translation type="unfinished"></translation>
+        <translation>பிற உள்ளீட்டு நிகழ்வுகளில் ஆட்டோரன்</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="121"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்டோரூன் பொத்தானை முடக்கும் வரை, மாற்றியமைக்கப்பட்ட நிகழ்வைத் தவிர வேறு ஒரு நிகழ்வை உள்ளீட்டு முனை சுடும் போது தொகுதி இயக்கப்படும்.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="128"/>
         <source>AutoRun cancels running process</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்டோரூன் இயங்கும் செயல்முறையை ரத்து செய்கிறது</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="130"/>
         <source>When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிபார்க்கும்போது, விண்ணப்பிக்கும்போது, தொகுதி ஏதேனும் இருந்தால் தற்போதுள்ள இயங்கும் நிகழ்வை ரத்து செய்கிறது/நிறுத்துகிறது, இல்லையெனில் அது ஒரு புதிய ஓட்டத்தைத் தொடங்க நிறைவு காத்திருக்கிறது.</translation>
     </message>
 </context>
 <context>
@@ -19471,22 +19520,22 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="129"/>
         <source>Show details</source>
-        <translation type="unfinished"></translation>
+        <translation>விவரங்களைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="154"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலை:</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலையிக்கம்</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="372"/>
         <source>%1 (%2s)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2 கள்)</translation>
     </message>
 </context>
 <context>
@@ -19494,32 +19543,32 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="14"/>
         <source>GPU RayCast</source>
-        <translation type="unfinished"></translation>
+        <translation>சி.பீ.யூ ரெய்காச்ட்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished"></translation>
+        <translation>நுட்பம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
         <source>Select ray casting technique for the views where the current volume is visible</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய தொகுதி தெரியும் காட்சிகளுக்கு ரே வார்ப்பு நுட்பத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="75"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>நிழலுடன் கூட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="77"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்ச தீவிரம் திட்டம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="79"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>குறைந்தபட்ச தீவிரம் திட்டம்</translation>
     </message>
 </context>
 <context>
@@ -19527,17 +19576,17 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
         <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>3D காட்சிகள் மற்றும் கேமராக்களை நிர்வகிக்கவும். &lt;br&gt; புதிய காட்சிகளை உருவாக்கவும், செயலில் உள்ள காட்சியைத் தேர்ந்தெடுக்கவும் கீழே உள்ள பார்வை புல்லவுன் மெனுவைப் பயன்படுத்தலாம். பல காட்சிகளை அணுக கருவிப்பட்டியில் உள்ள தளவமைப்பு ஐகானிலிருந்து &quot;தாவல் 3D தளவமைப்புக்கு&quot; தளவமைப்பை மாற்றவும். &quot;தாவல் 3D தளவமைப்பில்&quot; தேர்ந்தெடுக்கப்பட்ட பார்வை செயலில் உள்ள காட்சியாக மாறும் மற்றும் மற்ற எல்லா தளவமைப்புகளிலும் 3D பார்வையை மாற்றுகிறது. தேர்ந்தெடுக்கப்பட்ட பார்வைக்கு செயலில் உள்ள கேமராவை அமைக்க கீழேயுள்ள கேமரா புல்லவுன் பட்டியல் பயன்படுத்தப்படலாம். &lt;br&gt; எச்சரிக்கை: இது இந்த நேரத்தில் மிகவும் சோதனைக்குரியது (நம்பகத்தன்மை, io/தரவு, காட்சியை மூடுவது புதிய காட்சிகளுக்கு உடைக்கப்பட்டிருக்கலாம்). &lt;Br) &gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
         <source>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt; &lt;அட்டவணை எல்லை = &quot;0&quot;&gt; &lt;tr&gt; &lt;td&gt; &lt;img src = &quot;: locos/namic.png&quot; மாற்று &quot;na-mic&quot;&gt; &lt;/td&gt; &lt;td&gt; &lt;img src = &quot;: லோகோக்கள் /NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt; இப்போது ச்லைசர் சமூகம்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.h" line="48"/>
         <source>Cameras</source>
-        <translation type="unfinished"></translation>
+        <translation>கேமராக்கள்</translation>
     </message>
 </context>
 <context>
@@ -19545,22 +19594,22 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="14"/>
         <source>Cameras</source>
-        <translation type="unfinished"></translation>
+        <translation>கேமராக்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="30"/>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>கேமரா</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="39"/>
         <source>View:</source>
-        <translation type="unfinished"></translation>
+        <translation>காண்க:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="67"/>
         <source>Camera:</source>
-        <translation type="unfinished"></translation>
+        <translation>கேமரா:</translation>
     </message>
 </context>
 <context>
@@ -19568,7 +19617,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.h" line="48"/>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறங்கள்</translation>
     </message>
 </context>
 <context>
@@ -19576,102 +19625,102 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="14"/>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="49"/>
         <source>Colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறங்கள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="68"/>
         <source>Duplicate the current color node to allow editing colors, scalar range, size.</source>
-        <translation type="unfinished"></translation>
+        <translation>திருத்துதல் வண்ணங்கள், அளவிடுதல் வரம்பு, அளவு அனுமதிக்க தற்போதைய வண்ண முனையை நகலெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="86"/>
         <source>Color Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண புராணக்கதை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="122"/>
         <source>Displayable node:</source>
-        <translation type="unfinished"></translation>
+        <translation>காண்பிக்கக்கூடிய முனை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
         <source>Create color legend for the selected displayable node.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட காட்சிப்படுத்தக்கூடிய முனைக்கு வண்ண புராணத்தை உருவாக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="137"/>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="144"/>
         <source>Use the currently selected colors for the selected displayable node.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட காட்சிப்படுத்தக்கூடிய முனைக்கு தற்போது தேர்ந்தெடுக்கப்பட்ட வண்ணங்களைப் பயன்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="147"/>
         <source>Use current colors</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய வண்ணங்களைப் பயன்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="154"/>
         <source>Delete the color legend for the selected displayable node.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட காட்சிப்படுத்தக்கூடிய முனைக்கு வண்ண புராணத்தை நீக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="157"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="166"/>
         <source>Color legend:</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண புராணக்கதை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
         <source>Color Table</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண அட்டவணை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
         <source>Number of Colors: </source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ணங்களின் எண்ணிக்கை: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="256"/>
         <source>Hide empty Colors: </source>
-        <translation type="unfinished"></translation>
+        <translation>வெற்று வண்ணங்களை மறைக்க: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="263"/>
         <source>Show/Hide the unnamed color entries in the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயரிடப்படாத வண்ண உள்ளீடுகளை கீழே உள்ள பட்டியலில் காட்டவும்/மறைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="273"/>
         <source>Scalar Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் வரம்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="283"/>
         <source>The range of scalars that are mapped to the full range of colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>முழு அளவிலான வண்ணங்களுடன் வரைபடமாக்கப்பட்ட அளவீடுகளின் வரம்பு.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="211"/>
         <source>Discrete table</source>
-        <translation type="unfinished"></translation>
+        <translation>தனித்துவமான அட்டவணை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="269"/>
         <source>Continuous scale</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடர்ச்சியான அளவு</translation>
     </message>
 </context>
 <context>
@@ -19679,32 +19728,32 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="868"/>
         <source>Failed to create %1 directory</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 கோப்பகத்தை உருவாக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1801"/>
         <source>Built on top of:</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலே கட்டப்பட்டது:</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1821"/>
         <source>Licensing Information</source>
-        <translation type="unfinished"></translation>
+        <translation>உரிமத் செய்தி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1822"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>வலைத்தளம்</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1823"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒப்புதல்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1830"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் ஒரு எஃப்.டி.ஏ அங்கீகரிக்கப்பட்ட மருத்துவ சாதனம் அல்ல. &gt; &lt;br&gt; இந்த பணி மருத்துவ பட கம்ப்யூட்டிங் தேசிய கூட்டணியின் (NA-MIC) ஒரு பகுதியாகும், இது தேசிய சுகாதார நிறுவனங்களால் மருத்துவ ஆராய்ச்சிக்கான NIH சாலை வரைபடத்தின் மூலம் நிதியளிக்கப்படுகிறது, U54 EB005149. பயோமெடிக்கல் கம்ப்யூட்டிங்கிற்கான தேசிய மையங்களைப் பற்றிய தகவல்களை &lt;a href = &quot;https://commonfund.nih.gov/bioinformatics&quot;&gt; https://commonfund.nih.gov/bioinformatics &lt;/a&gt; br&gt;</translation>
     </message>
 </context>
 <context>
@@ -19713,54 +19762,54 @@ Graphics capabilities of this computer:
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="631"/>
         <source>Loading %1</source>
         <extracomment>%1 is the filename</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுகிறது %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="667"/>
         <source>%1 load failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 சுமை தோல்வியடைந்தது.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="837"/>
         <source>No writer found to write file %1 of type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>வகை %2 இன் %1 ஐ எழுத எந்த எழுத்தாளரும் கிடைக்கவில்லை.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="852"/>
         <source>Unable to create directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; கோப்பகத்தை உருவாக்க முடியவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="885"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%2&apos; வகையின் &apos;%1&apos; கோப்புக்கு கண்டுபிடிக்கப்பட்ட அனைத்து எழுத்தாளர்களிடமும் சேமிப்பு தோல்வியுற்றது.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="898"/>
         <source>No nodes were saved in the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியில் எந்த முனைகளும் சேமிக்கப்படவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="969"/>
         <source>Unable to find a storable node with ID %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐடி %1 உடன் நிலையான முனையைக் கண்டுபிடிக்க முடியவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="982"/>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1018"/>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1076"/>
         <source>Error encountered while exporting %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ஐ ஏற்றுமதி செய்யும் போது பிழை ஏற்பட்டது.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1044"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிக காட்சியில் %1 க்கு இயல்புநிலை சேமிப்பக முனையை உருவாக்க முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1066"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிக காட்சியில் %1 க்கு காட்சி பண்புகளை சேமிக்க முடியவில்லை.</translation>
     </message>
 </context>
 <context>
@@ -19768,7 +19817,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.h" line="24"/>
         <source>Crop Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>பயிர் அளவு</translation>
     </message>
 </context>
 <context>
@@ -19777,166 +19826,166 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="38"/>
         <source>Crop Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>பயிர் அளவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="65"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவுரு தொகுப்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="108"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>Io</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="135"/>
         <source>Input volume:</source>
-        <translation type="unfinished">உள்ளீடு தொகுதி:</translation>
+        <translation>உள்ளீட்டு தொகுதி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="166"/>
         <source>Input ROI:</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீட்டு ROI:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="184"/>
         <source>Crop Volume ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>பயிர் தொகுதி ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="196"/>
         <source>Select region of interest</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆர்வத்தின் பகுதியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="214"/>
         <source>Display ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI ஐக் காண்பி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="235"/>
         <source>Fit to Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிக்கு ஏற்றது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="248"/>
         <source>Output volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு தொகுதி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="267"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="586"/>
         <source>Cropped volume</source>
-        <translation type="unfinished"></translation>
+        <translation>வெட்டப்பட்ட அளவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="279"/>
         <source>Create new volume</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய தொகுதியை உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="295"/>
         <source>Advanced</source>
-        <translation type="unfinished">மேம்படுத்தபட்ட</translation>
+        <translation>மேம்பட்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="325"/>
         <source>Interpolated cropping:</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைக்கணிப்பு பயிர்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="332"/>
         <source>Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு படத்தை ROI இன் அளவை சரியாக மாற்ற, கோரப்பட்ட இடைவெளியுடன் உள்ளீட்டு அளவை இடைக்கணித்து, பேட் செய்யுங்கள்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="348"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="358"/>
         <source>The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு அளவில் உள்ள வோக்சல் இடைவெளி இந்த மதிப்பால் அளவிடப்படும். 1.0 ஐ விட பெரிய மதிப்புகள் உள்ளீட்டு அளவைக் காட்டிலும் பயிர் அளவிலான அளவை குறைந்த தெளிவுத்திறனை உருவாக்கும். 1.0 ஐ விட சிறிய மதிப்புகள் உள்ளீட்டு அளவை விட பயிர் அளவிலான அளவை அதிக தெளிவுத்திறனை உருவாக்கும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="351"/>
         <source>Spacing scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைவெளி அளவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="361"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="374"/>
         <source>Isotropic spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐசோட்ரோபிக் இடைவெளி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="394"/>
         <source>Interpolator:</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைக்கணிப்பாளர்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="403"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="433"/>
         <source>High quality, slow</source>
-        <translation type="unfinished"></translation>
+        <translation>உயர் தகுதி, மெதுவானது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="406"/>
         <source>B-spline</source>
-        <translation type="unfinished"></translation>
+        <translation>பி-ச்பைன்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="413"/>
         <source>Low quality, fastest</source>
-        <translation type="unfinished"></translation>
+        <translation>குறைந்த தகுதி, வேகமான</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="416"/>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>அருகிலுள்ள அண்டை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="423"/>
         <source>Medium quality, medium speed</source>
-        <translation type="unfinished"></translation>
+        <translation>நடுத்தர தகுதி, நடுத்தர விரைவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="426"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>நேரியல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="436"/>
         <source>Windowed Sinc</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளர சின்க்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="445"/>
         <source>Fill value:</source>
-        <translation type="unfinished"></translation>
+        <translation>மதிப்பை நிரப்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="452"/>
         <source>Voxel values outside the input volume will be filled with this value</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீட்டு தொகுதிக்கு வெளியே வோக்சல் மதிப்புகள் இந்த மதிப்பால் நிரப்பப்படும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="483"/>
         <source>Volume information</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி செய்தி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="507"/>
         <source>Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீட்டு தொகுதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="516"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="595"/>
         <source>Output volume dimension after cropping</source>
-        <translation type="unfinished"></translation>
+        <translation>பயிர் செய்த பிறகு வெளியீட்டு அளவு பரிமாணம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="528"/>
@@ -19944,75 +19993,75 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="607"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="635"/>
         <source>0,0,0</source>
-        <translation type="unfinished">மூன்று {0,0,0?}</translation>
+        <translation>0,0,0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="541"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="620"/>
         <source>Output volume spacing after cropping</source>
-        <translation type="unfinished"></translation>
+        <translation>பயிர் செய்த பிறகு வெளியீட்டு அளவு இடைவெளி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="569"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="655"/>
         <source>Dimensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>பரிமாணங்கள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="576"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="648"/>
         <source>Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைவெளி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="692"/>
         <source>Fix</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிசெய்யவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="707"/>
         <source>Apply</source>
-        <translation type="unfinished">விண்ணப்பிக்கவும்</translation>
+        <translation>இடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="83"/>
         <source>Select or create a new parameter node.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய அளவுரு முனையைத் தேர்ந்தெடுக்கவும் அல்லது உருவாக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="94"/>
         <source>Select an input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீட்டு தொகுதியைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="101"/>
         <source>Output volume type does not match input volume type.</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு தொகுதி வகை உள்ளீட்டு தொகுதி வகையுடன் பொருந்தவில்லை.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="124"/>
         <source>Input ROI is under a non-linear transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீட்டு ROI ஒரு நேரியல் அல்லாத மாற்றத்தின் கீழ் உள்ளது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="137"/>
         <source>Output volume is under a non-linear transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு தொகுதி நேரியல் அல்லாத உருமாற்றத்தின் கீழ் உள்ளது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="148"/>
         <source>Interpolation is disabled and input volume is under a non-linear transform</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைக்கணிப்பு முடக்கப்பட்டுள்ளது மற்றும் உள்ளீட்டு அளவு நேரியல் அல்லாத மாற்றத்தின் கீழ் உள்ளது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="130"/>
         <source>Select or create a new input ROI.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய உள்ளீட்டு ROI ஐத் தேர்ந்தெடுக்கவும் அல்லது உருவாக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="154"/>
         <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைக்கணிப்பு முடக்கப்பட்டுள்ளது மற்றும் உள்ளீட்டு ROI உள்ளீட்டு தொகுதி அச்சுகளுடன் சீரமைக்கப்படவில்லை.</translation>
     </message>
 </context>
 <context>
@@ -20020,73 +20069,74 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="20"/>
         <source>DICOM Export</source>
-        <translation type="unfinished"></translation>
+        <translation>டிகாம் ஏற்றுமதி</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="82"/>
         <source>1. Select node</source>
-        <translation type="unfinished"></translation>
+        <translation>1. முனையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="125"/>
         <source>2. Select export type</source>
-        <translation type="unfinished"></translation>
+        <translation>2. ஏற்றுமதி வகையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="168"/>
         <source>3. Edit DICOM tags</source>
-        <translation type="unfinished"></translation>
+        <translation>3. டிகாம் குறிச்சொற்களைத் திருத்து</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="199"/>
         <source>If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிபார்க்கப்பட்டால், கைமுறையாக திருத்தப்பட்ட குறிச்சொற்கள் காட்சிக்கு சேமிக்கப்படும், அடுத்த ஏற்றுமதிக்கு பாதுகாக்கப்படும். தேர்வு செய்யப்படாவிட்டால், தற்காலிக மாற்றங்களைச் செய்ய முடியும், இந்த ஏற்றுமதி செயல்பாட்டிற்கு மட்டுமே.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="202"/>
         <source>Save modified tags</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றியமைக்கப்பட்ட குறிச்சொற்களை சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="238"/>
         <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிபார்க்கப்பட்டால், ஏற்றுமதி செய்யப்பட்ட DICOM கோப்புகள் குறிப்பிட்ட கோப்புறையில் எழுதப்படும்.
+ தேர்வு செய்யப்படாவிட்டால், ஏற்றுமதி செய்யப்பட்ட தரவுத்தொகுப்பு DICOM தரவுத்தளத்தில் சேர்க்கப்படும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="242"/>
         <source>Export to folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புறைக்கு ஏற்றுமதி:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="252"/>
         <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டின் DICOM தரவுத்தளத்திற்கு பதிலாக இந்த கோப்புறையில் DICOM கோப்புகளை ஏற்றுமதி செய்தது.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="322"/>
         <source>Error messages</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை செய்திகள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="359"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="461"/>
         <source>DICOM dataset successfully exported to </source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM தரவுத்தொகுப்பு வெற்றிகரமாக ஏற்றுமதி செய்யப்பட்டது </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="464"/>
         <source>the DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM தரவுத்தளம்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="470"/>
         <source>Export successful</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி வெற்றிகரமாக</translation>
     </message>
 </context>
 <context>
@@ -20094,91 +20144,91 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="14"/>
         <source>Diffusion Tensor Volume Slice Display</source>
-        <translation type="unfinished"></translation>
+        <translation>பரவல் டென்சர் தொகுதி துண்டு காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="35"/>
         <source>Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="49"/>
         <source>Opacity:</source>
-        <translation type="unfinished">ஒளிபுகாநிலை:</translation>
+        <translation>ஒளிபுகாநிலை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
         <source>Scalar ColorMap:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் COLORMAP:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
         <source>Color by Scalar:</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்காலார் மூலம் வண்ணம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
         <source>Scalar Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் வரம்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
         <source>Glyph Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃப் வகை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
         <source>Lines</source>
-        <translation type="unfinished">கோடுகள்</translation>
+        <translation>வரிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
         <source>Tubes</source>
-        <translation type="unfinished"></translation>
+        <translation>குழாய்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="123"/>
         <source>Ellipsoids</source>
-        <translation type="unfinished"></translation>
+        <translation>நீள்வட்டங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="131"/>
         <source>Scale Factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிலான காரணி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="157"/>
         <source>Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைவெளி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="241"/>
         <source>Glyph EigenVector:</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃப் ஈசென்வெக்டர்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="207"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="249"/>
         <source>Major</source>
-        <translation type="unfinished"></translation>
+        <translation>பெரிய</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="212"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="254"/>
         <source>Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>நடுத்தர</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="217"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="259"/>
         <source>Minor</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறிய</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="274"/>
         <source>Manual or Auto scalar range</source>
-        <translation type="unfinished"></translation>
+        <translation>கையேடு அல்லது ஆட்டோ அளவிடுதல் வரம்பு</translation>
     </message>
 </context>
 <context>
@@ -20186,42 +20236,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="14"/>
         <source>Add data into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியில் தரவைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="20"/>
         <source>Choose Directory to Add</source>
-        <translation type="unfinished"></translation>
+        <translation>சேர்க்க கோப்பகத்தைத் தேர்வுசெய்க</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="27"/>
         <source>Choose File(s) to Add</source>
-        <translation type="unfinished"></translation>
+        <translation>சேர்க்க கோப்பு (களை) தேர்வு செய்யவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="78"/>
         <source>File</source>
-        <translation type="unfinished">கோப்பு</translation>
+        <translation>கோப்பு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="83"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>விவரம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="88"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="106"/>
         <source>Show Options</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பங்களைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="586"/>
         <source>Any Data</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்த தரவு</translation>
     </message>
 </context>
 <context>
@@ -20229,12 +20279,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="509"/>
         <source>Open archive?</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த காப்பகமா?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="510"/>
         <source>The selected file is a .zip archive, open it and load contents?</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட கோப்பு .zip காப்பகம், அதைத் திறந்து உள்ளடக்கங்களை ஏற்றவா?</translation>
     </message>
 </context>
 <context>
@@ -20243,17 +20293,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="135"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
         <oldsource>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>தரவு தொகுதி என்பது அணுகல் மற்றும் கையாளுதலுக்காக ஏற்றப்பட்ட அனைத்து தரவும் வழங்கப்படும் மைய தரவு-ஒழுங்கமைக்கும் புள்ளியாகும். இது கோப்புறைகள் அல்லது நோயாளி/ஆய்வு மரங்களில் (டிகாமிற்கு தானாகவே செய்யப்படுகிறது) தரவை ஒழுங்கமைக்க அனுமதிக்கிறது, காட்சிப்படுத்தக்கூடிய தரவைக் காட்சிப்படுத்துதல், முழு கிளைகளின் மாற்றம் மற்றும் பல தரவு வகை குறிப்பிட்ட நற்பொருத்தங்கள்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலையை NA-MIC, NAC, BRN, NCIGT, CTSC மற்றும் ச்லைசர் சமூகம் ஆதரித்தன.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.h" line="50"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>தகவல்கள்</translation>
     </message>
 </context>
 <context>
@@ -20261,88 +20311,88 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="14"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>தகவல்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="41"/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>வடிகட்டி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="48"/>
         <source>A case sensitive string to filter nodes, uses all the columns (even if hidden)</source>
-        <translation type="unfinished"></translation>
+        <translation>முனைகளை வடிகட்ட ஒரு வழக்கு உணர்திறன் சரம், அனைத்து நெடுவரிசைகளையும் பயன்படுத்துகிறது (மறைக்கப்பட்டிருந்தாலும் கூட)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="80"/>
         <source>Subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>பொருள் வரிசைமுறை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="106"/>
         <source>Show transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றங்களைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="116"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="238"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="315"/>
         <source>Show MRML ID&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation>எம்.ஆர்.எம்.எல் ஐடியைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="177"/>
         <source>Subject hierarchy item information</source>
-        <translation type="unfinished"></translation>
+        <translation>பொருள் வரிசைமுறை உருப்படி செய்தி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="201"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="462"/>
         <source>No item selected</source>
-        <translation type="unfinished"></translation>
+        <translation>உருப்படி எதுவும் தேர்ந்தெடுக்கப்படவில்லை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="215"/>
         <source>Transform hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசைக்கு மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="245"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="322"/>
         <source>Show hidden nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>மறைக்கப்பட்ட முனைகளைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="292"/>
         <source>All nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து முனைகளும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="373"/>
         <source>MRML node information</source>
-        <translation type="unfinished"></translation>
+        <translation>எம்.ஆர்.எம்.எல் முனை செய்தி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="240"/>
         <source>Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>முனைகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="240"/>
         <source>IDs</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐடிஎச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="212"/>
         <source>Insert transform</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றம் செருகவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="218"/>
         <source>Harden transform</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆர்டன் உருமாற்றம்</translation>
     </message>
 </context>
 <context>
@@ -20350,42 +20400,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="14"/>
         <source>Tensor Display Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>டென்சர் காட்சி பண்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
         <source>Scalar Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் முறை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
         <source>Glyphs on Slices Display</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டுகள் காட்சியில் கிளிஃப்ச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
         <source>Slice Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு தெரிவுநிலை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="96"/>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>சிவப்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="103"/>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>மஞ்சள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="110"/>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>பச்சை</translation>
     </message>
 </context>
 <context>
@@ -20393,17 +20443,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="14"/>
         <source>DWI Display Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>DWI காட்சி பண்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="50"/>
         <source>DWI Component:</source>
-        <translation type="unfinished"></translation>
+        <translation>DWI கூறு:</translation>
     </message>
 </context>
 <context>
@@ -20411,44 +20461,44 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="20"/>
         <source>Report bugs and request enhancements</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழைகள் மற்றும் கோரிக்கை மேம்பாடுகளைப் புகாரளிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span சூல் தண்டு = &quot;font-weight: 600;&quot;&gt; கேள்விகள் மற்றும் அம்சக் கோரிக்கைகள்: &lt;/span&gt; &lt;a href = &quot;https: //discourse.slicer ஐப் பார்வையிடவும். org &quot;&gt; &lt;span சூல் தண்டு =&quot; text-degoration: Underling; &quot;&gt; ச்லைசர் மன்றம் &lt;/span&gt; &lt;/a&gt;. &lt;/span&gt; &lt;a href = &quot;https://discourse.slicer.org/new-topic? %20actual%20behavior] &amp; ஆம்ப்; பிழை அறிக்கை &lt;a href = &quot;https://issues.slicer.org&quot;&gt; &lt;span சூல் தண்டு = &quot;text-degoration: Underline;&quot; பிழைக்கு வழிவகுக்கும் படிகளை விவரிக்கவும், பதிவு செய்திகளையும் இணைக்கவும். பதிவு செய்திகளில் ஒரு நோயாளியை அடையாளம் காணக்கூடிய எந்த தகவலும் இல்லை. பதிவு செய்திகளை ஒரு அஞ்சல் பட்டியல் அல்லது இணையதளத்தில் பகிரங்கமாக பகிர்வதற்குப் பதிலாக குறிப்பிட்ட நபர்களுக்கு அனுப்பவும். &lt;/P&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
         <source>Recent log files:</source>
-        <translation type="unfinished"></translation>
+        <translation>அண்மைக் கால பதிவு கோப்புகள்:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="73"/>
         <source>Copy log to clipboard</source>
         <oldsource>Copy log messages to clipboard</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>கிளிப்போர்டுக்கு பதிவை நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="83"/>
         <source>Open log in editor</source>
         <oldsource>Open log file in editor</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>எடிட்டரில் திறந்த பதிவு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="93"/>
         <source>Open log location</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த பதிவு இருப்பிடம்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="103"/>
         <source>Edit Log</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவைத் திருத்து</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="135"/>
         <source>Log file content:</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவு கோப்பு உள்ளடக்கம்:</translation>
     </message>
 </context>
 <context>
@@ -20456,17 +20506,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="62"/>
         <source>Profiling tool for the developers.</source>
-        <translation type="unfinished"></translation>
+        <translation>டெவலப்பர்களுக்கான விவரக்குறிப்பு கருவி.</translation>
     </message>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="70"/>
         <source>This module was developed by Julien Finet, Kitware Inc. This work was supported by NIH grant 3P41RR013218-12S1, NA-MIC, NAC and Slicer community.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த தொகுதியை சூலியன் ஃபினெட், கிட்வேர் இன்க் உருவாக்கியது. இந்த வேலையை என்ஐஎச் கிராண்ட் 3P41RR013218-12S1, NA-MIC, NAC மற்றும் ச்லைசர் சமூகம் ஆதரித்தன.</translation>
     </message>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="47"/>
         <source>Event Broker</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வு தரகர்</translation>
     </message>
 </context>
 <context>
@@ -20474,22 +20524,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="20"/>
         <source>Event Broker</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வு தரகர்</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="26"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பு</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="43"/>
         <source>Reset Times</source>
-        <translation type="unfinished"></translation>
+        <translation>நேரங்களை மீட்டமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="50"/>
         <source>Show observations with Elapsed Times &gt; 0</source>
-        <translation type="unfinished"></translation>
+        <translation>கழிந்த நேரங்களுடன் அவதானிப்புகளைக் காட்டு&gt; 0</translation>
     </message>
 </context>
 <context>
@@ -20497,193 +20547,193 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="23"/>
         <source>Export node</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி முனை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="48"/>
         <source>Filename:</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு பெயர்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="62"/>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>அடைவு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="75"/>
         <source>Destination directory</source>
-        <translation type="unfinished"></translation>
+        <translation>இலக்கு அடைவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="82"/>
         <source>Export formats:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி வடிவங்கள்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="89"/>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பங்கள்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="114"/>
         <source>Include nodes directly under the selected item in the hierarchy.</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசைமுறையில் தேர்ந்தெடுக்கப்பட்ட உருப்படியின் கீழ் நேரடியாக முனைகளைச் சேர்க்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="117"/>
         <source>Include children</source>
-        <translation type="unfinished"></translation>
+        <translation>குழந்தைகளைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="124"/>
         <source>Include all nodes in the selected item in the hierarchy, including in subfolders.</source>
-        <translation type="unfinished"></translation>
+        <translation>துணை கோப்புறைகள் உட்பட வரிசைக்கு தேர்ந்தெடுக்கப்பட்ட உருப்படியில் உள்ள அனைத்து முனைகளையும் சேர்க்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="127"/>
         <source>Recursively include children</source>
-        <translation type="unfinished"></translation>
+        <translation>மீண்டும் மீண்டும் குழந்தைகளைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="134"/>
         <source>Create subdirectory structure based on node hierarchy. Uncheck this to export all nodes directly into the target directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை வரிசைமுறையின் அடிப்படையில் துணை அடைவு கட்டமைப்பை உருவாக்கவும். அனைத்து முனைகளையும் நேரடியாக இலக்கு கோப்பகத்தில் ஏற்றுமதி செய்ய இதைத் தேர்வு செய்யவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="137"/>
         <source>Export folder structure</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி கோப்புறை அமைப்பு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="144"/>
         <source>Temporarily harden any transforms for export</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதிக்கான எந்த மாற்றங்களையும் தற்காலிகமாக கடினப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
         <source>Apply transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றங்களைப் பயன்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="136"/>
         <source>Select a format</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு வடிவமைப்பைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="171"/>
         <source>Export format:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி வடிவம்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="409"/>
         <source>Output folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு கோப்புறை:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="426"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; ஏற்றுமதி</translation>
     </message>
     <message numerus="yes">
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="737"/>
         <source>Export %n node(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ஏற்றுமதி %n முனை</numerusform>
+            <numerusform>ஏற்றுமதி %n முனைகள்</numerusform>
         </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="741"/>
         <source>When exporting multiple nodes, filenames are automatically set</source>
-        <translation type="unfinished"></translation>
+        <translation>பல முனைகளை ஏற்றுமதி செய்யும் போது, கோப்பு பெயர்கள் தானாகவே அமைக்கப்படுகின்றன</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="743"/>
         <source>&lt;automatic&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;தானியங்கி&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="757"/>
         <source>Export </source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="879"/>
         <source>Filename not standard</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு பெயர் தரநிலை அல்ல</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="880"/>
         <source>The following filename is recommended:</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்வரும் கோப்பு பெயர் பரிந்துரைக்கப்படுகிறது:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="884"/>
         <source>Accept recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>பரிந்துரைக்கப்படுகிறது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="885"/>
         <source>Keep my filename</source>
-        <translation type="unfinished"></translation>
+        <translation>எனது கோப்பு பெயரை வைத்திருங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="948"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1050"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1058"/>
         <source>Export Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி பிழை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="949"/>
         <source>Failed to export node %1; filename is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை %1 ஐ ஏற்றுமதி செய்யத் தவறிவிட்டது; கோப்பு பெயர் காலியாக உள்ளது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="967"/>
         <source>File Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு உள்ளது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="968"/>
         <source>The file %1 already exists. Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 கோப்பு ஏற்கனவே உள்ளது. அதை மாற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1070"/>
         <source>Export Information</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி செய்தி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
         <source>Nothing was exported.</source>
-        <translation type="unfinished"></translation>
+        <translation>எதுவும் ஏற்றுமதி செய்யப்படவில்லை.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1044"/>
         <source>Error encountered while exporting.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி செய்யும் போது பிழை ஏற்பட்டது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1065"/>
         <source>Export Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி எச்சரிக்கை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1223"/>
         <source>Export an individual node</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு தனிப்பட்ட முனையை ஏற்றுமதி செய்யுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1245"/>
         <source>Export error</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி பிழை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1245"/>
         <source>There is nothing to export.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி செய்ய எதுவும் இல்லை.</translation>
     </message>
 </context>
 <context>
@@ -20695,87 +20745,87 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
         <source>Install this extension (requires restart).</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த நீட்டிப்பை நிறுவவும் (மறுதொடக்கம் தேவை).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="41"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="52"/>
         <source>Click this button to add bookmark this extension. Bookmarked extension will appear in all application versions for easy reinstallation.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த நீட்டிப்பை புக்மார்க்கு சேர்க்க இந்த பொத்தானைக் சொடுக்கு செய்க. எளிதாக மீண்டும் நிறுவுவதற்கான அனைத்து பயன்பாட்டு பதிப்புகளிலும் புக்மார்க்கு நீட்டிக்கப்பட்ட நீட்டிப்பு தோன்றும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="67"/>
         <source>Click to remove the bookmark.</source>
-        <translation type="unfinished"></translation>
+        <translation>புத்தகக்குறியை அகற்ற சொடுக்கு செய்க.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="159"/>
         <source>Tell the application to update this extension on restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>மறுதொடக்கத்தில் இந்த நீட்டிப்பைப் புதுப்பிக்க பயன்பாட்டைச் சொல்லுங்கள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="162"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="169"/>
         <source>Tell the application to keep the currently installed version of this extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த நீட்டிப்பின் தற்போது நிறுவப்பட்ட பதிப்பை வைத்திருக்க பயன்பாட்டைச் சொல்லுங்கள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="172"/>
         <source>Cancel Update</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பை ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="186"/>
         <source>Tell the application to load this extension by adding all associated module paths to the application settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டு அமைப்புகளில் அனைத்து தொடர்புடைய தொகுதி பாதைகளையும் சேர்ப்பதன் மூலம் இந்த நீட்டிப்பை ஏற்ற பயன்பாட்டைச் சொல்லுங்கள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="189"/>
         <source>Enable</source>
-        <translation type="unfinished">இயக்கு</translation>
+        <translation>இயக்கு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="196"/>
         <source>Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டு அமைப்புகளிலிருந்து தொடர்புடைய அனைத்து தொகுதி பாதைகளையும் அகற்றுவதன் மூலம் இந்த நீட்டிப்பை ஏற்றுவதைத் தவிர்க்க பயன்பாட்டைச் சொல்லுங்கள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="199"/>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>முடக்கு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="92"/>
         <source>Tell the application to uninstall this extension when it will restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த நீட்டிப்பை மறுதொடக்கம் செய்யும் போது அதை நிறுவல் நீக்க விண்ணப்பம் சொல்லுங்கள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="95"/>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவல் நீக்க</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="102"/>
         <source>Tell the application to keep this extension installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த நீட்டிப்பை நிறுவ பயன்பாட்டிடம் சொல்லுங்கள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="105"/>
         <source>Cancel Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவல் நீக்க ரத்துசெய்</translation>
     </message>
 </context>
 <context>
@@ -20783,62 +20833,62 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="157"/>
         <source>Install pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலுவையில் உள்ள மறுதொடக்கத்தை நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="162"/>
         <source>Update pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பு நிலுவையில் உள்ள மறுதொடக்கம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="167"/>
         <source>Uninstall pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலுவையில் உள்ள மறுதொடக்கம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="346"/>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="388"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரியவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="425"/>
         <source>Not found for this version of the application (r%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டின் இந்த பதிப்பிற்கு காணப்படவில்லை (r%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="432"/>
         <source>Incompatible with Slicer r%1 [built for r%2]</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் ஆர்%1 உடன் பொருந்தாது [ஆர்%2 க்கு கட்டப்பட்டுள்ளது]</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="448"/>
         <source>Change log...</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவை மாற்றவும் ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="453"/>
         <source>An update is available. Installed: %1. Available: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பு கிடைக்கிறது. நிறுவப்பட்டது: %1. கிடைக்கிறது: %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="469"/>
         <source>Version: %1. Disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்பு: %1. முடக்கப்பட்டது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="476"/>
         <source>Version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்பு: %1</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="484"/>
         <source>Not installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவப்படவில்லை.</translation>
     </message>
 </context>
 <context>
@@ -20846,17 +20896,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="14"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு மேலாளர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
         <source>&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;font color = &quot;சிவப்பு&quot;&gt;* மறுதொடக்கம் கோரப்பட்டது &lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerDialog.cxx" line="69"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>மறுதொடக்கம்</translation>
     </message>
 </context>
 <context>
@@ -20864,320 +20914,320 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="459"/>
         <source>Failed to parse %1: error at %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ஐ பாகுபடுத்துவதில் தோல்வி: %2: %3 இல் பிழை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="716"/>
         <source>Failed to open extensions settings file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு அமைப்புகளின் கோப்பு %1 ஐ திறக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="754"/>
         <source>Failed to open extensions settings file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு அமைப்புகள் கோப்பைத் திறக்கத் தவறிவிட்டது: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="792"/>
         <source>Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகள் நிறுவல் கோப்பகம் இல்லை: &lt;strong&gt;%1 &lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="809"/>
         <source>Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகள் நிறுவல் அடைவு படிக்கக்கூடிய/எழுதக்கூடிய/இயங்கக்கூடியதாக இருக்கும் என்று எதிர்பார்க்கப்படுகிறது: &lt;strong&gt;%1 &lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="884"/>
         <source>Failed to extract %1 into %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ஐ %2 ஆக பிரித்தெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="889"/>
         <source>Archive %1 doesn&apos;t contain any files</source>
-        <translation type="unfinished"></translation>
+        <translation>காப்பகம் %1 இல் எந்த கோப்புகளும் இல்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1036"/>
         <source>&apos;slicerRevision&apos; parameter is not specified</source>
         <oldsource>slicerRevision is not specified</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&apos;ச்லைசர்ரெவிசன்&apos; அளவுரு குறிப்பிடப்படவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1040"/>
         <source>&apos;slicerOs&apos; parameter is not specified</source>
         <oldsource>slicerOs is not specified</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&apos;ச்லைசெரோச்&apos; அளவுரு குறிப்பிடப்படவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1044"/>
         <source>&apos;slicerArch&apos; parameter is not specified</source>
         <oldsource>slicerArch is not specified</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&apos;ச்லைசரார்ச்&apos; அளவுரு குறிப்பிடப்படவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1050"/>
         <source>extensionSlicerRevision [%1] is different from slicerRevision [%2]</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு லிசர்ரெவிசன் [%1] ச்லைசர்ரெப்சிவிங்கிலிருந்து வேறுபட்டது [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1056"/>
         <source>extensionArch [%1] is different from slicerArch [%2]</source>
-        <translation type="unfinished"></translation>
+        <translation>ExtsionArch [%1] ச்லைசரார்ச்சிலிருந்து வேறுபட்டது [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1061"/>
         <source>extensionOs [%1] is different from slicerOs [%2]</source>
-        <translation type="unfinished"></translation>
+        <translation>ExtsionOS [%1] ச்லைசெரோசிலிருந்து வேறுபட்டது [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1410"/>
         <source>Failed to add bookmark extension: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>புத்தகக்குறி நீட்டிப்பைச் சேர்க்கத் தவறிவிட்டது: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1577"/>
         <source>Retrieving extension metadata for %1 extension</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்புக்கு நீட்டிப்பு மெட்டாடேட்டாவை மீட்டெடுக்கிறது</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1589"/>
         <source>Failed to get metadata from server for extension: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புக்கான சேவையகத்திலிருந்து மெட்டாடேட்டாவைப் பெறுவதில் தோல்வி: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1606"/>
         <source>Retrieving %1 extension files (extensionId: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்பு கோப்புகளை மீட்டெடுப்பது (நீட்டிப்பு: %2)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1637"/>
         <source>Downloading %1 extension (item_id: %2, file_id: %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்பைப் பதிவிறக்குகிறது (item_id: %2, file_id: %3)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1670"/>
         <source>Download of extension failed, id is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு பதிவிறக்கம் தோல்வியுற்றது, ஐடி தவறானது.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1691"/>
         <source>Download of extension failed, could not find an extension with id = %1</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு பதிவிறக்கம் தோல்வியுற்றது, ஐடி = %1 உடன் நீட்டிப்பைக் கண்டுபிடிக்க முடியவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1708"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2488"/>
         <source>Failed to retrieve metadata for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்புக்கு மெட்டாடேட்டாவை மீட்டெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1772"/>
         <source>Do you want to install &apos;%1&apos; now?</source>
-        <translation type="unfinished"></translation>
+        <translation>நீங்கள் இப்போது &apos;%1&apos; ஐ நிறுவ விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1773"/>
         <source>Install extension ?</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பை நிறுவவா?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1790"/>
         <source>Failed to install %1 extension</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்பை நிறுவுவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1813"/>
         <source>Extension %1 has been installed from server.</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு %1 சேவையகத்திலிருந்து நிறுவப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1815"/>
         <source>Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் மறுதொடக்கம் செய்யப்பட வேண்டும். நீங்கள் இப்போது மறுதொடக்கம் செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1816"/>
         <source>Restart slicer ?</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசரை மறுதொடக்கம் செய்யவா?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1853"/>
         <source>Failed downloading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவிறக்குவதில் தோல்வி: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1864"/>
         <source>Could not create temporary file for writing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>எழுதுவதற்கு தற்காலிக கோப்பை உருவாக்க முடியவில்லை: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1885"/>
         <source>Failed to list extension archive &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு காப்பக &apos;%1&apos; ஐ பட்டியலிடுவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1902"/>
         <source>No extension description found in archive &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; காப்பகத்தில் நீட்டிப்பு விளக்கம் இல்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1915"/>
         <source>InstallExtension failed: extensionName is not set</source>
-        <translation type="unfinished"></translation>
+        <translation>இன்ச்டாலெக்ச்டென்சன் தோல்வியுற்றது: நீட்டிப்பு பெயர் அமைக்கப்படவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1920"/>
         <source>Skip installation of %1 extension. It is already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்பின் நிறுவலைத் தவிர்க்கவும். இது ஏற்கனவே நிறுவப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1926"/>
         <source>Extensions/InstallPath setting is not set</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகள்/InstallPath அமைப்பு அமைக்கப்படவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1932"/>
         <source>Failed to create extension installation directory %1</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு நிறுவல் அடைவு %1 ஐ உருவாக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2047"/>
         <source>Error while installing dependent extensions:&lt;ul&gt;%1&lt;ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>சார்பு நீட்டிப்புகளை நிறுவும் போது பிழை: &lt;ul&gt;%1 &lt;ul&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2070"/>
         <source>%1 depends on the following extensions, which could not be found:</source>
         <extracomment>%1 is the extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 பின்வரும் நீட்டிப்புகளைப் பொறுத்தது, இது கண்டுபிடிக்க முடியவில்லை:</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2075"/>
         <source>The extension may not function properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு சரியாக செயல்படாது.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2076"/>
         <source>Unresolved dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>தீர்க்கப்படாத சார்புநிலைகள்</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2995"/>
         <source>&apos;extensionName&apos; parameter is not specified</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;நீட்டிப்பு பெயர்&apos; அளவுரு குறிப்பிடப்படவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2100"/>
         <source>Installed extension %1</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவப்பட்ட நீட்டிப்பு %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2182"/>
         <source>Update extension information from server failed: timed out while waiting for server response from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையகத்திலிருந்து நீட்டிப்பு தகவல்களைப் புதுப்பிக்கவும் தோல்வியுற்றது: %1 இலிருந்து சேவையக பதிலுக்காகக் காத்திருக்கும்போது நேரம் முடிந்தது</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2237"/>
         <source>Failed to download extension metadata from server</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையகத்திலிருந்து நீட்டிப்பு மெட்டாடேட்டாவைப் பதிவிறக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2255"/>
         <source>Extension metadata response missed required &apos;extensionname&apos; field</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு மேனிலை தரவு பதில் தவறவிட்ட &apos;நீட்டிப்பு பெயர்&apos; புலம்</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2287"/>
         <source>Update check response for extension %1 missed required &apos;extension_id&apos; or &apos;revision&apos; field</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு %1 ஐத் தவறவிட்ட &apos;நீட்டிப்பு_ஐடி&apos; அல்லது &apos;திருத்தம்&apos; புலத்திற்கான காசோலை பதிலைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2298"/>
         <source>Update found for %1 extension: &apos;%2&apos; installed, &apos;%3&apos; available, </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்புக்கு புதுப்பிப்பு காணப்படுகிறது: &apos;%2&apos; நிறுவப்பட்டது, &apos;%3&apos; கிடைக்கிறது, </translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2373"/>
         <source>Failed downloading %1 extension from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 இலிருந்து %1 நீட்டிப்பைப் பதிவிறக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2389"/>
         <source>Could not create .updates directory for update archive in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 இல் புதுப்பிப்பு காப்பகத்திற்கான கோப்பகத்தை உருவாக்க முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2410"/>
         <source>Could not write file: &apos;%1&apos; (%2)</source>
         <extracomment>%1 is the path name, %2 is the error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பை எழுத முடியவில்லை: &apos;%1&apos; (%2)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2474"/>
         <source>Missing download information for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்புக்கான பதிவிறக்க தகவல்களைக் காணவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2506"/>
         <source>%1 extension scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்பு புதுப்பிக்க திட்டமிடப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2552"/>
         <source>Failed to update %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்பைப் புதுப்பிக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2559"/>
         <source>Failed to update %1 extension: it is not scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்பைப் புதுப்பிப்பதில் தோல்வி: இது புதுப்பிப்புக்கு திட்டமிடப்படவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2683"/>
         <source>Failed to uninstall %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்பை நிறுவல் நீக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2690"/>
         <source>Failed to uninstall %1 extension: extension is already loaded</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்பு நிறுவல் நீக்குவதில் தோல்வி: நீட்டிப்பு ஏற்கனவே ஏற்றப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2965"/>
         <source>Extension %1 is incompatible</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு %1 பொருந்தாது</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3189"/>
         <source>Corrupted %1 extension package</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>சிதைந்த %1 நீட்டிப்பு தொகுப்பு</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3197"/>
         <source>Failed to extract %1 extension archive %2 into directory %3</source>
         <extracomment>%1 is extension name, %2 is extension package file path, %3 is destination path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 நீட்டிப்பு காப்பகம் %2 ஐ அடைவு %3 ஆக பிரித்தெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3242"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3249"/>
         <source>Failed to copy directory %1 into directory %2</source>
-        <translation type="unfinished"></translation>
+        <translation>அடைவு %1 ஐ அடைவு %2 ஆக நகலெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3256"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3263"/>
         <source>Failed to remove directory %1</source>
-        <translation type="unfinished"></translation>
+        <translation>அடைவு %1 ஐ அகற்றுவதில் தோல்வி</translation>
     </message>
 </context>
 <context>
@@ -21185,70 +21235,70 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="14"/>
         <source>Slicer Extensions Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் நீட்டிப்பு மேலாளர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
         <source>Install Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகளை நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="271"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு மேலாளர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="415"/>
         <source>Update all (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தையும் புதுப்பிக்கவும் (%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="446"/>
         <source>Install bookmarked (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>புக்மார்க்கு செய்யப்பட்ட (%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="451"/>
         <source>Install bookmarked</source>
-        <translation type="unfinished"></translation>
+        <translation>புக்மார்க்கு நிறுவப்பட்டது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="457"/>
         <source>Manage Extensions (%1)</source>
         <extracomment>%1 represents the number of managed extensions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகளை நிர்வகிக்கவும் (%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="487"/>
         <source>Bookmarked extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>புக்மார்க்கு நீட்டிப்புகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="488"/>
         <source>List of bookmarked extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>புக்மார்க்கு செய்யப்பட்ட நீட்டிப்புகளின் பட்டியல்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="718"/>
         <source>Select extension archive file(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு காப்பக கோப்பு (கள்) என்பதைத் தேர்ந்தெடுக்கவும் ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="719"/>
         <source>Archives</source>
-        <translation type="unfinished"></translation>
+        <translation>காப்பகங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="720"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து கோப்புகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="750"/>
         <source>Install/uninstall/update operations are still in progress:</source>
         <oldsource>Install/uninstall/update operations are still in progress:
 - </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவுதல்/நிறுவல் நீக்க/புதுப்பிப்பு செயல்பாடுகள் இன்னும் நடந்து கொண்டிருக்கின்றன:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="752"/>
@@ -21256,7 +21306,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>அவர்கள் முடிக்கக் காத்திருக்க சரி என்பதைக் சொடுக்கு செய்க, அல்லது இப்போது நீட்டிப்பு மேலாளரை மூடுவதற்கு புறக்கணிக்கவும் என்பதைத் தேர்வுசெய்க.</translation>
     </message>
 </context>
 <context>
@@ -21264,32 +21314,32 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="95"/>
         <source>Slicer Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் நீட்டிப்புகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="102"/>
         <source>Extensions can not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகளை நிறுவ முடியாது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="107"/>
         <source>Extensions manager requires &lt;em&gt;3D Slicer&lt;/em&gt; to be installed. Open the disk image (.dmg) file, drag &lt;em&gt;Slicer.app&lt;/em&gt; into the the &lt;em&gt;Applications&lt;/em&gt; folder, and launch &lt;em&gt;3D Slicer&lt;/em&gt; from the &lt;em&gt;Applications&lt;/em&gt; folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு மேலாளருக்கு &lt;em&gt; 3D ச்லைசர் &lt;/em&gt; நிறுவப்பட வேண்டும். வட்டு பட (.dmg) கோப்பைத் திறந்து, &lt;em&gt; sliceer.app &lt;/em&gt; ஐ &lt;em&gt; பயன்பாடுகள் &lt;/em&gt; கோப்புறையில் இழுத்து, &lt;em&gt; 3d ச்லைசர் &lt;/em&gt; ஐ &lt;em&gt; இலிருந்து தொடங்கவும் பயன்பாடுகள் &lt;/em&gt; கோப்புறை.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="111"/>
         <source>Check that &lt;b&gt;3D Slicer&lt;/b&gt; is properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt; 3D ச்லைசர் &lt;/b&gt; சரியாக நிறுவப்பட்டுள்ளதா என்பதை சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="114"/>
         <source>Read more...</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் வாசிக்க ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="117"/>
         <source>Try Again</source>
-        <translation type="unfinished"></translation>
+        <translation>மீண்டும் முயற்சிக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -21297,99 +21347,99 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
         <source>Extensions tools</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகள் கருவிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="144"/>
         <source>Query the Extensions Server if there are updates for any of the installed extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவப்பட்ட நீட்டிப்புகளில் ஏதேனும் புதுப்பிப்புகள் இருந்தால் நீட்டிப்பு சேவையகத்தை வினவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="23"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="141"/>
         <source>Check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளை சரிபார்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="38"/>
         <source>Updates all extensions with the latest version available on the Extensions Server</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு சேவையகத்தில் கிடைக்கும் அண்மைக் கால பதிப்போடு அனைத்து நீட்டிப்புகளையும் புதுப்பிக்கிறது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="41"/>
         <source>Update all</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தையும் புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="56"/>
         <source>Install all the bookmarked extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>புக்மார்க்கு நீட்டிக்கப்பட்ட அனைத்து நீட்டிப்புகளையும் நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="59"/>
         <source>Install bookmarked</source>
-        <translation type="unfinished"></translation>
+        <translation>புக்மார்க்கு நிறுவப்பட்டது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="74"/>
         <source>Install extensions from one or more extension package files</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒன்று அல்லது அதற்கு மேற்பட்ட நீட்டிப்பு தொகுப்பு கோப்புகளிலிருந்து நீட்டிப்புகளை நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="122"/>
         <source>Automatically check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளை தானாக சரிபார்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="125"/>
         <source>Periodically check for updated extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிக்கப்பட்ட நீட்டிப்புகளை அவ்வப்போது சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="133"/>
         <source>Automatically install updates</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளை தானாக நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="136"/>
         <source>Automatically install updated extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிக்கப்பட்ட நீட்டிப்புகளை தானாக நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="149"/>
         <source>Edit bookmarks...</source>
-        <translation type="unfinished"></translation>
+        <translation>புக்மார்க்குகளைத் திருத்து ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="152"/>
         <source>Edit list of bookmarks in a text field</source>
-        <translation type="unfinished"></translation>
+        <translation>உரை புலத்தில் புக்மார்க்குகளின் பட்டியலைத் திருத்தவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="157"/>
         <source>Open Extensions Catalog website...</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த நீட்டிப்புகள் பட்டியல் வலைத்தளம் ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="160"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை வலை உலாவியில் நீட்டிப்புகள் பட்டியல் வலைத்தளத்தைத் திறக்கவும். இணைப்பில்லாத பயன்பாட்டிற்கான நீட்டிப்பு தொகுப்புகளைப் பதிவிறக்குவதற்கு பயனுள்ளதாக இருக்கும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="168"/>
         <source>Automatically install dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>தானாகவே சார்புகளை நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="171"/>
         <source>Automatically install required additional extensions when installing an extension</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பை நிறுவும் போது தானாகவே கூடுதல் நீட்டிப்புகளை நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="77"/>
         <source>Install from file...</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பிலிருந்து நிறுவவும் ...</translation>
     </message>
 </context>
 <context>
@@ -21397,7 +21447,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="78"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தும்</translation>
     </message>
 </context>
 <context>
@@ -21405,62 +21455,62 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="80"/>
         <source>128 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>128 எம்பி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="81"/>
         <source>256 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>256 எம்பி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="82"/>
         <source>512 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>512 எம்பி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="83"/>
         <source>1024 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>1024 எம்பி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="84"/>
         <source>1.5 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 சிபி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="85"/>
         <source>2 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>2 சிபி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="86"/>
         <source>3 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>3 சிபி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="87"/>
         <source>4 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>4 சிபி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="88"/>
         <source>6 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>6 சிபி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="89"/>
         <source>8 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>8 சிபி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="90"/>
         <source>12 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>12 சிபி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="91"/>
         <source>16 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>16 சிபி</translation>
     </message>
 </context>
 <context>
@@ -21468,43 +21518,43 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="14"/>
         <source>GPU RayCast</source>
-        <translation type="unfinished"></translation>
+        <translation>சி.பீ.யூ ரெய்காச்ட்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished"></translation>
+        <translation>நுட்பம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
         <source>Select ray casting technique for the views where the current volume is visible</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய தொகுதி தெரியும் காட்சிகளுக்கு ரே வார்ப்பு நுட்பத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="46"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="56"/>
         <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-        <translation type="unfinished"></translation>
+        <translation>ரேச்காச்டிங்கிற்கு சீரற்ற சத்தத்தைப் பயன்படுத்துவதன் மூலம் மர-தானிய கலைப்பொருட்களை அகற்றுவதற்கான விருப்பம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="49"/>
         <source>Surface smoothing:</source>
-        <translation type="unfinished"></translation>
+        <translation>மேற்பரப்பு மென்மையாக்குதல்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="76"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>நிழலுடன் கூட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="78"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்ச தீவிரம் திட்டம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="80"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>குறைந்தபட்ச தீவிரம் திட்டம்</translation>
     </message>
 </context>
 <context>
@@ -21512,63 +21562,63 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="97"/>
         <source>Loading file... </source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு ஏற்றுகிறது ... </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="97"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="98"/>
         <source>Loading ...</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுகிறது ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="320"/>
         <source>Select a reader</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு வாசகரைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் தரவைப் பயன்படுத்த வாசகரைத் தேர்ந்தெடுக்கவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
         <source>Loading file </source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு ஏற்றுகிறது </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
         <source>Adding data succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவைச் சேர்ப்பது செய் பெற்றது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="592"/>
         <source>The selected files were loaded successfully but errors or warnings were reported.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட கோப்புகள் வெற்றிகரமாக ஏற்றப்பட்டன, ஆனால் பிழைகள் அல்லது எச்சரிக்கைகள் தெரிவிக்கப்பட்டன.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="596"/>
         <source>Adding data failed</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவைச் சேர்ப்பது தோல்வியடைந்தது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="598"/>
         <source>Error occurred while loading the selected files.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட கோப்புகளை ஏற்றும்போது பிழை ஏற்பட்டது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="603"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;விவரங்களைக் காட்டு&apos; பொத்தானைக் சொடுக்கு செய்து, மேலும் தகவலுக்கு பயன்பாட்டு பதிவை சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="610"/>
         <source>Check the application log for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் தகவலுக்கு விண்ணப்ப பதிவை சரிபார்க்கவும்.</translation>
     </message>
 </context>
 <context>
@@ -21580,27 +21630,27 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
         <source>Labelmap Volume Display Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப் தொகுதி காட்சி பண்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="32"/>
         <source>When displaying the label map with the outline/not filled option, this controls the width of the outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>சிட்டை வரைபடத்தை அவுட்லைன்/நிரப்பப்படாத விருப்பத்துடன் காண்பிக்கும் போது, இது அவுட்லைனின் அகலத்தைக் கட்டுப்படுத்துகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="35"/>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation> பி.எக்ச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="64"/>
         <source>Lookup Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடல் அட்டவணை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="71"/>
         <source>Label Outline &amp;Thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>சிட்டை அவுட்லைன் &amp; தடிமன்:</translation>
     </message>
 </context>
 <context>
@@ -21608,12 +21658,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateFooBarWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபூ பார்</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபூ பார்</translation>
     </message>
 </context>
 <context>
@@ -21621,7 +21671,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="42"/>
         <source>qSlicerLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation>qslicerloadablemoduletemplateModule</translation>
     </message>
 </context>
 <context>
@@ -21633,12 +21683,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerLoadableModuleTemplate</source>
-        <translation type="unfinished"></translation>
+        <translation>Sliceerloadablemoduletemplate</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="20"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி</translation>
     </message>
 </context>
 <context>
@@ -21646,821 +21696,821 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="63"/>
         <source>Data Probe</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவு ஆய்வு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="76"/>
         <source>Load/Save</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்ற/சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="90"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="530"/>
         <source>Favorite Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>பிடித்த தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="101"/>
         <source>Undo Redo ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>கருவிப்பட்டியை மீண்டும் செயல்தவிர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="112"/>
         <source>Layout Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>தளவமைப்பு தேர்வு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="126"/>
         <source>Mouse Interaction</source>
-        <translation type="unfinished"></translation>
+        <translation>சுட்டி தொடர்பு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="140"/>
         <source>Capture/Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>பிடிக்கவும்/மீட்டமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="151"/>
         <source>Crosshair Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்கு நாற்காலி தேர்வு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="162"/>
         <source>Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="174"/>
         <source>Layout ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>தளவமைப்பு கருவிப்பட்டி</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="221"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு (&amp;f)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="225"/>
         <source>Recent</source>
         <oldsource>Recently Loaded</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>அண்மைக் கால</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="239"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>திருத்து (&amp;e)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="252"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>காண்க (&amp;v)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="256"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="369"/>
         <source>Layout</source>
-        <translation type="unfinished">தளவமைப்பு</translation>
+        <translation>மனையமைவு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="294"/>
         <source>&amp;Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; கருவிப்பட்டிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="299"/>
         <source>&amp;Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; தோற்றம்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="315"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>உதவி (&amp;h)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="329"/>
         <source>Load Scene</source>
-        <translation type="unfinished"></translation>
+        <translation>சுமை காட்சி</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="332"/>
         <source>Raise a file browser to select a scene (mrml, xcat or xml) to load. It first clears any existing scene in Slicer and resets the application state.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுவதற்கு ஒரு காட்சியை (எம்.ஆர்.எம்.எல், எக்ச்.சி.ஏ.டி அல்லது எக்ச்எம்எல்) தேர்ந்தெடுக்க ஒரு கோப்பு உலாவியை உயர்த்தவும். இது முதலில் ச்லைசரில் இருக்கும் எந்த காட்சியையும் அழித்து விண்ணப்ப நிலையை மீட்டமைக்கிறது.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="341"/>
         <source>Load Data</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவை ஏற்றவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="344"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="383"/>
         <source>Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதுள்ள காட்சியில் சேர்க்க தனிப்பட்ட தரவுத்தொகுப்புகளைத் தேர்ந்தெடுக்க உங்களை அனுமதிக்கும் &quot;தரவைச் சேர்&quot; விட்செட்டை உயர்த்தவும். பல வேறுபட்ட தரவு வகைகளை ஒரே நேரத்தில் (தொகுதிகள், மாதிரிகள் போன்றவை) ஏற்ற விரும்பும் போது இந்த சுமை விருப்பம் மிகவும் பயனுள்ளதாக இருக்கும், இது ஒரு காட்சி கோப்பால் இன்னும் விவரிக்கப்படவில்லை.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="353"/>
         <source>Load DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>டிகாம் ஏற்றவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="356"/>
         <source>Raise the DICOM module for loading DICOM datasets.</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM தரவுத்தொகுப்புகளை ஏற்றுவதற்கான DICOM தொகுதியை உயர்த்தவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="368"/>
         <source>Import Scene</source>
-        <translation type="unfinished"></translation>
+        <translation>இறக்குமதி காட்சி</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="371"/>
         <source>Raise a file browser to navigate and select a scene file to be added to the existing scene. The scene is not cleared.</source>
-        <translation type="unfinished"></translation>
+        <translation>செல்ல ஒரு கோப்பு உலாவியை உயர்த்தி, இருக்கும் காட்சியில் சேர்க்க ஒரு காட்சி கோப்பைத் தேர்ந்தெடுக்கவும். காட்சி அழிக்கப்படவில்லை.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="380"/>
         <source>&amp;Add Data</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; தரவைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="386"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+o</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="395"/>
         <source>Add Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="398"/>
         <source>Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதுள்ள காட்சியைச் சேர்க்க ஒரு அளவீட்டு தரவுத்தொகுப்பைத் தேர்ந்தெடுக்க உங்களை அனுமதிக்கும் &quot;தொகுதி சேர்&quot; விட்செட்டை உயர்த்தவும். தேர்ந்தெடுக்கப்பட்ட தரவுத்தொகுப்பை எவ்வாறு ஏற்றி காண்பிக்க வேண்டும் என்பதை தெளிவுபடுத்த &quot;தொகுதி விருப்பங்கள்&quot; குழு பயன்படுத்தப்படலாம்.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="407"/>
         <source>Add Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றம் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="410"/>
         <source>Raise a standard file browser that allows you to select a transform to the existing scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு நிலையான கோப்பு உலாவியை உயர்த்துங்கள், இது இருக்கும் காட்சிக்கு ஒரு மாற்றத்தைத் தேர்ந்தெடுக்க உங்களை அனுமதிக்கிறது.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="659"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>சேமி</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="422"/>
         <source>Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;தரவைச் சேமி&quot; விட்செட்டைக் காண்பி, இது ஒரு காட்சி மற்றும்/அல்லது தனிப்பட்ட தரவுத்தொகுப்புகளைச் சேமிக்க பல விருப்பங்களை வழங்குகிறது.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="425"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+s</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="434"/>
         <source>Save Scene To Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியை கோப்பகத்திற்கு சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="437"/>
         <source>UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுமானத்தின் கீழ்: தற்போதைய காட்சியை தனியாக ஒரு கோப்பகத்திற்கு சேமிக்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="446"/>
         <source>Save Scene to MRB File</source>
-        <translation type="unfinished"></translation>
+        <translation>MRB கோப்பில் காட்சியை சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="449"/>
         <source>Create a Medical Reality Bundle containing the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியைக் கொண்ட ஒரு மருத்துவ ரியாலிட்டி மூட்டையை உருவாக்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="458"/>
         <source>Close Scene</source>
-        <translation type="unfinished">மூடு காட்சி</translation>
+        <translation>காட்சி மூடு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="461"/>
         <source>Close the current scene and reset the application state. </source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய காட்சியை மூடி, விண்ணப்ப நிலையை மீட்டமைக்கவும். </translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="464"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+w</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="469"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியேறு (&amp;x)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="472"/>
         <source>Quit the application</source>
-        <translation type="unfinished"></translation>
+        <translation>விண்ணப்பத்தை விட்டு வெளியேறவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="481"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்தவிர்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="484"/>
         <source>Undo the history of undoable commands, from last to first.</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்தவிர்க்க முடியாத கட்டளைகளின் வரலாற்றை செயல்தவிர்க்கவும், கடைசி முதல் முதல் வரை.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="487"/>
         <source>Ctrl+Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+z</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="496"/>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>மீண்டும்செய்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="499"/>
         <source>Redo the history of commands most recently undone, from last to first.</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டளைகளின் வரலாற்றை மீண்டும் அண்மைக் காலத்தில் செயல்தவிர்க்கவில்லை, கடைசியாக முதல் முதல் வரை.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="502"/>
         <source>Ctrl+Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+மற்றும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="419"/>
         <source>Save Data</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவைச் சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="23"/>
         <source>Module Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி குழு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு மேலாளர்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="514"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>கிடைக்கக்கூடிய நீட்டிப்புகள் பற்றிய நிலை மற்றும் தகவல்களை வழங்கும் &quot;நீட்டிப்பு மேலாளர்&quot; வழிகாட்டியை உயர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="517"/>
         <source>Ctrl+4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+4</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="522"/>
         <source>Cache &amp; Remote I/O Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>கேச் மற்றும் தொலைநிலை I/O மேலாளர்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="525"/>
         <source>The Cache and Remote Data Handling interface provides status and information about all remote data transfers, and allows some control over the local cache.</source>
-        <translation type="unfinished"></translation>
+        <translation>கேச் மற்றும் தொலைநிலை தரவு கையாளுதல் இடைமுகம் அனைத்து தொலைநிலை தரவு இடமாற்றங்கள் பற்றிய நிலை மற்றும் தகவல்களை வழங்குகிறது, மேலும் உள்ளக தற்காலிக சேமிப்பில் சில கட்டுப்பாட்டை அனுமதிக்கிறது.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="533"/>
         <source>Open settings to the Modules panel where Favorite Modules can be defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிடித்த தொகுதிகள் வரையறுக்கக்கூடிய தொகுதிகள் குழுவில் அமைப்புகளைத் திறக்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="542"/>
         <source>Application Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டு அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="545"/>
         <source>The Application Settings provides options for controlling the application&apos;s user interface preferences into the application registry, so they are preserved across sessions.</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டு அமைப்புகள் பயன்பாட்டு பதிவேட்டில் பயன்பாட்டின் பயனர் இடைமுக விருப்பங்களை கட்டுப்படுத்துவதற்கான விருப்பங்களை வழங்குகிறது, எனவே அவை அமர்வுகள் முழுவதும் பாதுகாக்கப்படுகின்றன.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="548"/>
         <source>Ctrl+2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+2</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="557"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>வெட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="560"/>
         <source>Cut currently selected item and place in clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போது தேர்ந்தெடுக்கப்பட்ட உருப்படி மற்றும் கிளிப்போர்டில் இடத்தை வெட்டுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="563"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+x</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="572"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>நகலெடு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="575"/>
         <source>Copy currently selected item to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போது தேர்ந்தெடுக்கப்பட்ட உருப்படியை கிளிப்போர்டுக்கு நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="578"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+c</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="587"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="590"/>
         <source>Paste the current contents of the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிப்போர்டின் தற்போதைய உள்ளடக்கங்களை ஒட்டவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="593"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+v</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="604"/>
         <source>&amp;Maximize view</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; பார்வையை அதிகரிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="607"/>
         <source>Maximize/Minimize the current view.</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய பார்வையை அதிகரிக்க/குறைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="610"/>
         <source>Ctrl+6</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+6</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="438"/>
         <source>&amp;Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; பிழை பதிவு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="440"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="615"/>
         <source>Feedback: report usability issue (www)</source>
-        <translation type="unfinished"></translation>
+        <translation>கருத்து: பயன்பாட்டினைப் புகாரளிக்கவும் (www)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="618"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to report any usability issues and make suggestions how to address them.</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்தவொரு பயன்பாட்டு சிக்கல்களையும் புகாரளிக்க ச்லைசர் மன்றத்தில் (https://discourse.slicer.org) ஒரு தலைப்பை உருவாக்கவும், அவற்றை எவ்வாறு எதிர்கொள்வது என்பதை பரிந்துரைகள் செய்யவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="623"/>
         <source>Feedback: make a feature request (www)</source>
-        <translation type="unfinished"></translation>
+        <translation>கருத்து: அம்ச கோரிக்கையை உருவாக்குங்கள் (www)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="626"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to request a new feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய அம்சத்தைக் கோர ச்லைசர் மன்றத்தில் (https://discourse.slicer.org) ஒரு தலைப்பை உருவாக்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="631"/>
         <source>Load Module</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி சுமை</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="640"/>
         <source>Conventional</source>
-        <translation type="unfinished"></translation>
+        <translation>வழக்கமான</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="652"/>
         <source>Four-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>நான்கு-அப்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="664"/>
         <source>Dual 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>இரட்டை 3 டி</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="676"/>
         <source>3D only</source>
-        <translation type="unfinished"></translation>
+        <translation>3 டி மட்டும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="688"/>
         <source>3D Table</source>
-        <translation type="unfinished"></translation>
+        <translation>3 டி அட்டவணை</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="700"/>
         <source>Red slice only</source>
-        <translation type="unfinished"></translation>
+        <translation>சிவப்பு துண்டு மட்டுமே</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="712"/>
         <source>Yellow slice only</source>
-        <translation type="unfinished"></translation>
+        <translation>மஞ்சள் துண்டு மட்டுமே</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="724"/>
         <source>Green slice only</source>
-        <translation type="unfinished"></translation>
+        <translation>பச்சை துண்டு மட்டுமே</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="736"/>
         <source>Tabbed 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>தாவலாக்கப்பட்ட 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="748"/>
         <source>Tabbed slice</source>
-        <translation type="unfinished"></translation>
+        <translation>தாவலாக்கப்பட்ட துண்டு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="760"/>
         <source>Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒப்பிடுக</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="772"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="775"/>
         <source>Compare Widescreen</source>
-        <translation type="unfinished"></translation>
+        <translation>அகலத்திரை ஒப்பிடுக</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="787"/>
         <source>Two over two</source>
-        <translation type="unfinished"></translation>
+        <translation>இரண்டு ஓவர் இரண்டு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="790"/>
         <source>Two over Two Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>இரண்டு தளவமைப்புக்கு மேல் இரண்டு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="802"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>வீடு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="805"/>
         <source>Favorite module for easy access</source>
-        <translation type="unfinished"></translation>
+        <translation>எளிதான அணுகலுக்கான பிடித்த தொகுதி</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="808"/>
         <source>Ctrl+H</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+h</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="820"/>
         <source>Conventional Widescreen</source>
-        <translation type="unfinished"></translation>
+        <translation>வழக்கமான அகலத்திரை</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="829"/>
         <source>Triple 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>டிரிபிள் 3 டி</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="838"/>
         <source>Three over three</source>
-        <translation type="unfinished"></translation>
+        <translation>மூன்று ஓவர் மூன்று</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="847"/>
         <source>Four over four</source>
-        <translation type="unfinished"></translation>
+        <translation>நான்கு ஓவர் நான்கு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="856"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="919"/>
         <source>2 viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>2 பார்வையாளர்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="865"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="928"/>
         <source>3 viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>3 பார்வையாளர்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="874"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="937"/>
         <source>4 viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>4 பார்வையாளர்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="883"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="946"/>
         <source>5 viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>5 பார்வையாளர்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="892"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="955"/>
         <source>6 viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>6 பார்வையாளர்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="901"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="964"/>
         <source>7 viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>7 பார்வையாளர்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="910"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="973"/>
         <source>8 viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>8 பார்வையாளர்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="982"/>
         <source>Compare Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டத்தை ஒப்பிடுக</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="991"/>
         <source>2x2 viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>2x2 பார்வையாளர்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1000"/>
         <source>3x3 viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>3x3 பார்வையாளர்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1009"/>
         <source>4x4 viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>4x4 பார்வையாளர்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1014"/>
         <source>Record Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவு மேக்ரோ</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1022"/>
         <source>Play Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>மேக்ரோ நாடகம்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1034"/>
         <source>Side by side</source>
-        <translation type="unfinished"></translation>
+        <translation>அருகருகே</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1043"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1046"/>
         <source>Four by three slice</source>
-        <translation type="unfinished"></translation>
+        <translation>நான்கு துண்டுகளால் நான்கு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1055"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1058"/>
         <source>Four by two slice</source>
-        <translation type="unfinished"></translation>
+        <translation>நான்கு இரண்டு துண்டுகளால்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1067"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1070"/>
         <source>Five by two slice</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐந்து துண்டுகளால் ஐந்து</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1079"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1082"/>
         <source>Three by three slice</source>
-        <translation type="unfinished"></translation>
+        <translation>மூன்று துண்டுகளால் மூன்று</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1091"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1094"/>
         <source>Dual-monitor Four-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>இரட்டை மானிட்டர் ஃபோர்-அப்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1103"/>
         <source>Plot only</source>
-        <translation type="unfinished"></translation>
+        <translation>சூழ்ச்சி மட்டும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1106"/>
         <source>Plot view</source>
-        <translation type="unfinished"></translation>
+        <translation>சூழ்ச்சி பார்வை</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1118"/>
         <source>Four-Up Plot</source>
-        <translation type="unfinished"></translation>
+        <translation>நான்கு-அப் சூழ்ச்சி</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1121"/>
         <source>Three slices and a plot in four-Up layout</source>
-        <translation type="unfinished"></translation>
+        <translation>மூன்று துண்டுகள் மற்றும் நான்கு-அப் தளவமைப்பில் ஒரு சூழ்ச்சி</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1133"/>
         <source>Conventional Plot</source>
-        <translation type="unfinished"></translation>
+        <translation>வழக்கமான சூழ்ச்சி</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1136"/>
         <source>Conventional three slices and 3D view with an additional plot</source>
-        <translation type="unfinished"></translation>
+        <translation>வழக்கமான மூன்று துண்டுகள் மற்றும் கூடுதல் சதித்திட்டத்துடன் 3D பார்வை</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1148"/>
         <source>Three over three Plot</source>
-        <translation type="unfinished"></translation>
+        <translation>மூன்று சதித்திட்டங்களுக்கு மேல் மூன்று</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1151"/>
         <source>Three plots over three slices</source>
-        <translation type="unfinished"></translation>
+        <translation>மூன்று துண்டுகளுக்கு மேல் மூன்று அடுக்குகள்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1160"/>
         <source>Four-Up Table</source>
-        <translation type="unfinished"></translation>
+        <translation>நான்கு-அப் அட்டவணை</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1169"/>
         <source>Four-Up Quantitative</source>
-        <translation type="unfinished"></translation>
+        <translation>நான்கு-அப் அளவு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1172"/>
         <source>Four-up slice and 3D view with an additional table and plot</source>
-        <translation type="unfinished"></translation>
+        <translation>நான்கு-அப் ச்லைச் மற்றும் கூடுதல் அட்டவணை மற்றும் சதித்திட்டத்துடன் 3D பார்வை</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1177"/>
         <source>Reset to default</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலைக்கு மீட்டமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1188"/>
         <source>Show Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலை பட்டியைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="158"/>
         <source>Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</source>
-        <translation type="unfinished"></translation>
+        <translation>GUI பேனலை சரிவு/விரிவுபடுத்துதல் மற்றும் ச்லைசரின் பார்வையாளர்களை முழு பயன்பாட்டு சாளரத்தையும் ஆக்கிரமிக்க அனுமதிக்கிறது</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="315"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="329"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="343"/>
         <source>Select number of viewers...</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வையாளர்களின் எண்ணிக்கையைத் தேர்ந்தெடுக்கவும் ...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="156"/>
         <source>Show &amp;Module Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்டு &amp; தொகுதி குழு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="184"/>
         <source>Module Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி தேர்வு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="429"/>
         <source>Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை பதிவு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="439"/>
         <source>Show/hide Error Log window</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை பதிவு சாளரத்தைக் காட்டவும்/மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="463"/>
         <source>Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>பைதான் கன்சோல்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="475"/>
         <source>Slicer Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் பைதான் கன்சோல்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="486"/>
         <source>&amp;Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; பைதான் கன்சோல்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="487"/>
         <source>Show Python Console window for controlling the application&apos;s data, user interface, and internals</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டின் தரவு, பயனர் இடைமுகம் மற்றும் உள் ஆகியவற்றைக் கட்டுப்படுத்த பைதான் கன்சோல் சாளரத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="489"/>
         <source>Ctrl+3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+3</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="489"/>
         <source>Ctrl+`</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+`</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="589"/>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>வரலாற்றை அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="648"/>
         <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="unfinished"></translation>
+        <translation>சில தரவு மாற்றியமைக்கப்பட்டுள்ளது. வெளியேறுவதற்கு முன்பு அவற்றைச் சேமிக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="652"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி மாற்றியமைக்கப்பட்டுள்ளது. வெளியேறுவதற்கு முன்பு அதை சேமிக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="657"/>
         <source>Save before exit?</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியேறுவதற்கு முன் சேமிக்கவா?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="661"/>
         <source>Exit (discard modifications)</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியேறு (மாற்றங்களை நிராகரிக்கவும்)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="663"/>
         <source>Cancel exit</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியேறுவதை ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="693"/>
         <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation type="unfinished"></translation>
+        <translation>சில தரவு மாற்றியமைக்கப்பட்டுள்ளது. காட்சியை மூடுவதற்கு முன்பு அவற்றைக் காப்பாற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="697"/>
         <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி மாற்றியமைக்கப்பட்டுள்ளது. காட்சியை மூடுவதற்கு முன்பு அதை சேமிக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="707"/>
         <source>Save before closing scene?</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியை மூடுவதற்கு முன் சேமிக்கவா?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="712"/>
         <source>Close scene (discard modifications)</source>
-        <translation type="unfinished"></translation>
+        <translation>நெருக்கமான காட்சி (மாற்றங்களை நிராகரிக்கவும்)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="713"/>
         <source>Save scene</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியை சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="985"/>
         <source>Slicer Data Bundle Directory (Select Empty Directory)</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் தரவு மூட்டை அடைவு (வெற்று கோப்பகத்தைத் தேர்ந்தெடுக்கவும்)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1017"/>
         <source>Save Data Bundle File</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவு மூட்டை கோப்பை சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1018"/>
         <source>Medical Reality Bundle (*.mrb)</source>
-        <translation type="unfinished"></translation>
+        <translation>மருத்துவ ரியாலிட்டி மூட்டை (*.MRB)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1049"/>
         <source>MRML Scene</source>
-        <translation type="unfinished"></translation>
+        <translation>எம்.ஆர்.எம்.எல் காட்சி</translation>
     </message>
 </context>
 <context>
@@ -22470,320 +22520,320 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="142"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="55"/>
         <source>Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
         <source>Create Markups:</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்களை உருவாக்கு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="81"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="93"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் பிரிவில் தேர்ந்தெடுக்கப்பட்ட வண்ண அட்டவணைக்கான வண்ண புராணக்கதை.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="96"/>
         <source>Color Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண புராணக்கதை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய காட்சி சொத்து அமைப்புகளை இயல்புநிலைக்கு சேமிக்கவும், ச்லைசர் மறுதொடக்கம் செய்யும்போது சேமிக்கப்படும் (பயன்பாட்டு அமைப்புகளைப் பார்க்கவும்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
         <source>Save to Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலைகளில் சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="123"/>
         <source>Use default display properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை காட்சி பண்புகளைப் பயன்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="126"/>
         <source>Reset to Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலைகளுக்கு மீட்டமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="138"/>
         <source>Control Points</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="147"/>
         <source>Interaction: </source>
-        <translation type="unfinished"></translation>
+        <translation>தொடர்பு: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="174"/>
         <source>Enable/disable all interactions in slice and 3D views.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் மற்றும் 3 டி காட்சிகளில் அனைத்து தொடர்புகளையும் இயக்கவும்/முடக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="206"/>
         <source>Lock the number of points allowed in the active markup.</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள மார்க்அப்பில் அனுமதிக்கப்பட்ட புள்ளிகளின் எண்ணிக்கையை பூட்டுங்கள்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="222"/>
         <source>Jump Slices:</source>
-        <translation type="unfinished"></translation>
+        <translation>சம்ப் துண்டுகள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="235"/>
         <source>Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆஃப்செட்: ச்லைச் விமான நிலையை அமைக்கவும். மையப்படுத்தப்பட்ட: ச்லைச் விமான நிலையை அமைத்து, கட்டுப்பாட்டு புள்ளியில் துண்டு காட்சியை மையப்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="239"/>
         <source>none</source>
-        <translation type="unfinished"></translation>
+        <translation>எதுவுமில்லை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="244"/>
         <source>offset</source>
-        <translation type="unfinished"></translation>
+        <translation>ஈடுசெய்யும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="249"/>
         <source>centered</source>
-        <translation type="unfinished"></translation>
+        <translation>மையப்படுத்தப்பட்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
         <source>Show Slice Intersections:</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் குறுக்குவெட்டுகளைக் காட்டு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished"></translation>
+        <translation>மற்ற ச்லைச் விமானங்கள் ஒவ்வொரு துண்டு விமானத்தையும் எவ்வாறு வெட்டுகின்றன என்பதைக் காட்டுங்கள்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="294"/>
         <source>Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</source>
-        <translation type="unfinished"></translation>
+        <translation>பட்டியலில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளிலும் தெரிவுநிலை கொடியை மாற்றவும். அனைத்தையும் காணக்கூடிய அல்லது கண்ணுக்கு தெரியாததாக அமைக்க கீழ்தோன்றும் மெனுவைப் பயன்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="319"/>
         <source>Toggle selected flag on all control points in the list. Use the drop down menu to set all to selected or deselected.</source>
-        <translation type="unfinished"></translation>
+        <translation>பட்டியலில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளிலும் தேர்ந்தெடுக்கப்பட்ட கொடியை மாற்றவும். அனைத்தையும் தேர்ந்தெடுக்கப்பட்ட அல்லது தேர்ந்தெடுக்கப்பட்டதாக அமைக்க கீழ்தோன்றும் மெனுவைப் பயன்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="344"/>
         <source>Toggle lock flag on all control points in the list. Use the drop down menu to set all to locked or unlocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>பட்டியலில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளிலும் பூட்டு கொடியை மாற்றவும். அனைத்தையும் பூட்டிய அல்லது திறக்கும்படி அமைக்க கீழ்தோன்றும் மெனுவைப் பயன்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="372"/>
         <source>Skip placement of highlighted control point(s) from the active list (will clear current position).</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள பட்டியலிலிருந்து சிறப்பம்சமாக கட்டுப்பாட்டு புள்ளி (களை) வைப்பதைத் தவிர்க்கவும் (தற்போதைய நிலையை அழிக்கும்).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="407"/>
         <source>Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள பட்டியலிலிருந்து சிறப்பம்சமாக கட்டுப்பாட்டு புள்ளி (கள்) நிலையை அழிக்கவும் (கட்டுப்பாட்டு புள்ளிகள் நீக்கப்படாது).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="442"/>
         <source>Delete the highlighted control point(s) from the active list</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள பட்டியலிலிருந்து சிறப்பிக்கப்பட்ட கட்டுப்பாட்டு புள்ளி (களை) நீக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="477"/>
         <source>Remove all control points from the active list</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள பட்டியலிலிருந்து அனைத்து கட்டுப்பாட்டு புள்ளிகளையும் அகற்று</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="491"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>வெட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="501"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>நகலெடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="511"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="520"/>
         <source>Coordinates:  </source>
-        <translation type="unfinished"></translation>
+        <translation>ஒருங்கிணைப்புகள்:  </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="533"/>
         <source>Set visibility and coordinate system of control point positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளி நிலைகளின் தெரிவுநிலையை அமைத்து ஒருங்கிணைத்தல்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="537"/>
         <source>World</source>
-        <translation type="unfinished"></translation>
+        <translation>உலகம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="542"/>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளக</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="547"/>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>மறை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="567"/>
         <source>The control points in the currently active markups node. Right click in a row for delete, jump, copy, move.</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போது செயலில் உள்ள மார்க்அப்ச் முனையில் கட்டுப்பாட்டு புள்ளிகள். நீக்க, சம்ப், நகல், நகர்த்த ஒரு வரிசையில் வலது சொடுக்கு செய்யவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="570"/>
         <source>active markup control point table</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் மார்க்அப் கட்டுப்பாட்டு புள்ளி அட்டவணை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="583"/>
         <source>Display, naming, volume interactions, moving up/down, adding</source>
         <oldsource>Display, naming, volume interactions, moving up/down, adding, Annotations import</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி, பெயரிடுதல், தொகுதி இடைவினைகள், மேலே/கீழ் நகரும், சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="586"/>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="886"/>
         <source>Advanced</source>
-        <translation type="unfinished">மேம்படுத்தபட்ட</translation>
+        <translation>மேம்பட்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="615"/>
         <source>Move a highlighted control point up one spot in the list</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு சிறப்பம்சமாக கட்டுப்பாட்டு புள்ளியை பட்டியலில் ஒரு இடத்தை நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="647"/>
         <source>Move a highlighted control point down one spot in the list</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறப்பம்சமாக கட்டுப்பாட்டு புள்ளியை பட்டியலில் ஒரு இடத்தை நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="679"/>
         <source>Add a new control point to the active list, at origin</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள பட்டியலில் புதிய கட்டுப்பாட்டு புள்ளியைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="692"/>
         <source>Naming</source>
-        <translation type="unfinished"></translation>
+        <translation>நமி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="698"/>
         <source>Include %N for list name, %d for number.</source>
-        <translation type="unfinished"></translation>
+        <translation>பட்டியல் பெயருக்கு %n, எண்ணுக்கு %d ஆகியவை அடங்கும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="701"/>
         <source>Name Format</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர் வடிவம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="708"/>
         <source>Format for creating names of new control points, using sprintf format style. %N is replaced by the list name, %S is replaced by the markup&apos;s short name and %d by an integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்பிரிண்ட்ஃப் வடிவமைப்பு பாணியைப் பயன்படுத்தி, புதிய கட்டுப்பாட்டு புள்ளிகளின் பெயர்களை உருவாக்குவதற்கான வடிவம். %N பட்டியல் பெயரால் மாற்றப்படுகிறது, %s மார்க்அப்பின் குறுகிய பெயரால் மாற்றப்படுகிறது மற்றும் %d ஒரு முழு எண்ணால் மாற்றப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="715"/>
         <source>Reset the name format field to the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை மதிப்புக்கு பெயர் வடிவமைப்பு புலத்தை மீட்டமைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="718"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>மீட்டமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="725"/>
         <source>Rename all control points in this list according to the current name format, trying to preserve numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த பட்டியலில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளையும் தற்போதைய பெயர் வடிவமைப்பின் படி மறுபெயரிடுங்கள், எண்களைப் பாதுகாக்க முயற்சிக்கிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="728"/>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="879"/>
         <source>Apply</source>
-        <translation type="unfinished">விண்ணப்பிக்கவும்</translation>
+        <translation>இடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="747"/>
         <source>Measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவீடுகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="756"/>
         <source>No measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவீட்டு இல்லை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="763"/>
         <source>Measurement settings</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவீட்டு அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="823"/>
         <source>Export/import Table</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி/இறக்குமதி அட்டவணை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="832"/>
         <source>Operation:</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்பாடு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="841"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="848"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>இறக்குமதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="857"/>
         <source>Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="913"/>
         <source>Export coordinate system:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி ஒருங்கிணைப்பு அமைப்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="922"/>
         <source>RAS</source>
-        <translation type="unfinished"></translation>
+        <translation>ராச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="929"/>
         <source>LPS</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்.பி.எச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="202"/>
         <source>A module to create and manage markups in 2D and 3D. This module replaced the former Annotations module.</source>
-        <translation type="unfinished"></translation>
+        <translation>2d மற்றும் 3d இல் மார்க்அப்களை உருவாக்கி நிர்வகிப்பதற்கான ஒரு தொகுதி. இந்த தொகுதி முன்னாள் சிறுகுறிப்பு தொகுதியை மாற்றியது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="212"/>
         <source>This work was supported by NAMIC, NAC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலையை நமிக், என்ஏசி மற்றும் ச்லைசர் சமூகம் ஆதரித்தன.</translation>
     </message>
 </context>
 <context>
@@ -22791,148 +22841,148 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="268"/>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>விழிமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="298"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="301"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>பூட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="326"/>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>பூட்டப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="200"/>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரியும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3205"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>விவரம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>R</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="204"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="205"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="271"/>
         <source>Visibility On</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரிவுநிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="272"/>
         <source>Set visibility flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள மார்க்அப்பில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளுக்கும் தெரிவுநிலை கொடியை அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="280"/>
         <source>Visibility Off</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரிவுநிலை முடக்கப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="281"/>
         <source>Set visibility flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள மார்க்அப்பில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளுக்கும் தெரிவுநிலை கொடியை அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="302"/>
         <source>Set lock flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள மார்க்அப்பில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளுக்கும் பூட்டு கொடியை அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="309"/>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>திறக்க</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="310"/>
         <source>Set lock flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள மார்க்அப்பில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளுக்கும் பூட்டு கொடியை அணைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="329"/>
         <source>Selected On</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="330"/>
         <source>Set selected flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள மார்க்அப்பில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளுக்கும் தேர்ந்தெடுக்கப்பட்ட கொடியை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="338"/>
         <source>Selected Off</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="339"/>
         <source>Set selected flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள மார்க்அப்பில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளுக்கும் தேர்ந்தெடுக்கப்பட்ட கொடியை அணைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="374"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="378"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>வெட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="384"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="388"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>நகலெடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="394"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="398"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="479"/>
         <source>Click in this column to select/deselect control points for passing to CLI modules</source>
-        <translation type="unfinished"></translation>
+        <translation>சி.எல்.ஐ தொகுதிகளுக்கு அனுப்ப கட்டுப்பாட்டு புள்ளிகளைத் தேர்ந்தெடுக்க/தேர்வுநீக்க இந்த நெடுவரிசையில் சொடுக்கு செய்க</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="485"/>
         <source>Click in this column to lock/unlock control points to prevent them from being moved by mistake</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளிகளைப் பூட்ட/திறக்க இந்த நெடுவரிசையில் சொடுக்கு செய்க</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="491"/>
         <source>Click in this column to show/hide control points in 2D and 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>2D மற்றும் 3D இல் கட்டுப்பாட்டு புள்ளிகளைக் காட்ட/மறைக்க இந்த நெடுவரிசையில் சொடுக்கு செய்க</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="497"/>
@@ -22942,134 +22992,139 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 - Skip: &apos;Place multiple control points&apos; mode skips over the control point entry
 - Restore: Set the control point position to its last known set position
 - Clear: Clear the defined control point position, but do not delete the control point</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளி நிலை நிலையை மாற்ற இந்த நெடுவரிசையில் சொடுக்கு செய்க.
+
+ - திருத்து: ச்லைச் காட்சிகளில் கட்டுப்பாட்டு புள்ளி நிலையை மாற்ற இட பயன்முறையை உள்ளிடவும்
+ - தவிர்க்கவும்: &apos;பல கட்டுப்பாட்டு புள்ளிகளை வைக்கவும்&apos; பயன்முறை கட்டுப்பாட்டு புள்ளி நுழைவைத் தவிர்க்கிறது
+ - மீட்டமை: கட்டுப்பாட்டு புள்ளி நிலையை அதன் கடைசி அறியப்பட்ட தொகுப்பு நிலைக்கு அமைக்கவும்
+ - அழி: வரையறுக்கப்பட்ட கட்டுப்பாட்டு புள்ளி நிலையை அழிக்கவும், ஆனால் கட்டுப்பாட்டு புள்ளியை நீக்க வேண்டாம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="815"/>
         <source>Create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ஐ உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1005"/>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த கட்டுப்பாட்டு புள்ளி பட்டியலைத் திறக்க சொடுக்கு செய்க, எனவே புள்ளிகளை சுட்டி நகர்த்தலாம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1010"/>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த கட்டுப்பாட்டு புள்ளி பட்டியலை பூட்ட சொடுக்கு செய்க, எனவே புள்ளிகளை சுட்டியால் நகர்த்த முடியாது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1016"/>
         <source>Click to unlock the number of control points so points can be added or deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளிகளின் எண்ணிக்கையைத் திறக்க சொடுக்கு செய்க, எனவே புள்ளிகளைச் சேர்க்கலாம் அல்லது நீக்கலாம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1023"/>
         <source>Click to lock the number of control points so no points can be added or deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளிகளின் எண்ணிக்கையைப் பூட்ட சொடுக்கு செய்க, எனவே எந்த புள்ளிகளையும் சேர்க்கவோ நீக்கவோ முடியாது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1616"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1824"/>
         <source>Confirm control point deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளி நீக்குதலை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1617"/>
         <source>Delete %1 control points from this list?</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த பட்டியலிலிருந்து %1 கட்டுப்பாட்டு புள்ளிகளை நீக்கவா?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1623"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1825"/>
         <source>Delete all %1 control points from this list?</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த பட்டியலிலிருந்து அனைத்து %1 கட்டுப்பாட்டு புள்ளிகளையும் நீக்கவா?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1832"/>
         <source>Delete All</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தையும் நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2292"/>
         <source>Delete highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறப்பம்சமாக கட்டுப்பாட்டு புள்ளி (களை) நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2299"/>
         <source>Jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation>சம்ப் துண்டுகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2306"/>
         <source>Refocus all cameras</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து கேமராக்களையும் மறுபரிசீலனை செய்யுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2324"/>
         <source>Edit position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறப்பம்சமாக கட்டுப்பாட்டு புள்ளியின் நிலையைத் திருத்து (கள்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2330"/>
         <source>Skip placement of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறப்பம்சமான கட்டுப்பாட்டு புள்ளி (கள்) இன் இடத்தைத் தவிர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2336"/>
         <source>Restore position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறப்பம்சமாக கட்டுப்பாட்டு புள்ளி (கள்) இன் நிலையை மீட்டமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2342"/>
         <source>Clear position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறப்பம்சமாக கட்டுப்பாட்டு புள்ளி (கள்) தெளிவான நிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2456"/>
         <source>Summed linear distance: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>சுருக்கமான நேரியல் தூரம்: %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3160"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3188"/>
         <source>No measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவீட்டு இல்லை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3205"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>இயக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3273"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு அட்டவணை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3274"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3275"/>
         <source>Export control points coordinates and properties to table.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி கட்டுப்பாட்டு புள்ளிகள் ஒருங்கிணைப்புகள் மற்றும் பண்புகளை அட்டவணைக்கு.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3280"/>
         <source>Input table:</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீட்டு அட்டவணை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3281"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>இறக்குமதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3283"/>
@@ -23077,7 +23132,8 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளிகள் ஒருங்கிணைப்புகள் மற்றும் பண்புகளை அட்டவணை முனையிலிருந்து இறக்குமதி செய்க.
+ அட்டவணை நெடுவரிசை பெயர்கள்: சிட்டை, ஆர், ஏ, எச், (அல்லது எல், பி, எச்), வரையறுக்கப்பட்ட, தேர்ந்தெடுக்கப்பட்ட, தெரியும், பூட்டப்பட்ட, விளக்கம்.</translation>
     </message>
 </context>
 <context>
@@ -23085,121 +23141,121 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="20"/>
         <source>Place markups</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்களை வைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="35"/>
         <source>Select the display color.</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி நிறத்தைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="57"/>
         <source>Place a control point</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு கட்டுப்பாட்டு புள்ளியை வைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="60"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="86"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="106"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="83"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="549"/>
         <source>Delete last added control point</source>
-        <translation type="unfinished"></translation>
+        <translation>கடைசியாக சேர்க்கப்பட்ட கட்டுப்பாட்டு புள்ளியை நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="103"/>
         <source>Click for more options</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் விருப்பங்களுக்கு சொடுக்கு செய்க</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="123"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="126"/>
         <source>Place multiple control points</source>
-        <translation type="unfinished"></translation>
+        <translation>பல கட்டுப்பாட்டு புள்ளிகளை வைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="135"/>
         <source>Delete all control points</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்லா கட்டுப்பாட்டு புள்ளிகளையும் நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="138"/>
         <source>Delete all control points in the list</source>
-        <translation type="unfinished"></translation>
+        <translation>பட்டியலில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளையும் நீக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="147"/>
         <source>Clear last control point position</source>
-        <translation type="unfinished"></translation>
+        <translation>கடைசி கட்டுப்பாட்டு புள்ளி நிலையை அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="150"/>
         <source>Clear the position of the last control point placed (the control point will not be deleted).</source>
-        <translation type="unfinished"></translation>
+        <translation>வைக்கப்படும் கடைசி கட்டுப்பாட்டு புள்ளியின் நிலையை அழிக்கவும் (கட்டுப்பாட்டு புள்ளி நீக்கப்படாது).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="160"/>
         <source>Clear all control point positions</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து கட்டுப்பாட்டு புள்ளி நிலைகளையும் அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="163"/>
         <source>Clear the position of all control points in the list (the control points will not be deleted).</source>
-        <translation type="unfinished"></translation>
+        <translation>பட்டியலில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளின் நிலையையும் அழிக்கவும் (கட்டுப்பாட்டு புள்ளிகள் நீக்கப்படாது).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="173"/>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>விழிமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="176"/>
         <source>Toggle markup visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப் தெரிவுநிலையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="186"/>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>பூட்டப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="189"/>
         <source>Toggle control point positions lock</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளி நிலைகளை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="199"/>
         <source>Control point number locked</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளி எண் பூட்டப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="202"/>
         <source>Toggle control point number lock. If locked then it is not possible to add or delete control points. Instead of deleting, position control points can be unset.</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளி எண் பூட்டை மாற்றவும். பூட்டப்பட்டால், கட்டுப்பாட்டு புள்ளிகளைச் சேர்க்கவோ நீக்கவோ முடியாது. நீக்குவதற்கு பதிலாக, நிலை கட்டுப்பாட்டு புள்ளிகள் அமைக்கப்படவில்லை.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="137"/>
         <source>Place options</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பங்களை வைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="148"/>
         <source>Delete options</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பங்களை நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="165"/>
         <source>More options</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="543"/>
         <source>Unset position of the last control point placed (the control point will not be deleted).</source>
-        <translation type="unfinished"></translation>
+        <translation>வைக்கப்பட்ட கடைசி கட்டுப்பாட்டு புள்ளியின் அமைக்கப்படாத நிலை (கட்டுப்பாட்டு புள்ளி நீக்கப்படாது).</translation>
     </message>
 </context>
 <context>
@@ -23209,12 +23265,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="92"/>
         <source>Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="93"/>
         <source>Markups Fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்கள் நம்பகத்தன்மை</translation>
     </message>
 </context>
 <context>
@@ -23222,122 +23278,122 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="14"/>
         <source>Markups Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்ச் அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="23"/>
         <source>Default glyph type:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை கிளிஃப் வகை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="30"/>
         <source>The symbol used for the markup</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்பிற்கு பயன்படுத்தப்படும் அடையாளம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="37"/>
         <source>Vertex2D</source>
-        <translation type="unfinished"></translation>
+        <translation>வெர்டெக்ச் 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="42"/>
         <source>Dash2D</source>
-        <translation type="unfinished"></translation>
+        <translation>டாச் 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="47"/>
         <source>Cross2D</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்கு 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="52"/>
         <source>ThickCross2D</source>
-        <translation type="unfinished"></translation>
+        <translation>தடிமன் 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="57"/>
         <source>Triangle2D</source>
-        <translation type="unfinished"></translation>
+        <translation>முக்கோணம் 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="62"/>
         <source>Square2D</source>
-        <translation type="unfinished"></translation>
+        <translation>நாற்கை 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="67"/>
         <source>Circle2D</source>
-        <translation type="unfinished"></translation>
+        <translation>வட்டம் 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="72"/>
         <source>Diamond2D</source>
-        <translation type="unfinished"></translation>
+        <translation>டயமண்ட் 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="77"/>
         <source>Arrow2D</source>
-        <translation type="unfinished"></translation>
+        <translation>அம்பு 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="82"/>
         <source>ThickArrow2D</source>
-        <translation type="unfinished"></translation>
+        <translation>தடிமன் 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="87"/>
         <source>HookedArrow2D</source>
-        <translation type="unfinished"></translation>
+        <translation>ஊக்கெடாரோ 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="92"/>
         <source>StarBurst2D</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்டார்பர்ச்ட் 2 டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="97"/>
         <source>Sphere3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Schere3d</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="105"/>
         <source>Default selected color:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை தேர்ந்தெடுக்கப்பட்ட வண்ணம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="129"/>
         <source>Default unselected color:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை தேர்வு செய்யப்படாத வண்ணம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="153"/>
         <source>Default glyph scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை கிளிஃப் அளவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="160"/>
         <source>Default glyph scale</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை கிளிஃப் அளவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="176"/>
         <source>Default text scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை உரை அளவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="183"/>
         <source>Default text scale</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை உரை அளவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="199"/>
         <source>Default opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை ஒளிபுகா:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="219"/>
         <source>Default active color:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை செயலில் வண்ணம்:</translation>
     </message>
 </context>
 <context>
@@ -23345,32 +23401,32 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="14"/>
         <source>Add a 3D model</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு 3D மாடலைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="26"/>
         <source>Add Model file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரி கோப்பைச் சேர்க்கவும் (கள்)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="48"/>
         <source>Add Model directory</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரி கோப்பகத்தைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="64"/>
         <source>Select Model file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரி கோப்பு (கள்) என்பதைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="78"/>
         <source>Select a Model directory</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரி கோப்பகத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="111"/>
         <source>Models</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரிகள்</translation>
     </message>
 </context>
 <context>
@@ -23378,32 +23434,32 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="14"/>
         <source>Models options</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரிகள் விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="32"/>
         <source>Coordinate system:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒருங்கிணைப்பு அமைப்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="45"/>
         <source>Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>பெரும்பாலான மென்பொருளுடன் சிறந்த பொருந்தக்கூடிய தன்மைக்கு எல்.பி.எச் (இடது-பின்புற-சூப்பர்) பயன்படுத்தவும் (இது இயல்புநிலை). முந்தைய ச்லைசர் பதிப்புகளுடன் சிறந்த பொருந்தக்கூடிய தன்மைக்கு RAS (வலது-முன்-சூப்பர்) பயன்படுத்தவும். கோப்பில் ஒருங்கிணைப்பு அமைப்பு வரையறுக்கப்பட்டால், அது பயன்படுத்தப்பட்டு இந்த தேர்வு புறக்கணிக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="49"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="54"/>
         <source>LPS</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்.பி.எச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="59"/>
         <source>RAS</source>
-        <translation type="unfinished"></translation>
+        <translation>ராச்</translation>
     </message>
 </context>
 <context>
@@ -23411,17 +23467,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="47"/>
         <source>Models</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="73"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரிகள் தொகுதி வண்ணம், வெளிப்படைத்தன்மை மற்றும் கிளிப்பிங் போன்ற மாதிரிகளின் காட்சி அளவுருக்களை ஏற்றுகிறது மற்றும் சரிசெய்கிறது. &lt;br&gt; கோப்பு பட்டியல் வழியாக மாதிரிகளைச் சேமிக்கவும், பொத்தானைச் சேமிக்கவும். ச்லைசர் படிக்கக்கூடிய மாதிரி, அதே போல் ஒரு கோப்பகத்தில் உள்ள அனைத்து VTK மாதிரிகளும். அளவிடுதல் மேலடுக்கு ஒரு அளவிடுதல் கோப்பை ஏற்றி தற்போது செயலில் உள்ள மாதிரியுடன் இணைக்கும். &lt;br&gt; காட்சி பலகத்தில் உள்ள மாதிரிகளின் காட்சி பண்புகளை நீங்கள் சரிசெய்யலாம். மாதிரி தேர்வாளர் கீழ்தோன்றும் மெனுவிலிருந்து நீங்கள் வேலை செய்ய விரும்பும் மாதிரியைத் தேர்ந்தெடுக்கவும். அளவிடுதல் மேலடுக்குகள் இயல்புநிலை வண்ணம் தேடு அட்டவணையுடன் ஏற்றப்படுகின்றன, ஆனால் கைமுறையாக மீண்டும் நியமிக்கலாம். ஒரு புதிய அளவிடுதல் மேலடுக்கு தேர்ந்தெடுக்கப்பட்டவுடன், தற்போது பழைய வண்ண வரைபடம் இன்னும் பயன்படுத்தப்படுகிறது, எனவே அது மேலடுக்குடன் இணைந்து சரிசெய்யப்பட வேண்டும். &lt;br&gt; காட்சி பலகத்தில் ஒரு மாதிரிக்கு கிளிப்பிங் இயக்கப்படுகிறது, மேலும் கிளிப் செய்யும் ச்லைச் விமானங்கள் மாதிரி கிளிப்பிங் பலகத்தில் தேர்ந்தெடுக்கப்படுகிறது. &lt;br&gt; மாதிரி வரிசைமுறை பலகம் உங்களை ஒன்றாகக் குழு செய்ய அனுமதிக்கிறது மற்றும் குழுவின் பண்புகளை அமைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="96"/>
         <source>This work was partially funded by NIH grants 3P41RR013218-12S1 and R01CA184354.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலைக்கு NIH மானியங்கள் 3P41RR013218-12S1 மற்றும் R01CA184354 ஆகியோரால் நிதியளிக்கப்பட்டது.</translation>
     </message>
 </context>
 <context>
@@ -23429,52 +23485,52 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="20"/>
         <source>Models</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="61"/>
         <source>Filter by name...</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயரால் வடிகட்டவும் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="71"/>
         <source>Turn the visibility off on all models (does not include hierarchies)</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்லா மாடல்களிலும் தெரிவுநிலையை அணைக்கவும் (படிநிலைகள் இல்லை)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="85"/>
         <source>Turns visibility on for all models (does not include hierarchies)</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து மாடல்களுக்கும் தெரிவுநிலையை இயக்குகிறது (படிநிலைகள் இல்லை)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>தகவல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="146"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="168"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் பிரிவில் தேர்ந்தெடுக்கப்பட்ட வண்ண அட்டவணைக்கான வண்ண புராணக்கதை.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="171"/>
         <source>Color Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண புராணக்கதை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clipping Planes</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிப்பிங் விமானங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="219"/>
         <source>Clip selected model:</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிப் தேர்ந்தெடுக்கப்பட்ட மாதிரி:</translation>
     </message>
 </context>
 <context>
@@ -23482,102 +23538,102 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="14"/>
         <source>Module finder</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி கண்டுபிடிப்பாளர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="80"/>
         <source>Search in full text (module name and description). If unchecked then only module names are searched.</source>
-        <translation type="unfinished"></translation>
+        <translation>முழு உரையில் தேடுங்கள் (தொகுதி பெயர் மற்றும் விளக்கம்). தேர்வு செய்யப்படாவிட்டால், தொகுதி பெயர்கள் மட்டுமே தேடப்படுகின்றன.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
         <source>&amp;Full text</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; முழு உரை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="93"/>
         <source>Show built-in modules. Unchecking makes it easier to find modules provided by extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளமைக்கப்பட்ட தொகுதிகள் காட்டு. தேர்வு செய்வது நீட்டிப்புகளால் வழங்கப்பட்ட தொகுதிகள் கண்டுபிடிப்பதை எளிதாக்குகிறது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="96"/>
         <source>&amp;Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; உள்ளமைக்கப்பட்ட</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
         <source>Show testing modules. Useful for software testing and troubleshooting.</source>
-        <translation type="unfinished"></translation>
+        <translation>சோதனை தொகுதிகளைக் காட்டு. மென்பொருள் சோதனை மற்றும் சரிசெய்தலுக்கு பயனுள்ளதாக இருக்கும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
         <source>&amp;Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சோதனை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
         <source>Switch to module</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிக்கு மாறவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="205"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>வகை:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="244"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>பங்களிப்பாளர்கள்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="251"/>
         <source>Internal name:</source>
-        <translation type="unfinished"></translation>
+        <translation>உள் பெயர்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="255"/>
         <source>Unknown type</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரியாத வகை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="259"/>
         <source>Python Scripted Loadable</source>
-        <translation type="unfinished"></translation>
+        <translation>பைதான் ச்கிரிப்ட் ஏற்றக்கூடியது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
         <source>C++ Loadable</source>
-        <translation type="unfinished"></translation>
+        <translation>சி ++ ஏற்றக்கூடியது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="267"/>
         <source>Command-Line Interface (CLI)</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டளை-வரிசை இடைமுகம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"/>
         <source>built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளமைக்கப்பட்ட</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="273"/>
         <source>Type:</source>
-        <translation type="unfinished">வகை:</translation>
+        <translation>தட்டச்சு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
         <source>Require:</source>
-        <translation type="unfinished"></translation>
+        <translation>தேவை:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="282"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>இடம்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="291"/>
         <source>%1 module is not loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 தொகுதி ஏற்றப்படவில்லை</translation>
     </message>
 </context>
 <context>
@@ -23585,27 +23641,27 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="20"/>
         <source>Module Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி குழு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="77"/>
         <source>Help &amp;&amp; Acknowledgement</source>
-        <translation type="unfinished"></translation>
+        <translation>உதவி &amp;&amp; ஒப்புதல்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="93"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>உதவி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="110"/>
         <source>Acknowledgement</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒப்புகை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="196"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>பங்களிப்பாளர்கள்:</translation>
     </message>
 </context>
 <context>
@@ -23613,68 +23669,68 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="99"/>
         <source>Modules:</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="109"/>
         <source>Module Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி கண்டுபிடிப்பாளர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="111"/>
         <source>Find module</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி கண்டுபிடிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="138"/>
         <source>Select a module from the module list</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி பட்டியலிலிருந்து ஒரு தொகுதியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="145"/>
         <source>Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="152"/>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="156"/>
         <source>Modules history</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள் வரலாறு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="154"/>
         <source>History</source>
-        <translation type="unfinished"></translation>
+        <translation>வரலாறு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="164"/>
         <source>Modules Previous History</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள் முந்தைய வரலாறு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="167"/>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>முந்தைய</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="168"/>
         <source>Previous modules</source>
-        <translation type="unfinished"></translation>
+        <translation>முந்தைய தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="181"/>
         <source>Modules Next History</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள் அடுத்த வரலாறு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="184"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுத்தது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="185"/>
         <source>Next modules</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுத்த தொகுதிகள்</translation>
     </message>
 </context>
 <context>
@@ -23682,7 +23738,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="152"/>
         <source>Requires:</source>
-        <translation type="unfinished"></translation>
+        <translation>தேவை:</translation>
     </message>
 </context>
 <context>
@@ -23690,57 +23746,57 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="81"/>
         <source>Translate/rotate view, adjust displayed objects</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியை மொழிபெயர்க்கவும்/சுழற்றவும், காட்டப்படும் பொருள்களை சரிசெய்யவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="83"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
         <source>Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிசெய்யவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
         <source>Adjust window/level by click-and-drag in a slice viewer.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் பார்வையாளரில் கிளிக்-மற்றும் இழுவை மூலம் சாளரம்/நிலையை சரிசெய்யவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
         <source>Select region</source>
-        <translation type="unfinished"></translation>
+        <translation>பிராந்தியத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="103"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு செவ்வக பகுதியை அடிப்படையாகக் கொண்டு சாளர அளவை அமைக்கவும், ஒரு ச்லைச் பார்வையாளரில் கிளிக்-அண்ட்-டிராக் மூலம் குறிப்பிடப்படுகிறது. சொடுக்கு நிலை பிராந்திய மூலையாக பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
         <source>Select region - centered</source>
-        <translation type="unfinished"></translation>
+        <translation>பிராந்தியத்தைத் தேர்ந்தெடுக்கவும் - மையப்படுத்தப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="109"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு செவ்வக பகுதியை அடிப்படையாகக் கொண்டு சாளர அளவை அமைக்கவும், ஒரு ச்லைச் பார்வையாளரில் கிளிக்-அண்ட்-டிராக் மூலம் குறிப்பிடப்படுகிறது. சொடுக்கு நிலை பிராந்திய மையமாக பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
         <source>Adjust window/level</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளரம்/அளவை சரிசெய்யவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
         <source>Adjust window/level of volume by left-click-and-drag in slice views. Hold down Ctrl/Cmd key for temporarily switch between adjustment and region-based setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு காட்சிகளில் இடது-கிளிக் மற்றும் இழுவை மூலம் சாளரம்/அளவின் அளவை சரிசெய்யவும். சரிசெய்தல் மற்றும் பிராந்திய அடிப்படையிலான அமைப்பிற்கு இடையில் தற்காலிகமாக மாற CTRL/CMD விசையை அழுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="135"/>
         <source>Window/level</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளரம்/நிலை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
@@ -23748,27 +23804,27 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="178"/>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="179"/>
         <source>Toggle Markups Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்ச் கருவிப்பட்டியை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="156"/>
         <source>Place Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>இடம் பட்டியல்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="163"/>
         <source>Create and Place</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்கி வைக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="164"/>
         <source>Place</source>
-        <translation type="unfinished"></translation>
+        <translation>இடம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு கட்டுப்பாட்டு புள்ளியை வைக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -23776,43 +23832,43 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="14"/>
         <source>MultiVolume GPU RayCast</source>
-        <translation type="unfinished"></translation>
+        <translation>மல்டிவோலூம் சி.பீ.யூ ரெய்காச்ட்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished"></translation>
+        <translation>நுட்பம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="39"/>
         <source>Select ray casting technique for the views where the current volume is visible</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய தொகுதி தெரியும் காட்சிகளுக்கு ரே வார்ப்பு நுட்பத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="46"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="56"/>
         <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-        <translation type="unfinished"></translation>
+        <translation>ரேச்காச்டிங்கிற்கு சீரற்ற சத்தத்தைப் பயன்படுத்துவதன் மூலம் மர-தானிய கலைப்பொருட்களை அகற்றுவதற்கான விருப்பம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="49"/>
         <source>Surface smoothing:</source>
-        <translation type="unfinished"></translation>
+        <translation>மேற்பரப்பு மென்மையாக்குதல்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="77"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>நிழலுடன் கூட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="79"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்ச தீவிரம் திட்டம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="81"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>குறைந்தபட்ச தீவிரம் திட்டம்</translation>
     </message>
 </context>
 <context>
@@ -23820,12 +23876,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="14"/>
         <source>Node Writer Options</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை எழுத்தாளர் விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="23"/>
         <source>Compress</source>
-        <translation type="unfinished"></translation>
+        <translation>சுருக்க</translation>
     </message>
 </context>
 <context>
@@ -23833,7 +23889,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.h" line="46"/>
         <source>Plots</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுக்கு</translation>
     </message>
 </context>
 <context>
@@ -23841,37 +23897,37 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="20"/>
         <source>Plots</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="46"/>
         <source>Charts</source>
-        <translation type="unfinished"></translation>
+        <translation>விளக்கப்படங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="58"/>
         <source>Chart:</source>
-        <translation type="unfinished"></translation>
+        <translation>விளக்கப்படம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="94"/>
         <source>Allow plot editing</source>
-        <translation type="unfinished"></translation>
+        <translation>சூழ்ச்சி திருத்துதல் அனுமதிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="114"/>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடர்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="120"/>
         <source>Data series:</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவுத் தொடர்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="142"/>
         <source>Clone data series</source>
-        <translation type="unfinished"></translation>
+        <translation>நகலி தரவு தொடர்</translation>
     </message>
 </context>
 <context>
@@ -23879,12 +23935,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="149"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்னமைவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="272"/>
         <source>Select a Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்னமைவைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -23892,7 +23948,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="44"/>
         <source>Reformat</source>
-        <translation type="unfinished">படிவம்</translation>
+        <translation>மறுவடிவமைப்பு</translation>
     </message>
 </context>
 <context>
@@ -23903,202 +23959,202 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="110"/>
         <source>Reformat</source>
         <oldsource>Form</oldsource>
-        <translation type="unfinished">படிவம்</translation>
+        <translation>மறுவடிவமைப்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
         <source>Slice:</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="76"/>
         <source>Show reformat widget in 3D view</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையில் சீர்திருத்த விட்செட்டை காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="108"/>
         <source>Display &amp;&amp; Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி &amp;&amp; திருத்து</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="117"/>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>ஈடுசெய்யும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="197"/>
         <source>Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>தோற்றம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="215"/>
         <source>Coordinate Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒருங்கிணைப்பு குறிப்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="221"/>
         <source>On Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>விமானத்தில்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="231"/>
         <source>In Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="265"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>நடுவண்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="278"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="302"/>
         <source>Rotate the slice in the current slice plane, around the slice normal</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய துண்டு விமானத்தில், துண்டுகளை இயல்பான துண்டுகளைச் சுற்றி சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="315"/>
         <source>Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>செங்குத்து:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="325"/>
         <source>In-Plane:</source>
-        <translation type="unfinished"></translation>
+        <translation>விமானத்தில்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="337"/>
         <source>Normal to LR</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்.ஆர்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="344"/>
         <source>Normal to PA</source>
-        <translation type="unfinished"></translation>
+        <translation>பொதுசன முன்னணிக்கு இயல்பானது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="351"/>
         <source>Normal to IS</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்பானது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="360"/>
         <source>Rotate the slice view to be aligned with the axes of the displayed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்டப்பட்ட அளவின் அச்சுகளுடன் சீரமைக்க ச்லைச் பார்வையை சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="552"/>
         <source>Flip slice view horizontally (left-right)</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபிளிப் ச்லைச் பார்வை கிடைமட்டமாக (இடது-வலது)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="363"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி விமானத்திற்கு சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="370"/>
         <source>Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>சுழற்சி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="383"/>
         <source>Rotate around the slice vertical axis</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் செங்குத்து அச்சில் சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="405"/>
         <source>Rotate around the slice horizontal axis</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு கிடைமட்ட அச்சில் சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="421"/>
         <source>Reset to:</source>
-        <translation type="unfinished"></translation>
+        <translation>மீட்டமை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="428"/>
         <source>Normal:</source>
-        <translation type="unfinished"></translation>
+        <translation>சாதாரண:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="435"/>
         <source>Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>கிடைமட்டமாக:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="518"/>
         <source>Normal to Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>கேமராவுக்கு இயல்பானது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="555"/>
         <source>Flip H</source>
-        <translation type="unfinished"></translation>
+        <translation>புரட்ட எச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="562"/>
         <source>Flip slice view vertically (upside-down)</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபிளிப் ச்லைச் பார்வை செங்குத்தாக (தலைகீழாக)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="565"/>
         <source>Flip V</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபிளிப் வி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="572"/>
         <source>Rotate slice view clockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் காட்சியை கடிகார திசையில் 90 டிகிரி சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="575"/>
         <source>Rotate CW</source>
-        <translation type="unfinished"></translation>
+        <translation>CW ஐ சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="582"/>
         <source>Rotate slice view counterclockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் பார்வையை எதிரெதிர் திசையில் 90 டிகிரி சுழற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="585"/>
         <source>Rotate CCW</source>
-        <translation type="unfinished"></translation>
+        <translation>CCW ஐ சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="472"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் நோக்குநிலை (அச்சு, சகிட்டல், கொரோனல், சீர்திருத்தம்).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="479"/>
         <source>Axial</source>
-        <translation type="unfinished"></translation>
+        <translation>அச்சு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="484"/>
         <source>Sagittal</source>
-        <translation type="unfinished"></translation>
+        <translation>சகிட்டல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="489"/>
         <source>Coronal</source>
-        <translation type="unfinished"></translation>
+        <translation>கொரோனல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="616"/>
         <source>Lock Normal To Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>கேமராவுக்கு இயல்பான பூட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="619"/>
         <source>Lock reformat widget&apos;s normal to the camera one. </source>
-        <translation type="unfinished"></translation>
+        <translation>கேமரா ஒன்றிற்கு லாக் மறுவடிவமைப்பு விட்செட்டின் இயல்பானது. </translation>
     </message>
 </context>
 <context>
@@ -24106,72 +24162,72 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="14"/>
         <source>Save Scene and Unsaved Data</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி மற்றும் சேமிக்கப்படாத தரவை சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="24"/>
         <source>select modified data only</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றியமைக்கப்பட்ட தரவை மட்டும் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="54"/>
         <source>Change directory for selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட கோப்புகளுக்கான கோப்பகத்தை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="61"/>
         <source>Show options</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பங்களைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="68"/>
         <source>Select scene &amp; modified data only</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி மற்றும் மாற்றியமைக்கப்பட்ட தரவை மட்டும் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="98"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு பெயர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="103"/>
         <source>File Format</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு வடிவம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="108"/>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>அடைவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="113"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="118"/>
         <source>Node Name</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை பெயர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="123"/>
         <source>Node Type</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை வகை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="128"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="136"/>
         <source>Create a Medical Record Bundle containing the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியைக் கொண்ட ஒரு மருத்துவ பதிவு மூட்டையை உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span சூல் தண்டு = &quot;எழுத்துரு-எடை: 600; வண்ணம்:#FF0000;&quot;&gt; சேமிக்கும் போது பிழைகள் அல்லது எச்சரிக்கைகள் ஏற்பட்டன. விவரங்களுக்கு நிலை சின்னங்களைக் காண்க</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="603"/>
@@ -24179,69 +24235,69 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1141"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1148"/>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றியமைக்கப்பட்ட</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="603"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="897"/>
         <source>Not Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றியமைக்கப்படவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="656"/>
         <source>Select a format</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு வடிவமைப்பைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="682"/>
         <source>Output folder</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு கோப்புறை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="733"/>
         <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி கோப்பு சேமிக்கப்படவில்லை, ஏனெனில் பயனர் ஏற்கனவே உள்ள கோப்பை மேலெழுத வேண்டாம் என்று தேர்வு செய்தார்: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="822"/>
         <source>Node %1 not saved, file name is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை %1 சேமிக்கப்படவில்லை, கோப்பு பெயர் காலியாக உள்ளது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="832"/>
         <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை %1 சேமிக்கப்படவில்லை, ஏனெனில் பயனர் ஏற்கனவே உள்ள கோப்பை மேலெழுத வேண்டாம் என்று தேர்வு செய்தார்: %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="870"/>
         <source>Cannot write data file: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவு கோப்பை எழுத முடியாது: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="875"/>
         <source>Failed to save node %1 to file %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை %1 ஐ %2 ஐ சேமிக்கத் தவறிவிட்டது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="924"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1128"/>
         <source>Scene</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1440"/>
         <source>Any Data</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்த தரவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1473"/>
         <source>Saving file...</source>
-        <translation type="unfinished"></translation>
+        <translation>சேமிப்பு கோப்பு ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1474"/>
         <source>The file: %1 already exists. Do you want to replace it ?</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு: %1 ஏற்கனவே உள்ளது. அதை மாற்ற விரும்புகிறீர்களா?</translation>
     </message>
 </context>
 <context>
@@ -24249,42 +24305,42 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="14"/>
         <source>Scalar Volume Display</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் தொகுதி காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="38"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்னமைவுகள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="56"/>
         <source>Lookup Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடல் அட்டவணை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="63"/>
         <source>Select the color mapping for scalar volumes to colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ணங்களுக்கு அளவிடக்கூடிய தொகுதிகளுக்கு வண்ண மேப்பிங்கைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="79"/>
         <source>Interpolate:</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைக்கணிப்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="86"/>
         <source>When checked, slice views will display linearly interpolated slices through input volumes. Unchecked indicates nearest neighbor resampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிபார்க்கும்போது, ச்லைச் காட்சிகள் உள்ளீட்டு தொகுதிகள் மூலம் நேர்கோட்டுடன் இடைக்கணிக்கப்பட்ட துண்டுகளைக் காண்பிக்கும். சரிபார்க்கப்படாதது அருகிலுள்ள அண்டை மறுசீரமைப்பைக் குறிக்கிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="132"/>
         <source>Shows the number of pixels (y axis) vs the image intensity (x axis) over a background of the current window/level and threshold mapping.</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய சாளரம்/நிலை மற்றும் வாசல் மேப்பிங்கின் பின்னணியில் பட தீவிரம் (x அச்சு) vs பிக்சல்களின் (y அச்சு) எண்ணிக்கையைக் காட்டுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="135"/>
         <source>Histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>செவ்வகப்படம்</translation>
     </message>
 </context>
 <context>
@@ -24292,12 +24348,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="59"/>
         <source>MRB Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>எம்ஆர்பி ச்லைசர் தரவு மூட்டை</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="98"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>மருத்துவ ரியாலிட்டி மூட்டை</translation>
     </message>
 </context>
 <context>
@@ -24305,12 +24361,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="14"/>
         <source>Scene Options</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="23"/>
         <source>Clear existing scene</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதுள்ள காட்சியை அழிக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -24319,27 +24375,27 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="65"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="103"/>
         <source>MRML Scene</source>
-        <translation type="unfinished"></translation>
+        <translation>எம்.ஆர்.எம்.எல் காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="134"/>
         <source>The scene file was saved with %1 application (this application is %2).</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி கோப்பு %1 பயன்பாட்டுடன் சேமிக்கப்பட்டது (இந்த பயன்பாடு %2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="142"/>
         <source>The scene file was created with a newer version of the application (%1) than the current version (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய பதிப்பை (%2) விட பயன்பாட்டின் (%1) புதிய பதிப்போடு காட்சி கோப்பு உருவாக்கப்பட்டது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="148"/>
         <source>The scene may not load correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி சரியாக ஏற்றப்படாமல் போகலாம்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="172"/>
         <source>These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி சேமிக்கப்பட்டபோது இந்த நீட்டிப்புகள் நிறுவப்பட்டன, ஆனால் இப்போது நிறுவப்படவில்லை: %1. காட்சியை வெற்றிகரமாக ஏற்றுவதற்கு இந்த நீட்டிப்புகள் தேவைப்படலாம்.</translation>
     </message>
 </context>
 <context>
@@ -24347,7 +24403,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="39"/>
         <source>Views</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சிகள்</translation>
     </message>
 </context>
 <context>
@@ -24355,7 +24411,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="31"/>
         <source>3D Slicer SceneView</source>
-        <translation type="unfinished"></translation>
+        <translation>3 டி ச்லைசர் காட்சி பார்வை</translation>
     </message>
 </context>
 <context>
@@ -24364,40 +24420,40 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="45"/>
         <source>SceneViews</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி காட்சிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="114"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறுபடம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="115"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>விவரம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="181"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="182"/>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>மீட்டமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="187"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="188"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="193"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="194"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>நீக்கு</translation>
     </message>
 </context>
 <context>
@@ -24406,44 +24462,44 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="63"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="83"/>
         <source>MRML Scene</source>
-        <translation type="unfinished"></translation>
+        <translation>எம்.ஆர்.எம்.எல் காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="84"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>மருத்துவ ரியாலிட்டி மூட்டை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="85"/>
         <source>Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் தரவு மூட்டை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="101"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="177"/>
         <source>Failed to save scene as %1 (path %2 is not writeable)</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியை %1 என சேமிக்கத் தவறிவிட்டது (பாதை %2 எழுத முடியாதது)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="149"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="194"/>
         <source>Failed to save scene as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியை %1 ஆக சேமிப்பதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="232"/>
         <source>fails to be created</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="235"/>
         <source>contains 1 file or directory</source>
-        <translation type="unfinished"></translation>
+        <translation>1 கோப்பு அல்லது அடைவு உள்ளது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="238"/>
         <source>contains %1 files or directories</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 கோப்புகள் அல்லது கோப்பகங்களைக் கொண்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="241"/>
@@ -24451,7 +24507,10 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 &quot;%1&quot;
 %2.
 Please choose an empty directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட அடைவு
+ &quot;%1&quot;
+ %2.
+ வெற்று கோப்பகத்தைத் தேர்வுசெய்க.</translation>
     </message>
 </context>
 <context>
@@ -24459,12 +24518,12 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1075"/>
         <source>Operate on invisible segment?</source>
-        <translation type="unfinished"></translation>
+        <translation>கண்ணுக்கு தெரியாத பிரிவில் செயல்படவா?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1076"/>
         <source>The currently selected segment is hidden. Would you like to make it visible?</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போது தேர்ந்தெடுக்கப்பட்ட பிரிவு மறைக்கப்பட்டுள்ளது. அதைக் காண விரும்புகிறீர்களா?</translation>
     </message>
 </context>
 <context>
@@ -24472,12 +24531,12 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="56"/>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="75"/>
         <source>Erase from current segment with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; erase from segment around the mouse pointer.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு வட்ட தூரிகை மூலம் தற்போதைய பிரிவில் இருந்து அழிக்கவும் &lt;br&gt;. சுட்டிக்காட்டி. &lt;li&gt; &lt;b&gt; சிப்ட் + மவுச் வீல் &lt;/b&gt; அல்லது &lt;b&gt; +/- விசைகள்: &lt;/b&gt; தூரிகை அளவை சரிசெய்யவும். சூம் இன்/அவுட். &lt;/ul&gt; &lt;p&gt; திருத்துதல் ச்லைச் மற்றும் 3 டி காட்சிகளில் கிடைக்கிறது. &lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -24485,17 +24544,17 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="960"/>
         <source>Paint</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ணப்பூச்சு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="980"/>
         <source>Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு வட்ட தூரிகை மூலம் வண்ணம் தீட்டவும் &lt;br&gt;. சிப்ட் + மவுச் வீல் &lt;/b&gt; அல்லது &lt;b&gt; +/- விசைகள்: &lt;/b&gt; தூரிகை அளவை சரிசெய்யவும். &gt; &lt;p&gt; திருத்துதல் ச்லைச் மற்றும் 3 டி காட்சிகளில் கிடைக்கிறது. &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1415"/>
         <source>Diameter:</source>
-        <translation type="unfinished"></translation>
+        <translation>விட்டம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1417"/>
@@ -24503,62 +24562,62 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1426"/>
         <source>Set the paint brush size as a percentage of screen height or physical size</source>
         <oldsource>Set the paint brush size as percentage of screen size or as fixed length</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>வண்ணப்பூச்சு தூரிகை அளவை திரை உயரம் அல்லது உடல் அளவின் சதவீதமாக அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1436"/>
         <source>Sphere brush</source>
-        <translation type="unfinished"></translation>
+        <translation>கோள தூரிகை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1437"/>
         <source>Use a 3D spherical brush rather than a 2D circular brush.</source>
-        <translation type="unfinished"></translation>
+        <translation>2 டி வட்ட தூரிகையை விட 3D கோள தூரிகையைப் பயன்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1440"/>
         <source>Edit in 3D views</source>
-        <translation type="unfinished"></translation>
+        <translation>3D காட்சிகளில் திருத்து</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1441"/>
         <source>Allow painting in 3D views. If enabled, click-and-drag in a 3D view paints in the view instead of rotating the view.</source>
-        <translation type="unfinished"></translation>
+        <translation>3D காட்சிகளில் ஓவியம் அனுமதிக்கவும். இயக்கப்பட்டால், பார்வையை சுழற்றுவதற்குப் பதிலாக பார்வையில் 3D பார்வை வண்ணப்பூச்சுகளில் சொடுக்கு செய்து இழுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1445"/>
         <source>Color smudge</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண ச்மட்ச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1446"/>
         <source>Select segment by sampling the pixel locationwhere the brush stroke starts. If brush stroke starts in an empty area then the brush erases highlighted region from the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>படப்புள்ளி இருப்பிடத்தை மாதிரி செய்வதன் மூலம் பிரிவைத் தேர்ந்தெடுக்கவும் தூரிகை பக்கவாதம் தொடங்குகிறது. வெற்று பகுதியில் தூரிகை பக்கவாதம் தொடங்கினால், தூரிகை தேர்ந்தெடுக்கப்பட்ட பிரிவில் இருந்து பகுதியை முன்னிலைப்படுத்துகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1453"/>
         <source>Erase all segments</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து பிரிவுகளையும் அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1454"/>
         <source>If not checked then highlighted area is erased from all segments. If unchecked then only area is only erased from selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிபார்க்கப்படாவிட்டால், சிறப்பம்சமாக இருக்கும் பகுதி அனைத்து பிரிவுகளிலிருந்தும் அழிக்கப்படும். தேர்வு செய்யப்படாவிட்டால், தேர்ந்தெடுக்கப்பட்ட பிரிவில் இருந்து மட்டுமே பகுதி மட்டுமே அழிக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1461"/>
         <source>Pixel mode</source>
-        <translation type="unfinished"></translation>
+        <translation>படப்புள்ளி பயன்முறை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1462"/>
         <source>Paint exactly the pixel under the cursor, ignoring the diameter, threshold, and paint over.</source>
-        <translation type="unfinished"></translation>
+        <translation>கர்சரின் கீழ் பிக்சலை சரியாக வண்ணம் தீட்டவும், விட்டம், வாசல் மற்றும் வண்ணம் தீட்டவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1565"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>மிமீ</translation>
     </message>
 </context>
 <context>
@@ -24566,132 +24625,132 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1163"/>
         <source>Scissors</source>
-        <translation type="unfinished"></translation>
+        <translation>கத்தரிக்கோல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
         <source>Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய பார்வையில் இருந்து முழு பகுதியையும் வெட்டுங்கள் &lt;br&gt;. &lt;li&gt; &lt;b&gt; ESC: &lt;/b&gt; ரத்துசெய். ச்லைச் வியூ வெட்டுதல் அனைத்து துண்டுகளுக்கும் பயன்படுத்தப்படும். &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1203"/>
         <source>Erase inside</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளே அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1204"/>
         <source>Erase outside</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியே அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1205"/>
         <source>Fill inside</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளே நிரப்பவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1206"/>
         <source>Fill outside</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியே நிரப்பவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1208"/>
         <source>Operation:</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்பாடு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1225"/>
         <source>Free-form</source>
-        <translation type="unfinished"></translation>
+        <translation>இலவச வடிவம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1226"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>வட்டம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>செவ்வகம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1228"/>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>மையப்படுத்தப்பட்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1230"/>
         <source>If checked, click position sets the circle or rectangle center, otherwise click position is at the shape boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிபார்க்கப்பட்டால், நிலை வட்டம் அல்லது செவ்வக மையத்தை அமைக்கிறது என்பதைக் சொடுக்கு செய்க, இல்லையெனில் என்பதைக் சொடுக்கு செய்யக்கூடிய நிலை வடிவ எல்லையில் உள்ளது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1232"/>
         <source>Shape:</source>
-        <translation type="unfinished"></translation>
+        <translation>வடிவம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1249"/>
         <source>Unlimited</source>
-        <translation type="unfinished"></translation>
+        <translation>வரம்பற்றது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1250"/>
         <source>Cut through the entire segmentation. Only used for slice views.</source>
-        <translation type="unfinished"></translation>
+        <translation>முழு பிரிவு வழியாகவும். துண்டு காட்சிகளுக்கு மட்டுமே பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1251"/>
         <source>Positive</source>
-        <translation type="unfinished"></translation>
+        <translation>நேரமம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1252"/>
         <source>Only positive side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் விமானத்தின் நேர்மறையான பக்கம் மட்டுமே வெட்டு பகுதியில் சேர்க்கப்பட்டுள்ளது. துண்டு காட்சிகளுக்கு மட்டுமே பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1253"/>
         <source>Negative</source>
-        <translation type="unfinished"></translation>
+        <translation>எதிர்மம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1254"/>
         <source>Only negative side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் விமானத்தின் எதிர்மறை பக்கம் மட்டுமே வெட்டப்பட்ட பகுதியில் சேர்க்கப்பட்டுள்ளது. துண்டு காட்சிகளுக்கு மட்டுமே பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1255"/>
         <source>Symmetric</source>
-        <translation type="unfinished"></translation>
+        <translation>சமச்சீர்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1256"/>
         <source>Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</source>
-        <translation type="unfinished"></translation>
+        <translation>வெட்டு பகுதி ச்லைச் விமானத்தைச் சுற்றியுள்ள குறிப்பிட்ட தடிமன் மட்டுமே. துண்டு காட்சிகளுக்கு மட்டுமே பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1259"/>
         <source>Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</source>
-        <translation type="unfinished"></translation>
+        <translation>வெட்டு பகுதியின் தடிமன். 0 என்றால் தற்போதைய துண்டு மட்டுமே சேர்க்கப்பட்டுள்ளது. துண்டு காட்சிகளுக்கு மட்டுமே பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1266"/>
         <source>Slice cut:</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு வெட்டு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1267"/>
         <source>Restrict cut region in slice views.</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு காட்சிகளில் வெட்டப்பட்ட பகுதியைக் கட்டுப்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1275"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>புலப்படும் பிரிவுகளுக்கு பொருந்தும்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1276"/>
         <source>Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </source>
-        <translation type="unfinished"></translation>
+        <translation>மேலே இருந்து கீழாக காணக்கூடிய அனைத்து பிரிவுகளுக்கும் கத்தரிக்கோல் விளைவைப் பயன்படுத்துங்கள். &apos;விண்ணப்பிக்கவும்&apos; என்று அழுத்திய பிறகு: தயவுசெய்து பொறுமையாக இருங்கள் - இது நேரத்தை எடுத்துக்கொள்ளும். முன்னேற்றம் நிலை செய்தியாகக் காட்டப்படும். </translation>
     </message>
 </context>
 <context>
@@ -24699,32 +24758,32 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="14"/>
         <source>Segmentations Options</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="32"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்த வகையையும் அடிப்படையாகக் கொண்ட பிரிவுகளின் ஒளிபுகாநிலைகளை தானாக அமைக்கவும், இதனால் எந்த பிரிவும் மற்றொன்றை மறைக்காது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="35"/>
         <source>Automatic Segment Opacities</source>
-        <translation type="unfinished"></translation>
+        <translation>தானியங்கி பிரிவு ஒளிபுகாநிலைகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="51"/>
         <source>Color node:</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண முனை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="61"/>
         <source>Color table node used to display this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த அளவைக் காட்ட வண்ண அட்டவணை முனை பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="64"/>
         <source>vtkMRMLColorTableNode</source>
-        <translation type="unfinished"></translation>
+        <translation>VTKMRMLCOLORTABLENODE</translation>
     </message>
 </context>
 <context>
@@ -24734,284 +24793,284 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="180"/>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.h" line="47"/>
         <source>Segmentations</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="40"/>
         <source> Active segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation> செயலில் பிரிவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="47"/>
         <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு வடிவவியலை அமைப்பதற்குப் பயன்படுத்தப்பட்ட முனை (தோற்றம், இடைவெளி, அச்சு திசைகள் மற்றும் இயல்புநிலை அளவு)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="50"/>
         <source> Source geometry:</source>
-        <translation type="unfinished"></translation>
+        <translation> மூல வடிவியல்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="104"/>
         <source>Add empty segment</source>
-        <translation type="unfinished"></translation>
+        <translation>வெற்று பிரிவைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="107"/>
         <source>Add segment</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="118"/>
         <source>Remove selected segment</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட பகுதியை அகற்று</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="121"/>
         <source>Remove selected</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்டதை அகற்று</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="135"/>
         <source>Go to Segment Editor module</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு எடிட்டர் தொகுதிக்குச் செல்லவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="138"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="164"/>
         <source>Display settings for the segmentation (all segments)</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுக்கான அமைப்புகளைக் காண்பி (அனைத்து பிரிவுகளும்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="167"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="194"/>
         <source>List of representations to see available and existing ones, and creating or updating them</source>
-        <translation type="unfinished"></translation>
+        <translation>கிடைக்கக்கூடிய மற்றும் ஏற்கனவே உள்ளவற்றைக் காண பிரதிநிதித்துவங்களின் பட்டியல், அவற்றை உருவாக்குதல் அல்லது புதுப்பித்தல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="197"/>
         <source>Representations</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரதிநிதித்துவங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="224"/>
         <source>Copy/move segments</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுகளை நகலெடுக்கவும்/நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="265"/>
         <source>Current segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய பிரிவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="307"/>
         <source>Move from current segmentation to other Segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய பிரிவில் இருந்து பிற பிரிவு முனைக்கு நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="310"/>
         <source>&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="335"/>
         <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய பிரிவில் இருந்து பிற முனைக்கு நகலெடுக்கவும் (நகல் மற்றும் மாதிரிக்கான பிரிவு முனை அல்லது இறக்குமதி/ஏற்றுமதிக்கான லேபிள்மேப் முனை)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="338"/>
         <source>+&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>+&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="363"/>
         <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished"></translation>
+        <translation>பிற முனையிலிருந்து தற்போதைய பிரிவுக்கு நகலெடுக்கவும் (நகல் மற்றும் மாதிரிக்கான பிரிவு முனை அல்லது இறக்குமதி/ஏற்றுமதிக்கான லேபிள்மேப் முனை)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="366"/>
         <source>&lt;+</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
         <source>Move to current segmentation from other Segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>பிற பிரிவு முனையிலிருந்து தற்போதைய பிரிவுக்கு நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
         <source>&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="416"/>
         <source>Select Segmentation node to copy/move segments to/from.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுகளை நகலெடுக்க/நகர்த்த/நகர்த்த பிரித்தல் முனையைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="457"/>
         <source>Export/import models and labelmaps</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி/இறக்குமதி மாதிரிகள் மற்றும் லேபிள்மேப்ச்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="489"/>
         <source>Clear selection indicating that a new node should be created</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய முனை உருவாக்கப்பட வேண்டும் என்பதைக் குறிக்கும் தெளிவான தேர்வு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="505"/>
         <source>Operation:</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்பாடு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="512"/>
         <source>Labelmap</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="522"/>
         <source>Models</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="529"/>
         <source>Type:</source>
-        <translation type="unfinished">வகை:</translation>
+        <translation>தட்டச்சு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="536"/>
         <source>Output:</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீடு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="543"/>
         <source>Apply</source>
-        <translation type="unfinished">விண்ணப்பிக்கவும்</translation>
+        <translation>இடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="550"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="557"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>இறக்குமதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="564"/>
         <source>Advanced</source>
-        <translation type="unfinished">மேம்படுத்தபட்ட</translation>
+        <translation>மேம்பட்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="594"/>
         <source>Exported segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி செய்யப்பட்ட பிரிவுகள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="602"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="607"/>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரியும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="615"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="625"/>
         <source>Exported labelmap geometry will match this volume&apos;s geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி செய்யப்பட்ட லேபிள்மேப் வடிவியல் இந்த தொகுதியின் வடிவவியலுடன் பொருந்தும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="618"/>
         <source>Reference volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>குறிப்பு தொகுதி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="646"/>
         <source>Use color table values:</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண அட்டவணை மதிப்புகளைப் பயன்படுத்தவும்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="679"/>
         <source>Labels of the imported labelmap will be mapped to terminology entries of this context</source>
-        <translation type="unfinished"></translation>
+        <translation>இறக்குமதி செய்யப்பட்ட லேபிள்மேப்பின் லேபிள்கள் இந்த சூழலின் சொற்களஞ்சியம் உள்ளீடுகளுக்கு மாற்றப்படும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="685"/>
         <source>Choose terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>சொற்களைத் தேர்வுசெய்க ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="692"/>
         <source>Terminology context:</source>
-        <translation type="unfinished"></translation>
+        <translation>சொல் சூழல்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="705"/>
         <source>Export to files</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புகளுக்கு ஏற்றுமதி செய்யுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="748"/>
         <source>Binary labelmap layers</source>
-        <translation type="unfinished"></translation>
+        <translation>பைனரி லேபிள்மேப் அடுக்குகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="757"/>
         <source>Number of layers:</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுக்குகளின் எண்ணிக்கை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="767"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="810"/>
         <source>0</source>
-        <translation type="unfinished">மூன்று {0?}</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="774"/>
         <source>Forcing all segments to a single layer will modify overlapping segments. Regions where multiple segments overlap will be assigned to the segment closest to the end of the segment list.</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து பிரிவுகளையும் ஒரு அடுக்குக்கு கட்டாயப்படுத்துவது ஒன்றுடன் ஒன்று பிரிவுகளை மாற்றும். பிரிவு பட்டியலின் முடிவில் மிக நெருக்கமான பிரிவுக்கு பல பிரிவுகள் ஒன்றுடன் ஒன்று ஒதுக்கப்படும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="777"/>
         <source>Force collapse to single layer:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒற்றை அடுக்குக்கு ஆற்றல் சரிவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="784"/>
         <source>Number of segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுகளின் எண்ணிக்கை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="800"/>
         <source>Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</source>
-        <translation type="unfinished"></translation>
+        <translation>நினைவக பயன்பாட்டைக் குறைக்க பகிரப்பட்ட அடுக்குகளுக்கு பிரிவுகளை நகர்த்துவதன் மூலம் அடுக்குகளின் எண்ணிக்கையைக் குறைக்கவும். ஒன்றுடன் ஒன்று பிரிவுகள் இல்லாவிட்டால் பிரிவுகளின் உள்ளடக்கங்கள் மாற்றியமைக்கப்படாது, மேலும் ஒரு அடுக்குக்கு சரிந்து வருவது கட்டாயப்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="803"/>
         <source>Collapse labelmap layers</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப் அடுக்குகளை சரிவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="99"/>
         <source>Segmentations module manages segmentations. Each segmentation can contain multiple segments, which correspond to one structure or ROI. Each segment can contain multiple data representations for the same structure, and the module supports automatic conversion between these representations as well as advanced display settings and import/export features.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு தொகுதி பிரிவுகளை நிர்வகிக்கிறது. ஒவ்வொரு பிரிவிலும் பல பிரிவுகள் இருக்கலாம், அவை ஒரு கட்டமைப்பு அல்லது ROI உடன் ஒத்திருக்கும். ஒவ்வொரு பிரிவிலும் ஒரே கட்டமைப்பிற்கான பல தரவு பிரதிநிதித்துவங்கள் இருக்கலாம், மேலும் தொகுதி இந்த பிரதிநிதித்துவங்களுக்கிடையில் தானியங்கி மாற்றத்தையும் மேம்பட்ட காட்சி அமைப்புகள் மற்றும் இறக்குமதி/ஏற்றுமதி அம்சங்களை ஆதரிக்கிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="112"/>
         <source>This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலை ச்பார்கிட் திட்டத்தின் ஒரு பகுதியாகும், இது புற்றுநோய் பராமரிப்பு ஒன்ராறியோ (சி.சி.ஓ) இன் அக்யூ திட்டம் மற்றும் கதிர்வீச்சு புற்றுநோயியல் (ஒக்கைரோ) இல் தகவமைப்பு தலையீடுகளுக்கான ஒன்ராறியோ கூட்டமைப்பு ஆகியவற்றால் நிதியளிக்கப்படுகிறது.</translation>
     </message>
 </context>
 <context>
@@ -25019,42 +25078,42 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="633"/>
         <source>Output type:</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு வகை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="634"/>
         <source>Output node:</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு முனை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="635"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="641"/>
         <source>Input type:</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீட்டு வகை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="642"/>
         <source>Input node:</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீட்டு முனை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="643"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>இறக்குமதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="660"/>
         <source>Export to new labelmap</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய லேபிள்மேப்பிற்கு ஏற்றுமதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="668"/>
         <source>Export models to new folder</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய கோப்புறைக்கு மாதிரிகள் ஏற்றுமதி செய்யுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="779"/>
@@ -25068,93 +25127,103 @@ Note: This may result in unwanted data loss in %5.</source>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>மூல பிரதிநிதித்துவத்தை &apos;%1&apos; இலக்கு மூல &apos;%2&apos; ஆக மாற்ற முடியாது, இதனால் &apos;%3&apos; பிரிவில் இருந்து &apos;%4&apos; இலிருந்து &apos;%5&apos; வரை நகலெடுக்க முடியவில்லை.
+
+ &apos;%5&apos; இன் மூல பிரதிநிதித்துவத்தை &apos;%1&apos; ஆக மாற்ற விரும்புகிறீர்களா?
+
+ குறிப்பு: இது %5 இல் தேவையற்ற தரவு இழப்பை ஏற்படுத்தக்கூடும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="785"/>
         <source>Failed to copy segment</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவை நகலெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="793"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ஐ %2 ஆக மாற்றுவதில் தோல்வி!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="794"/>
         <source>Conversion failed</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றம் தோல்வியடைந்தது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="918"/>
         <source>Export may erase data</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி தரவை அழிக்கக்கூடும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="923"/>
         <source>Segmentations/AlwaysCropDuringSegmentationNodeExport</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு முனை ஏற்றுமதியின் போது பிரிவு/எப்போதும் பயிர்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="924"/>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய பிரிவு புதிய வடிவவியலுடன் முற்றிலும் பொருந்தாது.
+ நீங்கள் பிரிவை பயிர் செய்ய விரும்புகிறீர்களா?
+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1000"/>
         <source>Failed to export segments from segmentation %1 to labelmap node %2!
 
 Most probably the segment cannot be converted into binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு %1 முதல் லேபிள்மேப் முனை %2 வரை பிரிவுகளை ஏற்றுமதி செய்யத் தவறிவிட்டது!
+
+ அநேகமாக பிரிவை பைனரி லேபிள்மேப் பிரதிநிதித்துவமாக மாற்ற முடியாது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1004"/>
         <source>Failed to export segments to labelmap</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப்பிற்கு பிரிவுகளை ஏற்றுமதி செய்யத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1016"/>
         <source>Failed to export segments from segmentation %1 to models in folder %2!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புறை %2 இல் உள்ள மாதிரிகள் முதல் மாதிரிகள் வரை பிரிவுகளை ஏற்றுமதி செய்யத் தவறிவிட்டது!
+
+ அநேகமாக பகுதியை மூடிய மேற்பரப்பு பிரதிநிதித்துவமாக மாற்ற முடியாது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1020"/>
         <source>Failed to export segments to models</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரிகளுக்கு பிரிவுகளை ஏற்றுமதி செய்யத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1077"/>
         <source>Failed to copy labels from labelmap volume node %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப் தொகுதி முனை %1 இலிருந்து லேபிள்களை நகலெடுப்பதில் தோல்வி!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1079"/>
         <source>Failed to import labelmap volume</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப் அளவை இறக்குமதி செய்வதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1088"/>
         <source>Failed to copy polydata from model node %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரி முனை %1 இலிருந்து பாலிடேட்டாவை நகலெடுப்பதில் தோல்வி!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1090"/>
         <source>Failed to import model node</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரி முனையை இறக்குமதி செய்வதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1099"/>
         <source>Failed to copy polydata from models under folder %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 கோப்புறை கீழ் மாதிரிகளிலிருந்து பாலிடேட்டாவை நகலெடுப்பதில் தோல்வி!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1101"/>
         <source>Failed to import models</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரிகளை இறக்குமதி செய்யத் தவறிவிட்டது</translation>
     </message>
 </context>
 <context>
@@ -25162,12 +25231,12 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="46"/>
         <source>Crop to minimum extent</source>
-        <translation type="unfinished"></translation>
+        <translation>குறைந்தபட்சம் பயிர்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="48"/>
         <source>If enabled then segmentation labelmap representation is cropped to the minimum necessary size. This saves storage space but changes voxel coordinate system (physical coordinate system is not affected).</source>
-        <translation type="unfinished"></translation>
+        <translation>இயக்கப்பட்டால், பிரிவு லேபிள்மேப் பிரதிநிதித்துவம் குறைந்தபட்ச தேவையான அளவிற்கு வெட்டப்படுகிறது. இது சேமிப்பக இடத்தை மிச்சப்படுத்துகிறது, ஆனால் வோக்சல் ஒருங்கிணைப்பு அமைப்பை மாற்றுகிறது (உடல் ஒருங்கிணைப்பு அமைப்பு பாதிக்கப்படவில்லை).</translation>
     </message>
 </context>
 <context>
@@ -25176,7 +25245,7 @@ Most probably the segment cannot be converted into closed surface representation
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="81"/>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="93"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு</translation>
     </message>
 </context>
 <context>
@@ -25184,105 +25253,105 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="14"/>
         <source>SegmentationsSettingsPanel</source>
-        <translation type="unfinished"></translation>
+        <translation>Sictionationsettingspanel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="20"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="30"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="56"/>
         <source>Automatically set opacities of the segments when loading from file based on which contains which, so that no segment obscures another</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பிலிருந்து ஏற்றும்போது பகுதிகளின் ஒளிபுகாநிலைகளை தானாக அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="23"/>
         <source>Automatic segment opacities:</source>
-        <translation type="unfinished"></translation>
+        <translation>தானியங்கி பிரிவு ஒளிபுகாநிலைகள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="59"/>
         <source>Enable surface smoothing by default:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்பாக மேற்பரப்பு மென்மையாக்கத்தை இயக்கவும்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="66"/>
         <source>Enable surface smoothing during binary labelmap to closed surface conversion in new segmentations. Smoothing improves appearance in 3D views and exported models but makes segment editing considerably slower.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய பிரிவுகளில் மூடிய மேற்பரப்பு மாற்றத்திற்கு பைனரி லேபிள்மேப்பின் போது மேற்பரப்பு மென்மையாக்கலை இயக்கவும். மென்மையானது 3D காட்சிகள் மற்றும் ஏற்றுமதி செய்யப்பட்ட மாதிரிகளில் தோற்றத்தை மேம்படுத்துகிறது, ஆனால் பிரிவு திருத்துதல் கணிசமாக மெதுவாக செய்கிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="79"/>
         <source>Default terminology entry:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை சொற்களஞ்சியம் நுழைவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="86"/>
         <source>This terminology will be used by default for new segments in an empty segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த சொற்கள் வெற்று பிரிவில் புதிய பிரிவுகளுக்கு இயல்பாகவே பயன்படுத்தப்படும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="89"/>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="200"/>
         <source>(set)</source>
-        <translation type="unfinished"></translation>
+        <translation>(தொகுப்பு)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="96"/>
         <source>Edit hidden segments: </source>
-        <translation type="unfinished"></translation>
+        <translation>மறைக்கப்பட்ட பிரிவுகளைத் திருத்தவும்: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="103"/>
         <source>This option controls what the application should do if the user edits a segment that is currently not visible. It is meant to prevent unintentional changes to hidden segments.</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போது தெரியாத ஒரு பகுதியை பயனர் திருத்தினால், பயன்பாடு என்ன செய்ய வேண்டும் என்பதை இந்த விருப்பம் கட்டுப்படுத்துகிறது. இது மறைக்கப்பட்ட பிரிவுகளில் தற்செயலாக மாற்றங்களைத் தடுப்பதாகும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="110"/>
         <source>Default overwrite mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை மேலெழுதல் பயன்முறை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="93"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்த வகையையும் அடிப்படையாகக் கொண்ட பிரிவுகளின் ஒளிபுகாநிலைகளை தானாக அமைக்கவும், இதனால் எந்த பிரிவும் மற்றொன்றை மறைக்காது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="97"/>
         <source>Enable closed surface representation smoothing by default</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்னிருப்பாக மூடிய மேற்பரப்பு பிரதிநிதித்துவத்தை மென்மையாக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="100"/>
         <source>Default terminology entry</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை சொற்களஞ்சியம் நுழைவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="102"/>
         <source>Ask user</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனரிடம் கேளுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="103"/>
         <source>Always make visible</source>
-        <translation type="unfinished"></translation>
+        <translation>எப்போதும் தெரியும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="104"/>
         <source>Always allow</source>
-        <translation type="unfinished"></translation>
+        <translation>எப்போதும் அனுமதிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="108"/>
         <source>Overwrite all</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தையும் மேலெழுதவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="109"/>
         <source>Overwrite visible</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலெழுதும் தெரியும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="110"/>
         <source>Allow overlap</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒன்றுடன் ஒன்று அனுமதிக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -25290,22 +25359,22 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.h" line="60"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசைகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="106"/>
         <source>Sequence browser</source>
-        <translation type="unfinished">வரிசை உலாவி</translation>
+        <translation>வரிசை உலாவி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="167"/>
         <source>This is a module for creating, recording, and replaying node sequences.</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை காட்சிகளை உருவாக்குவதற்கும், பதிவு செய்வதற்கும், மீண்டும் இயக்குவதற்கும் இது ஒரு தொகுதி.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="173"/>
         <source>This work was funded by CCO ACRU and OCAIRO grants.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலைக்கு CCO ACRU மற்றும் OCIRO GRANTS நிதியளித்தன.</translation>
     </message>
 </context>
 <context>
@@ -25317,186 +25386,186 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசைகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>உலாவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="32"/>
         <source>Sequence browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசை உலாவி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="44"/>
         <source>SequenceBrowser</source>
-        <translation type="unfinished"></translation>
+        <translation>சீக்வெர்ப்சர்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="56"/>
         <source>Browsing</source>
-        <translation type="unfinished"></translation>
+        <translation>உலாவுதல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="71"/>
         <source>Synchronized nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒத்திசைக்கப்பட்ட முனைகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="99"/>
         <source>(new sequence)</source>
-        <translation type="unfinished"></translation>
+        <translation>(புதிய வரிசை)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="112"/>
         <source>Add the selected sequence to the browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>உலாவியில் தேர்ந்தெடுக்கப்பட்ட வரிசையைச் சேர்க்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="128"/>
         <source>Remove the selected sequence(s) from the browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>உலாவியில் இருந்து தேர்ந்தெடுக்கப்பட்ட வரிசை (களை) அகற்றவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="156"/>
         <source>Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="159"/>
         <source>The sequence node&apos;s name.</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசை முனையின் பெயர்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="164"/>
         <source>Proxy node</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிலாள் முனை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="167"/>
         <source>The &quot;proxy&quot; node for the sequence (the node to playback into or record from).</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசைக்கான &quot;பதிலாள்&quot; முனை (பிளேபேக் செய்வதற்கான முனை அல்லது பதிவு செய்யுங்கள்).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="175"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Playback - update proxy node with sequence node contents during playback.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; பின்னணி - பிளேபேக்கின் போது வரிசை முனை உள்ளடக்கங்களுடன் பதிலாள் முனையை புதுப்பிக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="187"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Record - save proxy node changes into sequence node during recording.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; பதிவு - பதிவு செய்யும் போது பதிலாள் முனை மாற்றங்களை வரிசை முனையாக சேமிக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="196"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>மறுபெயரிடுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="199"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set the proxy node name using sequence node name and index value.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; வரிசை முனை பெயர் மற்றும் குறியீட்டு மதிப்பைப் பயன்படுத்தி பதிலாள் முனை பெயரை அமைக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="204"/>
         <source>Save changes</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றங்களைச் சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="207"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Save the proxy node current state into the sequence when not in playback or recording mode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; பிளேபேக் அல்லது ரெக்கார்டிங் பயன்முறையில் இல்லாதபோது பதிலாள் முனை தற்போதைய நிலையை வரிசையில் சேமிக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="227"/>
         <source>Plotting</source>
-        <translation type="unfinished"></translation>
+        <translation>சூழ்ச்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="242"/>
         <source>Enable interactive charting</source>
-        <translation type="unfinished"></translation>
+        <translation>ஊடாடும் விளக்கப்படத்தை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="268"/>
         <source>Advanced</source>
-        <translation type="unfinished">மேம்படுத்தபட்ட</translation>
+        <translation>மேம்பட்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="283"/>
         <source>Enable item skip during playback:</source>
-        <translation type="unfinished"></translation>
+        <translation>பிளேபேக்கின் போது உருப்படி தவிர்க்கவும்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="290"/>
         <source>If checked, items may be skipped during playback to reach the requested frame rate. If not checked then each item is displayed during playback but the playback speed may be lower than requested.</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிபார்க்கப்பட்டால், கோரப்பட்ட பிரேம் வீதத்தை அடைய பிளேபேக்கின் போது உருப்படிகளைத் தவிர்க்கலாம். சரிபார்க்கப்படாவிட்டால், ஒவ்வொரு உருப்படியும் பின்னணியின் போது காட்டப்படும், ஆனால் பிளேபேக் விரைவு கோரப்பட்டதை விட குறைவாக இருக்கலாம்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="300"/>
         <source>Record on master node only:</source>
-        <translation type="unfinished"></translation>
+        <translation>மாச்டர் முனையில் மட்டும் பதிவு செய்யுங்கள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="314"/>
         <source>Master node:</source>
-        <translation type="unfinished"></translation>
+        <translation>முதன்மை முனை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="342"/>
         <source>Recording sampling mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரி பயன்முறையை பதிவு செய்தல்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="350"/>
         <source>Maximum</source>
         <extracomment>Record all node changes</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>பெருமம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="355"/>
         <source>Limited to playback rate</source>
         <extracomment>Limit recording frame rate to playback frame rate</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>பிளேபேக் வீதத்திற்கு மட்டுமே</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="363"/>
         <source>Index display:</source>
-        <translation type="unfinished"></translation>
+        <translation>குறியீட்டு காட்சி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="371"/>
         <source>Index</source>
         <extracomment>Display item index of master node</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>குறியெண்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="376"/>
         <source>Index value</source>
         <extracomment>Display index value of selected item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>குறியீட்டு மதிப்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="384"/>
         <source>Index display format:</source>
-        <translation type="unfinished"></translation>
+        <translation>குறியீட்டு காட்சி வடிவம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="391"/>
         <source>Display index string in SPRINTF format. Only the first conversion specification is replaced. Available specifiers are: fFgGeEs.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்பிரிண்ட்ஃப் வடிவத்தில் குறியீட்டு சரத்தைக் காண்பி. முதல் மாற்று விவரக்குறிப்பு மட்டுமே மாற்றப்படுகிறது. கிடைக்கக்கூடிய குறிப்பான்கள்: ffggees.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="402"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="431"/>
         <source>Sequence:</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசை:</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -25509,53 +25578,53 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>
         <source>Signal Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>சமிக்ஞை தீவிரம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="302"/>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="333"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>நேரம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="332"/>
         <source>Displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>இடம்பெயர்வு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="882"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation>மீ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="883"/>
         <source>Master sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>முதன்மை வரிசை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="888"/>
         <source>Synchronized sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒத்திசைக்கப்பட்ட வரிசை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="894"/>
         <source>Include this node in synchronized playback</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒத்திசைக்கப்பட்ட பின்னணியில் இந்த முனையைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="898"/>
         <source>Overwrite the associated node&apos;s name during playback</source>
-        <translation type="unfinished"></translation>
+        <translation>பிளேபேக்கின் போது தொடர்புடைய முனையின் பெயரை மேலெழுதவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="902"/>
         <source>Save changes to the node into the sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>முனையில் மாற்றங்களை வரிசையில் சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="906"/>
         <source>Include this node in synchronized recording</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒத்திசைக்கப்பட்ட பதிவில் இந்த முனையைச் சேர்க்கவும்</translation>
     </message>
 </context>
 <context>
@@ -25564,13 +25633,13 @@ Most probably the segment cannot be converted into closed surface representation
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="81"/>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="94"/>
         <source>Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="95"/>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="96"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வரிசை</translation>
     </message>
 </context>
 <context>
@@ -25578,98 +25647,98 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="14"/>
         <source>Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>கேச்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="23"/>
         <source>Cache directory for downloaded files</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவிறக்கம் செய்யப்பட்ட கோப்புகளுக்கான கேச் அடைவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="26"/>
         <source>Cache location:</source>
-        <translation type="unfinished"></translation>
+        <translation>கேச் இடம்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="35"/>
         <source>~0MB used</source>
-        <translation type="unfinished"></translation>
+        <translation>M 0MB பயன்படுத்தப்பட்டது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="42"/>
         <source>~200MB free</source>
-        <translation type="unfinished"></translation>
+        <translation>M 200MB இலவசம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="51"/>
         <source>Current usage of the cache</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிக சேமிப்பின் தற்போதைய பயன்பாடு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="54"/>
         <source>Cache usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>கேச் பயன்பாடு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="61"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="90"/>
         <source>MB</source>
-        <translation type="unfinished"></translation>
+        <translation>எம்பி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="80"/>
         <source>Upper limit of the dedicated cache for downloaded files</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவிறக்கம் செய்யப்பட்ட கோப்புகளுக்கான பிரத்யேக தற்காலிக சேமிப்பின் மேல் வரம்பு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="83"/>
         <source>Cache size:</source>
-        <translation type="unfinished"></translation>
+        <translation>கேச் அளவு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="106"/>
         <source>Amount of space that should remain free. It should be the typical size of a file to download.</source>
-        <translation type="unfinished"></translation>
+        <translation>இலவசமாக இருக்க வேண்டிய இடத்தின் அளவு. இது பதிவிறக்கம் செய்ய ஒரு கோப்பின் வழக்கமான அளவாக இருக்க வேண்டும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="109"/>
         <source>Cache free buffer:</source>
-        <translation type="unfinished"></translation>
+        <translation>கேச் இலவச இடையக:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="116"/>
         <source>Control whether a file must be downloaded even if it is already in the cache</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு கோப்பு ஏற்கனவே தற்காலிக சேமிப்பில் இருந்தாலும் பதிவிறக்கம் செய்யப்பட வேண்டுமா என்பதைக் கட்டுப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="119"/>
         <source>Force redownload:</source>
-        <translation type="unfinished"></translation>
+        <translation>மறுசீரமைப்பை கட்டாயப்படுத்துங்கள்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="136"/>
         <source>Files in cache:</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிக சேமிப்பில் உள்ள கோப்புகள்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="143"/>
         <source>Delete all files in cache directory</source>
-        <translation type="unfinished"></translation>
+        <translation>கேச் கோப்பகத்தில் எல்லா கோப்புகளையும் நீக்கு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="146"/>
         <source>Clear cache</source>
-        <translation type="unfinished"></translation>
+        <translation>தெளிவான தற்காலிக சேமிப்பு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="144"/>
         <source>%1MB used</source>
-        <translation type="unfinished"></translation>
+        <translation>%1MB பயன்படுத்தப்படுகிறது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="148"/>
         <source>%1MB free</source>
-        <translation type="unfinished"></translation>
+        <translation>%1MB இலவசம்</translation>
     </message>
 </context>
 <context>
@@ -25677,73 +25746,73 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="14"/>
         <source>Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்குநர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="20"/>
         <source>Enable developer mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்குபவர் பயன்முறையை இயக்கு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="27"/>
         <source>Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்குபவர் பயன்முறையில் பயன்பாட்டை இயக்கவும்: சோதனை தொகுதிகள் தொகுதி பட்டியலில் காட்டப்பட்டுள்ளன, மறுஏற்றம் மற்றும் சோதனை பிரிவு ச்கிரிப்ட் செய்யப்பட்ட தொகுதிகள் பயனர் இடைமுகத்தில் காட்டப்பட்டுள்ளது, CLI தொகுதி உள்ளீடு மற்றும் வெளியீட்டு கோப்புகள் தொகுதி செயல்படுத்தலுக்குப் பிறகு நீக்கப்படவில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="37"/>
         <source>Enable QtTesting:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qttesting ஐ இயக்கு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="51"/>
         <source>Self-test message delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>தன்வய சோதனை செய்தி தாமதம்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="58"/>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="83"/>
         <source>Time to wait before resuming self-test execution and hiding messages displayed to the user</source>
-        <translation type="unfinished"></translation>
+        <translation>தன்வய சோதனை செயல்படுத்தல் மற்றும் பயனருக்கு காண்பிக்கப்படும் செய்திகளை மறைப்பதற்கு முன் காத்திருக்க வேண்டிய நேரம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="73"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>எம்.எச்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="80"/>
         <source>Qt Designer:</source>
-        <translation type="unfinished"></translation>
+        <translation>கியுடி வடிவமைப்பாளர்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="89"/>
         <source>launch</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏவுதல்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="111"/>
         <source>Preserve CLI module data files:</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI தொகுதி தரவுக் கோப்புகளைப் பாதுகாக்கவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="118"/>
         <source>Preserve input and data files created during CLI module execution</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI தொகுதி செயல்பாட்டின் போது உருவாக்கப்பட்ட உள்ளீடு மற்றும் தரவுக் கோப்புகளைப் பாதுகாக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="75"/>
         <source>Enable/Disable developer mode</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்குபவர் பயன்முறையை இயக்கவும்/முடக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="79"/>
         <source>Preserve CLI module input/output files</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI தொகுதி உள்ளீடு/வெளியீட்டு கோப்புகளைப் பாதுகாக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="87"/>
         <source>Enable/Disable QtTesting</source>
-        <translation type="unfinished"></translation>
+        <translation>Qttesting ஐ இயக்கவும்/முடக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -25751,97 +25820,97 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="37"/>
         <source>Enable Extensions Manager:</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு மேலாளரை இயக்கு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="44"/>
         <source>Hide Extensions Manager from the application user interface. Automatic updates are performed even if the Extensions Manager is disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டு பயனர் இடைமுகத்திலிருந்து நீட்டிப்பு மேலாளரை மறைக்கவும். நீட்டிப்பு மேலாளர் முடக்கப்பட்டிருந்தாலும் தானியங்கி புதுப்பிப்புகள் செய்யப்படுகின்றன.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="57"/>
         <source>Automatically check for updates:</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளை தானாக சரிபார்க்கவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="64"/>
         <source>Periodically check the extensions server for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளுக்கு நீட்டிப்பு சேவையகத்தை அவ்வப்போது சரிபார்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="77"/>
         <source>Automatically install updates:</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளை தானாக நிறுவவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="84"/>
         <source>If updates are found then install them automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகள் காணப்பட்டால் அவற்றை தானாக நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="97"/>
         <source>Extensions server URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகள் சேவையக URL:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="107"/>
         <source>Extensions frontend server URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகள் ஃப்ரண்டென்ட் சேவையக URL:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="117"/>
         <source>Extensions installation path:</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்புகள் நிறுவல் பாதை:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="143"/>
         <source>Open Extensions Manager...</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த நீட்டிப்பு மேலாளர் ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="154"/>
         <source>Open Extensions Catalog website...</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த நீட்டிப்புகள் பட்டியல் வலைத்தளம் ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="157"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை வலை உலாவியில் நீட்டிப்புகள் பட்டியல் வலைத்தளத்தைத் திறக்கவும். இணைப்பில்லாத பயன்பாட்டிற்கான நீட்டிப்பு தொகுப்புகளைப் பதிவிறக்குவதற்கு பயனுள்ளதாக இருக்கும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="164"/>
         <source>Automatically install dependencies:</source>
-        <translation type="unfinished"></translation>
+        <translation>தானாகவே சார்புகளை நிறுவவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="171"/>
         <source>Automatically install required additional extensions when installing an extension</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பை நிறுவும் போது தானாகவே கூடுதல் நீட்டிப்புகளை நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="91"/>
         <source>Enable/Disable extensions manager</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு மேலாளரை இயக்கவும்/முடக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="103"/>
         <source>Automatic update check</source>
-        <translation type="unfinished"></translation>
+        <translation>தானியங்கி புதுப்பிப்பு சோதனை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="105"/>
         <source>Automatic update install</source>
-        <translation type="unfinished"></translation>
+        <translation>தானியங்கி புதுப்பிப்பு நிறுவல்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="107"/>
         <source>Automatic install of dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>சார்புகளின் தானியங்கி நிறுவல்</translation>
     </message>
 </context>
 <context>
@@ -25849,133 +25918,137 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="14"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>பொது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="20"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலையாக காட்சிகள் சேமிக்கப்படும் அடைவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="23"/>
         <source>Default scene location:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை காட்சி இடம்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="33"/>
         <source>Disable splash screen:</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்பிளாச் திரையை முடக்கு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="50"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>மொழி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="57"/>
         <source>Confirm on restart:</source>
-        <translation type="unfinished"></translation>
+        <translation>மறுதொடக்கம் செய்வதில் உறுதிப்படுத்தவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="74"/>
         <source>Confirm on exit:</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியேறும்போது உறுதிப்படுத்தவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="91"/>
         <source>Confirm on scene close:</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி நெருக்கமாக உறுதிப்படுத்தவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="108"/>
         <source>Documentation base URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆவணப்படுத்தல் அடிப்படை URL:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="115"/>
         <source>Specify documentation location.
 Available placeholders: {language}, {version}.
 Default: https://slicer.readthedocs.io/{language}/{version}</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆவணங்கள் இருப்பிடத்தைக் குறிப்பிடவும்.
+ கிடைக்கக்கூடிய இடம் வைத்திருப்பவர்கள்: {மொழி}, {பதிப்பு}.
+ இயல்புநிலை: https://slicer.readthedocs.io/ {Language }/ {சன்}</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="137"/>
         <source>Max. number of &apos;Recent&apos; menu items:</source>
         <oldsource>Max. number of &apos;Recently Loaded&apos; menu items:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்சம். &apos;அண்மைக் கால&apos; பட்டியல் உருப்படிகளின் எண்ணிக்கை:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="144"/>
         <source>Python script that is executed after the application is started</source>
-        <translation type="unfinished"></translation>
+        <translation>விண்ணப்பம் தொடங்கப்பட்ட பிறகு செயல்படுத்தப்படும் பைதான் ச்கிரிப்ட்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="147"/>
         <source>Application startup script:</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டு தொடக்க ச்கிரிப்ட்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="169"/>
         <source>Open Slicer resource file</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் வள கோப்பைத் திறக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="181"/>
         <source>Module documentation URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி ஆவணம் URL:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="188"/>
         <source>Specify URL for module documentation.
 Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
 Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி ஆவணங்களுக்கு முகவரி ஐக் குறிப்பிடவும்.
+ கிடைக்கக்கூடிய இடம் வைத்திருப்பவர்கள்: {documentationBaseUrl}, {lowarCaseModuleName}.
+ இயல்புநிலை: {documationBaseurl}/USER_GUIDE/தொகுதிகள்/{lowarCaseModuleName} .html</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="197"/>
         <source>Automatically check for updates:</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளை தானாக சரிபார்க்கவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="204"/>
         <source>Periodically check for available application updates</source>
-        <translation type="unfinished"></translation>
+        <translation>கிடைக்கக்கூடிய பயன்பாட்டு புதுப்பிப்புகளை அவ்வப்போது சரிபார்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="217"/>
         <source>Update server URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையக முகவரி ஐப் புதுப்பிக்கவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="224"/>
         <source>Address of the server that provides information on latest available application version.</source>
-        <translation type="unfinished"></translation>
+        <translation>கிடைக்கக்கூடிய அண்மைக் கால பயன்பாட்டு பதிப்பு பற்றிய தகவல்களை வழங்கும் சேவையகத்தின் முகவரி.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="109"/>
         <source>Application update server URL</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டு புதுப்பிப்பு சேவையக முகவரி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="156"/>
         <source>Default scene path</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை காட்சி பாதை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="187"/>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="191"/>
         <source>Documentation location</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆவணமாக்கல் இடம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="195"/>
         <source>Enable/Disable languages</source>
-        <translation type="unfinished"></translation>
+        <translation>மொழிகளை இயக்கவும்/முடக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="199"/>
         <source>Max. number of &apos;Recent&apos; menu items</source>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்சம். &apos;அண்மைக் கால&apos; பட்டியல் உருப்படிகளின் எண்ணிக்கை</translation>
     </message>
 </context>
 <context>
@@ -25983,17 +26056,17 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="14"/>
         <source>Internationalization</source>
-        <translation type="unfinished"></translation>
+        <translation>பன்னாட்டுமயமாக்கல்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="20"/>
         <source>Enable Internationalization:</source>
-        <translation type="unfinished"></translation>
+        <translation>சர்வதேசமயமாக்கலை இயக்கு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsInternationalizationPanel.cxx" line="68"/>
         <source>Enable/Disable Internationalization</source>
-        <translation type="unfinished"></translation>
+        <translation>சர்வதேசமயமாக்கலை இயக்கு/முடக்கு</translation>
     </message>
 </context>
 <context>
@@ -26001,75 +26074,75 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="20"/>
         <source>Module</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="32"/>
         <source>Skip loading of any:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏதேனும் ஒன்றை ஏற்றுவதைத் தவிர்க்கவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
         <source>To temporarily disable, pass --disable-loadable-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிகமாக முடக்க, கட்டளை வரியில்-அனுப்பக்கூடிய-ஏற்றக்கூடிய தொகுதிகளை கடந்து செல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="63"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="130"/>
         <source>loadable modules</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றக்கூடிய தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="70"/>
         <source>To temporarily disable, pass --disable-cli-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிகமாக முடக்க, கட்டளை வரியில்--அனுப்பக்கூடிய-கிளி-தொகுதிகளை கடந்து செல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="73"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="140"/>
         <source>command-line plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டளை-வரி செருகுநிரல்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="80"/>
         <source>To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிகமாக முடக்க, கட்டளை வரியில்-அனுப்பக்கூடிய-ச்கிரிப்ட்-லோடபிள்-தொகுதிகளை கடந்து செல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="83"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="150"/>
         <source>scripted loadable modules</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்கிரிப்ட் செய்யப்பட்ட ஏற்றக்கூடிய தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="99"/>
         <source>Skip loading of builtin:</source>
-        <translation type="unfinished"></translation>
+        <translation>பில்டின் ஏற்றுவதைத் தவிர்க்கவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
         <source>To temporarily disable, pass --disable-builtin-loadable-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிகமாக முடக்க, கட்டளை வரியில்--டிசபிள்-பில்டின்-ஏற்றக்கூடிய தொகுதிகளை கடந்து செல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="137"/>
         <source>To temporarily disable, pass --disable-builtin-cli-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிகமாக முடக்க, கட்டளை வரியில்--நீர்த்துப்போகக்கூடிய-கட்டுபியின்-கிளி-தொகுதிகளை கடந்து செல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="147"/>
         <source>To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிகமாக முடக்க, கட்டளை வரியில்--டிசபிள்-பில்டின்-ச்கிரிப்ட்-லோடபிள்-தொகுதிகளை கடந்து செல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="166"/>
         <source>Show hidden modules:</source>
-        <translation type="unfinished"></translation>
+        <translation>மறைக்கப்பட்ட தொகுதிகளைக் காட்டு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="210"/>
         <source>Temporary directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிக அடைவு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="238"/>
@@ -26079,153 +26152,157 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
 &lt;/body&gt;&lt;/html&gt;
 </source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt;
+ &lt;p&gt; கூடுதல் தொகுதி பாதைகள்: &lt;/p&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-இடது: 10px;&quot;&gt; &lt;span சூல் தண்டு = &quot;எழுத்துரு அளவு: சிறிய; எழுத்துரு பாணி: சாய்வு;&quot;&gt; இழுவை &amp; ஆம்ப்; கோப்புகள் அல்லது கோப்புறைகளை கைவிடவும் &lt;br/&gt; கோப்பு எக்ச்ப்ளோரர் &lt;/span&gt; &lt;/p&gt; இலிருந்து
+ &lt;/body&gt; &lt;/html&gt;
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="283"/>
         <source>Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>பாதைகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="289"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>கூட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="296"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="768"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>அகற்று</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="338"/>
         <source>when checking/unchecking a module, its dependencies are checked/unchecked accordingly</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு தொகுதியைச் சரிபார்க்கும்போது/தேர்வுசெய்யும்போது, அதன் சார்புநிலைகள் சரிபார்க்கப்படுகின்றன/அதற்கேற்ப தேர்வு செய்யப்படுகின்றன</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="341"/>
         <source>Modules:</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="403"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>வடிப்பி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="412"/>
         <source>Hide modules to load at startup</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடக்கத்தில் ஏற்ற தொகுதிகளை மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="415"/>
         <source>To load</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்ற</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="434"/>
         <source>Hide modules to ignore at startup</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடக்கத்தில் புறக்கணிக்க தொகுதிகள் மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="437"/>
         <source>To ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>புறக்கணிக்க</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="456"/>
         <source>Hide loaded modules</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றப்பட்ட தொகுதிகளை மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="459"/>
         <source>Loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றப்பட்டது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="509"/>
         <source>Hide ignored modules</source>
-        <translation type="unfinished"></translation>
+        <translation>புறக்கணிக்கப்பட்ட தொகுதிகளை மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="512"/>
         <source>Ignored</source>
-        <translation type="unfinished"></translation>
+        <translation>புறக்கணிக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="562"/>
         <source>Hide Failed to load modules</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள் ஏற்றுவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="565"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>தோல்வியுற்றது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="632"/>
         <source>Default startup module:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை தொடக்க தொகுதி:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="676"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list. Note: modules with no icons will not appear in the toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலே உள்ள &quot;தொகுதிகள்&quot; பட்டியலிலிருந்து தொகுதிகளை இழுப்பதன் மூலம் பட்டியலில் சேர்க்கவும். குறிப்பு: ஐகான்கள் இல்லாத தொகுதிகள் கருவிப்பட்டியில் தோன்றாது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Favorite Modules:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Drag &amp;amp; drop modules&lt;br/&gt;from &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;Modules&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; list&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; பிடித்த தொகுதிகள்: &lt;/p&gt; &lt;p சூல் தண்டு = &quot;விளிம்பு-இடது: 10px;&quot;&gt; &lt;ச்பான் பாணி = &quot;எழுத்துரு அளவு: சிறியது; எழுத்துரு பாணி: சாய்வு; &quot;&gt; இழுத்தல் &amp; ஆம்ப்; &lt;/ச்பான்&gt; &lt;ச்பான் பாணி = &quot;எழுத்துரு அளவு: சிறியது;&quot;&gt; தொகுதிகள் &lt;/ச்பான்&gt; &lt;ச்பான் பாணி = &quot;எழுத்துரு அளவு: சிறியது; எழுத்துரு பாணி: சாய்வு;&quot;&gt; பட்டியல் &lt; /span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலே உள்ள &quot;தொகுதிகள்&quot; பட்டியலிலிருந்து தொகுதிகளை இழுப்பதன் மூலம் பட்டியலில் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="759"/>
         <source>Favorite</source>
-        <translation type="unfinished"></translation>
+        <translation>பிடித்த</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="765"/>
         <source>Remove selected module from favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட தொகுதியை பிடித்தவைகளிலிருந்து அகற்று</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="775"/>
         <source>Move to the left</source>
-        <translation type="unfinished"></translation>
+        <translation>இடதுபுறம் செல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="778"/>
         <source>Move Left</source>
-        <translation type="unfinished"></translation>
+        <translation>இடதுபுறம் நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="785"/>
         <source>Move to the right</source>
-        <translation type="unfinished"></translation>
+        <translation>வலதுபுறம் செல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="788"/>
         <source>Move Right</source>
-        <translation type="unfinished"></translation>
+        <translation>வலதுபுறம் நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="180"/>
         <source>Additional module paths</source>
-        <translation type="unfinished"></translation>
+        <translation>கூடுதல் தொகுதி பாதைகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="188"/>
         <source>Modules to ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>புறக்கணிக்க தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="322"/>
         <source>Select folder</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புறையைத் தேர்ந்தெடு</translation>
     </message>
 </context>
 <context>
@@ -26233,69 +26310,69 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="14"/>
         <source>Python</source>
-        <translation type="unfinished"></translation>
+        <translation>பைதான்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>பொது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
         <source>Editor for .py files:</source>
-        <translation type="unfinished"></translation>
+        <translation>.Py கோப்புகளுக்கான ஆசிரியர்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
         <source>Select an executable for editing .py files. If left empty then the default program associated with .py files will be launched.</source>
-        <translation type="unfinished"></translation>
+        <translation>.Py கோப்புகளைத் திருத்துவதற்கு இயங்கக்கூடியதைத் தேர்ந்தெடுக்கவும். காலியாக இருந்தால், .py கோப்புகளுடன் தொடர்புடைய இயல்புநிலை நிரல் தொடங்கப்படும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="42"/>
         <source>PythonEditor</source>
-        <translation type="unfinished"></translation>
+        <translation>பைதோனெடிட்டர்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="52"/>
         <source>Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>பைதான் கன்சோல்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="64"/>
         <source>Display in dockable window:</source>
-        <translation type="unfinished"></translation>
+        <translation>நறுக்கப்பட்ட சாளரத்தில் காண்பி:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="71"/>
         <source>Display Python console in a window that can be placed inside the main window. If disabled then the Python Console is displayed as an independent window.</source>
         <oldsource>Display Python interactor in a window that can be placed inside the main window. If disabled then the Python Interactor is displayed as an independent window.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>முதன்மையான சாளரத்திற்குள் வைக்கக்கூடிய சாளரத்தில் பைதான் கன்சோலைக் காண்பி. முடக்கப்பட்டால், பைதான் கன்சோல் ஒரு சுயாதீன சாளரமாக காட்டப்படும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="81"/>
         <source>Font:</source>
         <oldsource>Shell font:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>எழுத்துரு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="95"/>
         <source>Log level:</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவு நிலை:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="102"/>
         <source>Log messages at this level and above are displayed in the Python console.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த மட்டத்திலும் அதற்கு மேலேயும் பதிவு செய்திகள் பைதான் கன்சோலில் காட்டப்படும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="99"/>
         <source>Python editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>பைதான் ஆசிரியர்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="103"/>
         <source>Display Python console in a window that can be placed inside the main window.</source>
-        <translation type="unfinished"></translation>
+        <translation>முதன்மையான சாளரத்திற்குள் வைக்கக்கூடிய சாளரத்தில் பைதான் கன்சோலைக் காண்பி.</translation>
     </message>
 </context>
 <context>
@@ -26303,17 +26380,17 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="14"/>
         <source>StyleSettings</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்டைல்செட்டிங்ச்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="23"/>
         <source>Additional style paths:</source>
-        <translation type="unfinished"></translation>
+        <translation>கூடுதல் பாணி பாதைகள்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="49"/>
         <source>Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>பாதைகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="55"/>
@@ -26324,12 +26401,18 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adding a style plugin path will make accessible this style plugin (and thus all the its styles) to the application. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; ஒரு பாணி சொருகி பாதையைச் சேர்க்கவும். &lt;/span&gt; &lt;/p&gt;
+ &lt;p சூல் தண்டு = &quot;-qt-materagraph-type: வெற்று; விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; : 0px;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; ஒரு பாணி சொருகி பாதையைச் சேர்ப்பது இந்த பாணி சொருகி (இதனால் அதன் அனைத்து பாணிகளும்) பயன்பாட்டிற்கு அணுகக்கூடியதாக இருக்கும். இந்த செயல் &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt; எழுத்துரு-எடை: 600;&quot;&gt; தேவை &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt;&quot;&gt; விண்ணப்பத்தை மறுதொடக்கம் செய்ய. &lt;/ span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>கூட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="71"/>
@@ -26340,12 +26423,18 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; தற்போது தேர்ந்தெடுக்கப்பட்ட பாணி சொருகி பாதையை அகற்று. &lt;/span&gt; &lt;/p&gt;
+ &lt;p சூல் தண்டு = &quot;-qt-materagraph-type: வெற்று; விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; : 0px;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; ஒரு பாணி சொருகி பாதையை அகற்றுவது அடுத்த முறை பயன்பாடு திறக்கப்படும் போது இந்த பாணி சொருகி (இதனால் அதன் அனைத்து பாணிகளும்) அணுக முடியாததாக இருக்கும். இந்த செயல் &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt; எழுத்துரு-எடை: 600;&quot;&gt; தேவை &lt;/span&gt; &lt;span சூல் தண்டு = &quot;font-size: 8pt;&quot;&gt; விண்ணப்பத்தை மறுதொடக்கம் செய்ய. &lt;/ span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>அகற்று</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="103"/>
@@ -26354,12 +26443,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Show the interface to add/remove additional style paths.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8PT;&quot;&gt; கூடுதல் பாணி பாதைகளைச் சேர்க்க/அகற்ற இடைமுகத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="123"/>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>சூல் தண்டு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="130"/>
@@ -26368,12 +26461,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Select the application current style.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; பயன்பாட்டு தற்போதைய பாணியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="141"/>
         <source>Disable tooltips:</source>
-        <translation type="unfinished"></translation>
+        <translation>உதவிக்குறிப்புகளை முடக்கு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="148"/>
@@ -26382,12 +26479,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set if tooltips (just like this) appear or not when the mouse hovers above widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="162"/>
         <source>Font and size:</source>
-        <translation type="unfinished"></translation>
+        <translation>எழுத்துரு மற்றும் அளவு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="169"/>
@@ -26396,12 +26497,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Customize the application&apos;s font and size to your preference.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; பயன்பாட்டின் எழுத்துரு மற்றும் அளவை உங்கள் விருப்பத்திற்கு தனிப்பயனாக்கு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="180"/>
         <source>Show text under icons in toolbar buttons:</source>
-        <translation type="unfinished"></translation>
+        <translation>கருவிப்பட்டி பொத்தான்களில் ஐகான்களின் கீழ் உரையைக் காண்பி:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="187"/>
@@ -26410,12 +26515,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When disabled, only icons are seen in the main window toolbar. Otherwise the action&apos;s corresponding text is shown underneath.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; முடக்கப்பட்டால், முக்கிய சாளர கருவிப்பட்டியில் சின்னங்கள் மட்டுமே காணப்படுகின்றன. இல்லையெனில் செயலின் தொடர்புடைய உரை அடியில் காட்டப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="201"/>
         <source>Save user interface size and position on exit:</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியேறும்போது பயனர் இடைமுக அளவு மற்றும் நிலையை சேமிக்கவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="208"/>
@@ -26424,22 +26533,26 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When enabled, the application size and position will be remembered for the next time the application is started.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; இயக்கப்பட்டால், பயன்பாடு தொடங்கப்பட்டால் பயன்பாட்டு அளவு மற்றும் நிலை நினைவில் இருக்கும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="102"/>
         <source>Additional style paths</source>
-        <translation type="unfinished"></translation>
+        <translation>கூடுதல் பாணி பாதைகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="112"/>
         <source>Current style</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய நடை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="252"/>
         <source>Select a path containing a &quot;styles&quot; plugin directory</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;ச்டைல்கள்&quot; சொருகி கோப்பகத்தைக் கொண்ட பாதையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -26447,52 +26560,52 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>பொது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="41"/>
         <source>Organization role:</source>
-        <translation type="unfinished"></translation>
+        <translation>அமைப்பு பங்கு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="58"/>
         <source>Login:</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்நுழைவு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="75"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலையாக காட்சிகள் சேமிக்கப்படும் அடைவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="78"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="95"/>
         <source>Procedure role:</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்முறை பங்கு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="102"/>
         <source>Organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>அமைப்பு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="129"/>
         <source>Python script that is executed after the application is started</source>
-        <translation type="unfinished"></translation>
+        <translation>விண்ணப்பம் தொடங்கப்பட்ட பிறகு செயல்படுத்தப்படும் பைதான் ச்கிரிப்ட்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="132"/>
         <source>Email:</source>
-        <translation type="unfinished"></translation>
+        <translation>மின்னஞ்சல்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsUserInformationPanel.cxx" line="169"/>
         <source>Invalid format</source>
-        <translation type="unfinished"></translation>
+        <translation>தவறான வடிவம்</translation>
     </message>
 </context>
 <context>
@@ -26500,18 +26613,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="14"/>
         <source>ViewsSettings</source>
-        <translation type="unfinished"></translation>
+        <translation>ViewSSettings</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="41"/>
         <source>Slice viewer defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வையாளர் இயல்புநிலைகளை நறுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="50"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="166"/>
         <source>Orientation marker:</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலை மார்க்கர்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="94"/>
@@ -26519,136 +26632,136 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="247"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="86"/>
         <source>none</source>
-        <translation type="unfinished"></translation>
+        <translation>எதுவுமில்லை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="181"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="87"/>
         <source>cube</source>
-        <translation type="unfinished"></translation>
+        <translation>கன சதுரம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="186"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="88"/>
         <source>human</source>
-        <translation type="unfinished"></translation>
+        <translation>மனித</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="191"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="89"/>
         <source>axes</source>
-        <translation type="unfinished"></translation>
+        <translation>அச்சுகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="66"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="203"/>
         <source>small</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறிய</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="71"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="208"/>
         <source>medium</source>
-        <translation type="unfinished"></translation>
+        <translation>சராசரி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="76"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="213"/>
         <source>large</source>
-        <translation type="unfinished"></translation>
+        <translation>பெரிய</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="86"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="233"/>
         <source>Ruler:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்சியாளர்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="99"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="252"/>
         <source>thin</source>
-        <translation type="unfinished"></translation>
+        <translation>மெல்லிய</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="104"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="257"/>
         <source>thick</source>
-        <translation type="unfinished"></translation>
+        <translation>அடர்த்தியான</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="112"/>
         <source>View orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலையைக் காண்க:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="129"/>
         <source>3D viewer defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையாளர் இயல்புநிலை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="138"/>
         <source>Show 3D cube:</source>
-        <translation type="unfinished"></translation>
+        <translation>3D கியூபைக் காட்டு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="152"/>
         <source>Show 3D axis label:</source>
-        <translation type="unfinished"></translation>
+        <translation>3D அச்சு லேபிளைக் காட்டு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="243"/>
         <source>Ruler is only displayed if orthographic projection mode is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆர்த்தோகிராஃபிக் ப்ரொசெக்சன் பயன்முறை பயன்படுத்தப்பட்டால் மட்டுமே ஆட்சியாளர் காண்பிக்கப்படுகிறார்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="265"/>
         <source>Use depth peeling:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆழம் உரித்தல் பயன்படுத்தவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="272"/>
         <source>Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆழம் தோலுரிப்பதை இயக்குவது அதிக கணக்கீட்டு செலவின் செலவில் வெளிப்படையான மாதிரிகளை ஒழுங்கமைப்பதை மேம்படுத்துகிறது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="223"/>
         <source>Use orthographic projection:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆர்த்தோகிராஃபிக் திட்டத்தைப் பயன்படுத்தவும்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="282"/>
         <source>Shadows visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>நிழல்கள் தெரிவுநிலை:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="289"/>
         <source>Show shadows by default to improve depth perception</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆழமான உணர்வை மேம்படுத்த நிழல்களைக் காட்டுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="299"/>
         <source>Size scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவு அளவு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="328"/>
         <source>Volume opacity threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி ஒளிபுகா வாசல்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="363"/>
         <source>Intensity scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>தீவிர அளவு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="395"/>
         <source>Intensity offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>தீவிரம் ஆஃப்செட்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="432"/>
         <source>Multi-sampling (MSAA):</source>
-        <translation type="unfinished"></translation>
+        <translation>பல மாதிரி (MSAA):</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="445"/>
@@ -26657,102 +26770,106 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு அளவு: 8pt;&quot;&gt; முழுத் திரை எதிர்ப்பு மாற்றுக்கு மல்டிசாம்ப்ளிங்கைப் பயன்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
         <source>Multisampling (MSAA)</source>
-        <translation type="unfinished"></translation>
+        <translation>மல்டிசாம்ப்ளிங் (MSAA)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="95"/>
         <source>Slice view orientation marker type</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் பார்வை நோக்குநிலை மார்க்கர் வகை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="101"/>
         <source>Slice view orientation marker size</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் பார்வை நோக்குநிலை மார்க்கர் அளவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="107"/>
         <source>Slice view ruler type</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் பார்வை ஆட்சியாளர் வகை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="110"/>
         <source>patient right is screen left (default)</source>
-        <translation type="unfinished">நோயாளியின் வலதுபுறம் திரை இடதுபுறம் (இயல்புநிலை)</translation>
+        <translation>நோயாளி வலது திரை இடது (இயல்புநிலை)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="111"/>
         <source>patient right is screen right</source>
-        <translation type="unfinished">நோயாளி வலது திரை வலது</translation>
+        <translation>நோயாளி வலது திரை சரியானது</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="114"/>
         <source>Default slice view orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை துண்டு பார்வை நோக்குநிலை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="121"/>
         <source>3D view cube visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>3D கியூப் தெரிவுநிலை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="124"/>
         <source>3D view axis label visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வை அச்சு சிட்டை தெரிவுநிலை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="129"/>
         <source>3D view orientation marker type</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வை நோக்குநிலை மார்க்கர் வகை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="135"/>
         <source>3D view orientation marker size</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வை நோக்குநிலை மார்க்கர் அளவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="141"/>
         <source>3D view ruler type</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வை ஆட்சியாளர் வகை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="145"/>
         <source>3D depth peeling</source>
-        <translation type="unfinished"></translation>
+        <translation>3 டி ஆழம் உரித்தல்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="148"/>
         <source>Orthographic projection</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆர்த்தோகிராஃபிக் ப்ரொசெக்சன்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="151"/>
         <source>Shadows visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>நிழல்கள் தெரிவுநிலை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="154"/>
         <source>Ambient shadows size scale</source>
-        <translation type="unfinished"></translation>
+        <translation>சுற்றுப்புற நிழல்கள் அளவு அளவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="157"/>
         <source>Ambient shadows volume opacity threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>சுற்றுப்புற நிழல்கள் தொகுதி ஒளிபுகா வாசல்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="160"/>
         <source>Ambient shadows intensity scale</source>
-        <translation type="unfinished"></translation>
+        <translation>சுற்றுப்புற நிழல்கள் தீவிரம் அளவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="163"/>
         <source>Ambient shadows intensity shift</source>
-        <translation type="unfinished"></translation>
+        <translation>சுற்றுப்புற நிழல்கள் தீவிரம் மாற்றம்</translation>
     </message>
 </context>
 <context>
@@ -26760,12 +26877,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerShaderPropertyReader.cxx" line="83"/>
         <source>GPU Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation>சி.பீ.யூ சேடர் சொத்து</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerShaderPropertyReader.cxx" line="96"/>
         <source>Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation>சேடர் சொத்து</translation>
     </message>
 </context>
 <context>
@@ -26777,51 +26894,51 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Markup Control Points</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப் கட்டுப்பாட்டு புள்ளிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="601"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>சிட்டை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="128"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="602"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>R</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="129"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="603"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="130"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="604"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="410"/>
         <source>Delete highlighted control points</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறப்பம்சமாக கட்டுப்பாட்டு புள்ளிகளை நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="411"/>
         <source>Move current control point up</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய கட்டுப்பாட்டு புள்ளியை நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="412"/>
         <source>Move current control point down</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய கட்டுப்பாட்டு புள்ளியை கீழே நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="413"/>
         <source>Jump slices to control point</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டுக்கு துண்டுகளை குதிக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -26829,7 +26946,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="294"/>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பங்கள்:</translation>
     </message>
 </context>
 <context>
@@ -26837,12 +26954,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="71"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>நகலி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="73"/>
         <source>Clone this item and its data node if any along with display and storage options</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி மற்றும் சேமிப்பக விருப்பங்களுடன் ஏதேனும் இருந்தால் இந்த உருப்படியையும் அதன் தரவு முனையையும் நகலி செய்யுங்கள்</translation>
     </message>
 </context>
 <context>
@@ -26850,7 +26967,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Colors/SubjectHierarchyPlugins/qSlicerSubjectHierarchyColorLegendPlugin.cxx" line="86"/>
         <source>Show color legend</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண புராணக்கதை காட்டு</translation>
     </message>
 </context>
 <context>
@@ -26858,27 +26975,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="105"/>
         <source>Create new subject</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய விசயத்தை உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="110"/>
         <source>Create child study</source>
-        <translation type="unfinished"></translation>
+        <translation>குழந்தை படிப்பை உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="115"/>
         <source>Convert folder to subject</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புறையை பொருள் என மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="120"/>
         <source>Convert folder to study</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புறையை படிக்க மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="125"/>
         <source>Export to DICOM...</source>
-        <translation type="unfinished"></translation>
+        <translation>டிகாமிற்கு ஏற்றுமதி ...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="514"/>
@@ -26890,22 +27007,25 @@ Click Cancel, to create the patient/study hierarchy manually and drag-and-drop t
 Default patient and study will be created and the selected data and its related datasets will be moved in it for export.
 
 If you&apos;d like to create the hierarchy manually, please click Cancel, then create a patient by right-clicking the empty area in Subject hierarchy in the Data module and choosing &apos;Create new subject&apos;. Study can be similarly created under the patient. The data to export can be drag&amp;dropped under the study.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதிக்கான தரவு ஒரு ஆய்வு உருப்படியின் கீழ் இருக்க வேண்டும், இது ஒரு நோயாளியின் பொருளின் கீழ் பொருள் வரிசைக்கு வைக்கப்பட்டுள்ளது.
+ இயல்புநிலை நோயாளி மற்றும் ஆய்வு உருவாக்கப்படும் மற்றும் தேர்ந்தெடுக்கப்பட்ட தரவு மற்றும் அதனுடன் தொடர்புடைய தரவுத்தொகுப்புகள் ஏற்றுமதிக்காக நகர்த்தப்படும்.
+
+ ரத்துசெய் என்பதைக் சொடுக்கு செய்க, நோயாளி/படிப்பு வரிசைமுறையை கைமுறையாக உருவாக்கவும், ஆய்வின் கீழ் ஏற்றுமதி செய்யக்கூடிய தரவை இழுத்து விடவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="519"/>
         <source>Create new patient and study for DICOM export?</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய நோயாளியை உருவாக்கி DICOM ஏற்றுமதிக்கு படிக்கிறீர்களா?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="615"/>
         <source>Anonymous</source>
-        <translation type="unfinished"></translation>
+        <translation>அநாமதேய</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="643"/>
         <source>No study description</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆய்வு விளக்கம் இல்லை</translation>
     </message>
 </context>
 <context>
@@ -26913,17 +27033,17 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="81"/>
         <source>Show all children</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்லா குழந்தைகளையும் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="84"/>
         <source>Hide all children</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்லா குழந்தைகளையும் மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="133"/>
         <source>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Rename item&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Double-click the item name, or right-click the item and select &apos;Rename&apos;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Deform any branch using a transform (registration result)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Make sure the transform column is shown using the &apos;Show transforms&apos; checkbox. To transform a branch, right-click on the cell in the transform column of the row in question, and choose a transform.&lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 4px; விளிம்பு-கீழ்: 1px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; &quot;எழுத்துரு-குடும்பம்: &apos;சான்ச்-செரிஃப்&apos;; எழுத்துரு அளவு: 9PT; எழுத்துரு-எடை: 600; வண்ணம்:#000000;&quot; விளிம்பு-இடது: 26px; font-size:#000000; &quot;&gt; உருப்படியை இருமுறை சொடுக்கு செய்து, &apos;மறுபெயரிடு&apos; விளிம்பு-இடது: 0px: 0px; font-size: 600; -போட்டம்: 26px; -இஎச்இ: 9pt வண்ணம்:#000000; &quot; ஒரு கிளையை மாற்ற, கேள்விக்குரிய வரிசையின் உருமாற்ற நெடுவரிசையில் கலத்தில் வலது சொடுக்கு செய்து, ஒரு உருமாற்றத்தைத் தேர்வுசெய்க. &lt;/Span&gt; &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -26931,22 +27051,22 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="92"/>
         <source>Tractography labelmap seeding...</source>
-        <translation type="unfinished"></translation>
+        <translation>டிராக்டோகிராஃபி லேபிள்மேப் விதைப்பு ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="94"/>
         <source>Tractography interactive seeding...</source>
-        <translation type="unfinished"></translation>
+        <translation>டிராக்டோகிராஃபி ஊடாடும் விதைப்பு ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="173"/>
         <source>Invalid!</source>
-        <translation type="unfinished"></translation>
+        <translation>தவறானது!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="179"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை!</translation>
     </message>
 </context>
 <context>
@@ -26954,12 +27074,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="83"/>
         <source>Export to file...</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புக்கு ஏற்றுமதி ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="84"/>
         <source>Export this node to a file</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த முனையை ஒரு கோப்பிற்கு ஏற்றுமதி செய்யுங்கள்</translation>
     </message>
 </context>
 <context>
@@ -26967,32 +27087,32 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="98"/>
         <source>Create new folder</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய கோப்புறையை உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="103"/>
         <source>Create child folder</source>
-        <translation type="unfinished"></translation>
+        <translation>குழந்தை கோப்புறையை உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="108"/>
         <source>Apply color to all children</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்லா குழந்தைகளுக்கும் வண்ணத்தைப் பயன்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="110"/>
         <source>If on, then children items will inherit the display properties (e.g. color or opacity) set to the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>இருந்தால், குழந்தைகள் உருப்படிகள் கோப்புறையில் அமைக்கப்பட்ட காட்சி பண்புகளை (எ.கா. நிறம் அல்லது ஒளிபுகா) பெறும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="116"/>
         <source>Show empty folders</source>
-        <translation type="unfinished"></translation>
+        <translation>வெற்று கோப்புறைகளைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="118"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
-        <translation type="unfinished"></translation>
+        <translation>இருந்தால், முனைகளைக் கொண்டிருக்காத கோப்புறைகள் (எந்த வடிப்பானால் அனுமதிக்கப்படுகின்றன) காட்டப்படுகின்றன, இல்லையெனில் இல்லை</translation>
     </message>
 </context>
 <context>
@@ -27000,7 +27120,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="89"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>2 டி அவுட்லைன் தெரிவுநிலை</translation>
     </message>
 </context>
 <context>
@@ -27008,118 +27128,118 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="140"/>
         <source>Rename control point...</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளியை மறுபெயரிடுங்கள் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="145"/>
         <source>Refocus camera on this point</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த கட்டத்தில் கவனம் செலுத்துதல் கேமரா</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="150"/>
         <source>Toggle select control point</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="155"/>
         <source>Jump to previous control point</source>
-        <translation type="unfinished"></translation>
+        <translation>முந்தைய கட்டுப்பாட்டு புள்ளிக்கு செல்லவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="156"/>
         <source>Jump slice views to the previous control point</source>
-        <translation type="unfinished"></translation>
+        <translation>முந்தைய கட்டுப்பாட்டு புள்ளிக்கு துண்டு காட்சிகளைக் குதிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="161"/>
         <source>Jump to next control point</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுத்த கட்டுப்பாட்டு புள்ளிக்கு செல்லவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="162"/>
         <source>Jump slice views to the next control point</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் காட்சிகளை அடுத்த கட்டுப்பாட்டு புள்ளிக்கு செல்லவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="167"/>
         <source>Jump to closest control point</source>
-        <translation type="unfinished"></translation>
+        <translation>நெருங்கிய கட்டுப்பாட்டு புள்ளிக்கு செல்லவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="168"/>
         <source>Jump slice views to the closest control point</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் காட்சிகளை நெருங்கிய கட்டுப்பாட்டு புள்ளிக்கு செல்லவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="173"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="665"/>
         <source>Delete control point</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளியை நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="178"/>
         <source>Delete markup</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்பை நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="183"/>
         <source>Edit markup terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப் சொற்களைத் திருத்து ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="190"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="223"/>
         <source>Interaction</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்வினை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="196"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="228"/>
         <source>Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>மொழிபெயர்த்திடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="201"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="233"/>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="206"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="238"/>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="216"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="248"/>
         <source>Interaction options</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடர்பு விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="661"/>
         <source>Clear control point position</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளி நிலையை அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="714"/>
         <source>Delete %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ஐ நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="715"/>
         <source>Edit %1 terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>திருத்து %1 சொற்களஞ்சியம் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="806"/>
         <source>Rename %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 என மறுபெயரிடுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="806"/>
         <source>New name:</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய பெயர்:</translation>
     </message>
 </context>
 <context>
@@ -27127,12 +27247,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchyModule.ui" line="14"/>
         <source>SubjectHierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>பொருள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="50"/>
         <source>Subject Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>பொருள் வரிசைமுறை</translation>
     </message>
 </context>
 <context>
@@ -27141,12 +27261,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="81"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="91"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒளிபுகாநிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="92"/>
         <source>Set item opacity in the sub-menu</source>
-        <translation type="unfinished"></translation>
+        <translation>துணை பட்டியலில் உருப்படி ஒளிபுகாநிலையை அமைக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -27154,7 +27274,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyParseLocalDataPlugin.cxx" line="77"/>
         <source>Create hierarchy from loaded directory structure</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றப்பட்ட அடைவு கட்டமைப்பிலிருந்து படிநிலையை உருவாக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -27162,7 +27282,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="97"/>
         <source>Edit properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>பண்புகளைத் திருத்து ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="265"/>
@@ -27171,7 +27291,11 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 Select plugin to add node named
 &apos;%1&apos;
 (type %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>பொருள் வரிசைக்கு புதிய முனையைச் சேர்ப்பதற்கான ஒன்றுக்கு மேற்பட்ட பாட வரிசைமுறை சொருகி சமமான நம்பிக்கை எண்.
+
+ பெயரிடப்பட்ட முனையைச் சேர்க்க சொருகி என்பதைத் தேர்ந்தெடுக்கவும்
+ &apos;%1&apos;
+ (வகை %2)</translation>
     </message>
 </context>
 <context>
@@ -27179,63 +27303,63 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="93"/>
         <source>Register this...</source>
-        <translation type="unfinished"></translation>
+        <translation>இதை பதிவு செய்யுங்கள் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="94"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவுக்கு நகரும் படமாக தொகுதியைத் தேர்ந்தெடுக்கவும். முதல் ஒரு அமைக்கப்பட்ட பிறகு சூழல் மெனுவிலிருந்து இரண்டாவது தொகுதியைத் தேர்ந்தெடுக்கலாம்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="99"/>
         <source>Register * to this using...</source>
-        <translation type="unfinished"></translation>
+        <translation>இதைப் பயன்படுத்தி * பதிவு செய்யுங்கள் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="104"/>
         <source>Rigid image-based registration</source>
-        <translation type="unfinished"></translation>
+        <translation>கடினமான பட அடிப்படையிலான பதிவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="108"/>
         <source>BSpline image-based registration</source>
-        <translation type="unfinished"></translation>
+        <translation>பிச்ப்ளைன் பட அடிப்படையிலான பதிவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="112"/>
         <source>Interactive landmark registration</source>
-        <translation type="unfinished"></translation>
+        <translation>ஊடாடும் மைல்கல் பதிவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="117"/>
         <source>Cancel registration (or right-click another volume to start registration)</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவை ரத்துசெய் (அல்லது பதிவைத் தொடங்க மற்றொரு தொகுதியை வலது சொடுக்கு செய்யவும்)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="118"/>
         <source>Right-click another volume to select second volume and start registration</source>
-        <translation type="unfinished"></translation>
+        <translation>இரண்டாவது தொகுதியைத் தேர்ந்தெடுத்து பதிவைத் தொடங்க மற்றொரு தொகுதியை வலது சொடுக்கு செய்யவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="216"/>
         <source>Register %1 to this using...</source>
-        <translation type="unfinished"></translation>
+        <translation>இதைப் பயன்படுத்தி %1 ஐ பதிவு செய்யுங்கள் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="260"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="346"/>
         <source>BRAINSRegistration_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>மூளை பதிவு_%1_to_%2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="276"/>
         <source>LinearTransform_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>லீனியர் டிரான்ச்ஃபார்ம்_%1_to_%2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="362"/>
         <source>BSplineTransform_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Bsplinetransform_%1_to_%2</translation>
     </message>
 </context>
 <context>
@@ -27243,7 +27367,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SceneViews/SubjectHierarchyPlugins/qSlicerSubjectHierarchySceneViewsPlugin.cxx" line="78"/>
         <source>Restore scene view</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி காட்சியை மீட்டெடுங்கள்</translation>
     </message>
 </context>
 <context>
@@ -27251,57 +27375,57 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="109"/>
         <source>Export visible segments to binary labelmap</source>
-        <translation type="unfinished"></translation>
+        <translation>பைனரி லேபிள்மேப்பிற்கு புலப்படும் பிரிவுகளை ஏற்றுமதி செய்யுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="112"/>
         <source>Export visible segments to models</source>
-        <translation type="unfinished"></translation>
+        <translation>மாடல்களுக்கு புலப்படும் பிரிவுகளை ஏற்றுமதி செய்யுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="115"/>
         <source>Convert labelmap to segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப்பை பிரிவு முனைக்கு மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="118"/>
         <source>Convert model to segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரியை பிரிவு முனைக்கு மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="121"/>
         <source>Convert models to segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரிகளை பிரிவு முனைக்கு மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="124"/>
         <source>Create binary labelmap representation</source>
-        <translation type="unfinished"></translation>
+        <translation>பைனரி லேபிள்மேப் பிரதிநிதித்துவத்தை உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="126"/>
         <source>Create closed surface representation</source>
-        <translation type="unfinished"></translation>
+        <translation>மூடிய மேற்பரப்பு பிரதிநிதித்துவத்தை உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="129"/>
         <source>Remove binary labelmap representation</source>
-        <translation type="unfinished"></translation>
+        <translation>பைனரி லேபிள்மேப் பிரதிநிதித்துவத்தை அகற்று</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="131"/>
         <source>Remove closed surface representation</source>
-        <translation type="unfinished"></translation>
+        <translation>மூடிய மேற்பரப்பு பிரதிநிதித்துவத்தை அகற்று</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="134"/>
         <source>2D fill visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>2 டி நிரப்பு தெரிவுநிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="139"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>2 டி அவுட்லைன் தெரிவுநிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="281"/>
@@ -27315,112 +27439,126 @@ Note: This may result in unwanted data loss in %4.</source>
 Would you like to change the master representation of &apos;%4&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %4.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>மூல பிரதிநிதித்துவத்தை &apos;%1&apos; இலக்கு மூல &apos;%2&apos; ஆக மாற்ற முடியாது, இதனால் &apos;%3&apos; என்ற பிரிவை &apos;%4&apos; க்கு இறக்குமதி செய்ய முடியவில்லை.
+
+ &apos;%4&apos; இன் மூல பிரதிநிதித்துவத்தை &apos;%1&apos; ஆக மாற்ற விரும்புகிறீர்களா?
+
+ குறிப்பு: இது %4 இல் தேவையற்ற தரவு இழப்பை ஏற்படுத்தக்கூடும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="289"/>
         <source>Failed to import data to segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுக்கு தரவை இறக்குமதி செய்வதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="297"/>
         <source>Failed to convert %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ஐ %2 ஆக மாற்றத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
         <source>Conversion failed</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றம் தோல்வியடைந்தது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="354"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="360"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>செல்லுபடியாகாத</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="377"/>
         <source> (Representations: </source>
-        <translation type="unfinished"></translation>
+        <translation> (பிரதிநிதித்துவங்கள்: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="381"/>
         <source>None)</source>
-        <translation type="unfinished"></translation>
+        <translation>எதுவுமில்லை)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="396"/>
         <source> (Source representation: %1)</source>
         <oldsource> (Master representation: %1)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation> (மூல பிரதிநிதித்துவம்: %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="399"/>
         <source> (Number of segments: %1)</source>
         <extracomment>parameter is the representation name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> (பிரிவுகளின் எண்ணிக்கை: %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1001"/>
         <source>Failed to create binary labelmap representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை தொடர்பு அளவுருக்களைப் பயன்படுத்தி பிரிவு %1 க்கான பைனரி லேபிள்மேப் பிரதிநிதித்துவத்தை உருவாக்குவதில் தோல்வி!
+
+ பிரிவு தொகுதியைப் பார்வையிட்டு மேம்பட்ட உருவாக்கு பிரதிநிதித்துவ செயல்பாட்டை முயற்சிக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1005"/>
         <source>Failed to export segmentation to labelmap node</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப் முனைக்கு பிரிவை ஏற்றுமதி செய்யத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1025"/>
         <source>-label</source>
-        <translation type="unfinished"></translation>
+        <translation>-லாபல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1041"/>
         <source>Failed to export segments from segmentation %1 to labelmap node!
 
 Most probably the segment cannot be converted into binary labelmap representation</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு %1 இலிருந்து லேபிள்மேப் முனை வரை பிரிவுகளை ஏற்றுமதி செய்யத் தவறிவிட்டது!
+
+ அநேகமாக பகுதியை பைனரி லேபிள்மேப் பிரதிநிதித்துவமாக மாற்ற முடியாது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1045"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1100"/>
         <source>Failed to export segments</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுகளை ஏற்றுமதி செய்யத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1066"/>
         <source>Failed to create closed surface representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை தொடர்பு அளவுருக்களைப் பயன்படுத்தி பிரிவு %1 க்கு மூடிய மேற்பரப்பு பிரதிநிதித்துவத்தை உருவாக்கத் தவறிவிட்டது!
+
+ பிரிவு தொகுதியைப் பார்வையிட்டு மேம்பட்ட உருவாக்கு பிரதிநிதித்துவ செயல்பாட்டை முயற்சிக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1070"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1340"/>
         <source>Failed to export segmentation to models</source>
-        <translation type="unfinished"></translation>
+        <translation>மாடல்களுக்கு பிரிவை ஏற்றுமதி செய்யத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1075"/>
         <source>-models</source>
-        <translation type="unfinished"></translation>
+        <translation>-டெல்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1096"/>
         <source>Failed to export segments from segmentation %1 to models!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு %1 முதல் மாதிரிகள் வரை பிரிவுகளை ஏற்றுமதி செய்வதில் தோல்வி!
+
+ அநேகமாக பகுதியை மூடிய மேற்பரப்பு பிரதிநிதித்துவமாக மாற்ற முடியாது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1335"/>
         <source>Failed to create %1 representation for segmentation %2 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை தொடர்பு அளவுருக்களைப் பயன்படுத்தி பிரிவு %2 க்கு %1 பிரதிநிதித்துவத்தை உருவாக்குவதில் தோல்வி!
+
+ பிரிவு தொகுதியைப் பார்வையிட்டு மேம்பட்ட உருவாக்கு பிரதிநிதித்துவ செயல்பாட்டை முயற்சிக்கவும்.</translation>
     </message>
 </context>
 <context>
@@ -27428,45 +27566,46 @@ Please visit the Segmentation module and try the advanced create representation 
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="98"/>
         <source>Show only this segment</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த பகுதியை மட்டும் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="102"/>
         <source>Show all segments</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து பிரிவுகளையும் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="106"/>
         <source>Jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation>சம்ப் துண்டுகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="110"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>நகலி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="115"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="125"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒளிபுகாநிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="126"/>
         <source>Set segment opacity in the sub-menu</source>
-        <translation type="unfinished"></translation>
+        <translation>துணை பட்டியலில் பிரிவு ஒளிபுகாநிலையை அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="229"/>
         <source>Segment ID of the moved segment (%1) might exist in the target segmentation.
 Please check the error window for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>நகர்த்தப்பட்ட பிரிவின் பிரிவு ஐடி (%1) இலக்கு பிரிவில் இருக்கலாம்.
+ விவரங்களுக்கு பிழை சாளரத்தை சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="231"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="244"/>
         <source>Failed to move segment between segmentations</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுக்கு இடையில் பிரிவை நகர்த்துவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="236"/>
@@ -27480,36 +27619,41 @@ Note: This may result in unwanted data loss in %5.</source>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>மூல பிரதிநிதித்துவத்தை &apos;%1&apos; இலக்கு மூல &apos;%2&apos; ஆக மாற்ற முடியாது, இதனால் &apos;%3&apos; பிரிவில் இருந்து &apos;%4&apos; இலிருந்து &apos;%5&apos; வரை நகர்த்த முடியவில்லை.
+
+ &apos;%5&apos; இன் மூல பிரதிநிதித்துவத்தை &apos;%1&apos; ஆக மாற்ற விரும்புகிறீர்களா?
+
+ குறிப்பு: இது %5 இல் தேவையற்ற தரவு இழப்பை ஏற்படுத்தக்கூடும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="253"/>
         <source>Failed to convert %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ஐ %2 ஆக மாற்றத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="255"/>
         <source>Conversion failed</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றம் தோல்வியடைந்தது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="322"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="328"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="334"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>செல்லுபடியாகாத</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="368"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="392"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>எதுவுமில்லை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="405"/>
         <source>Segment - ID: %1, Representations: %2, Color: (%3, %4, %5)
 Tags: %6</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு - ஐடி: %1, பிரதிநிதித்துவங்கள்: %2, நிறம்: ( %3, %4, %5)
+ குறிச்சொற்கள்: %6</translation>
     </message>
 </context>
 <context>
@@ -27517,58 +27661,58 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="14"/>
         <source>SubjectHierarchySettingsPanel</source>
-        <translation type="unfinished"></translation>
+        <translation>Inbithhierarchysettingspanel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="20"/>
         <source>Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்பாடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="29"/>
         <source>Delete whole branch under the deleted item from subject hierarchy.</source>
-        <translation type="unfinished"></translation>
+        <translation>பொருள் வரிசைமுறையிலிருந்து நீக்கப்பட்ட உருப்படியின் கீழ் முழு கிளையையும் நீக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="32"/>
         <source>Automatically delete subject hierarchy children:</source>
-        <translation type="unfinished"></translation>
+        <translation>பொருள் வரிசைமுறை குழந்தைகளை தானாக நீக்கு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="39"/>
         <source>Automatically delete subject hierarchy children for nodes removed from the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியில் இருந்து அகற்றப்பட்ட முனைகளுக்கு பொருள் வரிசைமுறை குழந்தைகளை தானாக நீக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="52"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="67"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="94"/>
         <source>  ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>  ஐடி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="74"/>
         <source>Patient tags in item name:</source>
-        <translation type="unfinished"></translation>
+        <translation>உருப்படி பெயரில் நோயாளி குறிச்சொற்கள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="101"/>
         <source>Study tags in item name:</source>
-        <translation type="unfinished"></translation>
+        <translation>உருப்படி பெயரில் ஆய்வு குறிச்சொற்கள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="135"/>
         <source>  Study date:</source>
-        <translation type="unfinished"></translation>
+        <translation>  ஆய்வு தேதி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="148"/>
         <source>  Birth date:</source>
-        <translation type="unfinished"></translation>
+        <translation>  பிறந்த தேதி:</translation>
     </message>
 </context>
 <context>
@@ -27576,74 +27720,76 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="149"/>
         <source>Invert transform</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றம் தலைகீழ்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="154"/>
         <source>Reset transform to identity</source>
-        <translation type="unfinished"></translation>
+        <translation>அடையாளத்திற்கு மாற்றத்தை மீட்டமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="159"/>
         <source>Transform origin</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றத்தை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="163"/>
         <source>Transformed nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றப்பட்ட முனைகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="173"/>
         <source>Reset center of transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றத்தின் மையத்தை மீட்டமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="180"/>
         <source>Interaction</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்வினை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="187"/>
         <source>Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>மொழிபெயர்த்திடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="193"/>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="199"/>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="211"/>
         <source>Interaction options</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடர்பு விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="436"/>
         <source>Some nodes in the branch are already transformed</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளையில் சில முனைகள் ஏற்கனவே மாற்றப்பட்டுள்ளன</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="437"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதியதை அமைப்பதற்கு முன்பு ஏற்கனவே பயன்படுத்தப்பட்ட அனைத்து உருமாற்றங்களையும் கடினப்படுத்த விரும்புகிறீர்களா?
+
+ குறிப்பு: நீங்கள் இல்லை என்பதைத் தேர்வுசெய்தால், பயன்படுத்தப்பட்ட உருமாற்றம் மாற்றப்படும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="535"/>
         <source>Transform to parent:</source>
-        <translation type="unfinished"></translation>
+        <translation>பெற்றோராக உருமாற்றம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="537"/>
         <source>Transform from parent:</source>
-        <translation type="unfinished"></translation>
+        <translation>பெற்றோரிடமிருந்து உருமாற்றம்:</translation>
     </message>
 </context>
 <context>
@@ -27651,148 +27797,148 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="117"/>
         <source>View transform</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றத்தைக் காண்க</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="123"/>
         <source>Adjust window/level</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளரம்/அளவை சரிசெய்யவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="129"/>
         <source>Place</source>
-        <translation type="unfinished"></translation>
+        <translation>இடம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="151"/>
         <source>Center view</source>
-        <translation type="unfinished"></translation>
+        <translation>மைய பார்வை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="153"/>
         <source>Center the slice on the currently visible 3D view content and all loaded volumes.</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போது புலப்படும் 3D பார்வை உள்ளடக்கம் மற்றும் அனைத்து ஏற்றப்பட்ட தொகுதிகளிலும் துண்டுகளை மையப்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
         <source>Refocus camera on this point</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த கட்டத்தில் கவனம் செலுத்துதல் கேமரா</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="161"/>
         <source>Set the camera focus to rotate around this point.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த கட்டத்தில் சுழல கேமரா கவனம் அமைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="166"/>
         <source>Reset field of view</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வைத் துறையை மீட்டமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="168"/>
         <source>Center the slice view on the currently displayed volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போது காட்டப்பட்டுள்ள தொகுதியில் துண்டு காட்சியை மையமாகக் கொள்ளுங்கள்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="173"/>
         <source>Refocus cameras on this point</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த கட்டத்தில் கவனம் செலுத்தும் கேமராக்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="175"/>
         <source>Set the focus of all cameras to rotate around this point.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த கட்டத்தில் சுழற்ற அனைத்து கேமராக்களின் கவனத்தையும் அமைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="183"/>
         <source>Show this view maximized in the view layout</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை தளவமைப்பில் இந்த பார்வையை அதிகப்படுத்துவதைக் காட்டுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="188"/>
         <source>Tilt lock</source>
-        <translation type="unfinished"></translation>
+        <translation>சாய் பூட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="190"/>
         <source>Prevent rotation around the horizontal axis when rotating this view.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த பார்வையை சுழற்றும்போது கிடைமட்ட அச்சில் சுழற்சியைத் தடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="192"/>
         <source>Ctrl+b</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+b</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="198"/>
         <source>Configure slice view annotations...</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் பார்வை சிறுகுறிப்புகளை உள்ளமைக்கவும் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="200"/>
         <source>Configures display of corner annotations and color legend.</source>
-        <translation type="unfinished"></translation>
+        <translation>மூலையில் சிறுகுறிப்புகள் மற்றும் வண்ண புராணத்தின் காட்சியை உள்ளமைக்கிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="206"/>
         <source>Copy image</source>
-        <translation type="unfinished"></translation>
+        <translation>படத்தை நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="208"/>
         <source>Copy a screenshot of this view to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த பார்வையின் திரை சாட்டை கிளிப்போர்டுக்கு நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="216"/>
         <source>Slice intersections</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்குவெட்டுகளை நறுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="218"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished"></translation>
+        <translation>மற்ற ச்லைச் விமானங்கள் ஒவ்வொரு துண்டு விமானத்தையும் எவ்வாறு வெட்டுகின்றன என்பதைக் காட்டுங்கள்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="226"/>
         <source>Interaction</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்வினை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="228"/>
         <source>Show handles for slice interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு தொடர்புக்கான கைப்பிடிகளைக் காட்டு.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="238"/>
         <source>Thick slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>தடிமனான ச்லாப் புனரமைப்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="240"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished"></translation>
+        <translation>தடிமனான ச்லாப் புனரமைப்பு (டி.எச்.ஆர்) ஐ இயக்கவும். ஒரு குறிப்பிட்ட வரம்பிற்குள் தொடர்ச்சியான துண்டுகளை இணைக்க டி.எச்.ஆர் பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="249"/>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>ஊடாடும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="251"/>
         <source>Show handles for interactively adjusting slab reconstruction thickness.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லாப் புனரமைப்பு தடிமன் ஊடாடும் வகையில் சரிசெய்தல் கைப்பிடிகளைக் காட்டு.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="366"/>
         <source>Restore view layout</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை தளவமைப்பை மீட்டெடுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="181"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="370"/>
         <source>Maximize view</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வையை அதிகரிக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -27800,17 +27946,17 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="80"/>
         <source>Show in all views</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்லா காட்சிகளிலும் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="83"/>
         <source>2D visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>2 டி தெரிவுநிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="88"/>
         <source>3D visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>3D தெரிவுநிலை</translation>
     </message>
 </context>
 <context>
@@ -27818,17 +27964,17 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="92"/>
         <source>Show in 3D views as volume rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வழங்குதல் என 3D காட்சிகளில் காண்பி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="97"/>
         <source>Volume rendering options...</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வழங்குதல் விருப்பங்கள் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
         <source>Switch to Volume Rendering module to manage display options</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி விருப்பங்களை நிர்வகிக்க தொகுதி வழங்குதல் தொகுதிக்கு மாறவும்</translation>
     </message>
 </context>
 <context>
@@ -27836,77 +27982,77 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="135"/>
         <source>Show volumes in folder</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புறையில் தொகுதிகளைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="138"/>
         <source>Show in slice views as foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்புறமாக துண்டு காட்சிகளில் காண்பி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="141"/>
         <source>Reset field of view on show</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்ச்சியில் பார்வையை மீட்டமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="146"/>
         <source>Reset view orientation on show</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியில் நோக்குநிலையை மீட்டமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="153"/>
         <source>Show color legend</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண புராணக்கதை காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="162"/>
         <source>Window/level presets</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளரம்/நிலை முன்னமைவுகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="186"/>
         <source>Default preset for the selected volume</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட தொகுதிக்கு இயல்புநிலை முன்னமைவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="194"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>தானியங்கி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="196"/>
         <source>Display the full intensity range of the volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதியின் முழு தீவிர வரம்பைக் காண்பி.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="364"/>
         <source>Default (WW=%1, WL=%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை (WW =%1, WL =%2)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="466"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>செல்லுபடியாகாத</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="472"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="487"/>
         <source>Dimensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>பரிமாணங்கள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="488"/>
         <source>Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>இடைவெளி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="492"/>
         <source> Empty volume</source>
-        <translation type="unfinished"></translation>
+        <translation> வெற்று தொகுதி</translation>
     </message>
 </context>
 <context>
@@ -27914,12 +28060,12 @@ Tags: %6</source>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateFooBarWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபூ பார்</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபூ பார்</translation>
     </message>
 </context>
 <context>
@@ -27927,7 +28073,7 @@ Tags: %6</source>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="42"/>
         <source>qSlicerSuperLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation>QslicersuperloadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -27939,12 +28085,12 @@ Tags: %6</source>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicersuperloadablemoduletemplate</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="20"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி</translation>
     </message>
 </context>
 <context>
@@ -27952,183 +28098,183 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="20"/>
         <source>Place markups</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்களை வைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="41"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="58"/>
         <source>Data type:</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவு வகை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="68"/>
         <source>string</source>
-        <translation type="unfinished"></translation>
+        <translation>சரம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="73"/>
         <source>double</source>
-        <translation type="unfinished"></translation>
+        <translation>இரட்டை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="78"/>
         <source>int</source>
-        <translation type="unfinished"></translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="83"/>
         <source>bit</source>
-        <translation type="unfinished"></translation>
+        <translation>துணுக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="88"/>
         <source>float</source>
-        <translation type="unfinished"></translation>
+        <translation>மிதவை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="93"/>
         <source>char</source>
-        <translation type="unfinished"></translation>
+        <translation>சார்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="98"/>
         <source>signed char</source>
-        <translation type="unfinished"></translation>
+        <translation>கையொப்பமிடப்பட்ட சார்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="103"/>
         <source>short</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="108"/>
         <source>long</source>
-        <translation type="unfinished"></translation>
+        <translation>நீண்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="113"/>
         <source>long long</source>
-        <translation type="unfinished"></translation>
+        <translation>நீண்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="118"/>
         <source>__int64</source>
-        <translation type="unfinished"></translation>
+        <translation>__int64</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="123"/>
         <source>idtype</source>
-        <translation type="unfinished"></translation>
+        <translation>idtype</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="128"/>
         <source>unsigned char</source>
-        <translation type="unfinished"></translation>
+        <translation>கையொப்பமிடாத கரி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="133"/>
         <source>unsigned short</source>
-        <translation type="unfinished"></translation>
+        <translation>கையொப்பமிடாத குறுகிய</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="138"/>
         <source>unsigned int</source>
-        <translation type="unfinished"></translation>
+        <translation>கையொப்பமிடாத எண்ணாக</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="143"/>
         <source>unsigned long</source>
-        <translation type="unfinished"></translation>
+        <translation>கையொப்பமிடாத நீண்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="148"/>
         <source>unsigned long long</source>
-        <translation type="unfinished"></translation>
+        <translation>கையொப்பமிடாத நீண்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="153"/>
         <source>unsigned __int64</source>
-        <translation type="unfinished"></translation>
+        <translation>கையொப்பமிடாத __int64</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="161"/>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="168"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="177"/>
         <source>Null value:</source>
-        <translation type="unfinished"></translation>
+        <translation>சுழிய மதிப்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
         <source>Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>தலைப்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="197"/>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>விளக்கம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="207"/>
         <source>Unit label:</source>
-        <translation type="unfinished"></translation>
+        <translation>அலகு லேபிள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="217"/>
         <source>Component count:</source>
-        <translation type="unfinished"></translation>
+        <translation>கூறு எண்ணிக்கை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="238"/>
         <source>Component names:</source>
-        <translation type="unfinished"></translation>
+        <translation>கூறு பெயர்கள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="248"/>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="251"/>
         <source>Place multiple control points</source>
-        <translation type="unfinished"></translation>
+        <translation>பல கட்டுப்பாட்டு புள்ளிகளை வைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="260"/>
         <source>Delete all control points</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்லா கட்டுப்பாட்டு புள்ளிகளையும் நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="263"/>
         <source>Delete all control points in the list</source>
-        <translation type="unfinished"></translation>
+        <translation>பட்டியலில் உள்ள அனைத்து கட்டுப்பாட்டு புள்ளிகளையும் நீக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="273"/>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>விழிமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="276"/>
         <source>Toggle control point visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளி தெரிவுநிலையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="286"/>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>பூட்டப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="289"/>
         <source>Toggle control point positions lock</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டு புள்ளி நிலைகளை மாற்றவும்</translation>
     </message>
 </context>
 <context>
@@ -28136,17 +28282,17 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.h" line="46"/>
         <source>Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணைகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="75"/>
         <source>The Tables module allows displaying and editing of spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணைகள் தொகுதி விரிதாள்களைக் காண்பிப்பதற்கும் திருத்துவதற்கும் அனுமதிக்கிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="83"/>
         <source>This work was was partially funded by OCAIRO, the Applied Cancer Research Unit program of Cancer Care Ontario, and Department of Anesthesia and Critical Care Medicine, Children&apos;s Hospital of Philadelphia.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலைக்கு ஒகிரோ, புற்றுநோய் பராமரிப்பு ஒன்ராறியோவின் பயன்பாட்டு புற்றுநோய் ஆராய்ச்சி பிரிவு திட்டம் மற்றும் பிலடெல்பியாவின் குழந்தைகள் மருத்துவமனை மயக்க மருந்து மற்றும் சிக்கலான பராமரிப்பு மருத்துவம் துறை ஆகியவற்றால் ஓரளவு நிதியளிக்கப்பட்டது.</translation>
     </message>
 </context>
 <context>
@@ -28154,23 +28300,23 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="20"/>
         <source>Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணைகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="71"/>
         <source>Allow table editing</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணை திருத்துதல் அனுமதிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="99"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="113"/>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="119"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>நகலெடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="116"/>
@@ -28182,73 +28328,73 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="282"/>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="296"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="127"/>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="126"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="174"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table. The First (from left to right) Column will be used as X-Axis and each additional Column will be plotted in the same Chart as Y-Axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணையின் நெடுவரிசைகளின் பயனர்-தேர்வின் அடிப்படையில் ஒரு ஊடாடும் சதித்திட்டத்தை உருவாக்கவும். முதல் (இடமிருந்து வலமாக) நெடுவரிசை எக்ச்-அச்சாக பயன்படுத்தப்படும், மேலும் ஒவ்வொரு கூடுதல் நெடுவரிசையும் Y- அச்சின் அதே விளக்கப்படத்தில் திட்டமிடப்படும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="204"/>
         <source>Add column</source>
-        <translation type="unfinished"></translation>
+        <translation>நெடுவரிசையைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="218"/>
         <source>Delete column</source>
-        <translation type="unfinished"></translation>
+        <translation>நெடுவரிசையை நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="232"/>
         <source>Lock first column</source>
-        <translation type="unfinished"></translation>
+        <translation>முதல் நெடுவரிசையை பூட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="265"/>
         <source>Add row</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசையைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="279"/>
         <source>Delete row</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசையை நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="293"/>
         <source>Lock first row</source>
-        <translation type="unfinished"></translation>
+        <translation>முதல் வரிசையை பூட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="334"/>
         <source>Column properties</source>
-        <translation type="unfinished"></translation>
+        <translation>நெடுவரிசை பண்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="349"/>
         <source>New column defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய நெடுவரிசை இயல்புநிலைகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="134"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணையின் நெடுவரிசைகளின் பயனர்-தேர்வின் அடிப்படையில் ஒரு ஊடாடும் சதித்திட்டத்தை உருவாக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="207"/>
         <source>Click to unlock this table so that values can be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த அட்டவணையைத் திறக்க சொடுக்கு செய்க, இதனால் மதிப்புகளை மாற்ற முடியும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="212"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் இடைமுகத்தில் மதிப்புகளை மாற்றுவதைத் தடுக்க இந்த அட்டவணையைப் பூட்ட சொடுக்கு செய்க</translation>
     </message>
 </context>
 <context>
@@ -28256,22 +28402,22 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="147"/>
         <source>Table reading failed: no file extension specified: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணை வாசிப்பு தோல்வியுற்றது: கோப்பு நீட்டிப்பு எதுவும் குறிப்பிடப்படவில்லை: %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="162"/>
         <source>QInputDialog::getText()</source>
-        <translation type="unfinished"></translation>
+        <translation>Qinputdialog :: உரைபெறு ()</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="163"/>
         <source>Database Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவுத்தள கடவுச்சொல்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="195"/>
         <source>Failed to read table from  &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; இலிருந்து அட்டவணையைப் படிக்கத் தவறிவிட்டது</translation>
     </message>
 </context>
 <context>
@@ -28279,12 +28425,12 @@ Tags: %6</source>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyFooBarWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபூ பார்</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபூ பார்</translation>
     </message>
 </context>
 <context>
@@ -28293,7 +28439,7 @@ Tags: %6</source>
         <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="42"/>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="42"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation>வார்ப்புரு</translation>
     </message>
 </context>
 <context>
@@ -28305,12 +28451,12 @@ Tags: %6</source>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation>வார்ப்புரு</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="20"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி</translation>
     </message>
 </context>
 <context>
@@ -28319,17 +28465,17 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Terminologies/Resources/UI/qSlicerTerminologiesModule.ui" line="14"/>
         <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.h" line="46"/>
         <source>Terminologies</source>
-        <translation type="unfinished"></translation>
+        <translation>சொற்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="68"/>
         <source>The Terminologies module enables viewing and editing terminology dictionaries used for segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>டெர்மினாலசிச் தொகுதி பிரிவுக்கு பயன்படுத்தப்படும் சொற்களஞ்சியம் அகராதிகளைப் பார்க்கவும் திருத்தவும் உதவுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="76"/>
         <source>This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலை ச்பார்கிட் திட்டத்தின் ஒரு பகுதியாகும், இது புற்றுநோய் பராமரிப்பு ஒன்ராறியோ (சி.சி.ஓ) இன் அக்யூ திட்டம் மற்றும் கதிர்வீச்சு புற்றுநோயியல் (ஒக்கைரோ) இல் தகவமைப்பு தலையீடுகளுக்கான ஒன்ராறியோ கூட்டமைப்பு ஆகியவற்றால் நிதியளிக்கப்படுகிறது.</translation>
     </message>
 </context>
 <context>
@@ -28337,7 +28483,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesReader.cxx" line="71"/>
         <source>Terminology</source>
-        <translation type="unfinished"></translation>
+        <translation>சொல்</translation>
     </message>
 </context>
 <context>
@@ -28345,91 +28491,93 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="14"/>
         <source>qSlicerTerminologyNavigatorWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qslicerterminolojeologynavigatorwidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="117"/>
         <source>Property type...</source>
-        <translation type="unfinished"></translation>
+        <translation>சொத்து வகை ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1373"/>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>வகை மாற்றியமைப்பாளர் இல்லை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="169"/>
         <source>Select anatomic region context...</source>
-        <translation type="unfinished"></translation>
+        <translation>உடற்கூறியல் பகுதி சூழலைத் தேர்ந்தெடுக்கவும் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="201"/>
         <source>Anatomic region...</source>
-        <translation type="unfinished"></translation>
+        <translation>உடற்கூறியல் பகுதி ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="243"/>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="2152"/>
         <source>No region modifier</source>
         <oldsource>Select anatomic region modifier...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>பிராந்திய மாற்றியமைப்பாளர் இல்லை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="280"/>
         <source>Select terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>சொற்களஞ்சியத்தைத் தேர்ந்தெடுக்கவும் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="337"/>
         <source>Category...</source>
-        <translation type="unfinished"></translation>
+        <translation>வகை ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="400"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="421"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ணம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="200"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>எதுவுமில்லை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="980"/>
         <source>%1, %2</source>
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="995"/>
         <source>%1 in %2, %3</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 இல் %2, %3</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1003"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%2 %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="2015"/>
         <source>There is a file with name &apos;%1&apos; in the stored contexts.
 
 Do you wish to update the stored context file with the just loaded one?</source>
-        <translation type="unfinished"></translation>
+        <translation>சேமிக்கப்பட்ட சூழல்களில் &apos;%1&apos; என்ற பெயருடன் ஒரு கோப்பு உள்ளது.
+
+ சேமிக்கப்பட்ட சூழல் கோப்பை இப்போது ஏற்றப்பட்ட ஒன்றுடன் புதுப்பிக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="2018"/>
         <source>Context file exists</source>
-        <translation type="unfinished"></translation>
+        <translation>சூழல் கோப்பு உள்ளது</translation>
     </message>
 </context>
 <context>
@@ -28437,7 +28585,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.h" line="55"/>
         <source>Texts</source>
-        <translation type="unfinished"></translation>
+        <translation>நூல்கள்</translation>
     </message>
 </context>
 <context>
@@ -28445,37 +28593,37 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="20"/>
         <source>Texts</source>
-        <translation type="unfinished"></translation>
+        <translation>நூல்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="44"/>
         <source>Text node:</source>
-        <translation type="unfinished"></translation>
+        <translation>உரை முனை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="74"/>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளடக்கங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="90"/>
         <source>Advanced</source>
-        <translation type="unfinished">மேம்படுத்தபட்ட</translation>
+        <translation>மேம்பட்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="99"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the text node is immediately updated as the contents are edited. If unchecked, text node is updated only when &amp;quot;Save&amp;quot; is clicked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; சரிபார்க்கப்பட்டால், உள்ளடக்கங்கள் திருத்தப்பட்டதால் உரை முனை உடனடியாக புதுப்பிக்கப்படும். தேர்வு செய்யப்படாவிட்டால், &amp; quot; சேமி &amp; quot; சொடுக்கு செய்யப்படுகிறது. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="102"/>
         <source>Auto-save edits to the text node</source>
-        <translation type="unfinished"></translation>
+        <translation>உரை முனைக்கு தானாக சேமிக்கும் திருத்தங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="109"/>
         <source>Enable word wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>சொல் மடக்குதலை இயக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -28483,7 +28631,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.h" line="55"/>
         <source>Transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றங்கள்</translation>
     </message>
 </context>
 <context>
@@ -28491,197 +28639,197 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="44"/>
         <source>Active Transform:</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உருமாற்றம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="74"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>தகவல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="98"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="116"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்ற அணி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="169"/>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>சுழற்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="190"/>
         <source>Identity</source>
-        <translation type="unfinished"></translation>
+        <translation>முற்றொருமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="200"/>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>தலைகீழ்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="210"/>
         <source>Split a composite transform to its components</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு கலப்பு உருமாற்றத்தை அதன் கூறுகளுக்கு பிரிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="213"/>
         <source>Split</source>
-        <translation type="unfinished"></translation>
+        <translation>பிளவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="220"/>
         <source>Translation in global or local (rotated) reference frame</source>
-        <translation type="unfinished"></translation>
+        <translation>உலகளாவிய அல்லது உள்ளக (சுழலும்) குறிப்பு சட்டத்தில் மொழிபெயர்ப்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="223"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="260"/>
         <source>Copy transform</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றத்தை நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="270"/>
         <source>Paste transform</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றம் ஒட்டவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="282"/>
         <source>Center of transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்ற நடுவண்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="292"/>
         <source>World</source>
-        <translation type="unfinished"></translation>
+        <translation>உலகம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="297"/>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளக</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="311"/>
         <source>Coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒருங்கிணைப்புகள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="318"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>மீட்டமை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="344"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="368"/>
         <source>Apply transform</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றத்தைப் பயன்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="379"/>
         <source>Transformable:</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றக்கூடியது:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="423"/>
         <source>Apply the active transform to the selected transformable nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட மாற்றத்தக்க முனைகளுக்கு செயலில் உள்ள மாற்றத்தைப் பயன்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="426"/>
         <source>&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="433"/>
         <source>Remove the active transform from the selected transformed nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட மாற்றப்பட்ட முனைகளிலிருந்து செயலில் உள்ள உருமாற்றத்தை அகற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="436"/>
         <source>&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="443"/>
         <source>Harden transform</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆர்டன் உருமாற்றம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="461"/>
         <source>Transformed:</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றப்பட்டது:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="501"/>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="513"/>
         <source>Reference volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>குறிப்பு தொகுதி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="529"/>
         <source>Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி செய்யப்பட்ட இடப்பெயர்ச்சி புலத்தின் தோற்றம், இடைவெளி மற்றும் அச்சு திசைகளை வரையறுக்கும் தொகுதி. குறிப்பு தொகுதி நேரியல் அல்லாத உருமாற்றத்தின் கீழ் இருந்தால், மாற்றப்படாத வடிவியல் குறிப்பாகப் பயன்படுத்தப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="559"/>
         <source>Output displacement field:</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு இடப்பெயர்ச்சி புலம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="575"/>
         <source>Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>இடப்பெயர்வு புலத்தை சேமிக்கும் தொகுதி அல்லது உருமாற்ற முனை. அளவிடுதல் தொகுதி முனை தேர்ந்தெடுக்கப்பட்டால், இடப்பெயர்ச்சி அளவு மட்டுமே சேமிக்கப்படுகிறது. திசையன் தொகுதி அல்லது உருமாற்ற முனை 3D இடப்பெயர்ச்சி திசையன் சேமிக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="588"/>
         <source>Displacement Field</source>
-        <translation type="unfinished"></translation>
+        <translation>இடப்பெயர்ச்சி புலம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="610"/>
         <source>Apply</source>
-        <translation type="unfinished">விண்ணப்பிக்கவும்</translation>
+        <translation>இடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="131"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>நகலெடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="137"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="703"/>
         <source>Conversion failed</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றம் தோல்வியடைந்தது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="703"/>
         <source>Failed to convert transform. See application log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றத்தை மாற்றத் தவறிவிட்டது. விவரங்களுக்கு பயன்பாட்டு பதிவைப் பார்க்கவும்.</translation>
     </message>
 </context>
 <context>
@@ -28689,7 +28837,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Units/qSlicerUnitsModule.h" line="47"/>
         <source>Units</source>
-        <translation type="unfinished"></translation>
+        <translation>அலகுகள்</translation>
     </message>
 </context>
 <context>
@@ -28697,7 +28845,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="14"/>
         <source>Units Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>அலகுகள் அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="26"/>
@@ -28706,18 +28854,23 @@ Do you wish to update the stored context file with the just loaded one?</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;
+ &lt;html&gt; &lt;head&gt; &lt;meta பெயர் = &quot;qrichtext&quot; content = &quot;1&quot; /&gt; &lt;style வகை = &quot;text /css&quot;&gt;
+ பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
+ &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; .</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
         <source>Show all the units&apos; properties.
 This should only used by advanced users who understand the consequences of changing a unit&apos;s property.</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து அலகுகளின் பண்புகளையும் காட்டு.
+ இது ஒரு யூனிட்டின் சொத்தை மாற்றுவதன் விளைவுகளைப் புரிந்துகொள்ளும் மேம்பட்ட பயனர்களால் மட்டுமே பயன்படுத்தப்பட வேண்டும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="47"/>
         <source>Show advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>மேம்பட்ட விருப்பங்களைக் காட்டு</translation>
     </message>
 </context>
 <context>
@@ -28725,7 +28878,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/qSlicerViewControllersModule.h" line="50"/>
         <source>View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டாளர்களைக் காண்க</translation>
     </message>
 </context>
 <context>
@@ -28737,37 +28890,37 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டுப்பாட்டாளர்களைக் காண்க</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="20"/>
         <source>Slice Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் கன்ட்ரோலர்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="28"/>
         <source>3D View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வை கட்டுப்படுத்திகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="36"/>
         <source>Plot View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>சூழ்ச்சி காட்சி கட்டுப்படுத்திகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="47"/>
         <source>Advanced</source>
-        <translation type="unfinished">மேம்படுத்தபட்ட</translation>
+        <translation>மேம்பட்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="64"/>
         <source>Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய காட்சியில் இருந்து ஒரு காட்சியைத் தேர்ந்தெடுக்கவும். ஒவ்வொரு உறுப்பு ஒரு குறிப்பிட்ட விட்செட்டுக்கு ஒத்திருக்கிறது. காட்சி முனைகள் 3D வழங்குதல் விட்செட்களுடன் இணைக்கப்பட்டுள்ளன. சூழ்ச்சி விட்செட்டுகளுடன் ப்ளாட் வியூ. 2 டி வழங்குதல் விட்செட்களுடன் துண்டுகள் (சிவப்பு, பச்சை, மஞ்சள்).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
         <source>View Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை காண்க:</translation>
     </message>
 </context>
 <context>
@@ -28775,112 +28928,112 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="62"/>
         <source>No jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation>சம்ப் துண்டுகள் இல்லை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="63"/>
         <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்குவழி நகர்த்தப்படும்போது துண்டு காட்சிகள் மாற்றியமைக்கப்படுவதில்லை.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="67"/>
         <source>Jump slices - offset</source>
-        <translation type="unfinished"></translation>
+        <translation>சம்ப் துண்டுகள் - ஆஃப்செட்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="68"/>
         <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் பார்வை விமானங்கள் குறுக்கு நாற்காலி நிலைக்கு பொருந்தும் (குறுக்கு நாற்காலி காட்டப்படாவிட்டாலும் கூட).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
         <source>Jump slices - centered</source>
-        <translation type="unfinished"></translation>
+        <translation>சம்ப் துண்டுகள் - மையப்படுத்தப்பட்டவை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="74"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் காட்சிகள் குறுக்கு நாற்காலி நிலையை மையமாகக் கொண்டுள்ளன (குறுக்குவழி காட்டப்படாவிட்டாலும் கூட).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
         <source>No crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்குவழி இல்லை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="95"/>
         <source>No crosshair displayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்குவழி எதுவும் காட்டப்படவில்லை.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="99"/>
         <source>Basic crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>அடிப்படை குறுக்குவழி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="100"/>
         <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்கு நாற்காலி நிலையில் ஒரு சிறிய இடைவெளியுடன் பார்வைத் துறையில் விரிவடைந்த அடிப்படை குறுக்குவழி.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
         <source>Basic + intersection</source>
-        <translation type="unfinished"></translation>
+        <translation>அடிப்படை + குறுக்குவெட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="106"/>
         <source>Basic crosshair extending across the field of view.</source>
-        <translation type="unfinished"></translation>
+        <translation>அடிப்படை குறுக்குவழி பார்வைத் துறையில் விரிவடைகிறது.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
         <source>Small basic crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறிய அடிப்படை குறுக்குவழி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="111"/>
         <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்குவழி நிலையில் ஒரு சிறிய இடைவெளியுடன் சிறிய குறுக்கு நாற்காலி.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="115"/>
         <source>Small basic + intersection</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறிய அடிப்படை + குறுக்குவெட்டு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="116"/>
         <source>Small crosshair.</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறிய குறுக்குவழி.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
         <source>Fine crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறந்த குறுக்கு நாற்காலி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
         <source>Fine crosshair.</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறந்த குறுக்கு நாற்காலி.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
         <source>Medium crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>நடுத்தர குறுக்கு நாற்காலி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="152"/>
         <source>Medium crosshair.</source>
-        <translation type="unfinished"></translation>
+        <translation>நடுத்தர குறுக்கு நாற்காலி.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="156"/>
         <source>Thick crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>தடிமனான குறுக்கு நாற்காலி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="157"/>
         <source>Thick crosshair.</source>
-        <translation type="unfinished"></translation>
+        <translation>தடிமனான குறுக்கு நாற்காலி.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="176"/>
@@ -28888,97 +29041,97 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="187"/>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="197"/>
         <source>Crosshair</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்கு நாற்காலி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="195"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்கு நாற்காலி தெரிவுநிலையை மாற்றவும். சிப்ட் விசையை பிடித்து மவுசை நகர்த்தவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="213"/>
         <source>Full lines</source>
-        <translation type="unfinished"></translation>
+        <translation>முழு கோடுகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="215"/>
         <source>Full slice intersection lines extending across the field of view.</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வைத் துறையில் நீட்டிக்கப்பட்ட முழு துண்டு குறுக்குவெட்டு கோடுகள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="220"/>
         <source>Skip line crossings</source>
-        <translation type="unfinished"></translation>
+        <translation>வரி குறுக்குவெட்டுகளைத் தவிர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="222"/>
         <source>Slice intersection lines extending across the field of view with a gap at the intersection.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்குவெட்டில் ஒரு இடைவெளியுடன் பார்வைத் துறையில் விரிவடையும் குறுக்குவெட்டு கோடுகள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="243"/>
         <source>Fine lines</source>
-        <translation type="unfinished"></translation>
+        <translation>நேர்த்தியான கோடுகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="244"/>
         <source>Fine lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>நேர்த்தியான கோடுகள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="249"/>
         <source>Medium lines</source>
-        <translation type="unfinished"></translation>
+        <translation>நடுத்தர கோடுகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="250"/>
         <source>Medium lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>நடுத்தர கோடுகள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="254"/>
         <source>Thick lines</source>
-        <translation type="unfinished"></translation>
+        <translation>அடர்த்தியான கோடுகள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="255"/>
         <source>Thick lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>அடர்த்தியான கோடுகள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="275"/>
         <source>Interaction</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்வினை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="276"/>
         <source>Show handles for slice interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>துண்டு தொடர்புக்கான கைப்பிடிகளைக் காட்டு.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="283"/>
         <source>Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>மொழிபெயர்த்திடு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="284"/>
         <source>Control visibility of translation handles for slice intersection.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் குறுக்குவெட்டுக்கு மொழிபெயர்ப்பு கைப்பிடிகளின் கட்டுப்பாடு.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="291"/>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>சுழற்றுங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="293"/>
         <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் குறுக்குவெட்டுக்கு சுழற்சி கைப்பிடிகளின் கட்டுப்பாடு.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="299"/>
         <source>Interaction options</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடர்பு விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="304"/>
@@ -28986,12 +29139,12 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="320"/>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="327"/>
         <source>Slice intersections</source>
-        <translation type="unfinished"></translation>
+        <translation>குறுக்குவெட்டுகளை நறுக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished"></translation>
+        <translation>மற்ற ச்லைச் விமானங்கள் ஒவ்வொரு துண்டு விமானத்தையும் எவ்வாறு வெட்டுகின்றன என்பதைக் காட்டுங்கள்.</translation>
     </message>
 </context>
 <context>
@@ -28999,32 +29152,32 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="74"/>
         <source>Volume Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வழங்குதல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="81"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வழங்குதல் தொகுதி தரவுத்தொகுப்புகளின் ஊடாடும் தொகுதி வழங்குதல் மாற்றுவதற்கான மேம்பட்ட கருவிகளை வழங்குகிறது. , மற்றும் இந்த அளவுருக்களைக் குறிப்பிடும் பரிமாற்ற செயல்பாடுகளைத் தனிப்பயனாக்குவதற்கான கருவிகள். &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="102"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. Some of the transfer functions were contributed by Kitware Inc. (VolView)</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலையை NA-MIC, NAC, BRN, NCIGT மற்றும் ச்லைசர் சமூகம் ஆதரிக்கிறது. சில பரிமாற்ற செயல்பாடுகளை கிட்வேர் இன்க் (வோல்வியூ) பங்களித்தது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="143"/>
         <source>Volume rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வழங்குதல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="150"/>
         <source>Transfer Function</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றச் சார்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="155"/>
         <source>Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation>சேடர் சொத்து</translation>
     </message>
 </context>
 <context>
@@ -29032,137 +29185,137 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வழங்குதல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="43"/>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="88"/>
         <source>Inputs</source>
-        <translation type="unfinished">உள்ளீடுகள்</translation>
+        <translation>உள்ளீடுகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="115"/>
         <source>ROI:</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="137"/>
         <source>Property:</source>
-        <translation type="unfinished"></translation>
+        <translation>சொத்து:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="159"/>
         <source>View:</source>
-        <translation type="unfinished"></translation>
+        <translation>காண்க:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="172"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="199"/>
         <source>Crop:</source>
-        <translation type="unfinished"></translation>
+        <translation>பயிர்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="211"/>
         <source>Enable</source>
-        <translation type="unfinished">இயக்கு</translation>
+        <translation>இயக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="221"/>
         <source>Display ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI ஐக் காண்பி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="242"/>
         <source>Fit to Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிக்கு ஏற்றது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="255"/>
         <source>Rendering:</source>
-        <translation type="unfinished"></translation>
+        <translation>ரெண்டரிங்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="275"/>
         <source>Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation>மேம்பட்டது ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="303"/>
         <source>Techniques</source>
-        <translation type="unfinished"></translation>
+        <translation>நுட்பங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="309"/>
         <source>GPU memory size:</source>
-        <translation type="unfinished"></translation>
+        <translation>சி.பீ.யூ நினைவக அளவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="316"/>
         <source>Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>கிராஃபிக் கார்டில் தொகுதி ரெண்டரிங்கிற்கு ஒதுக்கப்பட்ட நினைவகத்தின் அளவு. அமைப்புகளில் &quot;இயல்புநிலை&quot; மாற்றியமைக்கப்படலாம்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="326"/>
         <source>Quality:</source>
-        <translation type="unfinished"></translation>
+        <translation>தரம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="340"/>
         <source>Interactive speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஊடாடும் வேகம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="359"/>
         <source> fps</source>
-        <translation type="unfinished"></translation>
+        <translation> fps</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="366"/>
         <source>Advanced rendering properties</source>
-        <translation type="unfinished"></translation>
+        <translation>மேம்பட்ட வழங்குதல் பண்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="397"/>
         <source>Auto-release resources:</source>
-        <translation type="unfinished"></translation>
+        <translation>தானாக வெளியீட்டு வளங்கள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="404"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
-        <translation type="unfinished"></translation>
+        <translation>காணப்படாதபோது உடனடியாக கிராபிக்ச் நினைவகத்திலிருந்து தொகுதிகளை இறக்கவும். நினைவக பயன்பாட்டைக் குறைக்கிறது, ஆனால் தொகுதி தெரிவுநிலையை மாற்றுவதை மெதுவாக செய்கிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="415"/>
         <source>Volume properties</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி பண்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="444"/>
         <source>Synchronize with Volumes module</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள் தொகுதியுடன் ஒத்திசைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="457"/>
         <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>வாசல் மதிப்புகளைப் பயன்படுத்த வேண்டாம். அதற்கு பதிலாக சாளர/நிலை வரம்பிலிருந்து ஒளிபுகா வளைவை அமைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="460"/>
         <source>Ignore threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>வாசலை புறக்கணிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="487"/>
         <source>ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>ரோய்</translation>
     </message>
 </context>
 <context>
@@ -29170,28 +29323,28 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="14"/>
         <source>Volume Rendering Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வழங்குதல் முன்னமைவுகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
         <source>Preset:</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்னமைவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="45"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="55"/>
         <source>Shift transfer functions</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்ற பரிமாற்ற செயல்பாடுகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="48"/>
         <source>Shift:</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="73"/>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -29200,7 +29353,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="83"/>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="97"/>
         <source>Transfer Function</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றச் சார்பு</translation>
     </message>
 </context>
 <context>
@@ -29208,67 +29361,67 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="14"/>
         <source>Volume Rendering Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வழங்குதல் அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="23"/>
         <source>Default rendering method:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை வழங்குதல் முறை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="30"/>
         <source>Default rendering method</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை வழங்குதல் முறை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="37"/>
         <source>Default quality:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை தரம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="44"/>
         <source>GPU memory size:</source>
-        <translation type="unfinished"></translation>
+        <translation>சி.பீ.யூ நினைவக அளவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="51"/>
         <source>Amount of memory allocated for volume rendering on the graphic card</source>
-        <translation type="unfinished"></translation>
+        <translation>கிராஃபிக் கார்டில் தொகுதி ரெண்டரிங்கிற்கு ஒதுக்கப்பட்ட நினைவகத்தின் அளவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="61"/>
         <source>Quality control method to def</source>
-        <translation type="unfinished"></translation>
+        <translation>DEF க்கு தரக் கட்டுப்பாட்டு முறை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="68"/>
         <source>Default interactive speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை ஊடாடும் வேகம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="87"/>
         <source> fps</source>
-        <translation type="unfinished"></translation>
+        <translation> fps</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="94"/>
         <source>Default surface smoothing:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை மேற்பரப்பு மென்மையாக்குதல்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="101"/>
         <source>Reduce wood grain artifact to make surfaces appear smoother.</source>
-        <translation type="unfinished"></translation>
+        <translation>மேற்பரப்புகள் மென்மையாகத் தோன்றும் மர தானிய கலைப்பொருட்களைக் குறைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="111"/>
         <source>Auto-release resources:</source>
-        <translation type="unfinished"></translation>
+        <translation>தானாக வெளியீட்டு வளங்கள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="118"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
-        <translation type="unfinished"></translation>
+        <translation>காணப்படாதபோது உடனடியாக கிராபிக்ச் நினைவகத்திலிருந்து தொகுதிகளை இறக்கவும். நினைவக பயன்பாட்டைக் குறைக்கிறது, ஆனால் தொகுதி தெரிவுநிலையை மாற்றுவதை மெதுவாக செய்கிறது.</translation>
     </message>
 </context>
 <context>
@@ -29276,62 +29429,62 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="14"/>
         <source>Volume Options</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="33"/>
         <source>LabelMap</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="36"/>
         <source>Load the volume as a labelmap (each voxel value representing a segmented structure).</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவை ஒரு லேபிள்மேப்பாக ஏற்றவும் (ஒவ்வொரு வோக்சல் மதிப்பும் ஒரு பிரிக்கப்பட்ட கட்டமைப்பைக் குறிக்கும்).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="43"/>
         <source>Single File</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒற்றை கோப்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="46"/>
         <source>Only load the selected file. The application will not attempt to look for similar files that can make up the complete volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட கோப்பை மட்டும் ஏற்றவும். முழுமையான அளவை உருவாக்கக்கூடிய ஒத்த கோப்புகளைத் தேட பயன்பாடு முயற்சிக்காது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="53"/>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>மையப்படுத்தப்பட்ட</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="56"/>
         <source>Ignore image position information that is specified in the image header.</source>
-        <translation type="unfinished"></translation>
+        <translation>பட தலைப்பில் குறிப்பிடப்பட்டுள்ள பட நிலை தகவல்களை புறக்கணிக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="63"/>
         <source>Ignore Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>நோக்குநிலையை புறக்கணிக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="66"/>
         <source>Ignore axis orientation information that is specified in the image header.</source>
-        <translation type="unfinished"></translation>
+        <translation>பட தலைப்பில் குறிப்பிடப்பட்டுள்ள அச்சு நோக்குநிலை தகவல்களை புறக்கணிக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="73"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="76"/>
         <source>Show volume in slice viewers after loading is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றப்பட்ட பிறகு ச்லைச் பார்வையாளர்களில் அளவைக் காட்டு.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="95"/>
         <source>Color table node used to display this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த அளவைக் காட்ட வண்ண அட்டவணை முனை பயன்படுத்தப்படுகிறது.</translation>
     </message>
 </context>
 <context>
@@ -29339,17 +29492,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="67"/>
         <source>Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="73"/>
         <source>The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியில் தொகுதி படத் தரவின் காட்சியைக் கட்டுப்படுத்தும் சாளரம், நிலை, வாசல், வண்ண LUT மற்றும் பிற அளவுருக்களை சரிசெய்வதற்கான இடைமுகம் தொகுதி தொகுதி ஆகும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="92"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலையை NA-MIC, NAC, BRN, NCIGT மற்றும் ச்லைசர் சமூகம் ஆதரித்தன.</translation>
     </message>
 </context>
 <context>
@@ -29357,52 +29510,52 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
         <source>Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
         <source>Active Volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் தொகுதி: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
         <source>Volume Information</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி செய்தி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
         <source>Convert to LabelMap:</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்மேப்பிற்கு மாற்றவும்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="132"/>
         <source>Replace current node</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய முனையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="139"/>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="152"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="170"/>
         <source>Color Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண புராணக்கதை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="130"/>
         <source>Convert to label map:</source>
-        <translation type="unfinished"></translation>
+        <translation>சிட்டை வரைபடத்திற்கு மாற்றவும்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="136"/>
         <source>Convert to scalar volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் தொகுதிக்கு மாற்றவும்:</translation>
     </message>
 </context>
 <context>
@@ -29411,22 +29564,22 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="92"/>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="106"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="107"/>
         <source>Dicom</source>
-        <translation type="unfinished"></translation>
+        <translation>டிகாம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>படம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து கோப்புகள்</translation>
     </message>
 </context>
 <context>
@@ -29435,54 +29588,54 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="51"/>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
         <source>Web download</source>
-        <translation type="unfinished"></translation>
+        <translation>வலை பதிவிறக்கம்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="52"/>
         <source>Load data into Slicer or download to separate location.</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவை ச்லைசரில் ஏற்றவும் அல்லது இருப்பிடத்திற்கு பதிவிறக்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="53"/>
         <source>Load...</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுங்கள் ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="55"/>
         <source>Download the data and open in Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவைப் பதிவிறக்கி ச்லைசரில் திறக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="56"/>
         <source>Save...</source>
-        <translation type="unfinished"></translation>
+        <translation>சேமி ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="57"/>
         <source>Save to an arbitrary location</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு தன்னிச்சையான இடத்திற்கு சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="58"/>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="138"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="88"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பை சேமி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="124"/>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="126"/>
         <source>Downloading %1</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவிறக்குதல் %1</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
         <source>Download complete</source>
-        <translation type="unfinished"></translation>
+        <translation>முழுமையான பதிவிறக்கம்</translation>
     </message>
 </context>
 <context>
@@ -29490,22 +29643,22 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="59"/>
         <source>Allow Python execution?</source>
-        <translation type="unfinished"></translation>
+        <translation>பைத்தான் சாவுஒறுப்பு அனுமதிக்கவா?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="60"/>
         <source>Allow the web page to execute code using Slicer&apos;s python?</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசரின் பைத்தானைப் பயன்படுத்தி குறியீட்டை இயக்க வலைப்பக்கத்தை அனுமதிக்கவா?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="62"/>
         <source>Allow</source>
-        <translation type="unfinished"></translation>
+        <translation>இசைவு</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="63"/>
         <source>Reject</source>
-        <translation type="unfinished"></translation>
+        <translation>நிராகரிக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -29513,17 +29666,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="387"/>
         <source>bytes/sec</source>
-        <translation type="unfinished"></translation>
+        <translation>பைட்டுகள்/நொடி</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="391"/>
         <source>kB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>kb/s</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="396"/>
         <source>MB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>Mb/s</translation>
     </message>
 </context>
 <context>
@@ -29531,12 +29684,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.cxx" line="62"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC and the Slicer Community. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details. We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலையை NA-MIC, NAC, BRN, NCIGT, CTSC மற்றும் ச்லைசர் சமூகம் ஆதரித்தன. விவரங்களுக்கு &lt;a href = &quot;https://www.slicer.org&quot;&gt; https://www.slicer.org &lt;/a&gt; ஐப் பார்க்கவும். இந்த வரவேற்பு தொகுதியின் உள்ளடக்கங்களை வடிவமைக்க எங்களுக்கு உதவிய ச்லைசர் பயனர் சமூகத்தின் உறுப்பினர்களுக்கு எங்கள் மனமார்ந்த நன்றியைத் தெரிவித்துக் கொள்கிறோம், மேலும் அதன் கருத்து தொடர்ந்து செயல்பாடு, பயன்பாட்டினை மற்றும் ச்லைசர் பயனர் அனுபவத்தை மேம்படுத்துகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="47"/>
         <source>Welcome to Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசருக்கு வருக</translation>
     </message>
 </context>
 <context>
@@ -29544,58 +29697,58 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="14"/>
         <source>Welcome</source>
-        <translation type="unfinished"></translation>
+        <translation>வரவேற்கிறோம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="79"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரி தரவைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="59"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="461"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசர் நீட்டிப்புகளைக் கண்டுபிடிக்கவும், பதிவிறக்கம் செய்யவும் நிறுவவும் அனுமதிக்கும் &quot;நீட்டிப்பு மேலாளர்&quot; வழிகாட்டி உயர்த்தவும். தொடர்புடைய தொகுதிகள் தொகுதி தேர்வாளரில் கிடைக்கும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
         <source>Customize Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைசரைத் தனிப்பயனாக்குங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
         <source> Install Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation> நீட்டிப்புகளை நிறுவவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Welcome&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p align = &quot;மையம்&quot;&gt; &lt;span சூல் தண்டு = &quot;font-size: 22pt; வண்ணம்:#afb7d5;&quot;&gt; வரவேற்பு &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt; /html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="100"/>
         <source>Add Data</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="111"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM தரவைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="141"/>
         <source>Explore Added Data</source>
-        <translation type="unfinished"></translation>
+        <translation>சேர்க்கப்பட்ட தரவை ஆராயுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="158"/>
         <source>A new version of the application is available. Click the button to go to the download page.</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டின் புதிய பதிப்பு கிடைக்கிறது. பதிவிறக்க பக்கத்திற்குச் செல்ல பொத்தானைக் சொடுக்கு செய்க.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="187"/>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>கருத்து</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="220"/>
@@ -29604,23 +29757,28 @@ This should only used by advanced users who understand the consequences of chang
 &lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Share your stories with us on the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forum&lt;/a&gt; and let us know about how 3D Slicer has enabled your research.&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 &lt;p&gt;We are always interested in improving 3D Slicer, to tell us about your problem or submit a bug report, open &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;அட்டவணை எல்லை = &quot;0&quot; சீரமை = &quot;நடுவண்&quot; செல்ச்பாசிங் = &quot;0&quot; CellPadding = &quot;5&quot;&gt; &lt;tr&gt;
+ &lt;td சூல் தண்டு = &quot;செங்குத்து-சீரமை: நடுத்தர;&quot;&gt; &lt;p&gt; &lt;a href = &quot;https://discourse.slicer.org&quot; நடை = &quot;செங்குத்து-சீரமை: நடுத்தர;&quot; /&gt; &lt;/a&gt; &lt;/p&gt; &lt;/td&gt;
+ &lt;td சூல் தண்டு = &quot;செங்குத்து-சீரமை: நடுத்தர;&quot;&gt; &lt;p&gt; உங்கள் கதைகளை &lt;a href = &quot;https://discourse.slicer.org&quot;&gt; ச்லைசர் மன்றம் &lt;/a&gt; இல் எங்களுடன் பகிர்ந்து கொள்ளுங்கள் 3D ச்லைசர் உங்கள் ஆராய்ச்சியை எவ்வாறு செயல்படுத்தியது. &lt;/p&gt; &lt;/td&gt;
+ &lt;/tr&gt; &lt;/sable&gt;
+ &lt;p&gt; 3D ச்லைசரை மேம்படுத்துவதில் நாங்கள் எப்போதும் ஆர்வமாக உள்ளோம், உங்கள் பிரச்சினையைப் பற்றி எங்களிடம் சொல்ல அல்லது பிழை அறிக்கையைச் சமர்ப்பிக்க, &lt;b&gt; உதவி -&amp; gt; ஒரு பிழையைப் புகாரளிக்கவும் &lt;/b&gt;. &lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>பற்றி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt; &lt;b&gt; 3D ச்லைசர் &lt;/b&gt; என்பது மருத்துவ பட செயலாக்கத்திற்கான இலவச திறந்த மூல மென்பொருள் தளமாகும் மற்றும் படத் தரவின் 3D காட்சிப்படுத்தல். இந்த தொகுதிக்கு நீங்கள் ச்லைசரைப் பயன்படுத்தத் தொடங்க சில அடிப்படை தகவல்கள் மற்றும் பயனுள்ள இணைப்புகள் உள்ளன. மேலும் தகவலுக்கு, தயவுசெய்து எங்கள் வலைத்தளத்தைப் பார்வையிடவும் &lt;a href = &quot;https://www.slicer.org&quot;&gt; https://www.slicer.org &lt;/a&gt;. &lt;/P&gt;
+ &lt;p&gt; &lt;b&gt; 3D ச்லைசர் &lt;/b&gt; BSD- பாணி உரிமத்தின் கீழ் விநியோகிக்கப்படுகிறது; பங்களிப்பு மற்றும் மென்பொருள் உரிம ஒப்பந்தம் குறித்த விவரங்களுக்கு, தயவுசெய்து &lt;a href = &quot;https://github.com/slicer/slicer/blob/main/license.txt&quot;&gt; 3D ச்லைசர் மென்பொருள் உரிம ஒப்பந்தம் &lt;/a&gt; ஐப் பார்க்கவும். இந்த மென்பொருள் ஆராய்ச்சி நோக்கங்களுக்காக மட்டுமே வடிவமைக்கப்பட்டுள்ளது மற்றும் உணவு மற்றும் மருந்து நிர்வாகத்தால் அல்லது வேறு எந்த நிறுவனமும் மதிப்பாய்வு செய்யப்படவில்லை அல்லது அங்கீகரிக்கப்படவில்லை. &lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="287"/>
         <source>Documentation &amp;&amp; Tutorials</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆவணங்கள் &amp;&amp; பயிற்சிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="320"/>
@@ -29641,59 +29799,75 @@ This should only used by advanced users who understand the consequences of chang
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt; &lt;b&gt; ஆவணங்கள் &lt;/b&gt; &lt;/p&gt;
+ &lt;ul&gt; &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/&quot;&gt; ஆவணங்கள் &lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt; விரைவான தொடக்க &lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt; உதவியைப் பெறுங்கள் &lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt; பயனர் இடைமுகம் &lt;/a&gt; &lt;/li&gt;
+ இப்போது மற்றும் விசைப்பலகை குறுக்குவழிகள் &lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt; உலாவு டுடோரியல்கள் &lt;/a&gt; &lt;/li&gt; &lt;/ul&gt;
+ &lt;p&gt; &lt;b&gt; எங்களைத் தொடர்பு கொள்ளுங்கள் &lt;/p&gt;
+ &lt;ul&gt; &lt;li&gt; &lt;a href = &quot;https://discourse.slicer.org/&quot;&gt; ச்லைசர் மன்றத்தைப் பார்வையிடவும் &lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt; &lt;a href = &quot;https://twitter.com/3dslicerapp&quot;&gt; ட்விட்டரில் எங்களுடன் சேருங்கள் &lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt; &lt;a href = &quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt; அம்சக் கோரிக்கைகளைத் தேடுங்கள் &lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-port-aport-a-a-problem&quot;&gt; ஒரு பிழையைப் புகாரளிக்கவும் &lt;/a&gt; &lt;/ li&gt; &lt;/ul&gt;
+ &lt;p&gt; &lt;b&gt; 3 டி ச்லைசர் பற்றி &lt;/p&gt;
+ &lt;ul&gt; &lt;li&gt; &lt;a href = &quot;https://github.com/slicer/slicer/blob/main/license.txt&quot;&gt; உரிமத்தைக் காண்க &lt;/a&gt; &lt;/li&gt;
+ இப்போது
+ &lt;li&gt; &lt;a href = &quot;https://scholar.google.com/scholal?&amp;amp; +அல்லது+ச்லிசர் 3 டி%29+-slic3r+&amp; amp; btng = &quot;&gt; ச்லைசர் வெளியீடுகள் &lt;/a&gt; &lt;/li&gt;
+ இப்போது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="407"/>
         <source>Click the button to check for updates now. Note that anonymized usage statistics will be recorded.</source>
-        <translation type="unfinished"></translation>
+        <translation>இப்போது புதுப்பிப்புகளை சரிபார்க்க பொத்தானைக் சொடுக்கு செய்க. அநாமதேய பயன்பாட்டு புள்ளிவிவரங்கள் பதிவு செய்யப்படும் என்பதை நினைவில் கொள்க.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="355"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="379"/>
         <source>Check for updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளைச் சரிபார்க்கவும்: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="391"/>
         <source>Periodically check for updates. Note that anonymized usage statistics will be recorded. If the box appears as partially checked it means that automatic updates are only checked for the application or for extensions, but not both - click the checkbox to enable/disable all automatic update checks.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளை அவ்வப்போது சரிபார்க்கவும். அநாமதேய பயன்பாட்டு புள்ளிவிவரங்கள் பதிவு செய்யப்படும் என்பதை நினைவில் கொள்க. பெட்டி ஓரளவு சரிபார்க்கப்பட்டதாகத் தோன்றினால், தானியங்கி புதுப்பிப்புகள் பயன்பாட்டிற்காக அல்லது நீட்டிப்புகளுக்கு மட்டுமே சரிபார்க்கப்படுகின்றன, ஆனால் இரண்டுமே இல்லை - அனைத்து தானியங்கி புதுப்பிப்பு சோதனைகளையும் இயக்க/முடக்க தேர்வுப்பெட்டியைக் சொடுக்கு செய்க.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="394"/>
         <source>Automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>தானாக</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="410"/>
         <source>Check now</source>
-        <translation type="unfinished"></translation>
+        <translation>இப்போது சரிபார்க்க</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="419"/>
         <source>Application update: </source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டு புதுப்பிப்பு: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="438"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="464"/>
         <source>No information is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்த தகவலும் கிடைக்கவில்லை.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="451"/>
         <source>Extension updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு புதுப்பிப்புகள்: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="496"/>
         <source>Acknowledgment</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒப்புதல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="529"/>
@@ -29705,46 +29879,53 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;Development of 3D Slicer is supported by &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; and the &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Community&lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details.&lt;/p&gt;
 &lt;p&gt;We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.&lt;/p&gt;
 &lt;p&gt;This module was developed by Jean-Christophe Fillion-Robin and Julien Finet at Kitware, Inc., and by Wendy Plesniak, Sonia Pujol, Steve Pieper and Ron Kikinis at Brigham and Women&apos;s Hospital.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;அட்டவணை சீரமைப்பு = &quot;சென்டர்&quot; செல்ச்பேசிங் = &quot;0&quot; CellPadding = &quot;5&quot;&gt; &lt;tr&gt; &lt;td&gt; &lt;p align = &quot;மையம்&quot;&gt;
+ &lt;a href = &quot;https://www.na-mic.org/&quot;&gt; &lt;img src = &quot;qrc: locos/namic.png&quot; அகலம் = &quot;80&quot; பாணி = &quot;செங்குத்து-சீரமை: நடுத்தர;&quot; /&gt;]
+ &lt;td&gt; &lt;p align = &quot;மையம்&quot;&gt; &lt;a href = &quot;https://nac.spl.harvard.edu/&quot;&gt; &lt;img src = &quot;qrc: locos/nac.png&quot; சூல் தண்டு = &quot;செங்குத்து-சீரமை: நடுத்தர; &quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+ &lt;td&gt; &lt;p align = &quot;மையம்&quot;&gt; &lt;a href = &quot;https://www.ncigt.org/&quot;&gt; &lt;img src = &quot;qrc: locos/ncigt.png&quot; சூல் தண்டு = &quot;செங்குத்து-சீரமை: நடுத்தர; &quot; /&gt;]
+ &lt;td&gt; &lt;p align = &quot;மையம்&quot;&gt; &lt;a href = &quot;https://www.spl.harvard.edu/&quot;&gt; &lt;img src = &quot;qrc: locos/spl.png&quot; சூல் தண்டு = &quot;செங்குத்து-சீரமை: நடுத்தர; &quot; /&gt;]
+ &lt;p&gt; 3D ச்லைசரின் வளர்ச்சியை &lt;a href = &quot;https://www.na-mic.org/&quot;&gt; na-mic &lt;/a&gt;, &lt;a href = &quot;https: //nac.spl ஆல் ஆதரிக்கப்படுகிறது. harvard.edu/&quot;&gt;nac &lt;/a&gt;, &lt;a href = &quot;https://www.ncigt.org/&quot;&gt; ncigt &lt;/a&gt;, &lt;a href = &quot;https: //www.spl.harvard. edu &quot;&gt; spl &lt;/a&gt; மற்றும் &lt;a href =&quot; https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments &quot;&gt; ச்லைசர் சமூகம் &lt;/a&gt;. விவரங்களுக்கு &lt;/p&gt; க்கு &lt;/p&gt;
+ &lt;p&gt; இந்த வரவேற்பு தொகுதியின் உள்ளடக்கங்களை வடிவமைக்க எங்களுக்கு உதவிய ச்லைசர் பயனர் சமூகத்தின் உறுப்பினர்களுக்கு எங்கள் மனமார்ந்த நன்றியைத் தெரிவித்துக் கொள்கிறோம், மேலும் அதன் பின்னூட்டங்கள் தொடர்ந்து செயல்பாடு, பயன்பாட்டினை மற்றும் ச்லைசர் பயனர் அனுபவத்தை மேம்படுத்துகின்றன. &lt;/p&gt;
+ &lt;p&gt; இந்த தொகுதியை கிட்வேரில் உள்ள சீன்-கிறிச்டோஃப் பில்லியன்-ராபின் மற்றும் சூலியன் ஃபினெட், மற்றும் வெண்டி பிளெச்னியாக், சோனியா புசோல், ச்டீவ் பைபர் மற்றும் ரான் கிகினிச் ஆகியோரால் ப்ரிகாம் மற்றும் மகளிர் மருத்துவமனையில் உருவாக்கப்பட்டது. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="106"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளைச் சரிபார்க்கிறது ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
         <source>No updates were found.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகள் எதுவும் கிடைக்கவில்லை.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="179"/>
         <source>Raising %1 Module:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 தொகுதியை உயர்த்துதல்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="180"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-        <translation type="unfinished"></translation>
+        <translation>துரதிர்ச்டவசமாக, இந்த கோரப்பட்ட தொகுதி இந்த ச்லைசர் அமர்வில் கிடைக்கவில்லை.</translation>
     </message>
     <message numerus="yes">
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="387"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 நீட்டிப்பு புதுப்பிப்பு கிடைக்கிறது</numerusform>
+            <numerusform>%1 நீட்டிப்பு புதுப்பிப்பு கிடைக்கிறது</numerusform>
         </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="389"/>
         <source>Use Extensions Manager to update these extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த நீட்டிப்புகளைப் புதுப்பிக்க நீட்டிப்பு மேலாளரைப் பயன்படுத்தவும்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="423"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய பயன்பாட்டு பதிப்பு கிடைக்கிறது: %1</translation>
     </message>
 </context>
 <context>
@@ -29756,7 +29937,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="331"/>
         <source>MRML Color Table</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>எம்.ஆர்.எம்.எல் வண்ண அட்டவணை</translation>
     </message>
 </context>
 <context>
@@ -29764,47 +29945,47 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="682"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலையிக்கம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="683"/>
         <source>Scheduled</source>
-        <translation type="unfinished"></translation>
+        <translation>திட்டமிடப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="684"/>
         <source>Running</source>
-        <translation type="unfinished"></translation>
+        <translation>இயங்கும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="685"/>
         <source>Cancelling</source>
-        <translation type="unfinished"></translation>
+        <translation>ரத்துசெய்யும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="686"/>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>ரத்து செய்யப்பட்டது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="687"/>
         <source>Completing</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறைவு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="688"/>
         <source>Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>முடிந்தது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="689"/>
         <source>Completed with errors</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழைகள் மூலம் நிறைவு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="693"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரியவில்லை</translation>
     </message>
 </context>
 <context>
@@ -29814,7 +29995,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="614"/>
         <source>Linear transform sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>நேரியல் உருமாற்ற வரிசை</translation>
     </message>
 </context>
 <context>
@@ -29822,12 +30003,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsAngleNode.cxx" line="46"/>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>கோணம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsAngleNode.cxx" line="49"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
 </context>
 <context>
@@ -29835,12 +30016,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsClosedCurveNode.cxx" line="57"/>
         <source>Closed Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>மூடிய வளைவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsClosedCurveNode.cxx" line="60"/>
         <source>CC</source>
-        <translation type="unfinished"></translation>
+        <translation>சி.சி.</translation>
     </message>
 </context>
 <context>
@@ -29848,12 +30029,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsCurveNode.cxx" line="78"/>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>வளைவு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsCurveNode.cxx" line="81"/>
         <source>OC</source>
-        <translation type="unfinished"></translation>
+        <translation>OC</translation>
     </message>
 </context>
 <context>
@@ -29861,12 +30042,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialNode.cxx" line="41"/>
         <source>Point List</source>
-        <translation type="unfinished"></translation>
+        <translation>புள்ளி பட்டியல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialNode.cxx" line="44"/>
         <source>F</source>
-        <translation type="unfinished"></translation>
+        <translation>F</translation>
     </message>
 </context>
 <context>
@@ -29876,13 +30057,13 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="797"/>
         <source>Markups Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்ச் நம்பகமான சி.எச்.வி.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="790"/>
         <source>Annotation Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>சிறுகுறிப்பு நம்பகமான சி.எச்.வி.</translation>
     </message>
 </context>
 <context>
@@ -29894,7 +30075,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="357"/>
         <source>Markups JSON</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்ச் சாதொபொகு</translation>
     </message>
 </context>
 <context>
@@ -29902,12 +30083,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsLineNode.cxx" line="47"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>வரி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsLineNode.cxx" line="50"/>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்</translation>
     </message>
 </context>
 <context>
@@ -29915,12 +30096,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsNode.cxx" line="541"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation>மீ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsNode.cxx" line="551"/>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>மார்க்அப்</translation>
     </message>
 </context>
 <context>
@@ -29928,12 +30109,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneNode.cxx" line="54"/>
         <source>Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>தளம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneNode.cxx" line="57"/>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation>ப</translation>
     </message>
 </context>
 <context>
@@ -29941,12 +30122,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROINode.cxx" line="63"/>
         <source>ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>ரோய்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROINode.cxx" line="66"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>R</translation>
     </message>
 </context>
 <context>
@@ -29956,68 +30137,68 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="777"/>
         <source>VTK Polygon Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>VTK பலகோண கண்ணி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="749"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="779"/>
         <source>VTK XML Polygon Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>VTK நீகுமொ பலகோண கண்ணி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="751"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="794"/>
         <source>VTK Unstructured Grid</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>VTK கட்டமைக்கப்படாத கட்டம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="753"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="796"/>
         <source>VTK XML Unstructured Grid</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>VTK நீகுமொ கட்டமைக்கப்படாத கட்டம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="755"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="757"/>
         <source>Movie.BYU Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Movie.byu mesh</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="759"/>
         <source>MetaIO Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மெட்டோ மெச்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="761"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="785"/>
         <source>Stereolithography Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்டீரியோலிதோகிராபி கண்ணி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="763"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="787"/>
         <source>Stanford Polygon Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ச்டான்போர்ட் பலகான் மெச்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="765"/>
         <source>AVS Unstructured Grid</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>AVS கட்டமைக்கப்படாத கட்டம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="767"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="789"/>
         <source>Wavefront Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>அலைமுனை கண்ணி</translation>
     </message>
 </context>
 <context>
@@ -30029,7 +30210,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="233"/>
         <source>MRML Color Function</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>எம்.ஆர்.எம்.எல் வண்ண செயல்பாடு</translation>
     </message>
 </context>
 <context>
@@ -30039,7 +30220,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="178"/>
         <source>Segmentation</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவு</translation>
     </message>
 </context>
 <context>
@@ -30051,7 +30232,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="220"/>
         <source>MRML Sequence Bundle</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>எம்.ஆர்.எம்.எல் வரிசை மூட்டை</translation>
     </message>
 </context>
 <context>
@@ -30061,7 +30242,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="497"/>
         <source>MRML Shader Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>எம்.ஆர்.எம்.எல் சேடர் சொத்து</translation>
     </message>
 </context>
 <context>
@@ -30071,7 +30252,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="318"/>
         <source>SQLight database</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SQLite தரவுத்தளம்</translation>
     </message>
 </context>
 <context>
@@ -30083,14 +30264,14 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="245"/>
         <source>Tab-separated values</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>தாவலால் பிரிக்கப்பட்ட மதிப்புகள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="232"/>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="243"/>
         <source>Comma-separated values</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>கமாவால் பிரிக்கப்பட்ட மதிப்புகள்</translation>
     </message>
 </context>
 <context>
@@ -30100,21 +30281,21 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="165"/>
         <source>Text file</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>உரை கோப்பு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="156"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="167"/>
         <source>XML document</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>எக்ச்எம்எல் ஆவணம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="158"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="169"/>
         <source>JSON document</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>சாதொபொகு ஆவணம்</translation>
     </message>
 </context>
 <context>
@@ -30122,112 +30303,112 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="418"/>
         <source>Cannot read &apos;%1&apos; file as a volume of type &apos;%2&apos;. Details: %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; கோப்பை &apos;%2&apos; வகையின் தொகுதியாகப் படிக்க முடியாது. விவரங்கள்: %3.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="433"/>
         <source>Unable to read data from file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பிலிருந்து தரவைப் படிக்க முடியவில்லை: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="443"/>
         <source>Unable to read DiffusionTensorVolume data from file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பிலிருந்து பரவல் டென்சர்வோலூம் தரவைப் படிக்க முடியவில்லை: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="452"/>
         <source>Unable to read ScalarVolume data from file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பிலிருந்து ச்கேல்வோலூம் தரவைப் படிக்க முடியவில்லை: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="462"/>
         <source>Not a scalar volume file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவிடுதல் தொகுதி கோப்பு அல்ல: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="505"/>
         <source>Cannot read file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பைப் படிக்க முடியாது: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="533"/>
         <source>Image reader provided invalid RAS to IJK matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>பட ரீடர் IJK மேட்ரிக்சுக்கு தவறான RAS ஐ வழங்கியது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="586"/>
         <source>Voxel vector type is spatial but number of scalar components is not 3. Saved vector type will be non-spatial.</source>
-        <translation type="unfinished"></translation>
+        <translation>வோக்சல் திசையன் வகை இடஞ்சார்ந்ததாகும், ஆனால் அளவிடக்கூடிய கூறுகளின் எண்ணிக்கை 3 அல்ல. சேமிக்கப்பட்ட திசையன் வகை இடஞ்சார்ந்ததாக இருக்கும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="595"/>
         <source>Spatial vectors will be written to non-NRRD file format (%1). In this format, voxels are saved as regular vectors. If the file is imported again then vector axis directions may be flipped. It is recommended to save volumes that contain spatial vectors in NRRD file format.</source>
-        <translation type="unfinished"></translation>
+        <translation>இடஞ்சார்ந்த திசையன்கள் NRRD அல்லாத கோப்பு வடிவத்திற்கு (%1) எழுதப்படும். இந்த வடிவத்தில், வோக்சல்கள் வழக்கமான திசையன்களாக சேமிக்கப்படுகின்றன. கோப்பு மீண்டும் இறக்குமதி செய்யப்பட்டால், திசையன் அச்சு திசைகள் புரட்டப்படலாம். என்.ஆர்.ஆர்.டி கோப்பு வடிவத்தில் இடஞ்சார்ந்த திசையன்களைக் கொண்ட தொகுதிகளை சேமிக்க பரிந்துரைக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="638"/>
         <source>Unable to remove old version of file: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பின் பழைய பதிப்பை அகற்ற முடியவில்லை: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="648"/>
         <source>Error renaming file to &apos;%1&apos;, rename returned code %2</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பை &apos; %1&apos; என்று மறுபெயரிடுவது, திரும்பிய குறியீடு %2 ஐ மறுபெயரிடுங்கள்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="740"/>
         <source>VTK file format can only store LPS axis oriented images. Orientation of the saved image may be incorrect. NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished"></translation>
+        <translation>VTK கோப்பு வடிவம் LPS அச்சு சார்ந்த படங்களை மட்டுமே சேமிக்க முடியும். சேமிக்கப்பட்ட படத்தின் நோக்குநிலை தவறாக இருக்கலாம். இந்த படத்தை சேமிக்க NRRD கோப்பு வடிவம் பரிந்துரைக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="769"/>
         <source>Saving this image in TIFF format will result in loss of information (image position, orientation, or spacing along the third image axis). NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த படத்தை TIFF வடிவத்தில் சேமிப்பது செய்தி இழப்பை ஏற்படுத்தும் (பட நிலை, நோக்குநிலை அல்லது மூன்றாவது பட அச்சில் இடைவெளி). இந்த படத்தை சேமிக்க NRRD கோப்பு வடிவம் பரிந்துரைக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="781"/>
         <source>Analyze file format is not recommended, as its image orientation specification is ambiguous. NRRD file format is recommended for storing this image.</source>
-        <translation type="unfinished"></translation>
+        <translation>அதன் பட நோக்குநிலை விவரக்குறிப்பு தெளிவற்றதாக இருப்பதால், கோப்பு வடிவம் பரிந்துரைக்கப்படவில்லை. இந்த படத்தை சேமிக்க NRRD கோப்பு வடிவம் பரிந்துரைக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="821"/>
         <source>Cannot write volume, image data is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதியை எழுத முடியாது, படத் தரவு காலியாக உள்ளது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="869"/>
         <source>Failed to delete directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; கோப்பகத்தை நீக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="876"/>
         <source>Failed to create directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; கோப்பகத்தை உருவாக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="936"/>
         <source>Failed to write &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; என்று எழுதத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="951"/>
         <source>Failed to open directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பகத்தை &apos;%1&apos; திறக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1065"/>
         <source>The archetype file &apos;%1&apos; wasn&apos;t written out when writing &apos;%2&apos; in &apos;%3&apos;. Only these %4 file(s) have been written: %5. Old name is &apos;%6&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%3&apos; இல் &apos;%2&apos; எழுதும் போது &apos;%1&apos; என்ற தொல்பொருள் கோப்பு எழுதப்படவில்லை. இந்த %4 கோப்பு (கள்) மட்டுமே எழுதப்பட்டுள்ளன: %5. பழைய பெயர் &apos;%6&apos;.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1088"/>
         <source>Failed to remove temporary directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிக அடைவு &apos;%1&apos; ஐ அகற்றுவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1137"/>
         <source>Displacements are expected to be stored as double or float. Vector values will not be converted from LPS to RAS.</source>
-        <translation type="unfinished"></translation>
+        <translation>இடப்பெயர்வுகள் இரட்டை அல்லது மிதவையாக சேமிக்கப்படும் என்று எதிர்பார்க்கப்படுகிறது. திசையன் மதிப்புகள் LPS இலிருந்து RAS க்கு மாற்றப்படாது.</translation>
     </message>
 </context>
 <context>
@@ -30238,7 +30419,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="219"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>எம்.ஆர்.எம்.எல் தொகுதி சொத்து</translation>
     </message>
 </context>
 <context>
@@ -30248,7 +30429,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="603"/>
         <source>Volume Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>தொகுதி வரிசை</translation>
     </message>
 </context>
 <context>
@@ -30256,12 +30437,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="687"/>
         <source>Unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயரில்லாதது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="689"/>
         <source>Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசை</translation>
     </message>
 </context>
 </TS>
