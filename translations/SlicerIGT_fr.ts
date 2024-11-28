@@ -352,7 +352,7 @@ Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
         <source>Pick the input fiducial list for the algorithm.</source>
-        <translation>Sélectionnez la liste de repères en entrée pour l&apos;algorithme.</translation>
+        <translation>Sélectionnez la liste de fiducials en entrée pour l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
@@ -2036,7 +2036,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="53"/>
         <source>From fiducials</source>
-        <translation>De repères</translation>
+        <translation>Depuis les fiducials</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="65"/>
