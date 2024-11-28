@@ -185,7 +185,7 @@ Développé par NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="316"/>
         <source>ROI/BBOX Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Invite ROI/BBOX</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="345"/>
@@ -425,17 +425,17 @@ Veuillez mettre à jour vers la dernière version de MONAI Label (&gt; 0.2.0)</t
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1594"/>
         <source>Please select a model</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner un modèle</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1599"/>
         <source>Please add the required label to run interactive model</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez ajouter l&apos;étiquette requise pour exécuter le modèle interactif</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1616"/>
         <source>Run Inference for segment: {label}; model: {model}; 3d {in3d}</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter l&apos;inférence pour le segment&#xa0;: {label}&#x202f;; modèle&#xa0;: {model}&#x202f;; 3D {in3d}</translation>
     </message>
     <message>
         <source>Please select a deepgrow model</source>
@@ -593,7 +593,7 @@ Veuillez mettre à jour vers la dernière version de MONAI Label (&gt; 0.2.0)</t
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="389"/>
         <source>SmartEdit</source>
         <oldsource>SmartEdit / Deepgrow</oldsource>
-        <translation type="unfinished">SmartEdit / Deepgrow</translation>
+        <translation>SmartEdit</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="425"/>
