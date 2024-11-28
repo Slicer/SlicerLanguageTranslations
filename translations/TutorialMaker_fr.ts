@@ -34,22 +34,22 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="34"/>
         <source>Institutional affiliation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Affiliation institutionnelle&#xa0;:</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="41"/>
         <source>Create a new tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau tutoriel</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="67"/>
         <source>Tutorial title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Titre du tutoriel&#xa0;:</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="74"/>
         <source>Author name(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom(s) de l&apos;auteur(s)&#xa0;:</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="20"/>
@@ -185,7 +185,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="362"/>
         <source>Add a title here</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajoutez un titre ici</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="518"/>
@@ -238,7 +238,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="104"/>
         <source>Create a new Tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau Tutoriel</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
