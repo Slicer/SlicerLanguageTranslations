@@ -164,14 +164,18 @@
         <translation>Szöveg-kereső engedélyezése:</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="320"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="322"/>
         <source>If enabled, then the shortcut opens the text finder, which can be used to extract text from the application user interface and open it in the translation website.</source>
         <translation>Ha engedélyezett, akkor a billentyűkombináció megnyitja a szöveg-keresőt, amely kimásolja a talált szöveget az alkalmazás felhasználói felületről és megnyitja a fordítási weboldalon.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="323"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="347"/>
+        <source>Keyboard shortcut:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source> (shortcut: Ctrl+6)</source>
-        <translation> (billentyű kombináció: Ctrl+6)</translation>
+        <translation type="vanished"> (billentyű kombináció: Ctrl+6)</translation>
     </message>
     <message>
         <source>Edited language:</source>
@@ -225,52 +229,52 @@ Ennek a modulnak a kifejlesztését részben a &lt;a href=&quot;https://chanzuck
         <translation>Nem sikerült szöveget találni: {object}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="285"/>
+        <location filename="LanguageTools/LanguageTools.py" line="287"/>
         <source>Failed to retrieve language list from Weblate.</source>
         <translation>Nem sikerült a nyelvlistát letölteni Weblate-ből.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="397"/>
+        <location filename="LanguageTools/LanguageTools.py" line="399"/>
         <source>Update failed.</source>
         <translation>A frissítés nem sikerült.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="422"/>
+        <location filename="LanguageTools/LanguageTools.py" line="424"/>
         <source>Update completed! Select application language and restart the application to see the results.</source>
         <translation>A frissítés sikeresen vefejeződött! Válassza ki az alkalmazás nyelvét, és indítsa újra az alkalmazást az eredmények megtekintéséhez.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="498"/>
+        <location filename="LanguageTools/LanguageTools.py" line="500"/>
         <source>Failed to query list of languages from Weblate ({status_code}:{reason})</source>
         <translation>Nem sikerült a nyelvek lekérdezése Weblate-ről ({status_code}:{reason})</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="531"/>
+        <location filename="LanguageTools/LanguageTools.py" line="533"/>
         <source>Failed to query list of components from Weblate ({status_code}:{reason})</source>
         <translation>Nem sikerült a Weblate komponenseinek lekérdezése ({status_code}:{reason})</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="570"/>
+        <location filename="LanguageTools/LanguageTools.py" line="572"/>
         <source>No .ts files were found in the specified location.</source>
         <translation>Nem találhatóak .ts fájlok a megadott helyen.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="574"/>
+        <location filename="LanguageTools/LanguageTools.py" line="576"/>
         <source>Use translation file: {file}</source>
         <translation>Forrás fordítás fájl: {file}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="599"/>
+        <location filename="LanguageTools/LanguageTools.py" line="601"/>
         <source>Download translations for {component}/{language}...</source>
         <translation>Fordítások letöltése: {component}/{language}...</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="608"/>
+        <location filename="LanguageTools/LanguageTools.py" line="610"/>
         <source>Failed to download translation from: {url} -- {text}</source>
         <translation>Nem sikerült letölteni a fordítást: {url} - {text}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="609"/>
+        <location filename="LanguageTools/LanguageTools.py" line="611"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -279,35 +283,35 @@ Ennek a modulnak a kifejlesztését részben a &lt;a href=&quot;https://chanzuck
         <translation type="vanished">A letöltés nem sikerült. Ezt az összetevőt nem fordították le a kiválasztott nyelvre.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="633"/>
-        <location filename="LanguageTools/LanguageTools.py" line="656"/>
+        <location filename="LanguageTools/LanguageTools.py" line="635"/>
+        <location filename="LanguageTools/LanguageTools.py" line="658"/>
         <source>Translation files folder is not specified.</source>
         <translation>A fordítási fájlok mappája nincs kiválasztva.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="636"/>
+        <location filename="LanguageTools/LanguageTools.py" line="638"/>
         <source>lrelease tool path is not specified.</source>
         <translation>az lrelease eszköz elérési útja nincs megadva.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="674"/>
+        <location filename="LanguageTools/LanguageTools.py" line="676"/>
         <source>No translation (qm) files were found at {location}</source>
         <translation>Nincsenek fordítási (qm) fájlok találtak a megadott {location} mappában</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="676"/>
+        <location filename="LanguageTools/LanguageTools.py" line="678"/>
         <source>Update successfully completed.
 Installed {count} translation files in {location}.</source>
         <translation>Frissítés sikeresen befejeződött.
 {count} fordítási fájl telepítve a {location} mappába.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="682"/>
+        <location filename="LanguageTools/LanguageTools.py" line="684"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
         <translation>Ez a Slicer verzió nem támogatja az egyéni betűtípusokat.</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="705"/>
+        <location filename="LanguageTools/LanguageTools.py" line="707"/>
         <source>Installed {count} font files in {location}.</source>
         <translation>Telepítve {count} betűtípus a {location} mappába.</translation>
     </message>

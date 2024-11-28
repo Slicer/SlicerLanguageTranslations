@@ -164,14 +164,18 @@
         <translation>啟用文字搜尋器：</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="320"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="322"/>
         <source>If enabled, then the shortcut opens the text finder, which can be used to extract text from the application user interface and open it in the translation website.</source>
         <translation>啟用後，可使用快捷鍵開啟文字搜尋器，用來從程式使用者介面抽取文字並在翻譯網站中開啟。</translation>
     </message>
     <message>
-        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="323"/>
+        <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="347"/>
+        <source>Keyboard shortcut:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source> (shortcut: Ctrl+6)</source>
-        <translation> (快捷鍵： Ctrl+6)</translation>
+        <translation type="vanished"> (快捷鍵： Ctrl+6)</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
@@ -221,85 +225,85 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
         <translation>從{object}抽取文字失敗</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="285"/>
+        <location filename="LanguageTools/LanguageTools.py" line="287"/>
         <source>Failed to retrieve language list from Weblate.</source>
         <translation>從 Weblate 獲取語言清單失敗。</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="397"/>
+        <location filename="LanguageTools/LanguageTools.py" line="399"/>
         <source>Update failed.</source>
         <translation>更新失敗。</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="422"/>
+        <location filename="LanguageTools/LanguageTools.py" line="424"/>
         <source>Update completed! Select application language and restart the application to see the results.</source>
         <translation>更新完成！選擇語言並重啟程式以查看結果。</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="498"/>
+        <location filename="LanguageTools/LanguageTools.py" line="500"/>
         <source>Failed to query list of languages from Weblate ({status_code}:{reason})</source>
         <translation>從 Weblate 搜尋語言清單失敗 ({status_code}:{reason})</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="531"/>
+        <location filename="LanguageTools/LanguageTools.py" line="533"/>
         <source>Failed to query list of components from Weblate ({status_code}:{reason})</source>
         <translation>從 Weblate 搜尋元件清單失敗 ({status_code}:{reason})</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="570"/>
+        <location filename="LanguageTools/LanguageTools.py" line="572"/>
         <source>No .ts files were found in the specified location.</source>
         <translation>在指定的位置找不到 .ts 檔。</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="574"/>
+        <location filename="LanguageTools/LanguageTools.py" line="576"/>
         <source>Use translation file: {file}</source>
         <translation>使用翻譯檔案： {file}</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="599"/>
+        <location filename="LanguageTools/LanguageTools.py" line="601"/>
         <source>Download translations for {component}/{language}...</source>
         <translation>下載 {component}/{language} 的翻譯...</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="608"/>
+        <location filename="LanguageTools/LanguageTools.py" line="610"/>
         <source>Failed to download translation from: {url} -- {text}</source>
         <translation>由 {url} -- {text} 下載翻譯失敗</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="609"/>
+        <location filename="LanguageTools/LanguageTools.py" line="611"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
         <translation>已略過。於 Weblate 找不到此元件/語言。</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="633"/>
-        <location filename="LanguageTools/LanguageTools.py" line="656"/>
+        <location filename="LanguageTools/LanguageTools.py" line="635"/>
+        <location filename="LanguageTools/LanguageTools.py" line="658"/>
         <source>Translation files folder is not specified.</source>
         <translation>未指定翻譯檔資料夾。</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="636"/>
+        <location filename="LanguageTools/LanguageTools.py" line="638"/>
         <source>lrelease tool path is not specified.</source>
         <translation>未指定 lrelease 工具路徑。</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="674"/>
+        <location filename="LanguageTools/LanguageTools.py" line="676"/>
         <source>No translation (qm) files were found at {location}</source>
         <translation>{location}中找不到翻譯檔 (qm)</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="676"/>
+        <location filename="LanguageTools/LanguageTools.py" line="678"/>
         <source>Update successfully completed.
 Installed {count} translation files in {location}.</source>
         <translation>更新順利完成。
 已在 {location} 安裝 {count} 個翻譯檔。</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="682"/>
+        <location filename="LanguageTools/LanguageTools.py" line="684"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
         <translation>此 Slicer 版本不支援自訂檢視器字型。</translation>
     </message>
     <message>
-        <location filename="LanguageTools/LanguageTools.py" line="705"/>
+        <location filename="LanguageTools/LanguageTools.py" line="707"/>
         <source>Installed {count} font files in {location}.</source>
         <translation>已在 {location} 安裝 {count} 個字型檔。</translation>
     </message>
