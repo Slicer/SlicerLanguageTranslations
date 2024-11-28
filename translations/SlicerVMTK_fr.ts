@@ -38,7 +38,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="220"/>
         <source>Input segmentation, volume or segment ID is invalid</source>
-        <translation>L&apos;entrée &apos;Segmentation&apos;, &apos;Volume&apos; ou &apos;ID de segment&apos; est invalide</translation>
+        <translation>La segmentation d&apos;entrée, le volume ou l&apos;ID du segment est invalide</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="224"/>
@@ -883,14 +883,16 @@ Le pinceau est placé en mode &apos;Sphère&apos;. L&apos;Éditeur de segments p
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="28"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ensemble de paramètres&#xa0;:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="38"/>
         <source>Pick a node to store the parameter set.
 
 This is intended to represent a unique combination of input centerline and surface nodes. Create a distinct parameter set for each combination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nœud pour stocker l&apos;ensemble de paramètres.
+
+Cela est destiné à représenter une combinaison unique de nœuds de ligne centrale d&apos;entrée et de surface. Créez un ensemble de paramètres distinct pour chaque combinaison.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="658"/>
@@ -2810,23 +2812,23 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="69"/>
         <source>Tube tree:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbre tubulaire&#xa0;:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="78"/>
         <source>Pick an input segmentation or model node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nœud de segmentation ou de modèle en entrée.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="109"/>
         <source>Select an input segment.</source>
         <oldsource>Select an input segment in the selected segmentation.</oldsource>
-        <translation type="unfinished">Sélectionnez un segment.</translation>
+        <translation>Sélectionnez un segment d&apos;entrée.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
@@ -2870,7 +2872,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="122"/>
         <source>No surface selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune surface sélectionnée.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="128"/>
@@ -2916,7 +2918,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="230"/>
         <source>Branches</source>
-        <translation type="unfinished">Branches</translation>
+        <translation>Branches</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="236"/>
