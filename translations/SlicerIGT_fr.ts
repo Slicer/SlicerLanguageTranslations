@@ -496,62 +496,62 @@ Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, K
 <context>
     <name>GuideletLib.UltraSound</name>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="47"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="48"/>
         <source>Ultrasound</source>
         <translation>Echographie</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="57"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="58"/>
         <source>Start Recording</source>
         <translation>Commencer l&apos;enregistrement</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="60"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="61"/>
         <source>If clicked, start recording</source>
         <translation>Si cliqué, commencez l&apos;enregistrement</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="62"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="63"/>
         <source>Freeze</source>
         <translation>Geler</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="74"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="75"/>
         <source>Brightness </source>
         <translation>Luminosité </translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="84"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="85"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="88"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="89"/>
         <source>Bright</source>
         <translation>Lumineux</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="92"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="93"/>
         <source>Brighter</source>
         <translation>Plus lumineux</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="244"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="245"/>
         <source>  Stop Recording</source>
         <translation>  Arrêter l&apos;enregistrement</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="246"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="247"/>
         <source>Recording is being started...</source>
         <translation>L&apos;enregistrement est en cours de démarrage...</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="260"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="261"/>
         <source>  Start Recording</source>
         <translation>  Commencer l&apos;enregistrement</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="262"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="263"/>
         <source>Recording is being stopped...</source>
         <translation>L&apos;enregistrement est en cours d&apos;arrêt...</translation>
     </message>
@@ -795,22 +795,54 @@ Pour plus d&apos;informations, visitez le &lt;a href=&apos;https://github.com/Sl
         <translation>Nœud de modèle contenant la géométrie et les coordonnées de texture.</translation>
     </message>
     <message>
+        <location filename="TextureModel/TextureModel.py" line="68"/>
+        <source>Model:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="80"/>
+        <source>Color image containing texture image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="81"/>
+        <source>Texture:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="84"/>
+        <source>disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
         <source>RGB vector</source>
-        <comment>uchar-vector</comment>
-        <translation>Vecteur RGB</translation>
+        <translation type="unfinished">Vecteur RGB</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="86"/>
         <source>RGB float vector</source>
-        <comment>float-vector</comment>
-        <translation>Vecteur flottant RGB</translation>
+        <translation type="unfinished">Vecteur flottant RGB</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="87"/>
         <source>RGB float components</source>
+        <translation type="unfinished">Composants flottants RGB</translation>
+    </message>
+    <message>
+        <source>RGB vector</source>
+        <comment>uchar-vector</comment>
+        <translation type="vanished">Vecteur RGB</translation>
+    </message>
+    <message>
+        <source>RGB float vector</source>
+        <comment>float-vector</comment>
+        <translation type="vanished">Vecteur flottant RGB</translation>
+    </message>
+    <message>
+        <source>RGB float components</source>
         <comment>float-components</comment>
-        <translation>Composants flottants RGB</translation>
+        <translation type="vanished">Composants flottants RGB</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="91"/>
@@ -818,19 +850,22 @@ Pour plus d&apos;informations, visitez le &lt;a href=&apos;https://github.com/Sl
         <translation>Enregistrer la couleur dans les données des points. &quot;Vecteur RGB&quot; est recommandé pour la compatibilité avec la plupart des logiciels. Les données des points peuvent être utilisées pour le seuillage ou le traitement basé sur la couleur.</translation>
     </message>
     <message>
+        <location filename="TextureModel/TextureModel.py" line="92"/>
+        <source>Save color information as point data:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="TextureModel/TextureModel.py" line="99"/>
         <source>Apply texture to selected model.</source>
         <translation>Appliquer une texture au modèle sélectionné.</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="298"/>
         <source>Finished with download and loading</source>
-        <translation>Téléchargement et chargement terminés</translation>
+        <translation type="vanished">Téléchargement et chargement terminés</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="305"/>
         <source>Test passed!</source>
-        <translation>Test réussi&#x202f;!</translation>
+        <translation type="vanished">Test réussi&#x202f;!</translation>
     </message>
 </context>
 <context>
@@ -1563,6 +1598,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation>Ce travail a été financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)</translation>
     </message>
+    <message>
+        <location filename="BreachWarning/qSlicerBreachWarningModule.h" line="50"/>
+        <source>Breach Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerCLIModuleWidget</name>
@@ -1766,6 +1806,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation>Ce travail a été financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)</translation>
     </message>
+    <message>
+        <location filename="CollectPoints/qSlicerCollectPointsModule.h" line="44"/>
+        <source>Collect Points</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerCollectPointsModuleWidget</name>
@@ -1927,6 +1972,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation>Ce travail a été financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)</translation>
+    </message>
+    <message>
+        <location filename="CreateModels/qSlicerCreateModelsModule.h" line="44"/>
+        <source>Create Models</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2090,6 +2140,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation>Ce travail a été financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)</translation>
     </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.h" line="49"/>
+        <source>Fiducial Registration Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerFiducialRegistrationWizardModuleWidget</name>
@@ -2159,6 +2214,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="68"/>
         <source>This module was developed through support from CANARIE&apos;s Research Software Program, Cancer Care Ontario, OpenAnatomy, and Brigham and Women&apos;s Hospital through NIH grant R01MH112748.</source>
         <translation>Ce module a été développé grâce au soutien du Programme de logiciels de recherche de CANARIE, de Cancer Care Ontario, d&apos;OpenAnatomy et de l&apos;Hôpital Brigham et des femmes par le biais de la subvention NIH R01MH112748.</translation>
+    </message>
+    <message>
+        <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.h" line="46"/>
+        <source>Landmark Detection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2327,6 +2387,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
         <source>It is supported by grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</source>
         <translation>Il est soutenu par les subventions 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886 et 8P41EB015898</translation>
+    </message>
+    <message>
+        <location filename="PathExplorer/qSlicerPathExplorerModule.h" line="45"/>
+        <source>Path Explorer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2749,6 +2814,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="85"/>
         <source>Tamas Ungi (Queen&apos;s University)</source>
         <translation>Tamas Ungi (Université Queen&apos;s)</translation>
+    </message>
+    <message>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModule.h" line="44"/>
+        <source>Pivot Calibration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3312,6 +3382,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <source>This work was partially funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO), and by National Institute of Health (grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886, 8P41EB015898).</source>
         <translation>Ce travail a été partiellement financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO), ainsi que par le National Institute of Health (subventions 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886, 8P41EB015898).</translation>
     </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModule.h" line="48"/>
+        <source>Transform Processor</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerTransformProcessorModuleWidget</name>
@@ -3433,6 +3508,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation>Ce travail a été financé par Cancer Care Ontario et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)</translation>
+    </message>
+    <message>
+        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.h" line="44"/>
+        <source>Ultrasound Snapshots</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3767,6 +3847,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <source>Sequences</source>
         <translation>Séquences</translation>
     </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.h" line="49"/>
+        <source>Volume Reconstruction</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerVolumeReconstructionModuleWidget</name>
@@ -3893,6 +3978,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <source>This work was supported by NIH National Center for Image Guided Therapy, and National Alliance for Medical Image Computing.</source>
         <translation>Ce travail a été soutenu par le Centre national des NIH pour la thérapie guidée par l&apos;image et l&apos;Alliance nationale pour le calcul d&apos;images médicales.</translation>
     </message>
+    <message>
+        <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
+        <source>Volume Reslice Driver</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerVolumesModuleWidget</name>
@@ -3912,6 +4002,11 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation>Ce travail a été financé par Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModule.h" line="48"/>
+        <source>Watchdog</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4073,6 +4168,95 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="395"/>
         <source>Unknown</source>
         <translation>Inconnu</translation>
+    </message>
+</context>
+<context>
+    <name>vtkSlicerFiducialRegistrationWizardLogic</name>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="223"/>
+        <source>&apos;From&apos; fiducial list is not defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="230"/>
+        <source>&apos;To&apos; fiducial list is not defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="237"/>
+        <source>Output transform is not defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="243"/>
+        <source>&apos;From&apos; fiducial list has too few fiducials (minimum 3 required).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="248"/>
+        <source>&apos;To&apos; fiducial list has too few fiducials (minimum 3 required).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="269"/>
+        <source>Fiducial lists have unequal number of fiducials (&apos;From&apos; has %1, &apos;To&apos; has %2). Either adjust the lists, or use automatic point matching. Aborting registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="286"/>
+        <source>Automatic point matching is currently supported only for rigid registration. Currently %1 registration is being used. Unexpected results may occur.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="298"/>
+        <source>Too many points to compute point pairing %1. To avoid long computation time, there should be at most %2 points. Aborting registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="316"/>
+        <source>Could not find a good mapping. Mean squared distance error was %1, but tolerance is %2. Results are not expected to be accurate.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="326"/>
+        <source>The &apos;best&apos; point matching is reported as ambiguous and may be incorrect. This could happen because the point geometry is symmetric. Results are not necessarily expected to be accurate.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="337"/>
+        <source>Unrecognized point matching method: %1. Aborting registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="347"/>
+        <source>&apos;From&apos; fiducial list has strictly collinear or singular points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="354"/>
+        <source>&apos;To&apos; fiducial list has strictly collinear or singular points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="400"/>
+        <source>Warping transform cannot be stored
+in linear transform node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="452"/>
+        <source>Invalid transform type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="460"/>
+        <source>Failed to retreive transform from node. RMS Error could not be evaluated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="466"/>
+        <source>Registration Complete. RMS Error: %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
