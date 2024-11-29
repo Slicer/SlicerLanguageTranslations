@@ -357,7 +357,7 @@ Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation>Repères d&apos;entrée&#xa0;: </translation>
+        <translation>Fiduciaux d&apos;entrée&#xa0;: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
@@ -2041,17 +2041,17 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="65"/>
         <source>To fiducials</source>
-        <translation>À repères</translation>
+        <translation>Vers les fiducials</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="77"/>
         <source>Place fiducials by using position component of transforms. Parent transforms are applied.</source>
-        <translation>Placez les repères en utilisant le composant de position des transformations. Les transformations parent sont appliquées.</translation>
+        <translation>Placez les fiducials en utilisant le composant de position des transformations. Les transformations parent sont appliquées.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="80"/>
         <source>Place fiducials using transforms</source>
-        <translation>Placer des repères à l&apos;aide de transformations</translation>
+        <translation>Placer des fiducials à l&apos;aide de transformations</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="95"/>
@@ -2068,17 +2068,17 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="143"/>
         <source>Place &apos;From&apos;</source>
-        <translation>Placer &apos;De&apos;</translation>
+        <translation>Placer &apos;Depuis&apos;</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="153"/>
         <source>Place &apos;To&apos;</source>
-        <translation>Placer &apos;À&apos;</translation>
+        <translation>Placer &apos;Vers&apos;</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="169"/>
         <source>Registration result (From-&gt;To) transform</source>
-        <translation>Transformer le résultat de l&apos;enregistrement (De-&gt;À)</translation>
+        <translation>Transformer le résultat de l&apos;enregistrement (Depuis-&gt;Vers)</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="184"/>
@@ -2113,7 +2113,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="270"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Compute output transform from fiducials. Click the checkbox for automatic update.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Calculer la transformation de sortie à partir des repères. Cliquez sur la case à cocher pour la mise à jour automatique.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Calculer la transformation de sortie à partir des fiducials. Cliquez sur la case à cocher pour la mise à jour automatique.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="273"/>
@@ -4190,17 +4190,17 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="243"/>
         <source>&apos;From&apos; fiducial list has too few fiducials (minimum 3 required).</source>
-        <translation>La liste de repères &apos;De&apos; contient trop peu de repères (au moins 3 sont requis).</translation>
+        <translation>La liste de fiducial &apos;Depuis&apos; contient trop peu de fiducials (au moins 3 sont requis).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="248"/>
         <source>&apos;To&apos; fiducial list has too few fiducials (minimum 3 required).</source>
-        <translation>La liste de repères &apos;To&apos; contient trop peu de repères (au moins 3 sont requis).</translation>
+        <translation>La liste de fiducial &apos;Vers&apos; contient trop peu de fiducials (au moins 3 sont requis).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="269"/>
         <source>Fiducial lists have unequal number of fiducials (&apos;From&apos; has %1, &apos;To&apos; has %2). Either adjust the lists, or use automatic point matching. Aborting registration.</source>
-        <translation>Les listes de repères ont un nombre inégal de repères (&apos;De&apos; en a %1, &apos;À&apos; en a %2). Ajustez les listes ou utilisez la correspondance automatique des points. L&apos;enregistrement est annulé.</translation>
+        <translation>Les listes de fiducial ont un nombre inégal de fiducials (&apos;Depuis&apos; en a %1, &apos;Vers&apos; en a %2). Ajustez les listes ou utilisez la correspondance automatique des points. L&apos;enregistrement est annulé.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="286"/>
