@@ -352,12 +352,12 @@ Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
         <source>Pick the input fiducial list for the algorithm.</source>
-        <translation>Sélectionnez la liste de fiducials en entrée pour l&apos;algorithme.</translation>
+        <translation>Sélectionnez la liste de repères en entrée pour l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation>Fiduciaux d&apos;entrée&#xa0;: </translation>
+        <translation>repères d&apos;entrée&#xa0;: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
