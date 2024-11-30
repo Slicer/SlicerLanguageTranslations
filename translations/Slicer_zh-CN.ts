@@ -3893,7 +3893,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="26"/>
         <source>Affine</source>
-        <translation type="unfinished">仿射</translation>
+        <translation>仿射</translation>
     </message>
 </context>
 <context>
