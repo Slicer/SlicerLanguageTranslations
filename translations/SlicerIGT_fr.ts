@@ -352,12 +352,12 @@ Ce fichier a été initialement développé par Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
         <source>Pick the input fiducial list for the algorithm.</source>
-        <translation>Sélectionnez la liste de repères en entrée pour l&apos;algorithme.</translation>
+        <translation>Sélectionnez la liste de fiducial en entrée pour l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation>repères d&apos;entrée&#xa0;: </translation>
+        <translation>fiduciaux d&apos;entrée&#xa0;: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
@@ -2143,7 +2143,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.h" line="49"/>
         <source>Fiducial Registration Wizard</source>
-        <translation>Assistant d&apos;Enregistrement des Repères</translation>
+        <translation>Assistant d&apos;Enregistrement des Fiducials</translation>
     </message>
 </context>
 <context>
@@ -4175,12 +4175,12 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="223"/>
         <source>&apos;From&apos; fiducial list is not defined.</source>
-        <translation>Liste de repères &apos;De&apos; n&apos;est pas définie.</translation>
+        <translation>Liste de fiducial &apos;Depuis&apos; n&apos;est pas définie.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="230"/>
         <source>&apos;To&apos; fiducial list is not defined.</source>
-        <translation>La liste de repères &apos;À&apos; n&apos;est pas définie.</translation>
+        <translation>La liste de fiducial &apos;Vers&apos; n&apos;est pas définie.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="237"/>
@@ -4230,12 +4230,12 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="347"/>
         <source>&apos;From&apos; fiducial list has strictly collinear or singular points.</source>
-        <translation>La liste de repères &apos;De&apos; contient des points strictement colinéaires ou singuliers.</translation>
+        <translation>La liste de fiducial &apos;Depuis&apos; contient des points strictement colinéaires ou singuliers.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="354"/>
         <source>&apos;To&apos; fiducial list has strictly collinear or singular points.</source>
-        <translation>La liste de repères &apos;À&apos; contient des points strictement colinéaires ou singuliers.</translation>
+        <translation>La liste de fiducial &apos;Vers&apos; contient des points strictement colinéaires ou singuliers.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="400"/>
