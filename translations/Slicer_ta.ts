@@ -1796,7 +1796,7 @@ This program is useful for downsampling an image by a constant scale factor.
         <source>
   </source>
         <translation>
-  </translation>
+</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
@@ -5875,7 +5875,7 @@ The filter assumes that both the source and reference are of the same type and t
         <source>
   </source>
         <translation>
-  </translation>
+</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
@@ -8100,7 +8100,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="638"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation>ஏற்றக்கூடிய {name}: {message} ஐ ஆராயும்போது {load_type} டிகாம் சொருகி எச்சரிக்கை</translation>
+        <translation>ஏற்றக்கூடிய {message}: {name} ஐ ஆராயும்போது {load_type} டிகாம் சொருகி எச்சரிக்கை</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="643"/>
@@ -9145,7 +9145,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="37"/>
         <source>Additional template paths for {category}:</source>
-        <translation>{வகை க்கு க்கான கூடுதல் வார்ப்புரு பாதைகள்:</translation>
+        <translation>{category} க்கான கூடுதல் வார்ப்புரு பாதைகள்:</translation>
     </message>
 </context>
 <context>
@@ -9290,7 +9290,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="641"/>
         <source>Cache folder {path} is not writable</source>
-        <translation>கேச் கோப்புறை {பாதை the எழுத முடியாதது அல்ல</translation>
+        <translation>கேச் கோப்புறை {path} எழுத முடியாதது</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="694"/>
@@ -9315,7 +9315,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="906"/>
         <source>Requesting download {name} from {uri} ...</source>
-        <translation>{Uri இருந்து இலிருந்து பதிவிறக்கம் {name} ...</translation>
+        <translation>{uri} இலிருந்து பதிவிறக்கம் {name} ...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="909"/>
@@ -9383,7 +9383,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="952"/>
         <source>Requesting load {name} from {uri} ...</source>
-        <translation>{Uri இருந்து இலிருந்து சுமை {name} என்று கோருகிறது ...</translation>
+        <translation>{uri} இலிருந்து சுமை {name} என்று கோருகிறது ...</translation>
     </message>
 </context>
 <context>
@@ -9948,7 +9948,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="766"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="773"/>
         <source>Copy to {filename}</source>
-        <translation>{கோப்பு பெயர் க்கு க்கு நகலெடுக்கவும்</translation>
+        <translation>{filename} க்கு நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="791"/>
@@ -11747,42 +11747,42 @@ NA-MIC, NAC, BRN, NCIGT மற்றும் ச்லைசர் சமூக
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="225"/>
         <source>Percentile 5</source>
-        <translation type="unfinished"></translation>
+        <translation>விழுக்காடு 5</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="226"/>
         <source>5th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுக்குள் உள்ளீட்டு அளவிடுதல் தொகுதி வோக்சல் மதிப்புகளின் 5 வது விழுக்காடு.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="233"/>
         <source>Percentile 10</source>
-        <translation type="unfinished"></translation>
+        <translation>விழுக்காடு 10</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="234"/>
         <source>10th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீட்டு அளவீட்டு தொகுதி வோக்சல் மதிப்புகளின் 10 வது விழுக்காடு.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="241"/>
         <source>Percentile 90</source>
-        <translation type="unfinished"></translation>
+        <translation>விழுக்காடு 90</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="242"/>
         <source>90th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுக்குள் உள்ளீட்டு அளவிடுதல் தொகுதி வோக்சல் மதிப்புகளின் 90 வது விழுக்காடு.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="249"/>
         <source>Percentile 95</source>
-        <translation type="unfinished"></translation>
+        <translation>விழுக்காடு 95</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="250"/>
         <source>95th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுக்குள் உள்ளீட்டு அளவிடுதல் தொகுதி வோக்சல் மதிப்புகளின் 95 வது விழுக்காடு.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="259"/>
@@ -12660,7 +12660,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="14"/>
         <source>qMRMLClipNodeDisplayWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qmrmlclipnodedisplaywidget</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="39"/>
@@ -12670,7 +12670,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="46"/>
         <source>Cap visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>தொப்பி தெரிவுநிலை:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="53"/>
@@ -12680,12 +12680,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="60"/>
         <source>Outline visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>அவுட்லைன் தெரிவுநிலை:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="74"/>
         <source>Keep only whole cells:</source>
-        <translation type="unfinished"></translation>
+        <translation>முழு கலங்களையும் மட்டுமே வைத்திருங்கள்:</translation>
     </message>
 </context>
 <context>
@@ -15448,12 +15448,12 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="511"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிப்பிங்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="529"/>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிப் முனை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="209"/>
@@ -16026,32 +16026,32 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="563"/>
         <source>Choose new segment color</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய பிரிவு வண்ணத்தைத் தேர்வுசெய்க</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="589"/>
         <source>Stop using terminologies?</source>
-        <translation type="unfinished"></translation>
+        <translation>சொற்களைப் பயன்படுத்துவதை நிறுத்தவா?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="590"/>
         <source>You frequently enter custom name or color. How do you prefer setting name and color next time?</source>
-        <translation type="unfinished"></translation>
+        <translation>நீங்கள் அடிக்கடி தனிப்பயன் பெயர் அல்லது வண்ணத்தை உள்ளிடுகிறீர்கள். அடுத்த முறை பெயரையும் வண்ணத்தையும் அமைப்பதை எவ்வாறு விரும்புகிறீர்கள்?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="595"/>
         <source>Switch to direct editing</source>
-        <translation type="unfinished"></translation>
+        <translation>நேரடி எடிட்டிங்கிற்கு மாறவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="596"/>
         <source>Keep using terminology selector</source>
-        <translation type="unfinished"></translation>
+        <translation>சொற்களஞ்சியம் தேர்வாளரைப் பயன்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="597"/>
         <source>Ask me later</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்னர் என்னிடம் கேளுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="629"/>
@@ -16116,7 +16116,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1279"/>
         <source>Use standard terminology for name and color selection</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர் மற்றும் வண்ணத் தேர்வுக்கு நிலையான சொற்களைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1351"/>
@@ -19107,7 +19107,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
         <source>Join Us on LinkedIn</source>
         <oldsource>Join Us on Twitter</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>லிங்க்ட்இனில் எங்களுடன் சேருங்கள்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="111"/>
@@ -22493,12 +22493,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="702"/>
         <source>Modifications in data files:</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவு கோப்புகளில் மாற்றங்கள்:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="723"/>
         <source>Modifications in the scene file:</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி கோப்பில் மாற்றங்கள்:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="652"/>
@@ -23569,12 +23569,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="189"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிப்பிங்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிப் முனை:</translation>
     </message>
 </context>
 <context>
@@ -23938,12 +23938,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="70"/>
         <source>The Plots module allows editing properties of plots.</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுக்கு தொகுதி அடுக்குகளின் பண்புகளைத் திருத்த அனுமதிக்கிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="78"/>
         <source>This module was originally developed by Davide Punzo, Kapteyn Astronomical Institute, and was supported through the European Research Council grant nr. 291531.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த தொகுதியை முதலில் கப்டெய்ன் வானியல் நிறுவனத்தின் டேவிட் புன்சோ உருவாக்கியது, மேலும் ஐரோப்பிய ஆராய்ச்சி கவுன்சில் கிராண்ட் என்.ஆர் மூலம் ஆதரிக்கப்பட்டது. 291531.</translation>
     </message>
 </context>
 <context>
@@ -24007,12 +24007,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="60"/>
         <source>The Transforms Reformat Widget Module creates and edits the Slice Node transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றம் சீர்திருத்தம் விட்செட் தொகுதி ச்லைச் முனை உருமாற்றங்களை உருவாக்கி திருத்துகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="69"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலையை NA-MIC, NAC, BRN, NCIGT மற்றும் ச்லைசர் சமூகம் ஆதரித்தன.</translation>
     </message>
 </context>
 <context>
@@ -24340,12 +24340,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="878"/>
         <source>File name may be too long: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு பெயர் மிக நீளமாக இருக்கலாம்: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="887"/>
         <source>File path may be too long: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு பாதை மிக நீளமாக இருக்கலாம்: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="894"/>
@@ -24478,7 +24478,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="39"/>
         <source>Scene Views</source>
         <oldsource>Views</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி காட்சிகள்</translation>
     </message>
 </context>
 <context>
@@ -24874,7 +24874,7 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="40"/>
         <source> Segmentation:</source>
         <oldsource> Active segmentation:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation> பிரிவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="47"/>
@@ -25370,12 +25370,14 @@ Most probably the segment cannot be converted into closed surface representation
         <source>If enabled, double-clicking the segment name or color in the segment tables opens the terminology selector. Otherwise the name and color can be simply edited. True by default.
 
 Note: This applies to segment tables in Segment Editor and Segmentations modules, but other modules may choose to use custom setting that is not controlled by this checkbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயக்கப்பட்டால், பிரிவு அட்டவணையில் பிரிவு பெயர் அல்லது வண்ணத்தை இருமுறை சொடுக்கு செய்வது சொற்களஞ்சியம் தேர்வாளரைத் திறக்கும். இல்லையெனில் பெயர் மற்றும் வண்ணத்தை வெறுமனே திருத்தலாம். இயல்புநிலையாக உண்மை.
+
+ குறிப்பு: இது பிரிவு எடிட்டர் மற்றும் பிரிவு தொகுதிகளில் உள்ள பிரிவு அட்டவணைகளுக்கு பொருந்தும், ஆனால் பிற தொகுதிகள் இந்த தேர்வுப்பெட்டியால் கட்டுப்படுத்தப்படாத தனிப்பயன் அமைப்பைப் பயன்படுத்த தேர்வு செய்யலாம்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="71"/>
         <source>Use standard terminology for segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுகளுக்கு நிலையான சொற்களைப் பயன்படுத்தவும்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="106"/>
@@ -25387,7 +25389,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="113"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="123"/>
         <source>Default mode of editing in areas of other segments.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிற பிரிவுகளின் பகுதிகளில் இயல்புநிலை திருத்துதல் முறை.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="133"/>
@@ -25418,7 +25420,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="101"/>
         <source>Use standard terminology for segments</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிவுகளுக்கு நிலையான சொற்களைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="104"/>
@@ -27888,7 +27890,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="253"/>
         <source>Harden transform</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆர்டன் உருமாற்றம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="256"/>
@@ -28683,7 +28685,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="376"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தையும் தெரிவுசெய்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="407"/>
@@ -28743,12 +28745,12 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="89"/>
         <source>A module to create, edit and manage text data in the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியில் உரை தரவை உருவாக்க, திருத்த மற்றும் நிர்வகிக்க ஒரு தொகுதி.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="97"/>
         <source>This work was supported through CANARIE&apos;s Research Software Program, and Cancer Care Ontario. The Texts module was contributed by Kyle Sunderland and Andras Lasso (Perk Lab, Queen&apos;s University)</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலை கனரியின் ஆராய்ச்சி மென்பொருள் திட்டம் மற்றும் புற்றுநோய் பராமரிப்பு ஒன்ராறியோ மூலம் ஆதரிக்கப்பட்டது. இந்த நூல்களின் தொகுதி கைல் சுந்தர்லேண்ட் மற்றும் ஆண்ட்ராச் லாசோ (பெர்க் லேப், குயின்ச் பல்கலைக்கழகம்) ஆகியோரால் பங்களித்தது</translation>
     </message>
 </context>
 <context>
@@ -28799,12 +28801,12 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="98"/>
         <source>The Transforms Module creates and edits transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>உருமாற்றம் தொகுதி உருவாக்கி மாற்றங்களை உருவாக்குகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="106"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த வேலையை NA-MIC, NAC, BRN, NCIGT மற்றும் ச்லைசர் சமூகம் ஆதரித்தன.</translation>
     </message>
 </context>
 <context>
@@ -28818,7 +28820,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="44"/>
         <source> Transform:</source>
         <oldsource>Active Transform:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation> உருமாற்றம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="74"/>
@@ -28924,7 +28926,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="423"/>
         <source>Apply the selected transform to the selected transformable nodes</source>
         <oldsource>Apply the active transform to the selected transformable nodes</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட உருமாற்றத்தை தேர்ந்தெடுக்கப்பட்ட மாற்றக்கூடிய முனைகளுக்குப் பயன்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="426"/>
@@ -28935,7 +28937,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="433"/>
         <source>Remove the selected transform from the selected transformed nodes</source>
         <oldsource>Remove the active transform from the selected transformed nodes</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட மாற்றப்பட்ட முனைகளிலிருந்து தேர்ந்தெடுக்கப்பட்ட உருமாற்றத்தை அகற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="436"/>
@@ -29431,7 +29433,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="294"/>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிப் முனை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="338"/>
@@ -29712,7 +29714,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
         <source> Volume: </source>
         <oldsource>Active Volume: </oldsource>
-        <translation type="unfinished"></translation>
+        <translation> தொகுதி: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
@@ -30013,7 +30015,23 @@ This should only used by advanced users who understand the consequences of chang
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt; &lt;b&gt; ஆவணங்கள் &lt;/b&gt; &lt;/p&gt;
+ &lt;ul&gt; &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/&quot;&gt; ஆவணங்கள் &lt;/a&gt; &lt;/li&gt;
+ இப்போது
+ &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt; உதவியைப் பெறுங்கள் &lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt; பயனர் இடைமுகம் &lt;/a&gt; &lt;/li&gt;
+ இப்போது மற்றும் விசைப்பலகை குறுக்குவழிகள் &lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt; உலாவு டுடோரியல்கள் &lt;/a&gt; &lt;/li&gt; &lt;/ul&gt;
+ &lt;p&gt; &lt;b&gt; எங்களைத் தொடர்பு கொள்ளுங்கள் &lt;/p&gt;
+ &lt;ul&gt; &lt;li&gt; &lt;a href = &quot;https://discourse.slicer.org/&quot;&gt; ச்லைசர் மன்றத்தைப் பார்வையிடவும் &lt;/a&gt; &lt;/li&gt;
+ இப்போது
+ &lt;li&gt; &lt;a href = &quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt; அம்சக் கோரிக்கைகளைத் தேடுங்கள் &lt;/a&gt; &lt;/li&gt;
+ &lt;li&gt; &lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-port-aport-a-a-a-problem&quot;&gt; ஒரு பிழையைப் புகாரளிக்கவும் &lt;/a&gt; &lt;/ li&gt; &lt;/ul&gt;
+ &lt;p&gt; &lt;b&gt; 3 டி ச்லைசர் பற்றி &lt;/p&gt;
+ &lt;ul&gt; &lt;li&gt; &lt;a href = &quot;https://github.com/slicer/slicer/blob/main/license.txt&quot;&gt; உரிமத்தைக் காண்க &lt;/a&gt; &lt;/li&gt;
+ இப்போது
+ &lt;li&gt; &lt;a href = &quot;https://scholar.google.com/scholal?&amp;amp; +அல்லது+ச்லிசர் 3 டி%29+-slic3r+&amp; amp; btng = &quot;&gt; ச்லைசர் வெளியீடுகள் &lt;/a&gt; &lt;/li&gt;
+ இப்போது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
@@ -30499,7 +30517,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="270"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="284"/>
         <source>Text file (.%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>உரை கோப்பு (.%1)</translation>
     </message>
 </context>
 <context>
