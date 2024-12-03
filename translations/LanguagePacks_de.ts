@@ -171,7 +171,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="347"/>
         <source>Keyboard shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastatur-Kürzel:</translation>
     </message>
     <message>
         <source> (shortcut: Ctrl+6)</source>
