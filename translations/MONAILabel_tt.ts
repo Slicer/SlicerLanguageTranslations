@@ -7,12 +7,12 @@
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="20"/>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="56"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Логин</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Серсүз:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="43"/>
