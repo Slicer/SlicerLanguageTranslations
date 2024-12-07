@@ -8496,17 +8496,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="26"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>容量序列</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="96"/>
         <source>Creates a series of DICOM files from volume sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>从容量序列创建一系列DICOM文件</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="101"/>
         <source>Volume sequence of {count} frames</source>
-        <translation type="unfinished"></translation>
+        <translation>{count}帧的容量序列</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="102"/>
@@ -8516,12 +8516,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="103"/>
         <source>Unknown manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>未知制造商</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="104"/>
         <source>Unknown model</source>
-        <translation type="unfinished"></translation>
+        <translation>未知模型</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="158"/>
@@ -8533,7 +8533,7 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="168"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="174"/>
         <source>Series &apos;{itemName}&apos; cannot be exported as volume sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>“{itemName}”系列不能导出为容量序列</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="181"/>
@@ -8559,12 +8559,14 @@ This file was originally developed by Andras Lasso
 The DataProbe module is used to get information about the current RAS position being
 indicated by the mouse position.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+DataProbe模块用于获取由鼠标位置指示出的当前的RAS位置信息。
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="35"/>
         <source>This work is supported by NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis and Fedorov) and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>此项工作得到了NA-MIC、NAC、NCIGT、NIH U24 CA180918（PIs Kikinis和Fedorov）以及Slicer社区的支持。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="134"/>
@@ -8626,12 +8628,12 @@ indicated by the mouse position.
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="500"/>
         <source>Go to the DataProbe module for more information and options</source>
-        <translation type="unfinished"></translation>
+        <translation>转到DataProbe模块以获取更多信息和选项</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
         <source>Show Zoomed Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>显示缩放切片</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="541"/>
@@ -8653,7 +8655,11 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 (See &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+这项工作得到PAR-07-249:R01CA131718 NA-MIC虚拟结肠镜检查项目的支持
+（详见&lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;）
+NA-MIC、NAC、BIRN、NCIGT以及Slicer社区。
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="107"/>
@@ -8663,7 +8669,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="116"/>
         <source>Select a camera that will fly along this path.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个将沿此路径移动的相机。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="53"/>
@@ -8679,7 +8685,18 @@ The Frame Delay slider slows down the animation by adding more time between fram
 The View Angle provides is used to approximate the optics of an endoscopy system.
 You can save the camera position at any point by clicking &quot;Save camera position&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+创建或导入标记曲线。
+选择用于播放飞行穿越视角或编辑相关关键帧的相机。
+选择用于播放飞行穿越视角的相机。
+点击“使用此曲线”将生成一条飞行穿越曲线并启用穿越面板。
+您可以使用帧滑块手动滚动路径。
+播放/暂停按钮切换飞行穿越动画。
+帧跳过滑块通过跳过路径上的点来加速动画。
+帧延迟滑块通过增加帧之间的时长来减慢动画的速度。
+提供视角选项用于近似内窥镜系统的光学特性。
+点击“保存相机位置”可在任意位置保存相机位置。
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"/>
@@ -8689,53 +8706,53 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="128"/>
         <source>Select a curve to define control points for the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一条曲线来定义路径的控制点。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="133"/>
         <source>Curve to modify:</source>
-        <translation type="unfinished"></translation>
+        <translation>要修改的曲线：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="140"/>
         <source>Flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>飞行穿越</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="148"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="418"/>
         <source>Play flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>播放飞行穿越</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="150"/>
         <source>Start or stop the flythrough animation.</source>
-        <translation type="unfinished"></translation>
+        <translation>开始或停止飞行穿越动画。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="158"/>
         <source>The current frame along the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>路径上的当前帧。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="160"/>
         <source>Frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>帧：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="166"/>
         <source>Number of frames to skip.</source>
-        <translation type="unfinished"></translation>
+        <translation>跳过的帧数。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="170"/>
         <source>Frame skip:</source>
-        <translation type="unfinished"></translation>
+        <translation>跳过帧：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="175"/>
         <source>Time delay between animation frames.</source>
-        <translation type="unfinished"></translation>
+        <translation>动画两帧之间的延迟时间。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="181"/>
