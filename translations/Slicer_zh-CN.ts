@@ -9576,27 +9576,27 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="110"/>
         <source>Start slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>开始切片扫描偏移量。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="114"/>
         <source>End sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>扫尾偏移量：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="120"/>
         <source>End slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>端片扫描偏移量。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="124"/>
         <source>Rotation range:</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转范围：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="131"/>
         <source>View rotation range, relative to current view orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>视图旋转范围，相对于当前视图方向。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="135"/>
@@ -9606,12 +9606,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
         <source>Yaw</source>
-        <translation type="unfinished"></translation>
+        <translation>偏航</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="139"/>
         <source>Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>俯仰</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="143"/>
@@ -9621,27 +9621,27 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="151"/>
         <source>Items defined by this sequence browser will be replayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>将重播此序列浏览器定义的项目。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="155"/>
         <source>Start index:</source>
-        <translation type="unfinished"></translation>
+        <translation>起始索引：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="159"/>
         <source>First item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>序列中要捕获的第一个项目。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="163"/>
         <source>End index:</source>
-        <translation type="unfinished"></translation>
+        <translation>结束索引：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="167"/>
         <source>Last item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>序列中要捕获的最后一个项目。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="175"/>
@@ -9651,58 +9651,58 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择捕获图像的保存方式。视频模式需要在高级部分设置ffmpeg可执行路径。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <source>image series</source>
-        <translation type="unfinished"></translation>
+        <translation>图像系列</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
         <source>video</source>
-        <translation type="unfinished"></translation>
+        <translation>视频</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="184"/>
         <source>lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>光箱图像</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="178"/>
         <source>Output type:</source>
-        <translation type="unfinished"></translation>
+        <translation>输出类型：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="198"/>
         <source>Number of images extracted between start and stop positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>在开始和停止位置之间提取的图像数量。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="189"/>
         <source>Number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>图像数量：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="206"/>
         <source>Output directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>输出目录：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="217"/>
         <source>String that defines file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>定义文件名和类型的字符串。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="220"/>
         <source>SlicerCapture.mp4</source>
         <oldsource>SlicerCapture.avi</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCapture.mp4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="221"/>
         <source>String that defines output lightbox file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>定义输出光箱文件名和类型的字符串。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="224"/>
