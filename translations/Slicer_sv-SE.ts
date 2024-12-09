@@ -22023,7 +22023,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="557"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>Klipp ut</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="560"/>
@@ -22038,7 +22038,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="572"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Kopiera</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="575"/>
@@ -22053,7 +22053,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="587"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Klistra in</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="590"/>
