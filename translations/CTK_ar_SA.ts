@@ -1945,7 +1945,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="196"/>
         <source>Thumbnail generator</source>
-        <translation type="unfinished"></translation>
+        <translation>مولد الصور المصغرة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="304"/>
@@ -1960,7 +1960,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="335"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="462"/>
         <source>attempt-failed</source>
-        <translation type="unfinished"></translation>
+        <translation>محاولة فاشلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="340"/>
@@ -2043,42 +2043,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="554"/>
         <source>SOPInstance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>معرف حالة SOP</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="558"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="616"/>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>اتصال</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="562"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="618"/>
         <source>Job UID</source>
-        <translation type="unfinished"></translation>
+        <translation>معرف الوظيفة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="566"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="620"/>
         <source>Class</source>
-        <translation type="unfinished"></translation>
+        <translation>فئة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="570"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="622"/>
         <source>Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>خيط</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="574"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="624"/>
         <source>Logging</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="614"/>
         <source>SOP UID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">معرف إجراءات التشغيل القياسية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="221"/>
@@ -2086,7 +2086,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1296"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1330"/>
         <source>initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>مهيأ</translation>
     </message>
 </context>
 <context>
@@ -2217,7 +2217,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="14"/>
         <source>Patient Item</source>
-        <translation type="unfinished"></translation>
+        <translation>عنصر المريض</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="50"/>
@@ -2503,18 +2503,19 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMSeriesItemWidget.ui" line="14"/>
         <source>Series Item</source>
-        <translation type="unfinished"></translation>
+        <translation>عنصر السلسلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesItemWidget.cpp" line="513"/>
         <source>Series: %1
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>السلسلة: %1
+%2</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesItemWidget.cpp" line="516"/>
         <source>Series: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>السلسلة: %1</translation>
     </message>
 </context>
 <context>
