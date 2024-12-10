@@ -1845,7 +1845,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="449"/>
         <source>Status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الحالة: %1</translation>
     </message>
 </context>
 <context>
@@ -1876,7 +1876,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.h" line="46"/>
         <source>Landmark Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>كشف المعالم</translation>
     </message>
 </context>
 <context>
@@ -2049,7 +2049,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.h" line="45"/>
         <source>Path Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>مستكشف المسار</translation>
     </message>
 </context>
 <context>
@@ -2476,7 +2476,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.h" line="44"/>
         <source>Pivot Calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>معايرة المحور</translation>
     </message>
 </context>
 <context>
@@ -3029,7 +3029,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.h" line="48"/>
         <source>Transform Processor</source>
-        <translation type="unfinished"></translation>
+        <translation>حوّل المعالج</translation>
     </message>
 </context>
 <context>
@@ -3042,7 +3042,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="99"/>
         <source>Compute a copy of the rotation from the Source to the Reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>احسب نسخة من التناوب من المصدر إلى المرجع.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="101"/>
@@ -3062,7 +3062,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="107"/>
         <source>Compute a constrained version of an Source transform, the translation and z direction are preserved but the other axes resemble the Target coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">قم بحساب نسخة مقيدة من تحويل المصدر، يتم الحفاظ على الترجمة واتجاه z ولكن المحاور الأخرى تشبه نظام إحداثيات Target.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="109"/>
@@ -3156,7 +3156,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.h" line="44"/>
         <source>Ultrasound Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>لقطات بالموجات فوق الصوتية</translation>
     </message>
 </context>
 <context>
