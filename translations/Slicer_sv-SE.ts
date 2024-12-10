@@ -21771,7 +21771,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="225"/>
         <source>Recent</source>
         <oldsource>Recently Loaded</oldsource>
-        <translation type="unfinished">Recently Loaded</translation>
+        <translation>Senast hämtat</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="239"/>
