@@ -10356,7 +10356,19 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>增长片段以创建完整的分割&lt;br&gt;。
+        初始片段的位置、大小、形状以及初始体积的内容都会被考虑在内。
+        最终分段的边界会放置在初始体积亮度突变的地方。使用说明：&lt;p&gt;
+        &lt;ul style=&quot;margin: 0&quot;&gt;
+        &lt;li&gt;使用绘制或其他效果在每个应属于单独分段的区域中绘制种子。
+        用不同片段绘制每个种子，至少需要两个片段。
+        &lt;li&gt;点击&lt;dfn&gt;初始化&lt;/dfn&gt;计算完整分割的预览。
+        &lt;li&gt;浏览切片图像。如果分割预览结果不正确，则切换到绘制或其他效果，并在错误分类的区域中添加更多种子。完整的分段会在几秒内自动更新
+        &lt;li&gt;点击&lt;dfn&gt;应用&lt;/dfn&gt;使用预览结果更新分段。
+        &lt;/ul&gt;&lt;p&gt;
+        如果分段重叠，分段表中较高的分段优先级更高。
+        效果采用&lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;快速生长切割法&lt;/a&gt;。
+        &lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="79"/>
