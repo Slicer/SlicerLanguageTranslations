@@ -20250,7 +20250,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="14"/>
         <source>Add data into the scene</source>
-        <translation type="unfinished">Add data into the scene</translation>
+        <translation>Hämta data till scenen</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="20"/>
@@ -21848,7 +21848,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="380"/>
         <source>&amp;Add Data</source>
-        <translation type="unfinished">&amp;Add Data</translation>
+        <translation>&amp;Lägg till Data</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="386"/>
@@ -21878,7 +21878,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="654"/>
         <source>Save</source>
-        <translation type="unfinished">Save</translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="422"/>
