@@ -10320,7 +10320,16 @@ do not use sphere brush with Paint effect and always leave at least one empty sl
 Masking settings are ignored. If segments overlap, segment higher in the segments table will have priority.
 The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;morphological contour interpolation method&lt;/a&gt;.
 &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>切片间的插值分割&lt;br&gt;。使用说明：
+&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;使用任意编辑器效果在所选切片上创建完整的分割。
+只有当分割切片的相邻切片未被分割时，分割才会扩展，因此不要使用有绘制效果的球形画笔，而且在分割切片之间总要至少留下一个空切片。
+&lt;li&gt;不仅仅是选定的片段，所有可见片段都会被插值。
+&lt;li&gt;通过在空切片中插值分割来创建完整的分割。
+&lt;/ul&gt;&lt;p&gt;
+遮罩设置会被忽略。如果分段重叠，分段表中较高的分段优先级更高。
+该效果使用&lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;形态轮廓插值法&lt;/a&gt;。
+&lt;p&gt;</translation>
     </message>
 </context>
 <context>
