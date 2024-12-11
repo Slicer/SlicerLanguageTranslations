@@ -10431,7 +10431,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="69"/>
         <source>Apply hollow effect to all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>将空心效果应用于此分段节点中的所有可见分段。此操作可能需要一段时间。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="72"/>
@@ -10446,27 +10446,27 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="76"/>
         <source>Makes the segment hollow by replacing it with a thick shell at the segment boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>将分段边界处的分段替换为厚壳，从而使其中空。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="131"/>
         <source>Not feasible at current resolution.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前分辨率不可行。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="134"/>
         <source>Actual:</source>
-        <translation type="unfinished"></translation>
+        <translation>实际：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="139"/>
         <source>Empty segment</source>
-        <translation type="unfinished"></translation>
+        <translation>空分段</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="251"/>
         <source>Processing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在处理{segmentName}…</translation>
     </message>
 </context>
 <context>
