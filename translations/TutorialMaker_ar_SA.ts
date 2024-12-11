@@ -158,39 +158,38 @@
         <translation>نص</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="209"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="212"/>
         <source>color</source>
         <translation>لون</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="215"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="218"/>
         <source> thick.</source>
         <translation> سميكة.</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="223"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="228"/>
         <source>Fill</source>
         <translation>ملأ</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="245"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="251"/>
         <source>Load icon</source>
         <translation>أيقونة التحميل</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="260"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="266"/>
         <source>JSON Files (*.json)</source>
         <translation>ملفات JSON (* .json)</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="362"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="565"/>
         <source>Add a title here</source>
         <translation>أضف عنوانًا هنا</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="518"/>
         <source>Add a tittle here</source>
-        <translation>أضف عنوانًا هنا</translation>
+        <translation type="vanished">أضف عنوانًا هنا</translation>
     </message>
 </context>
 <context>
@@ -241,16 +240,27 @@
         <translation>إنشاء برنامج تعليمي جديد</translation>
     </message>
     <message>
+        <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="111"/>
+        <source>Open Annotator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
         <source>Tutorial Maker</source>
         <translation>صانع الدروس التعليمية</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="46"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="53"/>
+        <source>
+        The development of this module has been made possible in part by a grant from the Chan Zuckerberg Initiative
+        </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>
         Development of this module was funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-localization-and-outreach/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
         </source>
-        <translation>
+        <translation type="vanished">
         تم تمويل تطوير هذه الوحدة من قبل &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-localization-and-outreach/&quot;&gt;منحة CZI EOSS&lt;/a&gt;.
         </translation>
     </message>
@@ -259,8 +269,8 @@
     <name>painter</name>
     <message>
         <location filename="TutorialMaker/Lib/painter.py" line="72"/>
-        <location filename="TutorialMaker/Lib/painter.py" line="317"/>
-        <location filename="TutorialMaker/Lib/painter.py" line="388"/>
+        <location filename="TutorialMaker/Lib/painter.py" line="309"/>
+        <location filename="TutorialMaker/Lib/painter.py" line="393"/>
         <source>Error: Load an image first.</source>
         <translation>خطأ: حمل صورة أولاً.</translation>
     </message>

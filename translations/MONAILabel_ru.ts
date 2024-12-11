@@ -424,13 +424,13 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="2037"/>
+        <location filename="MONAILabel/MONAILabel.py" line="2051"/>
         <source>Failed to post process label on MONAI Label Server using {scribbles_method}.
 {message}</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/MONAILabel.py" line="2404"/>
+        <location filename="MONAILabel/MONAILabel.py" line="2418"/>
         <source>User Login</source>
         <translation type="unfinished"></translation>
     </message>
@@ -485,159 +485,159 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="217"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="238"/>
         <source>Status:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="231"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="252"/>
         <source>Accuracy:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="238"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="259"/>
         <source>Average Dice score computed over submitted labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="248"/>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="369"/>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="409"/>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="685"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="269"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="390"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="430"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="706"/>
         <source>Model:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="267"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="288"/>
         <source>Train</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="274"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="295"/>
         <source>Stop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="286"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="307"/>
         <source>Submit Label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="293"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="314"/>
         <source>Strategy:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="300"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="321"/>
         <source>Next Sample</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="313"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="334"/>
         <source>Segment Editor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="338"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="359"/>
         <source>Auto Segmentation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="362"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="383"/>
         <source>Select pre-trained segmentation model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="379"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="400"/>
         <source>Run</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="389"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="410"/>
         <source>SmartEdit</source>
         <oldsource>SmartEdit / Deepgrow</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="425"/>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="577"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="446"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="598"/>
         <source>Update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="438"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="459"/>
         <source>Select Deepgrow/DeepEdit Model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="445"/>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="665"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="466"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="686"/>
         <source>Label:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="473"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="494"/>
         <source>Freeze</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="492"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="513"/>
         <source>Foreground:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="514"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="535"/>
         <source>  Background:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="482"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="503"/>
         <source>Auto</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="561"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="582"/>
         <source>Scribbles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="584"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="605"/>
         <source>Paint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="594"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="615"/>
         <source>Erase</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="608"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="629"/>
         <source>Size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="646"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="667"/>
         <source>3D</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="658"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="679"/>
         <source>Scribbles:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="534"/>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="707"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="555"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="728"/>
         <source>ROI:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="734"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="755"/>
         <source>Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="755"/>
+        <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="776"/>
         <source>Import Label:</source>
         <translation type="unfinished"></translation>
     </message>

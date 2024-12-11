@@ -1260,368 +1260,299 @@ Cuidado: os valores nas bifurcações podem não ter significado clínico.</tran
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="14"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="14"/>
         <source>Sampling distance used for generating centerline curve</source>
         <translation>Distância de amostragem utilizada para gerar a curva da linha central</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="20"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="20"/>
         <source>Inputs</source>
         <translation>Entradas</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="26"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="26"/>
         <source>Surface:</source>
         <translation>Superfície:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="33"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="33"/>
         <source>Input surface model of the tree. If computation is slow adjust preprocessing parameters in advanced section.</source>
         <translation>Modelo de superfície de entrada da árvore. Se o cálculo for lento, ajuste os parâmetros de pré-processamento na seção avançada.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="54"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="54"/>
         <source>Select a model or segmentation node</source>
         <translation>Selecionar um modelo ou nó de segmentação</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="61"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="61"/>
         <source>Endpoints:</source>
         <translation>Terminações:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="70"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="70"/>
         <source>Branch endpoints. &quot;Unselected&quot; control points are used as sources, &quot;selected&quot; control points are used as targets.</source>
         <translation>Terminações de ramificação. Os pontos de controle “não selecionados” são utilizados como fontes; os pontos de controle “selecionados” são utilizados como objetivos.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="81"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="81"/>
         <source>Endpoints</source>
         <translation>Terminações</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="106"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="106"/>
         <source>Auto-detect</source>
         <translation>Detecção automática</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="125"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="125"/>
         <source>Paremeter set: </source>
         <translation>Conjunto de parêmetros: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="132"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="132"/>
         <source>Pick node to store parameter set</source>
         <translation>Selecionar nó para armazenar o conjunto de parâmetros</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="143"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="143"/>
         <source>ExtractCenterline</source>
         <translation>Extrair linha central</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="166"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="166"/>
         <source>Outputs</source>
         <translation>Saídas</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="172"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="172"/>
         <source>Network</source>
         <translation>Rede</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="178"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="178"/>
         <source>Network model:</source>
         <translation>Modelo de rede:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="185"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="185"/>
         <source>Result of quick centerline network extraction.</source>
         <translation>Resultado da extração rápida da rede de linhas centrais.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="196"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="196"/>
         <source>Network model</source>
         <translation>Modelo de rede</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="218"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="218"/>
         <source>Network properties:</source>
         <translation>Propriedades da rede:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="225"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="394"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="225"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="394"/>
         <source>Table containing quantitative analysis of centerline (radius, length, curvature, torsion, etc.)</source>
         <translation>Tabela contendo análise quantitativa da linha de centro (raio, comprimento, curvatura, torção etc.)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="236"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="236"/>
         <source>Network properties</source>
         <translation>Propriedades da rede</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="258"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="258"/>
         <source>Network curve:</source>
         <translation>Curva de rede:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="265"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="354"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="265"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="354"/>
         <source>Centerline extraction result as a hierarchy of markups curves.</source>
         <translation>O resultado da extração da linha de centro é uma hierarquia de curvas de marcação.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="276"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="276"/>
         <source>Network curve</source>
         <translation>Curva de rede</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="301"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="301"/>
         <source>Tree</source>
         <translation>Árvore</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="307"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="307"/>
         <source>Centerline model:</source>
         <translation>Modelo de linha central:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="314"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="314"/>
         <source>Centerline extraction result as a model.</source>
         <translation>Resultado da extração da linha central como um modelo.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="325"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="325"/>
         <source>Centerline model</source>
         <translation>Modelo de linha central</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="347"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="347"/>
         <source>Centerline curve:</source>
         <translation>Curva da linha central:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="365"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="365"/>
         <source>Centerline curve</source>
         <translation>Curva da linha central</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="387"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="387"/>
         <source>Centerline properties:</source>
         <translation>Propriedades da linha central:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="405"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="405"/>
         <source>Centerline quantification</source>
         <translation>Quantificação da linha central</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="433"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="433"/>
         <source>Advanced</source>
         <translation>Avançado</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="442"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="442"/>
         <source>Preprocess input surface:</source>
         <translation>Pré-processar a superfície de entrada:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="449"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="449"/>
         <source>Input surface model is reduced to the requested target point count (making computation faster), or subdivided (to make computations more accurate).</source>
         <translation>O modelo de superfície de entrada é reduzido à contagem de pontos-alvo solicitada (tornando o cálculo mais rápido) ou subdividido (para tornar os cálculos mais precisos).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="462"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="462"/>
         <source>Target point count:</source>
         <translation>Contagem de pontos-alvo:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="472"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="472"/>
         <source>Preferred number of points in the preprocessed surface.</source>
         <translation>Número preferencial de pontos na superfície pré-processada.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="490"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="490"/>
         <source>k</source>
         <translation>k</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="497"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="497"/>
         <source>Decimation aggressiveness:</source>
         <translation>Agressividade da dizimação:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="507"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="507"/>
         <source>Lower values preserve the mesh integrity better but it may not be possible to reduce number of points to the desired level.</source>
         <translation>Valores mais baixos preservam melhor a integridade da malha, mas talvez não seja possível reduzir o número de pontos até o nível desejado.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="529"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="529"/>
         <source>Subdivide:</source>
         <translation>Subdividir:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="539"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="539"/>
         <source>Subdivide the mesh to make computation more accurate (at the cost of increased computation time).</source>
         <translation>Subdividir a malha para tornar o cálculo mais preciso (ao custo de maior tempo de cálculo).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="549"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="549"/>
         <source>Output preprocessed surface:</source>
         <translation>Saída da superfície pré-processada:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="559"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="559"/>
         <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
         <translation>Salvar o resultado do pré-processamento. Útil para verificações de qualidade e para agilizar os cálculos repetidos: a superfície pré-processada pode ser usada como superfície de entrada (e a opção “Preprocessar superfície de entrada” pode ser desativada).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="570"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="570"/>
         <source>Preprocessed model</source>
         <translation>Modelo pré-processado</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="592"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="592"/>
         <source>Mesh error check results:</source>
         <translation>Resultados da verificação de erros de malha:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="599"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="599"/>
         <source>Output Voronoi diagram:</source>
         <translation>Diagrama de Voronoi de saída:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="606"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="606"/>
         <source>Voronoi diagram (similar to medial surface) that is used for computing centerline path between endpoints. It is useful for quality checks and for showing a model where endpoints can be robustly placed on.</source>
         <translation>Diagrama de Voronoi (semelhante à superfície média) que é usado para calcular o caminho da linha central entre os pontos finais. Ele é útil para verificações de qualidade e para mostrar um modelo no qual os pontos finais podem ser colocados de forma robusta.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="617"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="617"/>
         <source>Voronoi diagram</source>
         <translation>Diagrama de Voronoi</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="639"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="639"/>
         <source>Result of mesh error checks. Currently the only check is for presence of non-manifold edges.</source>
         <translation>Resultado das verificações de erro da malha. Atualmente, a única verificação é quanto à presença de bordas que não sejam de uma malha.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="650"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="650"/>
         <source>Mesh errors</source>
         <translation>Erros de malha</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="672"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="672"/>
         <source>Curve sampling distance:</source>
         <translation>Distância de amostragem da curva:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="682"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="682"/>
         <source>length</source>
         <translation>comprimento</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="695"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="695"/>
         <source>Run the algorithm.</source>
         <translation>Execute o algoritmo.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="698"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="698"/>
         <source>Apply</source>
         <translation>Aplicar</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="36"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="188"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="317"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="562"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="609"/>
         <source>vtkMRMLModelNode</source>
-        <translation>vtkMRMLModelNode</translation>
+        <translation type="vanished">vtkMRMLModelNode</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="36"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation>vtkMRMLSegmentationNode</translation>
+        <translation type="vanished">vtkMRMLSegmentationNode</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="73"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="642"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation>vtkMRMLMarkupsFiducialNode</translation>
+        <translation type="vanished">vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="135"/>
         <source>vtkMRMLScriptedModuleNode</source>
-        <translation>vtkMRMLScriptedModuleNode</translation>
+        <translation type="vanished">vtkMRMLScriptedModuleNode</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="228"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="397"/>
         <source>vtkMRMLTableNode</source>
-        <translation>vtkMRMLTableNode</translation>
+        <translation type="vanished">vtkMRMLTableNode</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="268"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="357"/>
         <source>vtkMRMLMarkupsCurveNode</source>
-        <translation>vtkMRMLMarkupsCurveNode</translation>
+        <translation type="vanished">vtkMRMLMarkupsCurveNode</translation>
     </message>
 </context>
 <context>

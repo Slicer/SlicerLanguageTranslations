@@ -158,39 +158,38 @@
         <translation>உரை</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="209"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="212"/>
         <source>color</source>
         <translation>நிறம்</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="215"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="218"/>
         <source> thick.</source>
         <translation> அடர்த்தியான.</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="223"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="228"/>
         <source>Fill</source>
         <translation>நிரப்பவும்</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="245"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="251"/>
         <source>Load icon</source>
         <translation>ஐகானை ஏற்றவும்</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="260"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="266"/>
         <source>JSON Files (*.json)</source>
         <translation>சாதொபொகு கோப்புகள் (*.JSON)</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="362"/>
+        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="565"/>
         <source>Add a title here</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TutorialMaker/Lib/TutorialGUI.py" line="518"/>
         <source>Add a tittle here</source>
-        <translation>இங்கே ஒரு உறுதியைச் சேர்க்கவும்</translation>
+        <translation type="vanished">இங்கே ஒரு உறுதியைச் சேர்க்கவும்</translation>
     </message>
 </context>
 <context>
@@ -241,16 +240,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="111"/>
+        <source>Open Annotator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
         <source>Tutorial Maker</source>
         <translation>பயிற்சி தயாரிப்பாளர்</translation>
     </message>
     <message>
-        <location filename="TutorialMaker/TutorialMaker.py" line="46"/>
+        <location filename="TutorialMaker/TutorialMaker.py" line="53"/>
+        <source>
+        The development of this module has been made possible in part by a grant from the Chan Zuckerberg Initiative
+        </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>
         Development of this module was funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-localization-and-outreach/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
         </source>
-        <translation>
+        <translation type="vanished">
         இந்த தொகுதியின் வளர்ச்சியை &lt;a href = &quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-lacalacation-and-outreach/&quot;&gt; czi eoss மானியம் &lt;/a&gt; ஆல் நிதியளித்தது.
         </translation>
     </message>
@@ -259,8 +269,8 @@
     <name>painter</name>
     <message>
         <location filename="TutorialMaker/Lib/painter.py" line="72"/>
-        <location filename="TutorialMaker/Lib/painter.py" line="317"/>
-        <location filename="TutorialMaker/Lib/painter.py" line="388"/>
+        <location filename="TutorialMaker/Lib/painter.py" line="309"/>
+        <location filename="TutorialMaker/Lib/painter.py" line="393"/>
         <source>Error: Load an image first.</source>
         <translation>பிழை: முதலில் ஒரு படத்தை ஏற்றவும்.</translation>
     </message>
