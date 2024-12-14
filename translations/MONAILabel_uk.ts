@@ -570,101 +570,101 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="383"/>
         <source>Select pre-trained segmentation model</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть попередньо навчену модель сегментації</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="400"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>бігти</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="410"/>
         <source>SmartEdit</source>
         <oldsource>SmartEdit / Deepgrow</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Розумне редагування</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="446"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="598"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>оновлення</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="459"/>
         <source>Select Deepgrow/DeepEdit Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть модель Deepgrow/DeepEdit</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="466"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="686"/>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Мітка:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="494"/>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Заморозити</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="513"/>
         <source>Foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Передній план:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="535"/>
         <source>  Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>  Фон:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="503"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="582"/>
         <source>Scribbles</source>
-        <translation type="unfinished"></translation>
+        <translation>Каракулі</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="605"/>
         <source>Paint</source>
-        <translation type="unfinished"></translation>
+        <translation>Фарба</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="615"/>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>Стерти</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="629"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="667"/>
         <source>3D</source>
-        <translation type="unfinished"></translation>
+        <translation>3D</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="679"/>
         <source>Scribbles:</source>
-        <translation type="unfinished"></translation>
+        <translation>Каракулі:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="555"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="728"/>
         <source>ROI:</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="755"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Інструменти</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="776"/>
         <source>Import Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпорт етикетки:</translation>
     </message>
 </context>
 <context>
@@ -673,31 +673,31 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="614"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="22"/>
         <source>Basic mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Базовий режим</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="615"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="38"/>
         <source>Reviewer&apos;s mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим рецензента</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="618"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="53"/>
         <source>Search Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук зображень</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="619"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="80"/>
         <source>Image Ids</source>
-        <translation type="unfinished"></translation>
+        <translation>Ідентифікатори зображень</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="622"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="87"/>
         <source>imageId_1, imageId2, ...</source>
-        <translation type="unfinished"></translation>
+        <translation>ImageId_1, imageId2, ...</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="623"/>
@@ -707,25 +707,25 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="161"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="232"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="626"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="74"/>
         <source>Ids</source>
-        <translation type="unfinished"></translation>
+        <translation>ідентифікатори</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="627"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="111"/>
         <source>Select annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть анотатор</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="628"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="121"/>
         <source>Select reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть рецензента</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="629"/>
@@ -733,7 +733,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="131"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="820"/>
         <source>approved</source>
-        <translation type="unfinished"></translation>
+        <translation>затверджено</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="630"/>
@@ -741,61 +741,61 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="138"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="802"/>
         <source>flagged</source>
-        <translation type="unfinished"></translation>
+        <translation>позначено</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="634"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="105"/>
         <source>Annotator/Reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Анотатор/Рецензент</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="636"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="175"/>
         <source>Select level of difficulty</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть рівень складності</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="637"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="195"/>
         <source>easy</source>
-        <translation type="unfinished"></translation>
+        <translation>легко</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="638"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="202"/>
         <source>medium</source>
-        <translation type="unfinished"></translation>
+        <translation>середній</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="639"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="209"/>
         <source>hard</source>
-        <translation type="unfinished"></translation>
+        <translation>важко</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="643"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="169"/>
         <source>Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>якість</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="644"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="247"/>
         <source>Result:</source>
-        <translation type="unfinished"></translation>
+        <translation>Результат:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="646"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="258"/>
         <source>Image Id</source>
-        <translation type="unfinished"></translation>
+        <translation>Ідентифікатор зображення</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="648"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="271"/>
         <source>found</source>
-        <translation type="unfinished"></translation>
+        <translation>знайдено</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="650"/>
@@ -803,25 +803,25 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="284"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="813"/>
         <source>segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>сегментований</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="651"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="295"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>показати</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="652"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="307"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="655"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="345"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Підключитися</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="656"/>
@@ -829,7 +829,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="352"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="754"/>
         <source>Segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>Сегментований</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="657"/>
@@ -837,201 +837,201 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="369"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="747"/>
         <source>Approved</source>
-        <translation type="unfinished"></translation>
+        <translation>Затверджено</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="658"/>
         <source>Server IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>IP сервера:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="659"/>
         <source>Reviewer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Рецензент:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="662"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="415"/>
         <source>Data Evaluation</source>
-        <translation type="unfinished"></translation>
+        <translation>Оцінка даних</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="665"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="428"/>
         <source>Level of difficulty</source>
-        <translation type="unfinished"></translation>
+        <translation>Рівень складності</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="666"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="440"/>
         <source>Easy</source>
-        <translation type="unfinished"></translation>
+        <translation>Легко</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="667"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="450"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>середнім</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="668"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="460"/>
         <source>Hard</source>
-        <translation type="unfinished"></translation>
+        <translation>Важко</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="669"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="476"/>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Попередній</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="670"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="486"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Далі</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="671"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="493"/>
         <source>Flag</source>
-        <translation type="unfinished"></translation>
+        <translation>Прапор</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="672"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="500"/>
         <source>Approve</source>
-        <translation type="unfinished"></translation>
+        <translation>Затвердити</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="673"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="511"/>
         <source>Image: x/y</source>
-        <translation type="unfinished"></translation>
+        <translation>Зображення: x/y</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="674"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="534"/>
         <source>Version of labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Версія етикеток</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="675"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="549"/>
         <source>Start label edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Почати редагування мітки</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="678"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="564"/>
         <source>Overwrite this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезаписати цю версію</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="679"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="572"/>
         <source>Save as new version</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти як нову версію</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="680"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="577"/>
         <source>Delete this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити цю версію</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="681"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="588"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердити</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="682"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="603"/>
         <source>Image Id: </source>
-        <translation type="unfinished"></translation>
+        <translation>ID зображення: </translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="683"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="610"/>
         <source>Annotator:</source>
-        <translation type="unfinished"></translation>
+        <translation>Анотатор:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="684"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="617"/>
         <source>Annotation Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата анотації:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="685"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="624"/>
         <source>Difficulty Level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Рівень складності:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="686"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="631"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="687"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="638"/>
         <source>Editor: </source>
-        <translation type="unfinished"></translation>
+        <translation>редактор: </translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="688"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="645"/>
         <source>Editing Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата редагування:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="689"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="701"/>
         <source>Add Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати коментар</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="692"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="716"/>
         <source>Data Set Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Провідник набору даних</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="693"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="727"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>навантаження</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="696"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="761"/>
         <source>Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Анотатор</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="697"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="781"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>фільтр</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="698"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="795"/>
         <source>not segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>не сегментований</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="383"/>
         <source>Server Url</source>
-        <translation type="unfinished"></translation>
+        <translation>URL-адреса сервера</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="400"/>
         <source>Reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Рецензент</translation>
     </message>
 </context>
 <context>
@@ -1039,7 +1039,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="42"/>
         <source>Active Learning</source>
-        <translation type="unfinished"></translation>
+        <translation>Активне навчання</translation>
     </message>
 </context>
 </TS>
