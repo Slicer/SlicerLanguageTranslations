@@ -205,7 +205,7 @@ Kehittänyt NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="354"/>
         <source>Change brush size for scribbles tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuta siveltimen kokoa scribbles-työkalulle</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="356"/>
