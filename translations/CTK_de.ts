@@ -851,7 +851,7 @@ wegen:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="192"/>
         <source>DICOM Import</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM Importieren</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="300"/>
@@ -878,7 +878,7 @@ wegen:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="686"/>
         <source>DICOM Directory Import</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM Importieren von Ordner</translation>
     </message>
 </context>
 <context>
@@ -1035,26 +1035,26 @@ wegen:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="392"/>
         <source>DICOM File Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM Datei Metadaten</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="585"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim erstellen der Datenbank im Ordner %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="641"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="669"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Keine valide DICOM Datenbank im Ordner %1 gefunden.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="689"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Inkompatible DICOM Datenbank gefunden im Ordner %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="831"/>
