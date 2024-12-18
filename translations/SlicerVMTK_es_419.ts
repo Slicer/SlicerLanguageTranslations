@@ -499,7 +499,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1252"/>
         <source>Updating table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizando tabla:</translation>
     </message>
     <message>
         <source>Updating table :</source>
@@ -599,7 +599,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
 - a centerline model created by &apos;Extract centerline&apos; module,
 - an arbitrary open markups curve,
 - an invisible centerline of a shape markups node used as a tube.</oldsource>
-        <translation type="unfinished">El origen de la línea central puede ser :
+        <translation>El origen de la línea central puede ser :
 
 - una curva de línea central creada por el módulo «Extraer línea central»,
 - un modelo de línea central creado por el módulo «Extraer línea central»,
@@ -859,14 +859,16 @@ Se aplica el pincel «Esfera». En el «Editor de segmentos» se pueden realizar
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="28"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de parámetros:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="38"/>
         <source>Pick a node to store the parameter set.
 
 This is intended to represent a unique combination of input centerline and surface nodes. Create a distinct parameter set for each combination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija un nodo para almacenar el conjunto de parámetros.
+
+Se pretende que represente una combinación única de nodos de entrada de línea central y superficie. Cree un conjunto de parámetros distinto para cada combinación.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="658"/>
@@ -1066,7 +1068,11 @@ Atención: los valores en las bifurcaciones pueden no tener significado clínico
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
 
 Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro equivalente circular (CE): el de un círculo que tiene la superficie de la sección transversal.
+
+También se proporciona la diferencia absoluta y porcentual con el diámetro máximo de la esfera inscrita (MIS).
+
+Atención: los valores en las bifurcaciones pueden no tener significado clínico.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1122"/>
@@ -1622,7 +1628,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="614"/>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="690"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Proceso completado en {duración} segundos</translation>
+        <translation>Proceso completado en {duración} segundos</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="620"/>
@@ -1799,7 +1805,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="195"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished">No se han podido calcular los resultados.</translation>
+        <translation>No se han podido calcular los resultados.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="243"/>
@@ -1826,12 +1832,12 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="370"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Proceso completado en {duración} segundos</translation>
+        <translation>Proceso completado en {duración} segundos</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="396"/>
         <source>Starting the test</source>
-        <translation type="unfinished">Inicio de la prueba</translation>
+        <translation>Inicio de la prueba</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="398"/>
@@ -1851,7 +1857,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="59"/>
         <source>Volume:</source>
-        <translation type="unfinished">Volumen:</translation>
+        <translation>Volumen:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="66"/>
@@ -1866,7 +1872,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="132"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentación:</translation>
+        <translation>Segmentación:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="154"/>
@@ -1890,7 +1896,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="303"/>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="341"/>
         <source> mm</source>
-        <translation type="unfinished"> mm</translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="209"/>
@@ -1941,7 +1947,7 @@ deviation:</source>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="370"/>
         <source>Subtract overlapping parts of other segments from the resulting vein segment.</source>
-        <translation type="unfinished">Reste las partes superpuestas de otros segmentos del segmento de vena resultante.</translation>
+        <translation>Reste las partes superpuestas de otros segmentos del segmento de vena resultante.</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="386"/>
@@ -1956,7 +1962,7 @@ deviation:</source>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="405"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -1977,7 +1983,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc, Andras Lasso, PerkLab,
 y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3P41RR013218-12S1 de los NIH.
 </translation>
@@ -1985,7 +1991,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="133"/>
         <source>Failed to install {nameOfExtension} extension</source>
-        <translation type="unfinished">Error al instalar la extensión {nombreDeLaExtención}.</translation>
+        <translation>Error al instalar la extensión {nombre de la extensión}.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="147"/>
@@ -2036,7 +2042,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="530"/>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="587"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Proceso completado en {duración} segundos</translation>
+        <translation>Proceso completado en {duración} segundos</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="536"/>
@@ -2085,7 +2091,7 @@ Se supone que los puntos fiduciales están en el lumen contrastado.</translation
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="128"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentación:</translation>
+        <translation>Segmentación:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="135"/>
@@ -2110,7 +2116,7 @@ Se supone que los puntos fiduciales están en el lumen contrastado.</translation
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="209"/>
         <source>Slice node:</source>
-        <translation type="unfinished">Nodo del corte:</translation>
+        <translation>Nodo del corte:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="225"/>
@@ -2165,7 +2171,7 @@ Se eliminarán los nodos de salida de la última ejecución.</translation>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="366"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -2175,7 +2181,7 @@ Se eliminarán los nodos de salida de la última ejecución.</translation>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; straightens an open input markups curve and displays cumulative and individual lengths between control points. It is intended for quick one dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este &lt;a href=«https://github.com/vmtk/SlicerExtension-VMTK/»&gt;módulo&lt;/a&gt; endereza una curva de marcas de entrada abierta y muestra las longitudes acumuladas e individuales entre los puntos de control. Está pensado para la evaluación rápida de estenosis arteriales unidimensionales, pero en realidad no tiene ningún propósito.
 </translation>
     </message>
@@ -2185,7 +2191,7 @@ Este &lt;a href=«https://github.com/vmtk/SlicerExtension-VMTK/»&gt;módulo&lt;
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc, Andras Lasso, PerkLab,
 y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3P41RR013218-12S1 de los NIH.
 </translation>
@@ -2219,7 +2225,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="401"/>
         <source>Starting the test</source>
-        <translation type="unfinished">Inicio de la prueba</translation>
+        <translation>Iniciar la prueba</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="403"/>
@@ -2254,7 +2260,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; calculates the surface area of segments cut by a slice plane in its orientation. It is intended for quick two dimensional arterial stenosis evaluation, but is actually purpose agnostic.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este &lt;a href=«https://github.com/vmtk/SlicerExtension-VMTK/»&gt;módulo&lt;/a&gt; calcula la superficie de los segmentos cortados por un plano de corte en su orientación. Está pensado para la evaluación rápida de estenosis arteriales bidimensionales, pero en realidad no tiene ningún propósito.
 </translation>
     </message>
@@ -2264,7 +2270,7 @@ Este &lt;a href=«https://github.com/vmtk/SlicerExtension-VMTK/»&gt;módulo&lt;
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished">
+        <translation>
 Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc, Andras Lasso, PerkLab,
 y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3P41RR013218-12S1 de los NIH.
 </translation>
@@ -2310,13 +2316,13 @@ The result is influenced by :
  - holes in the segments
  - point placement, if &apos;Closest island&apos; option is selected,
  - smoothing level in the &apos;Segment editor&apos;.</oldsource>
-        <translation type="unfinished">Cree un modelo para cada segmento cortado.
+        <translation>Cree un modelo para cada segmento cortado.
 Esto permite visualizar el modelo a partir del cual se calcula la superficie.
 
 El resultado se ve influido por :
  - los agujeros en los segmentos
- - la colocación de los puntos, si está seleccionada la opción &apos;Isla más cercana
- - el nivel de suavizado en el &apos;Editor de segmentos&apos;.</translation>
+ - la colocación de los puntos, si está seleccionada la opción &quot;Isla más cercana&quot;.
+ - el nivel de suavizado en el &quot;Editor de segmentos&quot;.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="133"/>
@@ -2407,7 +2413,7 @@ El resultado se ve influido por :
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="331"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished">No se han podido calcular los resultados.</translation>
+        <translation>No se han podido calcular los resultados.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="476"/>
@@ -2452,12 +2458,12 @@ El resultado se ve influido por :
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="624"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished">Proceso completado en {duración} segundos</translation>
+        <translation>Proceso completado en {duración} segundos</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="676"/>
         <source>Starting the test</source>
-        <translation type="unfinished">Inicio de la prueba</translation>
+        <translation>Iniciar la prueba</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="678"/>
@@ -2472,7 +2478,7 @@ El resultado se ve influido por :
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="36"/>
         <source>Slice node:</source>
-        <translation type="unfinished">Nodo de corte:</translation>
+        <translation>Nodo del corte:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
@@ -2489,14 +2495,14 @@ El resultado se ve influido por :
         <source>Select an input markups fiducial list.
 
 Clicking at a control point allows to track the slice orientation in the selected slice node, on top of the usual jump behaviour. This tracking is scene-wide only, it is not saved with the scene.</source>
-        <translation type="unfinished">Seleccione una lista de puntos de control de marcas de entrada.
+        <translation>Seleccione una lista de puntos de control de marcas de entrada.
 
 Al hacer clic en un punto de control, se puede realizar un seguimiento de la orientación del corte en el nodo de corte seleccionado, además del comportamiento de salto habitual. Este seguimiento es sólo para toda la escena, no se guarda con la escena.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="112"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentación:</translation>
+        <translation>Segmentación:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="119"/>
@@ -2508,14 +2514,14 @@ Al hacer clic en un punto de control, se puede realizar un seguimiento de la ori
         <source>Result table.
 
 Right click for more.</source>
-        <translation type="unfinished">Cuadro de resultados.
+        <translation>Tabla de resultados.
 
 Haga clic con el botón derecho del ratón para obtener más información.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="167"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -2535,7 +2541,7 @@ Haga clic con el botón derecho del ratón para obtener más información.</tran
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="29"/>
         <source>Centerline model:</source>
-        <translation type="unfinished">Modelo del eje central:</translation>
+        <translation>Modelo del eje central:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="36"/>
@@ -2555,23 +2561,23 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entradas</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="69"/>
         <source>Tube tree:</source>
-        <translation type="unfinished"></translation>
+        <translation>Árbol tubular:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="78"/>
         <source>Pick an input segmentation or model node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija una segmentación de entrada o un nodo modelo.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="109"/>
         <source>Select an input segment.</source>
         <oldsource>Select an input segment in the selected segmentation.</oldsource>
-        <translation type="unfinished">Seleccione un segmento de entrada en la segmentación seleccionada.</translation>
+        <translation>Seleccione un segmento de entrada en la segmentación seleccionada.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
@@ -2601,7 +2607,7 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="194"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="112"/>
@@ -2615,7 +2621,7 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="122"/>
         <source>No surface selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguna superficie seleccionada.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="128"/>
@@ -2661,7 +2667,7 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="230"/>
         <source>Branches</source>
-        <translation type="unfinished">Ramas</translation>
+        <translation>Ramas</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="236"/>
@@ -2681,7 +2687,7 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="320"/>
         <source>Could not get a valid subject hierarchy node.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido obtener un nodo de jerarquía de materia válido.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="330"/>
@@ -2691,7 +2697,7 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="354"/>
         <source>Finished</source>
-        <translation type="unfinished">Finalizado</translation>
+        <translation>Finalizado</translation>
     </message>
 </context>
 <context>
@@ -2699,12 +2705,12 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished">Barra Foo</translation>
+        <translation>Barra Foo</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished">Barra Foo</translation>
+        <translation>Barra Foo</translation>
     </message>
 </context>
 <context>
@@ -2770,7 +2776,7 @@ Lo ideal es que sobrepase un poco la superficie de la pared y que no esté bifur
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="311"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="131"/>
@@ -2865,12 +2871,12 @@ Lo ideal es que sobrepase un poco la superficie de la pared y que no esté bifur
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished">Barra Foo</translation>
+        <translation>Barra Foo</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished">Barra Foo</translation>
+        <translation>Barra Foo</translation>
     </message>
 </context>
 </TS>
