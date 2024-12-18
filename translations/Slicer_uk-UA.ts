@@ -1750,11 +1750,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
         <source>Input Parameters</source>
-<<<<<<< HEAD
-        <translation type="unfinished">Вхідні Параметри</translation>
-=======
         <translation>Вхідні параметри</translation>
->>>>>>> remotes/origin/main
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
