@@ -339,11 +339,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
         <source>Input Images</source>
-<<<<<<< HEAD
-        <translation type="unfinished">Вхідні Зображення</translation>
-=======
         <translation>Вхідні зображення</translation>
->>>>>>> remotes/origin/main
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
@@ -1020,7 +1016,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation>Кількість вокселів, відібраних для обчислення взаємної інформації.  Збільште це значення для вищої точності, ціною довшого часу обчислення. 
+        <translation>Кількість вокселів, відібраних для обчислення взаємної інформації.  Збільште це значення для вищої точності, ціною довшого часу обчислення.
 ЗВЕРНІТЬ УВАГУ, що замість цього параметра пропонується використовувати samplingPercentage. Однак, якщо встановлено ненульове значення, numberOfSamples перезаписує опцію samplingPercentage.  </translation>
     </message>
     <message>
@@ -2689,12 +2685,12 @@ Allows casting to the same type as the input volume.</source>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
         <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
 
-MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
-        <translation>Виконує анізотропну дифузію на зображенні за допомогою модифікованого рівняння дифузії кривизни (MCDE). 
+        <translation>Виконує анізотропну дифузію на зображенні за допомогою модифікованого рівняння дифузії кривизни (MCDE).
 
-MCDE не демонструє властивостей покращення країв класичної анізотропної дифузії, яка за певних умов може зазнавати «негативної» дифузії, що посилює контраст країв.  Рівняння форми MCDE завжди зазнають позитивної дифузії, причому член провідності змінює лише силу цієї дифузії. 
+MCDE не демонструє властивостей покращення країв класичної анізотропної дифузії, яка за певних умов може зазнавати «негативної» дифузії, що посилює контраст країв.  Рівняння форми MCDE завжди зазнають позитивної дифузії, причому член провідності змінює лише силу цієї дифузії.
 
  За якістю MCDE добре порівнюється з іншими методами нелінійної дифузії.  Він менш чутливий до контрасту, ніж класична дифузія в стилі Перона-Малік, і зберігає більш тонкі деталізовані структури на зображеннях.  Існує потенційний компроміс у швидкості використання цієї функції замість градієнтної анізотропної дифузії.  Кожна ітерація рішення займає приблизно вдвічі більше часу.  Однак для досягнення прийнятного рішення може знадобитися менше повторень.</translation>
     </message>
@@ -4065,7 +4061,7 @@ This filter is used to smooth over local minima without affecting the values of 
 
 This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
 
- Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
         <translation type="unfinished"></translation>
@@ -6190,7 +6186,7 @@ The filter assumes that both the source and reference are of the same type and t
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
-        <source>Finite Strain (FS) or 
+        <source>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6414,11 +6410,11 @@ Preservation of the Principal Direction (PPD)</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6516,9 +6512,9 @@ a = Affine Transform</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
-        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
 
-Warning: To resample DWMR Images, use nrrd input and output files. 
+Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
         <translation type="unfinished"></translation>
@@ -6854,11 +6850,11 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19372,7 +19368,7 @@ p, li { white-space: pre-wrap; }
 Graphics capabilities of this computer:
 
 </source>
-        <translation>Додаткову інформацію та допомогу можна отримати на сайті: 
+        <translation>Додаткову інформацію та допомогу можна отримати на сайті:
 %1/user_guide/get_help.html#slicer-application-does-not-start
 
 Графічні можливості цього комп&apos;ютера:
