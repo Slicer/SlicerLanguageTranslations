@@ -34,22 +34,22 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="34"/>
         <source>Institutional affiliation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afiliación institucional:</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="41"/>
         <source>Create a new tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear un nuevo tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="67"/>
         <source>Tutorial title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Título del tutorial:</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="74"/>
         <source>Author name(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre(s) del autor:</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="20"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="109"/>
         <source>Start Recording</source>
-        <translation type="unfinished">Empezar a grabar</translation>
+        <translation>Empezar a grabar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="154"/>
@@ -185,7 +185,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="565"/>
         <source>Add a title here</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir título aquí</translation>
     </message>
     <message>
         <source>Add a tittle here</source>
@@ -237,12 +237,12 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="104"/>
         <source>Create a new Tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear un nuevo tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="111"/>
         <source>Open Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir anotador</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
@@ -254,7 +254,9 @@
         <source>
         The development of this module has been made possible in part by a grant from the Chan Zuckerberg Initiative
         </source>
-        <translation type="unfinished"></translation>
+        <translation>
+        El desarrollo de este módulo ha sido posible en parte gracias a una subvención de la Iniciativa Chan Zuckerberg
+        </translation>
     </message>
     <message>
         <source>
