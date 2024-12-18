@@ -80,7 +80,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avanzado</translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
@@ -108,7 +108,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
         <source>Set the Plus Server Host and Name Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Establezca el host del servidor Plus y el puerto de acceso:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
@@ -121,7 +121,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="165"/>
         <source>Settings</source>
-        <translation type="unfinished">Configuración</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
@@ -141,7 +141,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
         <source>Show Guidelet in full screen</source>
-        <translation type="unfinished">Mostrar la Guía en pantalla completa</translation>
+        <translation>Mostrar la &quot;Guía&quot; en pantalla completa</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="201"/>
@@ -249,7 +249,7 @@ Este trabajo forma parte del proyecto SparKit, financiado por el programa ACRU d
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="44"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parámetros</translation>
+        <translation>Parámetros</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
@@ -299,7 +299,7 @@ Este trabajo forma parte del proyecto SparKit, financiado por el programa ACRU d
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="124"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avanzado</translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
@@ -322,7 +322,7 @@ Este trabajo forma parte del proyecto SparKit, financiado por el programa ACRU d
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation type="unfinished">Añadir</translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
@@ -373,7 +373,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="50"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parámetros</translation>
+        <translation>Parámetros</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="67"/>
@@ -383,37 +383,37 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="68"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="80"/>
         <source>Color image containing texture image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen en color que contiene una imagen con textura.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="81"/>
         <source>Texture:</source>
-        <translation type="unfinished"></translation>
+        <translation>Textura:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="84"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>deshabilitado</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
         <source>RGB vector</source>
-        <translation type="unfinished">Vector RGB</translation>
+        <translation>Vector RGB</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="86"/>
         <source>RGB float vector</source>
-        <translation type="unfinished">Vector flotante RGB</translation>
+        <translation>Vector flotante RGB</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="87"/>
         <source>RGB float components</source>
-        <translation type="unfinished">Componentes flotantes RGB</translation>
+        <translation>Componentes flotantes RGB</translation>
     </message>
     <message>
         <source>RGB vector</source>
@@ -438,7 +438,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="92"/>
         <source>Save color information as point data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar la información de color como datos puntuales:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="99"/>
@@ -800,7 +800,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="19"/>
         <source>Guidelet</source>
-        <translation type="unfinished">Guía</translation>
+        <translation>Guía</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="22"/>
@@ -908,7 +908,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.h" line="50"/>
         <source>Breach Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso de incumplimiento</translation>
     </message>
 </context>
 <context>
@@ -1091,7 +1091,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.h" line="44"/>
         <source>Collect Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Acumular puntos</translation>
     </message>
 </context>
 <context>
@@ -1248,7 +1248,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="68"/>
         <source>Module for creating simple shapes, such as sphere, cylinder, prism, needle, and coordinate system axes.For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo para crear formas sencillas, como esfera, cilindro, prisma, aguja y ejes de sistemas de coordenadas.Para obtener ayuda sobre cómo utilizar este módulo, visite: : &lt;a href=&apos;http://www.slicerigt.org&apos;&gt;sitio web SlicerIGT &lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.cxx" line="75"/>
@@ -1258,7 +1258,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.h" line="44"/>
         <source>Create Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear modelos</translation>
     </message>
 </context>
 <context>
@@ -1563,7 +1563,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModuleWidget.cxx" line="205"/>
         <source>Stop</source>
-        <translation type="unfinished">Parar</translation>
+        <translation>Detener</translation>
     </message>
 </context>
 <context>
@@ -1581,7 +1581,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.h" line="45"/>
         <source>Path Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorador de rutas</translation>
     </message>
 </context>
 <context>
@@ -1988,7 +1988,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="68"/>
         <source>Perform pivot calibration to determine the tool tip&apos;s position, by pivoting the tip of the tool about some fixed point. Perform spin calibration to determine the tool&apos;s orientation, by spinning the tool about its axis. The pivot and spin calibrations can be performed in any order. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Realizar la calibración de pivote para determinar la posición de la punta de la herramienta, haciendo pivotar la punta de la herramienta alrededor de un punto fijo. Realizar la calibración de giro para determinar la orientación de la herramienta, haciendo girar la herramienta sobre su eje. Las calibraciones de pivote y giro pueden realizarse en cualquier orden. Para obtener ayuda sobre cómo utilizar este módulo, visite&lt;a href=&apos;https://www.slicerigt.org&apos;&gt; sitio web SlicerIGT&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="77"/>
@@ -2008,7 +2008,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.h" line="44"/>
         <source>Pivot Calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Calibración del pivote</translation>
     </message>
 </context>
 <context>
@@ -2438,7 +2438,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="92"/>
         <source>This module allows combining, inverting, stabilizing, termporal smoothing of transforms in real-time. For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo permite combinar, invertir, estabilizar y suavizar termporales de transformaciones en tiempo real. Para más información, visite&lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;proyectos del sitio web SlicerIGT &lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.cxx" line="99"/>
@@ -2448,7 +2448,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.h" line="48"/>
         <source>Transform Processor</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesador de transformación</translation>
     </message>
 </context>
 <context>
@@ -2884,7 +2884,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.h" line="49"/>
         <source>Volume Reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstrucción del volumen</translation>
     </message>
 </context>
 <context>
@@ -2942,7 +2942,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="213"/>
         <source>Volume reconstruction</source>
-        <translation type="unfinished">Reconstrucción de volumen</translation>
+        <translation>Reconstrucción de volumen</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="215"/>
@@ -2952,17 +2952,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="316"/>
         <source>Start</source>
-        <translation type="unfinished">Inicio</translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="321"/>
         <source>Stop</source>
-        <translation type="unfinished">Parar</translation>
+        <translation>Detener</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="330"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -3000,7 +3000,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
         <source>Volume Reslice Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Regulador de volumen</translation>
     </message>
 </context>
 <context>
@@ -3018,7 +3018,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.h" line="48"/>
         <source>Watchdog</source>
-        <translation type="unfinished"></translation>
+        <translation>Vigilancia</translation>
     </message>
 </context>
 <context>
@@ -3169,7 +3169,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="390"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="391"/>
@@ -3187,88 +3187,89 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="223"/>
         <source>&apos;From&apos; fiducial list is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha definido la lista fiduciaria «De».</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="230"/>
         <source>&apos;To&apos; fiducial list is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha definido la lista de referencia «Hasta».</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="237"/>
         <source>Output transform is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformación de salida no está definida.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="243"/>
         <source>&apos;From&apos; fiducial list has too few fiducials (minimum 3 required).</source>
-        <translation type="unfinished"></translation>
+        <translation>La lista de referencias «De» tiene muy pocas referencias (se requieren 3 como mínimo).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="248"/>
         <source>&apos;To&apos; fiducial list has too few fiducials (minimum 3 required).</source>
-        <translation type="unfinished"></translation>
+        <translation>La lista de referencias «Hasta» tiene muy pocas referencias (se requieren 3 como mínimo).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="269"/>
         <source>Fiducial lists have unequal number of fiducials (&apos;From&apos; has %1, &apos;To&apos; has %2). Either adjust the lists, or use automatic point matching. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las listas de puntos fiduciales tienen un número desigual de puntos fiduciales («Desde» tiene %1, «Hasta» tiene %2). Ajuste las listas o utilice la coincidencia automática de puntos. Abortar registro.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="286"/>
         <source>Automatic point matching is currently supported only for rigid registration. Currently %1 registration is being used. Unexpected results may occur.</source>
-        <translation type="unfinished"></translation>
+        <translation>La coincidencia automática de puntos sólo se admite actualmente para el registro rígido. Actualmente se está utilizando el registro %1. Pueden producirse resultados inesperados.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="298"/>
         <source>Too many points to compute point pairing %1. To avoid long computation time, there should be at most %2 points. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Demasiados puntos para calcular el emparejamiento de puntos %1. Para evitar un largo tiempo de cálculo, debería haber como máximo %2 puntos. Abortar registro.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="316"/>
         <source>Could not find a good mapping. Mean squared distance error was %1, but tolerance is %2. Results are not expected to be accurate.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo encontrar una buena cartografía. El error de distancia cuadrática media fue %1, pero la tolerancia es %2. No se espera que los resultados sean precisos.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="326"/>
         <source>The &apos;best&apos; point matching is reported as ambiguous and may be incorrect. This could happen because the point geometry is symmetric. Results are not necessarily expected to be accurate.</source>
-        <translation type="unfinished"></translation>
+        <translation>La (mejor) coincidencia de puntos se notifica como ambigua y puede ser incorrecta. Esto puede deberse a que la geometría de los puntos es simétrica. No se espera que los resultados sean necesariamente exactos.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="337"/>
         <source>Unrecognized point matching method: %1. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Método de coincidencia de puntos no reconocido: %1. Abortando registro.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="347"/>
         <source>&apos;From&apos; fiducial list has strictly collinear or singular points.</source>
-        <translation type="unfinished"></translation>
+        <translation>La lista de puntos de referencia «Desde» tiene puntos estrictamente colineales o singulares.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="354"/>
         <source>&apos;To&apos; fiducial list has strictly collinear or singular points.</source>
-        <translation type="unfinished"></translation>
+        <translation>La lista de puntos fiduciales «Hasta» tiene puntos estrictamente colineales o singulares.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="400"/>
         <source>Warping transform cannot be stored
 in linear transform node</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformación warping no puede almacenarse
+en el nodo de transformación lineal</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="452"/>
         <source>Invalid transform type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de transformación no válido.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="460"/>
         <source>Failed to retreive transform from node. RMS Error could not be evaluated.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido recuperar la transformación del nodo. No se ha podido evaluar el error RMS.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="466"/>
         <source>Registration Complete. RMS Error: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro completado. Error RMS: %1.</translation>
     </message>
 </context>
 </TS>
