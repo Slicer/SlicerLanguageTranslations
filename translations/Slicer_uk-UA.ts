@@ -4808,17 +4808,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="12"/>
         <source>Input model 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідна модель 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="13"/>
         <source>Input model 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідна модель 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="14"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідна Модель</translation>
     </message>
 </context>
 <context>
@@ -4826,32 +4826,32 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="4"/>
         <source>Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>Творець моделей</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Створюйте 3D-моделі поверхні із сегментованих даних.&lt;p&gt;Моделі імпортуються в Slicer під вузлом ієрархії моделі в сцені MRML. Кольори моделі встановлюються таблицею кольорів, пов’язаною з вхідним обсягом (ці кольори будуть видимі, лише якщо ви завантажите файл сцени моделі).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Укажіть &lt;i&gt;Вхідний том&lt;/i&gt;, який є сегментованим обсягом карти міток. Створіть нову ієрархію &lt;i&gt;Моделей&lt;/i&gt;, щоб створити структуру для моделей повернення, створених із вхідного обсягу.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Створити кілька:&lt;/b&gt;&lt;/p&gt;&lt;p &gt;Якщо ви вкажете список &lt;i&gt;Міток&lt;/i&gt;, він матиме перевагу над будь-якими параметрами початкової/кінцевої мітки.&lt;/p&gt;&lt;p&gt;Якщо ви натиснете &lt;i&gt;Створити все&lt;/i&gt;, це буде замінено список міток і будь-які налаштування початкової/кінцевої мітки.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Параметри Model Maker:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ви можете встановити кількість ітерацій згладжування, цільове зменшення кількості полігонів (десятковий відсоток) . Використовуйте 0 і 1, якщо ви не бажаєте ні згладжування, ні децимації.&lt;br&gt;Ви також можете встановити прапорці для розділення нормалей або генерування точкових нормалей на цій панелі.&lt;br&gt;Ви можете зберегти копію моделей після проміжних кроків (маршуючих кубів). , згладжування та децимація, якщо не спільне згладжування, інакше відразу після децимації); ці моделі не зберігаються у файлі mrml, спочатку вимкніть видалення тимчасових файлів у вікні python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Ця робота є частиною National Alliance for Medical Image Computing (NAMIC), що фінансується National Institutes of Health через NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Ця робота є частиною Національного альянсу з обробки медичних зображень (NAMIC), що фінансується Національними інститутами охорони здоров’я через Дорожню карту NIH для медичних досліджень, грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Параметри введення/виведення</translation>
+        <translation>Параметри введення/виведення</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідна гучність</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
@@ -4861,209 +4861,209 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
         <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Карта вхідних міток. У розкривному меню «Вхідний об’єм» містяться об’єми карти міток, наявні в сцені. Виберіть той, з якого потрібно створити моделі.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"/>
         <source>Color table to make labels to colors and objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Таблиця кольорів для створення міток до кольорів і об’єктів</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Згенеровані моделі під вузлом ієрархії моделей. Моделі імпортуються в Slicer під вузлом ієрархії моделі, а їхні кольори встановлюються таблицею кольорів, пов’язаною з об’ємом карти вхідних міток. Вузол ієрархії моделі необхідно створити перед запуском виробника моделей, вибравши «Створити нову ієрархію моделей» у спадному меню «Моделі». Якщо ви працюєте з командного рядка, для вас буде створено вузол ієрархії моделі в новій сцені mrml.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
         <source>Create Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити декілька</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="15"/>
         <source>Create more than one model at the same time, used for continuous ranges of labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Створюйте більше ніж одну модель одночасно, використовуйте для безперервних діапазонів міток.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва моделі</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="17"/>
         <source>Generate All Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити всі моделі</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="18"/>
         <source>Name to use for this model. Any text entered in the entry box will be the starting string for the created model file names. The label number and the color name will also be part of the file name. If making multiple models, use this as a prefix to the label and color name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва для цієї моделі. Будь-який текст, введений у поле введення, буде початковим рядком для імен файлів створених моделей. Номер етикетки та назва кольору також будуть частиною імені файлу. Якщо створюєте кілька моделей, використовуйте це як префікс до назви етикетки та кольору.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити моделі для всіх міток у вхідному обсязі. виберіть цей параметр, якщо ви хочете створити всі моделі, які відповідають усім значенням в об’ємі карти міток (з цим параметром корисно використовувати параметр Joint Smoothing нижче). Ігнорує налаштування міток, початкової та кінцевої міток. Пропускає мітку 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
         <source>Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри Model Maker</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="21"/>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри, які використовуються для виготовлення моделей.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"/>
         <source>Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>етикетки</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="23"/>
         <source>Start Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Початкова мітка</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="24"/>
         <source>End Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Кінцева мітка</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="25"/>
         <source>Skip Un-Named Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустити мітки без імен</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="26"/>
         <source>Joint Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Згладжування швів</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="27"/>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Гладкий</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="28"/>
         <source>Filter Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип фільтра</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="29"/>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation>Знищити</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="30"/>
         <source>Split Normals</source>
-        <translation type="unfinished"></translation>
+        <translation>Розділені нормалі</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="31"/>
         <source>Point Normals</source>
-        <translation type="unfinished"></translation>
+        <translation>Точкові нормалі</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="32"/>
         <source>Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>pad</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
         <source>A comma separated list of label values from which to make models. f you specify a list of Labels, it will override any start/end label settings. If you click Generate All Models it will override the list of labels and any start/end label settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Відокремлений комами список значень міток, з яких можна створити моделі. Якщо ви вкажете список міток, він замінить будь-які параметри початкової/кінцевої мітки. Якщо ви натиснете «Створити всі моделі», це перевизначить список міток і будь-які параметри початкової/кінцевої мітки.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
-        <translation type="unfinished"></translation>
+        <translation>Якщо ви хочете вказати безперервний діапазон міток, на основі яких генеруватимуться моделі, введіть тут нижню мітку. Значення вокселя, з якого починають створювати моделі. Використовується замість списку міток для визначення діапазону (переконайтеся, що список міток порожній, інакше він замінить це).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the higher label here. Voxel value up to which to continue making models. Skip any values with zero voxels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Якщо ви бажаєте вказати безперервний діапазон міток, на основі яких генеруватимуться моделі, введіть тут найвищу мітку. Значення вокселя, до якого можна продовжувати створювати моделі. Пропустити будь-які значення з нульовими вокселями.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"/>
         <source>Select this to not generate models from labels that do not have names defined in the color look up table associated with the input label map. If true, only models which have an entry in the color table will be generated.  If false, generate all models that exist within the label range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть цей параметр, щоб не створювати моделі з міток, які не мають назв, визначених у таблиці пошуку кольорів, пов’язаній із картою вхідних міток. Якщо значення true, створюватимуться лише ті моделі, які мають запис у таблиці кольорів.  Якщо false, генерувати всі моделі, які існують у діапазоні міток.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"/>
         <source>This will ensure that all resulting models fit together smoothly, like jigsaw puzzle pieces. Otherwise the models will be smoothed independently and may overlap.</source>
-        <translation type="unfinished"></translation>
+        <translation>Це забезпечить гладке з’єднання всіх отриманих моделей, як частини пазла. Інакше моделі будуть згладжені незалежно один від одного і можуть перекриватися.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"/>
         <source>Here you can set the number of smoothing iterations for Laplacian smoothing, or the degree of the polynomial approximating the windowed Sinc function. Use 0 if you wish no smoothing. </source>
-        <translation type="unfinished"></translation>
+        <translation>Тут ви можете встановити кількість ітерацій згладжування для лапласівського згладжування або ступінь полінома, що апроксимує віконну функцію Sinc. Використовуйте 0, якщо ви не бажаєте згладжування. </translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
         <source>You can control the type of smoothing done on the models by selecting a filter type of either Sinc or Laplacian.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви можете керувати типом згладжування, виконаного на моделях, вибравши тип фільтра Sinc або Laplacian.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
         <source>Chose the target reduction in number of polygons as a decimal percentage (between 0 and 1) of the number of polygons. Specifies the percentage of triangles to be removed. For example, 0.1 means 10% reduction and 0.9 means 90% reduction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть цільове зменшення кількості полігонів як десятковий відсоток (від 0 до 1) від кількості полігонів. Визначає відсоток трикутників, які потрібно видалити. Наприклад, 0,1 означає 10% зниження, а 0,9 означає 90% зниження.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"/>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affects measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Розбиття нормалей корисно для візуалізації чітких елементів. Однак це створює отвори в поверхнях, що впливає на вимірювання.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
         <source>Turn this flag on if you wish to calculate the normal vectors for the points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкніть цей прапорець, якщо ви бажаєте обчислити вектори нормалей для точок.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
         <source>Pad the input volume with zero value voxels on all 6 faces in order to ensure the production of closed surfaces. Sets the origin translation and extent translation so that the models still line up with the unpadded input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заповніть вхідний об’єм вокселями з нульовим значенням на всіх 6 гранях, щоб забезпечити створення закритих поверхонь. Встановлює початковий переклад і трансляцію екстенту так, щоб моделі все ще збігалися з незаповненим обсягом введення.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="45"/>
         <source>Sinc</source>
-        <translation type="unfinished"></translation>
+        <translation>sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="46"/>
         <source>Laplacian</source>
-        <translation type="unfinished"></translation>
+        <translation>лапласівський</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="50"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Налагодження</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="48"/>
         <source>Color Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ієрархія кольорів</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="49"/>
         <source>Save Intermediate Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти проміжні моделі</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
         <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл mrml, який містить дерево ієрархії моделі шаблону з вузлом ієрархії для кожного кольору, що використовується в таблиці кольорів вхідного обсягу. Назви кольорів, які використовуються для моделей, зіставляються з назвами ієрархії шаблонів для створення багаторівневого дерева виводу. Створіть ієрархію в GUI моделей і збережіть сцену, а потім очистіть її, щоб видалити все, крім ієрархії моделі та вузлів відображення.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви можете зберегти копію моделей після кожного з проміжних кроків (маршируючі куби, згладжування та децимація, якщо не згладжування спільне, інакше відразу після децимації). Ці проміжні моделі не зберігаються у файлі mrml, їх потрібно завантажити вручну після вимкнення видалення тимчасових файлів у консолі python (View -&gt;Python Interactor) за допомогою наступної команди slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
         <source>turn this flag on in order to see debugging output (look in the Error Log window that is accessed via the View menu)</source>
-        <translation type="unfinished"></translation>
+        <translation>увімкніть цей прапорець, щоб побачити вихідні дані налагодження (подивіться у вікні журналу помилок, до якого можна отримати доступ через меню «Перегляд»)</translation>
     </message>
 </context>
 <context>
@@ -5071,77 +5071,77 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="4"/>
         <source>Model To LabelMap</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель для LabelMap</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"/>
         <source>Intersects an input model with a reference volume and produces an output label map, filling voxels inside the model with the specified label value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетинає вхідну модель із еталонним об’ємом і створює вихідну карту міток, заповнюючи вокселі всередині моделі вказаним значенням мітки.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Ця робота є частиною National Alliance for Medical Image Computing (NAMIC), що фінансується National Institutes of Health через NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Ця робота є частиною Національного альянсу з обробки медичних зображень (NAMIC), що фінансується Національними інститутами охорони здоров’я через Дорожню карту NIH для медичних досліджень, грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Налаштування</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="8"/>
         <source>Parameter settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування параметрів</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="9"/>
         <source>Label value</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення мітки</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="10"/>
         <source>The unsigned char label value to use in the output label map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення мітки без знаку для використання у вихідній карті міток.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="12"/>
         <source>Input/output</source>
-        <translation type="unfinished"></translation>
+        <translation>Введення/виведення</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідна гучність</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний обсяг</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
         <source>Output volume will have the same origin, spacing, axis directions, and extent as this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний об’єм матиме той самий початок, відстань, напрямок осі та розмір, що й цей об’єм.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="17"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідна модель</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="18"/>
         <source>Unsigned char label map volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Обсяг карти мітки без знаку</translation>
     </message>
 </context>
 <context>
@@ -5149,77 +5149,77 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="5"/>
         <source>Multiply Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Множення скалярних томів</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="6"/>
         <source>Multiplies two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемножує два зображення. Хоча всі типи зображень підтримуються на вході, створюються лише підписані типи. Два зображення не обов’язково повинні мати однакові розміри.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Ця робота є частиною National Alliance for Medical Image Computing (NAMIC), що фінансується National Institutes of Health через NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Ця робота є частиною Національного альянсу з обробки медичних зображень (NAMIC), що фінансується Національними інститутами охорони здоров’я через Дорожню карту NIH для медичних досліджень, грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Параметри введення/виведення</translation>
+        <translation>Параметри введення/виведення</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідний том 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідний том 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний обсяг</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідний обсяг 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідний обсяг 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"/>
         <source>Volume1 * Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume1 * Volume2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Елементи управління</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished"></translation>
+        <translation>Керуйте роботою модуля</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation>Порядок інтерполяції</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Порядок інтерполяції, якщо два зображення знаходяться в різних системах координат або мають різну вибірку.</translation>
     </message>
 </context>
 <context>
@@ -5227,12 +5227,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="4"/>
         <source>N4ITK MRI Bias correction</source>
-        <translation type="unfinished"></translation>
+        <translation>N4ITK МРТ Корекція зсуву</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"/>
         <source>Performs image bias correction using N4 algorithm. This module is based on the ITK filters contributed in the following publication:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконує корекцію зсуву зображення за допомогою алгоритму N4. Цей модуль базується на фільтрах ITK, наданих у наступній публікації: Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009, січень-червень, https://hdl.handle.net /10380/3053</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
@@ -5242,163 +5242,163 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Параметри введення/виведення</translation>
+        <translation>Параметри введення/виведення</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вхідне зображення</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="10"/>
         <source>Mask Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Зображення маски</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний обсяг</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"/>
         <source>Output bias field image</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідне зображення поля зміщення</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="13"/>
         <source>Input image where you observe signal inhomegeneity</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть зображення, на якому спостерігаєте неоднорідність сигналу</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="14"/>
         <source>Binary mask that defines the structure of your interest. NOTE: This parameter is OPTIONAL. If the mask is not specified, the module will use internally Otsu thresholding to define this mask. Better processing results can often be obtained when a meaningful mask is defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Бінарна маска, яка визначає структуру вашого інтересу. ПРИМІТКА. Цей параметр є НЕОБОВ’ЯЗКОВИМ. Якщо маску не вказано, модуль використовуватиме внутрішнє порогове значення Otsu для визначення цієї маски. Кращі результати обробки часто можна отримати, коли визначено значущу маску.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="15"/>
         <source>Result of processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Результат обробки</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="16"/>
         <source>Recovered bias field (OPTIONAL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Відновлене поле зміщення (НЕОБОВ’ЯЗКОВО)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="17"/>
         <source>N4 Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри N4</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="18"/>
         <source>BSpline grid resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Роздільна здатність сітки BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="19"/>
         <source>Spline distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Шліцева відстань</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="20"/>
         <source>Bias field Full Width at Half Maximum</source>
-        <translation type="unfinished"></translation>
+        <translation>Повна ширина поля зсуву на половину максимуму</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"/>
         <source>Resolution of the initial bspline grid defined as a sequence of three numbers. The actual resolution will be defined by adding the bspline order (default is 3) to the resolution in each dimension specified here. For example, 1,1,1 will result in a 4x4x4 grid of control points. This parameter may need to be adjusted based on your input image. In the multi-resolution N4 framework, the resolution of the bspline grid at subsequent iterations will be doubled. The number of resolutions is implicitly defined by Number of iterations parameter (the size of this list is the number of resolutions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Роздільна здатність початкової сітки bspline, визначеної як послідовність із трьох чисел. Фактичну роздільну здатність буде визначено шляхом додавання порядку bspline (за замовчуванням 3) до роздільної здатності в кожному розмірі, вказаному тут. Наприклад, 1,1,1 призведе до сітки 4x4x4 контрольних точок. Цей параметр може знадобитися налаштувати на основі вхідного зображення. У структурі N4 з кількома роздільними здатностями роздільна здатність сітки bspline на наступних ітераціях буде подвоєна. Кількість дозволів неявно визначається параметром «Кількість ітерацій» (розмір цього списку — це кількість дозволів)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"/>
         <source>An alternative means to define the spline grid, by setting the distance between the control points. This parameter is used only if the grid resolution is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Альтернативний спосіб визначити сплайн-сітку, встановивши відстань між контрольними точками. Цей параметр використовується, лише якщо не вказано роздільну здатність сітки.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="23"/>
         <source>Bias field Full Width at Half Maximum. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Повна ширина поля зсуву на половину максимуму. Нуль передбачає використання значення за замовчуванням.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="24"/>
         <source>Advanced N4 Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Розширені параметри N4</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="25"/>
         <source>Advanced parameters of the algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Розширені параметри алгоритму</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="26"/>
         <source>Number of iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість Ітерацій</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="27"/>
         <source>Convergence threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Поріг конвергенції</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="28"/>
         <source>BSpline order</source>
-        <translation type="unfinished"></translation>
+        <translation>Порядок BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="29"/>
         <source>Shrink factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Коефіцієнт усадки</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="30"/>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="37"/>
         <source>Weight Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Зображення ваги</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="31"/>
         <source>Wiener filter noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Шум фільтра Вінера</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="32"/>
         <source>Number of histogram bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість Бінів гістограми</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="33"/>
         <source>Maximum number of iterations at each level of resolution. Larger values will increase execution time, but may lead to better results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальна кількість ітерацій на кожному рівні роздільної здатності. Більші значення збільшать час виконання, але можуть призвести до кращих результатів.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="34"/>
         <source>Stopping criterion for the iterative bias estimation. Larger values will lead to smaller execution time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Критерій зупинки для оцінки ітераційного зсуву. Більші значення призведуть до меншого часу виконання.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="35"/>
         <source>Order of B-spline used in the approximation. Larger values will lead to longer execution times, may result in overfitting and poor result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Порядок B-сплайна, який використовується в апроксимації. Більші значення призведуть до довшого часу виконання, можуть призвести до переобладнання та поганого результату.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
         <source>Defines how much the image should be upsampled before estimating the inhomogeneity field. Increase if you want to reduce the execution time. 1 corresponds to the original resolution. Larger values will significantly reduce the computation time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Визначає, наскільки зображення має бути підвищено перед оцінкою поля неоднорідності. Збільште, якщо ви хочете зменшити час виконання. 1 відповідає вихідній резолюції. Більші значення значно скоротять час обчислення.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="38"/>
         <source>Wiener filter noise. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Шум фільтра Вінера. Нуль передбачає використання значення за замовчуванням.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="39"/>
         <source>Number of histogram bins. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість бінів гістограми. Нуль передбачає використання значення за замовчуванням.</translation>
     </message>
 </context>
 <context>
@@ -5406,17 +5406,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="4"/>
         <source>Orient Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Орієнтувати скалярний обсяг</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"/>
         <source>Orients an output volume. Rearranges the slices in a volume according to the selected orientation. The slices are not interpolated. They are just reordered and/or permuted. The resulting volume will cover the original volume. NOTE: since Slicer takes into account the orientation of a volume, the re-oriented volume will not show any difference from the original volume, To see the difference, save the volume and display it with a system that either ignores the orientation of the image (e.g. Paraview) or displays individual images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Орієнтує вихідний обсяг. Переставляє фрагменти в об’ємі відповідно до вибраної орієнтації. Зрізи не інтерполюються. Їх просто перевпорядковують і/або переставляють. Отриманий обсяг перекриє початковий обсяг. ПРИМІТКА: оскільки Slicer враховує орієнтацію об’єму, змінений об’єм не відрізнятиметься від вихідного об’єму. Щоб побачити різницю, збережіть об’єм і відобразіть його за допомогою системи, яка або ігнорує орієнтацію зображення. (наприклад, Paraview) або відображає окремі зображення.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Ця робота є частиною National Alliance for Medical Image Computing (NAMIC), що фінансується National Institutes of Health через NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Ця робота є частиною Національного альянсу з обробки медичних зображень (NAMIC), що фінансується Національними інститутами охорони здоров’я через Дорожню карту NIH для медичних досліджень, грант U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
