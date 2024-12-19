@@ -4356,13 +4356,13 @@ The filter was originally designed to normalize MR images of the sameMR protocol
  Number of match points governs the number of quantile values to be matched.
 
 The filter assumes that both the source and reference are of the same type and that the input and output image type have the same number of dimension and have scalar pixel types.</source>
-        <translation type="unfinished">根据参考图像的灰度值对源图像的灰度值进行标准化。  这个过滤器使用直方图匹配技术，两幅图像的直方图只在指定数量的四分位值上进行匹配。
+        <translation>根据参考图像的灰度值，对源图像的灰度值进行标准化。  该过滤器使用直方图匹配技术，只在指定数量的分位值上匹配两幅图像的直方图。
 
-该过滤器最初被设计用来规范同一MR协议和同一身体部位的MR图像。如果将背景像素从源和参考直方图中排除，该算法的效果最好。  一个简单的背景排除方法是排除所有灰度值小于平均灰度值的像素。ThresholdAtMeanIntensity开启了这种简单的背景排除方法。
+该过滤器最初设计用来规范MR协议和身体部位都相同的MR图像。如果排除源直方图和参考直方图的背景像素，算法的效果会最好。  一个简单的背景排除方法是排除所有灰度值小于平均值的像素，ThresholdAtMeanIntensity就是用的这种方法。
 
- 匹配点的数量制约着要匹配的量化值的数量。
+ 匹配点的数量决定了要匹配分位数值的数量。
 
-该过滤器假定源和参考都是相同的类型，输入和输出图像类型有相同的维数，并且有标量像素类型。</translation>
+该过滤器假定源和参考的类型相同，输入和输出图像类型的维数相同且都有标量像素类型。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
