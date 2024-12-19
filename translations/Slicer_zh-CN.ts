@@ -4327,7 +4327,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="27"/>
         <source>Advanced</source>
-        <translation type="unfinished">高级</translation>
+        <translation>高级</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="28"/>
