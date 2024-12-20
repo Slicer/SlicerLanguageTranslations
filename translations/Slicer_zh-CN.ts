@@ -6,7 +6,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation>添加数据</translation>
+        <translation>添加标量体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
