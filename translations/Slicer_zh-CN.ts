@@ -4554,7 +4554,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"/>
         <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
-        <translation type="unfinished">要光滑的标签。  所有其他的将被忽略。  如果用户没有选择标签，则默认选择图像中的最大标签。</translation>
+        <translation>要光滑处理的标签。  其他的将会被忽略。  如果用户没有选择，则默认选择图像中最大的标签。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"/>
