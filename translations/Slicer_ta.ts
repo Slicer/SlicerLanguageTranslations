@@ -21,7 +21,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation>Io</translation>
+        <translation>உவெ</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
@@ -84,12 +84,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation>டி.டபிள்யூ.ஐ தூய்மைப்படுத்தும் (மூளை)</translation>
+        <translation>டிடபிள்யூஐ தூய்மைப்படுத்தும் (மூளை)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
         <source>Remove bad gradients/volumes from DWI NRRD file.</source>
-        <translation>DWI NRRD கோப்பிலிருந்து மோசமான சாய்வு/தொகுதிகளை அகற்றவும்.</translation>
+        <translation>டிடபிள்யூஐ என்ஆர்ஆர்டி கோப்பிலிருந்து மோசமான சாய்வு/தொகுதிகளை அகற்றவும்.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation>மோசமான சாய்வுகளுடன் NRRD கோப்பு அகற்றப்பட்டது.</translation>
+        <translation>மோசமான சாய்வுகளுடன் என்ஆர்ஆர்டி கோப்பு அகற்றப்பட்டது.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
@@ -114,7 +114,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation>தேவை: உள்ளீட்டு படம் 4D NRRD படம்.</translation>
+        <translation>தேவை: உள்ளீட்டு படம் 4D என்ஆர்ஆர்டி படம்.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
@@ -127,12 +127,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation>T1/T2 படத்திலிருந்து (மூளை) மூளை தீங்கு விளைவிக்கும்</translation>
+        <translation>டி1/டி2 படத்திலிருந்து (மூளை) மூளை தீங்கு விளைவிக்கும்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation>இந்த நிரல்: 1) படங்களின் தொகுப்பிலிருந்து படங்களை தீட்டுகிறது. உள்ளீடுகள் ACPC சீரமைக்கப்பட்டதாக இருக்க வேண்டும், மேலும் AC, PC, LE, RE வழங்க வேண்டும்.</translation>
+        <translation>இந்த நிரல்: 1) படங்களின் தொகுப்பிலிருந்து படங்களை தீட்டுகிறது. உள்ளீடுகள் ஏசிபிசி சீரமைக்கப்பட்டதாக இருக்க வேண்டும், மேலும் ஏசி, பிசி, LE, RE வழங்க வேண்டும்.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
         <source>Input images, all images must be in the exact same physical space, ACPC aligned and consistent with landmarks.</source>
-        <translation>உள்ளீட்டு படங்கள், எல்லா படங்களும் சரியான ஒரே ப இடைவெளி தீக இடத்தில் இருக்க வேண்டும், ஏ.சி.பி.சி சீரமைக்கப்பட்ட மற்றும் அடையாளங்களுடன் ஒத்துப்போகிறது.</translation>
+        <translation>உள்ளீட்டு படங்கள், எல்லா படங்களும் சரியான ஒரே ப இடைவெளி தீக இடத்தில் இருக்க வேண்டும், ஏசிபிசி சீரமைக்கப்பட்ட மற்றும் அடையாளங்களுடன் ஒத்துப்போகிறது.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
@@ -233,7 +233,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
         <source>Run Mode</source>
-        <translation>ரன் பயன்முறை</translation>
+        <translation>ஓடு பயன்முறை</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
@@ -306,7 +306,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation>இந்த வரம்பிற்கு வெளியே மதிப்புகளை &quot;வெளிப்புற மதிப்பு&quot; என்று கிளிப் செய்ய வேண்டாம்</translation>
+        <translation>இந்த வரம்பிற்கு வெளியே மதிப்புகளை &quot;வெளிப்புற மதிப்பு&quot; என்று வெட்ட வேண்டாம்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
@@ -455,12 +455,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
         <source>useMomentsAlign</source>
-        <translation>usemomentign</translation>
+        <translation>பயன்படுத்துநாழிஒழுங்கு</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation>usecenterofheadealign</translation>
+        <translation>பயன்படுத்துநடுதலைஒழுங்கு</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
@@ -470,7 +470,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
         <source>useCenterOfROIAlign</source>
-        <translation>usecenterofroialign</translation>
+        <translation>பயன்படுத்துவிருப்பப்பகுதிநடுஒழுங்கு</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
@@ -1796,7 +1796,7 @@ This program is useful for downsampling an image by a constant scale factor.
         <source>
   </source>
         <translation>
-</translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
@@ -5875,7 +5875,7 @@ The filter assumes that both the source and reference are of the same type and t
         <source>
   </source>
         <translation>
-</translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
@@ -7455,7 +7455,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation>&lt;p&gt; ஒரு படத்தை வாசிக்கவும். &lt;/p&gt; &lt;p&gt; பட மதிப்புகளைப் பயனர் குறிப்பிட்ட வெளிப்புற மதிப்புக்குக் கீழே, மேலே, அல்லது எளிய வாசல் மதிப்புகளுக்கு இடையில் அமைக்கவும். &lt;/p&gt; &lt;p&gt; வாசல்: அல்லது வாசல் மதிப்புக்குச் சமம் வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது.&lt;p&gt; -பர் வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt; ஒரு படத்தை வாசிக்கவும். &lt;/p&gt; &lt;p&gt; பட மதிப்புகளைப் பயனர் குறிப்பிட்ட வெளிப்புற மதிப்புக்குக் கீழே, மேலே, அல்லது எளிய வாசல் மதிப்புகளுக்கு இடையில் அமைக்கவும். &lt;/p&gt; &lt;p&gt; வாசல்: அல்லது வாசல் மதிப்புக்குச் சமம் வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது.&lt;/p&gt;&lt;p&gt; வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
@@ -8601,7 +8601,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
         <translation>
 இந்த வேலையை PAR-07-249 ஆதரிக்கிறது: R01CA131718 NA-MIC மெய்நிகர் கொலோனோச்கோபி
- .
+(காண்க&lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
  NA-MIC, NAC, BRN, NCIGT, மற்றும் ச்லைசர் சமூகம்.
 </translation>
     </message>
@@ -9672,7 +9672,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="247"/>
         <source>Length of the exported video in seconds (without backward steps and repeating).</source>
-        <translation>ஏற்றுமதி செய்யப்பட்ட வீடியோவின் நீளம் விநாடிகளில் (பின்தங்கிய படிகள் மற்றும் மீண்டும் மீண்டும் இல்லாமல்).</translation>
+        <translation>ஏற்றுமதி செய்யப்பட்ட காணொளியின் நீளம் நொடிகளில் (பின்தங்கிய படிகள் மற்றும் மீண்டும் இல்லாமல்).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="238"/>
@@ -9722,7 +9722,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="283"/>
         <source>Number of times image series are repeated. Useful for making short videos longer for playback in software that does not support looped playback.</source>
-        <translation>படத் தொடர் மீண்டும் மீண்டும் செய்யப்படுகிறது. லூப் செய்யப்பட்ட பிளேபேக்கை ஆதரிக்காத மென்பொருளில் பிளேபேக்கிற்கு குறுகிய வீடியோக்களை நீண்ட நேரம் தயாரிக்க பயனுள்ளதாக இருக்கும்.</translation>
+        <translation>படத் தொடர் மீண்டும் செய்யப்படுகிறது. லூப் செய்யப்பட்ட பிளேபேக்கை ஆதரிக்காத மென்பொருளில் பிளேபேக்கிற்கு குறுகிய வீடியோக்களை நீண்ட நேரம் தயாரிக்க பயனுள்ளதாக இருக்கும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="284"/>
@@ -9777,7 +9777,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="321"/>
         <source>Maximum number of images to be captured (without backward steps and repeating).</source>
-        <translation>கைப்பற்றப்பட வேண்டிய அதிகபட்ச படங்கள் (பின்தங்கிய படிகள் மற்றும் மீண்டும் மீண்டும் இல்லாமல்).</translation>
+        <translation>கைப்பற்றப்பட வேண்டிய அதிகபட்ச படங்கள் (பின்தங்கிய படிகள் மற்றும் மீண்டும் இல்லாமல்).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="322"/>
@@ -10627,7 +10627,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="59"/>
         <source>Click &lt;dfn&gt;Show details&lt;/dfn&gt; link above for description of operations.</source>
-        <translation>செயல்பாடுகளின் விளக்கத்திற்கு மேலே உள்ள &lt;/dfn&gt; இணைப்பைக் காண்பி &lt;/dfn&gt; என்பதைக் சொடுக்கு செய்க.</translation>
+        <translation>செயல்பாடுகளின் விளக்கத்திற்கு மேலே உள்ள &lt;dfn&gt; இணைப்பைக் காண்பி &lt;/dfn&gt; என்பதைக் சொடுக்கு செய்க.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="61"/>
@@ -12628,7 +12628,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
         <source>Scene view</source>
-        <translation>காட்சி காட்சி</translation>
+        <translation>காட்சி பார்வை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
@@ -12648,12 +12648,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="177"/>
         <source>SceneView Name</source>
-        <translation>காட்சி காட்சி பெயர்</translation>
+        <translation>காட்சிபார்வை பெயர்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
         <source>SceneView Name:</source>
-        <translation>காட்சி காட்சி பெயர்:</translation>
+        <translation>காட்சிபார்வை பெயர்:</translation>
     </message>
 </context>
 <context>
@@ -18817,7 +18817,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="4"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாடுகள்</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="4"/>
