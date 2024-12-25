@@ -760,7 +760,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
