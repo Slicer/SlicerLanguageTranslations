@@ -6,47 +6,47 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="17"/>
         <source>Download, compile, and install latest translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Stáhněte, zkompilujte a nainstalujte nejnovější překlady</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="20"/>
         <source>Update translation files</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizujte soubory překladu</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="193"/>
         <source>Input translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstupní překlady</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="202"/>
         <source>Input folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>vstupní složka:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="212"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>jazyky:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="222"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate (nejnovější překlady)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="229"/>
         <source>GitHub (updated daily)</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub (aktualizováno denně)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="236"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished"></translation>
+        <translation>Místní složka (pro použití offline)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="243"/>
         <source>Latest file only:</source>
-        <translation type="unfinished"></translation>
+        <translation>pouze nejnovější soubor:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="253"/>
@@ -61,12 +61,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="263"/>
         <source>Select language(s) that will be downloaded and installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte jazyk(y), které budou staženy a nainstalovány.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="270"/>
         <source>Folder containing translation (.ts) files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Složka obsahující soubory překladu (.ts).</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="285"/>
@@ -76,27 +76,27 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="151"/>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation>jazyk aplikace:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="164"/>
         <source>Change only takes effect after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Změna se projeví až po restartování aplikace.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="174"/>
         <source>Restart the application to see updated translations on the graphical user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Restartujte aplikaci, abyste viděli aktualizované překlady v grafickém uživatelském rozhraní.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="177"/>
         <source>Restart the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Restartujte aplikaci</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="27"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokročilá nastavení</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="39"/>
@@ -121,22 +121,22 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
         <source>GitHub repository URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL úložiště GitHub:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="83"/>
         <source>Github repository that stores the translated strings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Repozitář Github, který ukládá přeložené řetězce.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="93"/>
         <source>Weblate download URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL ke stažení Weblate:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="100"/>
         <source>Weblate project that stores the translated strings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate projekt, který ukládá přeložené řetězce.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
@@ -151,17 +151,17 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="126"/>
         <source>Show more...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit více...</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="301"/>
         <source>Find text</source>
-        <translation type="unfinished"></translation>
+        <translation>Najít text</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="313"/>
         <source>Enable text finder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit textový vyhledávač:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="322"/>
