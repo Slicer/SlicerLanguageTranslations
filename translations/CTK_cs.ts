@@ -78,7 +78,7 @@
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="196"/>
         <source>Closing %1 running modules</source>
         <extracomment>%1 is the number of running modules</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zavírání %1 spuštěných modulů</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="197"/>
