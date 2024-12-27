@@ -4836,117 +4836,117 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation>Ovaj rad je deo Nacionalne Alijence za medicinsku sliku kompijutering, finansiranu od nacionalno instituta zdravlja krog NIH putnu mapu za medikalna istraživanja, grant U54EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Input/Output Parameters</translation>
+        <translation>ulazni/izlazni parametri</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>ulazna jačina zvuka</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>modeli</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
         <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa ulaznih oznaka. Padajući meni unos jačine zvuka je popunjen zapreminama mape oznaka koje u prisutne u sceni, izaberite jednu iz koje ćete generisati modele.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"/>
         <source>Color table to make labels to colors and objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Obojite tabelu da pretvorite lebele u boje i objekte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generisani modeli, pod modelnim hirerahijskim modom. Modeli u uneti u sekač pod modelnim hijerarhijskim modom, i njihovim boje su podešene po boji tabele povezane sa unosni label map jačinom zvuka. Modelni hijerarhijski mod treba biti napravljen pre pokretanja model stvarača, izabrajući Napravi novi model| Hijerarhija iz modeli drop menija. Ako otvaraš iz komandne linije, modelni hijerarhijski nod u novoj mrml sceni će biti stvoren za tebe.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
         <source>Create Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Napravi duplo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="15"/>
         <source>Create more than one model at the same time, used for continuous ranges of labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Napravi više od jednog modela u isto vreme, korišćeni za ponavljajuće rangove tabele.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished">Назив модела</translation>
+        <translation>Ime modela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="17"/>
         <source>Generate All Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Generiši sve modele</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="18"/>
         <source>Name to use for this model. Any text entered in the entry box will be the starting string for the created model file names. The label number and the color name will also be part of the file name. If making multiple models, use this as a prefix to the label and color name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imenuj za korišćenje ovog modela. Svaki tekst unet u polje za unos će biti početni tekst za ime fajla kreiranih modela. Broj labela i ime boje će takođe biti deo imena fajla. Ako praviš duple modele, koristi ovo kao prefiks za label i ime boje.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generiši modele za sve labele u unosnoj jačini zvuka. Izaberi ovu opciju ako želiš da napraviš sve modele koji odgovaraju svim vrednostima u labelmap jačini zvuka (korišćenje Joint Smoothing opcije ispod je korisno sa ovom opcijom). Ignoriši labele, početnu labelu, završnu labelu podešavanja. Preskoči labelu 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
         <source>Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri stvarača modela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="21"/>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished">Параметри који се користе за креирање модела.</translation>
+        <translation>Parametri korišćeni za stvaranje modela.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"/>
         <source>Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Labele</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="23"/>
         <source>Start Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Početna labela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="24"/>
         <source>End Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Završna labela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="25"/>
         <source>Skip Un-Named Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Preskoči neimenovane labele</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="26"/>
         <source>Joint Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Joint Smoothing</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="27"/>
         <source>Smooth</source>
-        <translation type="unfinished">Изглађивање</translation>
+        <translation>glatko</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="28"/>
         <source>Filter Type</source>
-        <translation type="unfinished"></translation>
+        <translation>vrsta filtera</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="29"/>
@@ -4956,17 +4956,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="30"/>
         <source>Split Normals</source>
-        <translation type="unfinished"></translation>
+        <translation>podeli normale</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="31"/>
         <source>Point Normals</source>
-        <translation type="unfinished"></translation>
+        <translation>pokaži normale</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="32"/>
         <source>Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>podloga</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
