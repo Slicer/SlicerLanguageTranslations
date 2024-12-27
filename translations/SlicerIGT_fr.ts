@@ -1576,12 +1576,12 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="222"/>
         <source>Line to closest point text size:</source>
-        <translation>Taille du texte de la ligne sur le point le plus proche.</translation>
+        <translation>Taille du texte de la ligne sur le point le plus proche&#xa0;:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="242"/>
         <source>Line to closest point thickness:</source>
-        <translation>Épaisseur de la ligne sur le point le plus proche</translation>
+        <translation>Épaisseur de la ligne sur le point le plus proche&#xa0;:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="265"/>
@@ -1784,7 +1784,7 @@ Pour obtenir de l&apos;aide sur l&apos;utilisation de ce module, visitez le &lt;
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="225"/>
         <source>Anchor Node:</source>
-        <translation>Centre du système de coordonnées</translation>
+        <translation>Centre du système de coordonnées&#xa0;:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="252"/>
