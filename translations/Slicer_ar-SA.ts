@@ -9041,7 +9041,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="308"/>
         <source>(unknown local repository)</source>
-        <translation type="unfinished"></translation>
+        <translation>(مستودع محلي غير معروف)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="386"/>
@@ -9051,32 +9051,32 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="388"/>
         <source>The {name} module could not be registered</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يكن بالإمكان تسجيل وحدة {name}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="394"/>
         <source>Module loading failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحميل الوحدة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"/>
         <source>The module factory manager reported an error. One or more of the requested module(s) and/or dependencies thereof may not have been loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>أبلغ مدير مصنع الوحدة عن خطأ. قد لا تكون إحدى الوحدات المطلوبة و/أو تبعياتها قد تم تحميلها.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"/>
         <source>Error loading module(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في تحميل الوحدة (الوحدات)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="427"/>
         <source>An error occurred while trying to create the module.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ أثناء محاولة إنشاء الوحدة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="440"/>
         <source>An error occurred while adding the module to the extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ أثناء إضافة الوحدة إلى الملحق.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="445"/>
@@ -9086,12 +9086,12 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="492"/>
         <source>Python scripted modules</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدات مكتوبة بلغة بايثون</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="493"/>
         <source>Add Python scripted modules to the application</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة وحدات نصية مكتوبة بلغة بايثون إلى التطبيق</translation>
     </message>
 </context>
 <context>
@@ -9099,33 +9099,33 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="23"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="30"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="34"/>
         <source>Destination:</source>
-        <translation type="unfinished"></translation>
+        <translation>وجهة:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="65"/>
         <source>{type} name may not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>قد لا يكون اسم {type} فارغًا.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="66"/>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="73"/>
         <source>Cannot create {type}</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن إنشاء {type}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="72"/>
         <source>Destination must be an existing directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب أن تكون الوجهة دليلًا موجودًا.</translation>
     </message>
 </context>
 <context>
@@ -9133,17 +9133,17 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="23"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="28"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="48"/>
         <source>Select folder</source>
-        <translation type="unfinished">تحديد مجلد</translation>
+        <translation>تحديد مجلد</translation>
     </message>
 </context>
 <context>
@@ -9151,48 +9151,48 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="29"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>الإسم:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="32"/>
         <source>Category:</source>
-        <translation type="unfinished">الفئة:</translation>
+        <translation>الفئة:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="35"/>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>الوصف:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
         <source>Name</source>
-        <translation type="unfinished">اسم</translation>
+        <translation>اسم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
         <source>Organization</source>
-        <translation type="unfinished"></translation>
+        <translation>منظمة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="42"/>
         <source>Contributors:</source>
-        <translation type="unfinished">المساهمين:</translation>
+        <translation>المساهمين:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
         <source>Extension name may not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>قد لا يكون اسم التمديد فارغًا.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="78"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>بيانات وصفية غير صالحة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="77"/>
         <source>Extension description may not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>قد لا يكون وصف التمديد فارغًا.</translation>
     </message>
 </context>
 <context>
@@ -9200,27 +9200,27 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="31"/>
         <source>(New item)</source>
-        <translation type="unfinished"></translation>
+        <translation>(بند جديد)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="52"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك &amp; للأعلى</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="57"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك &amp; للأسفل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="62"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="130"/>
         <source>Anonymous</source>
-        <translation type="unfinished">مجهول</translation>
+        <translation>مجهول</translation>
     </message>
 </context>
 <context>
@@ -9228,37 +9228,37 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="45"/>
         <source>Enable developer mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين وضع المطور</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="50"/>
         <source>Sets the &apos;Developer mode&apos; application option to enabled. Enabling developer mode is recommended while developing scripted modules, as it makes the Reload and Testing section displayed in the module user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد خيار تطبيق &apos;وضع المطور&apos; للتمكين. يوصى بوضع المطور التمكيني أثناء تطوير الوحدات النصية، لأنه يجعل قسم إعادة التحميل والاختبار معروضًا في واجهة المستخدم الخاصة بالوحدة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="90"/>
         <source>Add selected module to &apos;Additional module paths&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف وحدة مختارة إلى &apos;مسارات الوحدة الإضافية&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="94"/>
         <source>Add selected modules to &apos;Additional module paths&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف وحدة مختارة إلى &apos;مسارات الوحدة الإضافية&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="118"/>
         <source>The following modules can be loaded. Would you like to load them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكن تحميل الوحدات التالية. هل تريد تحميلها الآن ؟</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="121"/>
         <source>The following module can be loaded. Would you like to load it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكن تحميل الوحدة التالية. هل ترغب في تحميله الآن ؟</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="122"/>
         <source>At least one module must be provided</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب توفير وحدة واحدة على الأقل</translation>
     </message>
 </context>
 <context>
@@ -9266,22 +9266,22 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="26"/>
         <source>(Unavailable)</source>
-        <translation type="unfinished"></translation>
+        <translation>(غير متوفره)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="28"/>
         <source>Built-in template path:</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار قالب مدمج:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="31"/>
         <source>Additional template paths:</source>
-        <translation type="unfinished"></translation>
+        <translation>مسارات نماذج إضافية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="37"/>
         <source>Additional template paths for {category}:</source>
-        <translation type="unfinished"></translation>
+        <translation>مسارات نماذج إضافية لـ {category}:</translation>
     </message>
 </context>
 <context>
@@ -9340,17 +9340,17 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="50"/>
         <source>Create new </source>
-        <translation type="unfinished">إنشاء جديد </translation>
+        <translation>إنشاء جديد </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="51"/>
         <source> as...</source>
-        <translation type="unfinished"> ك...</translation>
+        <translation> ك...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="52"/>
         <source>Rename </source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تسمية </translation>
     </message>
 </context>
 <context>
@@ -12045,42 +12045,42 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="225"/>
         <source>Percentile 5</source>
-        <translation type="unfinished"></translation>
+        <translation>النسبة المئوية 5</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="226"/>
         <source>5th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>النسبة المئوية الخامسة من قيم حجم الصوت القياسي للمدخلات داخل الجزء.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="233"/>
         <source>Percentile 10</source>
-        <translation type="unfinished"></translation>
+        <translation>النسبة المئوية 10</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="234"/>
         <source>10th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>النسبة المئوية العاشرة من قيم حجم الصوت القياسي للمدخلات داخل الجزء.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="241"/>
         <source>Percentile 90</source>
-        <translation type="unfinished"></translation>
+        <translation>النسبة المئوية 90</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="242"/>
         <source>90th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>90 في المائة من قيم حجم الإدخال القياسي فوكسل داخل الجزء.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="249"/>
         <source>Percentile 95</source>
-        <translation type="unfinished"></translation>
+        <translation>النسبة المئوية 95</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="250"/>
         <source>95th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>95 في المائة من قيم حجم الإدخال القياسي فوكسل داخل الجزء.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="259"/>
@@ -12745,17 +12745,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="3"/>
         <source>CT-Bone</source>
-        <translation type="unfinished"></translation>
+        <translation>تصوير العظام بالتصوير المقطعي (CT-Bone)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="4"/>
         <source>Emphasize bone in a CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>شدد على العظام في حجم التصوير المقطعي المحوسب.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="5"/>
         <source>CT-Air</source>
-        <translation type="unfinished"></translation>
+        <translation>تصوير الهواء بالتصوير المقطعي (CT-Air)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="6"/>
