@@ -710,7 +710,13 @@ Ideally, there should be only one region. More regions may indicate the presence
 When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again.
 
 After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>احصل على عدد المناطق المتصلة المتميزة في سطح lumen.
+
+من المثالي أن يكون هناك منطقة واحدة فقط. قد تشير المزيد من المناطق إلى وجود ثقوب في lumen و/أو مناطق متميزة خارج lumen. الثقوب في lumen تعني قياس غير دقيق لسطح المقطع العرضي.
+
+عند إصلاح المناطق غير المرغوب فيها، عمومًا باستخدام تأثير &quot;الطلاء&quot; في &quot;محرر المقطع&quot;، يمكن تنفيذ هذه الوظيفة مرة أخرى.
+
+بعد الإصلاح الكامل لسطح lumen، يجب استخراج خطوط المركز مرة أخرى حتى يتم تحديث مصفوفات نصف قطر &quot;الكرة المنقوشة القصوى&quot;.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="359"/>
@@ -739,12 +745,16 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
 This is available if the lumen surface is a segmentation.
 
 The &apos;Sphere&apos; brush is enforced. Further customisation can be performed in the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتنشيط تأثير &quot;الطلاء&quot; في &quot;محرر المقطع&quot;.
+
+هذا متاح إذا كانت سطح lumen هو قطع.
+
+تم فرض فرشاة &quot;الكرة&quot;. يمكن إجراء المزيد من التخصيص في &quot;محرر المقطع&quot;.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="426"/>
         <source>paint</source>
-        <translation type="unfinished"></translation>
+        <translation>طلاء</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="441"/>
@@ -873,14 +883,16 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="28"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة المعلمات:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="38"/>
         <source>Pick a node to store the parameter set.
 
 This is intended to represent a unique combination of input centerline and surface nodes. Create a distinct parameter set for each combination.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر عقدة لتخزين مجموعة المعلمات.
+
+هذا يهدف إلى تمثيل مجموعة فريدة من عقد مركز الإدخال وعقد السطح. أنشئ مجموعة معلمات مميزة لكل مجموعة.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="658"/>
@@ -1080,7 +1092,11 @@ Caution: values at bifurcations may not have clinical meaning.</source>
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
 
 Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation type="unfinished"></translation>
+        <translation>قطر الدائرة المكافئة (CE): هو قطر دائرة لها مساحة سطح المقطع العرضي.
+
+يتم أيضًا تقديم الفرق المطلق والنسبة المئوية مع قطر الكرة المنقوشة العظمى (MIS).
+
+تحذير: قد لا تكون القيم عند التفرعات لها معنى سريري.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1122"/>
@@ -2463,7 +2479,7 @@ The result is influenced by :
  - holes in the segments
  - point placement, if &apos;Closest island&apos; option is selected,
  - smoothing level in the &apos;Segment editor&apos;.</oldsource>
-        <translation type="unfinished">قم بإنشاء نموذج لكل قطعة مقطوعة.
+        <translation>قم بإنشاء نموذج لكل قطعة مقطوعة.
 يسمح هذا بعرض النموذج الذي يتم حساب مساحة السطح منه.
 
 تتأثر النتيجة بما يلي:
@@ -2731,23 +2747,23 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
         <source>Inputs</source>
-        <translation type="unfinished">مدخلات</translation>
+        <translation>مدخلات</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="69"/>
         <source>Tube tree:</source>
-        <translation type="unfinished"></translation>
+        <translation>شجرة الأنبوب:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="78"/>
         <source>Pick an input segmentation or model node.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر تجزئة إدخال أو عقدة نموذج.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="109"/>
         <source>Select an input segment.</source>
         <oldsource>Select an input segment in the selected segmentation.</oldsource>
-        <translation type="unfinished">حدد جزء الإدخال في التجزئة المختارة.</translation>
+        <translation>اختر جزء الإدخال.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
@@ -2791,7 +2807,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="122"/>
         <source>No surface selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم اختيار أي سطح.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="128"/>
@@ -2837,7 +2853,7 @@ The input centerline is expected to be inside the lumen surface.</source>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="230"/>
         <source>Branches</source>
-        <translation type="unfinished">فروع</translation>
+        <translation>فروع</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="236"/>
