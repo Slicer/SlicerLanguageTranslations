@@ -552,7 +552,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1540"/>
         <source>Lumen surface node is not set.</source>
-        <translation type="unfinished">عقدة سطح Lumen غير مُعدة.</translation>
+        <translation>لم يتم تعيين عقدة سطح Lumen.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1585"/>
