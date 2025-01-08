@@ -10204,7 +10204,7 @@ Un nouveau nom de fichier est généré pour chaque image capturée (aucun fichi
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1420"/>
         <source>Lightbox image saved to file: {filename}</source>
         <oldsource>Lighbox image saved to file: {filename}</oldsource>
-        <translation type="unfinished">Image Lightbox enregistrée dans un fichier&#xa0;: {filename}</translation>
+        <translation>Image Lightbox enregistrée dans un fichier&#xa0;: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1423"/>
