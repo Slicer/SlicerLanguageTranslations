@@ -10042,7 +10042,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1420"/>
         <source>Lightbox image saved to file: {filename}</source>
         <oldsource>Lighbox image saved to file: {filename}</oldsource>
-        <translation type="unfinished">லைட்பாக்ச் படம் கோப்பில் சேமிக்கப்பட்டது: {filename}</translation>
+        <translation>லைட்பாக்ச் படம் கோப்பில் சேமிக்கப்பட்டது: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1423"/>
@@ -18517,7 +18517,7 @@ p, li { white-space: pre-wrap; }
  பி, லி {வெள்ளை-இடம்: முன் மடக்கு; }
  &lt;/style&gt; &lt;/head&gt; &lt;body சூல் தண்டு = &quot;font-family: &apos;MS ஓடு Dlg 2&apos;; எழுத்துரு அளவு: 8.25pt; எழுத்துரு-எடை: 400; எழுத்துரு பாணி: இயல்பானது;&quot;&gt;
  &lt;p சூல் தண்டு = &quot;விளிம்பு-மேல்: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; அலகுக்கு சாத்தியம். &lt;/p&gt;
- &lt;p சூல் தண்டு = &quot;margin-top: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; வெப்பநிலை அலகு (&lt;ச்பான் பாணி = &quot;எழுத்துரு-எடை: 600;&quot;&gt; கெல்வின் &lt;/ச்பான்&gt;) குறைந்தபட்சம் 0 ஆக இருக்க வேண்டும்.</translation>
+ &lt;p சூல் தண்டு = &quot;margin-top: 0px; விளிம்பு-கீழ்: 0px; விளிம்பு-இடது: 0px; விளிம்பு-வலது: 0px; வெப்பநிலை அலகு (&lt;span பாணி = &quot;எழுத்துரு-எடை: 600;&quot;&gt; கெல்வின் &lt;/span&gt;) குறைந்தபட்சம் 0 ஆக இருக்க வேண்டும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="190"/>
@@ -20525,7 +20525,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span சூல் தண்டு = &quot;font-weight: 600;&quot;&gt; கேள்விகள் மற்றும் அம்சக் கோரிக்கைகள்: &lt;/span&gt; &lt;a href = &quot;https: //discourse.slicer ஐப் பார்வையிடவும். org &quot;&gt; &lt;span சூல் தண்டு =&quot; text-degoration: Underling; &quot;&gt; ச்லைசர் மன்றம் &lt;/span&gt; &lt;/a&gt;. &lt;/span&gt; &lt;a href = &quot;https://discourse.slicer.org/new-topic? %20actual%20behavior] &amp; ஆம்ப்; பிழை அறிக்கை &lt;a href = &quot;https://issues.slicer.org&quot;&gt; &lt;span சூல் தண்டு = &quot;text-degoration: Underline;&quot; பிழைக்கு வழிவகுக்கும் படிகளை விவரிக்கவும், பதிவு செய்திகளையும் இணைக்கவும். பதிவு செய்திகளில் ஒரு நோயாளியை அடையாளம் காணக்கூடிய எந்த தகவலும் இல்லை. பதிவு செய்திகளை ஒரு அஞ்சல் பட்டியல் அல்லது இணையதளத்தில் பகிரங்கமாக பகிர்வதற்குப் பதிலாக குறிப்பிட்ட நபர்களுக்கு அனுப்பவும். &lt;/P&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span சூல் தண்டு = &quot;font-weight: 600;&quot;&gt; கேள்விகள் மற்றும் அம்சக் கோரிக்கைகள்: &lt;/span&gt; &lt;a href = &quot;https: //discourse.slicer ஐப் பார்வையிடவும். org &quot;&gt; &lt;span சூல் தண்டு =&quot; text-degoration: Underling; &quot;&gt; ச்லைசர் மன்றம் &lt;/span&gt; &lt;/a&gt;. &lt;/span&gt; &lt;a href = &quot;https://discourse.slicer.org/new-topic? %20actual%20behavior] &amp;amp; பிழை அறிக்கை &lt;a href = &quot;https://issues.slicer.org&quot;&gt; &lt;span சூல் தண்டு = &quot;text-degoration: Underline;&quot; பிழைக்கு வழிவகுக்கும் படிகளை விவரிக்கவும், பதிவு செய்திகளையும் இணைக்கவும். பதிவு செய்திகளில் ஒரு நோயாளியை அடையாளம் காணக்கூடிய எந்த தகவலும் இல்லை. பதிவு செய்திகளை ஒரு அஞ்சல் பட்டியல் அல்லது இணையதளத்தில் பகிரங்கமாக பகிர்வதற்குப் பதிலாக குறிப்பிட்ட நபர்களுக்கு அனுப்பவும். &lt;/P&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -26269,7 +26269,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt;
  &lt;p&gt; கூடுதல் தொகுதி பாதைகள்: &lt;/p&gt;
- &lt;p சூல் தண்டு = &quot;விளிம்பு-இடது: 10px;&quot;&gt; &lt;span சூல் தண்டு = &quot;எழுத்துரு அளவு: சிறிய; எழுத்துரு பாணி: சாய்வு;&quot;&gt; இழுவை &amp; ஆம்ப்; கோப்புகள் அல்லது கோப்புறைகளை கைவிடவும் &lt;br/&gt; கோப்பு எக்ச்ப்ளோரர் &lt;/span&gt; &lt;/p&gt; இலிருந்து
+ &lt;p சூல் தண்டு = &quot;விளிம்பு-இடது: 10px;&quot;&gt; &lt;span சூல் தண்டு = &quot;எழுத்துரு அளவு: சிறிய; எழுத்துரு பாணி: சாய்வு;&quot;&gt; இழுவை &amp;amp; கோப்புகள் அல்லது கோப்புறைகளை கைவிடவும் &lt;br/&gt; கோப்பு எக்ச்ப்ளோரர் &lt;/span&gt; &lt;/p&gt; இலிருந்து
  &lt;/body&gt; &lt;/html&gt;
 </translation>
     </message>
@@ -26367,7 +26367,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Favorite Modules:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Drag &amp;amp; drop modules&lt;br/&gt;from &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;Modules&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; list&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; பிடித்த தொகுதிகள்: &lt;/p&gt; &lt;p சூல் தண்டு = &quot;விளிம்பு-இடது: 10px;&quot;&gt; &lt;ச்பான் பாணி = &quot;எழுத்துரு அளவு: சிறியது; எழுத்துரு பாணி: சாய்வு; &quot;&gt; இழுத்தல் &amp; ஆம்ப்; &lt;/ச்பான்&gt; &lt;ச்பான் பாணி = &quot;எழுத்துரு அளவு: சிறியது;&quot;&gt; தொகுதிகள் &lt;/ச்பான்&gt; &lt;ச்பான் பாணி = &quot;எழுத்துரு அளவு: சிறியது; எழுத்துரு பாணி: சாய்வு;&quot;&gt; பட்டியல் &lt; /span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; பிடித்த தொகுதிகள்: &lt;/p&gt; &lt;p சூல் தண்டு = &quot;விளிம்பு-இடது: 10px;&quot;&gt; &lt;span பாணி = &quot;எழுத்துரு அளவு: சிறியது; எழுத்துரு பாணி: சாய்வு; &quot;&gt; இழுத்தல் &amp;amp; &lt;/span&gt; &lt;span பாணி = &quot;எழுத்துரு அளவு: சிறியது;&quot;&gt; தொகுதிகள் &lt;/span&gt; &lt;span பாணி = &quot;எழுத்துரு அளவு: சிறியது; எழுத்துரு பாணி: சாய்வு;&quot;&gt; பட்டியல் &lt; /span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
