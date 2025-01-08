@@ -25,7 +25,7 @@
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="41"/>
         <source>MONAILabel</source>
-        <translation type="unfinished"></translation>
+        <translation>موناي لابل</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="50"/>
@@ -50,7 +50,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="72"/>
         <source>MONAI Label Server</source>
-        <translation type="unfinished"></translation>
+        <translation>خادم تصنيف MONAI</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="75"/>
@@ -80,7 +80,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User ID that will be sent to MONAI Label server for reference</source>
-        <translation type="unfinished"></translation>
+        <translation>معرف العميل / المستخدم الذي سيتم إرساله إلى خادم MONAI Label كمرجع</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
@@ -120,7 +120,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Enable this option to ask for the user name every time the MONAILabelextension is loaded for the first time</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتمكين هذا الخيار لطلب اسم المستخدم في كل مرة يتم فيها تحميل ملحق MONAILabel للمرة الأولى</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
@@ -170,7 +170,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="204"/>
         <source>Overlapping segmentations are only available with the &apos;.seg.nrrd&apos; file extension!Consider changing MONAILabel file extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>التقسيمات المتداخلة متاحة فقط مع امتداد ملف &apos;.seg.nrrd&apos;! ضع في اعتبارك تغيير امتداد ملف MONAILabel.</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="303"/>
@@ -272,7 +272,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1104"/>
         <source>Please upgrade the monai server to latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>يرجى ترقية خادم موناي إلى أحدث إصدار</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1115"/>
@@ -284,17 +284,17 @@ Are you sure to continue?</source>
         <location filename="MONAILabel/MONAILabel.py" line="1149"/>
         <location filename="MONAILabel/MONAILabel.py" line="1154"/>
         <source>Wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>انتظر...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1170"/>
         <source>No Model selected is to run the training</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم اختيار أي نموذج لتشغيل التدريب</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1178"/>
         <source>Training: STARTED</source>
-        <translation type="unfinished"></translation>
+        <translation>التدريب: بدأ</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1185"/>
@@ -313,7 +313,7 @@ Start Time: {start_time}
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1207"/>
         <source>This will kill/stop current Training task.  Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>سيؤدي ذلك إلى إنهاء/إيقاف مهمة التدريب الحالية. هل أنت متأكد من أنك تريد المتابعة؟</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1217"/>
@@ -333,12 +333,13 @@ Result: {result}</source>
         <location filename="MONAILabel/MONAILabel.py" line="1252"/>
         <source>This will close current scene.  Please make sure you have saved your current work.
 Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>سيؤدي ذلك إلى إغلاق المشهد الحالي. يرجى التأكد من أنك قد حفظت عملك الحالي.
+هل أنت متأكد من الاستمرار؟</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1265"/>
         <source>No Strategy Found/Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على استراتيجية/محددة</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1276"/>
