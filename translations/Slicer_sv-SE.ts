@@ -21803,7 +21803,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="294"/>
         <source>&amp;Toolbars</source>
-        <translation type="unfinished">&amp;Toolbars</translation>
+        <translation>&amp;Verktygsfält</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="299"/>
@@ -21979,7 +21979,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="419"/>
         <source>Save Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara Data</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="23"/>
@@ -22473,7 +22473,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="589"/>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa historik</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="702"/>
