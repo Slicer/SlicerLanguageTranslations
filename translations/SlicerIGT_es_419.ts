@@ -9,7 +9,9 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo registra la lista fiducial en una superficie modelo utilizando el método iterativo de puntos más cercanos (ICP).Para obtener ayuda sobre cómo utilizar este módulo, visite: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
@@ -235,7 +237,11 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
 This module applies Iterative Closest Points registration between two surface models.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo aplica el registro iterativo por puntos más cercanos entre dos modelos de superficie.
+
+Para obtener ayuda sobre cómo utilizar este módulo, visite: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="35"/>
@@ -340,7 +346,11 @@ Este trabajo forma parte del proyecto SparKit, financiado por el programa ACRU d
 This is an example of scripted loadable module bundled in an extension.
 See more information in &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este es un ejemplo de módulo cargable con script incluido en una extensión.
+
+Más información en &lt;a href=&quot;https://github.com/organization/projectname#SequenceReplay&quot;&gt;module documentation&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="51"/>
@@ -368,7 +378,11 @@ It is typically used to display colored surfaces, provided by surface scanners, 
 The model must contain texture coordinates. Only a single texture file per model is supported.
 For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo aplica una textura (almacenada en un nodo de volumen) a un nodo del modelo.
+Se utiliza normalmente para mostrar superficies coloreadas, proporcionadas por escáneres de superficie, exportadas en formato OBJ.
+El modelo debe contener coordenadas de textura. Sólo se admite un único archivo de textura por modelo.
+Para más información, visite &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="50"/>
@@ -467,7 +481,10 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este módulo ajusta el punto de vista de la cámara de un visor 3D.
+Bullseye View: posiciona/orienta la cámara utilizando una herramienta de seguimiento.
+Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="25"/>
@@ -898,7 +915,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="103"/>
         <source>This module can alert the user by color change and sound signal if a tool enters a restricted area. The restricted area is defined by a surface model, the tool position is defined by a linear transform. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo puede alertar al usuario mediante un cambio de color y una señal sonora si una herramienta entra en una zona restringida. El área restringida está definida por un modelo de superficie, la posición de la herramienta está definida por una transformación lineal. Para obtener ayuda sobre cómo utilizar este módulo visite: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="111"/>
@@ -1081,7 +1098,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="73"/>
         <source>Record motion trajectory of a tracked tool into markups fiducial list, markups curve, or model node. For more information, visit &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&quot;&gt;SlicerIGT project website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registre la trayectoria de movimiento de una herramienta rastreada en una lista de marcas de referencia, una curva de marcas de referencia o un nodo de modelo. Para más información, visite &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&quot;&gt;SlicerIGT project website&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="80"/>
@@ -1378,7 +1395,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="83"/>
         <source>Register images, models, or any other nodes to each other using manually placed landmark points. Rigid, affine, and warping transforms are supported. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registre imágenes, modelos o cualquier otro nodo mediante puntos de referencia colocados manualmente. Soporta transformaciones rígidas, afines y warping. Para obtener ayuda sobre cómo utilizar este módulo, visite: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.cxx" line="91"/>
@@ -1453,7 +1470,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="62"/>
         <source>This is a module for detecting landmarks by pivoting a tracked stylus. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se trata de un módulo para detectar puntos de referencia pivotando un lápiz óptico de seguimiento. Si tiene alguna pregunta o se encuentra con algún problema, envíe una incidencia a la sección &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="68"/>
@@ -1571,7 +1588,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="72"/>
         <source>Path Explorer is a module designed to facilitate the creation of trajectory, and visualization of volumes along these trajectories For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Path Explorer es un módulo diseñado para facilitar la creación de trayectorias, y la visualización de volúmenes a lo largo de estas trayectorias Para obtener ayuda sobre cómo utilizar este módulo visite: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
@@ -2550,7 +2567,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="68"/>
         <source>Module for taking a snapshot of a position tracked ultrasound image and display it as a model node. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo permite tomar una imagen instantánea de una ecografía con seguimiento de posición y mostrarla como un nodo modelo. Para obtener ayuda sobre cómo utilizar este módulo, visite&lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="75"/>
@@ -2560,7 +2577,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.h" line="44"/>
         <source>Ultrasound Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Imágenes de ultrasonidos</translation>
     </message>
 </context>
 <context>
@@ -2869,7 +2886,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="93"/>
         <source>This is a module for reconstructing image volumes from sequences. If you have questions, or encounter an problem, submit an issue on the &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este es un módulo para reconstruir volúmenes de imágenes a partir de secuencias. Si tiene alguna pregunta o se encuentra con algún problema, envíe una incidencia a la sección &lt;a href=&quot;https://github.com/SlicerIGT/SlicerIGT&quot;&gt;GitHub page&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.cxx" line="109"/>
@@ -2990,7 +3007,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="75"/>
         <source>This module allows to set reslicing planes by using linear transforms nodes or positions/orientations in image nodes. For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo permite establecer planos de corte utilizando nodos de transformación lineal o posiciones/orientaciones en nodos de imagen. Para obtener ayuda sobre cómo utilizar este módulo visite:&lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="84"/>
@@ -3008,7 +3025,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="118"/>
         <source>Displays warning if selected transforms are not continuously updated. It is useful for detecting tracking errors, such as occluded marker or network connection error. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra una advertencia si las transformaciones seleccionadas no se actualizan continuamente. Es útil para detectar errores de seguimiento, como un marcador ocluido o un error de conexión a la red. Para obtener ayuda sobre cómo utilizar este módulo, visite: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
