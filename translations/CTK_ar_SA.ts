@@ -2756,7 +2756,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1274"/>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>نشط</translation>
     </message>
 </context>
 <context>
@@ -2772,17 +2772,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMStudyItemWidget.ui" line="14"/>
         <source>Study Item</source>
-        <translation type="unfinished"></translation>
+        <translation>عنصر الدراسة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMStudyItemWidget.ui" line="110"/>
         <source>Series</source>
-        <translation type="unfinished">سلسلة</translation>
+        <translation>سلسلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyItemWidget.cpp" line="250"/>
         <source>UNDEFINED</source>
-        <translation type="unfinished">غير محددة</translation>
+        <translation>غير محددة</translation>
     </message>
 </context>
 <context>
@@ -3355,47 +3355,47 @@ Please set at least one filter to query the servers and check that at least one 
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3227"/>
         <source>The patients query failed. Please check the servers settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل استعلام المرضى. يرجى التحقق من إعدادات الخوادم.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3404"/>
         <source>Load patient files</source>
-        <translation type="unfinished"></translation>
+        <translation>حمل ملفات المريض</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3408"/>
         <source>View patient DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض البيانات الوصفية DICOM للمريض</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3412"/>
         <source>Delete patient from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>احذف المريض من قاعدة البيانات المحلية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3417"/>
         <source>Export patient to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>مريض التصدير لنظام الملفات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3421"/>
         <source>Send patient to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>أرسل المريض إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3495"/>
         <source>Load study</source>
-        <translation type="unfinished"></translation>
+        <translation>دراسة التحميل</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3496"/>
         <source>Load %1 studies</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل الدراسات %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3500"/>
         <source>View study DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض دراسة البيانات الوصفية DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3501"/>
@@ -3406,7 +3406,7 @@ Please set at least one filter to query the servers and check that at least one 
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3505"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3615"/>
         <source>Force retrieve series</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة استرجاع القوة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3506"/>
