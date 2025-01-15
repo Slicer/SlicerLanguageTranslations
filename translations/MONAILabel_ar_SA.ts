@@ -345,7 +345,8 @@ Are you sure to continue?</source>
         <location filename="MONAILabel/MONAILabel.py" line="1276"/>
         <source>Unlabeled samples or images not found at server.
 Instead please go to File -&gt; Add Data to load image.</source>
-        <translation type="unfinished"></translation>
+        <translation>عينات أو صور غير مسماة غير موجودة في الخادم.
+بدلاً من ذلك، يرجى الانتقال إلى ملف - &gt; إضافة البيانات إلى صورة التحميل.</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1334"/>
@@ -368,7 +369,8 @@ Click &apos;Cancel&apos; to not upload any data and cancel segmentation.
 Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
         <oldsource>Server Error:: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>خطأ الخادم: فشل إنشاء الجلسة
+يرجى الترقية إلى أحدث إصدار monailabel (&gt; 0.2.0)</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1434"/>
@@ -379,12 +381,12 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1441"/>
         <source>Label File not selected</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم اختيار ملف التسمية</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1450"/>
         <source>Failed to import label</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في استيراد ملصق</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1521"/>
@@ -395,7 +397,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1532"/>
         <source>Label-Mask saved into MONAI Label Server</source>
-        <translation type="unfinished"></translation>
+        <translation>تم حفظ قناع التسمية في خادم ملصق MONAI</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1577"/>
@@ -406,12 +408,12 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1594"/>
         <source>Please select a model</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء تحديد نموذج</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1599"/>
         <source>Please add the required label to run interactive model</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء إضافة الملصق المطلوب لتشغيل النموذج التفاعلي</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1616"/>
@@ -421,12 +423,12 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1617"/>
         <source>enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>مكن</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1618"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>معطّل</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="2051"/>
@@ -437,62 +439,62 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="2418"/>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدخول للمستخدمين</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="40"/>
         <source>Fetch/Refresh models from Server</source>
-        <translation type="unfinished"></translation>
+        <translation>جلب/تحديث النماذج من خادم</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="50"/>
         <source>App Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم التطبيق:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="73"/>
         <source>MONAI Label server:</source>
-        <translation type="unfinished"></translation>
+        <translation>خادم ملصق MONAI:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="80"/>
         <source>Source Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>المصدر الحجم:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="90"/>
         <source>Select Node</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد العقدة</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="103"/>
         <source>Upload Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل مجلد</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="115"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="157"/>
         <source>Section:</source>
-        <translation type="unfinished"></translation>
+        <translation>القسم:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="174"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>الإسم:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="189"/>
         <source>Active Learning</source>
-        <translation type="unfinished">التعلم النشط</translation>
+        <translation>التعلم النشط</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="238"/>
         <source>Status:</source>
-        <translation type="unfinished">الحالة:</translation>
+        <translation>الحالة:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="252"/>
