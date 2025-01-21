@@ -8699,7 +8699,7 @@ Puteți salva poziția camerei în orice moment făcând clic pe „Salvați poz
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="148"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="418"/>
         <source>Play flythrough</source>
-        <translation type="unfinished">Play flythrough</translation>
+        <translation type="unfinished">Joacă survolare</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="150"/>
