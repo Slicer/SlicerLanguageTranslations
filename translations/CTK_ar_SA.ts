@@ -3411,97 +3411,97 @@ Please set at least one filter to query the servers and check that at least one 
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3506"/>
         <source>Force retrieve series for %1 studies</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة استرجاع القوة للدراسات%1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3510"/>
         <source>Delete study from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذف الدراسة من قاعدة البيانات المحلية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3511"/>
         <source>Delete %1 studies from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>احذف%1 من الدراسات من قاعدة البيانات المحلية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3516"/>
         <source>Export study to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>دراسة التصدير إلى نظام الملفات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3517"/>
         <source>Export %1 studies to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير%1 من دراسات لنظام الملفات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3521"/>
         <source>Send study to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>أرسل الدراسة إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3522"/>
         <source>Send %1 studies to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>أرسل دراسات%1 إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3605"/>
         <source>Load series</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة التحميل</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3606"/>
         <source>Load %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل%1 سلسلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3610"/>
         <source>View series DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض سلسلة البيانات الوصفية DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3611"/>
         <source>View %1 series DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض%1 سلسلة البيانات الوصفية DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3616"/>
         <source>Force retrieve for %1 series</source>
-        <translation type="unfinished"></translation>
+        <translation>استعادة القوة لسلسلة%1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3620"/>
         <source>Delete series from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذف السلاسل من قاعدة البيانات المحلية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3621"/>
         <source>Delete %1 series from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف سلسلة%1 من قاعدة البيانات المحلية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3626"/>
         <source>Export series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة التصدير إلى نظام الملفات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3627"/>
         <source>Export %1 series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير%1 سلسلة إلى ملفّ نظام</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3631"/>
         <source>Send series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>أرسل سلسلة إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3632"/>
         <source>Send %1 series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>أرسل سلسلة%1 إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3702"/>
         <source>Delete all Patients from local database</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف جميع المرضى من قاعدة البيانات المحلية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3823"/>
@@ -3511,7 +3511,7 @@ Please set at least one filter to query the servers and check that at least one 
 
 Halting export.</source>
         <extracomment>%1 is the destination directory</extracomment>
-        <translation type="unfinished">تعذر إنشاء دليل وجهة التصدير:
+        <translation>تعذر إنشاء دليل وجهة التصدير:
 
 %1
 
@@ -3520,18 +3520,18 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3837"/>
         <source>DICOM Export</source>
-        <translation type="unfinished">تصدير DICOM</translation>
+        <translation>تصدير DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3837"/>
         <source>Close</source>
-        <translation type="unfinished">إغلاق</translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3843"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
-        <translation type="unfinished">تصدير سلسلة %1</translation>
+        <translation>تصدير سلسلة %1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3860"/>
@@ -3543,13 +3543,13 @@ Halting export.
 
 Error may be fixed via Repair.</source>
         <extracomment>%1 is the file path</extracomment>
-        <translation type="unfinished">لم يتم العثور على ملف مصدر التصدير:
+        <translation>لم يتم العثور على ملف مصدر التصدير:
 
 %1
 
 وقف التصدير.
 
-قد يتم إصلاح الخطأ عبر إصلاح.</translation>
+قد يتم إصلاح الخطأ عبر الإصلاح.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="3873"/>
@@ -3559,7 +3559,7 @@ Error may be fixed via Repair.</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination file name</extracomment>
-        <translation type="unfinished">تصدير ملف الوجهة موجود بالفعل:
+        <translation>تصدير ملف الوجهة موجود بالفعل:
 
 %1
 
@@ -3577,7 +3577,7 @@ to
 
 Halting export.</source>
         <extracomment>%1 and %2 refers to source and destination file paths</extracomment>
-        <translation type="unfinished">فشل النسخ
+        <translation>فشل النسخ
 
 %1
 
@@ -3592,12 +3592,14 @@ Halting export.</source>
         <source>Do you want to delete the following selected items from the LOCAL database? 
 The data will not be deleted from the PACs server. 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد حذف العناصر المختارة التالية من قاعدة البيانات المحلية ؟
+لن يتم حذف البيانات من خادم PACs. 
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4061"/>
         <source>Delete</source>
-        <translation type="unfinished">حذف</translation>
+        <translation>حذف</translation>
     </message>
 </context>
 <context>
@@ -3886,27 +3888,27 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="814"/>
         <source>started</source>
-        <translation type="unfinished"></translation>
+        <translation>بدأ</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="832"/>
         <source>user stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>توقف المستخدم</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="862"/>
         <source>finished</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهى</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="892"/>
         <source>attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>المحاولة فشلت</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="922"/>
         <source>failed</source>
-        <translation type="unfinished">فشل</translation>
+        <translation>فشل</translation>
     </message>
 </context>
 <context>
