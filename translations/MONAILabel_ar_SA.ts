@@ -308,7 +308,10 @@ Are you sure to continue?</source>
 Status: {status}
 Start Time: {start_time}
 </source>
-        <translation type="unfinished"></translation>
+        <translation>هوية: {id}
+الحالة: {status}
+وقت البدء: {start_time}
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1207"/>
@@ -319,7 +322,8 @@ Start Time: {start_time}
         <location filename="MONAILabel/MONAILabel.py" line="1217"/>
         <source>Failed to stop Training Task.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في إيقاف مهمة التدريب.
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1224"/>
@@ -327,7 +331,10 @@ Start Time: {start_time}
 Start Time: {start_time}
 End Time: {end_time}
 Result: {result}</source>
-        <translation type="unfinished"></translation>
+        <translation>الحالة: {status}
+وقت البدء: {start_time}
+وقت النهاية: {end_time}
+النتيجة: {result}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1252"/>
@@ -361,7 +368,11 @@ Instead please go to File -&gt; Add Data to load image.</source>
 Click &apos;OK&apos; to proceed with the segmentation.
 Click &apos;Cancel&apos; to not upload any data and cancel segmentation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم إرسال حجم المصدر - بدون أي معلومات إضافية عن المريض - إلى خادم معالجة البيانات عن بُعد: {server_url}.
+
+انقر فوق &apos;موافق&apos; للمضي قدمًا في التجزئة.
+انقر فوق &apos;إلغاء&apos; لعدم تحميل أي بيانات وإلغاء التجزئة.
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1428"/>
@@ -376,7 +387,8 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabel/MONAILabel.py" line="1434"/>
         <source>Failed to upload volume to Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تحميل الصوت إلى الخادم.
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1441"/>
@@ -418,7 +430,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1616"/>
         <source>Run Inference for segment: {label}; model: {model}; 3d {in3d}</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الاستدلال للقطع: {label} ؛ النموذج: {model} ؛ 3d {in3d}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1617"/>
@@ -434,7 +446,8 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabel/MONAILabel.py" line="2051"/>
         <source>Failed to post process label on MONAI Label Server using {scribbles_method}.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في نشر بطاقة المعالجة على خادم ملصق MONAI باستخدام {scribbles_method}.
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="2418"/>
@@ -499,12 +512,12 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="252"/>
         <source>Accuracy:</source>
-        <translation type="unfinished"></translation>
+        <translation>الدقة:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="259"/>
         <source>Average Dice score computed over submitted labels</source>
-        <translation type="unfinished"></translation>
+        <translation>متوسط درجة النرد محسوبة على الملصقات المقدمة</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="269"/>
@@ -512,7 +525,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="430"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="706"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="288"/>
@@ -522,7 +535,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="295"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="307"/>
