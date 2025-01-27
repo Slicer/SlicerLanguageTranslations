@@ -19063,7 +19063,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
         <source>Join Us on LinkedIn</source>
         <oldsource>Join Us on Twitter</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Följ oss på LinkedIn</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="111"/>
