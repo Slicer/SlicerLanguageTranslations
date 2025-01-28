@@ -7,7 +7,7 @@
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="20"/>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="56"/>
         <source>Login</source>
-        <translation>Kirjautuminen</translation>
+        <translation>Sisäänkirjautuminen</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>
