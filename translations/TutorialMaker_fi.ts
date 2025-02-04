@@ -44,7 +44,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="46"/>
         <source>Next Widget</source>
-        <translation>Seuraava vekotin</translation>
+        <translation>Seuraava vimpain</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="14"/>
@@ -92,7 +92,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="154"/>
         <source>Widget Annotator</source>
-        <translation>Huomautus-kirjoitus-vekotin</translation>
+        <translation>Huomautus-kirjoitus-vimpain</translation>
     </message>
 </context>
 <context>
