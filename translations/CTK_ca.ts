@@ -4606,7 +4606,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="246"/>
         <source>Creating directory &quot;%1&quot; failed.</source>
-        <translation>No s&apos;ha pogut crear el directori «% 1».</translation>
+        <translation type="unfinished">No s&apos;ha pogut crear el directori «% 1».</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="279"/>
