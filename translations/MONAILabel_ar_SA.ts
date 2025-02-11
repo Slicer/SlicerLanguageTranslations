@@ -245,22 +245,22 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="503"/>
         <source>{current}/{total} epoch is completed</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتملت المرحلة{current}/{total}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="514"/>
         <source>Training: {status}</source>
-        <translation type="unfinished"></translation>
+        <translation>التدريب: {status}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="613"/>
         <source>{current}/{total} samples are labeled</source>
-        <translation type="unfinished"></translation>
+        <translation>{current}/{total} عينات تم تصنيفها</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="890"/>
         <source>Accuracy: {value}</source>
-        <translation type="unfinished"></translation>
+        <translation>الدقة: {value}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1034"/>
@@ -278,7 +278,8 @@ Are you sure to continue?</source>
         <location filename="MONAILabel/MONAILabel.py" line="1115"/>
         <source>Failed to fetch models from remote server. Make sure server address is correct and &lt;server_uri&gt;/info/ is accessible in browser.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في جلب النماذج من الخادم البعيد. تأكد من أن عنوان الخادم صحيح وأن &lt;server_uri&gt;/info/ متاح في المتصفح.
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1149"/>
@@ -300,7 +301,8 @@ Are you sure to continue?</source>
         <location filename="MONAILabel/MONAILabel.py" line="1185"/>
         <source>Failed to run training in MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تشغيل التدريب في خادم MONAI Label.
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1192"/>
@@ -359,7 +361,8 @@ Instead please go to File -&gt; Add Data to load image.</source>
         <location filename="MONAILabel/MONAILabel.py" line="1334"/>
         <source>Failed to fetch Sample from MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في جلب العينة من خادم MONAI Label.
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1387"/>
@@ -404,7 +407,8 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabel/MONAILabel.py" line="1521"/>
         <source>Failed to save Label to MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في حفظ التسمية على خادم تسميات MONAI.
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1532"/>
@@ -415,7 +419,8 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabel/MONAILabel.py" line="1577"/>
         <source>Failed to run inference in MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تشغيل الاستدلال في خادم MONAI Label.
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1594"/>
@@ -530,7 +535,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="288"/>
         <source>Train</source>
-        <translation type="unfinished"></translation>
+        <translation>تدريب</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="295"/>
@@ -540,27 +545,27 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="307"/>
         <source>Submit Label</source>
-        <translation type="unfinished"></translation>
+        <translation>تقديم التسمية</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="314"/>
         <source>Strategy:</source>
-        <translation type="unfinished"></translation>
+        <translation>استراتيجية:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="321"/>
         <source>Next Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>العينة التالية</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="334"/>
         <source>Segment Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر المقطع</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="359"/>
         <source>Auto Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>التجزئة التلقائية</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="383"/>
