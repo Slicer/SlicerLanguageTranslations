@@ -1695,7 +1695,7 @@ Slicer must be restarted. Do you want to restart now ?</source>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="578"/>
         <source>Flood filling: {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation>ملء الفائض: {duration} ثانية - </translation>
     </message>
     <message>
         <source>Flood filling : {duration} seconds - </source>
@@ -2195,7 +2195,7 @@ Slicer must be restarted. Do you want to restart now ?</source>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="508"/>
         <source>Flood filling: {duration} seconds - </source>
-        <translation type="unfinished"></translation>
+        <translation>ملء الفائض: {duration} ثانية - </translation>
     </message>
     <message>
         <source>Flood filling : {duration} seconds - </source>
