@@ -185,7 +185,7 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="316"/>
         <source>ROI/BBOX Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea de Código ROI/BBOX</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="345"/>
@@ -200,7 +200,7 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="351"/>
         <source>Update label by sending scribbles to server to apply selected post processing method</source>
-        <translation>Actualizar etiqueta enviando garabatos (bocetos, dibujos, rayas, etc.) al servidor para aplicar el método de postprocesamiento seleccionado</translation>
+        <translation>Actualice la etiqueta enviando garabatos al servidor para aplicar el método de posprocesamiento seleccionado</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="354"/>
