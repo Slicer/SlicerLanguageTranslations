@@ -240,7 +240,7 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="396"/>
         <source>Please enter your name:</source>
-        <translation>Por favor, introduce tu nombre:</translation>
+        <translation>Por favor ingrese tu nombre</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="503"/>
