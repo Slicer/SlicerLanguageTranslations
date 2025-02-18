@@ -29403,7 +29403,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="47"/>
         <source>Welcome to Slicer</source>
-        <translation>Slicer-ga Xush Kelibsiz</translation>
+        <translation>Slicerga Xush Kelibsiz</translation>
     </message>
 </context>
 <context>
@@ -29422,7 +29422,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="59"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="461"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
-        <translation>&quot;Kengaytmalar Menejeri&quot; yordamchi oynasini oching, bu orqali Slicer kengaytmalarini topish, yuklab olish va o&apos;rnatish mumkin.&lt;br&gt;&lt;br&gt;Kengaytma, bir yoki bir nechta Slicer modullarini o&apos;z ichiga olgan yetkazib berish paketidir.&lt;br&gt;&lt;br&gt;Kengaytmani o&apos;rnatgandan so&apos;ng, bog&apos;langan modullar modul tanlovchisida mavjud bo&apos;ladi.</translation>
+        <translation>&quot;Plaginlar Menejeri&quot; yordamchi oynasini oching, bu orqali Slicer Plaginlarini topish, yuklab olish va o&apos;rnatish mumkin.&lt;br&gt;&lt;br&gt;Kengaytma, bir yoki bir nechta Slicer modullarini o&apos;z ichiga olgan yetkazib berish paketidir.&lt;br&gt;&lt;br&gt;Plaginlarni o&apos;rnatgandan so&apos;ng, bog&apos;langan modullar modul tanlovchisida mavjud bo&apos;ladi.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
