@@ -51,12 +51,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="253"/>
         <source>Refresh Weblate language list by querying the Weblate server.</source>
-        <translation>Päivitä Weblate-kieliluettelo suorittamalla kysely Weblate-palvelimelta.</translation>
+        <translation>Virkistä Weblate-kieliluettelo suorittamalla kysely Weblate-palvelimelta.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="256"/>
         <source>refresh</source>
-        <translation>virkistää</translation>
+        <translation>virkistä</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="263"/>
