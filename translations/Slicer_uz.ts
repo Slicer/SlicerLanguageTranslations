@@ -29416,23 +29416,23 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="79"/>
         <source>Download Sample Data</source>
-        <translation>Ma&apos;lumotlar namunasini yuklab olish</translation>
+        <translation>Ma&apos;lumotlarni yuklab olish</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="59"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="461"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Kengaytmalar Menejeri&quot; yordamchi oynasini oching, bu orqali Slicer kengaytmalarini topish, yuklab olish va o&apos;rnatish mumkin.&lt;br&gt;&lt;br&gt;Kengaytma, bir yoki bir nechta Slicer modullarini o&apos;z ichiga olgan yetkazib berish paketidir.&lt;br&gt;&lt;br&gt;Kengaytmani o&apos;rnatgandan so&apos;ng, bog&apos;langan modullar modul tanlovchisida mavjud bo&apos;ladi.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
         <source>Customize Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicerni Sozlash</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
         <source> Install Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation> Plaginlarni O&apos;rnatish</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
@@ -29442,27 +29442,27 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="100"/>
         <source>Add Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&apos;lumot qo&apos;shish</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="111"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM Qo&apos;shish</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="141"/>
         <source>Explore Added Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Qo&apos;shilgan Ma&apos;lumotni Ko&apos;rish</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="158"/>
         <source>A new version of the application is available. Click the button to go to the download page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilovaning yangi versiyasi mavjud. Yuklab olish sahifasiga o&apos;tish uchun tugmani bosing.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="187"/>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Sharh</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="220"/>
@@ -29471,23 +29471,28 @@ This should only used by advanced users who understand the consequences of chang
 &lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Share your stories with us on the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forum&lt;/a&gt; and let us know about how 3D Slicer has enabled your research.&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 &lt;p&gt;We are always interested in improving 3D Slicer, to tell us about your problem or submit a bug report, open &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;table border=&quot;0&quot; align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Biz bilan o&apos;z hikoyalaringizni &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forumida&lt;/a&gt; baham ko&apos;ring va 3D Slicer qanday qilib sizning tadqiqotingizga yordam bergani haqida xabar bering.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;Biz 3D Slicerni yaxshilashga doimo qiziqamiz, muammoingiz haqida bizga xabar bering yoki xato haqida hisobot yuborish uchun &lt;b&gt;Yordam -&amp;gt; Xato haqida xabar berish&lt;/b&gt;ni oching.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqida</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; tibbiy tasvirni qayta ishlash va tasvir ma&apos;lumotlarini 3D ko&apos;rinishda vizualizatsiya qilish uchun bepul ochiq manbali dasturiy platformadir. Ushbu modul Slicerdan foydalanishni boshlash uchun asosiy ma&apos;lumotlar va foydali havolalarni o&apos;z ichiga oladi. Batafsil ma&apos;lumot uchun bizning veb-saytimizga tashrif buyuring: &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; BSD uslubidagi litsenziya asosida tarqatiladi; hissa va dasturiy ta&apos;minot litsenziya shartnomasi to&apos;g&apos;risida batafsil ma&apos;lumotni &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Dasturiy Ta&apos;minot Litsenziya Shartnomasi&lt;/a&gt;da ko&apos;rishingiz mumkin. Ushbu dasturiy ta&apos;minot faqat tadqiqot maqsadlarida yaratilgan va Oziq-ovqat va Farmatsevtika Idorasi yoki boshqa biron bir agentlik tomonidan ko&apos;rib chiqilmagan yoki tasdiqlanmagan.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="287"/>
         <source>Documentation &amp;&amp; Tutorials</source>
-        <translation type="unfinished"></translation>
+        <translation>Hujjatlar &amp;&amp; Qo&apos;llanmalar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="320"/>
@@ -29525,59 +29530,75 @@ This should only used by advanced users who understand the consequences of chang
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Hujjatlar&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;Hujjatlar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Tez Boshlash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Yordam olish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;Foydalanuvchi interfeysi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;Sichqoncha tugmalari, &amp;quot;Tez tugmalar&amp;quot; va klaviatura yorliqlari&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Qo&apos;llanmalarni ko&apos;rish&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Biz bilan bog&apos;laning&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;Slicer Forumiga tashrif buyuring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/feed/hashtag/?keywords=3dslicer&quot;&gt;LinkedIn-da bizga qo&apos;shiling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Funktsiya so&apos;rovlarini qidirish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;Xato haqida xabar berish&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;3D Slicer haqida&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Litsenziyani ko&apos;rish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;Qanday iqtibos keltirish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer nashrlari&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Minnatdorchilik&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="407"/>
         <source>Click the button to check for updates now. Note that anonymized usage statistics will be recorded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlarni tekshirish uchun tugmani bosing. E&apos;tibor bering, anonim foydalanish statistikasi yozib olinadi.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="355"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="379"/>
         <source>Check for updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlarni tekshiring: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="391"/>
         <source>Periodically check for updates. Note that anonymized usage statistics will be recorded. If the box appears as partially checked it means that automatic updates are only checked for the application or for extensions, but not both - click the checkbox to enable/disable all automatic update checks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlarni davriy tekshiring. Shuni yodda tutingki, anonimlashtirilgan foydalanish statistikasi yozib boriladi. Agar katakcha qisman belgilangan holda ko‘rinsa, bu avtomatik yangilanishlar faqat ilova yoki kengaytmalar uchun tekshirilayotganligini, lekin ikkalasi birgalikda emasligini anglatadi – barcha avtomatik yangilanishlarni tekshirishni yoqish/o‘chirish uchun katakchani bosing.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="394"/>
         <source>Automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Avtomatik</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="410"/>
         <source>Check now</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozir tekshiring</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="419"/>
         <source>Application update: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ilovani yangilash </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="438"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="464"/>
         <source>No information is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hech qanday ma&apos;lumot mavjud emas.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="451"/>
         <source>Extension updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>Plaginlarni yangilash </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="496"/>
         <source>Acknowledgment</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasdiq</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="529"/>
@@ -29589,27 +29610,79 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;Development of 3D Slicer is supported by &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; and the &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Community&lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details.&lt;/p&gt;
 &lt;p&gt;We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.&lt;/p&gt;
 &lt;p&gt;This module was developed by Jean-Christophe Fillion-Robin and Julien Finet at Kitware, Inc., and by Wendy Plesniak, Sonia Pujol, Steve Pieper and Ron Kikinis at Brigham and Women&apos;s Hospital.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;
+&lt;tr&gt;
+  &lt;td&gt;
+    &lt;p align=&quot;center&quot;&gt;
+      &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;
+        &lt;img src=&quot;qrc:Logos/NAMIC.png&quot; width=&quot;80&quot; style=&quot;vertical-align: middle;&quot; /&gt;
+      &lt;/a&gt;
+      &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;p align=&quot;center&quot;&gt;
+      &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;
+        &lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;
+      &lt;/a&gt;
+      &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;p align=&quot;center&quot;&gt;
+      &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;
+        &lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;
+      &lt;/a&gt;
+      &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+    &lt;p align=&quot;center&quot;&gt;
+      &lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;
+        &lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;
+      &lt;/a&gt;
+      &lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;
+  3D Slicer dasturini ishlab chiqish &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, 
+  &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, 
+  &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, 
+  &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt;, va 
+  &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Jamiyati&lt;/a&gt; tomonidan qoʻllab-quvvatlanadi. Batafsil maʼlumot uchun 
+  &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; sahifasiga murojaat qiling.
+&lt;/p&gt;
+&lt;p&gt;
+  Shuningdek, biz Slicer foydalanuvchi jamiyati aʼzolariga, bizga ushbu Welcome Modul mazmunini ishlab chiqishda yordam berganliklari uchun, va ularning fikr-mulohazalari 
+  funksionallikni, foydalanish qulayligini va Slicer foydalanuvchi tajribasini doimiy ravishda yaxshilab borayotganligi uchun minnatdorchilik bildiramiz.
+&lt;/p&gt;
+&lt;p&gt;
+  Ushbu modul Kitware, Inc. kompaniyasida Jean-Christophe Fillion-Robin va Julien Finet, shuningdek, Brigham and Women&apos;s Hospitalda Wendy Plesniak, Sonia Pujol, 
+  Steve Pieper va Ron Kikinis tomonidan ishlab chiqilgan.
+&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="106"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlar tekshirilmoqda...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
         <source>No updates were found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hech qanday yangilanish topilmadi.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="179"/>
         <source>Raising %1 Module:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Moduli ishga tushirilmoqda:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="180"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afsuski, so&apos;ralgan modul ushbu Slicer seansida mavjud emas.</translation>
     </message>
     <message numerus="yes">
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="387"/>
@@ -29623,12 +29696,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="389"/>
         <source>Use Extensions Manager to update these extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu kengaytmalarni yangilash uchun Kengaytmalar Menejeridan foydalaning:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="423"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi ilova versiyasi mavjud: %1</translation>
     </message>
 </context>
 <context>
