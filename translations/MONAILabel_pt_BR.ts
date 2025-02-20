@@ -185,7 +185,7 @@ Desenvolvido por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="316"/>
         <source>ROI/BBOX Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Prompt de ROI/BBOX</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="345"/>
@@ -425,17 +425,17 @@ Atualize para a versão mais recente do MONAILabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1594"/>
         <source>Please select a model</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, selecione um modelo</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1599"/>
         <source>Please add the required label to run interactive model</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicione a etiqueta necessária para executar o modelo interativo</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1616"/>
         <source>Run Inference for segment: {label}; model: {model}; 3d {in3d}</source>
-        <translation type="unfinished"></translation>
+        <translation>Executar inferência para osegmento: {label}; modelo: {model}; 3d {in3d}</translation>
     </message>
     <message>
         <source>Please select a deepgrow model</source>
@@ -593,7 +593,7 @@ Atualize para a versão mais recente do MONAILabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="410"/>
         <source>SmartEdit</source>
         <oldsource>SmartEdit / Deepgrow</oldsource>
-        <translation type="unfinished">SmartEdit / Deepgrow</translation>
+        <translation>SmartEdit</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="446"/>
