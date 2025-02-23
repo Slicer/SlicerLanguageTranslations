@@ -21,7 +21,7 @@
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="33"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>O caminho não existe</translation>
     </message>
 </context>
 <context>
@@ -39,7 +39,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="36"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Começar a gravar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="46"/>
@@ -59,17 +59,17 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="41"/>
         <source>Create a new tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar um novo tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="67"/>
         <source>Tutorial title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Título do tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="74"/>
         <source>Author name(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do autor(es):</translation>
     </message>
 </context>
 <context>
@@ -82,12 +82,12 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="104"/>
         <source>Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Parar de Gravar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="109"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Começar a Gravar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="154"/>
