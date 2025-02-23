@@ -9,7 +9,10 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+இந்த தொகுதி நம்பகமான பட்டியலை ஒரு மாதிரி மேற்பரப்பில் பதிவுசெய்கிறது.
+ இந்த தொகுதியை எவ்வாறு பயன்படுத்துவது என்பதற்கான உதவிக்கு: &lt;a href = &apos;https: //www.slicerigt.org&apos;&gt; SlicerIGT  வலைத்தளம் &lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
@@ -17,52 +20,55 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+இந்த கோப்பை முதலில் சீன்-கிறிச்டோஃப் பில்லியன்-ராபின், கிட்வேர் இன்க்.
+ மற்றும் ஸ்டீவ் பைபர், ஐசோமிக், இன்க். மற்றும் ஓரளவு என்ஐஎச் கிராண்ட் 3P41RR013218-12S1 ஆல் நிதியளிக்கப்பட்டது.
+</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
         <source>Pick the input fiducial list for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>வழிமுறைக்கான உள்ளீட்டு நம்பகமான பட்டியலைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீட்டு நம்பகத்தன்மை: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
         <source>Pick the input model for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>வழிமுறைக்கான உள்ளீட்டு மாதிரியைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
         <source>Input model: </source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீட்டு மாதிரி: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="96"/>
         <source>Pick the output to the algorithm.</source>
-        <translation>அல்காரிதத்திற்கு வெளியீட்டைத் தேர்ந்தெடுக்கவும்.</translation>
+        <translation>வழிமுறைக்கான வெளியீட்டைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு உருமாற்றம்: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
         <source>If checked, take screen shots for tutorials. Use Save Data to write them to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிபார்க்கப்பட்டால், பயிற்சிகளுக்கு திரைக்காட்சி நகல் எடுத்துக் கொள்ளுங்கள். தரவை வட்டுக்கு எழுத சேமிப்பை பயன்படுத்தவும்.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="115"/>
         <source>Set scale factor for the screen shots.</source>
-        <translation type="unfinished"></translation>
+        <translation>திரைக்காட்சி நகல் அளவு காரணியை அமைக்கவும்.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="122"/>
         <source>Run the algorithm.</source>
-        <translation>அல்காரிதத்தை இயக்கவும்.</translation>
+        <translation>வழிமுறையை இயக்கவும்.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="130"/>
@@ -72,7 +78,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="135"/>
         <source>Mean distance after registration: </source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவுசெய்த பின் சராசரி தூரம்: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
@@ -82,12 +88,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
         <source>Transform type: </source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றும் வகை: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>மறு செய்கைகளின் எண்ணிக்கை:</translation>
     </message>
 </context>
 <context>
@@ -95,12 +101,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="18"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation>வழிகாட்டுதல்</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="45"/>
         <source>Guidelet launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>வழிகாட்டுதல் துவக்கி</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
@@ -110,7 +116,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
         <source>Select Configuration: </source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளமைவைத் தேர்ந்தெடுக்கவும்: </translation>
     </message>
 </context>
 <context>
@@ -128,7 +134,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="190"/>
         <source>OpenIGTLink connector: </source>
-        <translation type="unfinished"></translation>
+        <translation>OpenIGTLink இணைப்பு: </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="193"/>
