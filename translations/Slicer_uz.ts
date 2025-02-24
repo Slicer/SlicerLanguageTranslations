@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkita surat qo&apos;shadi. Barcha turdagi suratlar kiritish mumkin bo&apos;lganiga qaramay, faqatgine imzolangan surat turlari natija sifatida hosil qilinadi. Ikki surat bir xil o&apos;lchamga ega bo&apos;lishi shart emas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
