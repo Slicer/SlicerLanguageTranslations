@@ -51,12 +51,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="253"/>
         <source>Refresh Weblate language list by querying the Weblate server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit seznam jazyků Weblate dotázáním serveru Weblate.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="256"/>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>obnovit</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="263"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="285"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this option is checked then only the latest .ts file in the folder will be used. Enable this option to ignore previously downloaded .ts files are saved in the same folder.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pokud je tato možnost zaškrtnuta, použije se pouze nejnovější soubor .ts ve složce. Pokud tuto možnost povolíte, nebude brán ohled na dříve stažené soubory .ts uložené ve stejné složce.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="151"/>
@@ -101,22 +101,22 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="39"/>
         <source>Qt &apos;lrelease&apos; tool path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt &apos;lrelease&apos; nástrojová cesta:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
         <source>Path to Qt lrelease executable. Leave empty to use default (the one bundled with the Slicer installer or available in system paths).</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta ke spustitelnému souboru Qt lrelease. Nechte prázdné, chcete-li použít výchozí (ten, který je součástí instalačního programu Slicer nebo je k dispozici v systémových cestách).</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="59"/>
         <source>Slicer version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer verze:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="66"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Only used for GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Používané pro GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
@@ -141,12 +141,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
         <source>Translation file folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Překladové složky souborů:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="117"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam složek, kde aplikace hledá překlady. Jedná se pouze o informace, cesty nejdou změnit.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="126"/>
@@ -166,17 +166,17 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="322"/>
         <source>If enabled, then the shortcut opens the text finder, which can be used to extract text from the application user interface and open it in the translation website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokud je tato funkce povolena, otevře se vyhledávač textu, který lze použít k extrakci textu z uživatelského rozhraní aplikace a jeho otevření na webové stránce pro překlad.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="347"/>
         <source>Keyboard shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Klávesová zkratka:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Jazykové nástroje</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -184,14 +184,19 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tento modul dokáže sestavit překladové soubory a nainstalovat je lokálně. Je užitečný pro vytváření a testování překladů.
+Další informace naleznete v &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks“&gt;dokumentaci rozšíření&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="39"/>
         <source>
 Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Vývoj tohoto modulu byl částečně financován z &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/“&gt;grantu CZI EOSS&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="141"/>
