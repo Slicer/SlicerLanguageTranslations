@@ -30432,7 +30432,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="423"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny programversion finns tillgänglig: %1</translation>
     </message>
 </context>
 <context>
