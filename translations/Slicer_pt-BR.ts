@@ -10204,7 +10204,7 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1420"/>
         <source>Lightbox image saved to file: {filename}</source>
         <oldsource>Lighbox image saved to file: {filename}</oldsource>
-        <translation type="unfinished">Imagem do painel de luz salva no arquivo: {filename}</translation>
+        <translation>Imagem do painel de luz salva no arquivo: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1423"/>
@@ -12045,42 +12045,42 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="225"/>
         <source>Percentile 5</source>
-        <translation type="unfinished"></translation>
+        <translation>5º percentil</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="226"/>
         <source>5th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>5º percentil dos valores de vóxel do volume escalar de entrada dentro do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="233"/>
         <source>Percentile 10</source>
-        <translation type="unfinished"></translation>
+        <translation>10º percentil</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="234"/>
         <source>10th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>10º percentil dos valores de vóxel do volume escalar de entrada dentro do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="241"/>
         <source>Percentile 90</source>
-        <translation type="unfinished"></translation>
+        <translation>90º percentil</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="242"/>
         <source>90th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>90º percentil dos valores de vóxel do volume escalar de entrada dentro do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="249"/>
         <source>Percentile 95</source>
-        <translation type="unfinished"></translation>
+        <translation>95º percentil</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="250"/>
         <source>95th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>95º percentil dos valores de vóxel do volume escalar de entrada dentro do segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="259"/>
@@ -13005,32 +13005,32 @@ Plano de Pesquisa Médica do NIH, Financiamento U54 EB005149.</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="14"/>
         <source>qMRMLClipNodeDisplayWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qMRMLClipNodeDisplayWidget</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="39"/>
         <source>Clipping:</source>
-        <translation type="unfinished">Recorte:</translation>
+        <translation>Recorte:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="46"/>
         <source>Cap visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidade da tampa:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="53"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacidade:</translation>
+        <translation>Opacidade:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="60"/>
         <source>Outline visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidade do contorno:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="74"/>
         <source>Keep only whole cells:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conservar apenas células inteiras:</translation>
     </message>
 </context>
 <context>
@@ -15821,12 +15821,12 @@ Para mais informações, confira o módulo Segmentações.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="511"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="529"/>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de recorte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="209"/>
@@ -16417,32 +16417,32 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="564"/>
         <source>Choose new segment color</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolher nova cor para o segmento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="590"/>
         <source>Stop using terminologies?</source>
-        <translation type="unfinished"></translation>
+        <translation>Parar de usar terminologias?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="591"/>
         <source>You frequently enter custom name or color. How do you prefer setting name and color next time?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você costuma inserir nome ou cor personalizada com frequência. Como prefere definir o nome e a cor na próxima vez?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="596"/>
         <source>Switch to direct editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar para edição direta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="597"/>
         <source>Keep using terminology selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar usando o seletor de terminologia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="598"/>
         <source>Ask me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Pergunte-me depois</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="630"/>
@@ -16507,7 +16507,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1280"/>
         <source>Use standard terminology for name and color selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar terminologia padrão para seleção de nome e cor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1352"/>
@@ -17205,12 +17205,12 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1321"/>
         <source>Show slice edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir borda da fatia</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1324"/>
         <source>Show slice edge in the 3D view</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir borda da fatia na visualização 3D</translation>
     </message>
     <message>
         <source>S: </source>
@@ -19639,7 +19639,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
         <source>Join Us on LinkedIn</source>
         <oldsource>Join Us on Twitter</oldsource>
-        <translation type="unfinished">Junte-se a nós no Twitter</translation>
+        <translation>Junte-se a nós no LinkedIn</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="111"/>
@@ -23065,12 +23065,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="702"/>
         <source>Modifications in data files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificações nos arquivos de dados:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="723"/>
         <source>Modifications in the scene file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificações no arquivo da cena:</translation>
     </message>
     <message>
         <source>Some data have been modified. Do you want to save them before exit?</source>
@@ -24157,12 +24157,12 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="189"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de recorte:</translation>
     </message>
     <message>
         <source>Clipping Planes</source>
@@ -24565,12 +24565,12 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="70"/>
         <source>The Plots module allows editing properties of plots.</source>
-        <translation type="unfinished"></translation>
+        <translation>O módulo Gráficos permite editar as propriedades dos gráficos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="78"/>
         <source>This module was originally developed by Davide Punzo, Kapteyn Astronomical Institute, and was supported through the European Research Council grant nr. 291531.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo foi originalmente desenvolvido por Davide Punzo, do Instituto Astronômico Kapteyn, e foi apoiado pela concessão do Conselho Europeu de Pesquisa, nº 291531.</translation>
     </message>
 </context>
 <context>
@@ -24634,12 +24634,12 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="60"/>
         <source>The Transforms Reformat Widget Module creates and edits the Slice Node transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>O módulo de Reformatação de Transformações cria e edita as transformações do nó de fatia.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="69"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Este trabalho tem o suporte de NA-MIC, NAC, BIRN, NCIGT e da Comunidade do Slicer.</translation>
+        <translation>Este trabalho tem o suporte de NA-MIC, NAC, BIRN, NCIGT e da Comunidade do Slicer.</translation>
     </message>
 </context>
 <context>
@@ -25007,12 +25007,12 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="878"/>
         <source>File name may be too long: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome do arquivo pode ser muito longo: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="887"/>
         <source>File path may be too long: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome do caminho pode ser muito longo: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="894"/>
@@ -25145,7 +25145,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="39"/>
         <source>Scene Views</source>
         <oldsource>Views</oldsource>
-        <translation type="unfinished">Visualizações</translation>
+        <translation>Visualizações da cena</translation>
     </message>
 </context>
 <context>
@@ -25549,7 +25549,7 @@ Escolha um diretório vazio.</translation>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="40"/>
         <source> Segmentation:</source>
         <oldsource> Active segmentation:</oldsource>
-        <translation type="unfinished"> Segmentação ativa:</translation>
+        <translation> Segmentação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="47"/>
@@ -26045,12 +26045,14 @@ Muito provavelmente o segmento não pode ser convertido em uma representação d
         <source>If enabled, double-clicking the segment name or color in the segment tables opens the terminology selector. Otherwise the name and color can be simply edited. True by default.
 
 Note: This applies to segment tables in Segment Editor and Segmentations modules, but other modules may choose to use custom setting that is not controlled by this checkbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ativado, o duplo clique no nome ou na cor do segmento nas tabelas de segmentos abre o seletor de terminologia. Caso contrário, o nome e a cor podem ser simplesmente editados. Por padrão, está ativado.
+
+Nota: Isso se aplica às tabelas de segmentos nos módulos Editor de Segmento e Segmentações, mas outros módulos podem optar por usar configurações personalizadas que não são controladas por esta caixa de seleção.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="71"/>
         <source>Use standard terminology for segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar terminologia padrão para segmentos:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="106"/>
@@ -26062,7 +26064,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="113"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="123"/>
         <source>Default mode of editing in areas of other segments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo padrão de edição em áreas de outros segmentos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="133"/>
@@ -26093,7 +26095,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="101"/>
         <source>Use standard terminology for segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar terminologia padrão para segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="104"/>
@@ -27533,12 +27535,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="126"/>
         <source>Show slice edge in 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir borda da fatia em 3D:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="133"/>
         <source>Show colored frame around the slice when displayed in 3D views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir uma moldura colorida ao redor da fatia quando exibida nas visualizações 3D.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="146"/>
@@ -27661,7 +27663,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="121"/>
         <source>Slice edge visibility in 3D views</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidade da borda da fatia nas visualizações 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="126"/>
@@ -28544,18 +28546,18 @@ Etiquetas: %6</translation>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="138"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="151"/>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="158"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="168"/>
         <source>If enabled, double-clicking the color column opens the terminology selector. Otherwise the color can be edited via simple color selector. True by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ativado, o duplo clique na coluna de cor abre o seletor de terminologia. Caso contrário, a cor pode ser editada pelo seletor de cor simples. Por padrão, está ativado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="161"/>
         <source>Use standard terminology:</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar terminologia padrão:</translation>
     </message>
     <message>
         <source>  ID:</source>
@@ -28584,32 +28586,32 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="75"/>
         <source>Enable/disable automatic subject hierarchy children deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar/desabilitar exclusão automática dos filhos na hierarquia de sujeitos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="79"/>
         <source>Include patient ID in the name of the patient item</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir a identificação do paciente no nome do item do paciente</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="82"/>
         <source>Include patient birth date in the name of the patient item</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir a data de nascimento do paciente no nome do item do paciente</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="85"/>
         <source>Include study ID in the name of the study item</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir a identificação do estudo no nome do item do estudo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="88"/>
         <source>Include study date in the name of the study item</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir a data do estudo no nome do item do estudo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="91"/>
         <source>Use standard terminology for color selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar terminologia padrão para seleção de cor</translation>
     </message>
 </context>
 <context>
@@ -28672,47 +28674,47 @@ Etiquetas: %6</translation>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="240"/>
         <source>Allow the transform to be modified interactively in the 2D and 3D views</source>
-        <translation type="unfinished">Permitir que a transformação seja modificada interativamente nas visualizações 2D e 3D</translation>
+        <translation>Permitir que a transformação seja modificada interativamente nas visualizações 2D e 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="246"/>
         <source>Edit transform properties...</source>
-        <translation type="unfinished">Editar propriedades de transformação...</translation>
+        <translation>Editar propriedades de transformação...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="249"/>
         <source>Edit properties of the current transform</source>
-        <translation type="unfinished">Editar propriedades da transformação atual</translation>
+        <translation>Editar propriedades da transformação atual</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="253"/>
         <source>Harden transform</source>
-        <translation type="unfinished">Endurecer transformação</translation>
+        <translation>Endurecer transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="256"/>
         <source>Harden current transform on this node and all children nodes</source>
-        <translation type="unfinished">Endurecer a transformação atual neste nó e todos os nós filhos</translation>
+        <translation>Endurecer a transformação atual neste nó e todos os nós filhos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="260"/>
         <source>Create new transform</source>
-        <translation type="unfinished">Criar nova transformação</translation>
+        <translation>Criar nova transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="263"/>
         <source>Create and apply new transform</source>
-        <translation type="unfinished">Criar e aplicar nova transformação</translation>
+        <translation>Criar e aplicar nova transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="267"/>
         <source>None</source>
-        <translation type="unfinished">Nenhum</translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="273"/>
         <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="unfinished">Remova a transformação pai de todos os nós nesta ramificação</translation>
+        <translation>Remova a transformação pai de todos os nós nesta ramificação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="622"/>
@@ -29486,7 +29488,7 @@ Nota: Se você escolher não, a transformação aplicada será simplesmente subs
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="376"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar tudo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="407"/>
@@ -29546,12 +29548,12 @@ Deseja atualizar o arquivo de contexto armazenado com o recém-carregado?</trans
     <message>
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="89"/>
         <source>A module to create, edit and manage text data in the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>Um módulo para criar, editar e gerenciar dados de texto na cena.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="97"/>
         <source>This work was supported through CANARIE&apos;s Research Software Program, and Cancer Care Ontario. The Texts module was contributed by Kyle Sunderland and Andras Lasso (Perk Lab, Queen&apos;s University)</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho foi apoiado pelo Programa de Software de Pesquisa da CANARIE e pelo Cuidados com o Câncer de Ontário. O módulo Textos foi contribuição de Kyle Sunderland e Andras Lasso (Perk Lab, Queen&apos;s University)</translation>
     </message>
 </context>
 <context>
@@ -29602,12 +29604,12 @@ Deseja atualizar o arquivo de contexto armazenado com o recém-carregado?</trans
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="98"/>
         <source>The Transforms Module creates and edits transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>O módulo Transformações cria e edita transformações.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="106"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Este trabalho tem o suporte de NA-MIC, NAC, BIRN, NCIGT e da Comunidade do Slicer.</translation>
+        <translation>Este trabalho tem o suporte de NA-MIC, NAC, BIRN, NCIGT e da Comunidade do Slicer.</translation>
     </message>
 </context>
 <context>
@@ -29621,7 +29623,7 @@ Deseja atualizar o arquivo de contexto armazenado com o recém-carregado?</trans
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="44"/>
         <source> Transform:</source>
         <oldsource>Active Transform:</oldsource>
-        <translation type="unfinished">Transformação Ativa:</translation>
+        <translation> Transformação:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="74"/>
@@ -29727,7 +29729,7 @@ Deseja atualizar o arquivo de contexto armazenado com o recém-carregado?</trans
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="423"/>
         <source>Apply the selected transform to the selected transformable nodes</source>
         <oldsource>Apply the active transform to the selected transformable nodes</oldsource>
-        <translation type="unfinished">Aplique a transformação ativa aos nós transformáveis selecionados</translation>
+        <translation>Aplique a transformação ativa aos nós transformáveis selecionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="426"/>
@@ -29738,7 +29740,7 @@ Deseja atualizar o arquivo de contexto armazenado com o recém-carregado?</trans
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="433"/>
         <source>Remove the selected transform from the selected transformed nodes</source>
         <oldsource>Remove the active transform from the selected transformed nodes</oldsource>
-        <translation type="unfinished">Remover a transformação ativa dos nós transformados selecionados</translation>
+        <translation>Remover a transformação ativa dos nós transformados selecionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="436"/>
@@ -30399,22 +30401,22 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="269"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="287"/>
         <source>Clipping:</source>
-        <translation type="unfinished">Recorte:</translation>
+        <translation>Recorte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="294"/>
         <source>Clip node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de recorte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="338"/>
         <source>Soft edge:</source>
-        <translation type="unfinished">Borda suave:</translation>
+        <translation>Borda suave:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="373"/>
@@ -30690,7 +30692,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
         <source> Volume: </source>
         <oldsource>Active Volume: </oldsource>
-        <translation type="unfinished">Volume Ativo: </translation>
+        <translation> Volume: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
@@ -30991,7 +30993,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</oldsource>
-        <translation type="unfinished">&lt;p&gt;&lt;b&gt;Documentação&lt;/b&gt;&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;b&gt;Documentação&lt;/b&gt;&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;Documentação&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Começo Rápido&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Obtenha Ajuda&lt;/a&gt;&lt;/li&gt;
@@ -31493,7 +31495,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="270"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="284"/>
         <source>Text file (.%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de texto (.%1)</translation>
     </message>
 </context>
 <context>
