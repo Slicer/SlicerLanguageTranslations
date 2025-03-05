@@ -396,37 +396,37 @@ Para mais informações, visite &lt;a href=&apos;https://github.com/SlicerIGT/Sl
     <message>
         <location filename="TextureModel/TextureModel.py" line="68"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="80"/>
         <source>Color image containing texture image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem colorida contendo a imagem de textura.</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="81"/>
         <source>Texture:</source>
-        <translation type="unfinished"></translation>
+        <translation>Textura:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="84"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>desabilitado</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
         <source>RGB vector</source>
-        <translation type="unfinished">Vetor RGB</translation>
+        <translation>Vetor RGB</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="86"/>
         <source>RGB float vector</source>
-        <translation type="unfinished">vetor de ponto flutuante RGB</translation>
+        <translation>vetor de ponto flutuante RGB</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="87"/>
         <source>RGB float components</source>
-        <translation type="unfinished">componentes RGB em ponto flutuante</translation>
+        <translation>componentes RGB em ponto flutuante</translation>
     </message>
     <message>
         <source>RGB vector</source>
@@ -451,7 +451,7 @@ Para mais informações, visite &lt;a href=&apos;https://github.com/SlicerIGT/Sl
     <message>
         <location filename="TextureModel/TextureModel.py" line="92"/>
         <source>Save color information as point data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar informações de cor como dados de ponto:</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="99"/>
@@ -924,7 +924,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.h" line="50"/>
         <source>Breach Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso de violação</translation>
     </message>
 </context>
 <context>
@@ -1107,7 +1107,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.h" line="44"/>
         <source>Collect Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Coletar pontos</translation>
     </message>
 </context>
 <context>
@@ -1274,7 +1274,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="CreateModels/qSlicerCreateModelsModule.h" line="44"/>
         <source>Create Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar Modelos</translation>
     </message>
 </context>
 <context>
@@ -1404,7 +1404,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.h" line="49"/>
         <source>Fiducial Registration Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Assistente de Registro Fiducial</translation>
     </message>
 </context>
 <context>
@@ -1479,7 +1479,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.h" line="46"/>
         <source>Landmark Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Detecção de Marcos</translation>
     </message>
 </context>
 <context>
@@ -1597,7 +1597,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.h" line="45"/>
         <source>Path Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorador de Caminhos</translation>
     </message>
 </context>
 <context>
@@ -2024,7 +2024,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.h" line="44"/>
         <source>Pivot Calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Calibração do pivô</translation>
     </message>
 </context>
 <context>
@@ -2464,7 +2464,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModule.h" line="48"/>
         <source>Transform Processor</source>
-        <translation type="unfinished"></translation>
+        <translation>Processador de Transformações</translation>
     </message>
 </context>
 <context>
@@ -2576,7 +2576,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.h" line="44"/>
         <source>Ultrasound Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Instantâneos de Ultrassom</translation>
     </message>
 </context>
 <context>
@@ -2900,7 +2900,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.h" line="49"/>
         <source>Volume Reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstrução de Volume</translation>
     </message>
 </context>
 <context>
@@ -3016,7 +3016,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
         <source>Volume Reslice Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlador de Refatiação de Volume</translation>
     </message>
 </context>
 <context>
@@ -3034,7 +3034,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.h" line="48"/>
         <source>Watchdog</source>
-        <translation type="unfinished"></translation>
+        <translation>Vigilância</translation>
     </message>
 </context>
 <context>
@@ -3203,88 +3203,89 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="223"/>
         <source>&apos;From&apos; fiducial list is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>A lista fiducial “De” não está definida.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="230"/>
         <source>&apos;To&apos; fiducial list is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>A lista fiducial “Para” não está definida.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="237"/>
         <source>Output transform is not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>A transformação de saída não está definida.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="243"/>
         <source>&apos;From&apos; fiducial list has too few fiducials (minimum 3 required).</source>
-        <translation type="unfinished"></translation>
+        <translation>A lista de fiduciais “De” tem muito poucos fiduciais (é necessário um mínimo de 3).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="248"/>
         <source>&apos;To&apos; fiducial list has too few fiducials (minimum 3 required).</source>
-        <translation type="unfinished"></translation>
+        <translation>A lista de fiduciais “Para” tem muito poucos fiduciais (é necessário um mínimo de 3).</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="269"/>
         <source>Fiducial lists have unequal number of fiducials (&apos;From&apos; has %1, &apos;To&apos; has %2). Either adjust the lists, or use automatic point matching. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>As listas de fiduciais têm um número desigual de fiduciais (“De” tem %1, “Para” tem %2). Ajustar as listas ou utilizar a correspondência automática de pontos. Abortar o registo.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="286"/>
         <source>Automatic point matching is currently supported only for rigid registration. Currently %1 registration is being used. Unexpected results may occur.</source>
-        <translation type="unfinished"></translation>
+        <translation>A correspondência automática de pontos só é atualmente suportada para o registro rígido. Atualmente, está sendo utilizado o registro %1. Podem ocorrer resultados inesperados.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="298"/>
         <source>Too many points to compute point pairing %1. To avoid long computation time, there should be at most %2 points. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muitos pontos para calcular o emparelhamento de pontos %1. Para evitar um longo tempo de cálculo, deve haver no máximo %2 pontos. Abortando o registro.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="316"/>
         <source>Could not find a good mapping. Mean squared distance error was %1, but tolerance is %2. Results are not expected to be accurate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível encontrar um bom mapeamento. O erro de distância média quadrada foi de %1, mas a tolerância é de %2. Não se espera que os resultados sejam precisos.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="326"/>
         <source>The &apos;best&apos; point matching is reported as ambiguous and may be incorrect. This could happen because the point geometry is symmetric. Results are not necessarily expected to be accurate.</source>
-        <translation type="unfinished"></translation>
+        <translation>A “melhor” correspondência de pontos é relatada como ambígua e pode estar incorreta. Isso pode ocorrer porque a geometria do ponto é simétrica. Não se espera que os resultados sejam necessariamente precisos.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="337"/>
         <source>Unrecognized point matching method: %1. Aborting registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Método de correspondência de pontos não reconhecido: %1. Abortando o registro.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="347"/>
         <source>&apos;From&apos; fiducial list has strictly collinear or singular points.</source>
-        <translation type="unfinished"></translation>
+        <translation>A lista fiducial “De” tem pontos estritamente colineares ou singulares.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="354"/>
         <source>&apos;To&apos; fiducial list has strictly collinear or singular points.</source>
-        <translation type="unfinished"></translation>
+        <translation>A lista fiducial “Para” tem pontos estritamente colineares ou singulares.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="400"/>
         <source>Warping transform cannot be stored
 in linear transform node</source>
-        <translation type="unfinished"></translation>
+        <translation>A transformação de distorção não pode ser armazenada
+no nó de transformação linear</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="452"/>
         <source>Invalid transform type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de transformação inválido.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="460"/>
         <source>Failed to retreive transform from node. RMS Error could not be evaluated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao recuperar a transformação do nó. O erro RMS não pôde ser avaliado.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="466"/>
         <source>Registration Complete. RMS Error: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro concluído. Erro de RMS: %1.</translation>
     </message>
 </context>
 </TS>
