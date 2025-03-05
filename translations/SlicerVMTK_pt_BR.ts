@@ -859,14 +859,16 @@ O pincel “Esfera” será aplicado. Outras personalizações podem ser feitas 
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="28"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de parâmetros:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="38"/>
         <source>Pick a node to store the parameter set.
 
 This is intended to represent a unique combination of input centerline and surface nodes. Create a distinct parameter set for each combination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha um nó para armazenar o conjunto de parâmetros.
+
+Isso tem como objetivo representar uma combinação única de nós de linha central e superfície de entrada. Crie um conjunto de parâmetros distinto para cada combinação.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="658"/>
@@ -2591,23 +2593,23 @@ Espera-se que a linha central de entrada esteja na superfície do lúmen.</trans
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entradas</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="69"/>
         <source>Tube tree:</source>
-        <translation type="unfinished"></translation>
+        <translation>Árvore tubular:</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="78"/>
         <source>Pick an input segmentation or model node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha um nó de segmentação ou modelo de entrada.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="109"/>
         <source>Select an input segment.</source>
         <oldsource>Select an input segment in the selected segmentation.</oldsource>
-        <translation type="unfinished">Selecione um segmento de entrada na segmentação selecionada.</translation>
+        <translation>Selecione um segmento de entrada na segmentação selecionada.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
@@ -2651,7 +2653,7 @@ Espera-se que a linha central de entrada esteja na superfície do lúmen.</trans
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="122"/>
         <source>No surface selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma superfície selecionada.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="128"/>
@@ -2697,7 +2699,7 @@ Espera-se que a linha central de entrada esteja na superfície do lúmen.</trans
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="230"/>
         <source>Branches</source>
-        <translation type="unfinished">Ramos</translation>
+        <translation>Ramos</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="236"/>
