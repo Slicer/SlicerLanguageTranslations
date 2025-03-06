@@ -242,7 +242,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="111"/>
         <source>Open Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir Annotateur</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
@@ -254,7 +254,9 @@
         <source>
         The development of this module has been made possible in part by a grant from the Chan Zuckerberg Initiative
         </source>
-        <translation type="unfinished"></translation>
+        <translation>
+        Le développement de ce module a été rendu possible en partie grâce à une subvention de la Chan Zuckerberg Initiative.
+        </translation>
     </message>
     <message>
         <source>
