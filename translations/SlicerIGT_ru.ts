@@ -9,7 +9,11 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Этот модуль выполняет регистрацию списка опорных точек (fiducial list) на поверхность модели, используя метод итеративных ближайших точек (ICP).
+
+Для получения справки о работе модуля посетите: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;сайт SlicerIGT&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
