@@ -9994,7 +9994,7 @@ Um novo nome de arquivo é gerado para cada imagem capturada (nenhum arquivo é 
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="368"/>
         <source>Size scaling applied to the watermark image. 100% is original size</source>
-        <translation>Escala de tamanho aplicada à imagem da marca d&apos;água. 100% é o tamanho original.</translation>
+        <translation>Escala de tamanho aplicada à imagem da marca d&apos;água. 100% é o tamanho original</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="382"/>
@@ -19981,7 +19981,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="209"/>
         <source>Output before &apos;&lt;?xml&apos; is [%1]</source>
-        <translation>A saída antes de &apos;&lt;?xml&apos; é [%1].</translation>
+        <translation>A saída antes de &apos;&lt;?xml&apos; é [%1]</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="157"/>
@@ -29456,7 +29456,7 @@ Nota: Se você escolher não, a transformação aplicada será simplesmente subs
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1371"/>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
-        <translation>Select type modifier...</translation>
+        <translation>Nenhum modificador de tipo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="169"/>
@@ -29473,7 +29473,7 @@ Nota: Se você escolher não, a transformação aplicada será simplesmente subs
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="2158"/>
         <source>No region modifier</source>
         <oldsource>Select anatomic region modifier...</oldsource>
-        <translation>Selecione o modificador anatômico de região...</translation>
+        <translation>Nenhum modificador de região</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="280"/>
