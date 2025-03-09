@@ -3676,7 +3676,7 @@ Exportação interrompida.</translation>
         <source>Do you want to delete the following selected items from the LOCAL database? 
 The data will not be deleted from the PACs server. 
 </source>
-        <translation>Você deseja excluir os seguintes itens selecionados do banco de dados LOCAL?  
+        <translation>Você deseja excluir os seguintes itens selecionados do banco de dados LOCAL?.
 Os dados não serão excluídos do servidor PACS. 
 </translation>
     </message>
