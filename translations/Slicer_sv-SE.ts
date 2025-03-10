@@ -19746,17 +19746,17 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1810"/>
         <source>Built on top of:</source>
-        <translation type="unfinished"></translation>
+        <translation>Det är byggt med hjälp av:</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1830"/>
         <source>Licensing Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Licensinformation</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1831"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemsida</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1832"/>
@@ -19766,7 +19766,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1839"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
-        <translation>Slicer är INTE en FDA-godkänt medicinskt program.&lt;br&gt;&lt;br&gt;Det stöds av: NA-MIC, NAC, BIRN, NCIGT och Slicer Community.&lt;br&gt;&lt;br&gt;Ett särskilt tack till NIH och våra andra stödjare.&lt;br&gt;&lt;br&gt;Detta arbete är en del av National Alliance for Medical Image Computing (NA-MIC), finansierad av National Institutes of Health genom NIH Roadmap for Medical Research, Grant U54 EB005149. Information om National Centers for Biomedical Computing finns på &lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Slicer är INTE en FDA-godkänt medicinskt program.&lt;br&gt;&lt;br&gt;Det stöds av: NA-MIC, NAC, BIRN, NCIGT och Slicer Community.&lt;br&gt;&lt;br&gt;Ett särskilt tack till NIH och våra andra stödjare.&lt;br&gt;&lt;br&gt;Detta arbete är en del av National Alliance for Medical Image Computing (NA-MIC) och är finansierad av National Institutes of Health genom NIH Roadmap for Medical Research med Grant U54 EB005149. Information om National Centers for Biomedical Computing finns på &lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
