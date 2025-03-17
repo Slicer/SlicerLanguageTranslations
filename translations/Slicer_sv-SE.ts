@@ -20318,7 +20318,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="135"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
         <oldsource>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Modulen Data utgör det centrala stället för organisering av all inläst data som är tillgängligt för åtkomst och modifiering. Den möjliggör organisering av data i mapp eller trädstruktur för patienter och studier (vilket automatiskt görs för DICOM), åskådlighet av all visualiserbar data, transformation av hela strukturer samt hantering av en mängd datatypspecifika egenskaper.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
