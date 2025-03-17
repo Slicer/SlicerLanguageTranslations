@@ -12,7 +12,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <translation>
 Este módulo registra una lista de fiduciales a una superficie modelo utilizando el método de puntos más cercanos iterativos (ICP).  
 Para obtener ayuda sobre cómo usar este módulo, visita: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
-…
+….
     </translation>
     </message>
     <message>
