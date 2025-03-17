@@ -450,7 +450,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="30"/>
         <source>Off</source>
-        <translation type="unfinished">Off</translation>
+        <translation>Desactivado</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
@@ -630,28 +630,28 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
         <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está habilitado, la caja delimitadora de las ROIs de entrada define la región de soporte de la cuadrícula BSpline. De lo contrario, la región de soporte de la cuadrícula BSpline es toda la imagen fija.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
         <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplica la operación de igualación de histograma a las imágenes de entrada para hacerlas más similares. Esto es adecuado para imágenes de la misma modalidad que pueden tener diferente brillo o contraste, pero el mismo perfil de intensidad general. NO lo uses si estás registrando imágenes de diferentes modalidades.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
         <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplica un filtrado de mediana para reducir el ruido en los volúmenes de entrada. Los 3 valores especifican el radio para el preprocesamiento opcional con MedianImageFilter en las tres direcciones (en vóxeles).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina los vóxeles de intensidad muy alta y muy baja de los volúmenes de entrada. El parámetro especifica el porcentaje medio para determinar los valores atípicos de las intensidades de la imagen. El valor predeterminado es cero, lo que significa que no se eliminarán valores atípicos. Si se establece en **0.005**, se descartará el **0.005%** de ambos extremos, por lo que en total se ignorará el **0.01%** de las intensidades en el cálculo estadístico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="71"/>
         <source>NOMASK</source>
-        <translation type="unfinished"></translation>
+        <translation>SIN MÁSCARA</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
@@ -666,7 +666,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
         <source>Advanced Output Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuraciones Avanzadas de Salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
@@ -681,52 +681,52 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Píxel de la Imagen de Salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
         <source>Background Fill Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de Relleno de Fondo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="79"/>
         <source>Scale Output Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Escalar Valores de Salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de Interpolación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
         <source>Input fixed image that will be used for multimodal registration. (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen fija de entrada que se usará para el registro multimodal. (la imagen en movimiento será transformada a este espacio de imagen).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="82"/>
         <source>Input moving image that will be used for multimodal registration(this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen en movimiento de entrada que se usará para el registro multimodal. (esta imagen será transformada al espacio de la imagen fija).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
         <source>Data type for representing a voxel of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de datos para representar un vóxel del Volumen de Salida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
         <source>This value will be used for filling those areas of the output image that have no corresponding voxels in the input moving image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este valor se usará para rellenar aquellas áreas de la imagen de salida que no tienen vóxeles correspondientes en la imagen en movimiento de entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
         <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si es verdadero, y los valores de los vóxeles no encajan dentro de los valores mínimo y máximo del outputVolumePixelType deseado, entonces los valores mínimos/máximos de los vóxeles de la imagen de salida se escalarán linealmente para ajustarse al rango mínimo/máximo del outputVolumePixelType.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de interpolación que se utilizará al aplicar la transformación al volumen en movimiento. Las opciones son: Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos o ResampleInPlace. La opción **ResampleInPlace** creará una imagen con los mismos valores discretos de vóxel y ajustará el origen y la dirección de la interpretación del espacio físico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
@@ -743,7 +743,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>Corto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
@@ -768,7 +768,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Vecino más cercano</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
@@ -1426,7 +1426,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>corto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
@@ -3447,7 +3447,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
@@ -3512,7 +3512,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="98"/>
         <source>Measurements</source>
-        <translation type="unfinished">Measurements</translation>
+        <translation>Mediciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="99"/>
@@ -3850,7 +3850,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
         <source>Translation</source>
-        <translation type="unfinished">Translation</translation>
+        <translation>Traducción</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
@@ -4827,7 +4827,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
@@ -6332,7 +6332,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation>Origen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
@@ -6474,7 +6474,7 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="103"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Transform Matrix</translation>
+        <translation>Matriz de Transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
@@ -6783,7 +6783,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="60"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation>Origen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="61"/>
@@ -6921,12 +6921,12 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="87"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Transform Matrix</translation>
+        <translation>Matriz de Transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="88"/>
         <source>Transform</source>
-        <translation type="unfinished">Transform</translation>
+        <translation>Transformar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
@@ -7797,7 +7797,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
         <source>Small</source>
-        <translation type="unfinished">Small</translation>
+        <translation>Pequeño</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="401"/>
@@ -7857,7 +7857,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="627"/>
         <source>Show options</source>
-        <translation type="unfinished">Show options</translation>
+        <translation>Mostrar Opciones</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="631"/>
@@ -8526,7 +8526,7 @@ indicated by the mouse position.
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="25"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="298"/>
         <source>Data Probe</source>
-        <translation type="unfinished">Data Probe</translation>
+        <translation>Sonda de datos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
@@ -8569,7 +8569,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="107"/>
         <source>Path</source>
-        <translation type="unfinished">Path</translation>
+        <translation>Ruta</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="116"/>
@@ -8595,7 +8595,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"/>
         <source>Camera:</source>
-        <translation type="unfinished">Camera:</translation>
+        <translation>Cámara:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="128"/>
@@ -8952,12 +8952,12 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="28"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="48"/>
         <source>Select folder</source>
-        <translation type="unfinished">Select folder</translation>
+        <translation>Seleccionar Carpeta</translation>
     </message>
 </context>
 <context>
@@ -9126,7 +9126,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="73"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="88"/>
@@ -9154,7 +9154,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="50"/>
         <source>Create new </source>
-        <translation type="unfinished">Create new </translation>
+        <translation>Crear nuevo. </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="51"/>
@@ -9201,7 +9201,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="113"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">Download Sample Data</translation>
+        <translation>Descargar datos de muestra</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="114"/>
@@ -9481,7 +9481,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="135"/>
         <source>Rotation axis:</source>
-        <translation type="unfinished">Rotation axis:</translation>
+        <translation>Eje de Rotación:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
@@ -9496,7 +9496,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="143"/>
         <source>Sequence:</source>
-        <translation type="unfinished">Sequence:</translation>
+        <translation>Secuencia:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="151"/>
@@ -9782,12 +9782,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="400"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Tamaño:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="402"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacidad:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="405"/>
@@ -10077,7 +10077,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="121"/>
         <source>Show 3D</source>
-        <translation type="unfinished">Show 3D</translation>
+        <translation>Mostrar 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="122"/>
@@ -10467,7 +10467,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="52"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="53"/>
@@ -10477,7 +10477,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="54"/>
         <source>Subtract</source>
-        <translation type="unfinished">Subtract</translation>
+        <translation>Restar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="55"/>
@@ -10487,7 +10487,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="56"/>
         <source>Invert</source>
-        <translation type="unfinished">Invert</translation>
+        <translation>Invertir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
@@ -10522,7 +10522,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="72"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="74"/>
@@ -10586,7 +10586,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="47"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="52"/>
@@ -10682,7 +10682,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="67"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>Operación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="71"/>
@@ -11172,7 +11172,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="97"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentation:</translation>
+        <translation>Segmentación:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="108"/>
@@ -11284,7 +11284,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="1016"/>
         <source>Load Scene</source>
-        <translation type="unfinished">Load Scene</translation>
+        <translation>Cargar Escena</translation>
     </message>
 </context>
 <context>
@@ -12455,32 +12455,32 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
         <source>Scene view</source>
-        <translation type="unfinished">Scene view</translation>
+        <translation>Vista de Escena</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
         <source>Capture and name a scene view.</source>
-        <translation type="unfinished">Capture and name a scene view.</translation>
+        <translation>Captura y nombra una vista de escena.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="120"/>
         <source>Restore view</source>
-        <translation type="unfinished">Restore view</translation>
+        <translation>Restaurar vista</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="122"/>
         <source>Restore or delete saved scene views.</source>
-        <translation type="unfinished">Restore or delete saved scene views.</translation>
+        <translation>Restaurar o eliminar vistas de escena guardadas.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="177"/>
         <source>SceneView Name</source>
-        <translation type="unfinished">SceneView Name</translation>
+        <translation>Nombre de Vista de Escena</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
         <source>SceneView Name:</source>
-        <translation type="unfinished">SceneView Name:</translation>
+        <translation>Nombre de Vista de Escena:</translation>
     </message>
 </context>
 <context>
@@ -12503,7 +12503,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="53"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacidad:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="60"/>
@@ -12521,17 +12521,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="14"/>
         <source>Clip</source>
-        <translation type="unfinished">Clip</translation>
+        <translation>Recorte</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="66"/>
         <source>Clipping Type:</source>
-        <translation type="unfinished">Clipping Type:</translation>
+        <translation>Tipo de Recorte:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="63"/>
         <source>When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</source>
-        <translation type="unfinished">When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</translation>
+        <translation>Cuando se utiliza más de un plano de corte, esta opción controla si se usa la unión o la intersección de los espacios positivo y/o negativo para recortar el modelo. Se conservan las partes del modelo dentro del espacio seleccionado, mientras que las partes fuera de la selección se eliminan.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="49"/>
@@ -12541,17 +12541,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="46"/>
         <source>Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation type="unfinished">Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+        <translation>Usa la unión de los espacios positivos y/o negativos definidos por los planos de corte para recortar el modelo.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="35"/>
         <source>Intersection</source>
-        <translation type="unfinished">Intersection</translation>
+        <translation>Intersección</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="32"/>
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation type="unfinished">Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+        <translation>Usa la intersección de los espacios positivos y/o negativos definidos por los planos de corte para recortar el modelo.</translation>
     </message>
     <message>
         <source>Red Slice Clipping:</source>
@@ -12619,7 +12619,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="14"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>Escala de colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
@@ -12635,7 +12635,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="68"/>
         <source>Title:</source>
-        <translation type="unfinished">Title:</translation>
+        <translation>Título:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="85"/>
@@ -12645,17 +12645,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="100"/>
         <source>Show numeric value as label text</source>
-        <translation type="unfinished">Show numeric value as label text</translation>
+        <translation>Mostrar valor numérico como una etiqueta de texto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="103"/>
         <source>Value</source>
-        <translation type="unfinished">Value</translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="116"/>
         <source>Show color name as label text</source>
-        <translation type="unfinished">Show color name as label text</translation>
+        <translation>Mostar nombre del color como una etiqueta de texto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="119"/>
@@ -12670,17 +12670,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
         <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-        <translation type="unfinished">Number of labels to display. Only applicable if values are used as label text (not color name).</translation>
+        <translation>Número de etiquetas a mostrar. Solo aplicable si se usan valores como etiqueta de texto (no el nombre del color).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
         <source>Number of colors:</source>
-        <translation type="unfinished">Number of colors:</translation>
+        <translation>Número de colores:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="158"/>
         <source>Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</source>
-        <translation type="unfinished">Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</translation>
+        <translation>Número máximo de colores mostrados. Reduce el número para ver colores discretos en lugar de un gradiente de colores continuo. Solo aplicable si se usan valores como etiqueta de texto (no el nombre del color).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="174"/>
@@ -12706,7 +12706,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="223"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="233"/>
         <source>Horizontal position of the color legend</source>
-        <translation type="unfinished">Horizontal position of the color legend</translation>
+        <translation>Posición horizontal de la escala de colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="226"/>
@@ -12718,7 +12718,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="252"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="262"/>
         <source>Vertical position of the color legend</source>
-        <translation type="unfinished">Vertical position of the color legend</translation>
+        <translation>Posición vertical de la escala de colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="255"/>
@@ -12729,7 +12729,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="283"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Tamaño:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
@@ -12760,7 +12760,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
         <source>Title properties</source>
-        <translation type="unfinished">Title properties</translation>
+        <translation>Propiedades del título</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="371"/>
@@ -12775,7 +12775,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="80"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;El campo de formato utiliza la sintaxis de la función printf. Ejemplos de formatos:&lt;br&gt;    - mostrar con 1 dígito fraccionario: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - mostrar número entero: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - mostrar con 4 dígitos significativos: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - anotación de etiqueta de cadena: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
