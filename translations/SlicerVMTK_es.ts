@@ -9,7 +9,9 @@
 Segment calcifications around an arterial lumen within a margin.
 See more information in &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Calcificaciones segmentarias alrededor de una luz arterial dentro de un margen.Consulte más información en la &lt;ahref=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;documentación del módulo&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="52"/>
