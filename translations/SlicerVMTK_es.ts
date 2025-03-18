@@ -19,27 +19,29 @@ Calcificaciones segmentarias alrededor de una luz arterial dentro de un margen.C
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab y Steve Pieper, Isomics, Inc. y fue financiado parcialmente por la subvención 3P41RR013218-12S1 del NIH.
+</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="107"/>
         <source>Show 3D on success</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar 3D sobre el éxito</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="183"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultados fallidos de computo.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="220"/>
         <source>Input segmentation, volume or segment ID is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>La segmentación de entrada, el volumen o el ID del segmento no son válidos</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="224"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesamiento iniciado</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="301"/>
