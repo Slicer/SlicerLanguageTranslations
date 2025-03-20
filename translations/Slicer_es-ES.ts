@@ -671,12 +671,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
         <source>Fixed Image Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de imagen fija 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
         <source>Moving Image Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de imagen en movimiento 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
@@ -813,188 +813,189 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
         <source>Advanced Optimization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuraciones avanzadas de optimización</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="106"/>
         <source>Max Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Iteraciones Máximas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="107"/>
         <source>Maximum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud Máxima de Paso</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="108"/>
         <source>Minimum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud Mínima de Paso</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="109"/>
         <source>Relaxation Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Factor de relajación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="110"/>
         <source>Transform Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de transformación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="111"/>
         <source>Reproportion Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de reproporción</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="112"/>
         <source>Skew Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de sesgado</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="113"/>
         <source>Maximum B-Spline Displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento máximo de B-Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="114"/>
         <source>The maximum number of iterations to try before stopping the optimization. When using a lower value (500-1000) then the registration is forced to terminate earlier but there is a higher risk of stopping before an optimal solution is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número máximo de iteraciones que se intentarán antes de detener la optimización. Al usar un valor más bajo (500-1000), la registración se verá obligada a terminar antes, pero existe un mayor riesgo de detenerse antes de alcanzar una solución óptima.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="115"/>
         <source>Starting step length of the optimizer. In general, higher values allow for recovering larger initial misalignments but there is an increased chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud de paso inicial del optimizador. En general, valores más altos permiten recuperar desalineaciones iniciales mayores, pero hay una mayor probabilidad de que la registración no converja.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="116"/>
         <source>Each step in the optimization takes steps at least this big.  When none are possible, registration is complete. Smaller values allows the optimizer to make smaller adjustments, but the registration time may increase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cada paso en la optimización da pasos de al menos este tamaño. Cuando no se pueden realizar más, la registración está completa. Los valores más pequeños permiten que el optimizador realice ajustes más pequeños, pero el tiempo de registración puede aumentar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="117"/>
         <source>Specifies how quickly the optimization step length is decreased during registration. The value must be larger than 0 and smaller than 1. Larger values result in slower step size decrease, which allow for recovering larger initial misalignments but it increases the registration time and the chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifica qué tan rápido se reduce la longitud del paso de optimización durante la registración. El valor debe ser mayor que 0 y menor que 1. Los valores más grandes resultan en una disminución más lenta del tamaño del paso, lo que permite recuperar desalineaciones iniciales mayores, pero aumenta el tiempo de registración y la probabilidad de que la registración no converja.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="118"/>
         <source>How much to scale up changes in position (in mm) compared to unit rotational changes (in radians) -- decrease this to allow for more rotation in the search pattern.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuánto escalar los cambios en la posición (en mm) en comparación con los cambios rotacionales unitarios (en radianes) -- disminuir este valor permite más rotación en el patrón de búsqueda.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
         <source>ScaleVersor3D &apos;Scale&apos; compensation factor.  Increase this to allow for more rescaling in a ScaleVersor3D or ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation>Factor de compensación &apos;Escala&apos; de ScaleVersor3D. Aumenta este valor para permitir más reescalado en un patrón de búsqueda ScaleVersor3D o ScaleSkewVersor3D. Un valor de 1.0 funciona bien con una escala de traducción de 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="120"/>
         <source>ScaleSkewVersor3D Skew compensation factor.  Increase this to allow for more skew in a ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation>Factor de compensación de sesgo (Skew) de ScaleSkewVersor3D. Aumenta este valor para permitir más sesgo en un patrón de búsqueda ScaleSkewVersor3D. Un valor de 1.0 funciona bien con una escala de traducción de 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamientos máximos permitidos en las coordenadas físicas de la imagen (mm) para la cuadrícula de control BSpline a lo largo de cada eje. Un valor de 0.0 indica que el problema no tiene restricciones. NOTA: Esto solo restringe la parte BSpline, y no limita el desplazamiento del transformador asociado. Esto puede llevar a una reducción sustancial en el tiempo de cómputo en el optimizador BSpline.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="122"/>
         <source>Expert-only Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros solo para expertos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="123"/>
         <source>Fixed Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice de tiempo de la imagen fija</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="124"/>
         <source>Moving Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice de tiempo de la imagen en movimiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="125"/>
         <source>Histogram bin count</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteo de bins del histograma</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="126"/>
         <source>Histogram match point count</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteo de puntos para la coincidencia del histograma</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="127"/>
         <source>Cost Metric</source>
-        <translation type="unfinished"></translation>
+        <translation>Métrica de costo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="128"/>
         <source>Inferior Cut Off From Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Corte inferior desde el centro</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="129"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de dilatación automática de la ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="130"/>
         <source>ROIAuto Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de cierre automático de la ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de muestras</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
         <source>Stripped Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de salida sin procesar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de transformación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
         <source>Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
         <source>Pass warped moving image to BSpline registration filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Pase la imagen móvil deformada al filtro de registro BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
         <source>writes the output registration transforms in single precision</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribe las transformaciones de registro de salida en precisión simple</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
         <source>The index in the time series for the 3D fixed image to fit. Only allowed if the fixed input volume is 4-dimensional.</source>
-        <translation type="unfinished"></translation>
+        <translation>El índice en la serie temporal para la imagen fija 3D que se ajustará. Solo se permite si el volumen de entrada fijo es de 4 dimensiones.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation type="unfinished"></translation>
+        <translation>El índice en la serie temporal para la imagen en movimiento 3D que se ajustará. Solo se permite si el volumen de entrada en movimiento es de 4 dimensiones</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
         <source>The number of histogram levels used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de niveles de histograma utilizados para la estimación de la métrica de información mutua.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="140"/>
         <source>Number of histogram match points used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de puntos de coincidencia de histograma utilizados para la estimación de la métrica de información mutua.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
         <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
-        <translation type="unfinished"></translation>
+        <translation>La métrica de costo que se utilizará durante el ajuste. El valor predeterminado es MMI. Las opciones son MMI (Información Mutua de Mattes), MSE (Error Cuadrático Medio), NC (Correlación Normalizada), MC (Cardinalidad de Coincidencia para imágenes binarias)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
