@@ -9,7 +9,9 @@
 Segment calcifications around an arterial lumen within a margin.
 See more information in &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Fraude
+</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="52"/>
