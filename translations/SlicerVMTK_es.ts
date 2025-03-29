@@ -46,7 +46,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="301"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Proceso completado en {duration} segundos</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="323"/>
@@ -86,22 +86,22 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="68"/>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="75"/>
         <source>Select the source volume node of the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el volumen origen del nodo del segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="123"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar el algoritmo.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="126"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -173,19 +173,19 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="231"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="249"/>
         <source> models</source>
-        <translation type="unfinished"></translation>
+        <translation> modelos</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="216"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="234"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="252"/>
         <source> curves</source>
-        <translation type="unfinished"></translation>
+        <translation> curvas</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="218"/>
         <source>Creating bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear bifurcaciones</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="221"/>
@@ -200,7 +200,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="236"/>
         <source>Creating branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Creando ramificaciones</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="239"/>
@@ -235,7 +235,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="269"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizado</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="339"/>
