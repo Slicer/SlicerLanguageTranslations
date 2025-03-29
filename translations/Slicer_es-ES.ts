@@ -656,7 +656,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
         <source>ROIAUTO</source>
-        <translation type="unfinished"></translation>
+        <translation>ROIAUTO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
@@ -748,7 +748,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
@@ -3360,97 +3360,97 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="66"/>
         <source>A linear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación de entrada lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="67"/>
         <source>A nonlinear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación de entrada no lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="68"/>
         <source>A bspline input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación de entrada B-Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="69"/>
         <source>A generic output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación de salida genérica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="70"/>
         <source>A linear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación de salida lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="71"/>
         <source>A nonlinear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación de salida no lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="72"/>
         <source>A bspline output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación de salida B-Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="73"/>
         <source>Point Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de punto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="74"/>
         <source>Parameters that describe point sets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros que describen conjuntos de puntos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="75"/>
         <source>Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Semillas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="76"/>
         <source>Seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de semillas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="77"/>
         <source>Output seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de semillas de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="78"/>
         <source>Lists of points in the CLI correspond to slicer fiducial lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Las listas de puntos en la CLI corresponden a las listas de fiduciarios del slicer</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="79"/>
         <source>Test file of input fiducials, compared to seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de prueba de fiduciarios de entrada, comparado con las semillas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="80"/>
         <source>Output file to read back in, compare to seeds with flipped settings on first fiducial</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de salida para leer de nuevo, comparado con las semillas con configuraciones invertidas en el primer fiduciario</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="81"/>
         <source>Geometry Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de Geometría</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="82"/>
         <source>Parameters that describe models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros que describen modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="83"/>
         <source>Input Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="84"/>
         <source>Output Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
@@ -3460,62 +3460,62 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="87"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos generados, bajo un nodo de jerarquía de modelos. Los modelos se importan en Slicer bajo un nodo de jerarquía de modelos. El nodo de jerarquía de modelos debe ser creado antes de ejecutar el creador de modelos, seleccionando Crear Nueva jerarquía de modelos desde el menú desplegable Modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="89"/>
         <source>Index Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de Índice</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="90"/>
         <source>Variations on parameters that use index rather than flags.</source>
-        <translation type="unfinished"></translation>
+        <translation>Variaciones de parámetros que utilizan índice en lugar de banderas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="91"/>
         <source>First index argument</source>
-        <translation type="unfinished"></translation>
+        <translation>Primer argumento de índice</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="92"/>
         <source>Second index argument</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundo argumento del índice</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="93"/>
         <source>First index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation>El primer argumento del índice es una imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="94"/>
         <source>Second index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation>El segundo argumento del índice es una imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="95"/>
         <source>Regions of interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Regiones de interés</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="96"/>
         <source>Input region list</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de regiones de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="97"/>
         <source>List of regions to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de regiones a procesar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="98"/>
@@ -3525,62 +3525,62 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="99"/>
         <source>Input FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Mediciones de FA de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="100"/>
         <source>Output FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Mediciones de FA de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="101"/>
         <source>Array of FA values to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Arreglo de valores de FA a procesar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="102"/>
         <source>Array of processed (output) FA values</source>
-        <translation type="unfinished"></translation>
+        <translation>Arreglo de valores de FA procesados (de salida)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="103"/>
         <source>Generic Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablas genéricas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="104"/>
         <source>Input Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="105"/>
         <source>Output Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="106"/>
         <source>Array of Table values to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Arreglo de valores de la tabla a procesar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="107"/>
         <source>Array of processed (output) Table values</source>
-        <translation type="unfinished"></translation>
+        <translation>Arreglo de valores de la tabla procesados (de salida)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="108"/>
         <source>Simple return types</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipos de retorno simples</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="109"/>
         <source>An integer return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Un valor de retorno enteró</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="110"/>
         <source>A boolean return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Un valor de retorno booleano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="111"/>
