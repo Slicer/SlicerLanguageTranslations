@@ -803,12 +803,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="103"/>
         <source>Lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanczos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"/>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Negro</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
@@ -1000,33 +1000,34 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si el modo de transformación inicialize se establece en useCenterofheadalign o la opción de enmascaramiento es roiauto, este valor define cuánto se corta de la parte inferior de la imagen. La distancia de corte se especifica en milímetros, en relación con el centro de imágenes. Si el valor es de 1000 o más, entonces no se realizó un corte.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este indicador solo es relevante cuando se usa el modo Roiauto para inicializar máscaras.  Define el tamaño de dilatación final para capturar un poco de fondo fuera de la región del tejido.  Se ha demostrado que una configuración de 10 mm ayuda a regularizar un tipo de registro de Bspline para que haya algunas restricciones de fondo para que coincidan mejor con los bordes de la cabeza.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este indicador solo es relevante cuando se usa el modo Roiauto para inicializar máscaras.  Define el tamaño de cierre del orificio en mm.  Se redondea al tamaño de píxel completo más cercano en cada dirección. El valor predeterminado es usar un tamaño de cierre de 9 mm.  Para los datos del mouse, este valor puede necesitar restablecerse a 0.9 o menor.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation type="unfinished"></translation>
+        <translation>El número de vóxeles muestreados para el cálculo de información mutua.  Aumente esto para mayor precisión, a costa del tiempo de cálculo más largo.
+Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opción. Sin embargo, si se establece en distinto de cero, NumberOfSamples sobrescribe la opción SamplingPercentage.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Componente rígido de la transformación afina estimada. Se puede usar para registrar rígidamente la imagen móvil a la imagen fija. NOTA: Este valor se anula si se establece BSPlInetransform o LinearTransform.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
         <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifica una lista de tipos de registro que se utilizarán.  Los tipos válidos son, rígido, escala 3D, scaleskewversor3d, afine, bspline y syn.  Especificar más de uno en una lista separada por coma inicializará la siguiente etapa con los resultados anteriores. Si se usa el indicador de registroclass, anula esta configuración de parámetros.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
@@ -1036,33 +1037,33 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si este indicador está activado, la transformación compuesta genérica actual, resultó de las etapas de registro lineal, se establece para inicializar el seguimiento del proceso de registro no lineal. Sin embargo, por el comportamiento predeterminado, la imagen móvil se deforma primero en función de la transformación existente antes de pasar al filtro de registro BSPLINE. Se hace para acelerar el registro de BSPLIN reduciendo los cálculos de la transformación compuesta de jacobian.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>De manera predeterminada, las transformaciones de registro de salida (ya sea la transformación compuesta de salida o cada componente de transformación) se escriben en el disco en doble precisión. Si este indicador está activado, las transformaciones de salida se escribirán en precisión única (flotante). Es especialmente importante si la transformación de salida es una transformación de campo de desplazamiento, o es una transformación compuesta que incluye varios campos de desplazamiento.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>MSE</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
         <source>NC</source>
-        <translation type="unfinished"></translation>
+        <translation>CAROLINA DEL NORTE</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="155"/>
         <source>MIH</source>
-        <translation type="unfinished"></translation>
+        <translation>Mih</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="156"/>
@@ -1077,7 +1078,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="158"/>
         <source>Write Transform On Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir transformación en el fracaso</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
@@ -1102,17 +1103,17 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="163"/>
         <source>If the fit fails, exit with this status code.  (It can be used to force a successfult exit status of (0) if the registration fails due to reaching the maximum number of iterations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si el ajuste falla, salga con este código de estado.  (Se puede usar para forzar un estado de salida exitoso de (0) si el registro falla debido a alcanzar el número máximo de iteraciones.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
         <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
-        <translation type="unfinished"></translation>
+        <translation>Indicador para guardar la transformación final incluso si se alcanzan el número defiteraciones sin convergencia. (Destinado a usar cuando - -failureExitCode 0)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
         <source>Explicitly specify the maximum number of threads to use. (default is auto-detected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique explícitamente el número máximo de subprocesos a usar. (El valor predeterminado se detecta automáticamente)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="166"/>
@@ -1123,43 +1124,45 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the CostFunctionConvergenceFactor. Algorithm terminates when the reduction in cost function is less than (factor * epsmcj) where epsmch is the machine precision. Typical values for factor: 1e+12 for low accuracy; 1e+7 for moderate accuracy and 1e+1 for extremely high accuracy.  1e+9 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>De itklbfgsboptimizer.h: establecer/obtener el CostFunctionConvergenceFactor. El algoritmo termina cuando la reducción en la función de costo es menor que (factor * EPSMCJ) donde EPSMCH es la precisión de la máquina. Valores típicos para el factor: 1e+12 para baja precisión; 1e+7 para precisión moderada y 1e+1 para una precisión extremadamente alta.  1e+9 parece funcionar bien.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="168"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the ProjectedGradientTolerance. Algorithm terminates when the project gradient is below the tolerance. Default lbfgsb value is 1e-5, but 1e-4 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>De itklbfgsboptimizer.h: establecer/obtener la tolerancia ProjectedGradient. El algoritmo termina cuando el gradiente del proyecto está por debajo de la tolerancia. El valor predeterminado de LBFGSB es 1e-5, pero 1e-4 parece funcionar bien.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="169"/>
         <source>Maximum number of evaluations for line search in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de evaluaciones para la búsqueda de línea en el optimizador LBFGSB.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="170"/>
         <source>Maximum number of corrections in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de correcciones en el optimizador LBFGSB.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="171"/>
         <source>Display intermediate image volumes for debugging.  NOTE:  This is not part of the standard build system, and probably does nothing on your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar volúmenes de imágenes intermedias para la depuración.  Nota: Esto no es parte del sistema de compilación estándar, y probablemente no hace nada en su instalación.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
         <source>Prompt the user to hit enter each time an image is sent to the DebugImageViewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitar al usuario que presione Enter cada vez que se envía una imagen al depurador</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
         <source>It defines the method that registration filter uses to sample the input fixed image. Only Random is supported for now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Define el método que utiliza el filtro de registro para probar la imagen fija de entrada. Solo se admite al azar por ahora.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
         <source>A file to write out final information report in CSV file: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</source>
-        <translation type="unfinished"></translation>
+        <translation>Un archivo para escribir el informe de información final en un archivo CSV: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
@@ -1326,7 +1329,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
@@ -1336,12 +1339,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>álamos</translation>
     </message>
 </context>
 <context>
@@ -1379,7 +1382,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="11"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen para deformarse</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
@@ -1435,7 +1438,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>mina</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
@@ -1445,82 +1448,82 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>álamos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation>binario</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>aporte</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="28"/>
         <source>Warping Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de deformación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="29"/>
         <source>Parameters used to define home the image is warped</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para definir el hogar La imagen está deformada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="30"/>
         <source>Displacement Field (deprecated)</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo de desplazamiento (en desuso)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="31"/>
         <source>Transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar archivo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de interpolación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
         <source>Compute inverse transform of given transformation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcular la transformación inversa de la transformación dada?</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="34"/>
         <source>Default Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor predeterminado</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="35"/>
         <source>Displacement Field to be used to warp the image (ITKv3 or earlier)</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo de desplazamiento que se utilizará para deformar la imagen (ITKV3 o anterior)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="36"/>
         <source>Filename for the BRAINSFit transform (ITKv3 or earlier) or composite transform file (ITKv4)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de archivo para la transformación BrainSfit (ITKV3 o anterior) o archivo de transformación compuesta (ITKV4)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de interpolación que se utilizará al aplicar la transformación al volumen móvil.  Las opciones son lineales, resampleinplace, más cerca</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
         <source>True/False is to compute inverse of given transformation. Default is false</source>
-        <translation type="unfinished"></translation>
+        <translation>Verdadero/Falso es calcular el inverso de la transformación dada. El valor predeterminado es falso</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="39"/>
         <source>Default voxel value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de vóxel predeterminado</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="40"/>
@@ -1531,77 +1534,77 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Neigho más cercano</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished"></translation>
+        <translation>Reamparar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"/>
         <source>BSpline</source>
-        <translation type="unfinished"></translation>
+        <translation>Bspline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="45"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>Windowedsinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="46"/>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"/>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>Coseno</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="48"/>
         <source>Welch</source>
-        <translation type="unfinished"></translation>
+        <translation>Welch</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="49"/>
         <source>Lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanczos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="50"/>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Negro</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"/>
         <source>Advanced Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones avanzadas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="52"/>
         <source>Add Grids</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar cuadrículas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregue la cuadrícula deformada a la imagen de salida para ayudar a mostrar la deformación que ocurrió con el espaciado especificado.   Un espaciado de 0 en una dimensión indica que las líneas de la cuadrícula deben hacerse que caigan exactamente (es decir, no permita que los desplazamientos fuera de ese plano).  Esto es útil para hacer una imagen 2D de líneas de cuadrícula desde el espacio 3D</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
         <source>Multiprocessing Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control de multiprocesamiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="55"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de hilos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique explícitamente el número máximo de subprocesos a usar.</translation>
     </message>
 </context>
 <context>
@@ -1609,34 +1612,36 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="4"/>
         <source>Resize Image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Reloz Imagen (cerebro)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="5"/>
         <source>
 This program is useful for downsampling an image by a constant scale factor.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este programa es útil para la reducción de una imagen por un factor de escala constante.
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation>El desarrollo de esta herramienta fue apoyado por la financiación de las subvenciones NS050568 y NS40068 del Instituto Nacional de Trastornos Neurológicos y Accidentes cerebrovasculares y Subvenciones MH31593, MH40856, del Instituto Nacional de Salud Mental.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para especificar la imagen a deformar y el espacio de imagen resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen a Warp</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"/>
@@ -1687,7 +1692,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"/>
@@ -1697,37 +1702,37 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="22"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>álamos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="24"/>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation>binario</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="25"/>
         <source>Scaling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de escala</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="26"/>
         <source>Parameters used to define the scaling of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para definir la escala de la imagen de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="27"/>
         <source>Scale Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Factor de escala</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="28"/>
         <source>The scale factor for the image spacing.</source>
-        <translation type="unfinished"></translation>
+        <translation>El factor de escala para el espacio de imagen.</translation>
     </message>
 </context>
 <context>
@@ -1735,12 +1740,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="4"/>
         <source>Strip Rotation (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotación de tiras (cerebro)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
         <source>Read an Image, write out same image with identity rotation matrix plus an ITK transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Lea una imagen, escriba la misma imagen con Matriz de rotación de identidad más un archivo de transformación de ITK</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
@@ -1751,27 +1756,27 @@ This program is useful for downsampling an image by a constant scale factor.
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen para deformarse</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
         <source>Transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar archivo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen deformada resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"/>
         <source>Filename for the transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de archivo para el archivo de transformación</translation>
     </message>
 </context>
 <context>
@@ -1779,12 +1784,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
         <source>Transform Convert (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar convertir (cerebro)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
         <source>Convert ITK transforms to higher order transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir las transformaciones de ITK en transformaciones de orden superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
@@ -1805,38 +1810,38 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
         <source>Transform File Name To Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar el nombre del archivo para convertir</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"/>
         <source>Reference image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen de referencia</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="12"/>
         <source>Output displacement field</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo de desplazamiento de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"/>
         <source>Transform File Name To Save ConvertedTransform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar el nombre del archivo para guardar ConvertedTransform</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
         <source>The target transformation type. Must be conversion-compatible with the input transform type</source>
-        <translation type="unfinished"></translation>
+        <translation>El tipo de transformación objetivo. Debe ser compatible con la conversión con el tipo de transformación de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="15"/>
         <source>Precision type of the output transform. It can be either single precision or double precision</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de precisión de la transformación de salida. Puede ser una precisión única o una doble precisión</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="16"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="18"/>
         <source>Affine</source>
-        <translation type="unfinished"></translation>
+        <translation>Afín</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="17"/>
@@ -1847,27 +1852,27 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="19"/>
         <source>VersorRigid</source>
-        <translation type="unfinished"></translation>
+        <translation>Versorrígida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"/>
         <source>ScaleVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="21"/>
         <source>ScaleSkewVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>Scaleskewversor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"/>
         <source>DisplacementField</source>
-        <translation type="unfinished"></translation>
+        <translation>Campos de desplazamiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"/>
         <source>Same</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
@@ -1880,14 +1885,16 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"/>
         <source>Cast Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen escalar fundido</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"/>
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloque un volumen a un tipo de datos dado.
+¡Use bajo su propio riesgo al lanzar un volumen de entrada en un tipo de precisión más bajo!
+Permite fundición al mismo tipo que el volumen de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
@@ -1907,7 +1914,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
@@ -1917,68 +1924,68 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
         <source>Input volume, the volume to cast.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada, el volumen a la fundición.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"/>
         <source>Output volume, cast to the new type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de salida, fundido al nuevo tipo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="14"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="15"/>
         <source>Output Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="16"/>
         <source>Scalar data type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de datos escalar para el nuevo volumen de salida.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsignedchar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>Carbonizarse</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Corto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsignedshort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>Intencionalmente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsignedint</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>Flotar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Doble</translation>
     </message>
 </context>
 <context>
@@ -1986,12 +1993,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="4"/>
         <source>CheckerBoard Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de tablero de ajedrez</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"/>
         <source>Create a checkerboard volume of two volumes. The output volume will show the two inputs alternating according to the user supplied checkerPattern. This filter is often used to compare the results of image registration. Note that the second input is resampled to the same origin, spacing and direction before it is composed with the first input. The scalar type of the output volume will be the same as the input image scalar type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cree un volumen de tablero de ajedrez de dos volúmenes. El volumen de salida mostrará que las dos entradas se alternan de acuerdo con el Patrón de verificación suministrado por el usuario. Este filtro a menudo se usa para comparar los resultados del registro de imágenes. Tenga en cuenta que la segunda entrada se vuelve a muestrear al mismo origen, espacio y dirección antes de que se compone con la primera entrada. El tipo escalar del volumen de salida será el mismo que el tipo escalar de imagen de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
@@ -2001,22 +2008,22 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
         <source>CheckerBoard Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de tablero de ajedrez</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="8"/>
         <source>Parameters for the checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para el tablero de verificación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="9"/>
         <source>Checker Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Patrón de verificación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"/>
         <source>The pattern of input 1 and input 2 in the output image. The user can specify the number of checkers in each dimension. A checkerPattern of 2,2,1 means that images will alternate in every other checker in the first two dimensions. The same pattern will be used in the 3rd dimension.</source>
-        <translation type="unfinished"></translation>
+        <translation>El patrón de entrada 1 y entrada 2 en la imagen de salida. El usuario puede especificar el número de verificadores en cada dimensión. Un patrón de verificación de 2,2,1 significa que las imágenes se alternarán en cualquier otro verificador en las primeras dos dimensiones. El mismo patrón se utilizará en la tercera dimensión.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="11"/>
@@ -2046,17 +2053,17 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
         <source>First Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Primer volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="17"/>
         <source>Second Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundo volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="18"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -2064,295 +2071,295 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"/>
         <source>Create a DICOM Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear una serie DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cree una serie DICOM a partir de un volumen de cortes. El usuario puede especificar valores para etiquetas DICOM seleccionadas en la interfaz de usuario. Dado el número de etiquetas que tienen la serie DICOM, es imposible exponer todas las etiquetas en la interfaz de usuario. Por lo tanto, el usuario solo puede establecer etiquetas importantes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo de comando se derivó de Insight/Ejemplos (Copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Aporte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada para volver a muestrear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Producción</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="12"/>
         <source>Output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="13"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio de DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="14"/>
         <source>DICOM filename prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefijo de nombre de archivo DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="15"/>
         <source>DICOM file number format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de número de archivo DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="16"/>
         <source>Reverse Slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodajas de reverso</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
         <source>Use Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Use compresión</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"/>
         <source>Output Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de salida:</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
         <source>The directory to contain the DICOM series.</source>
-        <translation type="unfinished"></translation>
+        <translation>El directorio para contener la serie DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
         <source>The prefix of the DICOM filename.</source>
-        <translation type="unfinished"></translation>
+        <translation>El prefijo del nombre de archivo DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="21"/>
         <source>The printf-style format to be used when creating the per-slice DICOM filename. The leading % sign can be omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>El formato de estilo printf se utilizará al crear el nombre de archivo DICOM por caída. Se puede omitir el signo de % principal.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="22"/>
         <source>Reverse the slices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Invierta las rodajas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="23"/>
         <source>Compress the output pixel data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprima los datos de píxeles de salida.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="24"/>
         <source>Type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriba el nuevo volumen de salida.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="25"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="29"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Corto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="26"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="28"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsignedchar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="27"/>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>Carbonizarse</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="30"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsignedshort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="31"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>Intencionalmente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="32"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsignedint</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="33"/>
         <source>Patient Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros del paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="34"/>
         <source>Parameters that apply to a patient</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros que se aplican a un paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="35"/>
         <source>Patient Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="36"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID de paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="37"/>
         <source>Patient Birth Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de nacimiento del paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="38"/>
         <source>Patient Sex</source>
-        <translation type="unfinished"></translation>
+        <translation>Sexo para el paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="39"/>
         <source>Patient Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios de los pacientes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="40"/>
         <source>The name of the patient (0010,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre del paciente (0010,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="41"/>
         <source>The patient ID (0010,0020). If set to [random] then a random ID will be generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>La identificación del paciente (0010,0020). Si se establece en [aleatorio], se generará una ID aleatoria.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="42"/>
         <source>Patient birth date (0010,0030) in the format YYYYMMDD.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de nacimiento del paciente (0010,0030) en el formato yyyymmdd.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="43"/>
         <source>Patient sex (0010,0040). M=male, F=female, O=other, [unknown]=not specified</source>
-        <translation type="unfinished"></translation>
+        <translation>Sexo del paciente (0010,0040). M = macho, f = femenino, o = otro, [desconocido] = no especificado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="44"/>
         <source>Patient comments (0010,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios de los pacientes (0010,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="45"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="46"/>
         <source>[unknown]</source>
-        <translation type="unfinished"></translation>
+        <translation>[desconocido]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="47"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation>METRO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="48"/>
         <source>F</source>
-        <translation type="unfinished"></translation>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="49"/>
         <source>O</source>
-        <translation type="unfinished"></translation>
+        <translation>O</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="50"/>
         <source>Study Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="51"/>
         <source>Parameters that apply to a study</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros que se aplican a un estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="52"/>
         <source>Study ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID de estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="53"/>
         <source>Study Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="54"/>
         <source>Study Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="55"/>
         <source>Study Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios de estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="56"/>
         <source>Study Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción del estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="57"/>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalidad</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="58"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabricante</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="59"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="60"/>
         <source>The study ID (0020,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>La identificación del estudio (0020,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="61"/>
         <source>The date of the study (0008,0020) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>La fecha del estudio (0008,0020) en el formato yyyymmdd. Si se establece en &quot;[ahora]&quot;, entonces se usa la fecha actual.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="62"/>
         <source>The time of the study (0008,0030) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>La hora del estudio (0008,0030) en el formato HHMMSS. Si se establece en &quot;[ahora]&quot;, entonces se usa la hora actual.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="63"/>
         <source>Study comments (0032,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios del estudio (0032,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="64"/>
         <source>Study description (0008,1030)</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción del estudio (0008,1030)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="65"/>
@@ -2770,7 +2777,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="5"/>
         <source>Diffusion-weighted DICOM Import (DWIConvert)</source>
-        <translation type="unfinished"></translation>
+        <translation>Importación DICOM ponderada en difusión (DWiConvert)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
@@ -2800,130 +2807,131 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="11"/>
         <source>Output DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de volumen DWI de salida DWI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="12"/>
         <source>Determine which conversion to perform. DicomToNrrd (default): Convert DICOM series to NRRD DicomToFSL: Convert DICOM series to NIfTI File + gradient/bvalue text files NrrdToFSL: Convert DWI NRRD file to NIfTI File + gradient/bvalue text files FSLToNrrd: Convert NIfTI File + gradient/bvalue text files to NRRD file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Determine qué conversión realizar. Dicomtonrrd (predeterminado): Convertir la serie DICOM a NRRD DiComTofSL: Convertir la serie DICOM a archivos de archivo + gradiente/bvalue archivos de texto nrrdtofsl: convertir el archivo dwi nrrd en archivos nifti + gradiente/bvalue archivos de texto fsltonrrd: convertir archivos + gradiente/bvalue archivos.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="13"/>
         <source>Input DWI volume -- not used for DicomToNrrd mode.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen DWI de entrada: no se usa para el modo Dicomtonrrd.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="14"/>
         <source>Output filename (.nhdr or .nrrd)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de archivo de salida (.nhdr o .nrrd)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="15"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="16"/>
         <source>DicomToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicomtonrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="17"/>
         <source>DicomToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicomtofsl</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="18"/>
         <source>NrrdToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>Nrrdtofsl</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="19"/>
         <source>FSLToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>Fsltonrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="20"/>
         <source>Dicom To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de conversión de DICOM a NRRD</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="21"/>
         <source>Parameters for Dicom to NRRD Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para la conversión de DICOM a NRRD</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="22"/>
         <source>Input Dicom Data Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio de datos de entrada de DICOM</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
         <source>Directory holding Dicom series</source>
-        <translation type="unfinished"></translation>
+        <translation>Serie Directorio Holding DICOM</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="24"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="25"/>
         <source>NiftiFSL To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Niftifsl a los parámetros de conversión NRRD</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="26"/>
         <source>FSL NIfTI File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo fsl nifti</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="27"/>
         <source>Input bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese el archivo BVAL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="28"/>
         <source>Input bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese el archivo BVEC</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="29"/>
         <source>4D NIfTI file containing gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo 4D Nifti que contiene volúmenes de gradiente</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="30"/>
         <source>The B Values are stored in FSL .bval text file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Los valores B se almacenan en formato de archivo de texto FSL .BVAL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="31"/>
         <source>The Gradient Vectors are stored in FSL .bvec text file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Los vectores de gradiente se almacenan en formato de archivo de texto FSL .BVEC</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="32"/>
         <source>Nrrd To NiftiFSL Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>NRRD a los parámetros de conversión NIFTIFSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="33"/>
         <source>Nrrd To NiftiFSL (NrrdToFSL) Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Nrrd a parámetros de conversión niftifsl (nrrdtofsl)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="34"/>
         <source>Output nii file</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida del archivo NII</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="35"/>
         <source>Output bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de salida BVAL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="36"/>
         <source>Output bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de salida BVEC</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="37"/>
         <source>Nifti output filename (for Slicer GUI use).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de archivo de salida de NIFTI (para uso de la GUI corta).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="38"/>
@@ -5611,97 +5619,97 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="50"/>
         <source>PLS</source>
-        <translation type="unfinished"></translation>
+        <translation>PLS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="51"/>
         <source>ARS</source>
-        <translation type="unfinished"></translation>
+        <translation>ARS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="52"/>
         <source>ALS</source>
-        <translation type="unfinished"></translation>
+        <translation>ALS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="53"/>
         <source>IPR</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="54"/>
         <source>SPR</source>
-        <translation type="unfinished"></translation>
+        <translation>SPR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="55"/>
         <source>IAR</source>
-        <translation type="unfinished"></translation>
+        <translation>IAR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="56"/>
         <source>SAR</source>
-        <translation type="unfinished"></translation>
+        <translation>SAR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="57"/>
         <source>IPL</source>
-        <translation type="unfinished"></translation>
+        <translation>IPL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="58"/>
         <source>SPL</source>
-        <translation type="unfinished"></translation>
+        <translation>SPL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="59"/>
         <source>IAL</source>
-        <translation type="unfinished"></translation>
+        <translation>IAL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="60"/>
         <source>SAL</source>
-        <translation type="unfinished"></translation>
+        <translation>SAL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="61"/>
         <source>PIR</source>
-        <translation type="unfinished"></translation>
+        <translation>PIR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="62"/>
         <source>PSR</source>
-        <translation type="unfinished"></translation>
+        <translation>PSR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="63"/>
         <source>AIR</source>
-        <translation type="unfinished"></translation>
+        <translation>AIRE</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="64"/>
         <source>ASR</source>
-        <translation type="unfinished"></translation>
+        <translation>ASR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="65"/>
         <source>PIL</source>
-        <translation type="unfinished"></translation>
+        <translation>PIL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="66"/>
         <source>PSL</source>
-        <translation type="unfinished"></translation>
+        <translation>PSL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="67"/>
         <source>AIL</source>
-        <translation type="unfinished"></translation>
+        <translation>AIL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="68"/>
         <source>ASL</source>
-        <translation type="unfinished"></translation>
+        <translation>ASL</translation>
     </message>
 </context>
 <context>
@@ -5709,132 +5717,132 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="4"/>
         <source>PET Standard Uptake Value Computation</source>
-        <translation type="unfinished"></translation>
+        <translation>Cálculo del valor estándar de captación PET</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="5"/>
         <source>Computes the standardized uptake value based on body weight. Takes an input PET image in DICOM and NRRD format (DICOM header must contain Radiopharmaceutical parameters). Produces a CSV file that contains patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName for each volume of interest. It also displays some of the information as output strings in the GUI, the CSV file is optional in that case. The CSV file is appended to on each execution of the CLI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcula el valor de captación normalizado en función del peso corporal. Toma una imagen PET de entrada en formato DICOM y NRRD (el encabezado DICOM debe contener parámetros radiofarmacéuticos). Produce un archivo CSV que contiene patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName para cada volumen de interés. También muestra parte de la información como cadenas de salida en la GUI, el archivo CSV es opcional en ese caso. El archivo CSV se añade en cada ejecución de la CLI.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
         <source>This work is funded by the Harvard Catalyst, and the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo está financiado por el Harvard Catalyst, y la National Alliance for Medical Image Computing (NAMIC), financiada por los National Institutes of Health a través del NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="7"/>
         <source>Image and Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen e información</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="9"/>
         <source>PET DICOM volume path</source>
-        <translation type="unfinished"></translation>
+        <translation>Trayectoria del volumen PET DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="10"/>
         <source>Input PET Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen PET de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="11"/>
         <source>Input VOI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada VOI Volumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="12"/>
         <source>Input path to a directory containing a PET volume containing DICOM header information for SUV computation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de entrada a un directorio que contiene un volumen PET con información de cabecera DICOM para el cálculo del VUCE</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="13"/>
         <source>Input PET volume for SUVbw computation (must be the same volume as pointed to by the DICOM path!).</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen PET de entrada para el cálculo del SUVbw (¡debe ser el mismo volumen al que apunta la ruta DICOM!).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="14"/>
         <source>Input label volume containing the volumes of interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de etiquetas de entrada que contiene los volúmenes de interés</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="15"/>
         <source>Color table to to map labels to colors and names</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de colores para asignar etiquetas a colores y nombres</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="16"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
         <source>The Output file collects the information on disk from the output label, suv max/mean/min output stringsin the gui, plus some extra information from the DICOM header.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo de salida recoge la información en disco de la etiqueta de salida, suv max/mean/min output stringsin the gui, más alguna información extra de la cabecera DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="18"/>
         <source>Output table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="19"/>
         <source>Output Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="20"/>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta de salida Valor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="21"/>
         <source>SUV Max</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV Max</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="22"/>
         <source>SUV Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV Media</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="23"/>
         <source>SUV Minimum</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV Mínimo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="24"/>
         <source>A table holding the output SUV values in comma separated lines, one per label. Optional.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una tabla que contiene los valores SUV de salida en líneas separadas por comas, una por etiqueta. Opcional.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="25"/>
         <source>List of labels for which SUV values were computed</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de etiquetas para las que se han calculado los valores SUV</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="26"/>
         <source>List of label values for which SUV values were computed</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de valores de etiqueta para los que se han calculado los valores SUV</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="27"/>
         <source>SUV max for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV máximo para cada etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="28"/>
         <source>SUV mean for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>Media SUV para cada etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="29"/>
         <source>SUV minimum for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>SUV mínimo para cada etiqueta</translation>
     </message>
 </context>
 <context>
@@ -5842,12 +5850,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="4"/>
         <source>Registration Metric Test (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prueba métrica de registro (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
         <source>Compare Mattes/MSQ metric value for two input images and a possible input BSpline transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comparación del valor de la métrica Mattes/MSQ para dos imágenes de entrada y una posible transformada BSpline de entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
@@ -6179,12 +6187,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="42"/>
         <source>nearest</source>
-        <translation type="unfinished"></translation>
+        <translation>más cercano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="43"/>
         <source>Tensor Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de transformada tensorial</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
@@ -6192,150 +6200,151 @@ The filter assumes that both the source and reference are of the same type and t
 Preservation of the Principal Direction (PPD)</source>
         <oldsource>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Deformación finita (FS) o
+Preservación de la dirección principal (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige entre 2 métodos para transformar los tensores: Tensión Finita (FS), más rápido pero menos preciso, o Preservación de la Dirección Principal (PPD).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="47"/>
         <source>PPD</source>
-        <translation type="unfinished"></translation>
+        <translation>PPD</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="48"/>
         <source>FS</source>
-        <translation type="unfinished"></translation>
+        <translation>FS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="49"/>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de transformación avanzados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="50"/>
         <source>Those parameters should normally not be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalmente, estos parámetros no deben modificarse</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="51"/>
         <source>Transforms Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="52"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>No es una transformación masiva</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio Incoherencia de orientación (entre la transformación y la imagen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar el orden de lectura de las transformaciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformada que sigue a la transformada BSpline no se establece como transformada masiva para la transformada BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished"></translation>
+        <translation>La orientación espacial entre la transformación y la imagen es diferente (RAS/LPS) (advertencia: si la transformación es un Nodo de Transformación en Slicer3, no seleccionar)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="59"/>
         <source>output-to-input</source>
-        <translation type="unfinished"></translation>
+        <translation>de salida a entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="58"/>
         <source>input-to-output</source>
-        <translation type="unfinished"></translation>
+        <translation>entrada-salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="60"/>
         <source>Advanced Rigid/Affine Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros rígidos/afines avanzados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="61"/>
         <source>Rotation Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro de rotación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="62"/>
         <source>Centered Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación centrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="63"/>
         <source>Image Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="64"/>
         <source>Inverse Transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación inversa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="65"/>
         <source>Center of rotation (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro de rotación (sólo para transformaciones rígidas y afines)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer el centro de la transformación en el centro de la imagen de entrada (sólo para transformaciones rígidas y afines)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen que se utilizará para centrar la transformación (sólo se utiliza si está seleccionada la opción &quot;Transformación centrada&quot;)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Invertir la transformación antes de aplicarla de la imagen de salida a la imagen de entrada (sólo para transformaciones rígidas y afines).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
         <source>output</source>
-        <translation type="unfinished"></translation>
+        <translation>salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de salida manual</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de la imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Talla</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
@@ -6345,72 +6354,72 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>Matriz de dirección</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado a lo largo de cada dimensión (0 significa utilizar el espaciado de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño en cada dimensión (0 significa utilizar el tamaño de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Origen de la salida Imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>9 parámetros de la matriz de dirección por filas (ijk a LPS si transformación LPS, ijk a RAS si transformación RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="82"/>
         <source>Advanced Resampling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros avanzados de remuestreo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="83"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para el remuestreo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de hilos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
         <source>Default Pixel Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de píxel por defecto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="86"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de hilos utilizados para calcular la imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="87"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de píxel por defecto para las muestras que caen fuera de la región de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="88"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de la función de interpolación Sinc con ventanas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para la interpolación Windowed Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
         <source>Window Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Función de ventana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
@@ -6426,58 +6435,63 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Función de ventana
+h = Hamming
+c = Coseno
+w = Welch
+l = Lanczos
+b = Blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="92"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="94"/>
         <source>c</source>
-        <translation type="unfinished"></translation>
+        <translation>c</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="93"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="95"/>
         <source>w</source>
-        <translation type="unfinished"></translation>
+        <translation>w</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="96"/>
         <source>l</source>
-        <translation type="unfinished"></translation>
+        <translation>l</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="97"/>
         <source>b</source>
-        <translation type="unfinished"></translation>
+        <translation>b</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="98"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de la función interpolar BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para la interpolación BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"/>
         <source>Spline Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="101"/>
         <source>Spline Order (Spline order may be from 0 to 5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de Spline (El orden de Spline puede ser de 0 a 5)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="102"/>
         <source>Manual Transform (Used only if no transform node set)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación manual (sólo se utiliza si no hay ningún nodo de transformación configurado)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="103"/>
@@ -6487,30 +6501,32 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished"></translation>
+        <translation>12 parámetros de la matriz de transformación por filas ( --last 3 being translation-- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="106"/>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritmo de transformación
+rt = Transformada rígida
+a = Transformada Afín</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="107"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="109"/>
         <source>a</source>
-        <translation type="unfinished"></translation>
+        <translation>a</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="108"/>
         <source>rt</source>
-        <translation type="unfinished"></translation>
+        <translation>rt</translation>
     </message>
 </context>
 <context>
@@ -6518,7 +6534,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="4"/>
         <source>Resample Scalar/Vector/DWI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Remuestrear volumen escalar/vectorial/DWI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
@@ -6532,17 +6548,21 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo implementa el remuestreo de imágenes y de imágenes vectoriales mediante el uso de transformaciones itk. También puede manejar el remuestreo de imágenes de resonancia magnética ponderada por difusión. El &quot;remuestreo&quot; se realiza en coordenadas espaciales, no en coordenadas de píxel/rejilla. Es muy importante asegurarse de que el espaciado de la imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeo de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones no cuadriculadas.
+
+Advertencia: Para remuestrear imágenes DWMR, utilice archivos de entrada y salida nrrd.
+
+Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los tensores no se reorientarían.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por los National Institutes of Health a través de la NIH Roadmap for Medical Research, Grant U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
         <source>Input/Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada/Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="8"/>
@@ -6552,7 +6572,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"/>
@@ -6562,231 +6582,231 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de referencia (para ajustar los parámetros de salida)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="12"/>
         <source>Input Volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada a remuestrear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="13"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen remuestreado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="14"/>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de referencia (espaciado,tamaño,orientación,origen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="15"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="16"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para transformar la imagen de entrada en imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="17"/>
         <source>Transform Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="18"/>
         <source>Deformation Field Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo de deformación Volumen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="19"/>
         <source>Displacement or H-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento o campo H</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="20"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichero que contiene el campo de deformación (imagen vectorial 3D que contiene vectores con 3 componentes)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="21"/>
         <source>Set if the deformation field is an h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer si el campo de deformación es un campo h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="22"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="24"/>
         <source>h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="23"/>
         <source>displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>desplazamiento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="25"/>
         <source>Interpolation Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de interpolación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="26"/>
         <source>Interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="27"/>
         <source>Sampling algorithm (linear or nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritmo de muestreo (lineal o nn (vecino más próximo), ws (WindowedSinc), bs (BSpline) )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="28"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="29"/>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="30"/>
         <source>nn</source>
-        <translation type="unfinished"></translation>
+        <translation>nn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="31"/>
         <source>ws</source>
-        <translation type="unfinished"></translation>
+        <translation>ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="32"/>
         <source>bs</source>
-        <translation type="unfinished"></translation>
+        <translation>bs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="33"/>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de transformación avanzados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="34"/>
         <source>Those parameters should normally not be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalmente, estos parámetros no deben modificarse</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="35"/>
         <source>Transforms Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="36"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>No es una transformación masiva</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="37"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio Incoherencia de orientación (entre la transformación y la imagen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="38"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar el orden de lectura de las transformaciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="39"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformada que sigue a la transformada BSpline no se establece como transformada masiva para la transformada BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished"></translation>
+        <translation>La orientación espacial entre la transformación y la imagen es diferente (RAS/LPS) (advertencia: si la transformación es un Nodo de Transformación en Slicer3, no seleccionar)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="43"/>
         <source>output-to-input</source>
-        <translation type="unfinished"></translation>
+        <translation>de salida a entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="42"/>
         <source>input-to-output</source>
-        <translation type="unfinished"></translation>
+        <translation>entrada-salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="44"/>
         <source>Rigid/Affine Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros rígidos/afines</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="45"/>
         <source>Rotation Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de rotación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="46"/>
         <source>Centered Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación centrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="47"/>
         <source>Image Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="48"/>
         <source>Inverse ITK Transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación ITK inversa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="49"/>
         <source>Rotation Point in case of rotation around a point (otherwise useless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de rotación en caso de rotación alrededor de un punto (inútil en caso contrario)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="50"/>
         <source>Set the center of the transformation to the center of the input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer el centro de la transformación en el centro de la imagen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="51"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen que se utilizará para centrar la transformación (sólo se utiliza si está seleccionada la opción &quot;Transformación centrada&quot;)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="52"/>
         <source>Inverse the transformation before applying it from output image to input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Invierte la transformación antes de aplicarla de la imagen de salida a la de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="53"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="54"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="55"/>
         <source>output</source>
-        <translation type="unfinished"></translation>
+        <translation>salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="56"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de salida manual</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="57"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de la imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="58"/>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="59"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Talla</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="60"/>
@@ -6796,72 +6816,72 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="61"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>Matriz de dirección</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="62"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado a lo largo de cada dimensión (0 significa utilizar el espaciado de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="63"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño en cada dimensión (0 significa utilizar el tamaño de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="64"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Origen de la salida Imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="65"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>9 parámetros de la matriz de dirección por filas (ijk a LPS si transformación LPS, ijk a RAS si transformación RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="66"/>
         <source>Advanced Resampling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros avanzados de remuestreo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="67"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para el remuestreo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="68"/>
         <source>Number Of Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de hilos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="69"/>
         <source>Default Pixel Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de píxel por defecto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="70"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de hilos utilizados para calcular la imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de píxel por defecto para las muestras que caen fuera de la región de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="72"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de la función de interpolación Sinc con ventanas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para la interpolación Windowed Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
         <source>Window Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Función de ventana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
@@ -6877,54 +6897,59 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Función de ventana
+h = Hamming
+c = Coseno
+w = Welch
+l = Lanczos
+b = Blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="76"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="78"/>
         <source>c</source>
-        <translation type="unfinished"></translation>
+        <translation>c</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="77"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="79"/>
         <source>w</source>
-        <translation type="unfinished"></translation>
+        <translation>w</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="80"/>
         <source>l</source>
-        <translation type="unfinished"></translation>
+        <translation>l</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="81"/>
         <source>b</source>
-        <translation type="unfinished"></translation>
+        <translation>b</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="82"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de la función interpolar BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="83"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para la interpolación BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="84"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="85"/>
         <source>Spline Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"/>
         <source>Manual Transform (Only used if no transform node set)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación manual (sólo se utiliza si no se ha establecido ningún nodo de transformación)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="87"/>
@@ -6939,25 +6964,27 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished"></translation>
+        <translation>12 parámetros de la matriz de transformación por filas ( --last 3 being translation-- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="90"/>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritmo de transformación
+rt = Transformada rígida
+a = Transformada Afín</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="91"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="93"/>
         <source>a</source>
-        <translation type="unfinished"></translation>
+        <translation>a</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="92"/>
         <source>rt</source>
-        <translation type="unfinished"></translation>
+        <translation>rt</translation>
     </message>
 </context>
 <context>
@@ -6965,12 +6992,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="5"/>
         <source>Resample Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Remuestrear volumen escalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation type="unfinished"></translation>
+        <translation>El remuestreo de una imagen es una tarea importante en el análisis de imágenes. Es especialmente importante en el marco del registro de imágenes. Este módulo implementa el remuestreo de imágenes mediante el uso de Transformadas itk. Este módulo utiliza una Transformada de Identidad. El remuestreo es controlado por el Espaciado de Salida. &quot;El remuestreo se realiza en coordenadas espaciales, no en coordenadas de píxel/cuadrícula. Es muy importante asegurarse de que el espaciado de imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeado de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones no cuadriculadas. Existen varios interpoladores: lineal, vecino más próximo, bspline y cinco tipos de sinc. Los interpoladores sinc, aunque más precisos, son mucho más lentos que los interpoladores lineal y de vecino más próximo. Para remuestrear volúmenes de etiquetas, debe utilizarse exclusivamente la interpolación del vecino más próximo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
@@ -6980,73 +7007,73 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
         <source>Resampling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de remuestreo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="9"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para el remuestreo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="10"/>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="11"/>
         <source>Interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="12"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado a lo largo de cada dimensión (0 significa utilizar el espaciado de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"/>
         <source>Sampling algorithm (linear, nearest neighbor, bspline(cubic)  or windowed sinc). There are several sinc algorithms available as described in the following publication: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Each window has a radius of 3;</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritmo de muestreo (lineal, vecino más próximo, bspline(cúbico) o sinc con ventana). Existen varios algoritmos sinc, como se describe en la siguiente publicación: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Cada ventana tiene un radio de 3;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="15"/>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="16"/>
         <source>nearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>nearestNeighbor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="17"/>
         <source>bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="18"/>
         <source>hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>martilleo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="19"/>
         <source>cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>coseno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="20"/>
         <source>welch</source>
-        <translation type="unfinished"></translation>
+        <translation>que</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="21"/>
         <source>lanczos</source>
-        <translation type="unfinished"></translation>
+        <translation>lanczos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="22"/>
         <source>blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"/>
@@ -7061,7 +7088,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="25"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="26"/>
@@ -7071,12 +7098,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="27"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada a remuestrear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="28"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen remuestreado</translation>
     </message>
 </context>
 <context>
@@ -7084,87 +7111,87 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="5"/>
         <source>Robust Statistics Segmenter</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentador estadístico robusto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="6"/>
         <source>Active contour segmentation using robust statistic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación activa de contornos mediante estadística robusta.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de segmentación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="9"/>
         <source>Parameters for robust statistics segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para una segmentación estadística robusta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="10"/>
         <source>Approximate volume(mL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen aproximado (ml)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="11"/>
         <source>The approximate volume of the object, in mL.</source>
-        <translation type="unfinished"></translation>
+        <translation>El volumen aproximado del objeto, en mL.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="12"/>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros auxiliares</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="13"/>
         <source>Some auxiliary parameters to control the stop criteria.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algunos parámetros auxiliares para controlar los criterios de parada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="14"/>
         <source>Intensity Homogeneity[0-1.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensidad Homogeneidad[0-1,0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="15"/>
         <source>Boundary Smoothness[0-1.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Suavidad de límites[0-1.0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="16"/>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta de salida Valor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="17"/>
         <source>Max running time(min)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo máximo de funcionamiento (min)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="18"/>
         <source>What is the homogeneity of intensity within the object? Given constant intensity at 1.0 score and extreme fluctuating intensity at 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Cuál es la homogeneidad de la intensidad dentro del objeto? Dada una intensidad constante con una puntuación de 1,0 y una intensidad fluctuante extrema con una puntuación de 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="19"/>
         <source>Given sphere 1.0 score and extreme rough boundary/surface 0 score, what is the expected smoothness of the object?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dada la puntuación 1,0 de la esfera y la puntuación 0 del límite/superficie extremadamente rugosa, ¿cuál es la suavidad esperada del objeto?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="20"/>
         <source>Label value of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de la etiqueta de la imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="21"/>
         <source>The program will stop if this time is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>El programa se detendrá si se alcanza este tiempo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="22"/>
@@ -7179,12 +7206,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
         <source>Original Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen original</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="25"/>
         <source>Label Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Label Image</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
@@ -7194,17 +7221,17 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
         <source>Original image to be segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen original a segmentar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="28"/>
         <source>Label image for initialization</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen de etiqueta para la inicialización</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="29"/>
         <source>Segmented image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen segmentada</translation>
     </message>
 </context>
 <context>
@@ -7212,107 +7239,107 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="5"/>
         <source>Simple Region Growing Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación simple por regiones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="6"/>
         <source>A simple region growing segmentation algorithm based on intensity statistics. To create a list of fiducials (Seeds) for this algorithm, click on the tool bar icon of an arrow pointing to a sphere fiducial to enter the &apos;place a new object mode&apos; and then use the Markups module. This module uses the Slicer Command Line Interface (CLI) and the ITK filters CurvatureFlowImageFilter and ConfidenceConnectedImageFilter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un sencillo algoritmo de segmentación por crecimiento de región basado en estadísticas de intensidad. Para crear una lista de fiduciales (semillas) para este algoritmo, haga clic en el icono de la barra de herramientas de una flecha apuntando a un fiducial de esfera para entrar en el modo &quot;colocar un nuevo objeto&quot; y, a continuación, utilice el módulo Markups. Este módulo utiliza la interfaz de línea de comandos (CLI) de Slicer y los filtros ITK CurvatureFlowImageFilter y ConfidenceConnectedImageFilter.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo de comandos procede de Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="8"/>
         <source>Smoothing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de suavizado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="9"/>
         <source>Parameters to denoise the image prior to segmenting</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para eliminar el ruido de la imagen antes de segmentarla</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"/>
         <source>Smoothing iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Iteraciones de suavizado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="11"/>
         <source>Timestep</source>
-        <translation type="unfinished"></translation>
+        <translation>Timestep</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="12"/>
         <source>Number of smoothing iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de iteraciones de suavizado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="13"/>
         <source>Timestep for curvature flow</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de tiempo para el flujo de curvatura</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="14"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de segmentación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="15"/>
         <source>Parameters to prescribe the region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para prescribir la región en crecimiento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="16"/>
         <source>Number of iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de iteraciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="17"/>
         <source>Multiplier</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplicador</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="18"/>
         <source>Neighborhood Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio del barrio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"/>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta de salida Valor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
         <source>Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Semillas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"/>
         <source>Number of iterations of region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de iteraciones de crecimiento de la región</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="22"/>
         <source>Number of standard deviations to include in intensity model</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de desviaciones estándar a incluir en el modelo de intensidad</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="23"/>
         <source>The radius of the neighborhood over which to calculate intensity model</source>
-        <translation type="unfinished"></translation>
+        <translation>El radio de la vecindad sobre el que calcular el modelo de intensidad</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"/>
         <source>The integer value (0-255) to use for the segmentation results. This will determine the color of the segmentation that will be generated by the Region growing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor entero (0-255) a utilizar para los resultados de la segmentación. Esto determinará el color de la segmentación que será generada por el algoritmo de crecimiento de la región.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="25"/>
         <source>Seed point(s) for region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto(s) semillero(s) para el cultivo en la región</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
@@ -7327,7 +7354,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
@@ -7337,12 +7364,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="31"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -7350,12 +7377,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="5"/>
         <source>Subtract Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Restar volúmenes escalares</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="6"/>
         <source>Subtracts two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resta dos imágenes. Aunque se admiten todos los tipos de imagen en la entrada, sólo se producen los tipos con signo. No es necesario que las dos imágenes tengan las mismas dimensiones.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
@@ -7400,17 +7427,17 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
         <source>Volume1 - Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen1 - Volumen2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controla</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished"></translation>
+        <translation>Controla el funcionamiento del módulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
@@ -7420,7 +7447,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de interpolación si dos imágenes están en diferentes marcos de coordenadas o tienen diferente muestreo.</translation>
     </message>
 </context>
 <context>
@@ -7428,7 +7455,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="4"/>
         <source>Threshold Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral Volumen escalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
@@ -7780,27 +7807,27 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="379"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Nunca</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Load referenced series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga serie referenciada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registra más detalles durante las operaciones DICOM. Útil para investigar problemas de carga DICOM, pero puede afectar al rendimiento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"/>
         <source>Detailed logging:</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro detallado:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
         <source>Determines the relative size of the thumbnails when using the visual DICOM browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Determina el tamaño relativo de las miniaturas cuando se utiliza el navegador visual DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
@@ -7820,47 +7847,47 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="404"/>
         <source>Thumbnails size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de las miniaturas:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="408"/>
         <source>DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="448"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="449"/>
         <source>Load directory into DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar directorio en base de datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="543"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido crear una base de datos DICOM con la configuración predeterminada. Por favor, cree una nueva base de datos o actualice la base de datos incompatible existente utilizando las opciones mostradas en el navegador DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="554"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>No es posible importar archivos cuyos nombres contengan caracteres especiales (no ASCII). Se recomienda mover los archivos a otra carpeta y volver a intentarlo. ¿Intentar importar desde la ubicación actual de todos modos?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
         <source>Import options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de importación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="618"/>
         <source>Copy imported files to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar los archivos importados en la base de datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="620"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si se activa, todos los archivos importados se copian en la base de datos DICOM. Esto resulta útil al importar desde unidades extraíbles.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="627"/>
@@ -7870,53 +7897,53 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="631"/>
         <source>Show experimental visual DICOM browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar navegador DICOM visual experimental</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="632"/>
         <source>If enabled, the DICOM browser widget will be substituted with new experimental visual browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si se activa, el widget del navegador DICOM será sustituido por el nuevo navegador visual experimental.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="840"/>
         <source>not started</source>
-        <translation type="unfinished"></translation>
+        <translation>no iniciado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="847"/>
         <source>starting</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="852"/>
         <source>unknown</source>
         <extracomment>used when port number is not defined</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>desconocido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="852"/>
         <source>running at port %s</source>
-        <translation type="unfinished"></translation>
+        <translation>ejecutándose en el puerto %s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="868"/>
         <source>Received DICOM file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo DICOM recibido: {nombre de fichero}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
         <source>DICOM database is already empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>La base de datos DICOM ya está vacía.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="947"/>
         <source>Clear entire DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar toda la base de datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="948"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea eliminar todos los datos y archivos copiados en la base de datos ({contar} pacientes)?</translation>
     </message>
 </context>
 <context>
@@ -7924,17 +7951,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="26"/>
         <source>Enhanced US volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Mayor volumen en EE.UU.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation>La carga de este tipo de imagen es experimental. Por favor, verifique la geometría de la imagen e informar de cualquier problema se encuentra.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="94"/>
         <source>Ultrasound volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de ultrasonidos</translation>
     </message>
 </context>
 <context>
@@ -7942,17 +7969,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="32"/>
         <source>GE ABUS</source>
-        <translation type="unfinished"></translation>
+        <translation>GE ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
         <source>GE Invenia ABUS</source>
-        <translation type="unfinished"></translation>
+        <translation>GE Invenia ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="118"/>
         <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation>La carga de este tipo de imagen es experimental. Por favor, compruebe el tamaño de la imagen y la orientación e informar de cualquier problema se encuentra.</translation>
     </message>
 </context>
 <context>
@@ -7960,23 +7987,23 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="36"/>
         <source>Image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Secuencia de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
         <source>Image spacing may need to be calibrated for accurate size measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede ser necesario calibrar el espaciado de las imágenes para obtener mediciones de tamaño precisas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="206"/>
         <source>{modality} image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>{modalidad} secuencia de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="187"/>
         <source>{modality} image sequence ({count} planes)</source>
-        <translation type="unfinished"></translation>
+        <translation>{modalidad} secuencia de imágenes ({contar} planos)</translation>
     </message>
 </context>
 <context>
@@ -7984,144 +8011,144 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="165"/>
         <source>DICOM Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="221"/>
         <source>Uncheck All</source>
-        <translation type="unfinished"></translation>
+        <translation>Desmarcar todo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="227"/>
         <source>Examine</source>
-        <translation type="unfinished"></translation>
+        <translation>Examine</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="233"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="236"/>
         <source>Load selected items into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar los elementos seleccionados en la escena</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="241"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="316"/>
         <source>The following data type is in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>El siguiente tipo de datos se encuentra en su base de datos:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="318"/>
         <source>The following data types are in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>Los siguientes tipos de datos se encuentran en su base de datos:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="323"/>
         <source>The following extension is not installed, but may help you work with this data:</source>
-        <translation type="unfinished"></translation>
+        <translation>La siguiente extensión no está instalada, pero puede ayudarle a trabajar con estos datos:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="325"/>
         <source>The following extensions are not installed, but may help you work with this data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Las siguientes extensiones no están instaladas, pero pueden ayudarle a trabajar con estos datos:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="329"/>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede instalar extensiones utilizando la opción Gestor de extensiones del menú Ver.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="329"/>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="497"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="470"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>{cuenta_archivos_que_faltan} de {cuenta_archivos_total} archivos seleccionados listados en la base de datos no se pueden encontrar en el disco.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="477"/>
         <source>Checking {what}</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando {qué}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="495"/>
         <source>Warning: {messages}</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia: {messages}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="496"/>
         <source>See python console for error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulte el mensaje de error en la consola de Python.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="606"/>
         <source>Loading {what}</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando {qué}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="629"/>
         <source>DICOM loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="640"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia en el plugin DICOM {load_type} al examinar el cargable {name}: {mensaje}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="645"/>
         <source>Warnings detected during load.  Examine data in Advanced mode for details.  Load anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencias detectadas durante la carga.  Examine los datos en el modo Avanzado para obtener más detalles.  ¿Cargar de todos modos?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="656"/>
         <source>Referenced datasets found</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjuntos de datos de referencia encontrados</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="660"/>
         <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los objetos DICOM cargados contienen referencias a otros conjuntos de datos que no seleccionó para la carga. Seleccione Sí si desea cargar los siguientes conjuntos de datos referenciados, No si sólo desea cargar la serie seleccionada originalmente, o Cancelar para abortar la carga.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="670"/>
         <source>Remember choice and stop asking</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuerda la elección y deja de preguntar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="672"/>
         <source>Can be changed later in Application Settings / DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede modificarse posteriormente en Configuración de la aplicación / DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="699"/>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Referencias</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="732"/>
         <source>DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="732"/>
         <source>Reader</source>
-        <translation type="unfinished"></translation>
+        <translation>Lector</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="732"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencias</translation>
     </message>
 </context>
 <context>
@@ -8129,128 +8156,128 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="26"/>
         <source>DICOM Patcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcheador DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="30"/>
         <source>Fix common issues in DICOM files. This module may help fixing DICOM files that Slicer fails to import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solucionar problemas comunes en archivos DICOM. Este módulo puede ayudar a arreglar los archivos DICOM que Slicer no puede importar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="40"/>
         <source>This file was originally developed by Andras Lasso, PerkLab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este archivo fue desarrollado originariamente por Andras Lasso, PerkLab.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="54"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="62"/>
         <source>Input DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio DICOM de entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="67"/>
         <source>Output DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio DICOM de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="72"/>
         <source>Replace file and folder names with automatically generated names. Fixes errors caused by file path containins special characters or being too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sustituye los nombres de archivos y carpetas por nombres generados automáticamente. Corrige los errores causados por la ruta de archivo containins caracteres especiales o ser demasiado largo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="73"/>
         <source>Normalize file names</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalizar nombres de archivo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="80"/>
         <source>Generate patient name and ID from the first file in a directory and force all other files in the same directory to have the same patient name and ID. Enable this option if a separate patient directory is created for each patched file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar nombre e ID de paciente a partir del primer archivo de un directorio y forzar a que todos los demás archivos del mismo directorio tengan el mismo nombre e ID de paciente. Active esta opción si se crea un directorio de pacientes independiente para cada archivo parcheado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="81"/>
         <source>Force same patient name and ID in each directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Forzar el mismo nombre e ID de paciente en cada directorio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="88"/>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar un nuevo UID de instancia de serie para cada directorio y establecerlo en todos los archivos de ese mismo directorio. Active esta opción para forzar la colocación de todos los fotogramas de una carpeta en un único volumen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="89"/>
         <source>Force same series instance UID in each directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Forzar el mismo UID de instancia de serie en cada directorio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="95"/>
         <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar IDs de pacientes, estudios y series que faltan. Se asume que todos los archivos de un directorio pertenecen a la misma serie. Corrige errores causados por una anonimización demasiado agresiva o convertidores de imágenes DICOM incorrectos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="96"/>
         <source>Generate missing patient/study/series IDs</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar ID de pacientes/estudios/series que faltan</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="101"/>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar &apos;secuencia de posición de imagen&apos; para archivos multi-frame que sólo tienen campo &apos;SliceThickness&apos;. Corrige error en escáneres Dolphin 3D CBCT.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="102"/>
         <source>Generate slice position for multi-frame volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Generación de la posición de corte para volúmenes de varios fotogramas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="113"/>
         <source>If checked, then ultrasound image series are split by instance number. Useful if many ultrasound acquisitions appear in the same series.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si se marca, las series de imágenes ecográficas se dividen por número de instancia. Resulta útil si aparecen muchas adquisiciones ecográficas en la misma serie.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="123"/>
         <source>If checked, then photometric interpretation of JPEG-compressed ultrasound will be set to YBR_FULL_422. This is useful for fixing inconsistency in JPEG-compressed images that used RGB as photometric interpretation due to ambiguity in the DICOM standard before CP156. See https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE and https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si se marca, la interpretación fotométrica de la ecografía comprimida en JPEG se establecerá en YBR_FULL_422. Esto es útil para arreglar inconsistencias en imágenes comprimidas en JPEG que usaban RGB como interpretación fotométrica debido a la ambigüedad en el estándar DICOM antes de CP156. Véase https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE y https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf para más detalles.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="146"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, se eliminará de los archivos DICOM parcheados cierta información identificable del paciente. Hay muchos campos que pueden identificar a un paciente, esta función no los elimina todos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="147"/>
         <source>Partially anonymize</source>
-        <translation type="unfinished"></translation>
+        <translation>Anonimizar parcialmente</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="154"/>
         <source>Fix DICOM files in input directory and write them to output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Arreglar los archivos DICOM en el directorio de entrada y escribirlos en el directorio de salida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="161"/>
         <source>Import DICOM files in output directory into the application&apos;s DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Importación de archivos DICOM del directorio de salida a la base de datos DICOM de la aplicación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="181"/>
         <source>Unexpected error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error inesperado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="281"/>
         <source>Unspecified Patient {patientIndex}</source>
-        <translation type="unfinished"></translation>
+        <translation>Paciente no especificado {patientIndex}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="350"/>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="560"/>
         <source>Unspecified Patient</source>
-        <translation type="unfinished"></translation>
+        <translation>Paciente no especificado</translation>
     </message>
 </context>
 <context>
@@ -8258,27 +8285,27 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="37"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen escalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="86"/>
         <source>Preferred back end.  Archetype was used by default in Slicer before June of 2017. Change this setting if data that previously loaded stops working (and report an issue).</source>
-        <translation type="unfinished"></translation>
+        <translation>Extremo posterior preferido.  Archetype se utilizaba por defecto en Slicer antes de junio de 2017. Cambie esta configuración si los datos cargados anteriormente dejan de funcionar (e informe del problema).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="86"/>
         <source>DICOM reader approach:</source>
-        <translation type="unfinished"></translation>
+        <translation>Enfoque lector DICOM:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite añadir una transformación no lineal para regularizar las imágenes adquiridas con una geometría irregular: rejilla no rectilínea (como las adquisiciones de TC con pórtico inclinado) y espaciado de cortes no uniforme. Si no se aplica ninguna regularización, la imagen puede aparecer distorsionada si se ha adquirido con una geometría irregular.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>default (apply regularization transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>por defecto (aplicar transformación de regularización)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="97"/>
@@ -8288,98 +8315,98 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="98"/>
         <source>apply regularization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>aplicar la transformación de regularización</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="99"/>
         <source>harden regularization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>harden regularization transform</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="102"/>
         <source>Acquisition geometry regularization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Regularización de la geometría de adquisición:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="106"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="119"/>
         <source>DICOM examination settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes del examen DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="114"/>
         <source>Offer loading of individual slices or group of slices that were acquired at a specific time (content or trigger time). If this option is enabled then a large number of loadable items may be displayed in the Advanced section of DICOM browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofrece la carga de cortes individuales o grupos de cortes que fueron adquiridos en un momento específico (contenido o tiempo de disparo). Si esta opción está activada, es posible que se muestre un gran número de elementos cargables en la sección Avanzado del navegador DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="114"/>
         <source>Allow loading subseries by time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir cargar subseries por tiempo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="135"/>
         <source>First volume is {imageScalarType1}, but second is {imageScalarType2}</source>
-        <translation type="unfinished"></translation>
+        <translation>El primer volumen es {imageScalarType1}, pero el segundo es {imageScalarType2}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="140"/>
         <source>Pixel data mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation>Desajuste de datos de píxeles</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="200"/>
         <source>{count} files, first file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>{count} archivos, primer archivo: {nombre de fichero}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="306"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>{contar} archivos, agrupados por {etiqueta} = {valor}. Primer fichero: {nombre de fichero}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="344"/>
         <source>There is no pixel data attribute for the DICOM objects, but they might be readable as secondary capture images.</source>
-        <translation type="unfinished"></translation>
+        <translation>No existe ningún atributo de datos de píxeles para los objetos DICOM, pero podrían ser legibles como imágenes de captura secundaria.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="639"/>
         <source>Creates a series of DICOM files from scalar volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea una serie de archivos DICOM a partir de volúmenes escalares</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="667"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Jerarquía de materias no válida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="671"/>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
-        <translation type="unfinished"></translation>
+        <translation>La serie &apos;{itemName}&apos; no se puede exportar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="688"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="693"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede obtener el paciente para la serie &apos;{volumeName}&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="742"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalidad vacía para la serie &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="756"/>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya existe una serie en la base de datos con SeriesInstanceUID {seriesInstanceUID}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="768"/>
         <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al crear archivos DICOM desde un volumen escalar. Consulte el registro de la aplicación para obtener más información.</translation>
     </message>
 </context>
 <context>
@@ -8387,27 +8414,27 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="28"/>
         <source>Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquete de datos Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="76"/>
         <source>Contains a Slicer scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Contiene una escena Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="169"/>
         <source>Slicer data bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquete de datos Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="170"/>
         <source>Creates a series that embeds the entire Slicer scene in a private DICOM tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea una serie que incrusta toda la escena Slicer en una etiqueta DICOM privada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="182"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Jerarquía de materias no válida</translation>
     </message>
 </context>
 <context>
@@ -8420,54 +8447,54 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="96"/>
         <source>Creates a series of DICOM files from volume sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea una serie de archivos DICOM a partir de secuencias de volúmenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="101"/>
         <source>Volume sequence of {count} frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Secuencia de volumen de {count} fotogramas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="102"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>CT</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="103"/>
         <source>Unknown manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabricante desconocido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="104"/>
         <source>Unknown model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo desconocido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="158"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Jerarquía de materias no válida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="162"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="168"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="174"/>
         <source>Series &apos;{itemName}&apos; cannot be exported as volume sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>La serie &apos;{itemName}&apos; no puede exportarse como secuencia de volumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="181"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="186"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede obtener el paciente para la serie &apos;{volumeName}&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="215"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalidad vacía para la serie &apos;{volumeName}&apos;</translation>
     </message>
 </context>
 <context>
@@ -8478,27 +8505,30 @@ This file was originally developed by Andras Lasso
 The DataProbe module is used to get information about the current RAS position being
 indicated by the mouse position.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+El módulo DataProbe se utiliza para obtener información sobre la posición actual RAS siendo
+indicada por la posición del ratón.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="35"/>
         <source>This work is supported by NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis and Fedorov) and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo cuenta con el apoyo de NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis y Fedorov) y la Comunidad Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="134"/>
         <source>No volume</source>
-        <translation type="unfinished"></translation>
+        <translation>En el volumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="137"/>
         <source>No Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin imagen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="141"/>
         <source>Out of Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuera de cuadro</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="145"/>
@@ -8508,27 +8538,27 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="157"/>
         <source>Out of bounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuera de límites</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="160"/>
         <source>No Point Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin datos puntuales</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="164"/>
         <source>No Tensor Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin datos del tensor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="182"/>
         <source>{numberOfComponents} components</source>
-        <translation type="unfinished"></translation>
+        <translation>{númeroDeComponentes} componentes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="294"/>
         <source>Data Probe: {sceneName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonda de datos: {sceneName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="25"/>
@@ -8545,12 +8575,12 @@ indicated by the mouse position.
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="500"/>
         <source>Go to the DataProbe module for more information and options</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaya al módulo DataProbe para más información y opciones</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
         <source>Show Zoomed Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar rebanada ampliada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="541"/>
@@ -8563,7 +8593,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="33"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Endoscopia</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="67"/>
@@ -8572,7 +8602,11 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 (See &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este trabajo cuenta con el apoyo de PAR-07-249: R01CA131718 NA-MIC Colonoscopia virtual
+(Véase &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
+NA-MIC, NAC, BIRN, NCIGT, y la Comunidad Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="107"/>
@@ -8582,7 +8616,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="116"/>
         <source>Select a camera that will fly along this path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona una cámara que vuele a lo largo de esta trayectoria.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="53"/>
@@ -8598,7 +8632,18 @@ The Frame Delay slider slows down the animation by adding more time between fram
 The View Angle provides is used to approximate the optics of an endoscopy system.
 You can save the camera position at any point by clicking &quot;Save camera position&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Cree o importe una curva de marcado.
+Seleccione la cámara que se utilizará para reproducir el sobrevuelo o para editar los fotogramas clave asociados.
+Seleccione la cámara que se utilizará para reproducir el paso elevado.
+Al hacer clic en &quot;Usar esta curva&quot; se creará una curva de sobrevuelo y se activará el panel de sobrevuelo.
+Puede desplazarse manualmente por la trayectoria con el control deslizante Fotograma.
+El botón Reproducir/Pausa activa el sobrevuelo animado.
+El deslizador Omitir fotograma acelera la animación saltando puntos del recorrido.
+El deslizador Retraso de fotograma ralentiza la animación añadiendo más tiempo entre fotogramas.
+El ángulo de visión proporciona se utiliza para aproximar la óptica de un sistema de endoscopia.
+Puede guardar la posición de la cámara en cualquier punto haciendo clic en &quot;Guardar posición de la cámara&quot;.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"/>
@@ -8608,109 +8653,109 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="128"/>
         <source>Select a curve to define control points for the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione una curva para definir los puntos de control de la trayectoria.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="133"/>
         <source>Curve to modify:</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva a modificar:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="140"/>
         <source>Flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasarela</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="148"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="418"/>
         <source>Play flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Jugar al vuelo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="150"/>
         <source>Start or stop the flythrough animation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia o detiene la animación de vuelo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="158"/>
         <source>The current frame along the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>El fotograma actual a lo largo de la ruta.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="160"/>
         <source>Frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>Marco:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="166"/>
         <source>Number of frames to skip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de fotogramas a saltar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="170"/>
         <source>Frame skip:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcos de bastidor:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="175"/>
         <source>Time delay between animation frames.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de retardo entre fotogramas de animación.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="181"/>
         <source>Frame delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Retraso de fotogramas:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="186"/>
         <source>Field of view of the camera in degrees.</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo de visión de la cámara en grados.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="191"/>
         <source>View Angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ángulo de visión:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="197"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="357"/>
         <source>Save Keyframe Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar orientación de fotogramas clave</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="199"/>
         <source>Save the camera orientation for this frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>Guarda la orientación de la cámara para este fotograma.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="205"/>
         <source>Delete Keyframe Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar orientación de fotogramas clave</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="207"/>
         <source>Delete the saved camera orientation for this frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>Borra la orientación de cámara guardada para este fotograma.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="216"/>
         <source>First</source>
-        <translation type="unfinished"></translation>
+        <translation>En primer lugar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="218"/>
         <source>Go to the first user-supplied keyframe.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir al primer fotograma clave proporcionado por el usuario.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="223"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="225"/>
         <source>Go to the previous user-supplied keyframe.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir al fotograma clave anterior proporcionado por el usuario.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="230"/>
@@ -8720,52 +8765,52 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="232"/>
         <source>Go to the next user-supplied keyframe.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir al siguiente fotograma clave proporcionado por el usuario.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="237"/>
         <source>Last</source>
-        <translation type="unfinished"></translation>
+        <translation>Última</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="239"/>
         <source>Go to the last user-supplied keyframe.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir al último fotograma clave proporcionado por el usuario.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="250"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="262"/>
         <source>Select or create the destination model for exporting the flythrough path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione o cree el modelo de destino para exportar la ruta de vuelo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="268"/>
         <source>Output Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="272"/>
         <source>Export as model</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar como modelo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="274"/>
         <source>Export the current flythrough path as a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporta la trayectoria de vuelo actual como modelo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="356"/>
         <source>Update Keyframe Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar orientación de fotogramas clave</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="411"/>
         <source>Stop flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener el sobrevuelo</translation>
     </message>
 </context>
 <context>
@@ -8773,47 +8818,47 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="48"/>
         <source>Extension Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Asistente de ampliación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="53"/>
         <source>This module provides tools to create and manage extensions from within Slicer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo proporciona herramientas para crear y gestionar extensiones desde Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="54"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo cuenta con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="125"/>
         <source>Extension Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramientas de ampliación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="127"/>
         <source>Create Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear extensión</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="130"/>
         <source>Select Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar extensión</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="142"/>
         <source>Extension Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor de extensiones</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="156"/>
         <source>Add Module to Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir módulo a la extensión</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="160"/>
         <source>Edit Extension Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar metadatos de extensión</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="165"/>
@@ -8823,97 +8868,97 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="166"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubicación:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="167"/>
         <source>Repository:</source>
-        <translation type="unfinished"></translation>
+        <translation>Repositorio:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="168"/>
         <source>Contents:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contenido:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="247"/>
         <source>An error occurred while trying to create the extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha producido un error al intentar crear la extensión.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="262"/>
         <source>Select Extension...</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione Extensión...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="288"/>
         <source>Failed to open extension {path}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al abrir la extensión {ruta}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="303"/>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ninguno)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="305"/>
         <source>(local git repository)</source>
-        <translation type="unfinished"></translation>
+        <translation>(repositorio git local)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="308"/>
         <source>(unknown local repository)</source>
-        <translation type="unfinished"></translation>
+        <translation>(repositorio local desconocido)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="386"/>
         <source>{count} modules could not be registered</source>
-        <translation type="unfinished"></translation>
+        <translation>{count} módulos no pudieron ser registrados</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="388"/>
         <source>The {name} module could not be registered</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido registrar el módulo {name}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="394"/>
         <source>Module loading failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en la carga del módulo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"/>
         <source>The module factory manager reported an error. One or more of the requested module(s) and/or dependencies thereof may not have been loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>El gestor de fábrica de módulos ha informado de un error. Es posible que no se hayan cargado uno o varios de los módulos solicitados y/o sus dependencias.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="404"/>
         <source>Error loading module(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al cargar módulo(s)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="427"/>
         <source>An error occurred while trying to create the module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha producido un error al intentar crear el módulo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="440"/>
         <source>An error occurred while adding the module to the extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha producido un error al añadir el módulo a la extensión.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="445"/>
         <source>The module has been created, but the extension CMakeLists.txt could not be updated. In order to include the module in the extension build, you will need to update the extension CMakeLists.txt by hand.</source>
-        <translation type="unfinished"></translation>
+        <translation>El módulo ha sido creado, pero la extensión CMakeLists.txt no ha podido ser actualizada. Con el fin de incluir el módulo en la construcción de la extensión, tendrá que actualizar la extensión CMakeLists.txt a mano.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="492"/>
         <source>Python scripted modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulos de secuencias de comandos de Python</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="493"/>
         <source>Add Python scripted modules to the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir módulos de scripting Python a la aplicación</translation>
     </message>
 </context>
 <context>
@@ -8931,23 +8976,23 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="34"/>
         <source>Destination:</source>
-        <translation type="unfinished"></translation>
+        <translation>Destino:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="65"/>
         <source>{type} name may not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>{tipo} el nombre no puede estar vacío.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="66"/>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="73"/>
         <source>Cannot create {type}</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede crear {tipo}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="72"/>
         <source>Destination must be an existing directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>El destino debe ser un directorio existente.</translation>
     </message>
 </context>
 <context>
@@ -8978,7 +9023,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="32"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Categoría:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="35"/>
@@ -8993,28 +9038,28 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
         <source>Organization</source>
-        <translation type="unfinished"></translation>
+        <translation>Organización</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="42"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colaboradores:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
         <source>Extension name may not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de la extensión no puede estar vacío.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="78"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadatos no válidos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="77"/>
         <source>Extension description may not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>La descripción de la extensión no puede estar vacía.</translation>
     </message>
 </context>
 <context>
@@ -9022,27 +9067,27 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="31"/>
         <source>(New item)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Artículo nuevo)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="52"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Move &amp;Up</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="57"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover &amp;Abajo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="62"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Borrar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="130"/>
         <source>Anonymous</source>
-        <translation type="unfinished"></translation>
+        <translation>Anónimo</translation>
     </message>
 </context>
 <context>
@@ -9050,37 +9095,37 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="45"/>
         <source>Enable developer mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar el modo desarrollador</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="50"/>
         <source>Sets the &apos;Developer mode&apos; application option to enabled. Enabling developer mode is recommended while developing scripted modules, as it makes the Reload and Testing section displayed in the module user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Establece la opción de la aplicación &apos;Modo desarrollador&apos; como habilitada. Se recomienda habilitar el modo de desarrollador mientras se desarrollan módulos con scripts, ya que hace que se muestre la sección Recargar y probar en la interfaz de usuario del módulo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="90"/>
         <source>Add selected module to &apos;Additional module paths&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir el módulo seleccionado a &quot;Rutas de módulos adicionales</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="94"/>
         <source>Add selected modules to &apos;Additional module paths&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir los módulos seleccionados a &quot;Rutas de módulos adicionales</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="118"/>
         <source>The following modules can be loaded. Would you like to load them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pueden cargar los siguientes módulos. ¿Desea cargarlos ahora?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="121"/>
         <source>The following module can be loaded. Would you like to load it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>El siguiente módulo puede cargarse. ¿Desea cargarlo ahora?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/LoadModulesDialog.py" line="122"/>
         <source>At least one module must be provided</source>
-        <translation type="unfinished"></translation>
+        <translation>Debe proporcionarse al menos un módulo</translation>
     </message>
 </context>
 <context>
@@ -9088,22 +9133,22 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="26"/>
         <source>(Unavailable)</source>
-        <translation type="unfinished"></translation>
+        <translation>(No disponible)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="28"/>
         <source>Built-in template path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de plantilla incorporada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="31"/>
         <source>Additional template paths:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rutas de plantillas adicionales:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/SettingsPanel.py" line="37"/>
         <source>Additional template paths for {category}:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rutas de plantilla adicionales para {category}:</translation>
     </message>
 </context>
 <context>
@@ -9119,17 +9164,17 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="18"/>
         <source>Import ITK-Snap label description</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar descripción de etiqueta ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="22"/>
         <source>Load ITK-Snap label description file (.label or .txt).</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargue el archivo de descripción de etiquetas ITK-Snap (.label o .txt).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="44"/>
         <source>ITK-Snap label description file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de descripción de etiquetas ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="73"/>
@@ -9139,12 +9184,12 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="88"/>
         <source>Failed to load file: </source>
-        <translation type="unfinished"></translation>
+        <translation>Error al cargar el archivo: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="143"/>
         <source>Syntax error in line {line}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de sintaxis en la línea {línea}</translation>
     </message>
 </context>
 <context>
@@ -9172,7 +9217,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="52"/>
         <source>Rename </source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie el nombre de </translation>
     </message>
 </context>
 <context>
@@ -9180,14 +9225,16 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="77"/>
         <source>Sample Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra de datos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="83"/>
         <source>
 This module provides data sets that can be used for testing 3D Slicer.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo proporciona conjuntos de datos que pueden utilizarse para probar 3D Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="98"/>
@@ -9204,7 +9251,19 @@ with a permissive copyright-license (&lt;a href=&quot;https://creativecommons.or
 and is exclusively available for research and teaching. You are not authorized to redistribute or sell it, or
 use it for commercial purposes.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Este trabajo fue financiado en parte por Cancer Care Ontario
+y el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterápica (OCAIRO)&lt;/p&gt; &lt;p&gt;.
+
+&lt;p&gt;Los conjuntos de datos MRHead, CBCT-MR Head y CT-MR Brain fueron donados al proyecto 3D Slicer por las personas visibles en las imágenes, para ser utilizados sin ninguna restricción.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Cabeza&lt;/strong&gt;, CBCT-MR Head y CT-MR Brain.
+
+&lt;p&gt;El conjunto de datos CTLiver procede de &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;Proyecto Decathlon Médico&lt;/a&gt; (imagesTr/liver_100.nii.gz en la colección Task03_Liver)
+con una licencia de derechos de autor permisiva (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), lo que permite compartir, distribuir y mejorar los datos.&lt;/p&gt; &lt;p&gt;
+
+&lt;p&gt;El conjunto de datos CTA abdomen (Panoramix) procede de &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Biblioteca de imágenes DICOM Osirix&lt;/a&gt;
+y está disponible exclusivamente para investigación y docencia. No está autorizado a redistribuirlo o venderlo, ni a
+utilizarlo con fines comerciales.&lt;/p&gt; &lt;p&gt;
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="113"/>
@@ -9214,7 +9273,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="114"/>
         <source>Go to the SampleData module to download data from the network</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaya al módulo SampleData para descargar datos de la red</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="516"/>
@@ -9224,110 +9283,110 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="517"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Desarrollo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="639"/>
         <source>Failed to create cache folder {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido crear la carpeta de caché {ruta}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="641"/>
         <source>Cache folder {path} is not writable</source>
-        <translation type="unfinished"></translation>
+        <translation>La carpeta de caché {ruta} no tiene permisos de escritura</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="694"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga fallida (intento {actual} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="748"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga fallida (intento {actual} de {total}). Imposible borrar e intentar de nuevo cargar {ruta}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="752"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga fallida (intento {actual} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="889"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargado {tamañoTerminado} ({porcentajeTerminado}% de {tamañoTotal})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="906"/>
         <source>Requesting download {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitando descarga {name} desde {uri} ...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="909"/>
         <source>Download finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga finalizada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="911"/>
         <source>Download failed: {errorMessage}</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo en la descarga: {errorMessage}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="912"/>
         <source>Failed to download {uri} to {filePath}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al descargar {uri} a {filePath}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="915"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="927"/>
         <source>Verifying checksum</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificación de la suma de comprobación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="919"/>
         <source>Checksum verification failed. Computed checksum {currentChecksum} different from expected checksum {expectedChecksum}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en la verificación de la suma de comprobación. La suma de comprobación calculada {currentChecksum} es diferente de la suma de comprobación esperada {expectedChecksum}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="924"/>
         <source>Checksum OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Suma de comprobación OK</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="930"/>
         <source>File already exists in cache but checksum is different - re-downloading it.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo ya existe en la caché, pero la suma de comprobación es diferente.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="935"/>
         <source>File already exists and checksum is OK - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation>El fichero ya existe y la suma de comprobación es correcta - reutilizándolo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="938"/>
         <source>File already exists in cache - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo ya existe en la caché - reutilizándolo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="942"/>
         <source>Requesting load {uri}</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitando carga {uri}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="946"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="963"/>
         <source>Load failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga fallida.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="948"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="966"/>
         <source>Load finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga terminada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="952"/>
         <source>Requesting load {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitando carga {name} desde {uri} ...</translation>
     </message>
 </context>
 <context>
@@ -9418,7 +9477,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="27"/>
         <source>Screen Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de pantalla</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="34"/>
@@ -9426,7 +9485,10 @@ use it for commercial purposes.&lt;/p&gt;
 This module captures image sequences and videos
 from dynamic contents shown in 3D and slice viewers.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este módulo captura secuencias de imágenes y vídeos
+de contenidos dinámicos mostrados en visores 3D y de cortes.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="46"/>
@@ -9434,57 +9496,60 @@ from dynamic contents shown in 3D and slice viewers.
 This work was was funded by Cancer Care Ontario
 and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este trabajo fue financiado por Cancer Care Ontario
+y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="77"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="91"/>
         <source>Main view: </source>
-        <translation type="unfinished"></translation>
+        <translation>Vista principal: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="95"/>
         <source>If checked, all views will be captured. If unchecked then only the selected view will be captured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, se capturarán todas las vistas. Si no está marcada, sólo se capturará la vista seleccionada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="96"/>
         <source>Capture all views:</source>
-        <translation type="unfinished"></translation>
+        <translation>Capta todas las vistas:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="104"/>
         <source>Start sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento de inicio de barrido:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="110"/>
         <source>Start slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento de inicio de barrido.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="114"/>
         <source>End sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento de fin de barrido:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="120"/>
         <source>End slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento de fin de barrido.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="124"/>
         <source>Rotation range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rango de rotación:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="131"/>
         <source>View rotation range, relative to current view orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rango de rotación de la vista, relativo a la orientación actual de la vista.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="135"/>
@@ -9494,12 +9559,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
         <source>Yaw</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaw</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="139"/>
         <source>Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pitch</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="143"/>
@@ -9509,218 +9574,218 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="151"/>
         <source>Items defined by this sequence browser will be replayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se reproducirán los elementos definidos por este navegador de secuencias.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="155"/>
         <source>Start index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice de inicio:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="159"/>
         <source>First item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primer elemento de la secuencia a capturar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="163"/>
         <source>End index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice final:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="167"/>
         <source>Last item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Último elemento de la secuencia a capturar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="175"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione cómo se guardarán las imágenes capturadas. El modo de vídeo requiere la configuración de la ruta del ejecutable ffmpeg en la sección Avanzado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <source>image series</source>
-        <translation type="unfinished"></translation>
+        <translation>serie de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
         <source>video</source>
-        <translation type="unfinished"></translation>
+        <translation>vídeo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="184"/>
         <source>lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>imagen lightbox</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="178"/>
         <source>Output type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="198"/>
         <source>Number of images extracted between start and stop positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de imágenes extraídas entre las posiciones inicial y final.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="189"/>
         <source>Number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de imágenes:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="206"/>
         <source>Output directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="217"/>
         <source>String that defines file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadena que define el nombre y el tipo de archivo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="220"/>
         <source>SlicerCapture.mp4</source>
         <oldsource>SlicerCapture.avi</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCapture.mp4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="221"/>
         <source>String that defines output lightbox file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadena que define el nombre y el tipo de archivo del lightbox de salida.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="224"/>
         <source>SlicerCaptureLightbox.png</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCaptureLightbox.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="228"/>
         <source>Output file name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del archivo de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="230"/>
         <source>Video format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="247"/>
         <source>Length of the exported video in seconds (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>Duración del vídeo exportado en segundos (sin retrocesos ni repeticiones).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="238"/>
         <source>Video length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Duración del vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="259"/>
         <source>Frame rate in frames per second.</source>
-        <translation type="unfinished"></translation>
+        <translation>Frecuencia de imagen en fotogramas por segundo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="250"/>
         <source>Video frame rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Frecuencia de imagen de vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="90"/>
         <source>This slice or 3D view will be updated during capture.Only this view will be captured unless &apos;Capture all views&apos; option is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo se capturará esta vista a menos que la opción &quot;Capturar todas las vistas&quot; esté activada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="100"/>
         <source>Specify how the main view will be modified during capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique cómo se modificará la vista principal durante la captura.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="101"/>
         <source>Capture mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de captura:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="267"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="273"/>
         <source>If checked, image series will be generated playing forward and then backward.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, las series de imágenes se generarán reproduciéndose hacia adelante y luego hacia atrás.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="274"/>
         <source>Forward-backward:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adelante-atrás:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="283"/>
         <source>Number of times image series are repeated. Useful for making short videos longer for playback in software that does not support looped playback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de veces que se repiten las series de imágenes. Útil para alargar vídeos cortos para su reproducción en software que no admite la reproducción en bucle.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="284"/>
         <source>Repeat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Repite:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="292"/>
         <source>Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</source>
-        <translation type="unfinished"></translation>
+        <translation>Establece la ruta al ejecutable de ffmpeg. Descarga desde: https://www.ffmpeg.org/</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="293"/>
         <source>ffmpeg executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>ejecutable ffmpeg:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="297"/>
         <source>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Set valid ffmpeg executable path! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;¡Establezca una ruta válida para el ejecutable de ffmpeg! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Ayuda...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="305"/>
         <source>Additional video conversion options passed to ffmpeg. Parameters -i (input files), -y(overwrite without asking), -r (frame rate), -start_number are specified by the module and thereforeshould not be included in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones adicionales de conversión de vídeo pasadas a ffmpeg. Los parámetros -i (archivos de entrada), -y(sobrescribir sin preguntar), -r (velocidad de fotogramas), -start_number son especificados por el módulo y, por tanto, no deben incluirse en esta lista.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="306"/>
         <source>Video extra options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones extra de vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="213"/>
         <source>String that defines file name, type, and numbering scheme. Default: image%05d.png.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadena que define el nombre, tipo y esquema de numeración del archivo. Por defecto: imagen%05d.png.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="216"/>
         <source>image_%05d.png</source>
-        <translation type="unfinished"></translation>
+        <translation>imagen_%05d.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="314"/>
         <source>Number of columns in lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de columnas en la imagen lightbox</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="315"/>
         <source>Lightbox image columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Columnas de imágenes Lightbox:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="321"/>
         <source>Maximum number of images to be captured (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de imágenes a capturar (sin retrocesos ni repeticiones).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="322"/>
         <source>Maximum number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de imágenes:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="327"/>
@@ -9730,57 +9795,57 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="331"/>
         <source>Select a volume node to store the captured image in the scene instead of just writing immediately to disk. Requires output &apos;Number of images&apos; to be set to 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona un nodo de volumen para almacenar la imagen capturada en la escena en lugar de escribirla inmediatamente en el disco. Requiere que la salida &apos;Número de imágenes&apos; se establezca en 1.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="333"/>
         <source>Output volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de volumen de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="337"/>
         <source>If checked, images will be captured with view controllers visible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, las imágenes se capturarán con los controladores de vista visibles.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="338"/>
         <source>View controllers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver controladores:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="342"/>
         <source>If checked, images will be captured with transparent background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, las imágenes se capturarán con fondo transparente.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="343"/>
         <source>Transparent background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fondo transparente:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="349"/>
         <source>If checked, selected watermark image will be added to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, la imagen de marca de agua seleccionada se añadirá a todas las imágenes exportadas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="354"/>
         <source>Add a watermark image to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Añade una imagen de marca de agua a todas las imágenes exportadas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="368"/>
         <source>Size scaling applied to the watermark image. 100% is original size</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de tamaño aplicada a la imagen de marca de agua. 100% es el tamaño original</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="382"/>
         <source>Opacity of the watermark image. 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacidad de la imagen de marca de agua. 100% es totalmente opaco.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="394"/>
         <source>Watermark image file in png format</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de imagen de marca de agua en formato png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="398"/>
@@ -9800,73 +9865,73 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="405"/>
         <source>Watermark image:</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen de marca de agua:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="413"/>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Capture</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="414"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="416"/>
         <source>Capture slice sweep to image sequence.</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de barrido de cortes a secuencia de imágenes.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="421"/>
         <source>Show created output file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el archivo de salida creado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="538"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="542"/>
         <source>single frame</source>
-        <translation type="unfinished"></translation>
+        <translation>bastidor simple</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="539"/>
         <source>slice sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>barrido de rodajas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="540"/>
         <source>slice fade</source>
-        <translation type="unfinished"></translation>
+        <translation>fundido en rodajas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="543"/>
         <source>3D rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotación 3D</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="545"/>
         <source>sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>secuencia</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="688"/>
         <source>Video encoder not detected on your system. Download ffmpeg video encoder?</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha detectado el codificador de vídeo en su sistema. ¿Descargar el codificador de vídeo ffmpeg?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="689"/>
         <source>Download confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar confirmación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="691"/>
         <source>ffmpeg download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo en la descarga de ffmpeg</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="715"/>
         <source>View controllers are only available to be shown when capturing all views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los controladores de vistas sólo pueden mostrarse cuando se capturan todas las vistas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="728"/>
@@ -9875,81 +9940,81 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1323"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1367"/>
         <source>Write {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir {nombre de archivo}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="730"/>
         <source>Write to volume node &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir en el nodo de volumen &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="766"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="773"/>
         <source>Copy to {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar a {nombre de archivo}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="791"/>
         <source>Done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hecho.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="795"/>
         <source>Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Error:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="830"/>
         <source>H.264</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="831"/>
         <source>H.264 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264 (alta calidad)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="832"/>
         <source>MPEG-4</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="833"/>
         <source>MPEG-4 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4 (alta calidad)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="834"/>
         <source>Animated GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF animado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="835"/>
         <source>Animated GIF (grayscale)</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF animado (escala de grises)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1065"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1100"/>
         <source>Capture image from view failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de imagen de vista fallida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1129"/>
         <source>Invalid vector volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de volumen vectorial no válido.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1143"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1152"/>
         <source>Unsupported image format based on file name {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de imagen no compatible basado en el nombre de archivo {filename}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1201"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1226"/>
         <source>Invalid view node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de vista no válido.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1213"/>
@@ -10778,12 +10843,12 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="237"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="238"/>
         <source>(Create new Labelmap Volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Crear nuevo volumen Labelmap)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="305"/>
         <source>Failed to apply mask to volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al aplicar la máscara al volumen.</translation>
     </message>
 </context>
 <context>
@@ -10791,7 +10856,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="20"/>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="47"/>
@@ -10805,112 +10870,121 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
 &lt;li&gt;&lt;b&gt;Joint smoothing:&lt;/b&gt; smoothes multiple segments at once, preserving watertight interface between them. Masking settings are bypassed.
 If segments overlap, segment higher in the segments table will have priority. &lt;b&gt;Applied to all visible segments.&lt;/b&gt;
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga que los límites de los segmentos sean más suaves&lt;br&gt; eliminando extrusiones y rellenando pequeños huecos. El efecto puede aplicarse localmente
+(pintando en los visores) o a todo el segmento (pulsando el botón Aplicar). Métodos disponibles:&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Mediana:&lt;/b&gt; elimina pequeños detalles mientras mantiene los contornos suaves casi sin cambios. Se aplica sólo al segmento seleccionado.
+&lt;li&gt;&lt;b&gt;Apertura:&lt;/b&gt; elimina las extrusiones más pequeñas que el tamaño del núcleo especificado. Sólo se aplica al segmento seleccionado.
+&lt;li&gt;&lt;b&gt;Cerrar:&lt;/b&gt; rellena esquinas afiladas y agujeros más pequeños que el tamaño del núcleo especificado. Se aplica sólo al segmento seleccionado.
+&lt;li&gt;&lt;b&gt;Gaussiano:&lt;/b&gt; suaviza todos los contornos, tiende a encoger el segmento. Se aplica sólo al segmento seleccionado.
+&lt;li&gt;&lt;b&gt;Suavizado conjunto:&lt;/b&gt; suaviza varios segmentos a la vez, preservando la interfaz estanca entre ellos. Se omiten los ajustes de máscara.
+Si los segmentos se solapan, tendrá prioridad el segmento más alto en la tabla de segmentos. &lt;b&gt;Se aplica a todos los segmentos visibles.&lt;/b&gt;
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="49"/>
         <source>Median</source>
-        <translation type="unfinished"></translation>
+        <translation>Median</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="50"/>
         <source>Opening (remove extrusions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Apertura (quitar extrusiones)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="51"/>
         <source>Closing (fill holes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cierre (rellenar agujeros)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="52"/>
         <source>Gaussian</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="53"/>
         <source>Joint smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisado conjunto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="54"/>
         <source>Smoothing method:</source>
-        <translation type="unfinished"></translation>
+        <translation>Método de suavizado:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="59"/>
         <source>Diameter of the neighborhood that will be considered around each voxel. Higher value makes smoothing stronger (more details are suppressed).</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro del vecindario que se considerará alrededor de cada vóxel. Un valor más alto intensifica el suavizado (se suprimen más detalles).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="66"/>
         <source>Diameter of the neighborhood in pixel. Computed from the segment&apos;s spacing and the specified kernel size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro de la vecindad en píxeles. Calculado a partir del espaciado del segmento y el tamaño del núcleo especificado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="71"/>
         <source>Kernel size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño del núcleo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="76"/>
         <source>Standard deviation of the Gaussian smoothing filter coefficients. Higher value makes smoothing stronger (more details are suppressed).</source>
-        <translation type="unfinished"></translation>
+        <translation>Desviación estándar de los coeficientes del filtro de suavizado gaussiano. Un valor más alto intensifica el suavizado (se suprimen más detalles).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="80"/>
         <source>Standard deviation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desviación estándar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="83"/>
         <source>Higher value means stronger smoothing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un valor más alto significa un suavizado más fuerte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="89"/>
         <source>Smoothing factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Factor de alisamiento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="93"/>
         <source>Apply smoothing effect to all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplica el efecto de suavizado a todos los segmentos visibles en este nodo de segmentación. Esta operación puede tardar un poco.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="95"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar a segmentos visibles:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="98"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="100"/>
         <source>Apply smoothing to selected segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar suavizado al segmento seleccionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="113"/>
         <source>Smoothing brush options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de cepillo alisador</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="230"/>
         <source>Smoothing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Suavizado {segmentName}...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="372"/>
         <source>Joint smoothing ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Alisado conjunto ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="478"/>
         <source>Smoothing brush is not available for &apos;joint smoothing&apos; method.</source>
-        <translation type="unfinished"></translation>
+        <translation>El cepillo de alisado no está disponible para el método de &quot;alisado conjunto&quot;.</translation>
     </message>
 </context>
 <context>
@@ -10918,7 +10992,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="28"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="90"/>
@@ -10927,153 +11001,157 @@ If segments overlap, segment higher in the segments table will have priority. &l
 &lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; set the selected intensity range as &lt;dfn&gt;Editable intensity range&lt;/dfn&gt; and switch to Paint effect.
 &lt;li&gt;&lt;b&gt;Apply:&lt;/b&gt; set the previewed segmentation in the selected segment. Previous contents of the segment is overwritten.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellenar segmento en función del rango de intensidad del volumen de la fuente&lt;br&gt;. Opciones:&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Utilizar para enmascarar:&lt;/b&gt; establezca el rango de intensidad seleccionado como &lt;dfn&gt;Rango de intensidad editable&lt;/dfn&gt; y cambie al efecto Pintar.
+&lt;li&gt;&lt;b&gt;Aplicar:&lt;/b&gt; establezca la segmentación previsualizada en el segmento seleccionado. Se sobrescribe el contenido anterior del segmento.
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="106"/>
         <source>Threshold Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rango de umbral:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="107"/>
         <source>Set the range of the background values that should be labeled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Establezca el intervalo de los valores de fondo que deben etiquetarse.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="116"/>
         <source>threshold above</source>
-        <translation type="unfinished"></translation>
+        <translation>umbral por encima de</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="117"/>
         <source>threshold below</source>
-        <translation type="unfinished"></translation>
+        <translation>umbral por debajo de</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="118"/>
         <source>set as lower value</source>
-        <translation type="unfinished"></translation>
+        <translation>fijar como valor inferior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="119"/>
         <source>set as upper value</source>
-        <translation type="unfinished"></translation>
+        <translation>fijar como valor superior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="122"/>
         <source>How to set lower and upper values of the threshold range. Threshold above/below: sets the range from the computed value to maximum/minimum. Set as lower/upper value: only modifies one side of the threshold range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cómo establecer los valores inferior y superior del rango del umbral. Umbral superior/inferior: establece el rango desde el valor calculado hasta el máximo/mínimo. Establecer como valor inferior/superior: sólo modifica un lado del rango del umbral.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="125"/>
         <source>Otsu</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="126"/>
         <source>Huang</source>
-        <translation type="unfinished"></translation>
+        <translation>Huang</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="127"/>
         <source>IsoData</source>
-        <translation type="unfinished"></translation>
+        <translation>IsoData</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="130"/>
         <source>Kittler-Illingworth</source>
-        <translation type="unfinished"></translation>
+        <translation>Kittler-Illingworth</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="135"/>
         <source>Maximum entropy</source>
-        <translation type="unfinished"></translation>
+        <translation>Entropía máxima</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="136"/>
         <source>Moments</source>
-        <translation type="unfinished"></translation>
+        <translation>Momentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="137"/>
         <source>Renyi entropy</source>
-        <translation type="unfinished"></translation>
+        <translation>Entropía de Renyi</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="138"/>
         <source>Shanbhag</source>
-        <translation type="unfinished"></translation>
+        <translation>Shanbhag</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="139"/>
         <source>Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Triángulo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="140"/>
         <source>Yen</source>
-        <translation type="unfinished"></translation>
+        <translation>Yen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="141"/>
         <source>Select method to compute threshold value automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el método para calcular automáticamente el valor umbral.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="146"/>
         <source>Select previous thresholding method and set thresholds. Useful for iterating through all available methods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona el método de umbralización anterior y establece los umbrales. Útil para iterar a través de todos los métodos disponibles.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="151"/>
         <source>Select next thresholding method and set thresholds. Useful for iterating through all available methods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona el siguiente método de umbralización y establece los umbrales. Útil para iterar a través de todos los métodos disponibles.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="153"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="154"/>
         <source>Set threshold using selected method.</source>
-        <translation type="unfinished"></translation>
+        <translation>Establezca el umbral utilizando el método seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="169"/>
         <source>Automatic threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral automático</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="179"/>
         <source>Region shape:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma de la región:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="186"/>
         <source>Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Caja</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="193"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Círculo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="200"/>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Dibujar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="207"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="268"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="285"/>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation>Baja</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="277"/>
@@ -11089,13 +11167,13 @@ If segments overlap, segment higher in the segments table will have priority. &l
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="292"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="310"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Media</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="301"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="317"/>
         <source>Upper</source>
-        <translation type="unfinished"></translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="324"/>
@@ -11110,27 +11188,27 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="332"/>
         <source>Local histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Histograma local</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="337"/>
         <source>Use for masking</source>
-        <translation type="unfinished"></translation>
+        <translation>Uso para enmascarar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="338"/>
         <source>Use specified intensity range for masking and switch to Paint effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilice el rango de intensidad especificado para el enmascaramiento y cambie al efecto Pintura.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="341"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="343"/>
         <source>Fill selected segment in regions that are in the specified intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellena el segmento seleccionado en las regiones que se encuentran en el rango de intensidad especificado.</translation>
     </message>
 </context>
 <context>
@@ -11138,7 +11216,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="23"/>
         <source>Segment Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Estadísticas de los segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="37"/>
@@ -11153,29 +11231,41 @@ Requires segment labelmap representation and selection of a scalar volume
 Closed surface statistics (CS): surface mm2, volume mm3, volume cm3 (computed from closed surface).
 Requires segment closed surface representation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Utilice este módulo para calcular recuentos y volúmenes de segmentos, además de estadísticas sobre el volumen de fondo en escala de grises.
+Campos calculados:
+Estadísticas del mapa de etiquetas del segmento (LM): recuento de vóxeles, volumen mm3, volumen cm3.
+Requiere la representación del mapa de etiquetas del segmento.
+Estadísticas del volumen escalar (SV): recuento de vóxeles, volumen mm3, volumen cm3 (cuando los segmentos se solapan con el volumen escalar),
+min, max, mean, stdev (estadísticas de intensidad).
+Requiere la representación de mapas de etiquetas de segmentos y la selección de un volumen escalar.
+Estadísticas de superficie cerrada (CS): superficie mm2, volumen mm3, volumen cm3 (calculados a partir de la superficie cerrada).
+Requiere la representación de la superficie cerrada del segmento.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="42"/>
         <source>
 Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www.slicer.org for details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https://www.slicer.org para más detalles.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="80"/>
         <source>Pick parameter set</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de parámetros de selección</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="86"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="96"/>
         <source>Pick the segmentation to compute statistics for</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija la segmentación para la que desea calcular las estadísticas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="97"/>
@@ -11185,68 +11275,68 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="108"/>
         <source>Select the scalar volume for intensity statistics calculations</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el volumen escalar para los cálculos estadísticos de intensidad</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="109"/>
         <source>Scalar volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Scalar volume:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="114"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="119"/>
         <source>Create new table</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear nueva tabla</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="126"/>
         <source>Select the table where statistics will be saved into</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione la tabla en la que se guardarán las estadísticas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="129"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="134"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="148"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="215"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="150"/>
         <source>Calculate Statistics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcular estadísticas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="191"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se han podido calcular los resultados.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="197"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>Trabajando...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="222"/>
         <source>Enabled segment statistics plugins:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins de estadísticas de segmentos activados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="224"/>
         <source>{pluginName} Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>{pluginName} Estadísticas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="227"/>
@@ -11256,38 +11346,38 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="298"/>
         <source>Edit Segment Statistics Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar parámetros de estadísticas de segmento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="314"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="339"/>
         <source>Edit segment statistics plugin parameters:</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar los parámetros del plugin de estadísticas de segmentos:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="316"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Hecho</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="318"/>
         <source>Finish editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Termina de editar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="340"/>
         <source>Edit {pluginName} plugin parameters:</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar los parámetros del plugin {pluginName}:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="370"/>
         <source>Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="1013"/>
         <source>Add Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir datos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="1016"/>
@@ -11300,17 +11390,17 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="14"/>
         <source>Closed Surface</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie cerrada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="60"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="61"/>
         <source>Surface area computed from closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie calculada a partir de una representación de superficie cerrada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="62"/>
@@ -11321,7 +11411,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="68"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="75"/>
         <source>Volume computed from closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen calculado a partir de una representación de superficie cerrada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="69"/>
@@ -11367,7 +11457,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="413"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="421"/>
         <source>Volume of the segment computed from binary labelmap representation.</source>
-        <translation>Volumen del segmento computarizado de la representación del mapa de etiquetas binario.</translation>
+        <translation>Volumen del segmento calculado a partir de la representación binaria del mapa de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="414"/>
@@ -11387,168 +11477,168 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="430"/>
         <source>Location of the centroid in RAS. Computed from binary labelmap representation.</source>
-        <translation>Localización del centroide en RAS. Computado desde la representación del mapa de etiquetas binario.</translation>
+        <translation>Ubicación del centroide en RAS. Calculado a partir de la representación binaria del mapa de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="435"/>
         <source>Feret diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro del chaflán</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="436"/>
         <source>Feret diameter of the segment computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro de Feret del segmento calculado a partir de la representación binaria del mapa de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="436"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="486"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="441"/>
         <source>Surface area of the segment computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie del segmento calculada a partir de la representación binaria del mapa de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="441"/>
         <source>mm2</source>
-        <translation type="unfinished">mm2</translation>
+        <translation>mm2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="447"/>
         <source>Roundness</source>
-        <translation type="unfinished"></translation>
+        <translation>Redondez</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="449"/>
         <source>Segment roundness. Calculated from ratio of the area of the hypersphere by the actual area. Value of 1 represents a spherical structure. Computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redondez del segmento. Se calcula a partir de la relación entre el área de la hiperesfera y el área real. El valor 1 representa una estructura esférica. Calculado a partir de la representación binaria del mapa de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="454"/>
         <source>Flatness</source>
-        <translation type="unfinished"></translation>
+        <translation>Planitud</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="457"/>
         <source>Segment flatness. Calculated from square root of the ratio of the second smallest principal moment by the smallest. Value of 0 represents a flat structure. Computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Planitud del segmento. Calculada a partir de la raíz cuadrada de la relación del segundo momento principal más pequeño por el más pequeño. El valor 0 representa una estructura plana. Calculado a partir de la representación binaria del mapa de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="462"/>
         <source>Elongation</source>
-        <translation type="unfinished"></translation>
+        <translation>Alargamiento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="465"/>
         <source>Segment elongation. Calculated from square root of the ratio of the second largest principal moment by the second smallest. Computed from binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alargamiento del segmento. Calculado a partir de la raíz cuadrada de la relación entre el segundo momento principal más grande y el segundo más pequeño. Calculado a partir de la representación binaria del mapa de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="471"/>
         <source>Oriented bounding box. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caja delimitadora orientada. Calculado a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="476"/>
         <source>OBB origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Origen OBB</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="478"/>
         <source>Oriented bounding box origin in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Origen del cuadro delimitador orientado en coordenadas RAS. Calculado a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="484"/>
         <source>OBB diameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro OBB</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="485"/>
         <source>Oriented bounding box diameter. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diámetro del cuadro delimitador orientado. Calculado a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="491"/>
         <source>OBB X direction</source>
-        <translation type="unfinished"></translation>
+        <translation>OBB Dirección X</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="492"/>
         <source>Oriented bounding box X direction in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección X del cuadro delimitador orientado en coordenadas RAS. Calculada a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="497"/>
         <source>OBB Y direction</source>
-        <translation type="unfinished"></translation>
+        <translation>OBB Dirección Y</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="499"/>
         <source>Oriented bounding box Y direction in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección Y de la caja delimitadora orientada en coordenadas RAS. Calculada a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="505"/>
         <source>OBB Z direction</source>
-        <translation type="unfinished"></translation>
+        <translation>OBB Dirección Z</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="507"/>
         <source>Oriented bounding box Z direction in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección Z de la caja delimitadora orientada en coordenadas RAS. Calculada a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="513"/>
         <source>Principal moments</source>
-        <translation type="unfinished"></translation>
+        <translation>Principal moments</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="515"/>
         <source>Principal moments of inertia for x, y and z axes. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Momentos principales de inercia para los ejes x, y y z. Calculados a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="520"/>
         <source>Principal X axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Eje X principal</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="522"/>
         <source>Principal X axis of rotation in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eje X principal de rotación en coordenadas RAS. Calculado a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="527"/>
         <source>Principal Y axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Principal Y axis</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="529"/>
         <source>Principal Y axis of rotation in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eje principal Y de rotación en coordenadas RAS. Calculado a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="534"/>
         <source>Principal Z axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Principal Z axis</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="536"/>
         <source>Principal Z axis of rotation in RAS coordinates. Computed from binary labelmap representation of the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eje Z principal de rotación en coordenadas RAS. Calculado a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="440"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="470"/>
         <source>Oriented bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro delimitador orientado</translation>
     </message>
 </context>
 <context>
@@ -11556,130 +11646,130 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="14"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen escalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="169"/>
         <source>Voxel count</source>
         <oldsource>voxels</oldsource>
-        <translation type="unfinished">Cuenta de Voxel</translation>
+        <translation>Recuento de vóxeles</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="171"/>
         <source>Number of voxels. Computed from region of the binary labelmap representation of the segment that overlaps with the input scalar volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de vóxeles. Calculado a partir de la región de la representación binaria del mapa de etiquetas del segmento que se solapa con el volumen escalar de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="179"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="187"/>
         <source>Volume of the region of the binary labelmap representation that overlaps with the input scalar volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de la región de la representación binaria del mapa de etiquetas que se solapa con el volumen escalar de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="180"/>
         <source>mm3</source>
-        <translation type="unfinished">mm3</translation>
+        <translation>mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="188"/>
         <source>cm3</source>
-        <translation type="unfinished">cm3</translation>
+        <translation>cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="194"/>
         <source>Minimum input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor mínimo de voxel de volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="201"/>
         <source>Maximum input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor máximo de voxel de volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="208"/>
         <source>Mean input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor medio del voxel de volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="225"/>
         <source>Percentile 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil 5</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="226"/>
         <source>5th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>5º percentil de los valores de voxel del volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="233"/>
         <source>Percentile 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil 10</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="234"/>
         <source>10th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil 10 de los valores de voxel del volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="241"/>
         <source>Percentile 90</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil 90</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="242"/>
         <source>90th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil 90 de los valores de voxel del volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="249"/>
         <source>Percentile 95</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil 95</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="250"/>
         <source>95th percentile of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil 95 de los valores de voxel del volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="259"/>
         <source>Median input scalar volume voxel value within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de voxel de volumen escalar de entrada mediano dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="217"/>
         <source>Standard deviation of input scalar volume voxel values within the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desviación estándar de los valores de voxel del volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="178"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="186"/>
         <source>Volume</source>
-        <translation type="unfinished">Volumen</translation>
+        <translation>Volumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="194"/>
         <source>Minimum</source>
-        <translation type="unfinished">Minimum</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="201"/>
         <source>Maximum</source>
-        <translation type="unfinished">Maximum</translation>
+        <translation>Máximo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="208"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Media</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="258"/>
         <source>Median</source>
-        <translation type="unfinished"></translation>
+        <translation>Median</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="216"/>
         <source>Standard Deviation</source>
-        <translation type="unfinished"></translation>
+        <translation>Desviación típica</translation>
     </message>
 </context>
 <context>
@@ -11688,27 +11778,27 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="136"/>
         <source>{pluginName} plugin enabled</source>
         <extracomment>measurements that will be calculated by default</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>{pluginName} plugin activado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="146"/>
         <source>Select measurements: </source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona las medidas: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="147"/>
         <source>all</source>
-        <translation type="unfinished"></translation>
+        <translation>todos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="150"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="153"/>
         <source>default</source>
-        <translation type="unfinished"></translation>
+        <translation>por defecto</translation>
     </message>
 </context>
 <context>
@@ -11716,7 +11806,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="31"/>
         <source>SelfTests</source>
-        <translation type="unfinished"></translation>
+        <translation>Autocomprobación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="37"/>
@@ -11724,7 +11814,10 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
 The SelfTests module allows developers to provide built-in self-tests (BIST) for slicer so that users can tell
 if their installed version of slicer are running as designed.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+El módulo SelfTests permite a los desarrolladores proporcionar autocomprobaciones integradas (BIST) para slicer de modo que los usuarios puedan saber
+si su versión instalada de slicer está funcionando según lo diseñado.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="52"/>
@@ -11732,7 +11825,10 @@ if their installed version of slicer are running as designed.
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este trabajo forma parte del proyecto SparKit, financiado por el programa ACRU de Cancer Care Ontario (CCO)
+y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+</translation>
     </message>
 </context>
 <context>
@@ -11740,17 +11836,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="20"/>
         <source>Slice View Annotations Settings</source>
-        <translation>Ajustes de anotaciones de la vista de cortes</translation>
+        <translation>Ajustes de las anotaciones de la vista en corte</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="37"/>
         <source>Enable Slice View Annotations</source>
-        <translation>Habilitar anotaciones de la vista de cortes</translation>
+        <translation>Activar las anotaciones de la vista Slice</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="44"/>
         <source>Corner Text Annotation</source>
-        <translation>Anotación de texto en la esquina</translation>
+        <translation>Anotación de texto en esquina</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="52"/>
@@ -11760,47 +11856,47 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="58"/>
         <source>Top Left</source>
-        <translation>Arriba izquierda</translation>
+        <translation>Arriba a la izquierda</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="68"/>
         <source>Top Right</source>
-        <translation>Arriba derecha</translation>
+        <translation>Arriba a la derecha</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="78"/>
         <source>Bottom Left</source>
-        <translation>Abajo izquierda</translation>
+        <translation>Abajo a la izquierda</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="104"/>
         <source>Amount</source>
-        <translation>Cantidad</translation>
+        <translation>Importe</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="110"/>
         <source>Annotation Display Level:</source>
-        <translation>Nivel de visualización de las anotaciones:</translation>
+        <translation>Nivel de visualización de anotaciones:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="117"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="127"/>
         <source>2</source>
-        <translation type="unfinished">2</translation>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="134"/>
         <source>3</source>
-        <translation type="unfinished">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="157"/>
         <source>Font Properties</source>
-        <translation>Propiedades de la fuente</translation>
+        <translation>Propiedades de las fuentes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="163"/>
@@ -11810,7 +11906,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
         <source>Times</source>
-        <translation>Tiempos</translation>
+        <translation>Times</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
@@ -11820,7 +11916,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="203"/>
         <source>Font Size: </source>
-        <translation>Tamaño de la fuente: </translation>
+        <translation>Tamaño de letra: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="236"/>
@@ -11830,17 +11926,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
         <source>Show background volume DICOM annotations if foreground volume is non-DICOM.</source>
-        <translation>Mostrar las anotaciones DICOM de la imagen de fondo si la imagen de primer plano no es DICOM.</translation>
+        <translation>Mostrar anotaciones DICOM del volumen de fondo si el volumen de primer plano no es DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="245"/>
         <source>Background DICOM annotations persistence</source>
-        <translation>Persistencia de las anotaciones DICOM</translation>
+        <translation>Antecedentes Persistencia de anotaciones DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="262"/>
         <source>Restore Defaults</source>
-        <translation>Restablecer valores predeterminados</translation>
+        <translation>Restaurar valores predeterminados</translation>
     </message>
 </context>
 <context>
@@ -11848,7 +11944,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Libs/MRML/Core/Testing/vtkMRMLI18NTest1.cxx" line="59"/>
         <source>SomeMessage</source>
-        <translation type="unfinished"></translation>
+        <translation>AlgúnMensaje</translation>
     </message>
 </context>
 <context>
@@ -11856,12 +11952,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="28"/>
         <source>Segment this...</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmenta esto...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="106"/>
         <source>_Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación</translation>
     </message>
 </context>
 <context>
@@ -11869,7 +11965,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SubjectHierarchyPlugins/SegmentStatisticsSubjectHierarchyPlugin.py" line="27"/>
         <source>Calculate statistics...</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcular estadísticas...</translation>
     </message>
 </context>
 <context>
@@ -11882,7 +11978,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="23"/>
         <source>Input volume:</source>
-        <translation>Imagen de entrada:</translation>
+        <translation>Volumen de entrada:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="30"/>
@@ -11892,7 +11988,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="47"/>
         <source>inputVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>inputVolume</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="54"/>
@@ -11902,12 +11998,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="61"/>
         <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
-        <translation>Establece el valor del umbral para calcular la imagen de salida. Los vóxeles que tengan intensidades inferiores a este valor se pondrán a cero.</translation>
+        <translation>Establece el valor umbral para calcular la imagen de salida. Los vóxeles que tengan intensidades inferiores a este valor se pondrán a cero.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="76"/>
         <source>imageThreshold</source>
-        <translation type="unfinished"></translation>
+        <translation>imageThreshold</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
@@ -11917,7 +12013,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="92"/>
         <source>Thresholded volume:</source>
-        <translation>Imágenes umbralizadas:</translation>
+        <translation>Volumen umbral:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="99"/>
@@ -11927,22 +12023,22 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="119"/>
         <source>thresholdedVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>thresholdedVolume</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="126"/>
         <source>Inverted volume:</source>
-        <translation>Imagen invertida:</translation>
+        <translation>Volumen invertido:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="133"/>
         <source>Result with inverted threshold will be written into this volume</source>
-        <translation>El resultado con el umbral invertido se escribirá en esta imagen</translation>
+        <translation>El resultado con el umbral invertido se escribirá en este volumen</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="153"/>
         <source>invertedVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>volumeninvertido</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="163"/>
@@ -11952,22 +12048,22 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="172"/>
         <source>Invert threshold: </source>
-        <translation>Invertir el umbral: </translation>
+        <translation>Invertir umbral: </translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="179"/>
         <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
-        <translation>Si se marca, los valores por encima del umbral se ponen a 0. Si no se marca, los valores por debajo se ponen a 0.</translation>
+        <translation>Si está marcada, los valores por encima del umbral se fijan en 0. Si no está marcada, los valores por debajo se fijan en 0.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="198"/>
         <source>Run the algorithm.</source>
-        <translation>Ejecutar el algoritmo.</translation>
+        <translation>Ejecuta el algoritmo.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="201"/>
         <source>Apply</source>
-        <translation>Aplicar</translation>
+        <translation>Solicitar</translation>
     </message>
 </context>
 <context>
@@ -11975,13 +12071,13 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/UtilTest.ui" line="17"/>
         <source>My custom UI</source>
-        <translation>Mi interfaz personalizada</translation>
+        <translation>Mi interfaz de usuario personalizada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
         <source>Import files into DICOM database</source>
-        <translation>Importar archivos a la base de datos DICOM</translation>
+        <translation>Importación de archivos a la base de datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="34"/>
@@ -11991,7 +12087,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
-        <translation>    Mostrar la base de datos DICOM</translation>
+        <translation>    Mostrar base de datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="99"/>
@@ -12001,12 +12097,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="113"/>
         <source>DICOM networking</source>
-        <translation>Red DICOM</translation>
+        <translation>Redes DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="119"/>
         <source>Pull data from remote server:</source>
-        <translation>Extraer datos del servidor remoto:</translation>
+        <translation>Extraer datos de un servidor remoto:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
@@ -12016,12 +12112,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
         <source>Query and retrieve</source>
-        <translation>Consulta y recuperación</translation>
+        <translation>Consultar y recuperar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
         <source>Storage listener:</source>
-        <translation>Listado de almacenamiento:</translation>
+        <translation>Escuchador de almacenamiento:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
@@ -12031,12 +12127,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
         <source>Start storage listener on startup:</source>
-        <translation>Inicie el receptor de almacenamiento al arrancar:</translation>
+        <translation>Iniciar el receptor de almacenamiento al arrancar:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
         <source>Automatically start listener on application startup</source>
-        <translation>Iniciar automáticamente la escucha al iniciar la aplicación</translation>
+        <translation>Iniciar automáticamente la escucha al iniciarse la aplicación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
@@ -12066,7 +12162,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
         <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-        <translation>Eliminar todos los elementos de la base de datos DICOM si el archivo DICOM de referencia no se encuentra en el disco.</translation>
+        <translation>Elimina todos los elementos de la base de datos DICOM si el archivo DICOM de referencia no se encuentra en el disco.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
@@ -12086,7 +12182,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
         <source>DICOM plugins</source>
-        <translation>Plugins de DICOM</translation>
+        <translation>DICOM plugins</translation>
     </message>
 </context>
 <context>
@@ -12099,12 +12195,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="23"/>
         <source>Input vector volume:</source>
-        <translation>Volumen vectorial de entrada:</translation>
+        <translation>Volumen del vector de entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished">Elige la entrada del algoritmo.</translation>
+        <translation>Elige la entrada del algoritmo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="51"/>
@@ -12114,22 +12210,22 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="58"/>
         <source>Output scalar Volume:</source>
-        <translation>Volumen de salida escalar:</translation>
+        <translation>Salida escalar Volumen:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="65"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished">Elige la salida del algoritmo.</translation>
+        <translation>Elige la salida del algoritmo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="116"/>
         <source>Apply</source>
-        <translation>Aplicar</translation>
+        <translation>Solicitar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="59"/>
         <source>Vector to Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen vectorial a escalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="75"/>
@@ -12144,7 +12240,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     &lt;li&gt;computes the mean of all the components.&lt;/li&gt;
     &lt;/ul&gt;
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    &lt;p&gt;Haga un volumen escalar (1 componente) a partir de un volumen vectorial.&lt;/p&gt;
+
+    &lt;p&gt;Proporciona múltiples modos de conversión:&lt;/p&gt;
+
+    &lt;ul&gt;
+    &lt;li&gt;extraer componentes individuales de cualquier imagen vectorial.&lt;/li&gt; &lt;li&gt;convertir imágenes RGB a escalar utilizando el método de conversión escalar.
+    &lt;li&gt;convierte imágenes RGB a escalares utilizando luminancia como se implementa en vtkImageLuminance (escalar = 0,30*R + 0,59*G + 0,11*B).&lt;/li&gt; &lt;li&gt;calcula la media de todos los componentes.
+    &lt;li&gt;calcula la media de todos los componentes.&lt;/li&gt;.
+    &lt;/ul&gt;
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
@@ -12153,82 +12259,86 @@ Developed by Steve Pieper, Isomics, Inc.,
 partially funded by NIH grant 3P41RR013218-12S1 (NAC) and is part of the National Alliance
 for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the
 NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Desarrollado por Steve Pieper, Isomics, Inc,
+financiado parcialmente por la subvención 3P41RR013218-12S1 (NAC) de los NIH y forma parte de la National Alliance
+National Alliance for Medical Image Computing (NA-MIC), financiada por los Institutos Nacionales de Salud a través de la
+NIH Roadmap for Medical Research, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="89"/>
         <source>Luminance</source>
-        <translation type="unfinished"></translation>
+        <translation>Luminancia</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="90"/>
         <source>(RGB,RGBA) Luminance from first three components: 0.30*R + 0.59*G + 0.11*B + 0.0*A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(RGB,RGBA) Luminancia de los tres primeros componentes: 0,30*R + 0,59*G + 0,11*B + 0,0*A)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="93"/>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Media</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="94"/>
         <source>Average all the components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haz la media de todos los componentes.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="97"/>
         <source>Single Component Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Extracción de un solo componente</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="98"/>
         <source>Extract single component</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraer un solo componente</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="257"/>
         <source>Please select Input Vector Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el volumen del vector de entrada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="259"/>
         <source>Please select Output Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione Volumen escalar de salida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="261"/>
         <source>Please select a component to extract</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione un componente para extraer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="285"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se han podido calcular los resultados.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="321"/>
         <source>no input volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation>no se ha definido ningún nodo de volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="325"/>
         <source>no output volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation>no se ha definido ningún nodo de volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="330"/>
         <source>input and output volume is the same. Create a new volume for output to avoid this error.</source>
-        <translation type="unfinished"></translation>
+        <translation>El volumen de entrada y salida es el mismo. Crea un nuevo volumen de salida para evitar este error.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="348"/>
         <source>component to extract ({componentSelected}) is invalid. Image has only {componentsTotal} components.</source>
-        <translation type="unfinished"></translation>
+        <translation>componente a extraer ({componenteSeleccionado}) no es válido. La imagen sólo tiene {componentsTotal} componentes.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="357"/>
         <source>input has only {componentsTotal} components but requires at least 3 components for luminance conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>tiene sólo {componentesTotal} componentes pero requiere al menos 3 componentes para la conversión de luminancia.</translation>
     </message>
 </context>
 <context>
@@ -12236,72 +12346,72 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="3"/>
         <source>CT-Bone</source>
-        <translation type="unfinished"></translation>
+        <translation>CT-Bone</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="4"/>
         <source>Emphasize bone in a CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Destacar el hueso en un volumen de TC.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="5"/>
         <source>CT-Air</source>
-        <translation type="unfinished"></translation>
+        <translation>CT-Air</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="6"/>
         <source>Emphasize air in a CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Destaca el aire en un volumen de TC.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="7"/>
         <source>CT-Brain</source>
-        <translation type="unfinished"></translation>
+        <translation>CT-Brain</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="8"/>
         <source>View brain CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver volumen de TC cerebral.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="9"/>
         <source>CT-Abdomen</source>
-        <translation type="unfinished"></translation>
+        <translation>TC-Abdomen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="10"/>
         <source>View abdominal CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver volumen de TC abdominal.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="11"/>
         <source>CT-Lung</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulmón CT</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="12"/>
         <source>View lung CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver volumen de TAC pulmonar.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="13"/>
         <source>PET</source>
-        <translation type="unfinished"></translation>
+        <translation>PET</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="14"/>
         <source>Preset for PET volume (uses rainbow color table).</source>
-        <translation type="unfinished"></translation>
+        <translation>Preajuste para el volumen PET (utiliza la tabla de colores del arco iris).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="15"/>
         <source>DTI</source>
-        <translation type="unfinished"></translation>
+        <translation>DTI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="16"/>
         <source>Preset for DTI scalar volumes like FA (uses rainbow color table).</source>
-        <translation type="unfinished"></translation>
+        <translation>Preajuste para volúmenes escalares DTI como FA (utiliza la tabla de colores del arco iris).</translation>
     </message>
 </context>
 <context>
@@ -12309,142 +12419,142 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="31"/>
         <source>Web Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor web</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="35"/>
         <source>Provides an embedded web server in Slicer that allows control of the application via web services API (HTTP requests).</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporciona un servidor web integrado en Slicer que permite controlar la aplicación a través de la API de servicios web (peticiones HTTP).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="44"/>
         <source>This work was partially funded by NIH grant 3P41RR013218.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo fue parcialmente financiado por la beca 3P41RR013218 de los NIH.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="65"/>
         <source>Start server</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar servidor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="68"/>
         <source>Start web server with the selected options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicie el servidor web con las opciones seleccionadas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="71"/>
         <source>Stop server</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener servidor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="74"/>
         <source>Stop the web server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener el servidor web.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="77"/>
         <source>Open static pages in external browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir páginas estáticas en un navegador externo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="79"/>
         <source>Open a connection to the server on the local machine with your system browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra una conexión con el servidor en la máquina local con el navegador de su sistema.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="82"/>
         <source>Open static pages in internal browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir páginas estáticas en el navegador interno</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="84"/>
         <source>Open a connection with Qt to the server on the local machine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra una conexión con Qt al servidor en la máquina local.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="94"/>
         <source>Clear Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar registro</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="96"/>
         <source>Clear the log window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Borra la ventana de registro.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="104"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="113"/>
         <source>Enable Cross Origin Resource Sharing (stop server to change option). Warning: this option allows any web page to access the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar el uso compartido de recursos entre orígenes (detenga el servidor para cambiar la opción). Atención: esta opción permite que cualquier página web acceda al servidor.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="113"/>
         <source>Enable CORS: </source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar CORS: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
         <source>Enable remote control of Slicer application (stop server to change option)</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar el control remoto de la aplicación Slicer (detener el servidor para cambiar la opción)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
         <source>Slicer API: </source>
-        <translation type="unfinished"></translation>
+        <translation>API de la cortadora: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
         <source>Enable execution of arbitrary Python command using Slicer API. It only has effect if Slicer API is enabled, too (stop server to change option).</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar la ejecución de un comando Python arbitrario utilizando la API de Slicer. Sólo tiene efecto si Slicer API está habilitado, también (detener el servidor para cambiar la opción).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
         <source>Slicer API exec: </source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer API exec: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="126"/>
         <source>Enable serving Slicer DICOM database content via DICOMweb (stop server to change option)</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir servir el contenido de la base de datos DICOM de Slicer a través de DICOMweb (detener el servidor para cambiar la opción)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
         <source>DICOMweb API: </source>
-        <translation type="unfinished"></translation>
+        <translation>API de DICOMweb: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
         <source>Enable serving static pages (stop server to change option)</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar el servicio de páginas estáticas (detener el servidor para cambiar la opción)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
         <source>Static pages: </source>
-        <translation type="unfinished"></translation>
+        <translation>Páginas estáticas: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="136"/>
         <source>Copy log messages to the python console and parent terminal (disable to improve performance)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar los mensajes de registro en la consola de python y en el terminal principal (desactivar para mejorar el rendimiento)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="136"/>
         <source>Log to Console: </source>
-        <translation type="unfinished"></translation>
+        <translation>Accede a la consola: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="141"/>
         <source>Copy log messages to the log widget (disable to improve performance)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar mensajes de registro en el widget de registro (desactivar para mejorar el rendimiento)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="141"/>
         <source>Log to GUI: </source>
-        <translation type="unfinished"></translation>
+        <translation>Registro en GUI: </translation>
     </message>
 </context>
 <context>
@@ -12452,23 +12562,23 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="102"/>
         <source>Screenshot</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Captura de pantalla</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image.</source>
         <oldsource>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</oldsource>
-        <translation type="unfinished">Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</translation>
+        <translation>Capture una imagen del diseño completo, de la vista 3D o de las vistas en corte. Utilice Archivo, Guardar para guardar la imagen.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
         <source>Scene view</source>
-        <translation>Vista de Escena</translation>
+        <translation>Vista de la escena</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
         <source>Capture and name a scene view.</source>
-        <translation>Captura y nombra una vista de escena.</translation>
+        <translation>Captura y asigna un nombre a una vista de escena.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="120"/>
@@ -12483,12 +12593,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="177"/>
         <source>SceneView Name</source>
-        <translation>Nombre de Vista de Escena</translation>
+        <translation>Nombre de SceneView</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
         <source>SceneView Name:</source>
-        <translation>Nombre de Vista de Escena:</translation>
+        <translation>SceneView Nombre:</translation>
     </message>
 </context>
 <context>
@@ -12496,17 +12606,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="14"/>
         <source>qMRMLClipNodeDisplayWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qMRMLClipNodeDisplayWidget</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="39"/>
         <source>Clipping:</source>
-        <translation type="unfinished">Recortar silueta:</translation>
+        <translation>Recorte:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="46"/>
         <source>Cap visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad de la gorra:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="53"/>
@@ -12516,12 +12626,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="60"/>
         <source>Outline visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad del contorno:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="74"/>
         <source>Keep only whole cells:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conserve sólo las células enteras:</translation>
     </message>
 </context>
 <context>
@@ -12529,27 +12639,27 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="14"/>
         <source>Clip</source>
-        <translation>Recorte</translation>
+        <translation>Clip</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="66"/>
         <source>Clipping Type:</source>
-        <translation>Tipo de Recorte:</translation>
+        <translation>Tipo de recorte:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="63"/>
         <source>When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</source>
-        <translation>Cuando se utiliza más de un plano de corte, esta opción controla si se usa la unión o la intersección de los espacios positivo y/o negativo para recortar el modelo. Se conservan las partes del modelo dentro del espacio seleccionado, mientras que las partes fuera de la selección se eliminan.</translation>
+        <translation>Cuando se utiliza más de un plano de corte, esta opción controla si es la unión o la intersección de los espacios positivo y/o negativo la que se utiliza para recortar el modelo. Las partes del modelo dentro del espacio seleccionado se mantienen, las partes fuera de la selección se recortan.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="49"/>
         <source>Union</source>
-        <translation type="unfinished">Union</translation>
+        <translation>Unión</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="46"/>
         <source>Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation>Usa la unión de los espacios positivos y/o negativos definidos por los planos de corte para recortar el modelo.</translation>
+        <translation>Utilice la unión de los espacios positivos y/o negativos definidos por los planos de corte para recortar el modelo.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="35"/>
@@ -12559,7 +12669,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="32"/>
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation>Usa la intersección de los espacios positivos y/o negativos definidos por los planos de corte para recortar el modelo.</translation>
+        <translation>Utilice la intersección de los espacios positivos y/o negativos definidos por los planos de corte para recortar el modelo.</translation>
     </message>
     <message>
         <source>Red Slice Clipping:</source>
@@ -12627,18 +12737,18 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="14"/>
         <source>Color Legend</source>
-        <translation>Escala de colores</translation>
+        <translation>Leyenda de colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
         <source>Visibility:</source>
         <oldsource>Visible:</oldsource>
-        <translation type="unfinished">Visible:</translation>
+        <translation>Visibilidad:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="58"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Ver:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="68"/>
@@ -12648,12 +12758,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="85"/>
         <source>Label text:</source>
-        <translation type="unfinished">Label text:</translation>
+        <translation>Texto de la etiqueta:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="100"/>
         <source>Show numeric value as label text</source>
-        <translation>Mostrar valor numérico como una etiqueta de texto</translation>
+        <translation>Mostrar valor numérico como texto de etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="103"/>
@@ -12663,22 +12773,22 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="116"/>
         <source>Show color name as label text</source>
-        <translation>Mostar nombre del color como una etiqueta de texto</translation>
+        <translation>Mostrar el nombre del color como texto de la etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="119"/>
         <source>Color name</source>
-        <translation type="unfinished">Color name</translation>
+        <translation>Nombre del color</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="131"/>
         <source>Number of labels:</source>
-        <translation type="unfinished">Number of labels:</translation>
+        <translation>Número de etiquetas:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
         <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-        <translation>Número de etiquetas a mostrar. Solo aplicable si se usan valores como etiqueta de texto (no el nombre del color).</translation>
+        <translation>Número de etiquetas a mostrar. Sólo aplicable si se utilizan valores como texto de etiqueta (no nombre de color).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
@@ -12688,51 +12798,51 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="158"/>
         <source>Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</source>
-        <translation>Número máximo de colores mostrados. Reduce el número para ver colores discretos en lugar de un gradiente de colores continuo. Solo aplicable si se usan valores como etiqueta de texto (no el nombre del color).</translation>
+        <translation>Número máximo de colores mostrados. Reduzca el número para ver colores discretos en lugar de un gradiente de color continuo. Sólo aplicable si los valores se utilizan como texto de etiqueta (no como nombre de color).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="174"/>
         <source>Orientation:</source>
-        <translation type="unfinished">Orientation:</translation>
+        <translation>Orientación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="189"/>
         <source>Vertical</source>
-        <translation type="unfinished">Vertical</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="202"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="214"/>
         <source>Position:</source>
-        <translation type="unfinished">Position:</translation>
+        <translation>Cargo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="223"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="233"/>
         <source>Horizontal position of the color legend</source>
-        <translation>Posición horizontal de la escala de colores</translation>
+        <translation>Posición horizontal de la leyenda de colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="226"/>
         <source>H:</source>
         <extracomment>abbreviation of &quot;horizontal&quot;</extracomment>
-        <translation type="unfinished">H:</translation>
+        <translation>H:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="252"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="262"/>
         <source>Vertical position of the color legend</source>
-        <translation>Posición vertical de la escala de colores</translation>
+        <translation>Posición vertical de la leyenda de colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="255"/>
         <source>V:</source>
         <extracomment>abbreviation of &quot;vertical&quot;</extracomment>
-        <translation type="unfinished">V:</translation>
+        <translation>V:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="283"/>
@@ -12744,26 +12854,26 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
         <source>Short side length of the color legend, relative to view size</source>
         <oldsource>Short side length of the color legend, as percentage of view size</oldsource>
-        <translation type="unfinished">Short side length of the color legend, as percentage of view size</translation>
+        <translation>Longitud del lado corto de la leyenda de color, en relación con el tamaño de la vista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
         <source>S:</source>
         <extracomment>abbreviation of &quot;short&quot;</extracomment>
-        <translation type="unfinished">S:</translation>
+        <translation>S:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
         <source>Long side length of the color legend, relative to view size</source>
         <oldsource>Long side length of the color legend, as percentage of view size</oldsource>
-        <translation type="unfinished">Long side length of the color legend, as percentage of view size</translation>
+        <translation>Longitud del lado largo de la leyenda de color, relativa al tamaño de la vista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="324"/>
         <source>L:</source>
         <extracomment>abbreviation of &quot;long&quot;</extracomment>
-        <translation type="unfinished">L:</translation>
+        <translation>L:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
@@ -12773,17 +12883,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="371"/>
         <source>Label properties</source>
-        <translation type="unfinished">Label properties</translation>
+        <translation>Propiedades de las etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="380"/>
         <source>Format:</source>
-        <translation type="unfinished">Format:</translation>
+        <translation>Formato:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="80"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;El campo de formato utiliza la sintaxis de la función printf. Ejemplos de formatos:&lt;br&gt;    - mostrar con 1 dígito fraccionario: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - mostrar número entero: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - mostrar con 4 dígitos significativos: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - anotación de etiqueta de cadena: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;El campo de formato utiliza la sintaxis de la función printf. Formatos de ejemplo:&lt;br&gt; - mostrar con 1 dígitos fraccionarios: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt; - mostrar entero: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt; - mostrar con 4 dígitos significativos: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt; - anotación de etiqueta de cadena: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -12791,12 +12901,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="69"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="73"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="77"/>
@@ -12806,7 +12916,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="161"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Ninguno</translation>
     </message>
 </context>
 <context>
@@ -12814,12 +12924,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="14"/>
         <source>Color Picker</source>
-        <translation>Cuentagotas</translation>
+        <translation>Selector de color</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="20"/>
         <source>Color node:</source>
-        <translation type="unfinished">Color node:</translation>
+        <translation>Nodo de color:</translation>
     </message>
 </context>
 <context>
@@ -12828,7 +12938,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="14"/>
         <source>Display Properties</source>
         <oldsource>Display Node</oldsource>
-        <translation type="unfinished">Display Node</translation>
+        <translation>Mostrar propiedades</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
