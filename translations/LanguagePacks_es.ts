@@ -6,162 +6,162 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="17"/>
         <source>Download, compile, and install latest translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar, compilar e instalar últimas traducciones</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="20"/>
         <source>Update translation files</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar archivos de traducción</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="193"/>
         <source>Input translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada de traducciones</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="202"/>
         <source>Input folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de entrada:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="212"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Idiomas:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="222"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate (últimas traducciones)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="229"/>
         <source>GitHub (updated daily)</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub (actualizado diariamente)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="236"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta local (para uso sin conexión)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="243"/>
         <source>Latest file only:</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo último archivo:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="253"/>
         <source>Refresh Weblate language list by querying the Weblate server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recargar listado de idiomas de Weblate solicitando al servidor de Weblate.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="256"/>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>recargar</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="263"/>
         <source>Select language(s) that will be downloaded and installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione idioma(s) que serán descargados e instalados.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="270"/>
         <source>Folder containing translation (.ts) files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta que contiene archivos (.ts) de traducción.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="285"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this option is checked then only the latest .ts file in the folder will be used. Enable this option to ignore previously downloaded .ts files are saved in the same folder.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Si esta opción está marcada entonces solo los últimos archivos .ts dentro de la carpeta será utilizado. Active esta opción para descartar archivos .ts descargados anteriormente dentro de la misma carpeta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="151"/>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma de la aplicación:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="164"/>
         <source>Change only takes effect after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar solo toma efecto tras reiniciando la aplicación.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="174"/>
         <source>Restart the application to see updated translations on the graphical user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicia la aplicación para ver transacciones de actualización sobre el interfaz gráfico del usuario.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="177"/>
         <source>Restart the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar la aplicación</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="27"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros avanzados</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="39"/>
         <source>Qt &apos;lrelease&apos; tool path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de herramienta Qt &apos;lrelease&apos;:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
         <source>Path to Qt lrelease executable. Leave empty to use default (the one bundled with the Slicer installer or available in system paths).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta a Qt lrelease ejecutable. Déjalo vacío para utilizar por defecto (el único bundled con el instalador o disponible interno a las rutas del sistema).</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="59"/>
         <source>Slicer version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versión de Slicer:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="66"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Only used for GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;master, 4.13, 4.14, ...&lt;/p&gt;&lt;p&gt;Solo utilizado para GitHub.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
         <source>GitHub repository URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL del repo GitHub:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="83"/>
         <source>Github repository that stores the translated strings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Repo Github que almacena los segmentos traducidos.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="93"/>
         <source>Weblate download URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga de URL de Weblate:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="100"/>
         <source>Weblate project that stores the translated strings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyecto Weblate que almacena las cadenas traducidas.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
         <source>Translation file folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpetas de archivos de traducción:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="117"/>
         <source>List of folders where the application looks for translations. This is for information only, the paths cannot be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enumera de carpetas cuando la aplicación parece para traducciones. Esto es para información solo, las rutas no pueden ser modificadas.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="126"/>
         <source>Show more...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar más…</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="301"/>
         <source>Find text</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar texto</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="313"/>
         <source>Enable text finder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar dedo de texto:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="322"/>
@@ -171,12 +171,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="347"/>
         <source>Keyboard shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlace de teclado:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramientas de Idioma</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -184,7 +184,10 @@
 This module can build translation files and install them locally. It is useful for creating and testing translations.
 See more information in the &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;extension&apos;s documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este modelo puede compilar archivos de transacción e las instala localmente. Es útil para crear y probar traducciones.
+Consulte más información en la &lt;a href=&quot;https://github.com/Slicer/SlicerLanguagePacks&quot;&gt;documentación de la extensión&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="39"/>
@@ -196,7 +199,7 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="141"/>
         <source>Failed to extract any text from widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorrecto al extraer cualquier texto desde widget</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="156"/>
@@ -206,27 +209,29 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
         <oldsource>Click on the text to find it on the translation website:
 
 {links}</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pulse en el texto para buscarlo en el sitio web de traducción [{language}]:
+
+{links}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="174"/>
         <source>Failed to extract any text from: {object}</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorrecto al extraer cualquier texto desde {object}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="287"/>
         <source>Failed to retrieve language list from Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorrecto al obtener listado de idiomas desde Weblate.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="399"/>
         <source>Update failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización incorrecta.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="424"/>
         <source>Update completed! Select application language and restart the application to see the results.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Actualización completada! Selecciona el idioma de la aplicación y reinicie la aplicación para ver los resultados.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="500"/>
