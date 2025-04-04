@@ -54,7 +54,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la beca 3P41RR01
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de salida: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
@@ -102,12 +102,12 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la beca 3P41RR01
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="18"/>
         <source>Guidelet</source>
-        <translation type="unfinished">Guidelet</translation>
+        <translation>Guidelet</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="45"/>
         <source>Guidelet launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanzador Guidelet</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
@@ -135,7 +135,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la beca 3P41RR01
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="190"/>
         <source>OpenIGTLink connector: </source>
-        <translation type="unfinished"></translation>
+        <translation>Conector OpenIGTLink: </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="193"/>
@@ -193,7 +193,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la beca 3P41RR01
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="85"/>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="89"/>
@@ -249,7 +249,9 @@ Para obtener ayuda sobre cómo usar este módulo, visita: &lt;a href=&apos;https
         <source>
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este trabajo es parte del proyecto SparKit, fundado por el programa ACRU de Cancer Cara Ontario (CCO) y el Consorcio Ontario para Intervenciones Adaptativas en Radiación Oncológica (OCAIRO).
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="44"/>
