@@ -6,32 +6,32 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="17"/>
         <source>Download, compile, and install latest translations</source>
-        <translation type="unfinished"></translation>
+        <translation>తాజా అనువాదాలను డౌన్‌లోడ్ చేయండి, కంపైల్ చేయండి మరియు ఇన్‌స్టాల్ చేయండి</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="20"/>
         <source>Update translation files</source>
-        <translation type="unfinished"></translation>
+        <translation>అనువాద ఫైళ్లను నవీకరించండి</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="193"/>
         <source>Input translations</source>
-        <translation type="unfinished"></translation>
+        <translation>ఇన్‌పుట్ అనువాదాలు</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="202"/>
         <source>Input folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>ఇన్‌పుట్ ఫోల్డర్:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="212"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>భాషలు:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="222"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>వెబ్లేట్ (తాజా అనువాదాలు)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="229"/>
