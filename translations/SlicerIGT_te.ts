@@ -9,7 +9,10 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+ఈ మాడ్యూల్ ఇటరేటివ్ క్లోజ్ పాయింట్స్ (ICP) పద్ధతిని ఉపయోగించి మోడల్ ఉపరితలానికి ఫిడ్యూషియల్ జాబితాను నమోదు చేస్తుంది.
+ఈ మాడ్యూల్‌ను ఎలా ఉపయోగించాలో సహాయం కోసం సందర్శించండి: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
@@ -17,27 +20,30 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+ఈ ఫైల్‌ను మొదట జీన్-క్రిస్టోఫ్ ఫిలియన్-రాబిన్, కిట్‌వేర్ ఇంక్.
+మరియు స్టీవ్ పైపర్, ఐసోమిక్స్, ఇంక్. అభివృద్ధి చేశారు మరియు NIH గ్రాంట్ 3P41RR013218-12S1 ద్వారా పాక్షికంగా నిధులు సమకూర్చబడ్డాయి.
+</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
         <source>Pick the input fiducial list for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>అల్గోరిథం కోసం ఇన్‌పుట్ విశ్వసనీయ జాబితాను ఎంచుకోండి.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ఇన్‌పుట్ విశ్వసనీయతలు: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
         <source>Pick the input model for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>అల్గోరిథం కోసం ఇన్‌పుట్ మోడల్‌ను ఎంచుకోండి.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
         <source>Input model: </source>
-        <translation type="unfinished"></translation>
+        <translation>ఇన్‌పుట్ మోడల్: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="96"/>
