@@ -6,12 +6,12 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="31"/>
         <source>Annotation needs a widget reference and a valid type</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Annotation کو ایک ویجیٹ ریفرنس اور ایک درست قسم (type) کی ضرورت ہوتی ہے&quot;</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="243"/>
         <source>Write something here</source>
-        <translation type="unfinished"></translation>
+        <translation>یہاں کچھ لکھیں</translation>
     </message>
 </context>
 <context>
@@ -19,14 +19,14 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>فارم</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="26"/>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="39"/>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="52"/>
         <source>PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>دبانے والا بٹن</translation>
     </message>
 </context>
 <context>
@@ -34,19 +34,19 @@
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="33"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>راستہ موجود نہیں ہے</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="47"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="68"/>
         <source>Message from {endpoint}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>{endpoint} سے پیغام: {message}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="48"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="69"/>
         <source>Malformed Response from {endpoint}</source>
-        <translation type="unfinished"></translation>
+        <translation>{endpoint} سے خراب جواب</translation>
     </message>
 </context>
 <context>
@@ -54,47 +54,47 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>مکھ ونڈو</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="34"/>
         <source>Institutional affiliation:</source>
-        <translation type="unfinished"></translation>
+        <translation>ادارے سے تعلق</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="41"/>
         <source>Create a new tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>نیا ٹیوٹوریل بنائیں</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="67"/>
         <source>Tutorial title:</source>
-        <translation type="unfinished"></translation>
+        <translation>ٹیوٹوریل کا عنوان:</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="74"/>
         <source>Author name(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>مصنف کا نام(یں):</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="20"/>
         <source>TutorialEditor</source>
-        <translation type="unfinished"></translation>
+        <translation>ٹیوٹوریل ایڈیٹر</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="29"/>
         <source>Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>تشریح کرنا</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="36"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>ریکارڈنگ شروع کریں</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="46"/>
         <source>Next Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>اگلا ویجیٹ</translation>
     </message>
 </context>
 <context>
@@ -102,12 +102,12 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="17"/>
         <source>Tutorial Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>ٹیوٹوریلایڈیٹر</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="104"/>
         <source>Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>ریکارڈنگ بند کریں</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialEditor.py" line="109"/>
