@@ -236,69 +236,70 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="500"/>
         <source>Failed to query list of languages from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallado al solicitar listado de idiomas desde Weblate ({status_code}: {reason})</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="533"/>
         <source>Failed to query list of components from Weblate ({status_code}:{reason})</source>
-        <translation type="unfinished"></translation>
+        <translation>No fue capaz de solicitar un listado de componentes desde Weblate ({status_code}:{reason})</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="572"/>
         <source>No .ts files were found in the specified location.</source>
-        <translation type="unfinished"></translation>
+        <translation>No fue encontrado ninguno de los .ts archivos en la localización especificada.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="576"/>
         <source>Use translation file: {file}</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar archivo de traducción: {file}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="601"/>
         <source>Download translations for {component}/{language}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar traducciones para {component}/{language}…</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="610"/>
         <source>Failed to download translation from: {url} -- {text}</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorrecto al descargar traducción desde {url} -- {text}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="611"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitido. Este componente/idioma no se ha encontrado en Weblate.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="635"/>
         <location filename="LanguageTools/LanguageTools.py" line="658"/>
         <source>Translation files folder is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>No está especificada la carpeta de archivos de traducción.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="638"/>
         <source>lrelease tool path is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>libera ruta de herramienta no especificada.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="676"/>
         <source>No translation (qm) files were found at {location}</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha encontrado ninguno de los archivos (qm) en {location}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="678"/>
         <source>Update successfully completed.
 Installed {count} translation files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización completada correctamente.
+Archivos de traducción instalados en {location}: {count}.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="684"/>
         <source>This Slicer version does not support custom viewer fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta versión Ranura no admite tipografías de visor personalizadas.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="707"/>
         <source>Installed {count} font files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se instalaron {count} archivos tipográficos en {location}.</translation>
     </message>
 </context>
 <context>
@@ -306,7 +307,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="23"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilidades</translation>
     </message>
 </context>
 </TS>
