@@ -119,7 +119,7 @@ Cerrar la aplicación cancelará todos los cálculos actuales.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="77"/>
         <source>The following list of paths will be searched for executables which provide a XML parameter description when called with a &quot;--xml&quot; command line argument:</source>
-        <translation type="unfinished"></translation>
+        <translation>El siguiente listado de rutas será buscado para ejecutables los cuales proporcionen una descripción del parámetro XML invocó con un argumento &quot;--xml&quot; de la línea de instrucción:</translation>
     </message>
 </context>
 <context>
