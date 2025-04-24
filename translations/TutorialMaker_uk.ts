@@ -13,7 +13,7 @@
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="39"/>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="52"/>
         <source>PushButton</source>
-        <translation>кнопка</translation>
+        <translation>Кнопка</translation>
     </message>
 </context>
 <context>
@@ -100,27 +100,27 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="124"/>
         <source>Open</source>
-        <translation>ВІДЧИНЕНО</translation>
+        <translation>Відчинено</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="125"/>
         <source>Save</source>
-        <translation>зберегти</translation>
+        <translation>Зберегти</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="126"/>
         <source>Undo</source>
-        <translation>скасувати</translation>
+        <translation>Відмінити</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="127"/>
         <source>Delete</source>
-        <translation>видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="128"/>
         <source>Add</source>
-        <translation>додати</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="129"/>
@@ -150,12 +150,12 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="166"/>
         <source>Icon</source>
-        <translation>значок</translation>
+        <translation>Значок</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="169"/>
         <source>Text</source>
-        <translation>текст</translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="212"/>
@@ -208,12 +208,12 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="54"/>
         <source>Load</source>
-        <translation>навантаження</translation>
+        <translation>Навантаження</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="61"/>
         <source>Save</source>
-        <translation>зберегти</translation>
+        <translation>Зберегти</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="68"/>
