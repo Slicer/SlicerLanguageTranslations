@@ -96,7 +96,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="398"/>
         <source>All</source>
-        <translation>всі</translation>
+        <translation>Всі</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="393"/>
@@ -180,7 +180,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="195"/>
         <source>Clear</source>
-        <translation>ясно</translation>
+        <translation>Очистити</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="266"/>
@@ -200,7 +200,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="369"/>
         <source>Run</source>
-        <translation>бігти</translation>
+        <translation>Запуск</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="372"/>
@@ -299,7 +299,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="134"/>
         <source>Warning</source>
-        <translation>УВАГА</translation>
+        <translation>Увага</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="143"/>
@@ -322,12 +322,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="68"/>
         <source>Cancel</source>
-        <translation>скасування</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="82"/>
         <source>Remove</source>
-        <translation>видалив</translation>
+        <translation>Вилучити</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@ Closing the tab will cancel the current computation.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="68"/>
         <source>Warning:</source>
-        <translation>УВАГА:</translation>
+        <translation>Увага:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="90"/>
@@ -678,7 +678,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="516"/>
         <source>Remove</source>
-        <translation>Видалили</translation>
+        <translation>Вилучити</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="519"/>
@@ -694,7 +694,7 @@ due to:
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="150"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="192"/>
         <source>Cancel</source>
-        <translation>Скасуватися</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="155"/>
@@ -757,7 +757,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="69"/>
         <source>Warning</source>
-        <translation>УВАГА</translation>
+        <translation>Увага</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="76"/>
@@ -782,14 +782,14 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="151"/>
         <source>OK</source>
-        <translation>добре</translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="177"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="272"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1146"/>
         <source>Cancel</source>
-        <translation>скасуватися</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="190"/>
@@ -840,7 +840,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="260"/>
         <source>Remove</source>
-        <translation>видалили</translation>
+        <translation>Вилучити</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="263"/>
@@ -956,7 +956,7 @@ Do you want to remove the series from the DICOM database?</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1259"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1337"/>
         <source>Delete</source>
-        <translation>видалитися</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1177"/>
@@ -1156,7 +1156,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="62"/>
         <source>OK</source>
-        <translation>добре</translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMDirectoryListWidget.cpp" line="77"/>
@@ -1337,7 +1337,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="902"/>
         <source>Other</source>
-        <translation>інше</translation>
+        <translation>Інше</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="903"/>
@@ -1557,7 +1557,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="946"/>
         <source>Document</source>
-        <translation>Документація</translation>
+        <translation>Документ</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="949"/>
@@ -2184,7 +2184,7 @@ p, li { біло-просторовий: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="304"/>
         <source>Cancel</source>
-        <translation>&amp;Скасуватися</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="210"/>
@@ -2661,7 +2661,7 @@ p, li { біло-просторовий: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="49"/>
         <source>Studies</source>
-        <translation>Дослідження</translation>
+        <translation>Досліджень</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="50"/>
@@ -2808,7 +2808,7 @@ p, li { біло-просторовий: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="42"/>
         <source>Warning</source>
-        <translation>УВАГА</translation>
+        <translation>Увага</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="49"/>
@@ -2853,7 +2853,7 @@ p, li { біло-просторовий: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="230"/>
         <source>Study</source>
-        <translation>дослідження</translation>
+        <translation>Дослідження</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="246"/>
@@ -2940,7 +2940,7 @@ p, li { біло-просторовий: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="525"/>
         <source>Yesterday</source>
-        <translation>вчора</translation>
+        <translation>Вчора</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="530"/>
@@ -3007,7 +3007,7 @@ Please set at least one filter to query the servers</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="841"/>
         <source>Settings</source>
-        <translation>налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="900"/>
@@ -3377,7 +3377,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="4061"/>
         <source>Delete</source>
-        <translation>&amp;Видалити</translation>
+        <translation>Видалити</translation>
     </message>
 </context>
 <context>
@@ -3400,7 +3400,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="43"/>
         <source>Yesterday</source>
-        <translation>вчора</translation>
+        <translation>Вчора</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="50"/>
@@ -3415,7 +3415,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="64"/>
         <source>Select Range</source>
-        <translation>Виберіть діапазон</translation>
+        <translation>Виберіть діапазоні</translation>
     </message>
 </context>
 <context>
@@ -3448,7 +3448,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="84"/>
         <source>&amp;Clear</source>
-        <translation>&amp;ясно</translation>
+        <translation>&amp;Очистити</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkErrorLogWidget.cpp" line="72"/>
@@ -3496,7 +3496,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.cpp" line="42"/>
         <source>Me: </source>
-        <translation>я: </translation>
+        <translation>Я: </translation>
     </message>
 </context>
 <context>
@@ -3514,12 +3514,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="49"/>
         <source>Record</source>
-        <translation>запис</translation>
+        <translation>Запис</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="56"/>
         <source>Playback</source>
-        <translation>Відтворення</translation>
+        <translation>Відтворенні</translation>
     </message>
 </context>
 <context>
@@ -3565,7 +3565,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="63"/>
         <source>Run</source>
-        <translation>бігти</translation>
+        <translation>Запуск</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="70"/>
@@ -3600,7 +3600,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="141"/>
         <source>Cancel</source>
-        <translation>&amp;Скасування</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="172"/>
@@ -3613,7 +3613,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="105"/>
         <source>Open</source>
-        <translation>ВІДЧИНЕНО</translation>
+        <translation>Відчинено</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="106"/>
@@ -3653,7 +3653,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.ui" line="25"/>
         <source>Load</source>
-        <translation>навантаження</translation>
+        <translation>Навантаження</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.cpp" line="66"/>
@@ -3802,7 +3802,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="35"/>
         <source>Color:</source>
-        <translation>колір:</translation>
+        <translation>Колір:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="65"/>
@@ -3817,12 +3817,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="102"/>
         <source>Diffuse:</source>
-        <translation>дифузний:</translation>
+        <translation>Дифузний:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="122"/>
         <source>Specular:</source>
-        <translation>дзеркальний:</translation>
+        <translation>Дзеркальний:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="139"/>
@@ -3832,7 +3832,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="142"/>
         <source>Power:</source>
-        <translation>потужність:</translation>
+        <translation>Потужність:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="165"/>
@@ -4001,7 +4001,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="80"/>
         <source>Other</source>
-        <translation>інше</translation>
+        <translation>Інше</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="83"/>
@@ -4473,7 +4473,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="46"/>
         <source>Remove</source>
-        <translation>&amp;видалити</translation>
+        <translation>Вилучити</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="53"/>
@@ -4551,7 +4551,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="52"/>
         <source>Installed</source>
-        <translation>встановлено</translation>
+        <translation>Встановлено</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="53"/>
@@ -4664,7 +4664,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="345"/>
         <source>Exit</source>
-        <translation>вихід</translation>
+        <translation>Вихід</translation>
     </message>
 </context>
 <context>
@@ -4746,7 +4746,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="74"/>
         <source>Lazy</source>
-        <translation>ледачий</translation>
+        <translation>Ледачий</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="79"/>
@@ -4888,7 +4888,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="458"/>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="489"/>
         <source>Exit</source>
-        <translation>&amp;Вихід</translation>
+        <translation>Вихід</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="478"/>
@@ -4961,7 +4961,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="114"/>
         <source>Description</source>
-        <translation>опис</translation>
+        <translation>Опис</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="124"/>
@@ -4971,12 +4971,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="131"/>
         <source>Icon</source>
-        <translation>значок</translation>
+        <translation>Значок</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="161"/>
         <source>Lazy</source>
-        <translation>ледачий</translation>
+        <translation>Ледачий</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
@@ -5093,12 +5093,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="105"/>
         <source>Record</source>
-        <translation>запис</translation>
+        <translation>Запис</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="115"/>
         <source>PlayBack</source>
-        <translation>відтворення</translation>
+        <translation>Відтворення</translation>
     </message>
 </context>
 <context>
@@ -5106,7 +5106,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkRangeWidget.ui" line="20"/>
         <source>Select range</source>
-        <translation>виберіть діапазон</translation>
+        <translation>Виберіть діапазон</translation>
     </message>
 </context>
 <context>
@@ -5154,7 +5154,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="146"/>
         <source>Scale factor:</source>
-        <translation>Коефіцієнт масштабу:</translation>
+        <translation>Коефіцієнт масштаби:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="156"/>
@@ -5210,7 +5210,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="67"/>
         <source>Capture</source>
-        <translation>захоплення</translation>
+        <translation>Захоплення</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="172"/>
@@ -5256,7 +5256,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSettingsDialog.ui" line="14"/>
         <source>Settings</source>
-        <translation>&amp;Налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="78"/>
@@ -5338,7 +5338,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="31"/>
         <source>Object</source>
-        <translation>&amp;Об&apos;єкт</translation>
+        <translation>Об&apos;єкт</translation>
     </message>
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="32"/>
@@ -5559,7 +5559,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="274"/>
         <source>Material</source>
-        <translation>матеріал</translation>
+        <translation>Матеріал</translation>
     </message>
 </context>
 <context>
@@ -5639,12 +5639,12 @@ Do you want to replace it ?</source>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="41"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="54"/>
         <source>Point ID</source>
-        <translation>точка ID</translation>
+        <translation>Точка ID</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="44"/>
         <source>Point:</source>
-        <translation>точка:</translation>
+        <translation>Точка:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="83"/>
@@ -5827,7 +5827,7 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="132"/>
         <source>Material:</source>
-        <translation>матеріал:</translation>
+        <translation>Матеріал:</translation>
     </message>
 </context>
 <context>
@@ -5891,12 +5891,12 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="52"/>
         <source>Save</source>
-        <translation>зберегти</translation>
+        <translation>Зберегти</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="59"/>
         <source>Delete</source>
-        <translation>&amp;Видалили</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="99"/>
@@ -5991,7 +5991,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="56"/>
         <source>Download</source>
-        <translation>завантажити</translation>
+        <translation>Завантажити</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="69"/>
