@@ -124,7 +124,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="165"/>
         <source>Settings</source>
-        <translation>налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
@@ -159,7 +159,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
         <source>Exit</source>
-        <translation>вихід</translation>
+        <translation>Вихід</translation>
     </message>
 </context>
 <context>
@@ -167,7 +167,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="48"/>
         <source>Ultrasound</source>
-        <translation>УЗД</translation>
+        <translation>Ультразвук</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="58"/>
@@ -192,7 +192,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="85"/>
         <source>Normal</source>
-        <translation>нормальний</translation>
+        <translation>Нормальний</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="89"/>
@@ -328,7 +328,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation>додати</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
@@ -574,7 +574,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="197"/>
         <source>Right: </source>
-        <translation>правильно: </translation>
+        <translation>Праворуч: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="202"/>
@@ -1356,7 +1356,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="273"/>
         <source>Update</source>
-        <translation>оновлення</translation>
+        <translation>Оновлення</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="286"/>
@@ -1420,7 +1420,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="413"/>
         <source>Update</source>
-        <translation>оновлення</translation>
+        <translation>Оновлення</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="449"/>
@@ -1438,7 +1438,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation>Фу Бар</translation>
+        <translation>Фоо Бар</translation>
     </message>
 </context>
 <context>
@@ -1551,7 +1551,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="270"/>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModuleWidget.cxx" line="209"/>
         <source>Start</source>
-        <translation>Почніть</translation>
+        <translation>Старт</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModuleWidget.cxx" line="205"/>
@@ -1635,12 +1635,12 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="22"/>
         <source>Activate</source>
-        <translation>активувати</translation>
+        <translation>Активувати</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="42"/>
         <source>Distance:</source>
-        <translation>відстань:</translation>
+        <translation>Відстань:</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="49"/>
@@ -1771,7 +1771,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="374"/>
         <source>Stop</source>
-        <translation>СТІЙ</translation>
+        <translation>Стій</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="382"/>
@@ -1786,7 +1786,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="408"/>
         <source>Settings</source>
-        <translation>налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="417"/>
@@ -2132,7 +2132,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="155"/>
         <location filename="VolumeResliceDriver/Widgets/Resources/UI/qSlicerReslicePropertyWidget.ui" line="155"/>
         <source>Rotation:</source>
-        <translation>обертання:</translation>
+        <translation>Обертання:</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="199"/>
@@ -2416,7 +2416,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="536"/>
         <source>Update</source>
-        <translation>оновлення</translation>
+        <translation>Оновлення</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="546"/>
@@ -2485,7 +2485,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="398"/>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="415"/>
         <source>Update</source>
-        <translation>оновлення</translation>
+        <translation>Оновлення</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="406"/>
@@ -2513,7 +2513,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="40"/>
         <source>Ultrasound image: </source>
-        <translation>УЗД зображення: </translation>
+        <translation>Ультразвукове зображення: </translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="47"/>
@@ -2553,7 +2553,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.h" line="44"/>
         <source>Ultrasound Snapshots</source>
-        <translation>Знімки УЗД</translation>
+        <translation>Знімки Ультразвуку</translation>
     </message>
 </context>
 <context>
@@ -2925,7 +2925,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="142"/>
         <source>Mean</source>
-        <translation>середня</translation>
+        <translation>Середня</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="143"/>
@@ -2945,7 +2945,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="316"/>
         <source>Start</source>
-        <translation>Почніть</translation>
+        <translation>Старт</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="321"/>
@@ -3054,7 +3054,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="112"/>
         <source>Add</source>
-        <translation>додати</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="141"/>
@@ -3124,7 +3124,7 @@ Bullseye View: розташуйте/орієнтуйте камеру за до�
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
         <source>Message</source>
-        <translation>повідомлення</translation>
+        <translation>Повідомлення</translation>
     </message>
     <message>
         <location filename="Watchdog/qSlicerWatchdogModuleWidget.cxx" line="119"/>
