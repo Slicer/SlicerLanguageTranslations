@@ -244,7 +244,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="269"/>
         <source>Finished</source>
-        <translation>готово</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="339"/>
@@ -310,7 +310,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="65"/>
         <source>Component:</source>
-        <translation>компонент:</translation>
+        <translation>Компонент:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="72"/>
@@ -697,7 +697,7 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="359"/>
         <source>Get:</source>
-        <translation>отримати:</translation>
+        <translation>Отримати:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="374"/>
@@ -740,7 +740,7 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="444"/>
         <source>Tab 2</source>
-        <translation>вкладка 2</translation>
+        <translation>Вкладка 2</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="524"/>
@@ -885,7 +885,7 @@ This is intended to represent a unique combination of input centerline and surfa
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="720"/>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="788"/>
         <source>Long.:</source>
-        <translation>довгий.:</translation>
+        <translation>Довгий.:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="729"/>
@@ -1076,7 +1076,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1175"/>
         <source>Wall:</source>
-        <translation>стіна:</translation>
+        <translation>Стіна:</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1191"/>
@@ -1364,7 +1364,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="301"/>
         <source>Tree</source>
-        <translation>дерево</translation>
+        <translation>Дерево</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="307"/>
@@ -2667,7 +2667,7 @@ Right click for more.</source>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="354"/>
         <source>Finished</source>
-        <translation>готово</translation>
+        <translation>Готово</translation>
     </message>
 </context>
 <context>
@@ -2680,7 +2680,7 @@ Right click for more.</source>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation>Фу Бар</translation>
+        <translation>Фоо Бар</translation>
     </message>
 </context>
 <context>
@@ -2703,7 +2703,7 @@ Right click for more.</source>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="37"/>
         <source>Tube</source>
-        <translation>трубка</translation>
+        <translation>Трубка</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="59"/>
@@ -2757,7 +2757,7 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="139"/>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="222"/>
         <source>Wall:</source>
-        <translation>стіна:</translation>
+        <translation>Стіна:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="153"/>
@@ -2793,7 +2793,7 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="237"/>
         <source>Wall</source>
-        <translation>стіна</translation>
+        <translation>Стіна</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="260"/>
@@ -2846,7 +2846,7 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
     <message>
         <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation>Фу Бар</translation>
+        <translation>Фоо Бар</translation>
     </message>
 </context>
 </TS>
