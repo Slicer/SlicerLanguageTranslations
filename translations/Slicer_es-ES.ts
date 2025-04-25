@@ -268,25 +268,25 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="34"/>
         <source>Lower Percentile</source>
-        <translation type="unfinished">Percentil Inferior</translation>
+        <translation>Percentil Inferior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="35"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="37"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="42"/>
         <source>Upper Output Intensity</source>
-        <translation type="unfinished">Intensidad de Salida Superior</translation>
+        <translation>Intensidad de Salida Superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="36"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="43"/>
         <source>Lower Output Intensity</source>
-        <translation type="unfinished">Intensidad de Salida Inferior</translation>
+        <translation>Intensidad de Salida Inferior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
         <source>Relative Scaling</source>
-        <translation type="unfinished">Escalado Relativo</translation>
+        <translation>Escalado Relativo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
@@ -296,17 +296,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
         <source>Upper Intensity Percentile (0.99 default)</source>
-        <translation type="unfinished">Intensidad Percentil Superior (0.99 por defecto)</translation>
+        <translation>Intensidad Percentil Superior (0&apos;99 por defecto)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="41"/>
         <source>Lower Intensity Percentile (0.01 default)</source>
-        <translation type="unfinished">Intensidad Percentil Inferior (0.01 por defecto)</translation>
+        <translation>Intensidad Percentil Inferior (0&apos;01 por defecto)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation type="unfinished">No recorte Valores fuera de este rango para que sean el &quot;Valor Exterior&quot;</translation>
+        <translation>No recorte Valores fuera de este intervalo para que sean el «Valor Exterior»</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
@@ -324,12 +324,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation type="unfinished">Registro General (BRAINS)</translation>
+        <translation>Registro General (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation type="unfinished">Registrar un volumen tridimensional a un volumen de referencia (Mattes Mutual Information por defecto). Metodo descrito en BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</translation>
+        <translation>Registrar un volumen tridimensional a un volumen de referencia (Mattes Mutual Information por defecto). Método descrito en BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
@@ -339,17 +339,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
         <source>Input Images</source>
-        <translation type="unfinished">Imágenes de entrada</translation>
+        <translation>Imágenes de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
         <source>Fixed Image Volume</source>
-        <translation type="unfinished">Volumen de Imagen Fija</translation>
+        <translation>Volumen de Imagen Fija</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
         <source>Moving Image Volume</source>
-        <translation type="unfinished">Volumen de Imagen en Movimiento</translation>
+        <translation>Volumen de Imagen en Movimiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
@@ -379,7 +379,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation>Numero de subdivisiones de cuadricula BSpline a lo largo de cada eje de la imagen fija, centrada en el espacio de imagen. Valores deben ser 3 o superior para que el BSpline sea calculado correctamente.</translation>
+        <translation>Número de subdivisiones de cuadricula BSpline a lo largo de cada eje de la imagen fija, centrada en el espacio de imagen. Valores deben ser 3 o superior para que el BSpline sea calculado correctamente.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
@@ -753,7 +753,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
@@ -1198,12 +1198,12 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished">Volumen de la imagen de entrada</translation>
+        <translation>Volumen de la imagen de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
