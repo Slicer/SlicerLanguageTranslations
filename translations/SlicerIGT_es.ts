@@ -39,7 +39,7 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la beca 3P41RR01
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
         <source>Pick the input model for the algorithm.</source>
-        <translation>Selecciona el modelo de entrada para el algoritmo.</translation>
+        <translation>Toma el modelo de entrada para el algoritmo.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
