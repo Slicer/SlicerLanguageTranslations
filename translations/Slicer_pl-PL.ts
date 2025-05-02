@@ -132,7 +132,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten program: 1) zniekształca obrazy z wybranego zestawu obrazów.  Wejścia muszą być zgodne ze standardem ACPC i muszą zostać zapewnione dla: AC, PC, LE, RE.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
@@ -316,7 +316,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
         <source>Level of Debugging (0=None)</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziom debugowania (0=Nic)</translation>
     </message>
 </context>
 <context>
