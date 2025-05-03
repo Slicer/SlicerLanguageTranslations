@@ -2014,12 +2014,12 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="84"/>
         <source>Franklin King (Queen&apos;s University)</source>
-        <translation>Franklin King (Queen&apos;s University)</translation>
+        <translation>Franklin King (Universidade de Queen)</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="85"/>
         <source>Tamas Ungi (Queen&apos;s University)</source>
-        <translation>Tamas Ungi (Queen&apos;s University)</translation>
+        <translation>Tamas Ungi (Universidade de Queen)</translation>
     </message>
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.h" line="44"/>
