@@ -7455,7 +7455,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation>&lt;p&gt; ஒரு படத்தை வாசிக்கவும். &lt;/p&gt; &lt;p&gt; பட மதிப்புகளைப் பயனர் குறிப்பிட்ட வெளிப்புற மதிப்புக்குக் கீழே, மேலே, அல்லது எளிய வாசல் மதிப்புகளுக்கு இடையில் அமைக்கவும். &lt;/p&gt; &lt;p&gt; வாசல்: அல்லது வாசல் மதிப்புக்குச் சமம் வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது.&lt;/p&gt;&lt;p&gt; வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt; ஒரு படத்தை வாசிக்கவும். &lt;/p&gt; &lt;p&gt; பட மதிப்புகளைப் பயனர் குறிப்பிட்ட வெளிப்புற மதிப்புக்குக் கீழே, மேலே, அல்லது எளிய வாசல் மதிப்புகளுக்கு இடையில் அமைக்கவும். &lt;/p&gt; &lt;p&gt; வாசல்: அல்லது வாசல் மதிப்புக்குச் சமம் வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது.&lt;/p&gt;&lt;p&gt; வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளது.&lt;/p&gt;&lt;p&gt;வெளிப்புற வரம்பு: கீழ்-மேல் வரம்பிற்கு வெளியே உள்ள மதிப்புகள் வெளிப்புற மதிப்புக்கு அமைக்கப்பட்டுள்ளன.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
