@@ -233,7 +233,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
         <source>Run Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb rozruchu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
@@ -243,17 +243,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
         <source>No Mask Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak aplikacji maski</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie nakładaj maski na obrazy wejściowe użyte do wygenerowania maski</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
         <source>Output Image Intensity Normalization</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalizacja intensywności obrazu wyjściowego</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
