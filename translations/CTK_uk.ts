@@ -6,114 +6,122 @@
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="4"/>
         <source>2D Blurring</source>
-        <translation type="unfinished"></translation>
+        <translation>2D-розмиття</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="5"/>
         <source>
 Blur a 2d image.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Розмиття 2D-зображення.
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="6"/>
         <source>Scalar Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Скалярні параметри</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="7"/>
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Варіації скалярних параметрів
+    </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="8"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Цілочисельний параметр</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="9"/>
         <source>Boolean Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Булев параметр</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="17"/>
         <source>Some file</source>
-        <translation type="unfinished"></translation>
+        <translation>Деякий файл</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="11"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="18"/>
         <source>Some dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Деякий директор</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="12"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="19"/>
         <source>Some geom</source>
-        <translation type="unfinished"></translation>
+        <translation>Деякі геом</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="13"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="20"/>
         <source>Some image</source>
-        <translation type="unfinished"></translation>
+        <translation>Деяке зображення</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="14"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Подвійний параметр</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="15"/>
         <source>
       An integer without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Ціле число без обмежень
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="16"/>
         <source>
       A boolean without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Булеве значення без обмежень
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="21"/>
         <source>An double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Подвійний з обмеженнями</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="22"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри вектора</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="23"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Варіації параметрів вектора</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="24"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр вектора з плаваючою комою</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="25"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр вектора рядка</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="26"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>Вектор чисел з плаваючою комою</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="27"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Вектор струн</translation>
     </message>
 </context>
 <context>
@@ -121,22 +129,22 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="3"/>
         <source>Test Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Тестовий модуль</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="4"/>
         <source>Test Module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тестовий модуль.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="5"/>
         <source>Test parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри тестування</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="6"/>
         <source>Test parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри тестування.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="7"/>
@@ -144,27 +152,27 @@ Blur a 2d image.
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="12"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ціле число</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="8"/>
         <source>Enumeration</source>
-        <translation type="unfinished"></translation>
+        <translation>Перерахування</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="11"/>
         <source>Enumeration parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр перерахування</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="13"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>так</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="14"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>ні</translation>
     </message>
 </context>
 <context>
@@ -172,144 +180,146 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="4"/>
         <source>Test Bed</source>
-        <translation type="unfinished"></translation>
+        <translation>Випробувальний стенд</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="5"/>
         <source>
 Configurable behaviour for testing purposes.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Налаштовувана поведінка для цілей тестування.
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="6"/>
         <source>Runtime behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Поведінка під час виконання</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="7"/>
         <source>Configures the runtime behaviour of this module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштовує поведінку цього модуля під час виконання.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="8"/>
         <source>Runtime (seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Час виконання (секунди)</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="9"/>
         <source>Output Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний номер</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="10"/>
         <source>Exit time</source>
-        <translation type="unfinished"></translation>
+        <translation>Час виходу</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="11"/>
         <source>Exit code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код виходу</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="12"/>
         <source>Force a crash</source>
-        <translation type="unfinished"></translation>
+        <translation>Примусово викликати збій</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="13"/>
         <source>Error text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст помилки</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="14"/>
         <source>An integer with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Ціле число з обмеженнями</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="15"/>
         <source>Number of outputs which will be reported as the progress text via a QFutureWatcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість виходів, які будуть відображатися як текст прогресу через QFutureWatcher.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="16"/>
         <source>The exit time of the module (premature finish).</source>
-        <translation type="unfinished"></translation>
+        <translation>Час виходу модуля (передчасне завершення).</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="17"/>
         <source>The exit code of the module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Код виходу модуля.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="18"/>
         <source>Exit by crashing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихід через аварію.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="19"/>
         <source>Final error message at the end.</source>
-        <translation type="unfinished"></translation>
+        <translation>Остаточне повідомлення про помилку в кінці.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="20"/>
         <source>Output parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний параметр</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="21"/>
         <source>Output parameters for testing purposes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідні параметри для цілей тестування.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="22"/>
         <source>Number of results</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість результатів</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="23"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="24"/>
         <source>Exit status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус виходу</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="25"/>
         <source>Output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідні зображення</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="26"/>
         <source>The number of results reported by this module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість результатів, що повідомляються цим модулем.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="27"/>
         <source>Exit error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Повідомлення про помилку виходу.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="28"/>
         <source>Exit status (crashed or normal exit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Стан виходу (аварійний або звичайний виїзд)</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="29"/>
         <source>Image output path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Шлях виведення зображення.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="30"/>
         <source>Normal exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Звичайний вихід</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="31"/>
         <source>Crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій</translation>
     </message>
 </context>
 <context>
@@ -317,292 +327,300 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="4"/>
         <source>Execution Model Tour</source>
-        <translation type="unfinished"></translation>
+        <translation>Огляд моделі виконання</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="5"/>
         <source>
   Shows one of each type of parameter.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  Показує по одному параметру кожного типу.
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="6"/>
         <source>Scalar Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Скалярні параметри</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="7"/>
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Варіації скалярних параметрів
+    </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="8"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Цілочисельний параметр</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="9"/>
         <source>Boolean Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Булев параметр</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="10"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Подвійний параметр</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="11"/>
         <source>
       An integer without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Ціле число без обмежень
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="12"/>
         <source>
       A boolean without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Булеве значення без обмежень
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="13"/>
         <source>An double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Подвійний з обмеженнями</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="14"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри вектора</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="15"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Варіації параметрів вектора</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="16"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр вектора з плаваючою комою</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="17"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр вектора рядка</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="18"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>Вектор чисел з плаваючою комою</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="19"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Вектор струн</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="20"/>
         <source>Enumeration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри перерахування</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="21"/>
         <source>Variations on enumeration parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Варіації параметрів перерахування</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="22"/>
         <source>String Enumeration Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр перерахування рядків</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="23"/>
         <source>A point</source>
-        <translation type="unfinished"></translation>
+        <translation>Точка</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="24"/>
         <source>An enumeration of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Перерахування рядків</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="25"/>
         <source>asf</source>
-        <translation type="unfinished"></translation>
+        <translation>ачус</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="26"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="27"/>
         <source>foo</source>
-        <translation type="unfinished"></translation>
+        <translation>фоо</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="28"/>
         <source>&quot;foobar&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Фубар&quot;</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="29"/>
         <source>foofoo</source>
-        <translation type="unfinished"></translation>
+        <translation>фоофоо</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="30"/>
         <source>Directory I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри вводу/виводу каталогу</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="31"/>
         <source>Various Directory I/O parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Різні параметри вводу/виводу каталогу.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="32"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="33"/>
         <source>Some dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Деякий директор</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="34"/>
         <source>File I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри вводу/виводу файлів</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="35"/>
         <source>Various File I/O parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Різні параметри файлового вводу/виводу.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="36"/>
         <source>Input file, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідний файл, розширення не вказані.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="37"/>
         <source>Input file, .txt or .mat file specified using leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідний файл, файл .txt або .mat, вказаний з використанням початкової крапки.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="38"/>
         <source>Input file, .txt or .mat file specified without leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідний файл, файл .txt або .mat, вказаний без крапки на початку.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="39"/>
         <source>Output file, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний файл, розширення не вказані.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="40"/>
         <source>Output file, .txt or .mat file specified using leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний файл, файл .txt або .mat, вказаний з використанням початкової крапки.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="41"/>
         <source>Output file, .txt or .mat file specified without leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний файл, файл .txt або .mat, вказаний без крапки на початку.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="42"/>
         <source>Input file, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідний файл без вказаних розширень файлів, тому можна вибрати всі файли.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="43"/>
         <source>Input file, where a correct comma separated list of .txt and .mat are specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідний файл, де вказано правильний список файлів .txt та .mat, розділених комами, який повинен містити першу крапку, але не повинен містити зірочок.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="44"/>
         <source>Input file, where the XML has missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідний файл, де XML пропустив першу крапку розширення файлу.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="45"/>
         <source>Output file, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний файл без вказаних розширень файлів, тому всі файли можна вибрати.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="46"/>
         <source>Output file, where a comma separated list of .txt and .mat are specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний файл, де вказано список файлів .txt та .mat, розділених комами, який повинен містити першу крапку, але не повинен містити зірочок.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="47"/>
         <source>Output file, where the XML has missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідний файл, де XML пропустив першу крапку розширення файлу.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="48"/>
         <source>Geometry I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри вводу/виводу геометрії</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="49"/>
         <source>Various Geometry I/O parameters, which are for things like vtkPolyData.</source>
-        <translation type="unfinished"></translation>
+        <translation>Різні параметри вводу/виводу геометрії, які призначені для таких речей, як vtkPolyData.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="50"/>
         <source>Input geometry, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введена геометрія, розширення не вказані.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="51"/>
         <source>Input geometry, .vtk or .vtp file specified with a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть геометрію, файл .vtk або .vtp, визначений з початковою крапкою.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="52"/>
         <source>Input geometry, .vtk or .vtp file specified without a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть геометрію вхідного файлу .vtk або .vtp без початкової крапки.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="53"/>
         <source>Output geometry, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідна геометрія, розширення не вказані.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="54"/>
         <source>Output geometry, .vtk or .vtp file specified with a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідна геометрія, файл .vtk або .vtp, зазначений з початковою крапкою.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="55"/>
         <source>Output geometry, .vtk or .vtp file specified without a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихідна геометрія, файл .vtk або .vtp, вказаний без початкової крапки.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="56"/>
         <source>Input geometry, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть геометрію без зазначення розширень файлів, щоб можна було вибрати всі файли.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="57"/>
         <source>Input geometry, where a comma separated list is specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть геометрію, де вказано список, розділений комами, який повинен містити першу крапку, але не повинен містити зірочок.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="58"/>
         <source>Input geometry, where the XML has incorrectly missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть геометрію, де XML помилково пропустив першу крапку розширень файлів.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="59"/>
         <source>Output geometry, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вивести геометрію без зазначення розширень файлів, щоб можна було вибрати всі файли.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="60"/>
         <source>Output geometry, where a comma separated list is specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вивести геометрію, де вказано список, розділений комами, який повинен містити першу крапку, але не повинен містити зірочок.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="61"/>
         <source>Output geometry, where the XML has incorrectly missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вивести геометрію, де XML помилково пропустив першу крапку розширень файлів.</translation>
     </message>
 </context>
 <context>
@@ -6671,17 +6689,17 @@ Do you want to renew the session?</source>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="3"/>
         <source>Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Фільтр зображень</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="3"/>
         <source>Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>Тестуванням</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="3"/>
         <source>Tours</source>
-        <translation type="unfinished"></translation>
+        <translation>Тури</translation>
     </message>
 </context>
 </TS>
