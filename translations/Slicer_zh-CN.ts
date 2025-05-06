@@ -74,21 +74,9 @@
         <translation>如果两个图像具有不同的几何体（原点、间距、轴方向或范围），则使用多项式插值的顺序：0=最近邻，1=线性，2=二次，3=三次插值。</translation>
     </message>
     <message>
-        <source>Controls</source>
-        <translation type="vanished">控件</translation>
-    </message>
-    <message>
-        <source>Control how the module operates</source>
-        <translation type="vanished">控制模块如何运行</translation>
-    </message>
-    <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
         <translation>插值顺序</translation>
-    </message>
-    <message>
-        <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="vanished">如果两个图像位于不同的坐标系中或具有不同的采样，则为插值顺序。</translation>
     </message>
 </context>
 <context>
@@ -2150,10 +2138,6 @@ Allows casting to the same type as the input volume.</source>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
         <source>Use Compression</source>
         <translation>使用压缩</translation>
-    </message>
-    <message>
-        <source>Filter Settings</source>
-        <translation type="vanished">过滤器设置</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"/>
@@ -5485,10 +5469,6 @@ The filter assumes that both the source and reference are of the same type and t
         <translation>方向参数</translation>
     </message>
     <message>
-        <source>Orientation of output</source>
-        <translation type="vanished">输出的方向</translation>
-    </message>
-    <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
         <translation type="unfinished"></translation>
@@ -7806,10 +7786,6 @@ This file was originally developed by Andras Lasso
         <translation>DICOM</translation>
     </message>
     <message>
-        <source>Informatics</source>
-        <translation type="obsolete">信息学</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="36"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
         <translation>该模块允许导入、加载和导出 DICOM 文件，以及使用 DICOM 网络发送接收数据。</translation>
@@ -7928,10 +7904,6 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="554"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
         <translation>不支持导入名称中含有特殊（非 ASCII）字符的文件。 建议将文件移至其他文件夹并重试。 尝试从当前位置导入？</translation>
-    </message>
-    <message>
-        <source>Import from folders with special (non-ASCII) characters in the name is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="vanished">不支持导入名称中含有特殊（非 ASCII）字符的文件。 建议将文件移至其他文件夹并重试。 尝试从当前位置导入？</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
@@ -9449,10 +9421,6 @@ use it for commercial purposes.&lt;/p&gt;
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="979"/>
         <source>File already exists in cache - reusing it.</source>
         <translation>缓存中已存在该文件——可重复使用。</translation>
-    </message>
-    <message>
-        <source>Requesting load {uri}</source>
-        <translation type="vanished">正在请求加载{uri}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1004"/>
@@ -12759,66 +12727,6 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
         <translation>使用切片平面定义的正向和/或负向的交点来剪切模型。</translation>
     </message>
-    <message>
-        <source>Red Slice Clipping:</source>
-        <translation type="vanished">水平位切片剪切：</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">使用水平位切片平面定义的正向或负向空间来剪切模型。正面朝向上，负面朝向下。将模型的一部分保留在所选空间中，剪切其余部分。</translation>
-    </message>
-    <message>
-        <source>Positive</source>
-        <translation type="vanished">正向</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-        <translation type="vanished">保持模型中位于正空间内的部分，朝向由水平位切片平面定义的上方(头部)。</translation>
-    </message>
-    <message>
-        <source>Negative</source>
-        <translation type="vanished">反向</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-        <translation type="vanished">保持模型中位于负空间内的部分，朝向由水平位切片平面定义的下方(脚)。</translation>
-    </message>
-    <message>
-        <source>Yellow Slice Clipping:</source>
-        <translation type="vanished">矢状位切片剪切：</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">使用矢状位切片平面定义的正空间或负空间剪裁模型。正面朝右，反面朝左。将模型的一部分保留在选定的空间中，将其余部分剪切掉。</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</source>
-        <translation type="vanished">保持模型中位于正空间内的部分向右，由矢状位切片平面定义。</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</source>
-        <translation type="vanished">将模型中位于负空间内的部分保持在左侧，由矢状位切片平面定义。</translation>
-    </message>
-    <message>
-        <source>Green Slice Clipping:</source>
-        <translation type="vanished">冠状位切片剪切：</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">使用冠状位切片平面定义的正空间或负空间剪切模型。正面朝前，反面朝后。将模型的一部分保留在选定的空间中，将其余部分剪切掉。</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-        <translation type="vanished">保持模型中位于正空间内的部分朝向前面(前)，由冠状位切片平面定义。</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-        <translation type="vanished">保留模型中位于负空间内的部分，朝向后面(后)，由冠状位切片平面定义。</translation>
-    </message>
-    <message>
-        <source>Keep only whole cells when clipping</source>
-        <translation type="vanished">剪切时保留整个单元</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLColorLegendDisplayNodeWidget</name>
@@ -13139,10 +13047,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsAngleMeasurementsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
         <translation>角度属性</translation>
@@ -13190,10 +13094,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsCurveSettingsWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
@@ -13647,10 +13547,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsInteractionHandleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
         <source>Interaction Handles</source>
         <translation>交互处理</translation>
@@ -13713,10 +13609,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsPlaneWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
         <source>Plane Properties</source>
@@ -13806,10 +13698,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
         <source>ROI Settings</source>
@@ -13854,10 +13742,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsTestLineOptionsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
         <source>Test Line Options</source>
         <translation>测试线选项</translation>
@@ -13865,10 +13749,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsTestLineWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
         <source>Test Line Properties</source>
@@ -14245,10 +14125,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>qMRMLNodeAttributeTableView</translation>
     </message>
     <message>
-        <source>No node selected</source>
-        <translation type="vanished">未选定节点</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="69"/>
         <source>Attribute Name</source>
         <translation>属性名称</translation>
@@ -14267,14 +14143,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
         <source>Attribute value</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No node is selected</source>
-        <translation type="vanished">未选定节点</translation>
-    </message>
-    <message>
-        <source>Selected node has no attributes</source>
-        <translation type="vanished">所选节点没有属性</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="196"/>
@@ -14319,14 +14187,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <source>Properties</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Node information</source>
-        <translation type="vanished">节点信息</translation>
-    </message>
-    <message>
-        <source>No node information is available.</source>
-        <translation type="vanished">没有可用的节点信息。</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLNodeComboBox</name>
@@ -14364,14 +14224,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create new </source>
-        <translation type="vanished">创建新的 </translation>
-    </message>
-    <message>
-        <source> as...</source>
-        <translation type="vanished"> 作为...</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="329"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="475"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1074"/>
@@ -14388,10 +14240,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLPlotChartPropertiesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
@@ -14527,10 +14375,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLPlotSeriesPropertiesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
@@ -14822,10 +14666,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>ROI Properties</source>
         <translation>ROI 属性</translation>
@@ -14952,10 +14792,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
 </context>
 <context>
     <name>qMRMLSceneFactoryWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
@@ -15175,10 +15011,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
         <source>Segments Table</source>
         <translation>分段表</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="294"/>
@@ -15950,24 +15782,6 @@ Do you wish to proceed with changing source representation?</source>
         <source>Advanced segmentation conversion</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Confirm master representation change</source>
-        <translation type="vanished">确认主表示更改</translation>
-    </message>
-    <message>
-        <source>Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
-This may mean losing important data that cannot be created again from the new master representation.
-
-(Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
-
-Do you wish to proceed with changing master representation?</source>
-        <translation type="vanished">更改主表示将使&apos;黄金标准&apos;表示将删除选定的表示，并将导致删除所有其他表示。
-这可能意味着丢失无法从新的主表示中再次创建的重要数据。
-
-（提醒：主表示是保存到磁盘的数据类型，在创建其他表示时用作输入）
-
-是否要继续更改主表示？</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLSegmentationShow3DButton</name>
@@ -16423,10 +16237,6 @@ Do you wish to proceed with changing master representation?</source>
 </context>
 <context>
     <name>qMRMLSettingsUnitWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Unit Settings</source>
@@ -16933,34 +16743,6 @@ Do you wish to proceed with changing master representation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>S: </source>
-        <translation type="vanished">上： </translation>
-    </message>
-    <message>
-        <source>I &lt;-----&gt; S</source>
-        <translation type="vanished">下 &lt;-----&gt; 上</translation>
-    </message>
-    <message>
-        <source>R: </source>
-        <translation type="vanished">右： </translation>
-    </message>
-    <message>
-        <source>L &lt;-----&gt; R</source>
-        <translation type="vanished">左 &lt;-----&gt; 右</translation>
-    </message>
-    <message>
-        <source>A: </source>
-        <translation type="vanished">前： </translation>
-    </message>
-    <message>
-        <source>P &lt;-----&gt; A</source>
-        <translation type="vanished">后 &lt;-----&gt; 前</translation>
-    </message>
-    <message>
-        <source>Oblique</source>
-        <translation type="vanished">倾斜体</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="409"/>
         <source>Slice distance from RAS origin</source>
         <translation>距RAS原点的切片距离</translation>
@@ -17096,10 +16878,6 @@ Do you wish to proceed with changing master representation?</source>
 </context>
 <context>
     <name>qMRMLSliceInformationWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Slice Information</source>
@@ -17405,39 +17183,6 @@ Do you wish to proceed with changing master representation?</source>
         <translation type="unfinished">节点</translation>
     </message>
     <message>
-        <source>Interaction</source>
-        <oldsource>Interaction in 3D view</oldsource>
-        <translation type="obsolete">交互</translation>
-    </message>
-    <message>
-        <source>Allow interactively modify the transform in 3D views</source>
-        <translation type="obsolete">允许在3D视图中以交互方式修改变换</translation>
-    </message>
-    <message>
-        <source>Edit properties of the current transform</source>
-        <translation type="obsolete">编辑当前变换的属性</translation>
-    </message>
-    <message>
-        <source>Harden transform</source>
-        <translation type="obsolete">固定变换</translation>
-    </message>
-    <message>
-        <source>Harden current transform on this node and all children nodes</source>
-        <translation type="obsolete">固定此节点和所有子节点上的当前变换</translation>
-    </message>
-    <message>
-        <source>Create and apply new transform</source>
-        <translation type="obsolete">创建并应用新的变换</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="obsolete">无</translation>
-    </message>
-    <message>
-        <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="obsolete">删除此分支中所有节点的父变换</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
         <source>Expand tree to level...</source>
         <translation type="unfinished"></translation>
@@ -17585,10 +17330,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation>锁定首行</translation>
     </message>
     <message>
-        <source>1</source>
-        <translation type="vanished">1</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="376"/>
         <source>Click to unlock this table so that values can be modified</source>
         <translation type="unfinished"></translation>
@@ -17600,26 +17341,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     </message>
 </context>
 <context>
-    <name>qMRMLTableViewControllerWidgetPrivate</name>
-    <message>
-        <source>Copy</source>
-        <translation type="vanished">复制</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation type="vanished">粘贴</translation>
-    </message>
-    <message>
-        <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="vanished">根据用户对表格列的选择生成交互式绘图。</translation>
-    </message>
-</context>
-<context>
     <name>qMRMLTextWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Text Properties</source>
@@ -17678,10 +17400,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="159"/>
         <source>Zoom in on the scene by a small amount.</source>
         <translation>将场景放大一小部分。</translation>
-    </message>
-    <message>
-        <source>Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</source>
-        <translation type="vanished">在立体查看选项中选择(3DSlicer必须在启用立体的情况下启动，才能使用这些功能)。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
@@ -18048,10 +17766,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
 <context>
     <name>qMRMLThreeDViewInformationWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>3D View Information</source>
         <translation>三维视图信息</translation>
@@ -18122,14 +17836,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1346"/>
         <source>Show/Hide the transform widget in the 3D view.</source>
         <translation>在3D视窗中显示/隐藏变换小部件。</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;更新变换小部件的边界。&lt;/p&gt;&lt;p&gt;变换将更新其边界以匹配其下所有节点的边界框（如果有的话）&lt;/p&gt;&lt;p&gt;否则小部件将调整到默认的交互大小。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Update bounds</source>
-        <translation type="vanished">更新边界</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1380"/>
@@ -18276,10 +17982,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="362"/>
         <source>Visible range:</source>
         <translation>可见范围：</translation>
-    </message>
-    <message>
-        <source>Visibility in 3D view: </source>
-        <translation type="vanished">3D 视图中的可见性： </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1058"/>
@@ -18876,10 +18578,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qMRMLVolumeThresholdWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
         <source>Volume Thresholding</source>
         <translation>数据阈值</translation>
@@ -19453,10 +19151,6 @@ p, li { white-space: pre-wrap; }
         <translation>应用程序已耗尽内存. </translation>
     </message>
     <message>
-        <source>winnt</source>
-        <translation type="vanished">获胜者</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="586"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
@@ -19466,10 +19160,6 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <source>linux</source>
-        <translation type="vanished">linux</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="590"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
@@ -19477,10 +19167,6 @@ p, li { white-space: pre-wrap; }
         <translation>在系统设置中增加虚拟内存大小或添加更多内存可能会解决此问题。
 
 </translation>
-    </message>
-    <message>
-        <source>darwin</source>
-        <translation type="vanished">darwin</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="594"/>
@@ -19945,10 +19631,6 @@ Graphics capabilities of this computer:
         <translation>复制当前颜色节点以允许编辑颜色、标量范围和大小。</translation>
     </message>
     <message>
-        <source>Color Legend</source>
-        <translation type="vanished">颜色图例</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="63"/>
         <source>Displayable node:</source>
         <translation>可显示节点：</translation>
@@ -20019,10 +19701,6 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
         <source>Delete currently selected color</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide empty Colors: </source>
-        <translation type="vanished">隐藏空颜色： </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -20387,21 +20065,9 @@ Graphics capabilities of this computer:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Input ROI is under a non-linear tansform.</source>
-        <translation type="vanished">输入ROI处于非线性变换形式下。</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="130"/>
         <source>Select or create a new input ROI.</source>
         <translation>选择或创建一个新输入 ROI 。</translation>
-    </message>
-    <message>
-        <source>Output volume is under a non-linear tansform.</source>
-        <translation type="vanished">输出数据处于非线性变换形式下。</translation>
-    </message>
-    <message>
-        <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-        <translation type="vanished">插值被禁用，输入数据处于非线性变换形式下</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="154"/>
@@ -21083,10 +20749,6 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
 <context>
     <name>qSlicerExtensionsButtonBox</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
         <source>Install this extension (requires restart).</source>
         <translation>安装此扩展（需要重新启动）。</translation>
@@ -21208,14 +20870,6 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="432"/>
         <source>Incompatible with Slicer r%1 [built for r%2]</source>
         <translation type="unfinished">与Slicer r%2不兼容 [为r%3建立] {1 ?} {2]?}</translation>
-    </message>
-    <message>
-        <source>Not found for this version of the application (r%2)</source>
-        <translation type="vanished">未发现此版本的应用程序（r%2）</translation>
-    </message>
-    <message>
-        <source>Incompatible with Slicer r%2 [built for r%3]</source>
-        <translation type="vanished">与Slicer r%2不兼容 [为r%3建立]</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="448"/>
@@ -21556,10 +21210,6 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <source>Extension %1 is incompatible</source>
         <extracomment>%1 is extension name</extracomment>
         <translation>扩展 %1 不兼容</translation>
-    </message>
-    <message>
-        <source>extensionName is not specified</source>
-        <translation type="vanished">扩展名称未指定</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3189"/>
@@ -21988,10 +21638,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLabelMapVolumeDisplayWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
         <source>Labelmap Volume Display Properties</source>
         <translation>标签映射数据显示属性</translation>
@@ -22041,10 +21687,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerLoadableModuleTemplate</source>
         <translation type="unfinished"></translation>
@@ -22087,10 +21729,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="126"/>
         <source>Mouse Interaction</source>
         <translation>鼠标交互</translation>
-    </message>
-    <message>
-        <source>Capture/Restore</source>
-        <translation type="vanished">捕获/恢复</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="137"/>
@@ -22429,10 +22067,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="398"/>
         <source>&amp;Error Log</source>
         <translation>&amp;错误日志</translation>
-    </message>
-    <message>
-        <source>Raise the error log display.</source>
-        <translation type="vanished">显示错误日志。</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="400"/>
@@ -22820,10 +22454,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="vanished">某些数据已被修改，您想要在退出前保存它们吗？</translation>
-    </message>
-    <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="612"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="707"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
@@ -22843,14 +22473,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="617"/>
         <source>Cancel exit</source>
         <translation>取消退出</translation>
-    </message>
-    <message>
-        <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation type="vanished">一些数据已被修改，您想要在关闭场景前保存它们吗？</translation>
-    </message>
-    <message>
-        <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation type="vanished">场景已被修改，您想要在关闭场景之前保存它吗？</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="706"/>
@@ -23835,10 +23457,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerModelsModule</name>
     <message>
-        <source>Plots</source>
-        <translation type="obsolete">绘图</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="47"/>
         <source>Models</source>
         <translation type="unfinished">模型</translation>
@@ -23905,14 +23523,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clip node:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clipping Planes</source>
-        <translation type="vanished">剪切板</translation>
-    </message>
-    <message>
-        <source>Clip selected model:</source>
-        <translation type="vanished">剪切所选模型：</translation>
     </message>
 </context>
 <context>
@@ -24207,37 +23817,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
         <translation type="unfinished">放置一个控制点</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerMouseModeToolBarPrivate</name>
-    <message>
-        <source>Adjust</source>
-        <translation type="vanished">鼠标调整</translation>
-    </message>
-    <message>
-        <source>Adjust window/level by click-and-drag in a slice viewer.</source>
-        <translation type="vanished">通过在切片查看器中单击并拖动来调节窗宽/窗位。</translation>
-    </message>
-    <message>
-        <source>Select region</source>
-        <translation type="vanished">选择区域</translation>
-    </message>
-    <message>
-        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation type="vanished">基于矩形区域设置窗宽窗位，通过在切片查看器中单击并拖动矩形，单击位置用作区域角点。</translation>
-    </message>
-    <message>
-        <source>Select region - centered</source>
-        <translation type="vanished">选择区域-居中</translation>
-    </message>
-    <message>
-        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation type="vanished">基于矩形区域设置窗宽窗位，通过在切片查看器中单击并拖动矩形，单击位置用作区域中心。</translation>
-    </message>
-    <message>
-        <source>Adjust window/level</source>
-        <translation type="vanished">调节窗宽/窗位</translation>
     </message>
 </context>
 <context>
@@ -24560,22 +24139,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rotation</source>
-        <translation type="vanished">旋转</translation>
-    </message>
-    <message>
-        <source>LR</source>
-        <translation type="vanished">左右</translation>
-    </message>
-    <message>
-        <source>PA</source>
-        <translation type="vanished">后前</translation>
-    </message>
-    <message>
-        <source>IS</source>
-        <translation type="vanished">下上</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="472"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
         <translation>切片方向 (水平位, 矢状位, 冠状位, 重定格式)。</translation>
@@ -24594,30 +24157,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="489"/>
         <source>Coronal</source>
         <translation>冠状位</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation type="vanished">重置</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">法线</translation>
-    </message>
-    <message>
-        <source>NormalX</source>
-        <translation type="vanished">法线X</translation>
-    </message>
-    <message>
-        <source>NormalY</source>
-        <translation type="vanished">法线Y</translation>
-    </message>
-    <message>
-        <source>NormalZ</source>
-        <translation type="vanished">法线Z</translation>
-    </message>
-    <message>
-        <source>Normal To Camera</source>
-        <translation type="vanished">法线至相机</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="616"/>
@@ -25300,11 +24839,6 @@ Please choose an empty directory.</source>
         <translation>分割模块</translation>
     </message>
     <message>
-        <source> Segmentation:</source>
-        <oldsource> Active segmentation:</oldsource>
-        <translation type="obsolete"> 活动分割：</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="122"/>
         <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
         <translation>用于设置分割几何形状的节点(原点、间隔、轴方向和默认范围)</translation>
@@ -25900,10 +25434,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
 <context>
     <name>qSlicerSequencesModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
         <translation>序列</translation>
@@ -26086,74 +25616,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="440"/>
         <source>Sequence:</source>
         <translation>序列：</translation>
-    </message>
-    <message>
-        <source>Index properties</source>
-        <translation type="vanished">索引属性</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="vanished">名称：</translation>
-    </message>
-    <message>
-        <source>time</source>
-        <translation type="vanished">时间</translation>
-    </message>
-    <message>
-        <source>Unit:</source>
-        <translation type="vanished">单位：</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <translation type="vanished">s</translation>
-    </message>
-    <message>
-        <source>Type:</source>
-        <translation type="vanished">类型：</translation>
-    </message>
-    <message>
-        <source>Data nodes</source>
-        <translation type="vanished">数据节点</translation>
-    </message>
-    <message>
-        <source>Add/remove data nodes</source>
-        <translation type="vanished">添加/删除数据节点</translation>
-    </message>
-    <message>
-        <source>Add to sequence items</source>
-        <translation type="vanished">添加至序列项目</translation>
-    </message>
-    <message>
-        <source>Index value:</source>
-        <translation type="vanished">索引值：</translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation type="vanished">0</translation>
-    </message>
-    <message>
-        <source>Index increment:</source>
-        <translation type="vanished">索引增量：</translation>
-    </message>
-    <message>
-        <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation type="vanished">如果启用，则在将所选节点添加到序列项目后，选择将移动到下一个项目</translation>
-    </message>
-    <message>
-        <source>Auto-advance</source>
-        <translation type="vanished">自动推进</translation>
-    </message>
-    <message>
-        <source>Node type:</source>
-        <translation type="vanished">节点类型：</translation>
-    </message>
-    <message>
-        <source>undefined</source>
-        <translation type="vanished">未指定</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">名称</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>
@@ -27498,10 +26960,6 @@ p, li own white-space: pre-wrap; }
 <context>
     <name>qSlicerSimpleMarkupsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Markup Control Points</source>
         <translation>标记控制点</translation>
@@ -28284,10 +27742,6 @@ Tags: %6</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>  ID:</source>
-        <translation type="vanished">  ID:</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="111"/>
         <source>Patient tags in item name:</source>
         <translation>项目名称中的患者标签：</translation>
@@ -28748,10 +28202,6 @@ Tags: %6</source>
 <context>
     <name>qSlicerSuperLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
         <translation type="unfinished"></translation>
@@ -28888,10 +28338,6 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
         <source>Title:</source>
         <translation type="unfinished">标题：</translation>
-    </message>
-    <message>
-        <source>Long name:</source>
-        <translation type="vanished">长名称：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="197"/>
@@ -29118,10 +28564,6 @@ Tags: %6</source>
 <context>
     <name>qSlicerTemplateKeyModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">形成</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
         <translation type="unfinished"></translation>
@@ -29241,14 +28683,6 @@ Tags: %6</source>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
         <translation type="unfinished">选择类型修改器...</translation>
-    </message>
-    <message>
-        <source>Select anatomic region context...</source>
-        <translation type="vanished">选择原子区域上下文...</translation>
-    </message>
-    <message>
-        <source>Anatomic region...</source>
-        <translation type="vanished">组织区域...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="416"/>
@@ -29401,11 +28835,6 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
         <translation>变换</translation>
-    </message>
-    <message>
-        <source> Transform:</source>
-        <oldsource>Active Transform:</oldsource>
-        <translation type="obsolete">活动变换:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="112"/>
@@ -29646,10 +29075,6 @@ This should only used by advanced users who understand the consequences of chang
 </context>
 <context>
     <name>qSlicerViewControllersModuleWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">表单</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>View Controllers</source>
@@ -29909,145 +29334,6 @@ This should only used by advanced users who understand the consequences of chang
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="obsolete">显示其他切片平面如何与每个切片平面相交。</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerViewersToolBarPrivate</name>
-    <message>
-        <source>No jump slices</source>
-        <translation type="vanished">无跳跃切片</translation>
-    </message>
-    <message>
-        <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation type="vanished">切片视图移动时不会重定位。</translation>
-    </message>
-    <message>
-        <source>Jump slices - offset</source>
-        <translation type="vanished">跳转切片-偏移</translation>
-    </message>
-    <message>
-        <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation type="vanished">切片视图平面将移动以匹配十字线位置(即使未显示十字线)。</translation>
-    </message>
-    <message>
-        <source>Jump slices - centered</source>
-        <translation type="vanished">跳转切片-居中</translation>
-    </message>
-    <message>
-        <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation type="vanished">切片视图以十字线位置为中心(即使未显示十字线)。</translation>
-    </message>
-    <message>
-        <source>No crosshair</source>
-        <translation type="vanished">无十字线</translation>
-    </message>
-    <message>
-        <source>No crosshair displayed.</source>
-        <translation type="vanished">无十字线显示。</translation>
-    </message>
-    <message>
-        <source>Basic crosshair</source>
-        <translation type="vanished">基本十字线</translation>
-    </message>
-    <message>
-        <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="vanished">基本十字线延伸至视场，十字线位置有一个小间隙。</translation>
-    </message>
-    <message>
-        <source>Basic + intersection</source>
-        <translation type="vanished">基本十字线 + 相交</translation>
-    </message>
-    <message>
-        <source>Basic crosshair extending across the field of view.</source>
-        <translation type="vanished">基本十字线延伸至整个视场。</translation>
-    </message>
-    <message>
-        <source>Small basic crosshair</source>
-        <translation type="vanished">小的基本十字线</translation>
-    </message>
-    <message>
-        <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="vanished">在十字线位置有小间隙的小十字线。</translation>
-    </message>
-    <message>
-        <source>Small basic + intersection</source>
-        <translation type="vanished">小基本十字线+交互</translation>
-    </message>
-    <message>
-        <source>Small crosshair.</source>
-        <translation type="vanished">小十字线。</translation>
-    </message>
-    <message>
-        <source>Fine crosshair</source>
-        <translation type="vanished">细十字线</translation>
-    </message>
-    <message>
-        <source>Fine crosshair.</source>
-        <translation type="vanished">细十字线。</translation>
-    </message>
-    <message>
-        <source>Medium crosshair</source>
-        <translation type="vanished">中十字线</translation>
-    </message>
-    <message>
-        <source>Medium crosshair.</source>
-        <translation type="vanished">中十字线。</translation>
-    </message>
-    <message>
-        <source>Thick crosshair</source>
-        <translation type="vanished">粗十字线</translation>
-    </message>
-    <message>
-        <source>Thick crosshair.</source>
-        <translation type="vanished">粗十字线。</translation>
-    </message>
-    <message>
-        <source>Slice intersections</source>
-        <translation type="vanished">切片相交</translation>
-    </message>
-    <message>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="vanished">显示其他切片平面如何与每个切片平面相交。</translation>
-    </message>
-    <message>
-        <source>Interaction</source>
-        <translation type="vanished">交互</translation>
-    </message>
-    <message>
-        <source>Show handles for slice interaction.</source>
-        <translation type="vanished">显示切片交互的控键。</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">平移</translation>
-    </message>
-    <message>
-        <source>Control visibility of translation handles for slice intersection.</source>
-        <translation type="vanished">控制切片相交的平移控制柄的可见性。</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">旋转</translation>
-    </message>
-    <message>
-        <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation type="vanished">控制切片交点旋转控制柄的可见性。</translation>
-    </message>
-    <message>
-        <source>Interaction options</source>
-        <translation type="vanished">交互选项</translation>
-    </message>
-    <message>
-        <source>Crosshair</source>
-        <translation type="vanished">十字线</translation>
-    </message>
-    <message>
-        <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation type="vanished">切换十字线可见性，按住Shift键并在视图中移动鼠标以设置十字线位置。</translation>
-    </message>
 </context>
 <context>
     <name>qSlicerVolumeRenderingModule</name>
@@ -30088,10 +29374,6 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
         <translation>容积渲染</translation>
-    </message>
-    <message>
-        <source>Volume:</source>
-        <translation type="vanished">3D显示-体数据：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="99"/>
@@ -30437,11 +29719,6 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
         <source>Volumes</source>
         <translation>体数据</translation>
-    </message>
-    <message>
-        <source> Volume: </source>
-        <oldsource>Active Volume: </oldsource>
-        <translation type="obsolete">当前数据： </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="103"/>

@@ -51,10 +51,6 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Input segmentation, volume or segment ID is invalid</source>
-        <translation type="vanished">Введена сегментація, обсяг або ідентифікатор сегмента недійсні</translation>
-    </message>
-    <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="289"/>
         <source>Processing started</source>
         <translation>Розпочато обробку</translation>
@@ -309,10 +305,6 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="622"/>
         <source>Processing curve creation completed in {duration} seconds</source>
         <translation>Створення кривої обробки завершено за {duration} с</translation>
-    </message>
-    <message>
-        <source>Call &apos;splitCenterlines()&apos; with an input centerline model first.</source>
-        <translation type="vanished">Викличте &apos;splitCenterlines()&apos;, спочатку ввівши модель центральної лінії.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
@@ -834,25 +826,9 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not cut segment. Is it visible in 3D view?</source>
-        <translation type="vanished">Не вдалося вирізати сегмент. Чи видно це в 3D-перегляді?</translation>
-    </message>
-    <message>
-        <source>Not enough points to create surface</source>
-        <translation type="vanished">Недостатньо точок для створення поверхні</translation>
-    </message>
-    <message>
-        <source>Cross section: </source>
-        <translation type="vanished">Поперечний переріз: </translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1659"/>
         <source>Maximum inscribed sphere radius is not available</source>
         <translation>Максимальний радіус вписаної сфери недоступний</translation>
-    </message>
-    <message>
-        <source>Maximum inscribed sphere: </source>
-        <translation type="vanished">Максимальна вписана сфера: </translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1797"/>
@@ -975,22 +951,6 @@ The input centerline is expected to be inside the lumen surface.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="384"/>
         <source>Tab 1</source>
         <translation>вкладка 1</translation>
-    </message>
-    <message>
-        <source>Get the number of distinct connected regions in the lumen surface.
-
-Ideally, there should be only one region. More regions may indicate the presence of holes in the lumen and/or distinct regions outside of the lumen. Holes in the lumen mean inaccurate cross-section area measurement.
-
-When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again.
-
-After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="vanished">Отримайте кількість окремих з’єднаних областей на поверхні просвіту. 
-
-В ідеалі має бути тільки один регіон. Більше областей може вказувати на наявність отворів у просвіті та/або окремих ділянок за межами просвіту. Отвори в просвіті означають неточне вимірювання площі поперечного перерізу. 
-
-Після виправлення небажаних областей, як правило, за допомогою ефекту «Paint» у «Редакторі сегментів», цю функцію можна виконати знову. 
-
-Після повного ремонту поверхні просвіту центральні лінії необхідно виділити знову, щоб оновити масиви радіусів «Максимальна вписана сфера».</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
@@ -1190,14 +1150,6 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="28"/>
         <source>Parameter set:</source>
         <translation>Набір параметрів:</translation>
-    </message>
-    <message>
-        <source>Pick a node to store the parameter set.
-
-This is intended to represent a unique combination of input centerline and surface nodes. Create a distinct parameter set for each combination.</source>
-        <translation type="vanished">Виберіть вузол для збереження набору параметрів.
-
-Це призначено для представлення унікальної комбінації вхідної центральної лінії та вузлів поверхні. Створіть окремий набір параметрів для кожної комбінації.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="710"/>
@@ -1416,10 +1368,6 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1206"/>
         <source>Stenosis:</source>
         <translation>Стеноз:</translation>
-    </message>
-    <message>
-        <source>Jump to the maximum stenosis point by CE diameter.</source>
-        <translation type="vanished">Перейдіть до максимальної точки стенозу за діаметром CE.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1305"/>
@@ -2370,14 +2318,6 @@ If a Shape::Tube node is specified below, this parameter is ignored.</source>
         <translation>Виберіть перегляд фрагмента. Використовуватиметься вузол фонового об’єму. Будьте обережні, використовуйте правильний вузол гучності.</translation>
     </message>
     <message>
-        <source>Restore slice views with the referenced volume node</source>
-        <translation type="vanished">Відновити перегляди фрагментів за допомогою вузла обсягу, на який посилається</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
-    </message>
-    <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="19"/>
         <source>Parameter set:</source>
         <translation type="unfinished">Набір параметрів:</translation>
@@ -2481,14 +2421,6 @@ If specified, the regular tube diameter above is ignored.</source>
 
 If centerlines are extracted, optionally replace the segment by its largest region if it contains more than one region.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create a segmentation and optionally a centerline model and a centerline curve.
-
-Output nodes from the last run will be removed.</source>
-        <translation type="vanished">Створіть сегментацію та, за бажанням, модель центральної лінії та криву центральної лінії.
-
-Вихідні вузли з останнього запуску буде видалено.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="500"/>
@@ -2927,14 +2859,6 @@ If centerlines are extracted, optionally replace the segment by its largest regi
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restore slice views with the referenced volume node</source>
-        <translation type="vanished">Відновити перегляди фрагментів за допомогою вузла обсягу, на який посилається</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
-    </message>
-    <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="275"/>
         <source>Slice node:</source>
         <translation>Вузол зрізу:</translation>
@@ -2999,14 +2923,6 @@ It is recommended to generate centerlines on accurate segmentations.</source>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="429"/>
         <source>Extract centerlines</source>
         <translation>Виділити осьові лінії</translation>
-    </message>
-    <message>
-        <source>Create a segmentation and optionally a centerline model and a centerline curve.
-
-Output nodes from the last run will be removed.</source>
-        <translation type="vanished">Створіть сегментацію та, за бажанням, модель центральної лінії та криву центральної лінії.
-
-Вихідні вузли з останнього запуску буде видалено.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="447"/>

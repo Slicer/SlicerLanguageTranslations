@@ -12564,14 +12564,6 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Positive</source>
-        <translation type="vanished">ধনাত্মক</translation>
-    </message>
-    <message>
-        <source>Negative</source>
-        <translation type="vanished">ঋণাত্মক</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLColorLegendDisplayNodeWidget</name>
@@ -17165,10 +17157,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="262"/>
         <source>Lock first row</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1</source>
-        <translation type="obsolete">১</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="376"/>
@@ -25409,14 +25397,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="440"/>
         <source>Sequence:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Type:</source>
-        <translation type="obsolete">ধরন:</translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation type="obsolete">৩ {0?}</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>

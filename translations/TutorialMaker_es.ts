@@ -242,14 +242,6 @@
         <source>Add Image</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>JSON Files (*.json)</source>
-        <translation type="vanished">Archivos JSON (*.json)</translation>
-    </message>
-    <message>
-        <source>Add a title here</source>
-        <translation type="vanished">Añade un título aquí</translation>
-    </message>
 </context>
 <context>
     <name>TutorialMaker</name>
@@ -304,21 +296,9 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Run and Annotate</source>
-        <translation type="vanished">Ejecutar y Anotar</translation>
-    </message>
-    <message>
-        <source>Test Translation</source>
-        <translation type="vanished">Prueba de Traducción</translation>
-    </message>
-    <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="118"/>
         <source>Create a new Tutorial</source>
         <translation>Crear un Nuevo Tutorial</translation>
-    </message>
-    <message>
-        <source>Open Annotator</source>
-        <translation type="vanished">Abrir Anotador</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
@@ -399,13 +379,6 @@
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="462"/>
         <source>Error: Load an image first.</source>
         <translation type="unfinished">Error: cargar una imagen primero.</translation>
-    </message>
-</context>
-<context>
-    <name>painter</name>
-    <message>
-        <source>Error: Load an image first.</source>
-        <translation type="vanished">Error: cargar una imagen primero.</translation>
     </message>
 </context>
 <context>

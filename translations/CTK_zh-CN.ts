@@ -619,17 +619,6 @@ Configurable behaviour for testing purposes.
     </message>
 </context>
 <context>
-    <name>QCenteredItemModel</name>
-    <message>
-        <source>Progress</source>
-        <translation type="obsolete">进展</translation>
-    </message>
-    <message>
-        <source>Patient ID</source>
-        <translation type="obsolete">患者编号</translation>
-    </message>
-</context>
-<context>
     <name>ctkActionsWidget</name>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
@@ -2763,65 +2752,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>ctkDICOMQuery</name>
-    <message>
-        <source>DB open in Query</source>
-        <translation type="vanished">在查询中打开数据库</translation>
-    </message>
-    <message>
-        <source>DB not open in Query</source>
-        <translation type="vanished">DB在查询中没有打开</translation>
-    </message>
-    <message>
-        <source>Setting Transfer Syntaxes</source>
-        <translation type="vanished">设置传输语法</translation>
-    </message>
-    <message>
-        <source>Error initializing the network</source>
-        <translation type="vanished">初始化网络时出错</translation>
-    </message>
-    <message>
-        <source>Negotiating Association</source>
-        <translation type="vanished">谈判协会</translation>
-    </message>
-    <message>
-        <source>Error negotiating the association</source>
-        <translation type="vanished">谈判协会的错误</translation>
-    </message>
-    <message>
-        <source>Failed to find acceptable presentation context</source>
-        <translation type="vanished">未能找到可接受的介绍背景</translation>
-    </message>
-    <message>
-        <source>Found useful presentation context</source>
-        <translation type="vanished">发现有用的演示背景</translation>
-    </message>
-    <message>
-        <source>Find failed</source>
-        <translation type="vanished">查找失败</translation>
-    </message>
-    <message>
-        <source>Find succeeded</source>
-        <translation type="vanished">查找成功</translation>
-    </message>
-    <message>
-        <source>Processing Study: </source>
-        <translation type="vanished">加工研究： </translation>
-    </message>
-    <message>
-        <source>Starting Series C-FIND for Study: </source>
-        <translation type="vanished">开始C-FIND系列研究： </translation>
-    </message>
-    <message>
-        <source>Find succeeded on Series level for Study: </source>
-        <translation type="vanished">在系列级别上查找研究成功： </translation>
-    </message>
-    <message>
-        <source>Find on Series level failed for Study: </source>
-        <translation type="vanished">在系列级别上查找研究失败： </translation>
-    </message>
-</context>
-<context>
     <name>ctkDICOMQueryRetrieveWidget</name>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="20"/>
@@ -2966,30 +2896,6 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="204"/>
         <source>Got CGET response</source>
         <translation>得到CGET的答复</translation>
-    </message>
-    <message>
-        <source>Sending Get Request</source>
-        <translation type="vanished">发送获取请求</translation>
-    </message>
-    <message>
-        <source>Found Presentation Context</source>
-        <translation type="vanished">发现演示文稿的背景</translation>
-    </message>
-    <message>
-        <source>Sent Get Request</source>
-        <translation type="vanished">已发送获取请求</translation>
-    </message>
-    <message>
-        <source>No Responses from Server!</source>
-        <translation type="vanished">没有来自服务器的回应!</translation>
-    </message>
-    <message>
-        <source>Got Responses</source>
-        <translation type="vanished">得到回应</translation>
-    </message>
-    <message>
-        <source>Finished Get</source>
-        <translation type="vanished">完成获取</translation>
     </message>
 </context>
 <context>

@@ -51,10 +51,6 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Input segmentation, volume or segment ID is invalid</source>
-        <translation type="vanished">La segmentación, el volumen o el identificador de los segmentos introducidos no son válidos</translation>
-    </message>
-    <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="289"/>
         <source>Processing started</source>
         <translation>Se ha comenzado el proceso</translation>
@@ -309,10 +305,6 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="622"/>
         <source>Processing curve creation completed in {duration} seconds</source>
         <translation>Creación de curva de procesamiento completada en {duración} segundos</translation>
-    </message>
-    <message>
-        <source>Call &apos;splitCenterlines()&apos; with an input centerline model first.</source>
-        <translation type="vanished">Abra &quot;dividir ejes centrales&quot; primero con un input al modelo del eje central.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
@@ -805,10 +797,6 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Updating table :</source>
-        <translation type="vanished">Actualización de la tabla :</translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1330"/>
         <source>Processing completed in {duration} seconds - {countOfPoints} points</source>
         <translation>Procesamiento completado en {duration} segundos - {cuenta puntos} puntos</translation>
@@ -838,25 +826,9 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <translation>El nodo de superficie del lumen no está configurado.</translation>
     </message>
     <message>
-        <source>Could not cut segment. Is it visible in 3D view?</source>
-        <translation type="vanished">No se puede cortar el segmento. ¿Es visible en la vista 3D?</translation>
-    </message>
-    <message>
-        <source>Not enough points to create surface</source>
-        <translation type="vanished">No hay suficientes puntos para crear una superficie</translation>
-    </message>
-    <message>
-        <source>Cross section: </source>
-        <translation type="vanished">Sección transversal: </translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1659"/>
         <source>Maximum inscribed sphere radius is not available</source>
         <translation>El radio máximo de la esfera inscrita no está disponible</translation>
-    </message>
-    <message>
-        <source>Maximum inscribed sphere: </source>
-        <translation type="vanished">Máxima esfera inscrita: </translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1797"/>
@@ -979,22 +951,6 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="384"/>
         <source>Tab 1</source>
         <translation>Pestaña 1</translation>
-    </message>
-    <message>
-        <source>Get the number of distinct connected regions in the lumen surface.
-
-Ideally, there should be only one region. More regions may indicate the presence of holes in the lumen and/or distinct regions outside of the lumen. Holes in the lumen mean inaccurate cross-section area measurement.
-
-When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again.
-
-After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="vanished">Obtenga el número de regiones conectadas distintas en la superficie del lumen.
-
-Lo ideal es que sólo haya una región. Más regiones pueden indicar la presencia de agujeros en el lumen y/o regiones distintas fuera del lumen. Los agujeros en el lumen significan una medición inexacta del área de la sección transversal.
-
-Cuando se hayan reparado las regiones no deseadas, normalmente utilizando el efecto «Pintar» del «Editor de segmentos», esta función podrá ejecutarse de nuevo.
-
-Tras una reparación completa de la superficie del lumen, deben extraerse de nuevo las líneas centrales para que se actualicen las matrices de radios de la «Esfera inscrita máxima».</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
@@ -1196,14 +1152,6 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
         <translation>Conjunto de parámetros:</translation>
     </message>
     <message>
-        <source>Pick a node to store the parameter set.
-
-This is intended to represent a unique combination of input centerline and surface nodes. Create a distinct parameter set for each combination.</source>
-        <translation type="vanished">Elija un nodo para almacenar el conjunto de parámetros.
-
-Se pretende que represente una combinación única de nodos de entrada de línea central y superficie. Cree un conjunto de parámetros distinto para cada combinación.</translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="710"/>
         <source>Rotation angle for longitudinal slice view</source>
         <translation>Ángulo de rotación para la vista del corte longitudinal</translation>
@@ -1369,18 +1317,6 @@ Se refiere al reformateo ortogonal en la navegación del eje.</translation>
         <translation>Área de la sección transversal:</translation>
     </message>
     <message>
-        <source>Circular equivalent (CE) diameter: that of a circle having the  surface area of the cross-section.
-
-The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
-
-Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation type="vanished">Diámetro equivalente circular (CE): el de un círculo que tiene la superficie de la sección transversal.
-
-También se proporciona la diferencia absoluta y porcentual con el diámetro máximo de la esfera inscrita (MIS).
-
-Atención: los valores en las bifurcaciones pueden no tener significado clínico.</translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1118"/>
         <source>Diameter (CE):</source>
         <translation>Diámetro (CE):</translation>
@@ -1432,10 +1368,6 @@ Atención: los valores en las bifurcaciones pueden no tener significado clínico
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1206"/>
         <source>Stenosis:</source>
         <translation>Estenosis:</translation>
-    </message>
-    <message>
-        <source>Jump to the maximum stenosis point by CE diameter.</source>
-        <translation type="vanished">Saltar al punto de estenosis máxima por diámetro CE.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1305"/>
@@ -2200,10 +2132,6 @@ The tortuosity of the tube and the diameter distribution determine this paramete
         <source>Apply</source>
         <translation>Aplicar</translation>
     </message>
-    <message>
-        <source>vtkMRMLModelNode</source>
-        <translation type="vanished">vtkMRMLModelNode</translation>
-    </message>
 </context>
 <context>
     <name>GuidedArterySegmentation</name>
@@ -2316,10 +2244,6 @@ y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la subvención 3
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flood filling : {duration} seconds - </source>
-        <translation type="obsolete">Enriquecimiento por saturación : {duración} segundos - </translation>
-    </message>
-    <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="607"/>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="695"/>
         <source>Processing completed in {duration} seconds</source>
@@ -2387,14 +2311,6 @@ Si a continuación se especifica un nodo Forma::Tubo, este parámetro se ignora.
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="229"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
         <translation>Elija una vista de corte. Se utilizará el nodo de volumen de fondo. Tenga cuidado de utilizar el nodo de volumen correcto.</translation>
-    </message>
-    <message>
-        <source>Restore slice views with the referenced volume node</source>
-        <translation type="vanished">Restaurar vistas de corte con el nodo de volumen referenciado</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="19"/>
@@ -2499,14 +2415,6 @@ Si se especifica, se ignora el diámetro regular del tubo anterior.</translation
 
 If centerlines are extracted, optionally replace the segment by its largest region if it contains more than one region.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create a segmentation and optionally a centerline model and a centerline curve.
-
-Output nodes from the last run will be removed.</source>
-        <translation type="vanished">Cree una segmentación y, opcionalmente, un modelo de línea central y una curva de línea central.
-
-Se eliminarán los nodos de salida de la última ejecución.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="500"/>
@@ -2939,14 +2847,6 @@ If centerlines are extracted, optionally replace the segment by its largest regi
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restore slice views with the referenced volume node</source>
-        <translation type="vanished">Restaurar vistas de corte con el nodo de volumen referenciado</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
-    </message>
-    <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="275"/>
         <source>Slice node:</source>
         <translation>Nodo del corte:</translation>
@@ -3011,14 +2911,6 @@ Se recomienda generar líneas centrales en segmentaciones precisas.</translation
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="429"/>
         <source>Extract centerlines</source>
         <translation>Extraer líneas centrales</translation>
-    </message>
-    <message>
-        <source>Create a segmentation and optionally a centerline model and a centerline curve.
-
-Output nodes from the last run will be removed.</source>
-        <translation type="vanished">Cree una segmentación y, opcionalmente, un modelo de línea central y una curva de línea central.
-
-Se eliminarán los nodos de salida de la última ejecución.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="447"/>
@@ -3408,10 +3300,6 @@ Haga clic con el botón derecho del ratón para obtener más información.</tran
 <context>
     <name>qSlicerBranchClipperModuleWidget</name>
     <message>
-        <source>Parameters</source>
-        <translation type="vanished">Parámetros</translation>
-    </message>
-    <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="29"/>
         <source>Centerline model:</source>
         <translation>Modelo del eje central:</translation>
@@ -3420,16 +3308,6 @@ Haga clic con el botón derecho del ratón para obtener más información.</tran
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="36"/>
         <source>Pick the input centerline model.</source>
         <translation>Elija el modelo de línea central de entrada.</translation>
-    </message>
-    <message>
-        <source>Segmentation:</source>
-        <translation type="obsolete">Segmentación:</translation>
-    </message>
-    <message>
-        <source>Input segmentation.
-The input centerline is expected to be inside the lumen surface.</source>
-        <translation type="vanished">Segmentación de entrada.
-Se espera que la línea central de entrada esté dentro de la superficie del lumen.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
@@ -3486,10 +3364,6 @@ Se espera que la línea central de entrada esté dentro de la superficie del lum
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="112"/>
         <source>No centerline selected.</source>
         <translation>No hay línea central seleccionada.</translation>
-    </message>
-    <message>
-        <source>No segmentation selected.</source>
-        <translation type="vanished">No se ha seleccionado ninguna segmentación.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="122"/>

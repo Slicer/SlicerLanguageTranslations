@@ -51,10 +51,6 @@ e Steve Pieper, Isomics, Inc., com financiamento parcial do subsídio NIH 3P41RR
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Input segmentation, volume or segment ID is invalid</source>
-        <translation type="vanished">A segmentação de entrada, o volume ou a ID do segmento são inválidos</translation>
-    </message>
-    <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="289"/>
         <source>Processing started</source>
         <translation>Processamento iniciado</translation>
@@ -309,10 +305,6 @@ e Steve Pieper, Isomics, Inc. e foi parcialmente financiado pelo subsídio 3P41R
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="622"/>
         <source>Processing curve creation completed in {duration} seconds</source>
         <translation>Criação da curva de processamento concluída em {duration} segundos</translation>
-    </message>
-    <message>
-        <source>Call &apos;splitCenterlines()&apos; with an input centerline model first.</source>
-        <translation type="vanished">Chame “splitCenterlines()” com um modelo de linha central de entrada primeiro.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
@@ -834,25 +826,9 @@ e Steve Pieper, da Isomics, Inc. e foi parcialmente financiado pela bolsa NIH 3P
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not cut segment. Is it visible in 3D view?</source>
-        <translation type="vanished">Não foi possível cortar o segmento. Ele está visível na visualização 3D?</translation>
-    </message>
-    <message>
-        <source>Not enough points to create surface</source>
-        <translation type="vanished">Não há pontos suficientes para criar uma superfície</translation>
-    </message>
-    <message>
-        <source>Cross section: </source>
-        <translation type="vanished">Secção transversal: </translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1659"/>
         <source>Maximum inscribed sphere radius is not available</source>
         <translation>O raio máximo da esfera inscrita não está disponível</translation>
-    </message>
-    <message>
-        <source>Maximum inscribed sphere: </source>
-        <translation type="vanished">Esfera máxima inscrita: </translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1797"/>
@@ -975,22 +951,6 @@ Espera-se que a linha central de entrada esteja dentro da superfície do lúmen.
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="384"/>
         <source>Tab 1</source>
         <translation>Guia 1</translation>
-    </message>
-    <message>
-        <source>Get the number of distinct connected regions in the lumen surface.
-
-Ideally, there should be only one region. More regions may indicate the presence of holes in the lumen and/or distinct regions outside of the lumen. Holes in the lumen mean inaccurate cross-section area measurement.
-
-When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again.
-
-After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="vanished">Obtenha o número de regiões conectadas distintas na superfície do lúmen.
-
-O ideal é que haja apenas uma região. Mais regiões podem indicar a presença de orifícios no lúmen e/ou regiões distintas fora do lúmen. Os furos no lúmen significam uma medição imprecisa da área da secção transversal.
-
-Quando as regiões indesejadas tiverem sido corrigidas, normalmente usando o efeito “Pintar” do “Editor de segmentos”, esta função poderá ser executada novamente.
-
-Após um reparo completo da superfície do lúmen, as linhas centrais devem ser extraídas novamente para que as matrizes de raio da “Esfera máxima inscrita” sejam atualizadas.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
@@ -1190,14 +1150,6 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="28"/>
         <source>Parameter set:</source>
         <translation>Conjunto de parâmetros:</translation>
-    </message>
-    <message>
-        <source>Pick a node to store the parameter set.
-
-This is intended to represent a unique combination of input centerline and surface nodes. Create a distinct parameter set for each combination.</source>
-        <translation type="vanished">Escolha um nó para armazenar o conjunto de parâmetros.
-
-Isto tem como objetivo representar uma combinação única de nós de linha central e superfície de entrada. Crie um conjunto de parâmetros distinto para cada combinação.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="710"/>
@@ -1416,10 +1368,6 @@ Cuidado: os valores nas bifurcações podem não ter significado clínico.</tran
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1206"/>
         <source>Stenosis:</source>
         <translation>Estenose:</translation>
-    </message>
-    <message>
-        <source>Jump to the maximum stenosis point by CE diameter.</source>
-        <translation type="vanished">Ir para o ponto de estenose máxima por diâmetro CE.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1305"/>
@@ -2367,14 +2315,6 @@ Se um nó Forma::Tubo for especificado abaixo, este parâmetro será ignorado.</
         <translation>Escolha uma visualização de fatia. O nó de volume de fundo será usado. Tenha cuidado para usar o nó de volume correto.</translation>
     </message>
     <message>
-        <source>Restore slice views with the referenced volume node</source>
-        <translation type="vanished">Restaurar visualizações de fatias com o nó de volume referenciado</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
-    </message>
-    <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="19"/>
         <source>Parameter set:</source>
         <translation type="unfinished">Conjunto de parâmetros:</translation>
@@ -2478,14 +2418,6 @@ Se especificado, o diâmetro regular do tubo acima será ignorado.</translation>
 
 If centerlines are extracted, optionally replace the segment by its largest region if it contains more than one region.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create a segmentation and optionally a centerline model and a centerline curve.
-
-Output nodes from the last run will be removed.</source>
-        <translation type="vanished">Crie uma segmentação e, opcionalmente, um modelo de linha central e uma curva de linha central.
-
-Os nós de saída da última execução serão removidos.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="500"/>
@@ -2924,14 +2856,6 @@ If centerlines are extracted, optionally replace the segment by its largest regi
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restore slice views with the referenced volume node</source>
-        <translation type="vanished">Restaurar visualizações de fatias com o nó de volume referenciado</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
-    </message>
-    <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="275"/>
         <source>Slice node:</source>
         <translation>Nó de fatia:</translation>
@@ -2996,14 +2920,6 @@ Recomenda-se gerar linhas centrais em segmentações precisas.</translation>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="429"/>
         <source>Extract centerlines</source>
         <translation>Extrair linhas centrais</translation>
-    </message>
-    <message>
-        <source>Create a segmentation and optionally a centerline model and a centerline curve.
-
-Output nodes from the last run will be removed.</source>
-        <translation type="vanished">Crie uma segmentação e, opcionalmente, um modelo de linha central e uma curva de linha central.
-
-Os nós de saída da última execução serão removidos.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="447"/>

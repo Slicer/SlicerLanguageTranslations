@@ -74,21 +74,9 @@
         <translation>두 이미지의 형상(원점, 간격, 축 방향 또는 범위) 이 다를 경우 사용되는 다항식 보간 순서: 0 = 최근접 보간, 1 = 선형 보간, 2 = 2차 보간, 3 = 3차 보간.</translation>
     </message>
     <message>
-        <source>Controls</source>
-        <translation type="vanished">제어</translation>
-    </message>
-    <message>
-        <source>Control how the module operates</source>
-        <translation type="vanished">모듈 작동 방식 제어</translation>
-    </message>
-    <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
         <translation>보간 순서</translation>
-    </message>
-    <message>
-        <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="vanished">두 이미지가 서로 다른 좌표 프레임에 있거나 샘플링이 다른 경우 보간 순서입니다.</translation>
     </message>
 </context>
 <context>
@@ -12609,66 +12597,6 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
         <translation>슬라이스 평면에 의해 정의된 양수 및/또는 음수 공간의 교차를 사용하여 모델을 자릅니다.</translation>
     </message>
-    <message>
-        <source>Red Slice Clipping:</source>
-        <translation type="vanished">빨간색 슬라이스 클리핑:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">빨간색 슬라이스 평면으로 정의된 양수 또는 음수 공간을 사용하여 모델을 자릅니다. 양의 면은 상위를 향하고 음의 면은 열등한 쪽으로 향합니다. 선택한 공간에 모델의 일부를 유지하고 나머지는 잘라냅니다.</translation>
-    </message>
-    <message>
-        <source>Positive</source>
-        <translation type="vanished">양</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-        <translation type="vanished">빨간색 슬라이스 평면으로 정의된 상위 (머리)를 향해 양의 공간 내부에 있는 모델 부분을 유지합니다.</translation>
-    </message>
-    <message>
-        <source>Negative</source>
-        <translation type="vanished">음</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-        <translation type="vanished">빨간색 슬라이스 평면에 의해 정의된 열등 (피트)을 향해 음의 공간 내부에 있는 모델 부분을 유지합니다.</translation>
-    </message>
-    <message>
-        <source>Yellow Slice Clipping:</source>
-        <translation type="vanished">노란색 슬라이스 클리핑:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">노란색 슬라이스 평면으로 정의된 양 또는 음의 공간을 사용하여 모델을 자릅니다. 양의 면이 오른쪽, 음의 면이 왼쪽입니다. 선택한 공간에 모델의 일부를 유지하고 나머지는 잘라냅니다.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</source>
-        <translation type="vanished">노란색 슬라이스 평면으로 정의된 오른쪽을 향한 양의 공간 내부의 모델 부분을 유지합니다.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</source>
-        <translation type="vanished">노란색 슬라이스 평면 으로 정의된 왼쪽을 향해 음의 공간 내부에 있는 모델 부분을 유지합니다.</translation>
-    </message>
-    <message>
-        <source>Green Slice Clipping:</source>
-        <translation type="vanished">녹색 슬라이스 클리핑:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">녹색 슬라이스 평면으로 정의된 양 또는 음의 공간을 사용하여 모델을 자릅니다. 양의 면은 앞쪽을 향하고 음의 면은 뒤쪽을 향합니다. 선택한 공간에 모델의 일부를 유지하고 나머지는 잘라냅니다.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-        <translation type="vanished">녹색 슬라이스 평면에 의해 정의된 전방 (앞쪽)을 향해 양의 공간 내부에 있는 모델의 부분을 유지합니다.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-        <translation type="vanished">음의 공간 내부에 있는 모델 부분을 녹색 슬라이스 평면에 의해 정의된 후방 (뒤쪽)을 향하도록 유지합니다.</translation>
-    </message>
-    <message>
-        <source>Keep only whole cells when clipping</source>
-        <translation type="vanished">클리핑할 때 전체 셀만 유지</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLColorLegendDisplayNodeWidget</name>
@@ -12989,10 +12917,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsAngleMeasurementsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
         <translation type="unfinished"></translation>
@@ -13040,10 +12964,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsCurveSettingsWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
@@ -13497,10 +13417,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsInteractionHandleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
         <source>Interaction Handles</source>
         <translation type="unfinished"></translation>
@@ -13563,10 +13479,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsPlaneWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
         <source>Plane Properties</source>
@@ -13656,10 +13568,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
         <source>ROI Settings</source>
@@ -13704,10 +13612,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsTestLineOptionsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
         <source>Test Line Options</source>
         <translation type="unfinished"></translation>
@@ -13715,10 +13619,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsTestLineWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
         <source>Test Line Properties</source>
@@ -14095,10 +13995,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>qMRML노드속성표보기</translation>
     </message>
     <message>
-        <source>No node selected</source>
-        <translation type="vanished">선택한 노드가 없음</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="69"/>
         <source>Attribute Name</source>
         <translation>속성 이름</translation>
@@ -14117,14 +14013,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
         <source>Attribute value</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No node is selected</source>
-        <translation type="vanished">선택한 노드가 없음</translation>
-    </message>
-    <message>
-        <source>Selected node has no attributes</source>
-        <translation type="vanished">선택한 노드에 속성이 없음</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="196"/>
@@ -14169,14 +14057,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <source>Properties</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Node information</source>
-        <translation type="vanished">노드 정보</translation>
-    </message>
-    <message>
-        <source>No node information is available.</source>
-        <translation type="vanished">사용 가능한 노드 정보가 없습니다.</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLNodeComboBox</name>
@@ -14214,14 +14094,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create new </source>
-        <translation type="vanished">새로 만들기 </translation>
-    </message>
-    <message>
-        <source> as...</source>
-        <translation type="vanished"> 같이...</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="329"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="475"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1074"/>
@@ -14238,10 +14110,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLPlotChartPropertiesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
@@ -14377,10 +14245,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLPlotSeriesPropertiesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
@@ -14672,10 +14536,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>ROI Properties</source>
         <translation type="unfinished"></translation>
@@ -14802,10 +14662,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
 </context>
 <context>
     <name>qMRMLSceneFactoryWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
@@ -15025,10 +14881,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
         <source>Segments Table</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="294"/>
@@ -15800,24 +15652,6 @@ Do you wish to proceed with changing source representation?</source>
         <source>Advanced segmentation conversion</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Confirm master representation change</source>
-        <translation type="vanished">마스터 표현 변경 확인</translation>
-    </message>
-    <message>
-        <source>Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
-This may mean losing important data that cannot be created again from the new master representation.
-
-(Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
-
-Do you wish to proceed with changing master representation?</source>
-        <translation type="vanished">마스터 표현을 변경하면 &apos;gold standard&apos; 표현이 선택된 것으로 만들어지고 다른 모든 표현이 삭제됩니다.
-이는 새로운 마스터 표현에서 다시 생성할 수 없는 중요한 데이터가 손실된다는 것을 의미할 수 있습니다.
-
-(주의: 마스터 표현은 디스크에 저장되고 다른 표현을 생성할 때 입력으로 사용되는 데이터 유형)
-
-마스터 표현 변경을 계속하겠습니까?</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLSegmentationShow3DButton</name>
@@ -16273,10 +16107,6 @@ Do you wish to proceed with changing master representation?</source>
 </context>
 <context>
     <name>qMRMLSettingsUnitWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Unit Settings</source>
@@ -16783,34 +16613,6 @@ Do you wish to proceed with changing master representation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>S: </source>
-        <translation type="vanished">S: </translation>
-    </message>
-    <message>
-        <source>I &lt;-----&gt; S</source>
-        <translation type="vanished">I &amp;lt;-----&amp;gt; S</translation>
-    </message>
-    <message>
-        <source>R: </source>
-        <translation type="vanished">R: </translation>
-    </message>
-    <message>
-        <source>L &lt;-----&gt; R</source>
-        <translation type="vanished">L &amp;lt;-----&amp;gt; R</translation>
-    </message>
-    <message>
-        <source>A: </source>
-        <translation type="vanished">A: </translation>
-    </message>
-    <message>
-        <source>P &lt;-----&gt; A</source>
-        <translation type="vanished">P &amp;lt;-----&amp;gt; A</translation>
-    </message>
-    <message>
-        <source>Oblique</source>
-        <translation type="vanished">대각선</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="409"/>
         <source>Slice distance from RAS origin</source>
         <translation>RAS 원점에서 슬라이스 거리</translation>
@@ -16946,10 +16748,6 @@ Do you wish to proceed with changing master representation?</source>
 </context>
 <context>
     <name>qMRMLSliceInformationWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Slice Information</source>
@@ -17255,39 +17053,6 @@ Do you wish to proceed with changing master representation?</source>
         <translation type="unfinished">노드</translation>
     </message>
     <message>
-        <source>Interaction</source>
-        <oldsource>Interaction in 3D view</oldsource>
-        <translation type="obsolete">상호 작용</translation>
-    </message>
-    <message>
-        <source>Allow interactively modify the transform in 3D views</source>
-        <translation type="obsolete">3D 보기에서 변환을 쌍방향으로 수정할 수 있음</translation>
-    </message>
-    <message>
-        <source>Edit properties of the current transform</source>
-        <translation type="obsolete">현재 변환의 속성 편집</translation>
-    </message>
-    <message>
-        <source>Harden transform</source>
-        <translation type="obsolete">강화 변환</translation>
-    </message>
-    <message>
-        <source>Harden current transform on this node and all children nodes</source>
-        <translation type="obsolete">이 노드와 모든 자식 노드에서 현재 변환을 강화</translation>
-    </message>
-    <message>
-        <source>Create and apply new transform</source>
-        <translation type="obsolete">새로운 변환 생성 및 적용</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="obsolete">없음</translation>
-    </message>
-    <message>
-        <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="obsolete">이 분기의 모든 노드에서 상위 변환을 제거</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
         <source>Expand tree to level...</source>
         <translation type="unfinished"></translation>
@@ -17435,10 +17200,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation>첫 번째 행 잠금</translation>
     </message>
     <message>
-        <source>1</source>
-        <translation type="vanished">1</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="376"/>
         <source>Click to unlock this table so that values can be modified</source>
         <translation type="unfinished"></translation>
@@ -17450,26 +17211,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     </message>
 </context>
 <context>
-    <name>qMRMLTableViewControllerWidgetPrivate</name>
-    <message>
-        <source>Copy</source>
-        <translation type="vanished">복사</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation type="vanished">붙여넣기</translation>
-    </message>
-    <message>
-        <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="vanished">표의 열에 대한 사용자 선택을 기반으로 쌍방형 플롯을 생성합니다.</translation>
-    </message>
-</context>
-<context>
     <name>qMRMLTextWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Text Properties</source>
@@ -17528,10 +17270,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="159"/>
         <source>Zoom in on the scene by a small amount.</source>
         <translation>장면을 약간 확대합니다.</translation>
-    </message>
-    <message>
-        <source>Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</source>
-        <translation type="vanished">스테레오 보기 옵션 중에서 선택합니다 (이 기능을 사용하려면 스테레오가 활성화된 상태에서 3DSlicer를 시작해야 함).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
@@ -17898,10 +17636,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
 <context>
     <name>qMRMLThreeDViewInformationWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>3D View Information</source>
         <translation type="unfinished"></translation>
@@ -17972,14 +17706,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1346"/>
         <source>Show/Hide the transform widget in the 3D view.</source>
         <translation>3D 보기에서 변환 위젯을 표시하거나 숨깁니다.</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;변환 위젯의 경계를 업데이트합니다.&lt;/p&gt;&lt;p&gt;변환은 그 아래에 있는 모든 노드의 경계 상자 (있는 경우)와 일치하도록 경계를 업데이트합니다.&lt;/p&gt;&lt;p&gt;그렇지 않으면 위젯의 크기가 기본 상호 작용 크기로 자동 조정됩니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Update bounds</source>
-        <translation type="vanished">경계 업데이트</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1380"/>
@@ -18722,10 +18448,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qMRMLVolumeThresholdWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
         <source>Volume Thresholding</source>
         <translation type="unfinished"></translation>
@@ -19299,10 +19021,6 @@ p, li { white-space: pre-wrap; }
         <translation>응용 프로그램의 메모리가 부족합니다. </translation>
     </message>
     <message>
-        <source>winnt</source>
-        <translation type="vanished">winnt</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="586"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
@@ -19312,10 +19030,6 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <source>linux</source>
-        <translation type="vanished">리눅스</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="590"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
@@ -19323,10 +19037,6 @@ p, li { white-space: pre-wrap; }
         <translation>시스템 설정에서 스왑 크기를 늘리거나 램을 추가하면 이 문제가 해결될 수 있습니다.
 
 </translation>
-    </message>
-    <message>
-        <source>darwin</source>
-        <translation type="vanished">darwin</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="594"/>
@@ -19788,10 +19498,6 @@ Graphics capabilities of this computer:
         <translation>색상, 스칼라 범위, 크기를 편집할 수 있도록 현재 색상 노드를 복제합니다.</translation>
     </message>
     <message>
-        <source>Color Legend</source>
-        <translation type="vanished">색상 범례</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="63"/>
         <source>Displayable node:</source>
         <translation>표시 가능한 노드:</translation>
@@ -19862,10 +19568,6 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
         <source>Delete currently selected color</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide empty Colors: </source>
-        <translation type="vanished">빈 색상 숨기기: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -20230,21 +19932,9 @@ Graphics capabilities of this computer:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Input ROI is under a non-linear tansform.</source>
-        <translation type="vanished">입력 ROI는 비선형 변환 상태입니다.</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="130"/>
         <source>Select or create a new input ROI.</source>
         <translation>새로운 입력 ROI를 선택하거나 생성합니다.</translation>
-    </message>
-    <message>
-        <source>Output volume is under a non-linear tansform.</source>
-        <translation type="vanished">출력 볼륨이 비선형 변환 상태입니다.</translation>
-    </message>
-    <message>
-        <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-        <translation type="vanished">보간이 비활성화되고 입력 볼륨이 비선형 변환 상태</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="154"/>
@@ -20926,10 +20616,6 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
 <context>
     <name>qSlicerExtensionsButtonBox</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
         <source>Install this extension (requires restart).</source>
         <translation type="unfinished"></translation>
@@ -21393,10 +21079,6 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>extensionName is not specified</source>
-        <translation type="vanished">extensionName이 지정되지 않았음</translation>
-    </message>
-    <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3189"/>
         <source>Corrupted %1 extension package</source>
         <extracomment>%1 is extension name</extracomment>
@@ -21823,10 +21505,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLabelMapVolumeDisplayWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
         <source>Labelmap Volume Display Properties</source>
         <translation type="unfinished"></translation>
@@ -21876,10 +21554,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerLoadableModuleTemplate</source>
         <translation type="unfinished"></translation>
@@ -21922,10 +21596,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="126"/>
         <source>Mouse Interaction</source>
         <translation>마우스 상호 작용</translation>
-    </message>
-    <message>
-        <source>Capture/Restore</source>
-        <translation type="vanished">캡처/복원</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="137"/>
@@ -22264,10 +21934,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="398"/>
         <source>&amp;Error Log</source>
         <translation>오류 로그(&amp;amp;E)</translation>
-    </message>
-    <message>
-        <source>Raise the error log display.</source>
-        <translation type="vanished">오류 로그 표시를 올립니다.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="400"/>
@@ -22655,10 +22321,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="vanished">일부 데이터가 수정되었습니다. 종료하기 전에 저장하겠습니까?</translation>
-    </message>
-    <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="612"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="707"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
@@ -22678,14 +22340,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="617"/>
         <source>Cancel exit</source>
         <translation>종료 취소</translation>
-    </message>
-    <message>
-        <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation type="vanished">일부 데이터가 수정되었습니다. 장면을 닫기 전에 저장하겠습니까?</translation>
-    </message>
-    <message>
-        <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation type="vanished">장면이 수정되었습니다. 장면을 닫기 전에 저장하겠습니까?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="706"/>
@@ -23670,10 +23324,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerModelsModule</name>
     <message>
-        <source>Plots</source>
-        <translation type="obsolete">플롯</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="47"/>
         <source>Models</source>
         <translation type="unfinished">모델</translation>
@@ -23740,14 +23390,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clip node:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clipping Planes</source>
-        <translation type="vanished">절단면</translation>
-    </message>
-    <message>
-        <source>Clip selected model:</source>
-        <translation type="vanished">선택한 모델 자르기:</translation>
     </message>
 </context>
 <context>
@@ -24042,37 +23684,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
         <translation type="unfinished">제어점 배치</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerMouseModeToolBarPrivate</name>
-    <message>
-        <source>Adjust</source>
-        <translation type="vanished">조정</translation>
-    </message>
-    <message>
-        <source>Adjust window/level by click-and-drag in a slice viewer.</source>
-        <translation type="vanished">슬라이스 뷰어에서 클릭 앤 드래그로 창/수준을 조정합니다.</translation>
-    </message>
-    <message>
-        <source>Select region</source>
-        <translation type="vanished">지역 선택</translation>
-    </message>
-    <message>
-        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation type="vanished">슬라이스 뷰어에서 클릭 앤 드래그로 지정된 직사각형 영역을 기반으로 창 수준을 설정합니다. 클릭 위치는 영역 모서리로 사용됩니다.</translation>
-    </message>
-    <message>
-        <source>Select region - centered</source>
-        <translation type="vanished">지역 선택 - 중앙</translation>
-    </message>
-    <message>
-        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation type="vanished">슬라이스 뷰어에서 클릭 앤 드래그로 지정된 직사각형 영역을 기반으로 창 수준을 설정합니다. 클릭 위치는 영역 중심으로 사용됩니다.</translation>
-    </message>
-    <message>
-        <source>Adjust window/level</source>
-        <translation type="vanished">창/수준 조정</translation>
     </message>
 </context>
 <context>
@@ -24395,22 +24006,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rotation</source>
-        <translation type="vanished">회전</translation>
-    </message>
-    <message>
-        <source>LR</source>
-        <translation type="vanished">LR</translation>
-    </message>
-    <message>
-        <source>PA</source>
-        <translation type="vanished">PA</translation>
-    </message>
-    <message>
-        <source>IS</source>
-        <translation type="vanished">IS</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="472"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
         <translation>슬라이스 방향 (축, 시상, 관상, 재포맷).</translation>
@@ -24429,30 +24024,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="489"/>
         <source>Coronal</source>
         <translation>관상</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation type="vanished">사전 설정</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">법선</translation>
-    </message>
-    <message>
-        <source>NormalX</source>
-        <translation type="vanished">법선X</translation>
-    </message>
-    <message>
-        <source>NormalY</source>
-        <translation type="vanished">법선Y</translation>
-    </message>
-    <message>
-        <source>NormalZ</source>
-        <translation type="vanished">법선Z</translation>
-    </message>
-    <message>
-        <source>Normal To Camera</source>
-        <translation type="vanished">카메라의 법선</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="616"/>
@@ -25135,11 +24706,6 @@ Please choose an empty directory.</source>
         <translation>분할</translation>
     </message>
     <message>
-        <source> Segmentation:</source>
-        <oldsource> Active segmentation:</oldsource>
-        <translation type="obsolete"> 활성 분할:</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="122"/>
         <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
         <translation>분할 지오메트리 설정에 사용된 노드 (원점, 간격, 축 방향, 기본 범위)</translation>
@@ -25735,10 +25301,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
 <context>
     <name>qSlicerSequencesModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
         <translation type="unfinished"></translation>
@@ -25921,74 +25483,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="440"/>
         <source>Sequence:</source>
         <translation>시퀀스:</translation>
-    </message>
-    <message>
-        <source>Index properties</source>
-        <translation type="vanished">인덱스 속성</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="vanished">이름:</translation>
-    </message>
-    <message>
-        <source>time</source>
-        <translation type="vanished">시간</translation>
-    </message>
-    <message>
-        <source>Unit:</source>
-        <translation type="vanished">단위:</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <translation type="vanished">s</translation>
-    </message>
-    <message>
-        <source>Type:</source>
-        <translation type="vanished">유형:</translation>
-    </message>
-    <message>
-        <source>Data nodes</source>
-        <translation type="vanished">데이터 노드</translation>
-    </message>
-    <message>
-        <source>Add/remove data nodes</source>
-        <translation type="vanished">데이터 노드 추가/제거</translation>
-    </message>
-    <message>
-        <source>Add to sequence items</source>
-        <translation type="vanished">시퀀스 항목에 추가</translation>
-    </message>
-    <message>
-        <source>Index value:</source>
-        <translation type="vanished">인덱스 값:</translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation type="vanished">0</translation>
-    </message>
-    <message>
-        <source>Index increment:</source>
-        <translation type="vanished">인덱스 증분:</translation>
-    </message>
-    <message>
-        <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation type="vanished">활성화된 경우 선택한 노드가 시퀀스 항목에 추가된 후 선택 항목이 다음 항목으로 이동</translation>
-    </message>
-    <message>
-        <source>Auto-advance</source>
-        <translation type="vanished">자동 진행</translation>
-    </message>
-    <message>
-        <source>Node type:</source>
-        <translation type="vanished">노드 유형:</translation>
-    </message>
-    <message>
-        <source>undefined</source>
-        <translation type="vanished">미정의</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">이름</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>
@@ -27333,10 +26827,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerSimpleMarkupsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Markup Control Points</source>
         <translation type="unfinished"></translation>
@@ -28116,10 +27606,6 @@ Tags: %6</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>  ID:</source>
-        <translation type="vanished">  ID:</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="111"/>
         <source>Patient tags in item name:</source>
         <translation>항목 이름의 환자 태그:</translation>
@@ -28580,10 +28066,6 @@ Tags: %6</source>
 <context>
     <name>qSlicerSuperLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
         <translation type="unfinished"></translation>
@@ -28720,10 +28202,6 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
         <source>Title:</source>
         <translation type="unfinished">제목:</translation>
-    </message>
-    <message>
-        <source>Long name:</source>
-        <translation type="vanished">긴 이름:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="197"/>
@@ -28950,10 +28428,6 @@ Tags: %6</source>
 <context>
     <name>qSlicerTemplateKeyModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
         <translation type="unfinished"></translation>
@@ -29073,14 +28547,6 @@ Tags: %6</source>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
         <translation type="unfinished">유형 수정기 선택...</translation>
-    </message>
-    <message>
-        <source>Select anatomic region context...</source>
-        <translation type="vanished">해부학적 영역 컨텍스트 선택...</translation>
-    </message>
-    <message>
-        <source>Anatomic region...</source>
-        <translation type="vanished">해부학적 영역...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="416"/>
@@ -29233,11 +28699,6 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
         <translation>변환</translation>
-    </message>
-    <message>
-        <source> Transform:</source>
-        <oldsource>Active Transform:</oldsource>
-        <translation type="obsolete">활성 변환:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="112"/>
@@ -29478,10 +28939,6 @@ This should only used by advanced users who understand the consequences of chang
 </context>
 <context>
     <name>qSlicerViewControllersModuleWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>View Controllers</source>
@@ -29741,145 +29198,6 @@ This should only used by advanced users who understand the consequences of chang
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="obsolete">다른 슬라이스 평면이 각 슬라이스 평면과 어떻게 교차하는지 보여줍니다.</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerViewersToolBarPrivate</name>
-    <message>
-        <source>No jump slices</source>
-        <translation type="vanished">프 슬라이스 없음</translation>
-    </message>
-    <message>
-        <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation type="vanished">십자선을 이동할 때 슬라이스 보기의 위치가 변경되지 않습니다.</translation>
-    </message>
-    <message>
-        <source>Jump slices - offset</source>
-        <translation type="vanished">점프 슬라이스 - 오프셋</translation>
-    </message>
-    <message>
-        <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation type="vanished">슬라이스 보기 평면은 십자선 위치와 일치하도록 이동됩니다 (십자선이 표시되지 않더라도).</translation>
-    </message>
-    <message>
-        <source>Jump slices - centered</source>
-        <translation type="vanished">점프 슬라이스 - 중앙</translation>
-    </message>
-    <message>
-        <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation type="vanished">슬라이스 보기는 십자선 위치의 중앙에 있습니다 (십자선이 표시되지 않는 경우에도).</translation>
-    </message>
-    <message>
-        <source>No crosshair</source>
-        <translation type="vanished">십자선 없음</translation>
-    </message>
-    <message>
-        <source>No crosshair displayed.</source>
-        <translation type="vanished">십자선이 표시되지 않습니다.</translation>
-    </message>
-    <message>
-        <source>Basic crosshair</source>
-        <translation type="vanished">기본 십자선</translation>
-    </message>
-    <message>
-        <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="vanished">십자선 위치에 작은 간격이 있는 시야를 가로질러 확장되는 기본 십자선입니다.</translation>
-    </message>
-    <message>
-        <source>Basic + intersection</source>
-        <translation type="vanished">기본 + 교차</translation>
-    </message>
-    <message>
-        <source>Basic crosshair extending across the field of view.</source>
-        <translation type="vanished">시야를 가로질러 확장되는 기본 십자선입니다.</translation>
-    </message>
-    <message>
-        <source>Small basic crosshair</source>
-        <translation type="vanished">작은 기본 십자형</translation>
-    </message>
-    <message>
-        <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="vanished">십자선 위치에 작은 간격이 있는 작은 십자선입니다.</translation>
-    </message>
-    <message>
-        <source>Small basic + intersection</source>
-        <translation type="vanished">작은 기본 + 교차</translation>
-    </message>
-    <message>
-        <source>Small crosshair.</source>
-        <translation type="vanished">작은 십자선입니다.</translation>
-    </message>
-    <message>
-        <source>Fine crosshair</source>
-        <translation type="vanished">얇은 십자선</translation>
-    </message>
-    <message>
-        <source>Fine crosshair.</source>
-        <translation type="vanished">얇은 십자선입니다.</translation>
-    </message>
-    <message>
-        <source>Medium crosshair</source>
-        <translation type="vanished">중간 십자선</translation>
-    </message>
-    <message>
-        <source>Medium crosshair.</source>
-        <translation type="vanished">중간 십자선입니다.</translation>
-    </message>
-    <message>
-        <source>Thick crosshair</source>
-        <translation type="vanished">두꺼운 십자선</translation>
-    </message>
-    <message>
-        <source>Thick crosshair.</source>
-        <translation type="vanished">두꺼운 십자선입니다.</translation>
-    </message>
-    <message>
-        <source>Slice intersections</source>
-        <translation type="vanished">슬라이스 교차점</translation>
-    </message>
-    <message>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="vanished">다른 슬라이스 평면이 각 슬라이스 평면과 어떻게 교차하는지 보여줍니다.</translation>
-    </message>
-    <message>
-        <source>Interaction</source>
-        <translation type="vanished">상호 작용</translation>
-    </message>
-    <message>
-        <source>Show handles for slice interaction.</source>
-        <translation type="vanished">슬라이스 상호 작용에 대한 핸들을 표시합니다.</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">번역</translation>
-    </message>
-    <message>
-        <source>Control visibility of translation handles for slice intersection.</source>
-        <translation type="vanished">슬라이스 교차에 대한 변환 핸들의 가시성을 제어합니다.</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">회전</translation>
-    </message>
-    <message>
-        <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation type="vanished">슬라이스 교차에 대한 회전 핸들의 가시성을 제어합니다.</translation>
-    </message>
-    <message>
-        <source>Interaction options</source>
-        <translation type="vanished">상호 작용 옵션</translation>
-    </message>
-    <message>
-        <source>Crosshair</source>
-        <translation type="vanished">십자선</translation>
-    </message>
-    <message>
-        <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation type="vanished">십자선 가시성을 전환합니다. Shift 키를 누른 상태에서 보기에서 마우스를 이동하여 십자선 위치를 설정합니다.</translation>
-    </message>
 </context>
 <context>
     <name>qSlicerVolumeRenderingModule</name>
@@ -29920,10 +29238,6 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
         <translation>볼륨 렌더링</translation>
-    </message>
-    <message>
-        <source>Volume:</source>
-        <translation type="vanished">볼륨:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="99"/>
@@ -30269,11 +29583,6 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
         <source>Volumes</source>
         <translation>볼륨</translation>
-    </message>
-    <message>
-        <source> Volume: </source>
-        <oldsource>Active Volume: </oldsource>
-        <translation type="obsolete">활성 볼륨: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="103"/>

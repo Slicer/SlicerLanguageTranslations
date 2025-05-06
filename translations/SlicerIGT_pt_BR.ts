@@ -429,21 +429,6 @@ Para mais informações, visite &lt;a href=&apos;https://github.com/SlicerIGT/Sl
         <translation>componentes RGB em ponto flutuante</translation>
     </message>
     <message>
-        <source>RGB vector</source>
-        <comment>uchar-vector</comment>
-        <translation type="vanished">Vetor RGB</translation>
-    </message>
-    <message>
-        <source>RGB float vector</source>
-        <comment>float-vector</comment>
-        <translation type="vanished">vetor de ponto flutuante RGB</translation>
-    </message>
-    <message>
-        <source>RGB float components</source>
-        <comment>float-components</comment>
-        <translation type="vanished">componentes RGB em ponto flutuante</translation>
-    </message>
-    <message>
         <location filename="TextureModel/TextureModel.py" line="91"/>
         <source>Save color in point data. &quot;RGB vector&quot; is recommended for compatibility with most software. The point data may be used for thresholding or color-based processing.</source>
         <translation>Salve a cor em dados de pontos. O &quot;vetor RGB&quot; é recomendado para compatibilidade com a maioria dos softwares. Os dados de ponto podem ser usados para limiarização ou processamento baseado em cores.</translation>
@@ -457,14 +442,6 @@ Para mais informações, visite &lt;a href=&apos;https://github.com/SlicerIGT/Sl
         <location filename="TextureModel/TextureModel.py" line="99"/>
         <source>Apply texture to selected model.</source>
         <translation>Aplicar textura ao modelo selecionado.</translation>
-    </message>
-    <message>
-        <source>Finished with download and loading</source>
-        <translation type="vanished">Concluído o download e o carregamento</translation>
-    </message>
-    <message>
-        <source>Test passed!</source>
-        <translation type="vanished">Teste aprovado!</translation>
     </message>
 </context>
 <context>

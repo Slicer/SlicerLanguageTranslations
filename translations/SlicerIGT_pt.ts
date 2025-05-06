@@ -443,10 +443,6 @@ Para mais informações, visite &lt;a href=&apos;https://github.com/SlicerIGT/Sl
         <source>Apply texture to selected model.</source>
         <translation>Aplicar textura ao modelo selecionado.</translation>
     </message>
-    <message>
-        <source>Test passed!</source>
-        <translation type="vanished">Teste aprovado!</translation>
-    </message>
 </context>
 <context>
     <name>Viewpoint</name>

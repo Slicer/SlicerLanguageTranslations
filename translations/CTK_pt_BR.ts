@@ -619,153 +619,6 @@ Configurable behaviour for testing purposes.
     </message>
 </context>
 <context>
-    <name>QCenteredItemModel</name>
-    <message>
-        <source>Query patients</source>
-        <translation type="vanished">Consultar pacientes</translation>
-    </message>
-    <message>
-        <source>Query studies</source>
-        <translation type="vanished">Consultar estudos</translation>
-    </message>
-    <message>
-        <source>Query series</source>
-        <translation type="vanished">Consultar séries</translation>
-    </message>
-    <message>
-        <source>Query instances</source>
-        <translation type="vanished">Consultar instâncias</translation>
-    </message>
-    <message>
-        <source>Retrieve patients</source>
-        <translation type="vanished">Buscar pacientes</translation>
-    </message>
-    <message>
-        <source>Retrieve studies</source>
-        <translation type="vanished">Buscar estudos</translation>
-    </message>
-    <message>
-        <source>Retrieve series</source>
-        <translation type="vanished">Buscar séries</translation>
-    </message>
-    <message>
-        <source>Retrieve instances</source>
-        <translation type="vanished">Buscar instâncias</translation>
-    </message>
-    <message>
-        <source>Storage listener</source>
-        <translation type="vanished">Ouvinte de armazenamento</translation>
-    </message>
-    <message>
-        <source>Echo server</source>
-        <translation type="vanished">Servidor de eco</translation>
-    </message>
-    <message>
-        <source>Inserter</source>
-        <translation type="vanished">Ferramenta de inserção</translation>
-    </message>
-    <message>
-        <source>initialized</source>
-        <translation type="vanished">inicializado</translation>
-    </message>
-    <message>
-        <source>queued</source>
-        <translation type="vanished">em fila</translation>
-    </message>
-    <message>
-        <source>in-progress</source>
-        <translation type="vanished">em andamento</translation>
-    </message>
-    <message>
-        <source>failed</source>
-        <translation type="vanished">falhou</translation>
-    </message>
-    <message>
-        <source>user-stopped</source>
-        <translation type="vanished">interrompido pelo usuário</translation>
-    </message>
-    <message>
-        <source>attempt-failed</source>
-        <translation type="vanished">tentativa falhou</translation>
-    </message>
-    <message>
-        <source>completed</source>
-        <translation type="vanished">concluído</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation type="vanished">Tipo</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Status</translation>
-    </message>
-    <message>
-        <source>Progress</source>
-        <translation type="vanished">Progresso</translation>
-    </message>
-    <message>
-        <source>Time and Date</source>
-        <translation type="vanished">Hora e data</translation>
-    </message>
-    <message>
-        <source>Starting Time and Date</source>
-        <translation type="vanished">Data e hora de início</translation>
-    </message>
-    <message>
-        <source>Completion Time and Date</source>
-        <translation type="vanished">Data e hora da conclusão</translation>
-    </message>
-    <message>
-        <source>DICOM Level</source>
-        <translation type="vanished">Nível DICOM</translation>
-    </message>
-    <message>
-        <source>Patient ID</source>
-        <translation type="vanished">ID do paciente</translation>
-    </message>
-    <message>
-        <source>Patient Name</source>
-        <translation type="vanished">Nome do paciente</translation>
-    </message>
-    <message>
-        <source>Birth Date</source>
-        <translation type="vanished">Data de nascimento</translation>
-    </message>
-    <message>
-        <source>Study UID</source>
-        <translation type="vanished">UID do estudo</translation>
-    </message>
-    <message>
-        <source>Series UID</source>
-        <translation type="vanished">UID da série</translation>
-    </message>
-    <message>
-        <source>SOP UID</source>
-        <translation type="vanished">SOP UID</translation>
-    </message>
-    <message>
-        <source>Connection</source>
-        <translation type="vanished">Conexão</translation>
-    </message>
-    <message>
-        <source>Job UID</source>
-        <translation type="vanished">UID do trabalho</translation>
-    </message>
-    <message>
-        <source>Class</source>
-        <translation type="vanished">Classe</translation>
-    </message>
-    <message>
-        <source>Thread</source>
-        <translation type="vanished">Tópico</translation>
-    </message>
-    <message>
-        <source>Logging</source>
-        <translation type="vanished">Registro</translation>
-    </message>
-</context>
-<context>
     <name>ctkActionsWidget</name>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
@@ -2524,10 +2377,6 @@ p, li { white-space: pre-wrap; }
         <translation>em progresso</translation>
     </message>
     <message>
-        <source>^initialized$|^queued$|^in-progress$|^user-stopped$|^failed$</source>
-        <translation type="vanished">^inicializado$|^na-fila$|^em-andamento$|^interrompido-pelo-usuário$|^falhou$</translation>
-    </message>
-    <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="156"/>
         <source>Query patients</source>
         <translation>Consultar pacientes</translation>
@@ -2900,120 +2749,6 @@ p, li { white-space: pre-wrap; }
         <source>Study</source>
         <translation>Estudo</translation>
     </message>
-    <message>
-        <source> ID %1</source>
-        <translation type="vanished"> ID %1</translation>
-    </message>
-    <message>
-        <source>  -  %1</source>
-        <translation type="vanished">  -  %1</translation>
-    </message>
-</context>
-<context>
-    <name>ctkDICOMPatientItemWidgetPrivate</name>
-    <message>
-        <source>UNDEFINED</source>
-        <translation type="vanished">INDEFINIDO</translation>
-    </message>
-</context>
-<context>
-    <name>ctkDICOMQuery</name>
-    <message>
-        <source>DB open in Query</source>
-        <translation type="vanished">Banco de dados aberto para consulta</translation>
-    </message>
-    <message>
-        <source>DB not open in Query</source>
-        <translation type="vanished">Banco de dados não aberto em consulta</translation>
-    </message>
-    <message>
-        <source>Processing: </source>
-        <translation type="vanished">Processamento: </translation>
-    </message>
-    <message>
-        <source>Starting Patients C-FIND</source>
-        <translation type="vanished">Início dos pacientes C-FIND</translation>
-    </message>
-    <message>
-        <source>Find succeeded on Patient level</source>
-        <translation type="vanished">Busca bem-sucedida no nível do paciente</translation>
-    </message>
-    <message>
-        <source>Find on Patient level failed</source>
-        <translation type="vanished">A busca no nível do paciente falhou</translation>
-    </message>
-    <message>
-        <source>Starting Studies C-FIND for Patient: </source>
-        <translation type="vanished">Início dos estudos C-FIND para o paciente: </translation>
-    </message>
-    <message>
-        <source>Find succeeded on Study level for Patient: </source>
-        <translation type="vanished">Busca bem-sucedida no nível de estudo para paciente: </translation>
-    </message>
-    <message>
-        <source>Find on Study level failed for Patient: </source>
-        <translation type="vanished">A busca falhou no nível de estudo para paciente: </translation>
-    </message>
-    <message>
-        <source>Starting Instances C-FIND for Series: </source>
-        <translation type="vanished">Iniciando instâncias C-FIND para séries: </translation>
-    </message>
-    <message>
-        <source>Find succeeded on Series level for Series: </source>
-        <translation type="vanished">Busca bem-sucedida no nível da série para série: </translation>
-    </message>
-    <message>
-        <source>Find on Series level failed for Series: </source>
-        <translation type="vanished">A busca no nível da série falhou para a série: </translation>
-    </message>
-    <message>
-        <source>Setting Transfer Syntaxes</source>
-        <translation type="vanished">Definição de sintaxes de transferência</translation>
-    </message>
-    <message>
-        <source>Error initializing the network</source>
-        <translation type="vanished">Erro na inicialização da rede</translation>
-    </message>
-    <message>
-        <source>Negotiating Association</source>
-        <translation type="vanished">Associação de negociação</translation>
-    </message>
-    <message>
-        <source>Error negotiating the association</source>
-        <translation type="vanished">Erro na negociação da associação</translation>
-    </message>
-    <message>
-        <source>Failed to find acceptable presentation context</source>
-        <translation type="vanished">Falha para encontrar um contexto de apresentação aceitável</translation>
-    </message>
-    <message>
-        <source>Found useful presentation context</source>
-        <translation type="vanished">Encontrou um contexto de apresentação útil</translation>
-    </message>
-    <message>
-        <source>Find failed</source>
-        <translation type="vanished">A busca falhou</translation>
-    </message>
-    <message>
-        <source>Find succeeded</source>
-        <translation type="vanished">Busca bem-sucedida</translation>
-    </message>
-    <message>
-        <source>Processing Study: </source>
-        <translation type="vanished">Estudo de processamento: </translation>
-    </message>
-    <message>
-        <source>Starting Series C-FIND for Study: </source>
-        <translation type="vanished">Iniciando a Série C-FIND para o Estudo: </translation>
-    </message>
-    <message>
-        <source>Find succeeded on Series level for Study: </source>
-        <translation type="vanished">Busca bem-sucedida no nível da Série para o Estudo: </translation>
-    </message>
-    <message>
-        <source>Find on Series level failed for Study: </source>
-        <translation type="vanished">A busca no nível da Série falhou para o Estudo: </translation>
-    </message>
 </context>
 <context>
     <name>ctkDICOMQueryRetrieveWidget</name>
@@ -3160,30 +2895,6 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="204"/>
         <source>Got CGET response</source>
         <translation>Resposta CGET recebida</translation>
-    </message>
-    <message>
-        <source>Sending Get Request</source>
-        <translation type="vanished">Enviando solicitação GET</translation>
-    </message>
-    <message>
-        <source>Found Presentation Context</source>
-        <translation type="vanished">Contexto de apresentação encontrado</translation>
-    </message>
-    <message>
-        <source>Sent Get Request</source>
-        <translation type="vanished">Solicitação GET enviado</translation>
-    </message>
-    <message>
-        <source>No Responses from Server!</source>
-        <translation type="vanished">Sem respostas do servidor!</translation>
-    </message>
-    <message>
-        <source>Got Responses</source>
-        <translation type="vanished">Respostas recebidas</translation>
-    </message>
-    <message>
-        <source>Finished Get</source>
-        <translation type="vanished">GET finalizado</translation>
     </message>
 </context>
 <context>
@@ -3471,13 +3182,6 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyItemWidget.cpp" line="250"/>
         <source>UNDEFINED</source>
         <translation>INDEFINIDO</translation>
-    </message>
-</context>
-<context>
-    <name>ctkDICOMStudyItemWidgetPrivate</name>
-    <message>
-        <source>UNDEFINED</source>
-        <translation type="vanished">INDEFINIDO</translation>
     </message>
 </context>
 <context>
@@ -3988,10 +3692,6 @@ Defina pelo menos um filtro para consultar os servidores</translation>
         <translation>Recuperação e processamento de séries selecionadas...</translation>
     </message>
     <message>
-        <source>Database folder does not contain ctkDICOM.sql file: </source>
-        <translation type="vanished">A pasta do banco de dados não contém o arquivo ctkDICOM.sql: </translation>
-    </message>
-    <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2328"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2356"/>
         <source>No valid DICOM database found in folder %1.</source>
@@ -4003,12 +3703,6 @@ Defina pelo menos um filtro para consultar os servidores</translation>
         <source>Database error: %1 
 </source>
         <translation>Erro no banco de dados: %1 
-</translation>
-    </message>
-    <message>
-        <source>Database version mismatch: version of selected database = %1, version required = %2 
-</source>
-        <translation type="vanished">Incompatibilidade de versão do banco de dados: versão do banco de dados selecionado = %1, versão necessária = %2 
 </translation>
     </message>
     <message>

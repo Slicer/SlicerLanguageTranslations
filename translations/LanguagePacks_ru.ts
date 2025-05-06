@@ -174,14 +174,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> (shortcut: Ctrl+6)</source>
-        <translation type="vanished"> (сочетание клавиш: Ctrl+6)</translation>
-    </message>
-    <message>
-        <source>Edited language:</source>
-        <translation type="vanished">Отредактированный язык:</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
         <translation>Языковые инструменты</translation>
@@ -277,10 +269,6 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
         <location filename="LanguageTools/LanguageTools.py" line="611"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
         <translation>Пропустить. Этот компонент/язык не обнаружен на Weblate.</translation>
-    </message>
-    <message>
-        <source>Download failed. This component may not have been translated to the selected language.</source>
-        <translation type="vanished">Ошибка загрузки. Возможно, этот компонент не был переведен на выбранный язык.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="635"/>

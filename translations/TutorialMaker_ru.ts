@@ -242,14 +242,6 @@
         <source>Add Image</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>JSON Files (*.json)</source>
-        <translation type="vanished">Файлы JSON (*.json)</translation>
-    </message>
-    <message>
-        <source>Add a tittle here</source>
-        <translation type="vanished">Добавить заголовок</translation>
-    </message>
 </context>
 <context>
     <name>TutorialMaker</name>
@@ -302,14 +294,6 @@
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="108"/>
         <source>Generate output</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Run and Annotate</source>
-        <translation type="vanished">Запустить и аннотировать</translation>
-    </message>
-    <message>
-        <source>Test Translation</source>
-        <translation type="vanished">Тестовый Перевод</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="118"/>
@@ -384,14 +368,6 @@
         <source>{tutorials_failed} tutorials failed to execute. Errors: {error_message}</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>
-        Development of this module was funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-localization-and-outreach/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-        </source>
-        <translation type="vanished">
-        Разработка этого модуля финансировалась  &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-localization-and-outreach/&quot;&gt;CZI EOSS грант &lt;/a&gt;.
-        </translation>
-    </message>
 </context>
 <context>
     <name>TutorialPainter</name>
@@ -401,13 +377,6 @@
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="462"/>
         <source>Error: Load an image first.</source>
         <translation type="unfinished">Ошибка: Сначала загрузите изображение.</translation>
-    </message>
-</context>
-<context>
-    <name>painter</name>
-    <message>
-        <source>Error: Load an image first.</source>
-        <translation type="vanished">Ошибка: Сначала загрузите изображение.</translation>
     </message>
 </context>
 <context>

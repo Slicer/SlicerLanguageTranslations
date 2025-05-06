@@ -2693,17 +2693,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>ctkDICOMQuery</name>
-    <message>
-        <source>DB open in Query</source>
-        <translation type="vanished">La base de dades s&apos;obre a Consulta</translation>
-    </message>
-    <message>
-        <source>DB not open in Query</source>
-        <translation type="vanished">La base de dades no s&apos;obre a Consulta</translation>
-    </message>
-</context>
-<context>
     <name>ctkDICOMQueryRetrieveWidget</name>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="20"/>

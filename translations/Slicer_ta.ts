@@ -5455,10 +5455,6 @@ The filter assumes that both the source and reference are of the same type and t
         <translation>நோக்குநிலை அளவுருக்கள்</translation>
     </message>
     <message>
-        <source>Orientation of output</source>
-        <translation type="vanished">வெளியீட்டின் நோக்குநிலை</translation>
-    </message>
-    <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
         <translation type="unfinished"></translation>
@@ -9399,10 +9395,6 @@ use it for commercial purposes.&lt;/p&gt;
         <translation>கோப்பு ஏற்கனவே தற்காலிக சேமிப்பில் உள்ளது - அதை மீண்டும் பயன்படுத்துதல்.</translation>
     </message>
     <message>
-        <source>Requesting load {uri}</source>
-        <translation type="vanished">சுமை {uri}</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1004"/>
         <source>Load failed!</source>
         <translation>சுமை தோல்வியடைந்தது!</translation>
@@ -12778,66 +12770,6 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
         <translation>மாதிரியை கிளிப் செய்ய ச்லைச் விமானங்களால் வரையறுக்கப்பட்ட நேர்மறை மற்றும்/அல்லது எதிர்மறை இடைவெளிகளின் குறுக்குவெட்டைப் பயன்படுத்தவும்.</translation>
     </message>
-    <message>
-        <source>Red Slice Clipping:</source>
-        <translation type="vanished">சிவப்பு துண்டு கிளிப்பிங்:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">மாதிரியை கிளிப் செய்ய சிவப்பு துண்டு விமானத்தால் வரையறுக்கப்பட்ட நேர்மறை அல்லது எதிர்மறை இடத்தைப் பயன்படுத்தவும். நேர்மறையான பக்கமானது உயர்ந்தது, எதிர்மறை தாழ்ந்தவர்களை நோக்கி உள்ளது. தேர்ந்தெடுக்கப்பட்ட இடத்தில் மாதிரியின் பகுதியை வைத்திருக்கிறது, மீதமுள்ளவற்றை கிளிப் செய்கிறது.</translation>
-    </message>
-    <message>
-        <source>Positive</source>
-        <translation type="vanished">நேரமம்</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-        <translation type="vanished">சிவப்பு துண்டு விமானத்தால் வரையறுக்கப்பட்ட நேர்மறை இடத்திற்குள் இருக்கும் மாதிரியின் பகுதிகளை, உயர்ந்த (தலை) நோக்கி வைத்திருங்கள்.</translation>
-    </message>
-    <message>
-        <source>Negative</source>
-        <translation type="vanished">எதிர்மம்</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-        <translation type="vanished">சிவப்பு துண்டு விமானத்தால் வரையறுக்கப்பட்ட எதிர்மறை இடத்தின் உள்ளே இருக்கும் மாதிரியின் பகுதிகளை, தாழ்வான (அடி) நோக்கி வைத்திருங்கள்.</translation>
-    </message>
-    <message>
-        <source>Yellow Slice Clipping:</source>
-        <translation type="vanished">மஞ்சள் துண்டு கிளிப்பிங்:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">மாதிரியை கிளிப் செய்ய மஞ்சள் துண்டு விமானத்தால் வரையறுக்கப்பட்ட நேர்மறை அல்லது எதிர்மறை இடத்தைப் பயன்படுத்தவும். நேர்மறை பக்கமானது வலதுபுறம் உள்ளது, எதிர்மறை இடதுபுறம் உள்ளது. தேர்ந்தெடுக்கப்பட்ட இடத்தில் மாதிரியின் பகுதியை வைத்திருக்கிறது, மீதமுள்ளவற்றை கிளிப் செய்கிறது.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</source>
-        <translation type="vanished">மஞ்சள் துண்டு விமானத்தால் வரையறுக்கப்பட்ட நேர்மறை இடத்தின் உள்ளே இருக்கும் மாதிரியின் பகுதிகளை வலதுபுறம், வலதுபுறம் வைத்திருங்கள்.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</source>
-        <translation type="vanished">எதிர்மறை இடத்தின் உள்ளே இருக்கும் மாதிரியின் பகுதிகளை, இடதுபுறத்தை நோக்கி, மஞ்சள் துண்டு விமானத்தால் வரையறுக்கப்படுகிறது.</translation>
-    </message>
-    <message>
-        <source>Green Slice Clipping:</source>
-        <translation type="vanished">பச்சை துண்டு கிளிப்பிங்:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">மாதிரியை கிளிப் செய்ய பச்சை துண்டு விமானத்தால் வரையறுக்கப்பட்ட நேர்மறை அல்லது எதிர்மறை இடத்தைப் பயன்படுத்தவும். நேர்மறை பக்கமானது முன்புறத்தை நோக்கி உள்ளது, எதிர்மறை பின்புறத்தை நோக்கி உள்ளது. தேர்ந்தெடுக்கப்பட்ட இடத்தில் மாதிரியின் பகுதியை வைத்திருக்கிறது, மீதமுள்ளவற்றை கிளிப் செய்கிறது.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-        <translation type="vanished">நேர்மறை இடத்தின் உள்ளே இருக்கும் மாதிரியின் பகுதிகளை, பச்சை துண்டு விமானத்தால் வரையறுக்கப்பட்ட முன்புற (முன்) நோக்கி வைத்திருங்கள்.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-        <translation type="vanished">எதிர்மறை இடத்தின் உள்ளே இருக்கும் மாதிரியின் பகுதிகளை, பச்சை துண்டு விமானத்தால் வரையறுக்கப்பட்ட பின்புற (பின்) நோக்கி வைத்திருங்கள்.</translation>
-    </message>
-    <message>
-        <source>Keep only whole cells when clipping</source>
-        <translation type="vanished">கிளிப்பிங் செய்யும் போது முழு கலங்களையும் மட்டுமே வைத்திருங்கள்</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLColorLegendDisplayNodeWidget</name>
@@ -13158,10 +13090,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsAngleMeasurementsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
         <translation>கோண பண்புகள்</translation>
@@ -13209,10 +13137,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsCurveSettingsWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
@@ -13666,10 +13590,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsInteractionHandleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
         <source>Interaction Handles</source>
         <translation>தொடர்பு கையாளுகிறது</translation>
@@ -13732,10 +13652,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsPlaneWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
         <source>Plane Properties</source>
@@ -13825,10 +13741,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
         <source>ROI Settings</source>
@@ -13873,10 +13785,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsTestLineOptionsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
         <source>Test Line Options</source>
         <translation>சோதனை வரி விருப்பங்கள்</translation>
@@ -13884,10 +13792,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsTestLineWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
         <source>Test Line Properties</source>
@@ -14380,10 +14284,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLPlotChartPropertiesWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
         <translation>சூழ்ச்சி விளக்கப்பட பண்புகள்</translation>
@@ -14518,10 +14418,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLPlotSeriesPropertiesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
@@ -14813,10 +14709,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>ROI Properties</source>
         <translation>ROI பண்புகள்</translation>
@@ -14943,10 +14835,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
 </context>
 <context>
     <name>qMRMLSceneFactoryWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
@@ -15166,10 +15054,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
         <source>Segments Table</source>
         <translation>பிரிவுகள் அட்டவணை</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="294"/>
@@ -16413,10 +16297,6 @@ Do you wish to proceed with changing source representation?</source>
 <context>
     <name>qMRMLSettingsUnitWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Unit Settings</source>
         <translation>அலகு அமைப்புகள்</translation>
@@ -17058,10 +16938,6 @@ Do you wish to proceed with changing source representation?</source>
 <context>
     <name>qMRMLSliceInformationWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Slice Information</source>
         <translation>தகவல்களை நறுக்கவும்</translation>
@@ -17513,10 +17389,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation>முதல் வரிசையை பூட்டு</translation>
     </message>
     <message>
-        <source>1</source>
-        <translation type="obsolete">ஒன்று</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="376"/>
         <source>Click to unlock this table so that values can be modified</source>
         <translation>இந்த அட்டவணையைத் திறக்க சொடுக்கு செய்க, இதனால் மதிப்புகளை மாற்ற முடியும்</translation>
@@ -17529,10 +17401,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
 </context>
 <context>
     <name>qMRMLTextWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Text Properties</source>
@@ -17956,10 +17824,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
 </context>
 <context>
     <name>qMRMLThreeDViewInformationWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>3D View Information</source>
@@ -18772,10 +18636,6 @@ p, li { white-space: pre-wrap; }
 </context>
 <context>
     <name>qMRMLVolumeThresholdWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
         <source>Volume Thresholding</source>
@@ -19830,10 +19690,6 @@ Graphics capabilities of this computer:
         <translation>திருத்துதல் வண்ணங்கள், அளவிடுதல் வரம்பு, அளவு அனுமதிக்க தற்போதைய வண்ண முனையை நகலெடுக்கவும்.</translation>
     </message>
     <message>
-        <source>Color Legend</source>
-        <translation type="vanished">வண்ண புராணக்கதை</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="63"/>
         <source>Displayable node:</source>
         <translation>காண்பிக்கக்கூடிய முனை:</translation>
@@ -19904,10 +19760,6 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
         <source>Delete currently selected color</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide empty Colors: </source>
-        <translation type="vanished">வெற்று வண்ணங்களை மறைக்க: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -20957,10 +20809,6 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
 <context>
     <name>qSlicerExtensionsButtonBox</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
         <source>Install this extension (requires restart).</source>
         <translation>இந்த நீட்டிப்பை நிறுவவும் (மறுதொடக்கம் தேவை).</translation>
@@ -21850,10 +21698,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLabelMapVolumeDisplayWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
         <source>Labelmap Volume Display Properties</source>
         <translation>லேபிள்மேப் தொகுதி காட்சி பண்புகள்</translation>
@@ -21903,10 +21747,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerLoadableModuleTemplate</source>
         <translation>Sliceerloadablemoduletemplate</translation>
@@ -21949,10 +21789,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="126"/>
         <source>Mouse Interaction</source>
         <translation>சுட்டி தொடர்பு</translation>
-    </message>
-    <message>
-        <source>Capture/Restore</source>
-        <translation type="vanished">பிடிக்கவும்/மீட்டமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="137"/>
@@ -24528,14 +24364,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File name may be too long: %1.</source>
-        <translation type="vanished">கோப்பு பெயர் மிக நீளமாக இருக்கலாம்: %1.</translation>
-    </message>
-    <message>
-        <source>File path may be too long: %1.</source>
-        <translation type="vanished">கோப்பு பாதை மிக நீளமாக இருக்கலாம்: %1.</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
         <source>Failed to save node %1 to file %2.</source>
         <translation>முனை %1 ஐ %2 ஐ சேமிக்கத் தவறிவிட்டது.</translation>
@@ -25074,11 +24902,6 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.h" line="47"/>
         <source>Segmentations</source>
         <translation>பிரிவு</translation>
-    </message>
-    <message>
-        <source> Segmentation:</source>
-        <oldsource> Active segmentation:</oldsource>
-        <translation type="vanished"> பிரிவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="122"/>
@@ -25688,10 +25511,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
 <context>
     <name>qSlicerSequencesModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
         <translation>வரிசைகள்</translation>
@@ -25874,14 +25693,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="440"/>
         <source>Sequence:</source>
         <translation>வரிசை:</translation>
-    </message>
-    <message>
-        <source>Type:</source>
-        <translation type="obsolete">வகை:</translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation type="obsolete">மூன்று {0?}</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>
@@ -27226,10 +27037,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerSimpleMarkupsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Markup Control Points</source>
         <translation>மார்க்அப் கட்டுப்பாட்டு புள்ளிகள்</translation>
@@ -27701,13 +27508,6 @@ Select plugin to add node named
     </message>
 </context>
 <context>
-    <name>qSlicerSubjectHierarchySceneViewsPlugin</name>
-    <message>
-        <source>Restore scene view</source>
-        <translation type="vanished">காட்சி காட்சியை மீட்டெடுங்கள்</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerSubjectHierarchySegmentationsPlugin</name>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="109"/>
@@ -28041,10 +27841,6 @@ Tags: %6</source>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="161"/>
         <source>Use standard terminology:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>  ID:</source>
-        <translation type="vanished">  ஐடி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="111"/>
@@ -28507,10 +28303,6 @@ Tags: %6</source>
 <context>
     <name>qSlicerSuperLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
         <translation>Slicersuperloadablemoduletemplate</translation>
@@ -28873,10 +28665,6 @@ Tags: %6</source>
 <context>
     <name>qSlicerTemplateKeyModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
         <translation>வார்ப்புரு</translation>
@@ -28996,14 +28784,6 @@ Tags: %6</source>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
         <translation>வகை மாற்றியமைப்பாளர் இல்லை</translation>
-    </message>
-    <message>
-        <source>Select anatomic region context...</source>
-        <translation type="vanished">உடற்கூறியல் பகுதி சூழலைத் தேர்ந்தெடுக்கவும் ...</translation>
-    </message>
-    <message>
-        <source>Anatomic region...</source>
-        <translation type="vanished">உடற்கூறியல் பகுதி ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="416"/>
@@ -29156,11 +28936,6 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
         <translation>உருமாற்றங்கள்</translation>
-    </message>
-    <message>
-        <source> Transform:</source>
-        <oldsource>Active Transform:</oldsource>
-        <translation type="vanished"> உருமாற்றம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="112"/>
@@ -29401,10 +29176,6 @@ This should only used by advanced users who understand the consequences of chang
 </context>
 <context>
     <name>qSlicerViewControllersModuleWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">படிவம்</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>View Controllers</source>
@@ -29664,10 +29435,6 @@ This should only used by advanced users who understand the consequences of chang
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="vanished">மற்ற ச்லைச் விமானங்கள் ஒவ்வொரு துண்டு விமானத்தையும் எவ்வாறு வெட்டுகின்றன என்பதைக் காட்டுங்கள்.</translation>
-    </message>
 </context>
 <context>
     <name>qSlicerVolumeRenderingModule</name>
@@ -29708,10 +29475,6 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
         <translation>தொகுதி வழங்குதல்</translation>
-    </message>
-    <message>
-        <source>Volume:</source>
-        <translation type="vanished">தொகுதி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="99"/>
@@ -30057,11 +29820,6 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
         <source>Volumes</source>
         <translation>தொகுதிகள்</translation>
-    </message>
-    <message>
-        <source> Volume: </source>
-        <oldsource>Active Volume: </oldsource>
-        <translation type="vanished"> தொகுதி: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="103"/>

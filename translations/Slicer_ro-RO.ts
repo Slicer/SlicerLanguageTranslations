@@ -5469,10 +5469,6 @@ Filtrul presupune că atât sursa, cât și referința sunt de același tip și 
         <translation>Parametrii orientării</translation>
     </message>
     <message>
-        <source>Orientation of output</source>
-        <translation type="vanished">Orientarea ieșirii</translation>
-    </message>
-    <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
         <translation type="unfinished"></translation>
@@ -9432,10 +9428,6 @@ folosiți-l în scopuri comerciale.&lt;/p&gt;
         <translation>Fișierul există deja în cache - se reutilizează.</translation>
     </message>
     <message>
-        <source>Requesting load {uri}</source>
-        <translation type="vanished">Se solicită încărcarea {uri}</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1004"/>
         <source>Load failed!</source>
         <translation>Încărcarea a eșuat!</translation>
@@ -12811,66 +12803,6 @@ Foaia de parcurs NIH pentru cercetare medicală, Grant U54 EB005149.</translatio
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
         <translation>Utilizați intersecția spațiilor pozitive și/sau negative definite de planurile secțiunii pentru a decupa modelul.</translation>
     </message>
-    <message>
-        <source>Red Slice Clipping:</source>
-        <translation type="vanished">Red Slice Clipping:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">Utilizați spațiul pozitiv sau negativ definit de planul Red slice pentru a decupa modelul. Partea pozitivă este către Superior, negativă este către Inferior. Păstrează partea modelului în spațiul selectat, decupează restul.</translation>
-    </message>
-    <message>
-        <source>Positive</source>
-        <translation type="vanished">Pozitiv</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-        <translation type="vanished">Păstrați părțile modelului care se află în interiorul spațiului pozitiv, spre Superior (cap), definit de planul feliei roșii.</translation>
-    </message>
-    <message>
-        <source>Negative</source>
-        <translation type="vanished">Negativ</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-        <translation type="vanished">Păstrați părțile modelului care se află în interiorul spațiului negativ, spre Inferior (picioare), definit de planul feliei roșii.</translation>
-    </message>
-    <message>
-        <source>Yellow Slice Clipping:</source>
-        <translation type="vanished">Yellow Slice Clipping:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">Utilizați spațiul pozitiv sau negativ definit de planul de felie galben pentru a decupa modelul. Partea pozitivă este spre dreapta, negativă este spre stânga. Păstrează partea modelului în spațiul selectat, decupează restul.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</source>
-        <translation type="vanished">Păstrați părțile modelului care se află în interiorul spațiului pozitiv, spre dreapta, definite de planul Yellow Slice.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</source>
-        <translation type="vanished">Păstrați părțile modelului care se află în interiorul spațiului negativ, spre stânga, definite de planul de felie galben .</translation>
-    </message>
-    <message>
-        <source>Green Slice Clipping:</source>
-        <translation type="vanished">Green Slice Clipping:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">Utilizați spațiul pozitiv sau negativ definit de planul Green slice pentru a decupa modelul. Partea pozitivă este spre anterioară, cea negativă este spre posterioară. Păstrează partea modelului în spațiul selectat, decupează restul.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-        <translation type="vanished">Păstrați părțile modelului care se află în interiorul spațiului pozitiv, spre Anterior (față), definit de planul Green Slice.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-        <translation type="vanished">Păstrați părțile modelului care se află în interiorul spațiului negativ, spre Posterior (spate), definit de planul Green slice.</translation>
-    </message>
-    <message>
-        <source>Keep only whole cells when clipping</source>
-        <translation type="vanished">Păstrați numai celule întregi atunci când faceți clipping</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLColorLegendDisplayNodeWidget</name>
@@ -13191,10 +13123,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsAngleMeasurementsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
         <translation>Proprietăți unghiului</translation>
@@ -13242,10 +13170,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsCurveSettingsWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
@@ -13699,10 +13623,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsInteractionHandleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
         <source>Interaction Handles</source>
         <translation>Mânere de interacțiune</translation>
@@ -13765,10 +13685,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsPlaneWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
         <source>Plane Properties</source>
@@ -13858,10 +13774,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
         <source>ROI Settings</source>
@@ -13906,10 +13818,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsTestLineOptionsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
         <source>Test Line Options</source>
         <translation>Opțiuni linii test</translation>
@@ -13917,10 +13825,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsTestLineWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
         <source>Test Line Properties</source>
@@ -14297,10 +14201,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>qMRMLNodeAttributeTableView</translation>
     </message>
     <message>
-        <source>No node selected</source>
-        <translation type="obsolete">No node selected</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="69"/>
         <source>Attribute Name</source>
         <translation>Nume atribut</translation>
@@ -14319,14 +14219,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
         <source>Attribute value</source>
         <translation>Valoare atribut</translation>
-    </message>
-    <message>
-        <source>No node is selected</source>
-        <translation type="obsolete">No node is selected</translation>
-    </message>
-    <message>
-        <source>Selected node has no attributes</source>
-        <translation type="obsolete">Selected node has no attributes</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="196"/>
@@ -14371,14 +14263,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <source>Properties</source>
         <translation>Proprietăți</translation>
     </message>
-    <message>
-        <source>Node information</source>
-        <translation type="obsolete">Node information</translation>
-    </message>
-    <message>
-        <source>No node information is available.</source>
-        <translation type="obsolete">No node information is available.</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLNodeComboBox</name>
@@ -14416,14 +14300,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>Nume nou:</translation>
     </message>
     <message>
-        <source>Create new </source>
-        <translation type="obsolete">Create new </translation>
-    </message>
-    <message>
-        <source> as...</source>
-        <translation type="obsolete"> as...</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="329"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="475"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1074"/>
@@ -14440,10 +14316,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLPlotChartPropertiesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
@@ -14579,10 +14451,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLPlotSeriesPropertiesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
@@ -14874,10 +14742,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>ROI Properties</source>
         <translation>Proprietăți ROI</translation>
@@ -15004,10 +14868,6 @@ ar trebui să setați „backface” și „frontface” la OFF în Opțiunile R
 </context>
 <context>
     <name>qMRMLSceneFactoryWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
@@ -15227,10 +15087,6 @@ ar trebui să setați „backface” și „frontface” la OFF în Opțiunile R
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
         <source>Segments Table</source>
         <translation>Tabel segmente</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="294"/>
@@ -16018,24 +15874,6 @@ Doriți să continuați cu schimbarea reprezentării sursei?</translation>
         <source>Advanced segmentation conversion</source>
         <translation>Conversie de segmentare avansată</translation>
     </message>
-    <message>
-        <source>Confirm master representation change</source>
-        <translation type="obsolete">Confirm master representation change</translation>
-    </message>
-    <message>
-        <source>Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
-This may mean losing important data that cannot be created again from the new master representation.
-
-(Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
-
-Do you wish to proceed with changing master representation?</source>
-        <translation type="obsolete">Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
-This may mean losing important data that cannot be created again from the new master representation.
-
-(Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
-
-Do you wish to proceed with changing master representation?</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLSegmentationShow3DButton</name>
@@ -16491,10 +16329,6 @@ Do you wish to proceed with changing master representation?</translation>
 </context>
 <context>
     <name>qMRMLSettingsUnitWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Unit Settings</source>
@@ -17001,34 +16835,6 @@ Do you wish to proceed with changing master representation?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>S: </source>
-        <translation type="obsolete">S: </translation>
-    </message>
-    <message>
-        <source>I &lt;-----&gt; S</source>
-        <translation type="obsolete">I &lt;-----&gt; S</translation>
-    </message>
-    <message>
-        <source>R: </source>
-        <translation type="obsolete">R: </translation>
-    </message>
-    <message>
-        <source>L &lt;-----&gt; R</source>
-        <translation type="obsolete">L &lt;-----&gt; R</translation>
-    </message>
-    <message>
-        <source>A: </source>
-        <translation type="obsolete">A: </translation>
-    </message>
-    <message>
-        <source>P &lt;-----&gt; A</source>
-        <translation type="obsolete">P &lt;-----&gt; A</translation>
-    </message>
-    <message>
-        <source>Oblique</source>
-        <translation type="obsolete">Oblique</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="409"/>
         <source>Slice distance from RAS origin</source>
         <translation>Distanța secțiunii de la originea RAS</translation>
@@ -17164,10 +16970,6 @@ Do you wish to proceed with changing master representation?</translation>
 </context>
 <context>
     <name>qMRMLSliceInformationWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Slice Information</source>
@@ -17473,51 +17275,6 @@ Do you wish to proceed with changing master representation?</translation>
         <translation type="unfinished">nod</translation>
     </message>
     <message>
-        <source>Interaction</source>
-        <oldsource>Interaction in 3D view</oldsource>
-        <translation type="vanished">Interacțiune</translation>
-    </message>
-    <message>
-        <source>Allow interactively modify the transform in 3D views</source>
-        <translation type="obsolete">Allow interactively modify the transform in 3D views</translation>
-    </message>
-    <message>
-        <source>Allow the transform to be modified interactively in the 2D and 3D views</source>
-        <translation type="vanished">Permiteți modificarea interactivă a transformării în vizualizările 2D și 3D</translation>
-    </message>
-    <message>
-        <source>Edit transform properties...</source>
-        <translation type="vanished">Editare proprietăți transformare...</translation>
-    </message>
-    <message>
-        <source>Edit properties of the current transform</source>
-        <translation type="vanished">Editați proprietățile transformării curente</translation>
-    </message>
-    <message>
-        <source>Harden transform</source>
-        <translation type="vanished">Întărire transformare</translation>
-    </message>
-    <message>
-        <source>Harden current transform on this node and all children nodes</source>
-        <translation type="vanished">Întărire transformarea curentă pe acest nod și pe toate nodurile copii</translation>
-    </message>
-    <message>
-        <source>Create new transform</source>
-        <translation type="vanished">Creare transformare nouă</translation>
-    </message>
-    <message>
-        <source>Create and apply new transform</source>
-        <translation type="vanished">Creare și aplicare o nouă transformare</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="vanished">None</translation>
-    </message>
-    <message>
-        <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="vanished">Elimină transformarea părinte din toate nodurile de pe această ramură</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
         <source>Expand tree to level...</source>
         <translation>Extinde arborele la nivel...</translation>
@@ -17665,10 +17422,6 @@ Dacă alegeți Da pentru toți, această întrebare nu va mai apărea niciodată
         <translation>Blochează primul rând</translation>
     </message>
     <message>
-        <source>1</source>
-        <translation type="obsolete">1</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="376"/>
         <source>Click to unlock this table so that values can be modified</source>
         <translation>Faceți clic pentru a debloca acest tabel, astfel încât valorile să poată fi modificate</translation>
@@ -17680,26 +17433,7 @@ Dacă alegeți Da pentru toți, această întrebare nu va mai apărea niciodată
     </message>
 </context>
 <context>
-    <name>qMRMLTableViewControllerWidgetPrivate</name>
-    <message>
-        <source>Copy</source>
-        <translation type="obsolete">Copy</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation type="obsolete">Paste</translation>
-    </message>
-    <message>
-        <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="obsolete">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
-    </message>
-</context>
-<context>
     <name>qMRMLTextWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Text Properties</source>
@@ -17758,10 +17492,6 @@ Dacă alegeți Da pentru toți, această întrebare nu va mai apărea niciodată
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="159"/>
         <source>Zoom in on the scene by a small amount.</source>
         <translation>Măriți puțin scena.</translation>
-    </message>
-    <message>
-        <source>Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</source>
-        <translation type="obsolete">Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
@@ -18128,10 +17858,6 @@ Dacă alegeți Da pentru toți, această întrebare nu va mai apărea niciodată
 <context>
     <name>qMRMLThreeDViewInformationWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>3D View Information</source>
         <translation>Informații de vizualizare 3D</translation>
@@ -18202,14 +17928,6 @@ Dacă alegeți Da pentru toți, această întrebare nu va mai apărea niciodată
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1346"/>
         <source>Show/Hide the transform widget in the 3D view.</source>
         <translation>Afișare/Ascundere widgetul de transformare în vizualizarea 3D.</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Update bounds</source>
-        <translation type="obsolete">Update bounds</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1380"/>
@@ -18952,10 +18670,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qMRMLVolumeThresholdWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
         <source>Volume Thresholding</source>
         <translation>Limitări volum</translation>
@@ -19529,10 +19243,6 @@ p, li { white-space: pre-wrap; }
         <translation>Aplicația a rămas fără memorie. </translation>
     </message>
     <message>
-        <source>winnt</source>
-        <translation type="obsolete">winnt</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="586"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
@@ -19542,10 +19252,6 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <source>linux</source>
-        <translation type="obsolete">linux</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="590"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
@@ -19553,10 +19259,6 @@ p, li { white-space: pre-wrap; }
         <translation>Creșterea dimensiunii swap în setările de sistem sau adăugarea mai multor memorie RAM poate rezolva această problemă.
 
 </translation>
-    </message>
-    <message>
-        <source>darwin</source>
-        <translation type="obsolete">darwin</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="594"/>
@@ -20021,10 +19723,6 @@ Capacitățile grafice ale acestui computer:
         <translation>Duplicare nod de culoare curent pentru a permite editarea culorilor, intervalului scalar, mărimii.</translation>
     </message>
     <message>
-        <source>Color Legend</source>
-        <translation type="vanished">Legendă culori</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="63"/>
         <source>Displayable node:</source>
         <translation>Nod afișabil:</translation>
@@ -20095,10 +19793,6 @@ Capacitățile grafice ale acestui computer:
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
         <source>Delete currently selected color</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide empty Colors: </source>
-        <translation type="vanished">Ascunde culorile goale: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -20463,21 +20157,9 @@ Capacitățile grafice ale acestui computer:
         <translation>Interpolarea este dezactivată și volumul de intrare este sub o transformare neliniară</translation>
     </message>
     <message>
-        <source>Input ROI is under a non-linear tansform.</source>
-        <translation type="obsolete">Input ROI is under a non-linear tansform.</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="130"/>
         <source>Select or create a new input ROI.</source>
         <translation>Selectează sau crează un nou ROI de intrare.</translation>
-    </message>
-    <message>
-        <source>Output volume is under a non-linear tansform.</source>
-        <translation type="obsolete">Output volume is under a non-linear tansform.</translation>
-    </message>
-    <message>
-        <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-        <translation type="obsolete">Interpolation is disabled and input volume is under a non-linear tansform</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="154"/>
@@ -21161,10 +20843,6 @@ Dacă nu este bifat, setul de date exportat va fi adăugat la baza de date DICOM
 <context>
     <name>qSlicerExtensionsButtonBox</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
         <source>Install this extension (requires restart).</source>
         <translation>Instalează această extensie (necesită repornire).</translation>
@@ -21628,10 +21306,6 @@ Dacă nu este bifat, setul de date exportat va fi adăugat la baza de date DICOM
         <translation>Extensia %1 este incompatibilă</translation>
     </message>
     <message>
-        <source>extensionName is not specified</source>
-        <translation type="obsolete">extensionName is not specified</translation>
-    </message>
-    <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3189"/>
         <source>Corrupted %1 extension package</source>
         <extracomment>%1 is extension name</extracomment>
@@ -22058,10 +21732,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLabelMapVolumeDisplayWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
         <source>Labelmap Volume Display Properties</source>
         <translation>Proprietăți de afișare a volumului Labelmap</translation>
@@ -22111,10 +21781,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerLoadableModuleTemplate</source>
         <translation>SlicerLoadableModuleTemplate</translation>
@@ -22157,10 +21823,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="126"/>
         <source>Mouse Interaction</source>
         <translation>Interacțiunea cu mouse-ul</translation>
-    </message>
-    <message>
-        <source>Capture/Restore</source>
-        <translation type="vanished">Captură/Restaurare</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="137"/>
@@ -22499,10 +22161,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="398"/>
         <source>&amp;Error Log</source>
         <translation>&amp;Error Log</translation>
-    </message>
-    <message>
-        <source>Raise the error log display.</source>
-        <translation type="obsolete">Raise the error log display.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="400"/>
@@ -22890,10 +22548,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="vanished">Unele date au fost modificate. Doriți să le salvați înainte de ieșire?</translation>
-    </message>
-    <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="612"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="707"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
@@ -22913,14 +22567,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="617"/>
         <source>Cancel exit</source>
         <translation>Anulare ieșire</translation>
-    </message>
-    <message>
-        <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation type="vanished">Unele date au fost modificate. Vrei să le salvezi înainte de a închide scena?</translation>
-    </message>
-    <message>
-        <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation type="vanished">Scena a fost modificată. Vrei să o salvezi înainte de a închide scena?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="706"/>
@@ -23910,10 +23556,6 @@ Numele coloanelor din tabel: etichetă, r, a, s, (sau l, p, s), definit, selecta
 <context>
     <name>qSlicerModelsModule</name>
     <message>
-        <source>Plots</source>
-        <translation type="obsolete">Plots</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="47"/>
         <source>Models</source>
         <translation>Modele</translation>
@@ -23980,14 +23622,6 @@ Numele coloanelor din tabel: etichetă, r, a, s, (sau l, p, s), definit, selecta
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clip node:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clipping Planes</source>
-        <translation type="vanished">Decupări planuri</translation>
-    </message>
-    <message>
-        <source>Clip selected model:</source>
-        <translation type="vanished">Decupare model selectat:</translation>
     </message>
 </context>
 <context>
@@ -24282,37 +23916,6 @@ Numele coloanelor din tabel: etichetă, r, a, s, (sau l, p, s), definit, selecta
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
         <translation>Plasați un punct de control</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerMouseModeToolBarPrivate</name>
-    <message>
-        <source>Adjust</source>
-        <translation type="obsolete">Adjust</translation>
-    </message>
-    <message>
-        <source>Adjust window/level by click-and-drag in a slice viewer.</source>
-        <translation type="obsolete">Adjust window/level by click-and-drag in a slice viewer.</translation>
-    </message>
-    <message>
-        <source>Select region</source>
-        <translation type="obsolete">Select region</translation>
-    </message>
-    <message>
-        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation type="obsolete">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</translation>
-    </message>
-    <message>
-        <source>Select region - centered</source>
-        <translation type="obsolete">Select region - centered</translation>
-    </message>
-    <message>
-        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation type="obsolete">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</translation>
-    </message>
-    <message>
-        <source>Adjust window/level</source>
-        <translation type="obsolete">Adjust window/level</translation>
     </message>
 </context>
 <context>
@@ -24635,22 +24238,6 @@ Numele coloanelor din tabel: etichetă, r, a, s, (sau l, p, s), definit, selecta
         <translation>Rotire CCW</translation>
     </message>
     <message>
-        <source>Rotation</source>
-        <translation type="obsolete">Rotation</translation>
-    </message>
-    <message>
-        <source>LR</source>
-        <translation type="obsolete">LR</translation>
-    </message>
-    <message>
-        <source>PA</source>
-        <translation type="obsolete">PA</translation>
-    </message>
-    <message>
-        <source>IS</source>
-        <translation type="obsolete">IS</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="472"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
         <translation>Orientare secțiune (Axial, Sagital, Coronal, Reformat).</translation>
@@ -24669,30 +24256,6 @@ Numele coloanelor din tabel: etichetă, r, a, s, (sau l, p, s), definit, selecta
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="489"/>
         <source>Coronal</source>
         <translation>Coronal</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation type="obsolete">Reset</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="obsolete">Normal</translation>
-    </message>
-    <message>
-        <source>NormalX</source>
-        <translation type="obsolete">NormalX</translation>
-    </message>
-    <message>
-        <source>NormalY</source>
-        <translation type="obsolete">NormalY</translation>
-    </message>
-    <message>
-        <source>NormalZ</source>
-        <translation type="obsolete">NormalZ</translation>
-    </message>
-    <message>
-        <source>Normal To Camera</source>
-        <translation type="obsolete">Normal To Camera</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="616"/>
@@ -25375,11 +24938,6 @@ Vă rugăm să alegeți un director gol.</translation>
         <translation>Segmentări</translation>
     </message>
     <message>
-        <source> Segmentation:</source>
-        <oldsource> Active segmentation:</oldsource>
-        <translation type="obsolete"> Segmentări active:</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="122"/>
         <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
         <translation>Nod care a fost folosit pentru setarea geometriei de segmentare (origine, spațiere, direcții ale axei și extinderea implicită)</translation>
@@ -25985,10 +25543,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
 <context>
     <name>qSlicerSequencesModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
         <translation>Secvențe</translation>
@@ -26171,74 +25725,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="440"/>
         <source>Sequence:</source>
         <translation>Secvență:</translation>
-    </message>
-    <message>
-        <source>Index properties</source>
-        <translation type="obsolete">Index properties</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Name:</translation>
-    </message>
-    <message>
-        <source>time</source>
-        <translation type="obsolete">time</translation>
-    </message>
-    <message>
-        <source>Unit:</source>
-        <translation type="obsolete">Unit:</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <translation type="obsolete">s</translation>
-    </message>
-    <message>
-        <source>Type:</source>
-        <translation type="obsolete">Type:</translation>
-    </message>
-    <message>
-        <source>Data nodes</source>
-        <translation type="obsolete">Data nodes</translation>
-    </message>
-    <message>
-        <source>Add/remove data nodes</source>
-        <translation type="obsolete">Add/remove data nodes</translation>
-    </message>
-    <message>
-        <source>Add to sequence items</source>
-        <translation type="obsolete">Add to sequence items</translation>
-    </message>
-    <message>
-        <source>Index value:</source>
-        <translation type="obsolete">Index value:</translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation type="obsolete">0</translation>
-    </message>
-    <message>
-        <source>Index increment:</source>
-        <translation type="obsolete">Index increment:</translation>
-    </message>
-    <message>
-        <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation type="obsolete">If enabled then after the selected node is added to the sequence items the selection moves to the next item</translation>
-    </message>
-    <message>
-        <source>Auto-advance</source>
-        <translation type="obsolete">Auto-advance</translation>
-    </message>
-    <message>
-        <source>Node type:</source>
-        <translation type="obsolete">Node type:</translation>
-    </message>
-    <message>
-        <source>undefined</source>
-        <translation type="obsolete">undefined</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Name</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>
@@ -27583,10 +27069,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerSimpleMarkupsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Markup Control Points</source>
         <translation>Puncte de control al marcajului</translation>
@@ -28058,13 +27540,6 @@ Selectați pluginul pentru a adăuga nodul numit
     </message>
 </context>
 <context>
-    <name>qSlicerSubjectHierarchySceneViewsPlugin</name>
-    <message>
-        <source>Restore scene view</source>
-        <translation type="vanished">Restabilire vizualizare scenă</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerSubjectHierarchySegmentationsPlugin</name>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="109"/>
@@ -28398,10 +27873,6 @@ Etichete: %6</translation>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="161"/>
         <source>Use standard terminology:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>  ID:</source>
-        <translation type="vanished">  ID:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="111"/>
@@ -28864,10 +28335,6 @@ Etichete: %6</translation>
 <context>
     <name>qSlicerSuperLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
         <translation>SlicerSuperLoadableModuleTemplate</translation>
@@ -29004,10 +28471,6 @@ Etichete: %6</translation>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
         <source>Title:</source>
         <translation>Titlu:</translation>
-    </message>
-    <message>
-        <source>Long name:</source>
-        <translation type="obsolete">Long name:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="197"/>
@@ -29234,10 +28697,6 @@ Etichete: %6</translation>
 <context>
     <name>qSlicerTemplateKeyModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
         <translation>TemplateKey</translation>
@@ -29357,14 +28816,6 @@ Etichete: %6</translation>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
         <translation>Fără modificator de tip</translation>
-    </message>
-    <message>
-        <source>Select anatomic region context...</source>
-        <translation type="vanished">Selectați contextul regiunii anatomice...</translation>
-    </message>
-    <message>
-        <source>Anatomic region...</source>
-        <translation type="vanished">Regiunea anatomică...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="416"/>
@@ -29517,11 +28968,6 @@ Doriți să actualizați fișierul context stocat cu cel recent încărcat?</tra
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
         <translation>Transformări</translation>
-    </message>
-    <message>
-        <source> Transform:</source>
-        <oldsource>Active Transform:</oldsource>
-        <translation type="obsolete">Transformarea activă:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="112"/>
@@ -29762,10 +29208,6 @@ Aceasta ar trebui să fie utilizată numai de utilizatorii avansați care înțe
 </context>
 <context>
     <name>qSlicerViewControllersModuleWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>View Controllers</source>
@@ -30025,145 +29467,6 @@ Aceasta ar trebui să fie utilizată numai de utilizatorii avansați care înțe
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="obsolete">Show how the other slice planes intersect each slice plane.</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerViewersToolBarPrivate</name>
-    <message>
-        <source>No jump slices</source>
-        <translation type="obsolete">No jump slices</translation>
-    </message>
-    <message>
-        <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation type="obsolete">Slice views are not repositioned when crosshair is moved.</translation>
-    </message>
-    <message>
-        <source>Jump slices - offset</source>
-        <translation type="obsolete">Jump slices - offset</translation>
-    </message>
-    <message>
-        <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation type="obsolete">Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</translation>
-    </message>
-    <message>
-        <source>Jump slices - centered</source>
-        <translation type="obsolete">Jump slices - centered</translation>
-    </message>
-    <message>
-        <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation type="obsolete">Slice views are centered on crosshair position (even if crosshair is not displayed).</translation>
-    </message>
-    <message>
-        <source>No crosshair</source>
-        <translation type="obsolete">No crosshair</translation>
-    </message>
-    <message>
-        <source>No crosshair displayed.</source>
-        <translation type="obsolete">No crosshair displayed.</translation>
-    </message>
-    <message>
-        <source>Basic crosshair</source>
-        <translation type="obsolete">Basic crosshair</translation>
-    </message>
-    <message>
-        <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="obsolete">Basic crosshair extending across the field of view with a small gap at the crosshair position.</translation>
-    </message>
-    <message>
-        <source>Basic + intersection</source>
-        <translation type="obsolete">Basic + intersection</translation>
-    </message>
-    <message>
-        <source>Basic crosshair extending across the field of view.</source>
-        <translation type="obsolete">Basic crosshair extending across the field of view.</translation>
-    </message>
-    <message>
-        <source>Small basic crosshair</source>
-        <translation type="obsolete">Small basic crosshair</translation>
-    </message>
-    <message>
-        <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="obsolete">Small crosshair with a small gap at the crosshair position.</translation>
-    </message>
-    <message>
-        <source>Small basic + intersection</source>
-        <translation type="obsolete">Small basic + intersection</translation>
-    </message>
-    <message>
-        <source>Small crosshair.</source>
-        <translation type="obsolete">Small crosshair.</translation>
-    </message>
-    <message>
-        <source>Fine crosshair</source>
-        <translation type="obsolete">Fine crosshair</translation>
-    </message>
-    <message>
-        <source>Fine crosshair.</source>
-        <translation type="obsolete">Fine crosshair.</translation>
-    </message>
-    <message>
-        <source>Medium crosshair</source>
-        <translation type="obsolete">Medium crosshair</translation>
-    </message>
-    <message>
-        <source>Medium crosshair.</source>
-        <translation type="obsolete">Medium crosshair.</translation>
-    </message>
-    <message>
-        <source>Thick crosshair</source>
-        <translation type="obsolete">Thick crosshair</translation>
-    </message>
-    <message>
-        <source>Thick crosshair.</source>
-        <translation type="obsolete">Thick crosshair.</translation>
-    </message>
-    <message>
-        <source>Slice intersections</source>
-        <translation type="obsolete">Slice intersections</translation>
-    </message>
-    <message>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="obsolete">Show how the other slice planes intersect each slice plane.</translation>
-    </message>
-    <message>
-        <source>Interaction</source>
-        <translation type="obsolete">Interaction</translation>
-    </message>
-    <message>
-        <source>Show handles for slice interaction.</source>
-        <translation type="obsolete">Show handles for slice interaction.</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="obsolete">Translate</translation>
-    </message>
-    <message>
-        <source>Control visibility of translation handles for slice intersection.</source>
-        <translation type="obsolete">Control visibility of translation handles for slice intersection.</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="obsolete">Rotate</translation>
-    </message>
-    <message>
-        <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation type="obsolete">Control visibility of rotation handles for slice intersection.</translation>
-    </message>
-    <message>
-        <source>Interaction options</source>
-        <translation type="obsolete">Interaction options</translation>
-    </message>
-    <message>
-        <source>Crosshair</source>
-        <translation type="obsolete">Crosshair</translation>
-    </message>
-    <message>
-        <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation type="obsolete">Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</translation>
-    </message>
 </context>
 <context>
     <name>qSlicerVolumeRenderingModule</name>
@@ -30204,10 +29507,6 @@ Aceasta ar trebui să fie utilizată numai de utilizatorii avansați care înțe
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
         <translation type="unfinished">Volume Rendering</translation>
-    </message>
-    <message>
-        <source>Volume:</source>
-        <translation type="obsolete">Volume:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="99"/>
@@ -30553,11 +29852,6 @@ Aceasta ar trebui să fie utilizată numai de utilizatorii avansați care înțe
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
         <source>Volumes</source>
         <translation type="unfinished">Volumes</translation>
-    </message>
-    <message>
-        <source> Volume: </source>
-        <oldsource>Active Volume: </oldsource>
-        <translation type="obsolete">Active Volume: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="103"/>

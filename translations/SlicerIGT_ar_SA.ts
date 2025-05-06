@@ -2,120 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ar_SA">
 <context>
-    <name>CLI_AddScalarVolumes</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_BRAINSFit</name>
-    <message>
-        <source>Off</source>
-        <translation type="obsolete">إيقاف</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_BRAINSResample</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="obsolete">المدخلات</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_BRAINSResize</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="obsolete">المدخلات</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_ExtractSkeleton</name>
-    <message>
-        <source>1D</source>
-        <translation type="obsolete">1D</translation>
-    </message>
-    <message>
-        <source>2D</source>
-        <translation type="obsolete">2D</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_FiducialRegistration</name>
-    <message>
-        <source>Rigid</source>
-        <translation type="obsolete">جامدة</translation>
-    </message>
-    <message>
-        <source>Similarity</source>
-        <translation type="obsolete">التشابه</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_GradientAnisotropicDiffusion</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_GrayscaleModelMaker</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_MaskScalarVolume</name>
-    <message>
-        <source>Settings</source>
-        <translation type="obsolete">إعدادات</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_ModelToLabelMap</name>
-    <message>
-        <source>Settings</source>
-        <translation type="obsolete">إعدادات</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_MultiplyScalarVolumes</name>
-    <message>
-        <source>Controls</source>
-        <translation type="obsolete">ضوابط</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_OrientScalarVolume</name>
-    <message>
-        <source>Axial</source>
-        <translation type="obsolete">محوري</translation>
-    </message>
-    <message>
-        <source>Coronal</source>
-        <translation type="obsolete">الإكليلي</translation>
-    </message>
-    <message>
-        <source>Sagittal</source>
-        <translation type="obsolete">سهمي</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_SubtractScalarVolumes</name>
-    <message>
-        <source>Controls</source>
-        <translation type="obsolete">ضوابط</translation>
-    </message>
-</context>
-<context>
-    <name>DICOMLib.DICOMBrowser</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-</context>
-<context>
     <name>FiducialsToModelRegistration</name>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="24"/>
@@ -208,13 +94,6 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
         <source>Number of iterations:</source>
         <translation>عدد التكرارات:</translation>
-    </message>
-</context>
-<context>
-    <name>Form</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">شكل</translation>
     </message>
 </context>
 <context>
@@ -440,35 +319,6 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     </message>
 </context>
 <context>
-    <name>ScenePerformance</name>
-    <message>
-        <source>Results</source>
-        <translation type="obsolete">نتائج</translation>
-    </message>
-</context>
-<context>
-    <name>ScreenCapture</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-</context>
-<context>
-    <name>SegmentStatistics</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="obsolete">المدخلات</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="obsolete">تطبيق</translation>
-    </message>
-</context>
-<context>
     <name>SequenceReplay</name>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
@@ -511,36 +361,6 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 تم تطوير هذا الملف في الأصل بواسطة Jean-Christophe Fillion-Robin، Kitware Inc.، Andras Lasso، PerkLab،
 وSteve Pieper، Isomics، Inc. وتم تمويله جزئيًا من قبل 3P41RR013218-12S1 منح المعاهد الوطنية للصحة.
 </translation>
-    </message>
-</context>
-<context>
-    <name>Settings</name>
-    <message>
-        <source>1</source>
-        <translation type="obsolete">1</translation>
-    </message>
-    <message>
-        <source>2</source>
-        <translation type="obsolete">2</translation>
-    </message>
-    <message>
-        <source>3</source>
-        <translation type="obsolete">3</translation>
-    </message>
-</context>
-<context>
-    <name>TemplateKey</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="obsolete">المدخلات</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="obsolete">تطبيق</translation>
     </message>
 </context>
 <context>
@@ -622,21 +442,6 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
         <location filename="TextureModel/TextureModel.py" line="99"/>
         <source>Apply texture to selected model.</source>
         <translation>طبق الملمس على نموذج مختار.</translation>
-    </message>
-    <message>
-        <source>Finished with download and loading</source>
-        <translation type="vanished">انتهى بالتنزيل والتحميل</translation>
-    </message>
-    <message>
-        <source>Test passed!</source>
-        <translation type="vanished">اجتاز الاختبار!</translation>
-    </message>
-</context>
-<context>
-    <name>VectorToScalarVolume</name>
-    <message>
-        <source>Apply</source>
-        <translation type="obsolete">تطبيق</translation>
     </message>
 </context>
 <context>
@@ -964,193 +769,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     </message>
 </context>
 <context>
-    <name>qMRMLMarkupsCurveSettingsWidget</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLMarkupsDisplayNodeWidget</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLModelDisplayNodeWidget</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-    <message>
-        <source>Mode:</source>
-        <translation type="obsolete">وضع:</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLModelInfoWidget</name>
-    <message>
-        <source>0</source>
-        <translation type="obsolete">0</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLPlotViewControllerWidget</name>
-    <message>
-        <source>P</source>
-        <translation type="obsolete">P</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLScalarsDisplayWidget</name>
-    <message>
-        <source>Manual</source>
-        <translation type="obsolete">يدوي</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLSegmentationDisplayNodeWidget</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLSegmentationRepresentationsListView</name>
-    <message>
-        <source>Update</source>
-        <translation type="obsolete">تحديث</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLSliceControllerWidget</name>
-    <message>
-        <source>Axial</source>
-        <translation type="obsolete">محوري</translation>
-    </message>
-    <message>
-        <source>Sagittal</source>
-        <translation type="obsolete">سهمي</translation>
-    </message>
-    <message>
-        <source>Coronal</source>
-        <translation type="obsolete">الإكليلي</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLSliceControllerWidgetPrivate</name>
-    <message>
-        <source>Apply</source>
-        <translation type="obsolete">تطبيق</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLSliceInformationWidget</name>
-    <message>
-        <source>Axial</source>
-        <translation type="obsolete">محوري</translation>
-    </message>
-    <message>
-        <source>Sagittal</source>
-        <translation type="obsolete">سهمي</translation>
-    </message>
-    <message>
-        <source>Coronal</source>
-        <translation type="obsolete">الإكليلي</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-    <message>
-        <source>Manual</source>
-        <translation type="obsolete">يدوي</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLTableViewControllerWidget</name>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLThreeDViewControllerWidget</name>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-    <message>
-        <source>1</source>
-        <translation type="obsolete">1</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLTransformDisplayNodeWidget</name>
-    <message>
-        <source>Visualization</source>
-        <translation type="obsolete">التصور</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-    <message>
-        <source>1 2 3 4</source>
-        <translation type="obsolete">1 2 3 4</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLVolumeInfoWidget</name>
-    <message>
-        <source>0,0,0</source>
-        <translation type="obsolete">0,0,0</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLVolumeThresholdWidget</name>
-    <message>
-        <source>Auto</source>
-        <translation type="obsolete">تلقائي</translation>
-    </message>
-    <message>
-        <source>Manual</source>
-        <translation type="obsolete">يدوي</translation>
-    </message>
-    <message>
-        <source>Off</source>
-        <translation type="obsolete">إيقاف</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLWindowLevelWidget</name>
-    <message>
-        <source>Auto</source>
-        <translation type="obsolete">تلقائي</translation>
-    </message>
-    <message>
-        <source>Manual</source>
-        <translation type="obsolete">يدوي</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerAbstractCoreModule</name>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="18"/>
@@ -1284,24 +902,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="BreachWarning/qSlicerBreachWarningModule.h" line="50"/>
         <source>Breach Warning</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerCLIModuleWidget</name>
-    <message>
-        <source>Parameter set:</source>
-        <translation type="obsolete">مجموعة المعلمة:</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="obsolete">تطبيق</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerCLIProgressBar</name>
-    <message>
-        <source>Status:</source>
-        <translation type="obsolete">الحالة:</translation>
     </message>
 </context>
 <context>
@@ -1655,32 +1255,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     </message>
 </context>
 <context>
-    <name>qSlicerCropVolumeModuleWidget</name>
-    <message>
-        <source>Parameter set:</source>
-        <translation type="obsolete">مجموعة المعلمة:</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-    <message>
-        <source>0,0,0</source>
-        <translation type="obsolete">0,0,0</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="obsolete">تطبيق</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerExtensionsButtonBox</name>
-    <message>
-        <source>Update</source>
-        <translation type="obsolete">تحديث</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerFiducialRegistrationWizardModule</name>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="14"/>
@@ -1983,61 +1557,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModuleWidget.cxx" line="205"/>
         <source>Stop</source>
         <translation>توقف</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerLoadableModuleTemplateFooBarWidget</name>
-    <message>
-        <source>Foo bar</source>
-        <translation type="obsolete">Foo bar</translation>
-    </message>
-    <message>
-        <source>Foo Bar</source>
-        <translation type="obsolete">Foo Bar</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerLoadableModuleTemplateModuleWidget</name>
-    <message>
-        <source>Display</source>
-        <translation type="obsolete">عرض</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerMarkupsModule</name>
-    <message>
-        <source>Display</source>
-        <translation type="obsolete">عرض</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation type="obsolete">إعادة ضبط</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="obsolete">تطبيق</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerMarkupsPlaceWidget</name>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-    <message>
-        <source>Delete options</source>
-        <translation type="obsolete">خيارات الحذف</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerModelsModuleWidget</name>
-    <message>
-        <source>Display</source>
-        <translation type="obsolete">عرض</translation>
     </message>
 </context>
 <context>
@@ -2516,25 +2035,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     </message>
 </context>
 <context>
-    <name>qSlicerReformatModuleWidget</name>
-    <message>
-        <source>Rotation:</source>
-        <translation type="obsolete">التناوب:</translation>
-    </message>
-    <message>
-        <source>Axial</source>
-        <translation type="obsolete">محوري</translation>
-    </message>
-    <message>
-        <source>Sagittal</source>
-        <translation type="obsolete">سهمي</translation>
-    </message>
-    <message>
-        <source>Coronal</source>
-        <translation type="obsolete">الإكليلي</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerReslicePropertyWidget</name>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="26"/>
@@ -2647,105 +2147,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     </message>
 </context>
 <context>
-    <name>qSlicerSegmentEditorPaintEffect</name>
-    <message>
-        <source>mm</source>
-        <translation type="obsolete">مم</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerSegmentationsModule</name>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-    <message>
-        <source>Display</source>
-        <translation type="obsolete">عرض</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="obsolete">تطبيق</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation type="obsolete">0</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerSequencesModuleWidget</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerSubjectHierarchyPathExplorerPlugin</name>
     <message>
         <location filename="PathExplorer/SubjectHierarchyPlugins/qSlicerSubjectHierarchyPathExplorerPlugin.cxx" line="144"/>
         <source>Path Explorer trajectories</source>
         <translation>مسارات مستكشف المسار</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerSubjectHierarchySettingsPanel</name>
-    <message>
-        <source>Display</source>
-        <translation type="obsolete">عرض</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerSuperLoadableModuleTemplateFooBarWidget</name>
-    <message>
-        <source>Foo bar</source>
-        <translation type="obsolete">Foo bar</translation>
-    </message>
-    <message>
-        <source>Foo Bar</source>
-        <translation type="obsolete">Foo Bar</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerSuperLoadableModuleTemplateModuleWidget</name>
-    <message>
-        <source>Display</source>
-        <translation type="obsolete">عرض</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerTablesModuleWidget</name>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerTemplateKeyFooBarWidget</name>
-    <message>
-        <source>Foo bar</source>
-        <translation type="obsolete">Foo bar</translation>
-    </message>
-    <message>
-        <source>Foo Bar</source>
-        <translation type="obsolete">Foo Bar</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerTemplateKeyModuleWidget</name>
-    <message>
-        <source>Display</source>
-        <translation type="obsolete">عرض</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerTextsModuleWidget</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
     </message>
 </context>
 <context>
@@ -3088,21 +2494,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     </message>
 </context>
 <context>
-    <name>qSlicerTransformsModuleWidget</name>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-    <message>
-        <source>Display</source>
-        <translation type="obsolete">عرض</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="obsolete">تطبيق</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerUltrasoundSnapshotsModule</name>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="20"/>
@@ -3176,13 +2567,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModuleWidget.cxx" line="123"/>
         <source>Continue with this action?</source>
         <translation>استمر في هذا العمل ؟</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerViewControllersModuleWidget</name>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">متقدم</translation>
     </message>
 </context>
 <context>
@@ -3575,17 +2959,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     </message>
 </context>
 <context>
-    <name>qSlicerVolumeRenderingModuleWidget</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="obsolete">المدخلات</translation>
-    </message>
-    <message>
-        <source>Display</source>
-        <translation type="obsolete">عرض</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerVolumeResliceDriverModule</name>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="14"/>
@@ -3621,13 +2994,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
         <source>Volume Reslice Driver</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerVolumesModuleWidget</name>
-    <message>
-        <source>Display</source>
-        <translation type="obsolete">عرض</translation>
     </message>
 </context>
 <context>

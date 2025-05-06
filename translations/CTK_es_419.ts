@@ -619,153 +619,6 @@ Configurable behaviour for testing purposes.
     </message>
 </context>
 <context>
-    <name>QCenteredItemModel</name>
-    <message>
-        <source>Query patients</source>
-        <translation type="vanished">Consultar pacientes</translation>
-    </message>
-    <message>
-        <source>Query studies</source>
-        <translation type="vanished">Estudios de consulta</translation>
-    </message>
-    <message>
-        <source>Query series</source>
-        <translation type="vanished">Serie de consultas</translation>
-    </message>
-    <message>
-        <source>Query instances</source>
-        <translation type="vanished">Instancias de consulta</translation>
-    </message>
-    <message>
-        <source>Retrieve patients</source>
-        <translation type="vanished">Recuperar pacientes</translation>
-    </message>
-    <message>
-        <source>Retrieve studies</source>
-        <translation type="vanished">Recuperar estudios</translation>
-    </message>
-    <message>
-        <source>Retrieve series</source>
-        <translation type="vanished">Recuperar series</translation>
-    </message>
-    <message>
-        <source>Retrieve instances</source>
-        <translation type="vanished">Recuperar instancias</translation>
-    </message>
-    <message>
-        <source>Storage listener</source>
-        <translation type="vanished">Receptor de almacenamiento</translation>
-    </message>
-    <message>
-        <source>Echo server</source>
-        <translation type="vanished">Servidor Eco</translation>
-    </message>
-    <message>
-        <source>Inserter</source>
-        <translation type="vanished">Insertador</translation>
-    </message>
-    <message>
-        <source>initialized</source>
-        <translation type="vanished">inicializado</translation>
-    </message>
-    <message>
-        <source>queued</source>
-        <translation type="vanished">en espera</translation>
-    </message>
-    <message>
-        <source>in-progress</source>
-        <translation type="vanished">en curso</translation>
-    </message>
-    <message>
-        <source>failed</source>
-        <translation type="vanished">ha fallado</translation>
-    </message>
-    <message>
-        <source>user-stopped</source>
-        <translation type="vanished">detenido por el usuario</translation>
-    </message>
-    <message>
-        <source>attempt-failed</source>
-        <translation type="vanished">intento fallido</translation>
-    </message>
-    <message>
-        <source>completed</source>
-        <translation type="vanished">completado</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation type="vanished">Tipo</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Estado</translation>
-    </message>
-    <message>
-        <source>Progress</source>
-        <translation type="vanished">Progreso</translation>
-    </message>
-    <message>
-        <source>Time and Date</source>
-        <translation type="vanished">Fecha y hora</translation>
-    </message>
-    <message>
-        <source>Starting Time and Date</source>
-        <translation type="vanished">Fecha y hora de inicio</translation>
-    </message>
-    <message>
-        <source>Completion Time and Date</source>
-        <translation type="vanished">Fecha y hora de finalización</translation>
-    </message>
-    <message>
-        <source>DICOM Level</source>
-        <translation type="vanished">Nivel DICOM</translation>
-    </message>
-    <message>
-        <source>Patient ID</source>
-        <translation type="obsolete">Identificador del paciente</translation>
-    </message>
-    <message>
-        <source>Patient Name</source>
-        <translation type="vanished">Nombre del paciente</translation>
-    </message>
-    <message>
-        <source>Birth Date</source>
-        <translation type="vanished">Fecha de nacimiento</translation>
-    </message>
-    <message>
-        <source>Study UID</source>
-        <translation type="vanished">UID del estudio</translation>
-    </message>
-    <message>
-        <source>Series UID</source>
-        <translation type="vanished">Serie UID</translation>
-    </message>
-    <message>
-        <source>SOP UID</source>
-        <translation type="vanished">SOP UID</translation>
-    </message>
-    <message>
-        <source>Connection</source>
-        <translation type="vanished">Conexión</translation>
-    </message>
-    <message>
-        <source>Job UID</source>
-        <translation type="obsolete">Job UID</translation>
-    </message>
-    <message>
-        <source>Class</source>
-        <translation type="vanished">Clase</translation>
-    </message>
-    <message>
-        <source>Thread</source>
-        <translation type="vanished">Hilo</translation>
-    </message>
-    <message>
-        <source>Logging</source>
-        <translation type="vanished">Inicio de sesión</translation>
-    </message>
-</context>
-<context>
     <name>ctkActionsWidget</name>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
@@ -2892,108 +2745,6 @@ p, li { white-space: pre-wrap; }
         <source>Study</source>
         <translation>Estudio</translation>
     </message>
-    <message>
-        <source>  -  %1</source>
-        <translation type="vanished">  -  %1</translation>
-    </message>
-</context>
-<context>
-    <name>ctkDICOMPatientItemWidgetPrivate</name>
-    <message>
-        <source>UNDEFINED</source>
-        <translation type="vanished">INDEFINIDO</translation>
-    </message>
-</context>
-<context>
-    <name>ctkDICOMQuery</name>
-    <message>
-        <source>DB open in Query</source>
-        <translation type="vanished">Base de datos abierta en consulta</translation>
-    </message>
-    <message>
-        <source>DB not open in Query</source>
-        <translation type="vanished">La base de datos no se abre en consulta</translation>
-    </message>
-    <message>
-        <source>Processing: </source>
-        <translation type="vanished">Procesando: </translation>
-    </message>
-    <message>
-        <source>Starting Patients C-FIND</source>
-        <translation type="obsolete">Inicio de pacientes C-FIND</translation>
-    </message>
-    <message>
-        <source>Find succeeded on Patient level</source>
-        <translation type="vanished">Buscar con éxito en el nivel del paciente</translation>
-    </message>
-    <message>
-        <source>Find on Patient level failed</source>
-        <translation type="vanished">Buscar sin éxito en el nivel del paciente</translation>
-    </message>
-    <message>
-        <source>Starting Studies C-FIND for Patient: </source>
-        <translation type="vanished">Inicio de los estudios C-FIND para el paciente: </translation>
-    </message>
-    <message>
-        <source>Find succeeded on Study level for Patient: </source>
-        <translation type="vanished">Encuentra éxito en el nivel de estudio para el paciente: </translation>
-    </message>
-    <message>
-        <source>Find on Study level failed for Patient: </source>
-        <translation type="vanished">Buscar en Nivel de estudio fallido para paciente: </translation>
-    </message>
-    <message>
-        <source>Starting Instances C-FIND for Series: </source>
-        <translation type="vanished">Iniciando instancias C-FIND para series: </translation>
-    </message>
-    <message>
-        <source>Setting Transfer Syntaxes</source>
-        <translation type="vanished">Configuración de las sintaxis de transferencia</translation>
-    </message>
-    <message>
-        <source>Error initializing the network</source>
-        <translation type="vanished">Error al iniciar la red</translation>
-    </message>
-    <message>
-        <source>Negotiating Association</source>
-        <translation type="vanished">Asociación negociadora</translation>
-    </message>
-    <message>
-        <source>Error negotiating the association</source>
-        <translation type="vanished">Error al negociar la asociación</translation>
-    </message>
-    <message>
-        <source>Failed to find acceptable presentation context</source>
-        <translation type="vanished">No se ha encontrado un contexto de presentación aceptable</translation>
-    </message>
-    <message>
-        <source>Found useful presentation context</source>
-        <translation type="vanished">Contexto de presentación útil</translation>
-    </message>
-    <message>
-        <source>Find failed</source>
-        <translation type="vanished">Búsqueda fallida</translation>
-    </message>
-    <message>
-        <source>Find succeeded</source>
-        <translation type="vanished">Búsqueda exitosa</translation>
-    </message>
-    <message>
-        <source>Processing Study: </source>
-        <translation type="vanished">Estudio de procesamiento: </translation>
-    </message>
-    <message>
-        <source>Starting Series C-FIND for Study: </source>
-        <translation type="vanished">Inicio de la serie C-FIND para el estudio: </translation>
-    </message>
-    <message>
-        <source>Find succeeded on Series level for Study: </source>
-        <translation type="vanished">Búsqueda exitosa a nivel de serie para el estudio: </translation>
-    </message>
-    <message>
-        <source>Find on Series level failed for Study: </source>
-        <translation type="vanished">Encontrar el nivel de la serie fallido para el estudio: </translation>
-    </message>
 </context>
 <context>
     <name>ctkDICOMQueryRetrieveWidget</name>
@@ -3140,30 +2891,6 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="204"/>
         <source>Got CGET response</source>
         <translation>Respuesta del CGET</translation>
-    </message>
-    <message>
-        <source>Sending Get Request</source>
-        <translation type="vanished">Envío de la solicitud Get</translation>
-    </message>
-    <message>
-        <source>Found Presentation Context</source>
-        <translation type="vanished">Contexto de la presentación encontrada</translation>
-    </message>
-    <message>
-        <source>Sent Get Request</source>
-        <translation type="vanished">Solicitud Get enviada</translation>
-    </message>
-    <message>
-        <source>No Responses from Server!</source>
-        <translation type="vanished">¡No hay respuesta del servidor!</translation>
-    </message>
-    <message>
-        <source>Got Responses</source>
-        <translation type="vanished">Respuestas recibidas</translation>
-    </message>
-    <message>
-        <source>Finished Get</source>
-        <translation type="vanished">Get finalizado</translation>
     </message>
 </context>
 <context>
@@ -3451,13 +3178,6 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyItemWidget.cpp" line="250"/>
         <source>UNDEFINED</source>
         <translation>INDEFINIDO</translation>
-    </message>
-</context>
-<context>
-    <name>ctkDICOMStudyItemWidgetPrivate</name>
-    <message>
-        <source>UNDEFINED</source>
-        <translation type="vanished">INDEFINIDO</translation>
     </message>
 </context>
 <context>
@@ -3968,10 +3688,6 @@ Por favor, establezca al menos un filtro para consultar los servidores</translat
         <translation>Recuperar y procesar series seleccionadas...</translation>
     </message>
     <message>
-        <source>Database folder does not contain ctkDICOM.sql file: </source>
-        <translation type="vanished">La carpeta de la base de datos no contiene el archivo ctkDICOM.sql: </translation>
-    </message>
-    <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2328"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2356"/>
         <source>No valid DICOM database found in folder %1.</source>
@@ -3983,12 +3699,6 @@ Por favor, establezca al menos un filtro para consultar los servidores</translat
         <source>Database error: %1 
 </source>
         <translation>Error de base de datos: %1 
-</translation>
-    </message>
-    <message>
-        <source>Database version mismatch: version of selected database = %1, version required = %2 
-</source>
-        <translation type="vanished">Versión de la base de datos no coincidente: versión de la base de datos seleccionada = %1, versión requerida = %2 
 </translation>
     </message>
     <message>

@@ -174,10 +174,6 @@
         <translation>Raccourci clavier&#xa0;:</translation>
     </message>
     <message>
-        <source> (shortcut: Ctrl+6)</source>
-        <translation type="vanished"> (raccourci&#xa0;: Ctrl+6)</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
         <translation>Outils de langue</translation>

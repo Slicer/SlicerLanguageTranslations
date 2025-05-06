@@ -5470,10 +5470,6 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
         <translation>Parámetros de orientación</translation>
     </message>
     <message>
-        <source>Orientation of output</source>
-        <translation type="vanished">Orientación de la salida</translation>
-    </message>
-    <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
         <translation type="unfinished"></translation>
@@ -7911,10 +7907,6 @@ This file was originally developed by Andras Lasso
         <translation>No es posible importar archivos cuyos nombres contengan caracteres especiales (no ASCII). Se recomienda mover los archivos a otra carpeta y volver a intentarlo. ¿Quiere intentar importar desde la ubicación actual de todos modos?</translation>
     </message>
     <message>
-        <source>Import from folders with special (non-ASCII) characters in the name is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="vanished">No se admite la importación desde carpetas con caracteres especiales (no ASCII) en el nombre. Se recomienda mover los archivos a otra carpeta y volver a intentarlo. ¿Quiere intentar importar desde la ubicación actual?</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="613"/>
         <source>Import options</source>
         <translation>Opciones de importación</translation>
@@ -8538,37 +8530,6 @@ This file was originally developed by Andras Lasso
     </message>
 </context>
 <context>
-    <name>DMRIInstall</name>
-    <message>
-        <source>Install Slicer Diffusion Tools (SlicerDMRI)</source>
-        <translation type="vanished">Instalar las herramientas de difusión Slicer (SlicerDMRI)</translation>
-    </message>
-    <message>
-        <source>
-    SlicerDMRI supported by NIH NCI ITCR U01CA199459 (Open Source Diffusion MRI
-    Technology For Brain Cancer Research), and made possible by NA-MIC, NAC,
-    BIRN, NCIGT, and the Slicer Community.
-    </source>
-        <translation type="vanished">
-    SlicerDMRI cuenta con el apoyo de NIH NCI ITCR U01CA199459 (Open Source Diffusion MRI
-    Technology For Brain Cancer Research), y ha sido posible gracias a NA-MIC, NAC,
-    BIRN, NCIGT y la comunidad Slicer.
-    </translation>
-    </message>
-    <message>
-        <source>Installs the &quot;SlicerDMRI&quot; extension from the Diffusion category.</source>
-        <translation type="vanished">Instala la extensión &quot;SlicerDMRI&quot; de la categoría Difusión.</translation>
-    </message>
-    <message>
-        <source>SlicerDMRI is already installed.</source>
-        <translation type="vanished">SlicerDMRI ya se instaló.</translation>
-    </message>
-    <message>
-        <source>Restart to complete SlicerDMRI installation?</source>
-        <translation type="vanished">¿Reiniciar para completar la instalación de SlicerDMRI?</translation>
-    </message>
-</context>
-<context>
     <name>DataProbe</name>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="31"/>
@@ -8667,26 +8628,6 @@ RAS indicada por la posición del mouse.
         <translation>Endoscopía</translation>
     </message>
     <message>
-        <source>
-Create a path model as a spline interpolation of a set of fiducial points.
-Pick the Camera to be modified by the path and the Fiducial List defining the control points.
-Clicking &quot;Create path&quot; will make a path model and enable the flythrough panel.
-You can manually scroll through the path with the Frame slider. The Play/Pause button toggles animated flythrough.
-The Frame Skip slider speeds up the animation by skipping points on the path.
-The Frame Delay slider slows down the animation by adding more time between frames.
-The View Angle provides is used to approximate the optics of an endoscopy system.
-</source>
-        <translation type="vanished">
-Cree un modelo de trayectoria como una interpolación spline de un conjunto de puntos fiduciales.
-Seleccione la cámara que será modificada por la trayectoria y la lista de puntos fiduciales que definen los puntos de control.
-Al hacer clic en &quot;Crear ruta&quot; se creará un modelo de ruta y se activará el panel de desplazamiento.
-Puede desplazarse manualmente por la trayectoria con el control deslizante Fotograma. El botón Reproducir/Pausa activa la animación.
-El deslizador Omitir fotograma acelera la animación saltando puntos del recorrido.
-El deslizador Retraso de fotograma ralentiza la animación añadiendo más tiempo entre fotogramas.
-El ángulo de visión se utiliza para aproximar la óptica de un sistema de endoscopia.
-</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="67"/>
         <source>
 This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
@@ -8708,26 +8649,6 @@ NA-MIC, NAC, BIRN, NCIGT, y la comunidad Slicer.
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="116"/>
         <source>Select a camera that will fly along this path.</source>
         <translation>Selecciona una cámara que vuele a lo largo de esta trayectoria.</translation>
-    </message>
-    <message>
-        <source>Select a fiducial list to define control points for the path.</source>
-        <translation type="vanished">Seleccione una lista de puntos de referencia para definir los puntos de control de la trayectoria.</translation>
-    </message>
-    <message>
-        <source>Input Fiducials:</source>
-        <translation type="vanished">Fiduciarios de entrada:</translation>
-    </message>
-    <message>
-        <source>Output Path:</source>
-        <translation type="vanished">Ruta de salida:</translation>
-    </message>
-    <message>
-        <source>Create path</source>
-        <translation type="vanished">Crear ruta</translation>
-    </message>
-    <message>
-        <source>Create the path.</source>
-        <translation type="vanished">Crear la ruta.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="53"/>
@@ -8922,14 +8843,6 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="411"/>
         <source>Stop flythrough</source>
         <translation>Detener vista de sobrevuelo</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="vanished">Reproducir</translation>
-    </message>
-    <message>
-        <source>Fly through path.</source>
-        <translation type="vanished">Navigation suivant la trajectoire.</translation>
     </message>
 </context>
 <context>
@@ -9516,10 +9429,6 @@ utilizar con fines comerciales estos datos.&lt;/p&gt;
         <translation>El archivo ya existe en la caché - reutilizarlo.</translation>
     </message>
     <message>
-        <source>Requesting load {uri}</source>
-        <translation type="vanished">Solicitando carga {uri}</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1004"/>
         <source>Load failed!</source>
         <translation>¡Carga fallida!</translation>
@@ -9658,10 +9567,6 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
         <translation>Entrada</translation>
     </message>
     <message>
-        <source>This slice or 3D view will be updated during capture.Only this view will be captured unless &apos;Capture of all views&apos; option in output section is enabled.</source>
-        <translation type="vanished">Sólo se capturará esta vista a menos que se active la opción &quot;Capturar todas las vistas&quot; en la sección de salida.</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="91"/>
         <source>Main view: </source>
         <translation>Vista principal: </translation>
@@ -9675,14 +9580,6 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="96"/>
         <source>Capture all views:</source>
         <translation>Capturar todas las vistas:</translation>
-    </message>
-    <message>
-        <source>Select the property that will be adjusted</source>
-        <translation type="vanished">Seleccione la propiedad que va a ser ajustada</translation>
-    </message>
-    <message>
-        <source>Animation mode:</source>
-        <translation type="vanished">Modo de animación:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="104"/>
@@ -9793,16 +9690,6 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="198"/>
         <source>Number of images extracted between start and stop positions.</source>
         <translation>Número de imágenes extraídas entre las posiciones de inicio y de finalización.</translation>
-    </message>
-    <message>
-        <source>single</source>
-        <translation type="vanished">individual</translation>
-    </message>
-    <message>
-        <source>Capture a single image of current state only.
-New filename is generated for each captured image (no files are overwritten).</source>
-        <translation type="vanished">Captura una sola imagen del estado actual.
-Se genera un nuevo nombre de archivo para cada imagen capturada (no se sobrescriben archivos).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="189"/>
@@ -9939,10 +9826,6 @@ Se genera un nuevo nombre de archivo para cada imagen capturada (no se sobrescri
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="216"/>
         <source>image_%05d.png</source>
         <translation>imagen_%05d.png</translation>
-    </message>
-    <message>
-        <source>Image file name pattern:</source>
-        <translation type="vanished">Patrón de nombre de archivo de imagen:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="314"/>
@@ -11462,17 +11345,6 @@ Si los segmentos se solapan, tendrá prioridad el segmento más alto en la tabla
     </message>
 </context>
 <context>
-    <name>SegmentEditorSubjectHierarchyPlugin</name>
-    <message>
-        <source>Segment this...</source>
-        <translation type="vanished">Segmentar esto...</translation>
-    </message>
-    <message>
-        <source>_Segmentation</source>
-        <translation type="vanished">_Segmentación</translation>
-    </message>
-</context>
-<context>
     <name>SegmentStatistics</name>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="23"/>
@@ -11636,10 +11508,6 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <translation>Segmento</translation>
     </message>
     <message>
-        <source>Computed by {pluginName} Statistics plugin</source>
-        <translation type="vanished">Calculado por el plugin de estadísticas {pluginName}</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="1013"/>
         <source>Add Data</source>
         <translation>Añadir datos</translation>
@@ -11652,10 +11520,6 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
 </context>
 <context>
     <name>SegmentStatisticsPlugins.ClosedSurfaceSegmentStatisticsPlugin</name>
-    <message>
-        <source>Surface area in mm2</source>
-        <translation type="vanished">Superficie en mm2</translation>
-    </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="14"/>
         <source>Closed Surface</source>
@@ -11693,46 +11557,14 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <translation>cm3</translation>
     </message>
     <message>
-        <source>square millimeter</source>
-        <translation type="vanished">milímetro cuadrado</translation>
-    </message>
-    <message>
-        <source>Volume in mm3</source>
-        <translation type="vanished">Volumen en mm3</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="68"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="75"/>
         <source>Volume</source>
         <translation>Volumen</translation>
     </message>
-    <message>
-        <source>cubic millimeter</source>
-        <translation type="vanished">milímetro cúbico</translation>
-    </message>
-    <message>
-        <source>Volume in cm3</source>
-        <translation type="vanished">Volumen en cm3</translation>
-    </message>
-    <message>
-        <source>cubic centimeter</source>
-        <translation type="vanished">centímetro cúbico</translation>
-    </message>
 </context>
 <context>
     <name>SegmentStatisticsPlugins.LabelmapSegmentStatisticsPlugin</name>
-    <message>
-        <source>Number of voxels</source>
-        <translation type="vanished">Número de vóxeles</translation>
-    </message>
-    <message>
-        <source>voxels</source>
-        <translation type="vanished">vóxeles</translation>
-    </message>
-    <message>
-        <source>Volume in mm3</source>
-        <translation type="vanished">Volumen en mm3</translation>
-    </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="17"/>
         <source>Label Map</source>
@@ -11932,102 +11764,18 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <translation>Eje Z principal de rotación en coordenadas RAS. Calculado a partir de la representación binaria del mapa de etiquetas del segmento.</translation>
     </message>
     <message>
-        <source>cubic millimeter</source>
-        <translation type="vanished">milímetro cúbico</translation>
-    </message>
-    <message>
-        <source>Volume in cm3</source>
-        <translation type="vanished">Volumen en cm3</translation>
-    </message>
-    <message>
-        <source>cubic centimeter</source>
-        <translation type="vanished">centímetro cúbico</translation>
-    </message>
-    <message>
-        <source>Sum of segmented voxel volumes</source>
-        <translation type="vanished">Suma de los volúmenes de vóxeles segmentados</translation>
-    </message>
-    <message>
-        <source>Location of the centroid in RAS</source>
-        <translation type="vanished">Localización del centroide en RAS</translation>
-    </message>
-    <message>
-        <source>Feret diameter in mm</source>
-        <translation type="vanished">Diámetro del feto en mm</translation>
-    </message>
-    <message>
-        <source>Surface area in mm2</source>
-        <translation type="vanished">Superficie en mm2</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="440"/>
         <source>Surface area</source>
         <translation>Superficie</translation>
-    </message>
-    <message>
-        <source>square millimeter</source>
-        <translation type="vanished">milímetro cuadrado</translation>
-    </message>
-    <message>
-        <source>Segment roundness. Calculated from ratio of the area of the hypersphere by the actual area. Value of 1 represents a spherical structure</source>
-        <translation type="vanished">Redondez del segmento. Se calcula a partir de la relación entre el área de la hiperesfera y el área real. Un valor de 1 representa una estructura esférica</translation>
-    </message>
-    <message>
-        <source>Segment flatness. Calculated from square root of the ratio of the second smallest principal moment by the smallest. Value of 0 represents a flat structure.</source>
-        <translation type="vanished">Planitud del segmento. Calculada a partir de la raíz cuadrada de la relación del segundo momento principal más pequeño por el más pequeño. El valor 0 representa una estructura plana.</translation>
-    </message>
-    <message>
-        <source>Segment elongation. Calculated from square root of the ratio of the second largest principal moment by the second smallest.</source>
-        <translation type="vanished">Alargamiento del segmento. Calculado a partir de la raíz cuadrada de la relación entre el segundo momento principal mayor y el segundo menor.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="470"/>
         <source>Oriented bounding box</source>
         <translation>Cuadro delimitador orientado</translation>
     </message>
-    <message>
-        <source>Oriented bounding box origin in RAS coordinates</source>
-        <translation type="vanished">Origen del cuadro delimitador orientado en coordenadas RAS</translation>
-    </message>
-    <message>
-        <source>Oriented bounding box diameter in mm</source>
-        <translation type="vanished">Diámetro del cuadro delimitador orientado en mm</translation>
-    </message>
-    <message>
-        <source>Oriented bounding box X direction in RAS coordinates</source>
-        <translation type="vanished">Dirección X del cuadro delimitador orientado en coordenadas RAS</translation>
-    </message>
-    <message>
-        <source>Oriented bounding box Y direction in RAS coordinates</source>
-        <translation type="vanished">Caja delimitadora orientada Dirección Y en coordenadas RAS</translation>
-    </message>
-    <message>
-        <source>Oriented bounding box Z direction in RAS coordinates</source>
-        <translation type="vanished">Caja delimitadora orientada Dirección Z en coordenadas RAS</translation>
-    </message>
-    <message>
-        <source>Principal moments of inertia for x, y and z axes</source>
-        <translation type="vanished">Momentos principales de inercia para los ejes x, y y z</translation>
-    </message>
-    <message>
-        <source>Principal X axis of rotation in RAS coordinates</source>
-        <translation type="vanished">Eje principal X de rotación en coordenadas RAS</translation>
-    </message>
-    <message>
-        <source>Principal Y axis of rotation in RAS coordinates</source>
-        <translation type="vanished">Eje principal Y de rotación en coordenadas RAS</translation>
-    </message>
-    <message>
-        <source>Principal Z axis of rotation in RAS coordinates</source>
-        <translation type="vanished">Eje principal Z de rotación en coordenadas RAS</translation>
-    </message>
 </context>
 <context>
     <name>SegmentStatisticsPlugins.ScalarVolumeSegmentStatisticsPlugin</name>
-    <message>
-        <source>Number of voxels</source>
-        <translation type="vanished">Número de vóxeles</translation>
-    </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="14"/>
         <source>Scalar Volume</source>
@@ -12126,34 +11874,10 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <translation>Desviación estándar de los valores de vóxel de volumen escalar de entrada dentro del segmento.</translation>
     </message>
     <message>
-        <source>Volume in mm3</source>
-        <translation type="vanished">Volumen en mm3</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="178"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="186"/>
         <source>Volume</source>
         <translation>Volumen</translation>
-    </message>
-    <message>
-        <source>cubic millimeter</source>
-        <translation type="vanished">milímetro cúbico</translation>
-    </message>
-    <message>
-        <source>Volume in cm3</source>
-        <translation type="vanished">Volumen en cm3</translation>
-    </message>
-    <message>
-        <source>cubic centimeter</source>
-        <translation type="vanished">centímetro cúbico</translation>
-    </message>
-    <message>
-        <source>Sum of segmented voxel volumes</source>
-        <translation type="vanished">Suma de los volúmenes de vóxeles segmentados</translation>
-    </message>
-    <message>
-        <source>Minimum scalar value</source>
-        <translation type="vanished">Valor escalar mínimo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="194"/>
@@ -12161,17 +11885,9 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <translation>Mínimo</translation>
     </message>
     <message>
-        <source>Maximum scalar value</source>
-        <translation type="vanished">Valor escalar máximo</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="201"/>
         <source>Maximum</source>
         <translation>Máximo</translation>
-    </message>
-    <message>
-        <source>Mean scalar value</source>
-        <translation type="vanished">Valor escalar medio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="208"/>
@@ -12179,17 +11895,9 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <translation>Media</translation>
     </message>
     <message>
-        <source>Median scalar value</source>
-        <translation type="vanished">Valor escalar mediano</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="258"/>
         <source>Median</source>
         <translation>Mediana</translation>
-    </message>
-    <message>
-        <source>Standard deviation of scalar values</source>
-        <translation type="vanished">Desviación típica de los valores escalares</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="216"/>
@@ -12224,13 +11932,6 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="153"/>
         <source>default</source>
         <translation>por defecto</translation>
-    </message>
-</context>
-<context>
-    <name>SegmentStatisticsSubjectHierarchyPlugin</name>
-    <message>
-        <source>Calculate statistics...</source>
-        <translation type="vanished">Calcular estadísticas...</translation>
     </message>
 </context>
 <context>
@@ -13103,66 +12804,6 @@ NIH Roadmap para la Investigación Médica, Subvención U54 EB005149.</translati
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
         <translation>Utilice la intersección de los espacios positivos y/o negativos definidos por los planos de corte para recortar el modelo.</translation>
     </message>
-    <message>
-        <source>Red Slice Clipping:</source>
-        <translation type="vanished">Recorte de corte rojo:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">Utilice el espacio positivo o negativo definido por el plano de corte Rojo para recortar el modelo. El lado positivo está hacia el Superior, el negativo hacia el Inferior. Mantener la parte del modelo en el espacio seleccionado, recortar el resto.</translation>
-    </message>
-    <message>
-        <source>Positive</source>
-        <translation type="vanished">Positivo</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-        <translation type="vanished">Mantenga las partes del modelo que están dentro del espacio positivo, hacia el Superior (cabeza), definido por el plano de corte Rojo.</translation>
-    </message>
-    <message>
-        <source>Negative</source>
-        <translation type="vanished">Negativo</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-        <translation type="vanished">Mantenga las partes del modelo que están dentro del espacio negativo, hacia el Inferior (pies), definido por el plano de corte Rojo.</translation>
-    </message>
-    <message>
-        <source>Yellow Slice Clipping:</source>
-        <translation type="vanished">Recorte del corte amarillo:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">Utilice el espacio positivo o negativo definido por el plano de corte Amarillo para recortar el modelo. El lado positivo está hacia la derecha, el negativo hacia la izquierda. Mantiene la parte del modelo en el espacio seleccionado, recorta el resto.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</source>
-        <translation type="vanished">Mantenga las partes del modelo que están dentro del espacio positivo, hacia la derecha, definido por el plano de corte Amarillo.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</source>
-        <translation type="vanished">Mantenga las partes del modelo que están dentro del espacio negativo, hacia la Izquierda, definido por el plano de corte Amarillo .</translation>
-    </message>
-    <message>
-        <source>Green Slice Clipping:</source>
-        <translation type="vanished">Recorte de corte verde:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">Utilice el espacio positivo o negativo definido por el plano de corte Verde para recortar el modelo. El lado positivo está hacia el anterior, el negativo hacia el posterior. Mantiene la parte del modelo en el espacio seleccionado, recorta el resto.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-        <translation type="vanished">Mantenga las partes del modelo que están dentro del espacio positivo, hacia el anterior (frente), definido por el plano de corte Verde.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-        <translation type="vanished">Mantenga las partes del modelo que están dentro del espacio negativo, hacia el posterior (atrás), definido por el plano de corte Verde.</translation>
-    </message>
-    <message>
-        <source>Keep only whole cells when clipping</source>
-        <translation type="vanished">Mantener sólo las celdas enteras al recortar</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLColorLegendDisplayNodeWidget</name>
@@ -13483,10 +13124,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsAngleMeasurementsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
         <translation>Propiedades de ángulo</translation>
@@ -13534,10 +13171,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsCurveSettingsWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
@@ -13991,10 +13624,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsInteractionHandleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
         <source>Interaction Handles</source>
         <translation>Controlador de interacción</translation>
@@ -14057,10 +13686,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsPlaneWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
         <source>Plane Properties</source>
@@ -14150,10 +13775,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
         <source>ROI Settings</source>
@@ -14198,10 +13819,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsTestLineOptionsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
         <source>Test Line Options</source>
         <translation>Opciones de línea de prueba</translation>
@@ -14209,10 +13826,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsTestLineWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
         <source>Test Line Properties</source>
@@ -14589,10 +14202,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>qMRMLNodeAttributeTableView</translation>
     </message>
     <message>
-        <source>No node selected</source>
-        <translation type="vanished">No hay ningún nodo seleccionado</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="69"/>
         <source>Attribute Name</source>
         <translation>Nombre del atributo</translation>
@@ -14611,14 +14220,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
         <source>Attribute value</source>
         <translation>Valor del atributo</translation>
-    </message>
-    <message>
-        <source>No node is selected</source>
-        <translation type="vanished">No hay ningún nodo seleccionado</translation>
-    </message>
-    <message>
-        <source>Selected node has no attributes</source>
-        <translation type="vanished">El nodo seleccionado no tiene atributos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="196"/>
@@ -14663,14 +14264,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <source>Properties</source>
         <translation>Propiedades</translation>
     </message>
-    <message>
-        <source>Node information</source>
-        <translation type="vanished">Información del nodo</translation>
-    </message>
-    <message>
-        <source>No node information is available.</source>
-        <translation type="vanished">No hay información disponible del nodo.</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLNodeComboBox</name>
@@ -14708,14 +14301,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>Nuevo nombre:</translation>
     </message>
     <message>
-        <source>Create new </source>
-        <translation type="vanished">Crear nuevo </translation>
-    </message>
-    <message>
-        <source> as...</source>
-        <translation type="vanished"> como...</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="329"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="475"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1074"/>
@@ -14732,10 +14317,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLPlotChartPropertiesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
@@ -14871,10 +14452,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLPlotSeriesPropertiesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
@@ -15166,10 +14743,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>ROI Properties</source>
         <translation>Propiedades ROI</translation>
@@ -15296,10 +14869,6 @@ en las opciones de Representación para visualizar todas las celdas.</translatio
 </context>
 <context>
     <name>qMRMLSceneFactoryWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
@@ -15519,10 +15088,6 @@ en las opciones de Representación para visualizar todas las celdas.</translatio
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
         <source>Segments Table</source>
         <translation>Tabla de segmentos</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="294"/>
@@ -16310,24 +15875,6 @@ Esto puede significar la pérdida de datos importantes que no pueden crearse de 
         <source>Advanced segmentation conversion</source>
         <translation>Conversión de segmentación avanzada</translation>
     </message>
-    <message>
-        <source>Confirm master representation change</source>
-        <translation type="obsolete">Confirm master representation change</translation>
-    </message>
-    <message>
-        <source>Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
-This may mean losing important data that cannot be created again from the new master representation.
-
-(Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
-
-Do you wish to proceed with changing master representation?</source>
-        <translation type="obsolete">Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
-This may mean losing important data that cannot be created again from the new master representation.
-
-(Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
-
-Do you wish to proceed with changing master representation?</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLSegmentationShow3DButton</name>
@@ -16783,10 +16330,6 @@ Do you wish to proceed with changing master representation?</translation>
 </context>
 <context>
     <name>qMRMLSettingsUnitWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Unit Settings</source>
@@ -17293,34 +16836,6 @@ Do you wish to proceed with changing master representation?</translation>
         <translation>Mostrar el borde del corte en la vista 3D</translation>
     </message>
     <message>
-        <source>S: </source>
-        <translation type="obsolete">S: </translation>
-    </message>
-    <message>
-        <source>I &lt;-----&gt; S</source>
-        <translation type="obsolete">I &lt;-----&gt; S</translation>
-    </message>
-    <message>
-        <source>R: </source>
-        <translation type="obsolete">R: </translation>
-    </message>
-    <message>
-        <source>L &lt;-----&gt; R</source>
-        <translation type="obsolete">L &lt;-----&gt; R</translation>
-    </message>
-    <message>
-        <source>A: </source>
-        <translation type="obsolete">A: </translation>
-    </message>
-    <message>
-        <source>P &lt;-----&gt; A</source>
-        <translation type="obsolete">P &lt;-----&gt; A</translation>
-    </message>
-    <message>
-        <source>Oblique</source>
-        <translation type="obsolete">Oblique</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="409"/>
         <source>Slice distance from RAS origin</source>
         <translation>Distancia de la rebanada al origen RAS</translation>
@@ -17456,10 +16971,6 @@ Do you wish to proceed with changing master representation?</translation>
 </context>
 <context>
     <name>qMRMLSliceInformationWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Slice Information</source>
@@ -17765,47 +17276,6 @@ Do you wish to proceed with changing master representation?</translation>
         <translation type="unfinished">nodo</translation>
     </message>
     <message>
-        <source>Interaction</source>
-        <oldsource>Interaction in 3D view</oldsource>
-        <translation type="obsolete">Interacción en vista 3D</translation>
-    </message>
-    <message>
-        <source>Allow interactively modify the transform in 3D views</source>
-        <translation type="vanished">Permitir modificar interactivamente la transformación en vistas 3D</translation>
-    </message>
-    <message>
-        <source>Edit transform properties...</source>
-        <translation type="vanished">Editar propiedades de transformación...</translation>
-    </message>
-    <message>
-        <source>Edit properties of the current transform</source>
-        <translation type="vanished">Editar propiedades de la transformación actual</translation>
-    </message>
-    <message>
-        <source>Harden transform</source>
-        <translation type="vanished">Transformación de endurecimiento</translation>
-    </message>
-    <message>
-        <source>Harden current transform on this node and all children nodes</source>
-        <translation type="vanished">Endurece la transformación actual en este nodo y todos los nodos secundarios</translation>
-    </message>
-    <message>
-        <source>Create new transform</source>
-        <translation type="vanished">Crear una nueva transformación</translation>
-    </message>
-    <message>
-        <source>Create and apply new transform</source>
-        <translation type="vanished">Crear y aplicar una nueva transformación</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="vanished">Ninguno</translation>
-    </message>
-    <message>
-        <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="vanished">Eliminar la transformación primaria de todos los nodos de esta rama</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
         <source>Expand tree to level...</source>
         <translation>Expandir árbol a nivel...</translation>
@@ -17953,10 +17423,6 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
         <translation>Bloquear primera fila</translation>
     </message>
     <message>
-        <source>1</source>
-        <translation type="obsolete">1</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="376"/>
         <source>Click to unlock this table so that values can be modified</source>
         <translation>Haga clic para desbloquear esta tabla y poder modificar los valores</translation>
@@ -17968,26 +17434,7 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
     </message>
 </context>
 <context>
-    <name>qMRMLTableViewControllerWidgetPrivate</name>
-    <message>
-        <source>Copy</source>
-        <translation type="obsolete">Copy</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation type="obsolete">Paste</translation>
-    </message>
-    <message>
-        <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="obsolete">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
-    </message>
-</context>
-<context>
     <name>qMRMLTextWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Text Properties</source>
@@ -18046,10 +17493,6 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="159"/>
         <source>Zoom in on the scene by a small amount.</source>
         <translation>Ampliar la escena ligeramente.</translation>
-    </message>
-    <message>
-        <source>Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</source>
-        <translation type="vanished">Seleccione entre las opciones de visualización estereoscópica (3DSlicer debe iniciarse con la función estereoscópica activada para utilizar estas características).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
@@ -18414,34 +17857,7 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
     </message>
 </context>
 <context>
-    <name>qMRMLThreeDViewControllerWidgetPrivate</name>
-    <message>
-        <source>Shadows</source>
-        <translation type="vanished">Sombras</translation>
-    </message>
-    <message>
-        <source>Size scale</source>
-        <translation type="vanished">Escala de tamaños</translation>
-    </message>
-    <message>
-        <source>Size of features to be emphasized by shadows. The scale is logarithmic, default (0.0) corresponds to object size of about 100mm.</source>
-        <translation type="vanished">Tamaño de los elementos que deben resaltar las sombras. La escala es logarítmica, por defecto (0.0) corresponde a un tamaño de objeto de unos 100mm.</translation>
-    </message>
-    <message>
-        <source>Volume opacity threshold</source>
-        <translation type="vanished">Umbral de opacidad del volumen</translation>
-    </message>
-    <message>
-        <source>Volume rendering opacity above this will cast shadows.</source>
-        <translation type="vanished">Si la opacidad del renderizado de volumen es superior a este valor, se proyectarán sombras.</translation>
-    </message>
-</context>
-<context>
     <name>qMRMLThreeDViewInformationWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>3D View Information</source>
@@ -18513,14 +17929,6 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1346"/>
         <source>Show/Hide the transform widget in the 3D view.</source>
         <translation>Mostrar/Ocultar el widget de transformación en la vista 3D.</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Actualiza los límites del widget de transformación.&lt;/p&gt;&lt;p&gt;La transformación actualizará sus límites para que coincidan con el cuadro delimitador de todos los nodos bajo ella (si los hay).&lt;/p&gt;&lt;p&gt;De lo contrario, el widget se redimensionará al tamaño de interacción predeterminado.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Update bounds</source>
-        <translation type="vanished">Límites de actualización</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1380"/>
@@ -18667,10 +18075,6 @@ Si elige Sí a todo, esta pregunta no volverá a aparecer nunca más y todos los
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="362"/>
         <source>Visible range:</source>
         <translation>Rango visible:</translation>
-    </message>
-    <message>
-        <source>Visibility in 3D view: </source>
-        <translation type="vanished">Visibilidad en vista 3D: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1058"/>
@@ -19267,10 +18671,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qMRMLVolumeThresholdWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
         <source>Volume Thresholding</source>
         <translation>Umbral de volumen</translation>
@@ -19844,10 +19244,6 @@ p, li { white-space: pre-wrap; }
         <translation>La aplicación se ha quedado sin memoria. </translation>
     </message>
     <message>
-        <source>winnt</source>
-        <translation type="vanished">winnt</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="586"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
@@ -19857,10 +19253,6 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <source>linux</source>
-        <translation type="vanished">linux</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="590"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
@@ -19868,10 +19260,6 @@ p, li { white-space: pre-wrap; }
         <translation>Aumentar el tamaño de la swap en la configuración del sistema o añadir más RAM puede solucionar este problema.
 
 </translation>
-    </message>
-    <message>
-        <source>darwin</source>
-        <translation type="vanished">darwin</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="594"/>
@@ -20336,10 +19724,6 @@ Capacidades gráficas de este ordenador:
         <translation>Duplica el nodo de color actual para permitir la edición de colores, rango escalar, tamaño.</translation>
     </message>
     <message>
-        <source>Color Legend</source>
-        <translation type="vanished">Leyenda de colores</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="63"/>
         <source>Displayable node:</source>
         <translation>Nodo visualizable:</translation>
@@ -20410,10 +19794,6 @@ Capacidades gráficas de este ordenador:
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
         <source>Delete currently selected color</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide empty Colors: </source>
-        <translation type="vanished">Ocultar colores vacíos: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -20778,21 +20158,9 @@ Capacidades gráficas de este ordenador:
         <translation>La interpolación está desactivada y el volumen de entrada está sometido a una transformación no lineal</translation>
     </message>
     <message>
-        <source>Input ROI is under a non-linear tansform.</source>
-        <translation type="vanished">El ROI de entrada está sometida a una tansformación no lineal.</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="130"/>
         <source>Select or create a new input ROI.</source>
         <translation>Seleccione o cree un nuevo ROI de entrada.</translation>
-    </message>
-    <message>
-        <source>Output volume is under a non-linear tansform.</source>
-        <translation type="vanished">El volumen de salida está sometido a una tansformación no lineal.</translation>
-    </message>
-    <message>
-        <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-        <translation type="vanished">La interpolación está desactivada y el volumen de entrada está sometido a una transformación no lineal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="154"/>
@@ -21477,10 +20845,6 @@ Exportar %n nodos</numerusform>
 <context>
     <name>qSlicerExtensionsButtonBox</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
         <source>Install this extension (requires restart).</source>
         <translation>Instalar esta extensión (requiere reinicio).</translation>
@@ -21944,10 +21308,6 @@ Exportar %n nodos</numerusform>
         <translation>Extensión %1 no es compatible</translation>
     </message>
     <message>
-        <source>extensionName is not specified</source>
-        <translation type="obsolete">extensionName is not specified</translation>
-    </message>
-    <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3189"/>
         <source>Corrupted %1 extension package</source>
         <extracomment>%1 is extension name</extracomment>
@@ -22374,10 +21734,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLabelMapVolumeDisplayWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
         <source>Labelmap Volume Display Properties</source>
         <translation>Propiedades de visualización del volumen del mapa de etiquetas</translation>
@@ -22427,10 +21783,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerLoadableModuleTemplate</source>
         <translation>SlicerLoadableModuleTemplate</translation>
@@ -22473,10 +21825,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="126"/>
         <source>Mouse Interaction</source>
         <translation>Interacción con el mouse</translation>
-    </message>
-    <message>
-        <source>Capture/Restore</source>
-        <translation type="vanished">Captura/Restauración</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="137"/>
@@ -22815,10 +22163,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="398"/>
         <source>&amp;Error Log</source>
         <translation>&amp;Registro de errores</translation>
-    </message>
-    <message>
-        <source>Raise the error log display.</source>
-        <translation type="vanished">Elevar la visualización del registro de errores.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="400"/>
@@ -23206,10 +22550,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>Modificaciones en el archivo de escena:</translation>
     </message>
     <message>
-        <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="vanished">Se han modificado algunos datos. ¿Desea guardarlos antes de salir?</translation>
-    </message>
-    <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="612"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="707"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
@@ -23229,14 +22569,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="617"/>
         <source>Cancel exit</source>
         <translation>Cancelar salida</translation>
-    </message>
-    <message>
-        <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation type="vanished">Se han modificado algunos datos. ¿Quiere guardarlos antes de cerrar la escena?</translation>
-    </message>
-    <message>
-        <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation type="vanished">La escena ha sido modificada. ¿Desea guardarla antes de cerrar la escena?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="706"/>
@@ -24226,10 +23558,6 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
 <context>
     <name>qSlicerModelsModule</name>
     <message>
-        <source>Plots</source>
-        <translation type="obsolete">Plots</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="47"/>
         <source>Models</source>
         <translation>Modelos</translation>
@@ -24296,14 +23624,6 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clip node:</source>
         <translation>Recorte del nodo:</translation>
-    </message>
-    <message>
-        <source>Clipping Planes</source>
-        <translation type="vanished">Planos de recorte</translation>
-    </message>
-    <message>
-        <source>Clip selected model:</source>
-        <translation type="vanished">Recorte del modelo seleccionado:</translation>
     </message>
 </context>
 <context>
@@ -24598,37 +23918,6 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
         <translation>Situar un punto de control</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerMouseModeToolBarPrivate</name>
-    <message>
-        <source>Adjust</source>
-        <translation type="obsolete">Adjust</translation>
-    </message>
-    <message>
-        <source>Adjust window/level by click-and-drag in a slice viewer.</source>
-        <translation type="obsolete">Adjust window/level by click-and-drag in a slice viewer.</translation>
-    </message>
-    <message>
-        <source>Select region</source>
-        <translation type="obsolete">Select region</translation>
-    </message>
-    <message>
-        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation type="obsolete">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</translation>
-    </message>
-    <message>
-        <source>Select region - centered</source>
-        <translation type="obsolete">Select region - centered</translation>
-    </message>
-    <message>
-        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation type="obsolete">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</translation>
-    </message>
-    <message>
-        <source>Adjust window/level</source>
-        <translation type="obsolete">Adjust window/level</translation>
     </message>
 </context>
 <context>
@@ -24951,22 +24240,6 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
         <translation>Giro CCW</translation>
     </message>
     <message>
-        <source>Rotation</source>
-        <translation type="vanished">Rotación</translation>
-    </message>
-    <message>
-        <source>LR</source>
-        <translation type="vanished">LR</translation>
-    </message>
-    <message>
-        <source>PA</source>
-        <translation type="vanished">PA</translation>
-    </message>
-    <message>
-        <source>IS</source>
-        <translation type="vanished">IS</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="472"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
         <translation>Orientación del corte (Axial, Sagital, Coronal, Reformateado).</translation>
@@ -24985,30 +24258,6 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="489"/>
         <source>Coronal</source>
         <translation>Frontal/Coronal</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation type="vanished">Restablecer</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Normal</translation>
-    </message>
-    <message>
-        <source>NormalX</source>
-        <translation type="vanished">NormalX</translation>
-    </message>
-    <message>
-        <source>NormalY</source>
-        <translation type="vanished">NormalY</translation>
-    </message>
-    <message>
-        <source>NormalZ</source>
-        <translation type="vanished">NormalZ</translation>
-    </message>
-    <message>
-        <source>Normal To Camera</source>
-        <translation type="vanished">Normal A la cámara</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="616"/>
@@ -25149,14 +24398,6 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1017"/>
         <source>File writing may have failed because the output folder name is too long: &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File name may be too long: %1.</source>
-        <translation type="vanished">El nombre del archivo puede ser demasiado largo: %1.</translation>
-    </message>
-    <message>
-        <source>File path may be too long: %1.</source>
-        <translation type="vanished">La ruta del archivo puede ser demasiado larga: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
@@ -25432,10 +24673,6 @@ Por favor, seleccione un directorio vacío.</translation>
 <context>
     <name>qSlicerSegmentEditorEraseEffect</name>
     <message>
-        <source>&lt;html&gt;Erase from current segment with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; erase from segment around the mouse pointer.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;Borra del segmento actual con un pincel redondo&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Borrar arrastrando y soltando con el botón izquierdo:&lt;/b&gt; borra del segmento alrededor del puntero del ratón.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Mayúsculas + rueda del ratón&lt;/b&gt; o &lt;b&gt;+/- teclas:&lt;/b&gt; ajustar el tamaño del pincel.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ctrl + rueda del ratón:&lt;/b&gt; vista de corte zoom in/out.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La edición está disponible tanto en la vista de corte como en la 3D.&lt;p&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="56"/>
         <source>Erase</source>
         <translation>Borrar</translation>
@@ -25448,10 +24685,6 @@ Por favor, seleccione un directorio vacío.</translation>
 </context>
 <context>
     <name>qSlicerSegmentEditorPaintEffect</name>
-    <message>
-        <source>&lt;html&gt;Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;Pinta con un pincel redondo&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Botón izquierdo arrastrar y soltar:&lt;/b&gt; pinta trazos.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Shift + rueda del ratón&lt;/b&gt; o &lt;b&gt;+/- teclas:&lt;/b&gt; ajusta el tamaño del pincel.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ctrl + rueda del ratón:&lt;/b&gt; acercar/alejar vista en corte.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La edición está disponible tanto en vista en corte como en 3D.&lt;p&gt;&lt;/htm</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="960"/>
         <source>Paint</source>
@@ -25474,10 +24707,6 @@ Por favor, seleccione un directorio vacío.</translation>
         <source>Set the paint brush size as a percentage of screen height or physical size</source>
         <oldsource>Set the paint brush size as percentage of screen size or as fixed length</oldsource>
         <translation>Ajuste el tamaño del pincel como porcentaje del tamaño de la pantalla o como longitud fija</translation>
-    </message>
-    <message>
-        <source>Toggle diameter quick set buttons between percentage of window size / absolute size in millimeters</source>
-        <translation type="vanished">Conmutar los botones de ajuste rápido del diámetro entre porcentaje del tamaño de la ventana / tamaño absoluto en milímetros</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1436"/>
@@ -25537,10 +24766,6 @@ Por favor, seleccione un directorio vacío.</translation>
 </context>
 <context>
     <name>qSlicerSegmentEditorScissorsEffect</name>
-    <message>
-        <source>&lt;html&gt;Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;Recortar todo el segmento desde el punto de vista actual&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastrar y soltar con el botón izquierdo:&lt;/b&gt; trazar un esquema.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/li&gt;&lt;/ul&gt;&lt;pLa edición está disponible tanto en la vista de cortes como en la vista 3D. En la vista de cortes, el corte se aplicará a todos los cortes.&lt;p&gt;&lt;/html&gt;</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1163"/>
         <source>Scissors</source>
@@ -25713,11 +24938,6 @@ Por favor, seleccione un directorio vacío.</translation>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.h" line="47"/>
         <source>Segmentations</source>
         <translation>Segmentaciones</translation>
-    </message>
-    <message>
-        <source> Segmentation:</source>
-        <oldsource> Active segmentation:</oldsource>
-        <translation type="vanished"> Segmentación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="122"/>
@@ -26327,10 +25547,6 @@ Nota: Esto se aplica a las tablas de segmentos de los módulos Editor de segment
 <context>
     <name>qSlicerSequencesModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
         <translation>Secuencias</translation>
@@ -26513,74 +25729,6 @@ Nota: Esto se aplica a las tablas de segmentos de los módulos Editor de segment
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="440"/>
         <source>Sequence:</source>
         <translation>Sequencia:</translation>
-    </message>
-    <message>
-        <source>Index properties</source>
-        <translation type="obsolete">Index properties</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Name:</translation>
-    </message>
-    <message>
-        <source>time</source>
-        <translation type="obsolete">time</translation>
-    </message>
-    <message>
-        <source>Unit:</source>
-        <translation type="obsolete">Unit:</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <translation type="obsolete">s</translation>
-    </message>
-    <message>
-        <source>Type:</source>
-        <translation type="obsolete">Type:</translation>
-    </message>
-    <message>
-        <source>Data nodes</source>
-        <translation type="obsolete">Data nodes</translation>
-    </message>
-    <message>
-        <source>Add/remove data nodes</source>
-        <translation type="obsolete">Add/remove data nodes</translation>
-    </message>
-    <message>
-        <source>Add to sequence items</source>
-        <translation type="obsolete">Add to sequence items</translation>
-    </message>
-    <message>
-        <source>Index value:</source>
-        <translation type="obsolete">Index value:</translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation type="obsolete">0</translation>
-    </message>
-    <message>
-        <source>Index increment:</source>
-        <translation type="obsolete">Index increment:</translation>
-    </message>
-    <message>
-        <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation type="obsolete">If enabled then after the selected node is added to the sequence items the selection moves to the next item</translation>
-    </message>
-    <message>
-        <source>Auto-advance</source>
-        <translation type="obsolete">Auto-advance</translation>
-    </message>
-    <message>
-        <source>Node type:</source>
-        <translation type="obsolete">Node type:</translation>
-    </message>
-    <message>
-        <source>undefined</source>
-        <translation type="obsolete">undefined</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Name</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>
@@ -27925,10 +27073,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerSimpleMarkupsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Markup Control Points</source>
         <translation>Puntos de control de marcador</translation>
@@ -28400,13 +27544,6 @@ Seleccione el plugin para añadir un nodo llamado
     </message>
 </context>
 <context>
-    <name>qSlicerSubjectHierarchySceneViewsPlugin</name>
-    <message>
-        <source>Restore scene view</source>
-        <translation type="vanished">Restaurar vista de escena</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerSubjectHierarchySegmentationsPlugin</name>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="109"/>
@@ -28742,10 +27879,6 @@ Etiquetas: %6</translation>
         <translation>Utilizar terminología estándar:</translation>
     </message>
     <message>
-        <source>  ID:</source>
-        <translation type="vanished">  Identificador único:</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="111"/>
         <source>Patient tags in item name:</source>
         <translation>Etiquetas del paciente en el nombre del objeto:</translation>
@@ -28807,10 +27940,6 @@ Etiquetas: %6</translation>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="173"/>
         <source>Reset transform to identity</source>
         <translation>Restablecer transformación a identidad</translation>
-    </message>
-    <message>
-        <source>Interaction in 3D view</source>
-        <translation type="vanished">Interacción en vista 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="178"/>
@@ -29210,10 +28339,6 @@ Etiquetas: %6</translation>
 <context>
     <name>qSlicerSuperLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
         <translation>Plantilla de módulo supercargable Slicer</translation>
@@ -29350,10 +28475,6 @@ Etiquetas: %6</translation>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
         <source>Title:</source>
         <translation>Nombre:</translation>
-    </message>
-    <message>
-        <source>Long name:</source>
-        <translation type="vanished">Nombre largo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="197"/>
@@ -29580,10 +28701,6 @@ Etiquetas: %6</translation>
 <context>
     <name>qSlicerTemplateKeyModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
         <translation>Clave de plantilla</translation>
@@ -29703,14 +28820,6 @@ Etiquetas: %6</translation>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
         <translation>No hay tipo de modificador</translation>
-    </message>
-    <message>
-        <source>Select anatomic region context...</source>
-        <translation type="vanished">Seleccionar contexto de región anatómica...</translation>
-    </message>
-    <message>
-        <source>Anatomic region...</source>
-        <translation type="vanished">Región anatómica...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="416"/>
@@ -29863,11 +28972,6 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
         <translation>Transformaciones</translation>
-    </message>
-    <message>
-        <source> Transform:</source>
-        <oldsource>Active Transform:</oldsource>
-        <translation type="vanished"> Transformación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="112"/>
@@ -30108,10 +29212,6 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
 </context>
 <context>
     <name>qSlicerViewControllersModuleWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Form</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>View Controllers</source>
@@ -30371,153 +29471,6 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="vanished">Muestre cómo los otros planos de corte intersecan cada plano de corte.</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerViewersToolBarPrivate</name>
-    <message>
-        <source>No jump slices</source>
-        <translation type="obsolete">No jump slices</translation>
-    </message>
-    <message>
-        <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation type="obsolete">Slice views are not repositioned when crosshair is moved.</translation>
-    </message>
-    <message>
-        <source>Jump slices - offset</source>
-        <translation type="obsolete">Jump slices - offset</translation>
-    </message>
-    <message>
-        <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation type="obsolete">Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</translation>
-    </message>
-    <message>
-        <source>Jump slices - centered</source>
-        <translation type="obsolete">Jump slices - centered</translation>
-    </message>
-    <message>
-        <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation type="obsolete">Slice views are centered on crosshair position (even if crosshair is not displayed).</translation>
-    </message>
-    <message>
-        <source>No crosshair</source>
-        <translation type="obsolete">No crosshair</translation>
-    </message>
-    <message>
-        <source>No crosshair displayed.</source>
-        <translation type="obsolete">No crosshair displayed.</translation>
-    </message>
-    <message>
-        <source>Basic crosshair</source>
-        <translation type="obsolete">Basic crosshair</translation>
-    </message>
-    <message>
-        <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="obsolete">Basic crosshair extending across the field of view with a small gap at the crosshair position.</translation>
-    </message>
-    <message>
-        <source>Basic + intersection</source>
-        <translation type="obsolete">Basic + intersection</translation>
-    </message>
-    <message>
-        <source>Basic crosshair extending across the field of view.</source>
-        <translation type="obsolete">Basic crosshair extending across the field of view.</translation>
-    </message>
-    <message>
-        <source>Small basic crosshair</source>
-        <translation type="obsolete">Small basic crosshair</translation>
-    </message>
-    <message>
-        <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="obsolete">Small crosshair with a small gap at the crosshair position.</translation>
-    </message>
-    <message>
-        <source>Small basic + intersection</source>
-        <translation type="obsolete">Small basic + intersection</translation>
-    </message>
-    <message>
-        <source>Small crosshair.</source>
-        <translation type="obsolete">Small crosshair.</translation>
-    </message>
-    <message>
-        <source>Fine crosshair</source>
-        <translation type="obsolete">Fine crosshair</translation>
-    </message>
-    <message>
-        <source>Fine crosshair.</source>
-        <translation type="obsolete">Fine crosshair.</translation>
-    </message>
-    <message>
-        <source>Medium crosshair</source>
-        <translation type="obsolete">Medium crosshair</translation>
-    </message>
-    <message>
-        <source>Medium crosshair.</source>
-        <translation type="obsolete">Medium crosshair.</translation>
-    </message>
-    <message>
-        <source>Thick crosshair</source>
-        <translation type="obsolete">Thick crosshair</translation>
-    </message>
-    <message>
-        <source>Thick crosshair.</source>
-        <translation type="obsolete">Thick crosshair.</translation>
-    </message>
-    <message>
-        <source>Thick lines</source>
-        <translation type="vanished">Líneas gruesas</translation>
-    </message>
-    <message>
-        <source>Thick lines.</source>
-        <translation type="vanished">Líneas gruesas.</translation>
-    </message>
-    <message>
-        <source>Slice intersections</source>
-        <translation type="obsolete">Slice intersections</translation>
-    </message>
-    <message>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="obsolete">Show how the other slice planes intersect each slice plane.</translation>
-    </message>
-    <message>
-        <source>Interaction</source>
-        <translation type="vanished">Interacción</translation>
-    </message>
-    <message>
-        <source>Show handles for slice interaction.</source>
-        <translation type="obsolete">Show handles for slice interaction.</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">Traducir</translation>
-    </message>
-    <message>
-        <source>Control visibility of translation handles for slice intersection.</source>
-        <translation type="obsolete">Control visibility of translation handles for slice intersection.</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">Rotar</translation>
-    </message>
-    <message>
-        <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation type="obsolete">Control visibility of rotation handles for slice intersection.</translation>
-    </message>
-    <message>
-        <source>Interaction options</source>
-        <translation type="vanished">Opciones de interacción</translation>
-    </message>
-    <message>
-        <source>Crosshair</source>
-        <translation type="obsolete">Crosshair</translation>
-    </message>
-    <message>
-        <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation type="obsolete">Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</translation>
-    </message>
 </context>
 <context>
     <name>qSlicerVolumeRenderingModule</name>
@@ -30530,10 +29483,6 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="81"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
         <translation>El módulo de renderización de volúmenes proporciona herramientas avanzadas para activar el renderizado interactivo de volúmenes de conjuntos de datos.&lt;br/&gt;Si es compatible, está disponible el renderizado de volúmenes acelerado por hardware.El módulo permite seleccionar funciones de transferencia preestablecidas para colorear y establecer la opacidad de los datos de forma adecuada a la tarea, así como herramientas para personalizar las funciones de transferencia que especifican estos parámetros.&lt;br/&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.Some of the transfer functions were contributed by Kitware Inc. (VolView)</source>
-        <translation type="vanished">&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.Some of the transfer functions were contributed by Kitware Inc. (VolView)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="102"/>
@@ -30562,10 +29511,6 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
         <translation>Renderización de volumen</translation>
-    </message>
-    <message>
-        <source>Volume:</source>
-        <translation type="vanished">Volumen:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="99"/>
@@ -30911,11 +29856,6 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
         <source>Volumes</source>
         <translation>Volúmenes</translation>
-    </message>
-    <message>
-        <source> Volume: </source>
-        <oldsource>Active Volume: </oldsource>
-        <translation type="vanished"> Volumen: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="103"/>

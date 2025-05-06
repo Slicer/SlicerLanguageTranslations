@@ -242,18 +242,6 @@
         <source>Add Image</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>JSON Files (*.json)</source>
-        <translation type="vanished">ملفات JSON (* .json)</translation>
-    </message>
-    <message>
-        <source>Add a title here</source>
-        <translation type="vanished">أضف عنوانًا هنا</translation>
-    </message>
-    <message>
-        <source>Add a tittle here</source>
-        <translation type="vanished">أضف عنوانًا هنا</translation>
-    </message>
 </context>
 <context>
     <name>TutorialMaker</name>
@@ -308,21 +296,9 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Run and Annotate</source>
-        <translation type="vanished">تشغيل وتعليم</translation>
-    </message>
-    <message>
-        <source>Test Translation</source>
-        <translation type="vanished">اختبار الترجمة</translation>
-    </message>
-    <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="118"/>
         <source>Create a new Tutorial</source>
         <translation>إنشاء برنامج تعليمي جديد</translation>
-    </message>
-    <message>
-        <source>Open Annotator</source>
-        <translation type="vanished">المُعَلِّق المفتوح</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
@@ -394,14 +370,6 @@
         <source>{tutorials_failed} tutorials failed to execute. Errors: {error_message}</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>
-        Development of this module was funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-localization-and-outreach/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
-        </source>
-        <translation type="vanished">
-        تم تمويل تطوير هذه الوحدة من قبل &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-for-latin-america-localization-and-outreach/&quot;&gt;منحة CZI EOSS&lt;/a&gt;.
-        </translation>
-    </message>
 </context>
 <context>
     <name>TutorialPainter</name>
@@ -411,13 +379,6 @@
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="462"/>
         <source>Error: Load an image first.</source>
         <translation type="unfinished">خطأ: حمل صورة أولاً.</translation>
-    </message>
-</context>
-<context>
-    <name>painter</name>
-    <message>
-        <source>Error: Load an image first.</source>
-        <translation type="vanished">خطأ: حمل صورة أولاً.</translation>
     </message>
 </context>
 <context>

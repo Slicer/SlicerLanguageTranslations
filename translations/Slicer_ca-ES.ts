@@ -74,21 +74,9 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Controls</source>
-        <translation type="vanished">Controls</translation>
-    </message>
-    <message>
-        <source>Control how the module operates</source>
-        <translation type="vanished">Controla com funciona el mòdul</translation>
-    </message>
-    <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
         <translation>Ordre d&apos;interpolació</translation>
-    </message>
-    <message>
-        <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="vanished">Ordre d&apos;interpolació si dues imatges estan en fotogrames de coordenades diferents o tenen un mostreig diferent.</translation>
     </message>
 </context>
 <context>
@@ -2150,10 +2138,6 @@ Permet llançar el mateix tipus que el volum d&apos;entrada.</translation>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
         <source>Use Compression</source>
         <translation>Utilitza la compressió</translation>
-    </message>
-    <message>
-        <source>Filter Settings</source>
-        <translation type="vanished">Configuració del filtre</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"/>
@@ -12666,66 +12650,6 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
         <translation>Utilitza la intersecció dels espais positius i/o negatius definida pels plans de secció per a retallar el model.</translation>
     </message>
-    <message>
-        <source>Red Slice Clipping:</source>
-        <translation type="vanished">Retall de secció vermella:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">Utilitza l&apos;espai positiu o negatiu definit pel pla de secció vermella per retallar el model. El costat positiu és el Superior, el negatiu l&apos;Inferior. Manté la part del model a l&apos;espai seleccionat, elimina la resta.</translation>
-    </message>
-    <message>
-        <source>Positive</source>
-        <translation type="vanished">Positiu</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-        <translation type="vanished">Mantenir les parts del model que es troben dins de l&apos;espai positiu, Superior (cap), definides pel pla de secció vermella.</translation>
-    </message>
-    <message>
-        <source>Negative</source>
-        <translation type="vanished">Negatiu</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-        <translation type="vanished">Mantenir les parts del model que es troben dins l&apos;espai negatiu, Inferior (peus), definides pel pla de secció vermella.</translation>
-    </message>
-    <message>
-        <source>Yellow Slice Clipping:</source>
-        <translation type="vanished">Retall de secció groga:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">Utilitza l&apos;espai positiu o negatiu definit pel pla de secció groga per a retallar el model. El costat positiu està a la Dreta, el negatiu a l&apos;Esquerra. Manté la part del model a l&apos;espai seleccionat, elimina la resta.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</source>
-        <translation type="vanished">Mantenir les parts del model que es troben dins l&apos;espai positiu, Dreta, definides pel pla de secció groga.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</source>
-        <translation type="vanished">Mantenir les parts del model que es troben dins l&apos;espai negatiu, Esquerra, definides pel pla de secció groga.</translation>
-    </message>
-    <message>
-        <source>Green Slice Clipping:</source>
-        <translation type="vanished">Retall de seccions verdes:</translation>
-    </message>
-    <message>
-        <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="vanished">Utilitza l&apos;espai positiu o negatiu definit pel pla de secció verda per a retallar el model. El costat positiu és l&apos;Anterior, el negatiu el Posterior. Manté la part del model a l&apos;espai seleccionat, elimina la resta.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-        <translation type="vanished">Mantenir les parts del model que es troben dins l&apos;espai positiu, Anterior (davant), definides pel pla de secció verda.</translation>
-    </message>
-    <message>
-        <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-        <translation type="vanished">Mantenir les parts del model que es troben dins l&apos;espai negatiu, Posterior (darrere), definides pel pla de secció verda.</translation>
-    </message>
-    <message>
-        <source>Keep only whole cells when clipping</source>
-        <translation type="vanished">Mantenir només cel·les senceres quan es retallen</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLColorLegendDisplayNodeWidget</name>
@@ -13046,10 +12970,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsAngleMeasurementsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
         <translation type="unfinished"></translation>
@@ -13097,10 +13017,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsCurveSettingsWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
@@ -13554,10 +13470,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsInteractionHandleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
         <source>Interaction Handles</source>
         <translation type="unfinished"></translation>
@@ -13620,10 +13532,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsPlaneWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
         <source>Plane Properties</source>
@@ -13713,10 +13621,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
         <source>ROI Settings</source>
@@ -13761,10 +13665,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLMarkupsTestLineOptionsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
         <source>Test Line Options</source>
         <translation type="unfinished"></translation>
@@ -13772,10 +13672,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLMarkupsTestLineWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
         <source>Test Line Properties</source>
@@ -14152,10 +14048,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation>qMRMLNodeAttributeTableView</translation>
     </message>
     <message>
-        <source>No node selected</source>
-        <translation type="vanished">No s&apos;ha seleccionat cap node</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="69"/>
         <source>Attribute Name</source>
         <translation>Nom de l&apos;atribut</translation>
@@ -14174,14 +14066,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="124"/>
         <source>Attribute value</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No node is selected</source>
-        <translation type="vanished">No s&apos;ha seleccionat cap node</translation>
-    </message>
-    <message>
-        <source>Selected node has no attributes</source>
-        <translation type="vanished">El node seleccionat no té atributs</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="196"/>
@@ -14226,14 +14110,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <source>Properties</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Node information</source>
-        <translation type="vanished">Informació del node</translation>
-    </message>
-    <message>
-        <source>No node information is available.</source>
-        <translation type="vanished">No hi ha informació disponible sobre el node.</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLNodeComboBox</name>
@@ -14271,14 +14147,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create new </source>
-        <translation type="vanished">Crear un nou </translation>
-    </message>
-    <message>
-        <source> as...</source>
-        <translation type="vanished"> com a...</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="329"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="475"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1074"/>
@@ -14295,10 +14163,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLPlotChartPropertiesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
@@ -14434,10 +14298,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 </context>
 <context>
     <name>qMRMLPlotSeriesPropertiesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
@@ -14729,10 +14589,6 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
 <context>
     <name>qMRMLROIWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>ROI Properties</source>
         <translation type="unfinished"></translation>
@@ -14859,10 +14715,6 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
 </context>
 <context>
     <name>qMRMLSceneFactoryWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
@@ -15082,10 +14934,6 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
         <source>Segments Table</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="294"/>
@@ -15857,24 +15705,6 @@ Do you wish to proceed with changing source representation?</source>
         <source>Advanced segmentation conversion</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Confirm master representation change</source>
-        <translation type="vanished">Confirmar el canvi de representació mestra</translation>
-    </message>
-    <message>
-        <source>Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
-This may mean losing important data that cannot be created again from the new master representation.
-
-(Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
-
-Do you wish to proceed with changing master representation?</source>
-        <translation type="vanished">Canviar la representació mestra farà que la representació «estàndard d&apos;or» sigui la seleccionada i provocarà la supressió de totes les altres representacions.
-Això pot suposar la pèrdua de dades importants que no es poden tornar a crear a partir de la nova representació mestra.
-
-(Recordatori: la representació mestra és el tipus de dades que es desa al disc i que s&apos;utilitza com a entrada quan es creen altres representacions)
-
-Vols continuar amb el canvi de representació mestra?</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLSegmentationShow3DButton</name>
@@ -16330,10 +16160,6 @@ Vols continuar amb el canvi de representació mestra?</translation>
 </context>
 <context>
     <name>qMRMLSettingsUnitWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Unit Settings</source>
@@ -16840,34 +16666,6 @@ Vols continuar amb el canvi de representació mestra?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>S: </source>
-        <translation type="vanished">S: </translation>
-    </message>
-    <message>
-        <source>I &lt;-----&gt; S</source>
-        <translation type="vanished">I &amp;lt;-----&amp;gt; S</translation>
-    </message>
-    <message>
-        <source>R: </source>
-        <translation type="vanished">D: </translation>
-    </message>
-    <message>
-        <source>L &lt;-----&gt; R</source>
-        <translation type="vanished">E &amp;lt;-----&amp;gt; D</translation>
-    </message>
-    <message>
-        <source>A: </source>
-        <translation type="vanished">A: </translation>
-    </message>
-    <message>
-        <source>P &lt;-----&gt; A</source>
-        <translation type="vanished">P &amp;lt;-----&amp;gt; A</translation>
-    </message>
-    <message>
-        <source>Oblique</source>
-        <translation type="vanished">Obliqua</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="409"/>
         <source>Slice distance from RAS origin</source>
         <translation>Distància de secció des de l&apos;origen DAS</translation>
@@ -17003,10 +16801,6 @@ Vols continuar amb el canvi de representació mestra?</translation>
 </context>
 <context>
     <name>qMRMLSliceInformationWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Slice Information</source>
@@ -17312,39 +17106,6 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
         <translation type="unfinished">node</translation>
     </message>
     <message>
-        <source>Interaction</source>
-        <oldsource>Interaction in 3D view</oldsource>
-        <translation type="obsolete">Interacció</translation>
-    </message>
-    <message>
-        <source>Allow interactively modify the transform in 3D views</source>
-        <translation type="vanished">Permet modificar de manera interactiva la transformada en vistes 3D</translation>
-    </message>
-    <message>
-        <source>Edit properties of the current transform</source>
-        <translation type="vanished">Editar les propietats de la transformada actual</translation>
-    </message>
-    <message>
-        <source>Harden transform</source>
-        <translation type="obsolete">Endurir la transformada</translation>
-    </message>
-    <message>
-        <source>Harden current transform on this node and all children nodes</source>
-        <translation type="vanished">Endurir la transformada actual en aquest node i tots els nodes fills</translation>
-    </message>
-    <message>
-        <source>Create and apply new transform</source>
-        <translation type="vanished">Crear i aplicar una nova transformada</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="obsolete">Cap</translation>
-    </message>
-    <message>
-        <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="vanished">Suprimir la transformada principal de tots els nodes d&apos;aquesta branca</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
         <source>Expand tree to level...</source>
         <translation type="unfinished"></translation>
@@ -17492,10 +17253,6 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
         <translation>Blocar la primera fila</translation>
     </message>
     <message>
-        <source>1</source>
-        <translation type="vanished">1</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="376"/>
         <source>Click to unlock this table so that values can be modified</source>
         <translation type="unfinished"></translation>
@@ -17507,26 +17264,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     </message>
 </context>
 <context>
-    <name>qMRMLTableViewControllerWidgetPrivate</name>
-    <message>
-        <source>Copy</source>
-        <translation type="vanished">Copiar</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation type="vanished">Enganxar</translation>
-    </message>
-    <message>
-        <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="vanished">Genera un diagrama interactiu basat en la selecció de les columnes de la taula per part de l&apos;usuari.</translation>
-    </message>
-</context>
-<context>
     <name>qMRMLTextWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Text Properties</source>
@@ -17585,10 +17323,6 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="159"/>
         <source>Zoom in on the scene by a small amount.</source>
         <translation>Amplia l&apos;espai de treball en salts petits.</translation>
-    </message>
-    <message>
-        <source>Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</source>
-        <translation type="vanished">Selecciona entre les opcions de visualització estèreo (3DSlicer s&apos;ha d&apos;iniciar amb l&apos;estèreo activat per a utilitzar aquestes funcionalitats).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
@@ -17955,10 +17689,6 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
 <context>
     <name>qMRMLThreeDViewInformationWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>3D View Information</source>
         <translation type="unfinished"></translation>
@@ -18029,14 +17759,6 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1346"/>
         <source>Show/Hide the transform widget in the 3D view.</source>
         <translation>Mostra/amaga el giny de transformada a la vista 3D.</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Actualitzeu els límits del widget de transformada. &lt;/p&gt; &lt;p&gt; La transformada actualitzarà els seus límits perquè coincideixi amb la caixa d&apos;enquadernació de tots els nodes que hi ha a sota (si n&apos;hi ha). &lt;/p&gt; &lt;p&gt; En cas contrari, el widget es redimensionarà a la mida d&apos;interacció predeterminada. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Update bounds</source>
-        <translation type="vanished">Actualitzar els límits</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1380"/>
@@ -18183,10 +17905,6 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="362"/>
         <source>Visible range:</source>
         <translation>Interval visible:</translation>
-    </message>
-    <message>
-        <source>Visibility in 3D view: </source>
-        <translation type="vanished">Visibilitat en vista 3D: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1058"/>
@@ -18783,10 +18501,6 @@ p, li { espai blanc: predeformació; }
 <context>
     <name>qMRMLVolumeThresholdWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
         <source>Volume Thresholding</source>
         <translation type="unfinished"></translation>
@@ -19360,10 +19074,6 @@ p, li { espai blanc: predeformació; }
         <translation>L&apos;aplicació s&apos;ha quedat sense memòria. </translation>
     </message>
     <message>
-        <source>winnt</source>
-        <translation type="vanished">winnt</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="586"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
@@ -19373,10 +19083,6 @@ p, li { espai blanc: predeformació; }
 </translation>
     </message>
     <message>
-        <source>linux</source>
-        <translation type="vanished">linux</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="590"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
@@ -19384,10 +19090,6 @@ p, li { espai blanc: predeformació; }
         <translation>Augmentar la mida de l&apos;intercanvi a la configuració del sistema o afegir més memòria RAM pot solucionar aquest problema.
 
 </translation>
-    </message>
-    <message>
-        <source>darwin</source>
-        <translation type="vanished">darwin</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="594"/>
@@ -19849,10 +19551,6 @@ Capacitats gràfiques d&apos;aquest ordinador:
         <translation>Duplicar el node de color actual per a permetre editar colors, interval escalar, mida.</translation>
     </message>
     <message>
-        <source>Color Legend</source>
-        <translation type="vanished">Llegenda de colors</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="63"/>
         <source>Displayable node:</source>
         <translation>Node presentable:</translation>
@@ -19923,10 +19621,6 @@ Capacitats gràfiques d&apos;aquest ordinador:
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
         <source>Delete currently selected color</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide empty Colors: </source>
-        <translation type="vanished">Amagar els colors buits: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -20291,21 +19985,9 @@ Capacitats gràfiques d&apos;aquest ordinador:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Input ROI is under a non-linear tansform.</source>
-        <translation type="vanished">La RDI d&apos;entrada ha sofert una transformada no lineal.</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="130"/>
         <source>Select or create a new input ROI.</source>
         <translation>Seleccionar o crear una RDI d&apos;entrada nova.</translation>
-    </message>
-    <message>
-        <source>Output volume is under a non-linear tansform.</source>
-        <translation type="vanished">El volum de sortida ha sofert una transformada no lineal.</translation>
-    </message>
-    <message>
-        <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-        <translation type="vanished">La interpolació està inhabilitada i el volum d&apos;entrada ha sofert una transformada no lineal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="154"/>
@@ -20988,10 +20670,6 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
 <context>
     <name>qSlicerExtensionsButtonBox</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
         <source>Install this extension (requires restart).</source>
         <translation>Instal·la aquesta extensió (cal reiniciar).</translation>
@@ -21455,10 +21133,6 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>extensionName is not specified</source>
-        <translation type="vanished">extensionName no està especificat</translation>
-    </message>
-    <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3189"/>
         <source>Corrupted %1 extension package</source>
         <extracomment>%1 is extension name</extracomment>
@@ -21885,10 +21559,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLabelMapVolumeDisplayWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
         <source>Labelmap Volume Display Properties</source>
         <translation type="unfinished"></translation>
@@ -21938,10 +21608,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerLoadableModuleTemplate</source>
         <translation type="unfinished"></translation>
@@ -21984,10 +21650,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="126"/>
         <source>Mouse Interaction</source>
         <translation>Interacció amb el ratolí</translation>
-    </message>
-    <message>
-        <source>Capture/Restore</source>
-        <translation type="vanished">Capturar/Restaurar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="137"/>
@@ -22326,10 +21988,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="398"/>
         <source>&amp;Error Log</source>
         <translation>&amp;amp;Registre d&apos;error</translation>
-    </message>
-    <message>
-        <source>Raise the error log display.</source>
-        <translation type="vanished">Eleva la presentació del registre d&apos;errors.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="400"/>
@@ -22717,10 +22375,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="vanished">S&apos;han modificat algunes dades. Vols desar-los abans de sortir?</translation>
-    </message>
-    <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="612"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="707"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
@@ -22740,14 +22394,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="617"/>
         <source>Cancel exit</source>
         <translation>Cancel·lar la sortida</translation>
-    </message>
-    <message>
-        <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation type="vanished">S&apos;han modificat algunes dades. Vols desar-los abans de tancar l&apos;espai de treball?</translation>
-    </message>
-    <message>
-        <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation type="vanished">L&apos;espai de treball ha estat modificat. Vols desar-lo abans de tancar-lo?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="706"/>
@@ -23732,10 +23378,6 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
 <context>
     <name>qSlicerModelsModule</name>
     <message>
-        <source>Plots</source>
-        <translation type="obsolete">Dibuixos</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="47"/>
         <source>Models</source>
         <translation type="unfinished">Models</translation>
@@ -23802,14 +23444,6 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clip node:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clipping Planes</source>
-        <translation type="vanished">Plans de retall</translation>
-    </message>
-    <message>
-        <source>Clip selected model:</source>
-        <translation type="vanished">Retallar el model seleccionat:</translation>
     </message>
 </context>
 <context>
@@ -24104,37 +23738,6 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
         <translation type="unfinished">Ubicar un punt de control</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerMouseModeToolBarPrivate</name>
-    <message>
-        <source>Adjust</source>
-        <translation type="vanished">Ajustar</translation>
-    </message>
-    <message>
-        <source>Adjust window/level by click-and-drag in a slice viewer.</source>
-        <translation type="vanished">Ajustar la finestra/nivell fent clic i arrossegant en un visualitzador de seccions.</translation>
-    </message>
-    <message>
-        <source>Select region</source>
-        <translation type="vanished">Seleccionar regió</translation>
-    </message>
-    <message>
-        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation type="vanished">Establir el nivell de finestra en funció d&apos;una regió rectangular, especificada fent clic i arrossegant en un visualitzador de seccions. La posició del clic s&apos;utilitza com a cantonada de regió.</translation>
-    </message>
-    <message>
-        <source>Select region - centered</source>
-        <translation type="vanished">Seleccionar la regió - centrada</translation>
-    </message>
-    <message>
-        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation type="vanished">Establir el nivell de finestra en funció d&apos;una regió rectangular, especificada fent clic i arrossegant en un visualitzador de seccions. La posició del clic s&apos;utilitza com a centre de la regió.</translation>
-    </message>
-    <message>
-        <source>Adjust window/level</source>
-        <translation type="vanished">Ajustar finestra/nivell</translation>
     </message>
 </context>
 <context>
@@ -24457,22 +24060,6 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rotation</source>
-        <translation type="vanished">Rotació</translation>
-    </message>
-    <message>
-        <source>LR</source>
-        <translation type="vanished">ED</translation>
-    </message>
-    <message>
-        <source>PA</source>
-        <translation type="vanished">PA</translation>
-    </message>
-    <message>
-        <source>IS</source>
-        <translation type="vanished">IS</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="472"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
         <translation>Orientació de la secció (horitzontal, sagital, frontal, reformat).</translation>
@@ -24491,30 +24078,6 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="489"/>
         <source>Coronal</source>
         <translation>Frontal</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation type="vanished">Restablir</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Normal</translation>
-    </message>
-    <message>
-        <source>NormalX</source>
-        <translation type="vanished">XNormal</translation>
-    </message>
-    <message>
-        <source>NormalY</source>
-        <translation type="vanished">YNormal</translation>
-    </message>
-    <message>
-        <source>NormalZ</source>
-        <translation type="vanished">ZNormal</translation>
-    </message>
-    <message>
-        <source>Normal To Camera</source>
-        <translation type="vanished">Normal a la càmera</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="616"/>
@@ -25197,11 +24760,6 @@ Tria un directori buit.</translation>
         <translation>Segmentacions</translation>
     </message>
     <message>
-        <source> Segmentation:</source>
-        <oldsource> Active segmentation:</oldsource>
-        <translation type="obsolete"> Segmentació activa:</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="122"/>
         <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
         <translation>Node que s&apos;ha utilitzat per a establir la geometria de segmentació (origen, espaiat, direccions de l&apos;eix i abast predeterminats)</translation>
@@ -25797,10 +25355,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
 <context>
     <name>qSlicerSequencesModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
         <translation type="unfinished"></translation>
@@ -25983,74 +25537,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="440"/>
         <source>Sequence:</source>
         <translation>Seqüència:</translation>
-    </message>
-    <message>
-        <source>Index properties</source>
-        <translation type="vanished">Propietats de l&apos;índex</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="vanished">Nom:</translation>
-    </message>
-    <message>
-        <source>time</source>
-        <translation type="vanished">temps</translation>
-    </message>
-    <message>
-        <source>Unit:</source>
-        <translation type="vanished">Unitat:</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <translation type="vanished">s</translation>
-    </message>
-    <message>
-        <source>Type:</source>
-        <translation type="vanished">Tipus:</translation>
-    </message>
-    <message>
-        <source>Data nodes</source>
-        <translation type="vanished">Nodes de dades</translation>
-    </message>
-    <message>
-        <source>Add/remove data nodes</source>
-        <translation type="vanished">Afegir/eliminar nodes de dades</translation>
-    </message>
-    <message>
-        <source>Add to sequence items</source>
-        <translation type="vanished">Afegir elements a la seqüència</translation>
-    </message>
-    <message>
-        <source>Index value:</source>
-        <translation type="vanished">Valor de l&apos;índex:</translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation type="vanished">0</translation>
-    </message>
-    <message>
-        <source>Index increment:</source>
-        <translation type="vanished">Increment de l&apos;índex:</translation>
-    </message>
-    <message>
-        <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation type="vanished">Si està activat, després que el node seleccionat s&apos;afegeixi als elements de la seqüència, la selecció es mou al següent element</translation>
-    </message>
-    <message>
-        <source>Auto-advance</source>
-        <translation type="vanished">Avanç automàtic</translation>
-    </message>
-    <message>
-        <source>Node type:</source>
-        <translation type="vanished">Tipus de node:</translation>
-    </message>
-    <message>
-        <source>undefined</source>
-        <translation type="vanished">no definit</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Nom</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>
@@ -27395,10 +26881,6 @@ p, li { espai blanc: predeformació }
 <context>
     <name>qSlicerSimpleMarkupsWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Markup Control Points</source>
         <translation type="unfinished"></translation>
@@ -28178,10 +27660,6 @@ Tags: %6</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>  ID:</source>
-        <translation type="vanished">  ID:</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="111"/>
         <source>Patient tags in item name:</source>
         <translation>Etiquetes de pacient al nom de l&apos;element:</translation>
@@ -28642,10 +28120,6 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
 <context>
     <name>qSlicerSuperLoadableModuleTemplateModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
         <translation type="unfinished"></translation>
@@ -28782,10 +28256,6 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
         <source>Title:</source>
         <translation type="unfinished">Títol:</translation>
-    </message>
-    <message>
-        <source>Long name:</source>
-        <translation type="vanished">Nom llarg:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="197"/>
@@ -29012,10 +28482,6 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
 <context>
     <name>qSlicerTemplateKeyModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
-    <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
         <translation type="unfinished"></translation>
@@ -29135,14 +28601,6 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
         <translation type="unfinished">Selecciona el modificador de tipus...</translation>
-    </message>
-    <message>
-        <source>Select anatomic region context...</source>
-        <translation type="vanished">Seleccionar el context de la regió anatòmica...</translation>
-    </message>
-    <message>
-        <source>Anatomic region...</source>
-        <translation type="vanished">Regió anatòmica...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="416"/>
@@ -29295,11 +28753,6 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
         <translation>Transformades</translation>
-    </message>
-    <message>
-        <source> Transform:</source>
-        <oldsource>Active Transform:</oldsource>
-        <translation type="obsolete">Transformada activa:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="112"/>
@@ -29540,10 +28993,6 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
 </context>
 <context>
     <name>qSlicerViewControllersModuleWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulari</translation>
-    </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>View Controllers</source>
@@ -29805,141 +29254,6 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     </message>
 </context>
 <context>
-    <name>qSlicerViewersToolBarPrivate</name>
-    <message>
-        <source>No jump slices</source>
-        <translation type="vanished">No saltar seccions</translation>
-    </message>
-    <message>
-        <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation type="vanished">Les vistes de secció no es reposicionen quan es mou el punt de mira.</translation>
-    </message>
-    <message>
-        <source>Jump slices - offset</source>
-        <translation type="vanished">Saltar seccions - decalatge</translation>
-    </message>
-    <message>
-        <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation type="vanished">Els plans de vista de secció es desplacen perquè coincideixin amb la posició del punt de mira (fins i tot si no es presentarán un punt de mira).</translation>
-    </message>
-    <message>
-        <source>Jump slices - centered</source>
-        <translation type="vanished">Saltar seccions - centrat</translation>
-    </message>
-    <message>
-        <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation type="vanished">Les vistes de secció es centren a la posició del punt de mira (fins i tot si no es presenta el punt de mira).</translation>
-    </message>
-    <message>
-        <source>No crosshair</source>
-        <translation type="vanished">Sense punt de mira</translation>
-    </message>
-    <message>
-        <source>No crosshair displayed.</source>
-        <translation type="vanished">No es presenta cap punt de mira.</translation>
-    </message>
-    <message>
-        <source>Basic crosshair</source>
-        <translation type="vanished">Punt de mira bàsic</translation>
-    </message>
-    <message>
-        <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="vanished">Punt de mira bàsica que s&apos;estén pel camp de visió amb un petit buit a la posició del punt de mira.</translation>
-    </message>
-    <message>
-        <source>Basic + intersection</source>
-        <translation type="vanished">Bàsic + intersecció</translation>
-    </message>
-    <message>
-        <source>Basic crosshair extending across the field of view.</source>
-        <translation type="vanished">Punt de mira bàsic que s&apos;estén pel camp de visió.</translation>
-    </message>
-    <message>
-        <source>Small basic crosshair</source>
-        <translation type="vanished">Petit punt de mira bàsic</translation>
-    </message>
-    <message>
-        <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="vanished">Punt de mira petita amb un petit espai a la posició del punt de mira.</translation>
-    </message>
-    <message>
-        <source>Small basic + intersection</source>
-        <translation type="vanished">Petit bàsic + intersecció</translation>
-    </message>
-    <message>
-        <source>Small crosshair.</source>
-        <translation type="vanished">Petit punt de mira.</translation>
-    </message>
-    <message>
-        <source>Fine crosshair</source>
-        <translation type="vanished">Punt de mira fi</translation>
-    </message>
-    <message>
-        <source>Fine crosshair.</source>
-        <translation type="vanished">Punt de mira fi.</translation>
-    </message>
-    <message>
-        <source>Medium crosshair</source>
-        <translation type="vanished">Punt de mira mitjà</translation>
-    </message>
-    <message>
-        <source>Medium crosshair.</source>
-        <translation type="vanished">Punt de mira mitjà.</translation>
-    </message>
-    <message>
-        <source>Thick crosshair</source>
-        <translation type="vanished">Punt de mira gruixut</translation>
-    </message>
-    <message>
-        <source>Thick crosshair.</source>
-        <translation type="vanished">Punt de mira gruixut.</translation>
-    </message>
-    <message>
-        <source>Slice intersections</source>
-        <translation type="vanished">Interseccions de seccions</translation>
-    </message>
-    <message>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="vanished">Mostra com els altres plans de secció intersequen cada pla de secció.</translation>
-    </message>
-    <message>
-        <source>Interaction</source>
-        <translation type="vanished">Interacció</translation>
-    </message>
-    <message>
-        <source>Show handles for slice interaction.</source>
-        <translation type="vanished">Mostra les nanses per a la interacció de la secció.</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">Traslladar</translation>
-    </message>
-    <message>
-        <source>Control visibility of translation handles for slice intersection.</source>
-        <translation type="vanished">Controlar la visibilitat de les nanses de translació per a la intersecció de seccions.</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">Girar</translation>
-    </message>
-    <message>
-        <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation type="vanished">Controlar la visibilitat de les nanses de rotació per a la intersecció de seccions.</translation>
-    </message>
-    <message>
-        <source>Interaction options</source>
-        <translation type="vanished">Opcions d&apos;interacció</translation>
-    </message>
-    <message>
-        <source>Crosshair</source>
-        <translation type="vanished">Punt de mira</translation>
-    </message>
-    <message>
-        <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation type="vanished">Commutar la visibilitat del punt de mira. Mantenir premuda la tecla Maj i moure el ratolí en una vista per a establir la posició del punt de mira.</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerVolumeRenderingModule</name>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="74"/>
@@ -29978,10 +29292,6 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
         <translation>Composició de volum</translation>
-    </message>
-    <message>
-        <source>Volume:</source>
-        <translation type="vanished">Volum:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="99"/>
@@ -30327,11 +29637,6 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
         <source>Volumes</source>
         <translation>Volums</translation>
-    </message>
-    <message>
-        <source> Volume: </source>
-        <oldsource>Active Volume: </oldsource>
-        <translation type="obsolete">Volum actiu: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="103"/>

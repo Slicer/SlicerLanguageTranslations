@@ -174,14 +174,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> (shortcut: Ctrl+6)</source>
-        <translation type="vanished"> (billentyű kombináció: Ctrl+6)</translation>
-    </message>
-    <message>
-        <source>Edited language:</source>
-        <translation type="vanished">Szerkesztett nyelv:</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
         <translation>Nyelvi eszközök</translation>
@@ -277,10 +269,6 @@ Ennek a modulnak a kifejlesztését részben a &lt;a href=&quot;https://chanzuck
         <location filename="LanguageTools/LanguageTools.py" line="611"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download failed. This component may not have been translated to the selected language.</source>
-        <translation type="vanished">A letöltés nem sikerült. Ezt az összetevőt nem fordították le a kiválasztott nyelvre.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="635"/>

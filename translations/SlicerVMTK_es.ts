@@ -49,10 +49,6 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Input segmentation, volume or segment ID is invalid</source>
-        <translation type="vanished">La segmentación de entrada, el volumen o el ID del segmento no son válidos</translation>
-    </message>
-    <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="289"/>
         <source>Processing started</source>
         <translation>Procesamiento iniciado</translation>
@@ -820,25 +816,9 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not cut segment. Is it visible in 3D view?</source>
-        <translation type="vanished">No se pudo cortar segmento. ¿Es visible en vista 3D?</translation>
-    </message>
-    <message>
-        <source>Not enough points to create surface</source>
-        <translation type="vanished">No hay suficientes puntos para crear superficie</translation>
-    </message>
-    <message>
-        <source>Cross section: </source>
-        <translation type="vanished">Sección cruz: </translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1659"/>
         <source>Maximum inscribed sphere radius is not available</source>
         <translation>No está disponible el radio de esfera inscrita máxima</translation>
-    </message>
-    <message>
-        <source>Maximum inscribed sphere: </source>
-        <translation type="vanished">Esfera inscrita máxima: </translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1797"/>

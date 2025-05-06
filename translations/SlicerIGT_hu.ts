@@ -2,34 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="hu">
 <context>
-    <name>CLI_BRAINSResample</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="obsolete">Bemenetek</translation>
-    </message>
-</context>
-<context>
-    <name>CLI_BRAINSResize</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="obsolete">Bemenetek</translation>
-    </message>
-</context>
-<context>
-    <name>CropVolumeSequence</name>
-    <message>
-        <source>Parameters</source>
-        <translation type="obsolete">Paraméterek</translation>
-    </message>
-</context>
-<context>
-    <name>DICOMPatcher</name>
-    <message>
-        <source>Parameters</source>
-        <translation type="obsolete">Paraméterek</translation>
-    </message>
-</context>
-<context>
     <name>FiducialsToModelRegistration</name>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="24"/>
@@ -336,13 +308,6 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     </message>
 </context>
 <context>
-    <name>SegmentStatistics</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="obsolete">Bemenetek</translation>
-    </message>
-</context>
-<context>
     <name>SequenceReplay</name>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
@@ -379,13 +344,6 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>TemplateKey</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="obsolete">Bemenetek</translation>
     </message>
 </context>
 <context>
@@ -463,13 +421,6 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
         <location filename="TextureModel/TextureModel.py" line="99"/>
         <source>Apply texture to selected model.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>VectorToScalarVolume</name>
-    <message>
-        <source>Parameters</source>
-        <translation type="obsolete">Paraméterek</translation>
     </message>
 </context>
 <context>
@@ -928,13 +879,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     </message>
 </context>
 <context>
-    <name>qSlicerCLIModuleWidget</name>
-    <message>
-        <source>Parameter set:</source>
-        <translation type="obsolete">Paraméterkészlet:</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerCollectPointsModule</name>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="14"/>
@@ -1282,13 +1226,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="CreateModels/qSlicerCreateModelsModule.h" line="44"/>
         <source>Create Models</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerCropVolumeModuleWidget</name>
-    <message>
-        <source>Parameter set:</source>
-        <translation type="obsolete">Paraméterkészlet:</translation>
     </message>
 </context>
 <context>
@@ -2993,13 +2930,6 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModuleWidget.cxx" line="330"/>
         <source>Apply</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerVolumeRenderingModuleWidget</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="obsolete">Bemenetek</translation>
     </message>
 </context>
 <context>

@@ -174,14 +174,6 @@
         <translation>اختصار لوحة المفاتيح:</translation>
     </message>
     <message>
-        <source> (shortcut: Ctrl+6)</source>
-        <translation type="vanished"> (اختصار: Ctrl + 6)</translation>
-    </message>
-    <message>
-        <source>Edited language:</source>
-        <translation type="vanished">اللغة المحررة:</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
         <translation>أدوات اللغة</translation>
@@ -277,10 +269,6 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
         <location filename="LanguageTools/LanguageTools.py" line="611"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
         <translation>تخطي. لم يتم العثور على هذا المكون/اللغة على Weblate.</translation>
-    </message>
-    <message>
-        <source>Download failed. This component may not have been translated to the selected language.</source>
-        <translation type="vanished">فشل التنزيل. ربما لم يتم ترجمة هذا المكون إلى اللغة المختارة.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="635"/>

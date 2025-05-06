@@ -174,10 +174,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Edited language:</source>
-        <translation type="vanished">Redigert språk:</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
         <translation>Språkverktøy</translation>

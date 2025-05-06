@@ -51,10 +51,6 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Input segmentation, volume or segment ID is invalid</source>
-        <translation type="vanished">تجزئة المدخلات أو الحجم أو معرف القطاع غير صالح</translation>
-    </message>
-    <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="289"/>
         <source>Processing started</source>
         <translation>بدأت المعالجة</translation>
@@ -151,16 +147,6 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="33"/>
         <source>Centerline disassembly</source>
         <translation>تفكيك خط الوسط</translation>
-    </message>
-    <message>
-        <source>
-Break down a centerline model into parts.
-See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
-</source>
-        <translation type="vanished">
-قسّم نموذج خط الوسط إلى أجزاء.
-انظر المزيد من المعلومات في &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt; وثائق الوحدة &lt;/a&gt;.
-</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="41"/>
@@ -319,10 +305,6 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="622"/>
         <source>Processing curve creation completed in {duration} seconds</source>
         <translation>تم الانتهاء من إنشاء منحنى المعالجة في {مدة} ثانية</translation>
-    </message>
-    <message>
-        <source>Call &apos;splitCenterlines()&apos; with an input centerline model first.</source>
-        <translation type="vanished">اتصل بـ &apos;splitCenterlines()&apos; مع نموذج مركز الإدخال أولاً.</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
@@ -648,16 +630,6 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
 <context>
     <name>CrossSectionAnalysis</name>
     <message>
-        <source>
-This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available
-    &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
-</source>
-        <translation type="vanished">
-تصف هذه الوحدة المقاطع العرضية على طول نموذج خط مركزي VMTK أو منحنى ترميز مركزي VMTK أو منحنى ترميز اعتباطي. الوثائق متاحة
-    &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;هنا&lt;/a&gt;.
-</translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="32"/>
         <source>
 This module describes cross-sections along a VMTK centerline model, a VMTK centerline markups curve or an arbitrary markups curve. Documentation is available &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;here&lt;/a&gt;.
@@ -825,10 +797,6 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Updating table :</source>
-        <translation type="vanished">جدول التحديث:</translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1330"/>
         <source>Processing completed in {duration} seconds - {countOfPoints} points</source>
         <translation>تم الانتهاء من المعالجة في {duration} ثانية - {CountOfPoints} نقاط</translation>
@@ -858,25 +826,9 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>لم يتم تعيين عقدة سطح Lumen.</translation>
     </message>
     <message>
-        <source>Could not cut segment. Is it visible in 3D view?</source>
-        <translation type="vanished">لا يمكن قطع المقطع. هل هو مرئي في عرض ثلاثي الأبعاد ؟</translation>
-    </message>
-    <message>
-        <source>Not enough points to create surface</source>
-        <translation type="vanished">لا توجد نقاط كافية لإنشاء سطح</translation>
-    </message>
-    <message>
-        <source>Cross section: </source>
-        <translation type="vanished">المقطع العرضي: </translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1659"/>
         <source>Maximum inscribed sphere radius is not available</source>
         <translation>لا يتوفر الحد الأقصى لنصف قطر الكرة المنقوش</translation>
-    </message>
-    <message>
-        <source>Maximum inscribed sphere: </source>
-        <translation type="vanished">أقصى كرة منقوشة: </translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1797"/>
@@ -1001,22 +953,6 @@ The input centerline is expected to be inside the lumen surface.</source>
         <translation>علامة التبويب 1</translation>
     </message>
     <message>
-        <source>Get the number of distinct connected regions in the lumen surface.
-
-Ideally, there should be only one region. More regions may indicate the presence of holes in the lumen and/or distinct regions outside of the lumen. Holes in the lumen mean inaccurate cross-section area measurement.
-
-When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again.
-
-After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="vanished">احصل على عدد المناطق المتصلة المتميزة في سطح lumen.
-
-من المثالي أن يكون هناك منطقة واحدة فقط. قد تشير المزيد من المناطق إلى وجود ثقوب في lumen و/أو مناطق متميزة خارج lumen. الثقوب في lumen تعني قياس غير دقيق لسطح المقطع العرضي.
-
-عند إصلاح المناطق غير المرغوب فيها، عمومًا باستخدام تأثير &quot;الطلاء&quot; في &quot;محرر المقطع&quot;، يمكن تنفيذ هذه الوظيفة مرة أخرى.
-
-بعد الإصلاح الكامل لسطح lumen، يجب استخراج خطوط المركز مرة أخرى حتى يتم تحديث مصفوفات نصف قطر &quot;الكرة المنقوشة القصوى&quot;.</translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
         <source>Get:</source>
         <translation>احصل على:</translation>
@@ -1073,10 +1009,6 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="579"/>
         <source>Apply</source>
         <translation>تطبيق</translation>
-    </message>
-    <message>
-        <source>Table options</source>
-        <translation type="vanished">خيارات الجدول</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="507"/>
@@ -1218,14 +1150,6 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="28"/>
         <source>Parameter set:</source>
         <translation>مجموعة المعلمات:</translation>
-    </message>
-    <message>
-        <source>Pick a node to store the parameter set.
-
-This is intended to represent a unique combination of input centerline and surface nodes. Create a distinct parameter set for each combination.</source>
-        <translation type="vanished">اختر عقدة لتخزين مجموعة المعلمات.
-
-هذا يهدف إلى تمثيل مجموعة فريدة من عقد مركز الإدخال وعقد السطح. أنشئ مجموعة معلمات مميزة لكل مجموعة.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="710"/>
@@ -1393,18 +1317,6 @@ Concerns orthogonal reformat in axial navigation.</source>
         <translation>المساحة العابرة:</translation>
     </message>
     <message>
-        <source>Circular equivalent (CE) diameter: that of a circle having the  surface area of the cross-section.
-
-The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
-
-Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation type="vanished">قطر المعادل الدائري: قطر الدائرة التي لها مساحة سطح المقطع العرضي.
-
-كما يتم توفير الفرق المطلق و في المائة مع الحد الأقصى لقطر الكرة المنقوشة (MIS).
-
-الحذر: قد لا يكون للقيم عند التشعبات معنى سريري.</translation>
-    </message>
-    <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1118"/>
         <source>Diameter (CE):</source>
         <translation>القطر (المكافئ الدائري):</translation>
@@ -1456,10 +1368,6 @@ Caution: values at bifurcations may not have clinical meaning.</source>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1206"/>
         <source>Stenosis:</source>
         <translation>التضيق:</translation>
-    </message>
-    <message>
-        <source>Jump to the maximum stenosis point by CE diameter.</source>
-        <translation type="vanished">اقفز إلى أقصى نقطة تضيق بواسطة قطر مكافئ دائري.</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1305"/>
@@ -2221,30 +2129,6 @@ The tortuosity of the tube and the diameter distribution determine this paramete
         <source>Apply</source>
         <translation>تطبيق</translation>
     </message>
-    <message>
-        <source>vtkMRMLModelNode</source>
-        <translation type="vanished">vtkMRMLModelNode</translation>
-    </message>
-    <message>
-        <source>vtkMRMLSegmentationNode</source>
-        <translation type="vanished">vtkMRMLSegmentationNode</translation>
-    </message>
-    <message>
-        <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="vanished">vtkMRMLMarkupsFiducialNode</translation>
-    </message>
-    <message>
-        <source>vtkMRMLScriptedModuleNode</source>
-        <translation type="vanished">vtkMRMLScriptedModuleNode</translation>
-    </message>
-    <message>
-        <source>vtkMRMLTableNode</source>
-        <translation type="vanished">vtkMRMLTableNode</translation>
-    </message>
-    <message>
-        <source>vtkMRMLMarkupsCurveNode</source>
-        <translation type="vanished">vtkMRMLMarkupsCurveNode</translation>
-    </message>
 </context>
 <context>
     <name>GuidedArterySegmentation</name>
@@ -2273,34 +2157,6 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 تم تطوير هذا الملف في الأصل بواسطة Jean-Christophe Fillion-Robin، Kitware Inc.، Andras Lasso، PerkLab،
 وSteve Pieper، Isomics، Inc. وتم تمويله جزئيًا من قبل 3P41RR013218-12S1 منح المعاهد الوطنية للصحة.
 </translation>
-    </message>
-    <message>
-        <source>Failed to install extension: </source>
-        <translation type="vanished">فشل في تثبيت التمديد: </translation>
-    </message>
-    <message>
-        <source>Could not update metadata from server to install {extension}.</source>
-        <translation type="vanished">تعذر تحديث البيانات الوصفية من الخادم لتركيب {extension}.</translation>
-    </message>
-    <message>
-        <source>{extension} must be installed. Do you want to install it now ?</source>
-        <translation type="vanished">يجب تثبيت {extension}. هل تريد تثبيته الآن ؟</translation>
-    </message>
-    <message>
-        <source>This module cannot be used without {extension}.</source>
-        <translation type="vanished">لا يمكن استخدام هذه الوحدة بدون {extension}.</translation>
-    </message>
-    <message>
-        <source>Failed to install {extension} extension.</source>
-        <translation type="vanished">فشل في تثبيت {extension} تمديد.</translation>
-    </message>
-    <message>
-        <source>{extension} has been installed from server.
-
-Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="vanished">تم تثبيت {extension} من الخادم.
-
-يجب إعادة تشغيل Slicer. هل تريد إعادة التشغيل الآن ؟</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="113"/>
@@ -2390,10 +2246,6 @@ Slicer must be restarted. Do you want to restart now ?</source>
         <translation>ملء الفائض: {duration} ثانية - </translation>
     </message>
     <message>
-        <source>Flood filling : {duration} seconds - </source>
-        <translation type="vanished">ملء الفيضانات: {duration} ثانية - </translation>
-    </message>
-    <message>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="607"/>
         <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="695"/>
         <source>Processing completed in {duration} seconds</source>
@@ -2461,14 +2313,6 @@ If a Shape::Tube node is specified below, this parameter is ignored.</source>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="229"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
         <translation>اختر شريحة عرض. سيتم استخدام عقدة حجم الخلفية. يرجى توخي الحذر لاستخدام عقدة الحجم الصحيحة.</translation>
-    </message>
-    <message>
-        <source>Restore slice views with the referenced volume node</source>
-        <translation type="vanished">استعادة مناظر الشريحة مع عقدة الحجم المرجعية</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="19"/>
@@ -2574,14 +2418,6 @@ If specified, the regular tube diameter above is ignored.</source>
 
 If centerlines are extracted, optionally replace the segment by its largest region if it contains more than one region.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create a segmentation and optionally a centerline model and a centerline curve.
-
-Output nodes from the last run will be removed.</source>
-        <translation type="vanished">قم بإنشاء تجزئة وخياريًا نموذج خط مركزي ومنحنى خط مركزي.
-
-سيتم إزالة عقد الإخراج من الجولة الأخيرة.</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="500"/>
@@ -2806,53 +2642,6 @@ deviation:</source>
     </message>
 </context>
 <context>
-    <name>ObliqueSegmentSurfaceArea</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="vanished">مدخلات</translation>
-    </message>
-    <message>
-        <source>Slice node:</source>
-        <translation type="vanished">عقدة الشريحة:</translation>
-    </message>
-    <message>
-        <source>Select an input slice view.</source>
-        <translation type="vanished">حدد عرض شريحة الإدخال.</translation>
-    </message>
-    <message>
-        <source>vtkMRMLSliceNode</source>
-        <translation type="vanished">vtkMRMLSliceNode</translation>
-    </message>
-    <message>
-        <source>inputSliceNode</source>
-        <translation type="obsolete">inputSliceNode</translation>
-    </message>
-    <message>
-        <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="vanished">vtkMRMLMarkupsFiducialNode</translation>
-    </message>
-    <message>
-        <source>Segmentation:</source>
-        <translation type="vanished">التجزئة:</translation>
-    </message>
-    <message>
-        <source>Select an input segmentation.</source>
-        <translation type="vanished">حدد تجزئة الإدخال.</translation>
-    </message>
-    <message>
-        <source>Result table.
-
-Right click for more.</source>
-        <translation type="vanished">جدول النتائج.
-
-انقر جيدًا للمزيد.</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="vanished">تطبيق</translation>
-    </message>
-</context>
-<context>
     <name>QuickArterySegmentation</name>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="41"/>
@@ -2879,34 +2668,6 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 تم تطوير هذا الملف في الأصل بواسطة Jean-Christophe Fillion-Robin، Kitware Inc.، Andras Lasso، PerkLab،
 و Steve Pieper، Isomics، Inc. وتم تمويله جزئيًا من قبل 3P41RR013218-12S1 منح المعاهد الوطنية للصحة.
 </translation>
-    </message>
-    <message>
-        <source>Failed to install extension: </source>
-        <translation type="vanished">فشل في تثبيت التمديد: </translation>
-    </message>
-    <message>
-        <source>Could not update metadata from server to install {extension}.</source>
-        <translation type="vanished">تعذر تحديث البيانات الوصفية من الخادم لتركيب {extension}.</translation>
-    </message>
-    <message>
-        <source>{extension} must be installed. Do you want to install it now ?</source>
-        <translation type="vanished">يجب تثبيت {extension}. هل تريد تثبيته الآن ؟</translation>
-    </message>
-    <message>
-        <source>This module cannot be used without {extension}.</source>
-        <translation type="vanished">لا يمكن استخدام هذه الوحدة بدون {extension}.</translation>
-    </message>
-    <message>
-        <source>Failed to install {extension} extension.</source>
-        <translation type="vanished">فشل في تثبيت {extension} تمديد.</translation>
-    </message>
-    <message>
-        <source>{extension} has been installed from server.
-
-Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="vanished">تم تثبيت {extension} من الخادم.
-
-يجب إعادة تشغيل Slicer. هل تريد إعادة التشغيل الآن ؟</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="114"/>
@@ -2996,10 +2757,6 @@ Slicer must be restarted. Do you want to restart now ?</source>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="636"/>
         <source>Segment not found in the segmentation.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Flood filling : {duration} seconds - </source>
-        <translation type="vanished">ملء الفيضانات: {duration} ثانية - </translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="546"/>
@@ -3099,14 +2856,6 @@ If centerlines are extracted, optionally replace the segment by its largest regi
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restore slice views with the referenced volume node</source>
-        <translation type="vanished">استعادة مناظر الشريحة مع عقدة الحجم المرجعية</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
-    </message>
-    <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="275"/>
         <source>Slice node:</source>
         <translation>عقدة الشريحة:</translation>
@@ -3171,14 +2920,6 @@ It is recommended to generate centerlines on accurate segmentations.</source>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="429"/>
         <source>Extract centerlines</source>
         <translation>استخراج الخطوط المركزية</translation>
-    </message>
-    <message>
-        <source>Create a segmentation and optionally a centerline model and a centerline curve.
-
-Output nodes from the last run will be removed.</source>
-        <translation type="vanished">قم بإنشاء تجزئة وخياريًا نموذج خط مركزي ومنحنى خط مركزي.
-
-سيتم إزالة عقد الإخراج من الجولة الأخيرة.</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="447"/>
@@ -3557,25 +3298,6 @@ Right click for more.</source>
     </message>
 </context>
 <context>
-    <name>StraightCurveGauge</name>
-    <message>
-        <source>Inputs</source>
-        <translation type="vanished">مدخلات</translation>
-    </message>
-    <message>
-        <source>Input curve:</source>
-        <translation type="vanished">منحنى المدخلات:</translation>
-    </message>
-    <message>
-        <source>Pick the input markups curve.</source>
-        <translation type="vanished">اختر منحنى رموز الإدخال.</translation>
-    </message>
-    <message>
-        <source>Result table.</source>
-        <translation type="vanished">جدول النتائج.</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerAbstractCoreModule</name>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="34"/>
@@ -3587,14 +3309,6 @@ Right click for more.</source>
 <context>
     <name>qSlicerBranchClipperModuleWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">شكل</translation>
-    </message>
-    <message>
-        <source>Parameters</source>
-        <translation type="vanished">معايير</translation>
-    </message>
-    <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="29"/>
         <source>Centerline model:</source>
         <translation>نموذج خط الوسط:</translation>
@@ -3603,16 +3317,6 @@ Right click for more.</source>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="36"/>
         <source>Pick the input centerline model.</source>
         <translation>اختر نموذج خط الوسط المدخل.</translation>
-    </message>
-    <message>
-        <source>Segmentation:</source>
-        <translation type="vanished">التجزئة:</translation>
-    </message>
-    <message>
-        <source>Input segmentation.
-The input centerline is expected to be inside the lumen surface.</source>
-        <translation type="vanished">تجزئة المدخلات.
-من المتوقع أن يكون خط وسط الإدخال داخل سطح التجويف.</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
@@ -3669,10 +3373,6 @@ The input centerline is expected to be inside the lumen surface.</source>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="112"/>
         <source>No centerline selected.</source>
         <translation>لا يوجد خط مركزي محدد.</translation>
-    </message>
-    <message>
-        <source>No segmentation selected.</source>
-        <translation type="vanished">لم يتم اختيار التجزئة.</translation>
     </message>
     <message>
         <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="122"/>

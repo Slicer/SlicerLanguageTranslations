@@ -25440,10 +25440,6 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Type:</source>
-        <translation type="obsolete">प्रकार:</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="301"/>
         <source>Signal Intensity</source>
         <translation type="unfinished"></translation>

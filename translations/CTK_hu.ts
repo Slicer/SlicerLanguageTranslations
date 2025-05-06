@@ -619,13 +619,6 @@ Configurable behaviour for testing purposes.
     </message>
 </context>
 <context>
-    <name>QCenteredItemModel</name>
-    <message>
-        <source>Progress</source>
-        <translation type="obsolete">Előrehaladás</translation>
-    </message>
-</context>
-<context>
     <name>ctkActionsWidget</name>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>

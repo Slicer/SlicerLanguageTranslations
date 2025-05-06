@@ -438,18 +438,6 @@ Atualize para a versão mais recente do MONAILabel (&gt; 0.2.0)</translation>
         <translation>Executar inferência para osegmento: {label}; modelo: {model}; 3d {in3d}</translation>
     </message>
     <message>
-        <source>Please select a deepgrow model</source>
-        <translation type="vanished">Selecione um modelo &quot;deepgrow&quot;</translation>
-    </message>
-    <message>
-        <source>Please add the required label to run deepgrow</source>
-        <translation type="vanished">Adicione o rótulo necessário para executar o &quot;deepgrow&quot;</translation>
-    </message>
-    <message>
-        <source>Run Deepgrow for segment: {label}; model: {model}; 3d {in3d}</source>
-        <translation type="vanished">Executar o &quot;Deepgrow&quot; para o segmento: {label}; modelo: {model}; 3d {in3d}</translation>
-    </message>
-    <message>
         <location filename="MONAILabel/MONAILabel.py" line="1617"/>
         <source>enabled</source>
         <translation>ativado</translation>

@@ -174,14 +174,6 @@
         <translation>Atajo de teclado:</translation>
     </message>
     <message>
-        <source> (shortcut: Ctrl+6)</source>
-        <translation type="vanished"> (atajo: Ctrl+6)</translation>
-    </message>
-    <message>
-        <source>Edited language:</source>
-        <translation type="vanished">Idioma editado:</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
         <translation>Herramientas lingüísticas</translation>
@@ -277,10 +269,6 @@ El desarrollo de este módulo ha sido parcialmente financiado por&lt;a href=&quo
         <location filename="LanguageTools/LanguageTools.py" line="611"/>
         <source>Skipped. This component/language was not found on Weblate.</source>
         <translation>Omitido. Esta componente/idioma no se encuentra en Weblate.</translation>
-    </message>
-    <message>
-        <source>Download failed. This component may not have been translated to the selected language.</source>
-        <translation type="vanished">Error de descarga. Es posible que este componente no se haya traducido al idioma seleccionado.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="635"/>

@@ -174,14 +174,6 @@
         <translation>Tastatur-Kürzel:</translation>
     </message>
     <message>
-        <source> (shortcut: Ctrl+6)</source>
-        <translation type="vanished"> (Tastenkürzel: Strg+6)</translation>
-    </message>
-    <message>
-        <source>Edited language:</source>
-        <translation type="vanished">Bearbeitete Sprache:</translation>
-    </message>
-    <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
         <translation>Sprach-Tools</translation>

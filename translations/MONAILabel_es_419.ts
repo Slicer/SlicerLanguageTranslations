@@ -438,18 +438,6 @@ Por favor, actualice a la última versión de monailabel (&gt; 0.2.0)</translati
         <translation>Ejecutar inferencia para segmento: {etiqueta}; modelo: {modelo}; 3d {en 3d}</translation>
     </message>
     <message>
-        <source>Please select a deepgrow model</source>
-        <translation type="obsolete">Seleccione un modelo de crecimiento profundo</translation>
-    </message>
-    <message>
-        <source>Please add the required label to run deepgrow</source>
-        <translation type="vanished">Añada la etiqueta necesaria para ejecutar el crecimiento profundo</translation>
-    </message>
-    <message>
-        <source>Run Deepgrow for segment: {label}; model: {model}; 3d {in3d}</source>
-        <translation type="vanished">Ejecutar el Crecimiento profundo para el segmento: {etiqueta}; modelo: {modelo}; 3d {en3d}</translation>
-    </message>
-    <message>
         <location filename="MONAILabel/MONAILabel.py" line="1617"/>
         <source>enabled</source>
         <translation>habilitado</translation>

@@ -242,14 +242,6 @@
         <source>Add Image</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>JSON Files (*.json)</source>
-        <translation type="vanished">JSON Document (*.json)</translation>
-    </message>
-    <message>
-        <source>Add a title here</source>
-        <translation type="vanished">Dodaj naslov ovde</translation>
-    </message>
 </context>
 <context>
     <name>TutorialMaker</name>
@@ -304,21 +296,9 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Run and Annotate</source>
-        <translation type="vanished">Krenuti I Zabeležiti</translation>
-    </message>
-    <message>
-        <source>Test Translation</source>
-        <translation type="vanished">Testirati Prevod</translation>
-    </message>
-    <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="118"/>
         <source>Create a new Tutorial</source>
         <translation>Napravi Novo Uputstvo</translation>
-    </message>
-    <message>
-        <source>Open Annotator</source>
-        <translation type="vanished">Otvori Obeleživač</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="31"/>
@@ -399,13 +379,6 @@
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="462"/>
         <source>Error: Load an image first.</source>
         <translation type="unfinished">Problem: Prvo učitaj sliku.</translation>
-    </message>
-</context>
-<context>
-    <name>painter</name>
-    <message>
-        <source>Error: Load an image first.</source>
-        <translation type="vanished">Problem: Prvo učitaj sliku.</translation>
     </message>
 </context>
 <context>

@@ -619,121 +619,6 @@ Configurable behaviour for testing purposes.
     </message>
 </context>
 <context>
-    <name>QCenteredItemModel</name>
-    <message>
-        <source>Query patients</source>
-        <translation type="vanished">استفسار المرضى</translation>
-    </message>
-    <message>
-        <source>Query studies</source>
-        <translation type="vanished">دراسات الاستعلام</translation>
-    </message>
-    <message>
-        <source>Query series</source>
-        <translation type="vanished">سلسلة الاستعلام</translation>
-    </message>
-    <message>
-        <source>Query instances</source>
-        <translation type="vanished">حالات الاستفسار</translation>
-    </message>
-    <message>
-        <source>Retrieve patients</source>
-        <translation type="vanished">استرجاع المرضى</translation>
-    </message>
-    <message>
-        <source>Retrieve studies</source>
-        <translation type="vanished">دراسات الاسترجاع</translation>
-    </message>
-    <message>
-        <source>Retrieve series</source>
-        <translation type="vanished">سلسلة استرجاع</translation>
-    </message>
-    <message>
-        <source>Retrieve instances</source>
-        <translation type="vanished">استرجاع الحالات</translation>
-    </message>
-    <message>
-        <source>Storage listener</source>
-        <translation type="obsolete">مستمع التخزين</translation>
-    </message>
-    <message>
-        <source>Echo server</source>
-        <translation type="obsolete">خادم الصدى</translation>
-    </message>
-    <message>
-        <source>Inserter</source>
-        <translation type="obsolete">مدرج</translation>
-    </message>
-    <message>
-        <source>queued</source>
-        <translation type="obsolete">اصطف</translation>
-    </message>
-    <message>
-        <source>in-progress</source>
-        <translation type="obsolete">قيد التطوير</translation>
-    </message>
-    <message>
-        <source>failed</source>
-        <translation type="obsolete">فشل</translation>
-    </message>
-    <message>
-        <source>user-stopped</source>
-        <translation type="obsolete">توقف المستخدم</translation>
-    </message>
-    <message>
-        <source>completed</source>
-        <translation type="obsolete">اكتمل</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation type="obsolete">نوع</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">حالة</translation>
-    </message>
-    <message>
-        <source>Progress</source>
-        <translation type="obsolete">تقدم</translation>
-    </message>
-    <message>
-        <source>Time and Date</source>
-        <translation type="obsolete">الوقت والتاريخ</translation>
-    </message>
-    <message>
-        <source>Starting Time and Date</source>
-        <translation type="obsolete">وقت البدء والتاريخ</translation>
-    </message>
-    <message>
-        <source>Completion Time and Date</source>
-        <translation type="obsolete">وقت الإنجاز وتاريخه</translation>
-    </message>
-    <message>
-        <source>DICOM Level</source>
-        <translation type="obsolete">مستوى DICOM</translation>
-    </message>
-    <message>
-        <source>Patient ID</source>
-        <translation type="obsolete">هوية المريض</translation>
-    </message>
-    <message>
-        <source>Patient Name</source>
-        <translation type="obsolete">اسم المريض</translation>
-    </message>
-    <message>
-        <source>Birth Date</source>
-        <translation type="obsolete">تاريخ الميلاد</translation>
-    </message>
-    <message>
-        <source>Study UID</source>
-        <translation type="obsolete">رمز المستخدم الدراسي</translation>
-    </message>
-    <message>
-        <source>Series UID</source>
-        <translation type="obsolete">رمز المستخدم التسلسلي</translation>
-    </message>
-</context>
-<context>
     <name>ctkActionsWidget</name>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
@@ -2866,72 +2751,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>ctkDICOMPatientItemWidgetPrivate</name>
-    <message>
-        <source>UNDEFINED</source>
-        <translation type="obsolete">غير محددة</translation>
-    </message>
-</context>
-<context>
-    <name>ctkDICOMQuery</name>
-    <message>
-        <source>DB open in Query</source>
-        <translation type="vanished">قاعدة بيانات مفتوحة في الاستعلام</translation>
-    </message>
-    <message>
-        <source>DB not open in Query</source>
-        <translation type="vanished">قاعدة البيانات غير مفتوحة في الاستعلام</translation>
-    </message>
-    <message>
-        <source>Setting Transfer Syntaxes</source>
-        <translation type="vanished">إعداد تراكيب النقل</translation>
-    </message>
-    <message>
-        <source>Error initializing the network</source>
-        <translation type="vanished">خطأ في تهيئة الشبكة</translation>
-    </message>
-    <message>
-        <source>Negotiating Association</source>
-        <translation type="vanished">جمعية التفاوض</translation>
-    </message>
-    <message>
-        <source>Error negotiating the association</source>
-        <translation type="vanished">خطأ في التفاوض على الجمعية</translation>
-    </message>
-    <message>
-        <source>Failed to find acceptable presentation context</source>
-        <translation type="vanished">فشل في العثور على سياق عرض تقديمي مقبول</translation>
-    </message>
-    <message>
-        <source>Found useful presentation context</source>
-        <translation type="vanished">تم العثور على سياق عرض تقديمي مفيد</translation>
-    </message>
-    <message>
-        <source>Find failed</source>
-        <translation type="vanished">البحث عن فشل</translation>
-    </message>
-    <message>
-        <source>Find succeeded</source>
-        <translation type="vanished">البحث عن النجاح</translation>
-    </message>
-    <message>
-        <source>Processing Study: </source>
-        <translation type="vanished">دراسة المعالجة: </translation>
-    </message>
-    <message>
-        <source>Starting Series C-FIND for Study: </source>
-        <translation type="vanished">بدء سلسلة C-FIND للدراسة: </translation>
-    </message>
-    <message>
-        <source>Find succeeded on Series level for Study: </source>
-        <translation type="vanished">البحث عن النجاح على مستوى السلسلة للدراسة: </translation>
-    </message>
-    <message>
-        <source>Find on Series level failed for Study: </source>
-        <translation type="vanished">البحث عن مستوى السلسلة فشل للدراسة: </translation>
-    </message>
-</context>
-<context>
     <name>ctkDICOMQueryRetrieveWidget</name>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="20"/>
@@ -3076,30 +2895,6 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="204"/>
         <source>Got CGET response</source>
         <translation>حصلت على استجابة CGET</translation>
-    </message>
-    <message>
-        <source>Sending Get Request</source>
-        <translation type="vanished">إرسال طلب الحصول</translation>
-    </message>
-    <message>
-        <source>Found Presentation Context</source>
-        <translation type="vanished">تم العثور على سياق العرض التقديمي</translation>
-    </message>
-    <message>
-        <source>Sent Get Request</source>
-        <translation type="vanished">إرسال طلب الحصول</translation>
-    </message>
-    <message>
-        <source>No Responses from Server!</source>
-        <translation type="vanished">لا توجد ردود من الخادم!</translation>
-    </message>
-    <message>
-        <source>Got Responses</source>
-        <translation type="vanished">حصلت على ردود</translation>
-    </message>
-    <message>
-        <source>Finished Get</source>
-        <translation type="vanished">الانتهاء من الحصول على</translation>
     </message>
 </context>
 <context>
@@ -3387,13 +3182,6 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyItemWidget.cpp" line="250"/>
         <source>UNDEFINED</source>
         <translation>غير محددة</translation>
-    </message>
-</context>
-<context>
-    <name>ctkDICOMStudyItemWidgetPrivate</name>
-    <message>
-        <source>UNDEFINED</source>
-        <translation type="obsolete">غير محددة</translation>
     </message>
 </context>
 <context>
@@ -3904,10 +3692,6 @@ Please set at least one filter to query the servers</source>
         <translation>استرجاع ومعالجة سلسلة مختارة...</translation>
     </message>
     <message>
-        <source>Database folder does not contain ctkDICOM.sql file: </source>
-        <translation type="vanished">مجلد قاعدة البيانات لا يحتوي على ملف ctkDICOM.sql: </translation>
-    </message>
-    <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2328"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2356"/>
         <source>No valid DICOM database found in folder %1.</source>
@@ -3919,12 +3703,6 @@ Please set at least one filter to query the servers</source>
         <source>Database error: %1 
 </source>
         <translation>خطأ في قاعدة البيانات: %1 
-</translation>
-    </message>
-    <message>
-        <source>Database version mismatch: version of selected database = %1, version required = %2 
-</source>
-        <translation type="vanished">عدم تطابق إصدار قاعدة البيانات: إصدار قاعدة البيانات المحددة = %1 ، الإصدار المطلوب = %2 
 </translation>
     </message>
     <message>
