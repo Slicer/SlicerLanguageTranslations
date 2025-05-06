@@ -309,7 +309,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="23"/>
         <source>Utilities</source>
-        <translation>Комунальні послуги</translation>
+        <translation>Комунальна послуга</translation>
     </message>
 </context>
 </TS>
