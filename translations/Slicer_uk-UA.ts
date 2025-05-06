@@ -2689,11 +2689,11 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
 MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</oldsource>
-        <translation type="unfinished">Виконує анізотропну дифузію на зображенні за допомогою модифікованого рівняння дифузії кривизни (MCDE).
+        <translation>Виконує анізотропну дифузію на зображенні за допомогою модифікованого рівняння дифузії кривизни (MCDE).
 
-MCDE не демонструє властивостей покращення країв класичної анізотропної дифузії, яка за певних умов може зазнавати «негативної» дифузії, що посилює контраст країв.  Рівняння форми MCDE завжди зазнають позитивної дифузії, причому член провідності змінює лише силу цієї дифузії.
+MCDE не має властивостей підсилення країв класичної анізотропної дифузії, яка за певних умов може зазнавати &quot;негативної&quot; дифузії, що підсилює контрастність країв.  Рівняння у формі MCDE завжди зазнають позитивної дифузії, а член провідності лише змінює силу цієї дифузії. 
 
- За якістю MCDE добре порівнюється з іншими методами нелінійної дифузії.  Він менш чутливий до контрасту, ніж класична дифузія в стилі Перона-Малік, і зберігає більш тонкі деталізовані структури на зображеннях.  Існує потенційний компроміс у швидкості використання цієї функції замість градієнтної анізотропної дифузії.  Кожна ітерація рішення займає приблизно вдвічі більше часу.  Однак для досягнення прийнятного рішення може знадобитися менше повторень.</translation>
+ Якісно MCDE добре порівнюється з іншими методами нелінійної дифузії.  Він менш чутливий до контрасту, ніж класична дифузія Перона-Маліка, і зберігає більш детальні структури на зображеннях.  Використання цієї функції замість градієнтної анізотропної дифузії може призвести до компромісу у швидкості.  Кожна ітерація розв&apos;язку займає приблизно вдвічі більше часу.  Однак для досягнення прийнятного результату може знадобитися менша кількість ітерацій.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
@@ -4077,13 +4077,13 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation type="unfinished">Фільтр заповнює порожнечі у відтінках сірого на напівтоновому зображенні.  Дірки - це локальні мінімуми в топографії відтінків сірого, не пов&apos;язані з межами зображення. Значення рівня сірого поруч з діркою екстраполюються через неї.
+        <translation>Фільтр заповнює порожнечі у відтінках сірого на напівтоновому зображенні.  Дірки - це локальні мінімуми в топографії відтінків сірого, не пов&apos;язані з межами зображення. Значення рівня сірого поруч з діркою екстраполюються через неї.
 
 Цей фільтр використовується для згладжування локальних мінімумів, не впливаючи на значення локальних максимумів.  Якщо ви візьмете різницю між виходом цього фільтра і вихідним зображенням (і, можливо, піднімете поріг різниці вище невеликого значення), ви отримаєте карту локальних мінімумів.
 
 Цей фільтр використовує фільтр itkGrayscaleGeodesicErodeImageFilter.  Він надає власний вхід як &quot;маску&quot; для геодезичної ерозії.  &quot;Маркерне&quot; зображення для геодезичної ерозії будується таким чином, що граничні пікселі збігаються з граничними пікселями вхідного зображення, а внутрішні пікселі мають максимальне значення пікселя на вхідному зображенні.
 
- Геодезична морфологія та алгоритм Fillhole описані в главі 6 книги П&apos;єра Суаля &quot;Морфологічний аналіз зображень: Принципи та застосування&quot;, друге видання, Springer, 2003.
+ Геодезична морфологія та алгоритм Fillhole описані в главі 6 книги П&apos;єра Суаля &quot;Морфологічний аналіз зображень: Принципи та застосування&quot;, друге видання, Springer, 2003. 
 
  Супутній фільтр Grayscale Grind Peak видаляє піки на зображеннях у відтінках сірого.</translation>
     </message>
@@ -4846,7 +4846,7 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 0 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
         <oldsource>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</oldsource>
-        <translation type="unfinished">Створюйте 3D-моделі поверхні із сегментованих даних.&lt;p&gt;Моделі імпортуються в Slicer під вузлом ієрархії моделі в сцені MRML. Кольори моделі встановлюються таблицею кольорів, пов’язаною з вхідним обсягом (ці кольори будуть видимі, лише якщо ви завантажите файл сцени моделі).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Укажіть &lt;i&gt;Вхідний том&lt;/i&gt;, який є сегментованим обсягом карти міток. Створіть нову ієрархію &lt;i&gt;Моделей&lt;/i&gt;, щоб створити структуру для моделей повернення, створених із вхідного обсягу.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Створити кілька:&lt;/b&gt;&lt;/p&gt;&lt;p &gt;Якщо ви вкажете список &lt;i&gt;Міток&lt;/i&gt;, він матиме перевагу над будь-якими параметрами початкової/кінцевої мітки.&lt;/p&gt;&lt;p&gt;Якщо ви натиснете &lt;i&gt;Створити все&lt;/i&gt;, це буде замінено список міток і будь-які налаштування початкової/кінцевої мітки.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Параметри Model Maker:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ви можете встановити кількість ітерацій згладжування, цільове зменшення кількості полігонів (десятковий відсоток) . Використовуйте 0 і 1, якщо ви не бажаєте ні згладжування, ні децимації.&lt;br&gt;Ви також можете встановити прапорці для розділення нормалей або генерування точкових нормалей на цій панелі.&lt;br&gt;Ви можете зберегти копію моделей після проміжних кроків (маршуючих кубів). , згладжування та децимація, якщо не спільне згладжування, інакше відразу після децимації); ці моделі не зберігаються у файлі mrml, спочатку вимкніть видалення тимчасових файлів у вікні python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
+        <translation>Створюють 3D-моделі поверхні з сегментованих даних.&lt;p&gt;Моделі імпортуються в Slicer під вузлом ієрархії моделі в сцені MRML. Кольори моделі встановлюються таблицею кольорів, пов&apos;язаною з вхідним об&apos;ємом (ці кольори будуть видимі лише після завантаження файлу сцени моделі).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Введення-виведення:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Вкажіть &lt;i&gt;Вхідний об&apos;єм&lt;/i&gt;, який є сегментованим об&apos;ємом карти міток. Створіть нову ієрархію &lt;i&gt;Моделі&lt;/i&gt;, щоб забезпечити структуру, яка містить повернені моделі, створені з вхідного об&apos;єму.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Створити кілька:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Якщо ви вкажете список &lt;i&gt;Міток&lt;/i&gt;, він замінить будь-які налаштування початкових/кінцевих міток.&lt;/p&gt;&lt;p&gt;Якщо ви натиснете &lt;i&gt;Згенерувати все&lt;/i&gt;, він замінить список міток та будь-які налаштування початкових/кінцевих міток.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Параметри конструктора моделей:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ви можете встановити кількість ітерацій згладжування, цільове зменшення кількості полігонів (десятковий відсоток). Використовуйте 0 та 0, якщо ви не хочете згладжування чи проріджування.&lt;br&gt;Ви також можете встановити прапорці для розділення нормалей або генерації точкових нормалей на цій панелі.&lt;br&gt;Ви можете зберегти копію моделей після проміжних кроків (маршові куби, згладжування та проріджування, якщо не спільне згладжування, інакше одразу після проріджування); Ці моделі не зберігаються у файлі mrml, спочатку вимкніть видалення тимчасових файлів у вікні Python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
@@ -5471,7 +5471,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Орієнтація виводу. Зауважте, що ці коди орієнтації використовують конвенцію ITK: кожна літера позначає, звідки бере початок кожна вісь. Це протилежне загальноприйнятій конвенції орієнтації, наприклад, щоб отримати зображення з осями, що відповідають напрямкам осей системи координат LPS, цей параметр має бути встановлений у RAI.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
@@ -6229,8 +6229,8 @@ The filter assumes that both the source and reference are of the same type and t
 Preservation of the Principal Direction (PPD)</source>
         <oldsource>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</oldsource>
-        <translation type="unfinished">Кінцева деформація (FS) або
-Збереження основного напрямку (PPD)</translation>
+        <translation>Скінченна деформація (FS) або
+Збереження головного напрямку (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
@@ -6464,11 +6464,11 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished">Функція вікна
-h = Хеммінга
-c = косинус
-w = Велч
-l = Ланцош
+        <translation>Віконна функція 
+h = Хеммінга 
+c = Косинус 
+w = Велч 
+l = Ланцош 
 b = Блекмен</translation>
     </message>
     <message>
@@ -6577,11 +6577,11 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation type="unfinished">Цей модуль реалізує повторну дискретизацію зображень і векторних зображень за допомогою itk Transforms. Він також може обробляти дифузійно-зважену повторну дискретизацію зображень МРТ. «Повторна вибірка» виконується в просторових координатах, а не в піксельних/сіткових координатах. Досить важливо переконатися, що інтервал між зображеннями встановлено належним чином. Інтерполятор потрібен, оскільки відображення з одного простору в інший часто вимагатиме оцінки інтенсивності зображення в положеннях поза сіткою. 
+        <translation>Цей модуль реалізує передискретизацію зображень та векторних зображень за допомогою itk-перетворень. Він також може обробляти дифузійно-зважені МРТ-зображення. &quot;Передискретизація&quot; виконується у просторових координатах, а не у координатах пікселів/сітки. Дуже важливо переконатися, що відстань між зображеннями правильно встановлена на відповідних зображеннях. Інтерполятор необхідний, оскільки відображення з одного простору в інший часто вимагає оцінки інтенсивності зображення в позиціях поза сіткою. 
 
-Застереження: щоб змінити вибірку зображень DWMR, використовуйте вхідні та вихідні файли nrrd. 
+Попередження: Для передискретизації зображень DWMR використовуйте вхідні та вихідні файли nrrd. 
 
-Попередження: не використовуйте для повторної вибірки зображень тензора дифузії, тензори не будуть переорієнтовані</translation>
+Попередження: Не використовуйте для передискретизації дифузійних тензорних зображень, тензори не будуть переорієнтовані</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
@@ -6926,12 +6926,12 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished">Функція вікна
-h = Хеммінга
-c = косинус
-w = Велч
-l = Ланцош
-b = Блекмен</translation>
+        <translation>Віконна функція 
+h = Хеммінга 
+c = Косинус 
+w = Велч 
+l = Ланцош 
+b = Блекман</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="76"/>
@@ -9309,32 +9309,32 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="275"/>
         <source>Load data from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження даних з URL-адреси</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="277"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL-адреса:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="281"/>
         <source>Load</source>
-        <translation type="unfinished">Завантажити</translation>
+        <translation>Навантаження</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="283"/>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажте набір даних з вказаної URL-адреси та імпортуйте його в сцену</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="285"/>
         <source>Show folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати папку</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="286"/>
         <source>Show folder where custom data sets are downloaded ({path}).</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати папку, куди завантажуються користувацькі набори даних ({path}).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="543"/>
@@ -9435,7 +9435,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1008"/>
         <source>Error was reported while loading {count} nodes from {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Повідомлено про помилку під час завантаження {count} вузлів з {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1011"/>
@@ -10387,21 +10387,21 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</oldsource>
-        <translation type="unfinished">Створення сегментів для створення повної сегментації&lt;br&gt;.
-        Враховується розташування, розмір і форма початкових сегментів і вміст вихідного об&apos;єму.
-        Кінцеві межі сегментів будуть розміщені там, де різко змінюється яскравість компонентів у зображенні. Інструкції:&lt;p&gt;
-        &lt;ul style=&quot;margin: 0&quot;&gt;
-        &lt;li&gt;Використовуйте Фарбування або інші ефекти, щоб намалювати точки в кожній області, яка повинна належати до окремого сегмента.
-        Застосуйте різні точки для окремих сегментів. Потрібно мінімум два сегменти.
-        &lt;li&gt;Натисніть &lt;dfn&gt;Розпочати&lt;/dfn&gt; для попереднього обчислення повної сегментації.
-        &lt;li&gt;Переглядайте фрагменти зображення. Якщо попередньо переглянутий результат сегментації неправильний, перейдіть до
-        Фарбування або додайте інші ефекти та додайте більше початкових елементів у неправильно створений регіон. Повна сегментація буде
-        автоматично оновлена через декілька секунд
-        &lt;li&gt;Натисніть &lt;dfn&gt;Застосувати&lt;/dfn&gt; щоб оновити сегментацію за допомогою попереднього результату.
-        &lt;/ul&gt;&lt;p&gt;
-        Якщо сегменти перекриваються, пріоритет матиме сегмент, який стоїть вище в таблиці сегментів.
-        Це методика &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;швидкого наростання і обрізання&lt;/a&gt;.
-        &lt;p&gt;</translation>
+        <translation>Збільшення сегментів для створення повної сегментації&lt;br&gt;.
+Враховується розташування, розмір та форма початкових сегментів і вміст вихідного об&apos;єму.
+Межі кінцевих сегментів будуть розміщені там, де яскравість вихідного об&apos;єму різко змінюється. Інструкції:&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;Використовуйте Paint або інші ефекти, щоб намалювати зерна в кожній області, яка має належати до окремого сегмента.
+Розфарбуйте кожне зерно різним сегментом. Потрібно щонайменше два сегменти.
+&lt;li&gt;Натисніть &lt;dfn&gt;Ініціалізувати&lt;/dfn&gt;, щоб обчислити попередній перегляд повної сегментації.
+&lt;li&gt;Перегляньте фрагменти зображення. Якщо результат попереднього перегляду сегментації неправильний, перейдіть до
+ Paint або інших ефектів і додайте більше зерна в неправильно класифіковану область. Повна сегментація буде оновлена автоматично протягом кількох секунд.
+&lt;li&gt;Натисніть &lt;dfn&gt;Застосувати&lt;/dfn&gt;, щоб оновити сегментацію з попереднім переглядом результату.
+&lt;/ul&gt;&lt;p&gt;
+Якщо сегменти перекриваються, сегмент, що знаходиться вище в таблиці сегментів, матиме пріоритет.
+Ефект використовує
+ &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;метод швидкого вирощування та різання&lt;/a&gt;.
+&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="79"/>
@@ -12988,7 +12988,7 @@ for Medical Image Computing (NA-MIC), що фінансується Націон
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="76"/>
         <source>Terminology</source>
-        <translation type="unfinished">Термінологія</translation>
+        <translation>Термінологія</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="160"/>
@@ -13002,7 +13002,7 @@ for Medical Image Computing (NA-MIC), що фінансується Націон
         <extracomment>For formatting of terminology entry with a modifier in simplified mode. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
 For formatting of terminology entry name in simplified mode. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished">%2 %1</translation>
+        <translation>%2 %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="555"/>
@@ -13011,25 +13011,25 @@ For formatting of terminology entry name in simplified mode. %1 is region name (
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
 For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished">%1, %2</translation>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="593"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation type="unfinished">%1 в %2</translation>
+        <translation>%1 в %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="605"/>
         <source>Unknown in %1</source>
         <extracomment>For formatting of terminology entry name. %1 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Невідомо в %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="625"/>
         <source>%1: %2</source>
         <extracomment>For formatting of terminology entry name. %1 is category name (e.g., &quot;Morphologically Altered Structure&quot;), %2 is the type in region (&quot;Mass in Liver&quot;)</extracomment>
-        <translation type="unfinished">%1, %2 {1:?}</translation>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -15181,7 +15181,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="434"/>
         <source>Export to color table</source>
-        <translation type="unfinished"></translation>
+        <translation>Експортувати в таблицю кольорів</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1056"/>
@@ -16082,7 +16082,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1198"/>
         <source>Toggle selected segments visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити видимість вибраних сегментів</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1202"/>
@@ -17267,12 +17267,12 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="350"/>
         <source>Create new %1</source>
-        <translation type="unfinished">Створити новий %1</translation>
+        <translation>Створити новий %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2567"/>
         <source>node</source>
-        <translation type="unfinished">вузол</translation>
+        <translation>вузол</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
@@ -17847,7 +17847,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="366"/>
         <source>Reset settings to default</source>
-        <translation type="unfinished"></translation>
+        <translation>Скинути налаштування до заводських</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="385"/>
@@ -18832,7 +18832,7 @@ p, li white-space: pre-wrap;
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="4"/>
         <source>Utilities</source>
-        <translation>Комунальні послуги</translation>
+        <translation>Комунальна послуга</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="4"/>
@@ -18920,7 +18920,7 @@ p, li white-space: pre-wrap;
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="87"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="3"/>
         <source>Testing</source>
-        <translation>Тестування</translation>
+        <translation>Тестуванням</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="4"/>
@@ -19692,12 +19692,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="166"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Модуль кольорів&lt;/b&gt; керує таблицями пошуку кольорів, що зберігаються у вузлах кольорів.&lt;br&gt;Ці таблиці перетворюють числове значення на колір для відображення різних типів даних, таких як обсяги та моделі.&lt;br&gt;Доступні два типи таблиць пошуку:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Дискретна таблиця: Вказано список іменованих кольорів (наприклад: GenericAnatomyColors). Дискретні таблиці також можна використовувати для безперервного відображення, у цьому випадку кольори використовуються як зразки на рівній відстані в межах заданого діапазону та плавно інтерполюються між ними (наприклад: сірий).&lt;/li&gt;&lt;li&gt;Безперервна шкала: Колір визначається для довільно вибраних числових значень, а значення кольору можна обчислити шляхом плавної інтерполяції між цими значеннями (наприклад: PET-DICOM). Назви для кольорів не вказано.&lt;/li&gt;Усі вбудовані таблиці кольорів доступні лише для читання. Щоб редагувати кольори, створіть копію таблиці кольорів, натиснувши на значок папки «копіювати».&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="188"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цю роботу було підтримано NA-MIC, NAC, BIRN, NCIGT та спільнотою Slicer.</translation>
     </message>
 </context>
 <context>
@@ -19710,7 +19710,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="27"/>
         <source>Color legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Легенда кольорів</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
@@ -19765,34 +19765,34 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="163"/>
         <source>Add new empty color table node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати новий порожній вузол таблиці кольорів.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
         <source>Color table</source>
         <oldsource>Color Table</oldsource>
-        <translation type="unfinished">Таблиця кольорів</translation>
+        <translation>Таблиця кольорів</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
         <source>Number of colors: </source>
         <oldsource>Number of Colors: </oldsource>
-        <translation type="unfinished">Кількість Кольорів: </translation>
+        <translation>Кількість кольорів: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="246"/>
         <source>Hide empty colors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Приховати порожні кольори: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="317"/>
         <source>Add new color to color table</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати новий колір до таблиці кольорів</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
         <source>Delete currently selected color</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити вибраний колір</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -19823,7 +19823,7 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="439"/>
         <source>Unnamed</source>
         <extracomment>This is the default name for a new color in a color table</extracomment>
-        <translation type="unfinished">Без назва</translation>
+        <translation>Безіменний</translation>
     </message>
 </context>
 <context>
@@ -21662,7 +21662,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="43"/>
         <source>GeneralizedReformat</source>
-        <translation type="unfinished"></translation>
+        <translation>Узагальнене реформатування</translation>
     </message>
 </context>
 <context>
@@ -24389,13 +24389,13 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="873"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1010"/>
         <source>File writing may have failed because filename is too long: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис файлу, можливо, не вдався, оскільки ім&apos;я файлу занадто довге: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="880"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1017"/>
         <source>File writing may have failed because the output folder name is too long: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис файлу, можливо, не вдався, оскільки ім&apos;я вихідної папки занадто довге: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
@@ -24459,12 +24459,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="96"/>
         <source>Invert:</source>
-        <translation type="unfinished"></translation>
+        <translation>Інвертувати:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="103"/>
         <source>Reverse the order of colors in the lookup table to display this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити порядок кольорів у таблиці пошуку, щоб відобразити цей том.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="149"/>
@@ -24481,7 +24481,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="216"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
 </context>
 <context>
@@ -26180,12 +26180,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="231"/>
         <source>Maximum filename length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальна довжина імені файлу:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="238"/>
         <source>Limit the maximum length of filenames. For compatibility with Windows systems, a low value such as 50 is recommended. Set a higher value to allow using longer filenames that match long node names.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обмежте максимальну довжину імен файлів. Для сумісності з системами Windows рекомендується використовувати низьке значення, таке як 50. Встановіть вище значення, щоб дозволити використання довших імен файлів, які відповідають довгим іменам вузлів.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="110"/>
@@ -26216,7 +26216,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="214"/>
         <source>Max. filename length</source>
-        <translation type="unfinished"></translation>
+        <translation>Макс. довжина імені файлу</translation>
     </message>
 </context>
 <context>
@@ -28741,53 +28741,53 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="14"/>
         <source>qSlicerTerminologyEditorWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerTerminologyEditor Widget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="37"/>
         <source>Value</source>
-        <translation type="unfinished">Значення</translation>
+        <translation>Значення</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="47"/>
         <source>Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Схема</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="57"/>
         <source>Region:</source>
-        <translation type="unfinished">Регіон:</translation>
+        <translation>Регіон:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="87"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="163"/>
         <source>    Modifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>    Модифікатор:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="94"/>
         <source>Category:</source>
-        <translation type="unfinished">Категорія:</translation>
+        <translation>Категорія:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="111"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="153"/>
         <source>Meaning</source>
-        <translation type="unfinished"></translation>
+        <translation>Означення</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="244"/>
         <source>Use automatically generated label and color from selected terminology:</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати автоматично згенеровану мітку та колір з вибраної термінології:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="290"/>
         <source>Select from terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть від термінологію...</translation>
     </message>
 </context>
 <context>
@@ -28800,12 +28800,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="342"/>
         <source>Select region context...</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть контекст регіону...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="374"/>
         <source>Region...</source>
-        <translation type="unfinished"></translation>
+        <translation>Регіон...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="426"/>
@@ -28830,7 +28830,7 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="95"/>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="512"/>
         <source>Select terminology...</source>
-        <translation>Виберіть термінологію...</translation>
+        <translation>Виберіть термінологія...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="222"/>
@@ -29467,7 +29467,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути/вимкнути видимість перетину зрізів. Утримуйте клавішу Shift і переміщуйте мишу в області перегляду, щоб встановити положення перетину зрізів..</translation>
     </message>
 </context>
 <context>
@@ -29538,7 +29538,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="207"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Видимість:</translation>
+        <translation>Видимість:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="235"/>
@@ -30293,7 +30293,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="89"/>
         <source>CSV Color Table</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Таблиця кольорів CSV</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="78"/>
@@ -30307,32 +30307,32 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="268"/>
         <source>labelValue is not specified in color file in line %1. Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення labelValue не вказано у файлі кольорів у рядку %1. Пропускається цей рядок.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="277"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2. Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення labelValue &apos;%1&apos; недійсне у файлі кольорів у рядку %2. Пропускається цей рядок.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="286"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must be positive (&gt;0). Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення labelValue &apos;%1&apos; недійсне у файлі кольорів у рядку %2: значення має бути додатним (&gt;0). Пропускається цей рядок.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="300"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must not go above be %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення labelValue &apos;%1&apos; недійсне у файлі кольорів у рядку %2: значення не повинно перевищувати %3.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="350"/>
         <source>Failed to parse color values (&apos;%1&apos;, &apos;%2&apos;, &apos;%3&apos;, &apos;%4&apos;) in line %5</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося проаналізувати значення кольорів (&apos;%1&apos;, &apos;%2&apos;, &apos;%3&apos;, &apos;%4&apos;) у рядку %5</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="360"/>
         <source>Unable to set color &apos;%1&apos; with name &apos;%2&apos;, breaking the loop over &apos;%3&apos; lines in the file %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося встановити колір &apos;%1&apos; з назвою &apos;%2&apos;, що перериває цикл через &apos;%3&apos; рядки у файлі %4.</translation>
     </message>
 </context>
 <context>
@@ -30838,7 +30838,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Segmentations/Logic/vtkSlicerSegmentationsModuleLogic.cxx" line="1087"/>
         <source>background</source>
-        <translation type="unfinished"></translation>
+        <translation>фон</translation>
     </message>
 </context>
 <context>
