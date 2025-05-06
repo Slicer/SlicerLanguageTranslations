@@ -26,82 +26,121 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="107"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="103"/>
         <source>Show 3D on success</source>
         <translation>Показати 3D на успіх</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="183"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="190"/>
         <source>Failed to compute results.</source>
         <translation>Не вдалося обчислити результати.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="220"/>
-        <source>Input segmentation, volume or segment ID is invalid</source>
-        <translation>Введена сегментація, обсяг або ідентифікатор сегмента недійсні</translation>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="266"/>
+        <source>Parameter node is None.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="224"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="278"/>
+        <source>Input segmentation, volume, segment ID or margin size is invalid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="282"/>
+        <source>Input segmentation or volume mismatch with the segment editor... fixing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input segmentation, volume or segment ID is invalid</source>
+        <translation type="vanished">Введена сегментація, обсяг або ідентифікатор сегмента недійсні</translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="289"/>
         <source>Processing started</source>
         <translation>Розпочато обробку</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="301"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="364"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>Обробку завершено за {duration} с</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="323"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="386"/>
         <source>Starting the test</source>
         <translation>Початок тесту</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="325"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="388"/>
         <source>Test passed</source>
         <translation>Тест пройдено</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="19"/>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="115"/>
         <source>Select an input lumen segment.</source>
         <translation>Виберіть вхідний сегмент просвіту.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="32"/>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="108"/>
         <source>Segmentation:</source>
         <translation>Сегментація:</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="39"/>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="172"/>
         <source>Segment calcification around the lumen within this margin.</source>
         <translation>Кальцифікація сегмента навколо просвіту в межах цього краю.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="42"/>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="175"/>
         <source> mm</source>
         <translation> мм</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="61"/>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="165"/>
         <source>Margin:</source>
         <translation>Маржа:</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="68"/>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="19"/>
+        <source>Parameter set:</source>
+        <translation type="unfinished">Набір параметрів:</translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="43"/>
+        <source>A parameter set groups parameters that define a named study distinctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="88"/>
+        <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="91"/>
+        <source>↺</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="102"/>
+        <source>Inputs</source>
+        <translation type="unfinished">Вхідні дані</translation>
+    </message>
+    <message>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="128"/>
         <source>Volume:</source>
         <translation>Обсяг:</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="75"/>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="135"/>
         <source>Select the source volume node of the selected segment.</source>
         <translation>Виберіть вузол вихідного тома вибраного сегмента.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="123"/>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="207"/>
         <source>Run the algorithm.</source>
         <translation>Виконайте алгоритм.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="126"/>
+        <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="210"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
     </message>
@@ -138,197 +177,220 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="96"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="88"/>
         <source>Bifurcations</source>
         <translation>Роздвоєння</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="97"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="89"/>
         <source>Branches</source>
         <translation>Відділення</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="98"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="90"/>
         <source>Centerlines</source>
         <translation>Центральні лінії</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="103"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="95"/>
         <source>Show curve names</source>
         <translation>Показати назви кривих</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="187"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="200"/>
         <source>Failed to compute results.</source>
         <translation>Не вдалося обчислити результати.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="191"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="204"/>
         <source>Please select the components to create.</source>
         <translation>Виберіть компоненти для створення.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="195"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="208"/>
         <source>Please specify whether centerline &apos;Models&apos; and/or &apos;Curves&apos; should be generated.</source>
         <translation>Будь ласка, вкажіть, чи слід генерувати «Моделі» та/чи «Криві» центральної лінії.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="197"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="210"/>
         <source>Splitting centerline</source>
         <translation>Центральна лінія поділу</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="213"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="231"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="249"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="226"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="244"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="262"/>
         <source> models</source>
         <translation> моделі</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="216"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="234"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="252"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="229"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="247"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="265"/>
         <source> curves</source>
         <translation> криві</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="218"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="231"/>
         <source>Creating bifurcations</source>
         <translation>Створення біфуркацій</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="221"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="234"/>
         <source>Bifurcation_Model</source>
         <translation>Біфуркаційна_модель</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="224"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="237"/>
         <source>Bifurcation_Curve</source>
         <translation>Біфуркаційна_Крива</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="236"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="249"/>
         <source>Creating branches</source>
         <translation>Створення гілок</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="239"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="252"/>
         <source>Branch_Model</source>
         <translation>Branch_Model</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="242"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="255"/>
         <source>Branch_Curve</source>
         <translation>branch_Curve</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="254"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="267"/>
         <source>Creating centerlines</source>
         <translation>Створення осьових ліній</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="257"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="270"/>
         <source>Centerline_Model</source>
         <translation>Осьова_модель</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="260"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="273"/>
         <source>Centerline_Curve</source>
         <translation>Центральна_Крива</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="265"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="278"/>
         <source>Invalid component</source>
         <translation>Недійсний компонент</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="269"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="282"/>
         <source>Finished</source>
         <translation>Готово</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="339"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="402"/>
         <source>Input centerline is invalid</source>
         <translation>Введена осьова лінія недійсна</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="431"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="419"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="430"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="442"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="453"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="627"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="658"/>
+        <source>Call &apos;splitCenterlines()&apos; with an input centerline polydata first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="610"/>
         <source>Processing curve creation started</source>
         <translation>Розпочато створення кривої обробки</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="491"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="622"/>
         <source>Processing curve creation completed in {duration} seconds</source>
         <translation>Створення кривої обробки завершено за {duration} с</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="496"/>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="526"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline model first.</source>
-        <translation>Викличте &apos;splitCenterlines()&apos;, спочатку ввівши модель центральної лінії.</translation>
+        <translation type="vanished">Викличте &apos;splitCenterlines()&apos;, спочатку ввівши модель центральної лінії.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="500"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
         <source>Processing centerline ids started</source>
         <translation>Розпочато обробку ідентифікаторів центральної лінії</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="520"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="652"/>
         <source>Processing centerline ids completed in {duration} seconds</source>
         <translation>Обробку ідентифікаторів центральної лінії завершено за {duration} с</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="530"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="662"/>
         <source>Processing group ids started</source>
         <translation>Розпочато обробку ідентифікаторів груп</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="563"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="695"/>
         <source>Processing group ids completed in {duration} seconds</source>
         <translation>Обробку ідентифікаторів груп завершено за {duration} с</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="579"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="711"/>
         <source>Starting the test</source>
         <translation>Початок тесту</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="581"/>
+        <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="713"/>
         <source>Test passed</source>
         <translation>Тест пройдено</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="19"/>
+        <source>Parameter set:</source>
+        <translation type="unfinished">Набір параметрів:</translation>
+    </message>
+    <message>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="29"/>
+        <source>A parameter set groups parameters that define a named study distinctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="64"/>
+        <source>Inputs</source>
+        <translation type="unfinished">Вхідні дані</translation>
+    </message>
+    <message>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="70"/>
         <source>Centerline model:</source>
         <translation>Модель центральної лінії:</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="29"/>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="80"/>
         <source>Pick the input to the algorithm.</source>
         <translation>Виберіть вхідні дані для алгоритму.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="65"/>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="113"/>
         <source>Component:</source>
         <translation>Компонент:</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="72"/>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="120"/>
         <source>Select the output components.</source>
         <translation>Виберіть вихідні компоненти.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="102"/>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="151"/>
         <source>Create centerline models</source>
         <translation>Створення моделей центральної лінії</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="105"/>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="154"/>
         <source>Create models</source>
         <translation>Створювати моделі</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="115"/>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="164"/>
         <source>Create centerline curves.
 
 Upon curve creation, the visibility of the names can be specified via the menu.</source>
@@ -337,19 +399,240 @@ Upon curve creation, the visibility of the names can be specified via the menu.<
 Після створення кривої видимість назв можна вказати через меню.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="120"/>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="169"/>
         <source>Create curves</source>
         <translation>Створення кривих</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="135"/>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="184"/>
         <source>Run the algorithm.</source>
         <translation>Виконайте алгоритм.</translation>
     </message>
     <message>
-        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="138"/>
+        <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="187"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
+    </message>
+</context>
+<context>
+    <name>ClipVessel</name>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="17"/>
+        <source>Inputs</source>
+        <translation type="unfinished">Вхідні дані</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="23"/>
+        <source>Surface:</source>
+        <translation type="unfinished">Поверхня:</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="30"/>
+        <source>Input surface model of the tree. If computation is slow adjust preprocessing parameters in advanced section.</source>
+        <translation type="unfinished">Модель вхідної поверхні дерева. Якщо обчислення повільне, налаштуйте параметри попередньої обробки в розширеному розділі.</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="33"/>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="135"/>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="219"/>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="381"/>
+        <source>vtkMRMLModelNode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="33"/>
+        <source>vtkMRMLSegmentationNode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="51"/>
+        <source>Select a model or segmentation node</source>
+        <translation type="unfinished">Виберіть модель або вузол сегментації</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="58"/>
+        <source>Clip points:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="67"/>
+        <source>Branch clippoints. The first point is interpreted as the model inlet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="70"/>
+        <source>vtkMRMLMarkupsFiducialNode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="78"/>
+        <source>Clippoints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="105"/>
+        <source>Cap output surface:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="112"/>
+        <source>Cap clipped ends of model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="125"/>
+        <source>Centerlines:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="132"/>
+        <source>Input centerlines of the tree.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="152"/>
+        <source>Select a model node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="169"/>
+        <source>Paremeter set: </source>
+        <translation type="unfinished">Набір параметрів: </translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="176"/>
+        <source>Pick node to store parameter set</source>
+        <translation type="unfinished">Виберіть вузол для збереження набору параметрів</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="179"/>
+        <source>vtkMRMLScriptedModuleNode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="187"/>
+        <source>ClipVessel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="210"/>
+        <source>Outputs</source>
+        <translation type="unfinished">Виходи</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="216"/>
+        <source>Result of clipping input model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="227"/>
+        <source>Output surface model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="252"/>
+        <source>Advanced</source>
+        <translation type="unfinished">Просунутий</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="261"/>
+        <source>Preprocess input surface:</source>
+        <translation type="unfinished">Вхідна поверхня попередньої обробки:</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="268"/>
+        <source>Input surface model is reduced to the requested target point count (making computation faster), or subdivided (to make computations more accurate).</source>
+        <translation type="unfinished">Модель вхідної поверхні зменшується до потрібної кількості цільових точок (для пришвидшення обчислень) або поділяється (для більшої точності обчислень).</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="281"/>
+        <source>Target point count:</source>
+        <translation type="unfinished">Кількість цільових балів:</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="291"/>
+        <source>Preferred number of points in the preprocessed surface.</source>
+        <translation type="unfinished">Бажана кількість точок на попередньо обробленій поверхні.</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="309"/>
+        <source>k</source>
+        <translation type="unfinished">k</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="316"/>
+        <source>Decimation aggressiveness:</source>
+        <translation type="unfinished">Агресивність децимації:</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="326"/>
+        <source>Lower values preserve the mesh integrity better but it may not be possible to reduce number of points to the desired level.</source>
+        <translation type="unfinished">Менші значення краще зберігають цілісність сітки, але може бути неможливо зменшити кількість точок до бажаного рівня.</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="348"/>
+        <source>Subdivide:</source>
+        <translation type="unfinished">Підрозділ:</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="358"/>
+        <source>Subdivide the mesh to make computation more accurate (at the cost of increased computation time).</source>
+        <translation type="unfinished">Розбийте сітку на підрозділи, щоб зробити обчислення точнішим (за рахунок збільшення часу обчислення).</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="368"/>
+        <source>Output preprocessed surface:</source>
+        <translation type="unfinished">Вихідна попередньо оброблена поверхня:</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="378"/>
+        <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
+        <translation type="unfinished">Зберегти результат попередньої обробки. Корисно для перевірки якості та для пришвидшення повторних обчислень: попередньо оброблена поверхня може використовуватися як вхідна поверхня (та «Попередня обробка вхідної поверхні» опцію можна вимкнути).</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="389"/>
+        <source>Preprocessed model</source>
+        <translation type="unfinished">Попередньо оброблена модель</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="411"/>
+        <source>Add Flow Extensions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="418"/>
+        <source>Check if flow extensions are desired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="431"/>
+        <source>Extension length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="441"/>
+        <source>Higher values increase .</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="463"/>
+        <source>Extension mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="473"/>
+        <source>Mode for adding flow extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="486"/>
+        <source>Run the algorithm.</source>
+        <translation type="unfinished">Виконайте алгоритм.</translation>
+    </message>
+    <message>
+        <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="489"/>
+        <source>Apply</source>
+        <translation type="unfinished">Застосувати</translation>
     </message>
 </context>
 <context>
@@ -375,214 +658,230 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="103"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="104"/>
         <source>Regions</source>
         <translation>Регіони</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="104"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="105"/>
         <source>Coordinates</source>
         <translation>Координати</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="392"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1076"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="398"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1101"/>
         <source>Input is invalid.</source>
         <translation>Введення недійсне.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="485"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="507"/>
         <source>N/A (input lumen surface not specified)</source>
         <translation>N/A (поверхня вхідного просвіту не вказана)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="504"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="526"/>
         <source> (MIS diameter {sign}</source>
         <translation> (Діаметр MIS {знак}</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="655"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="659"/>
         <source>Selected Shape node is not a Tube.</source>
         <translation>Вибраний вузол фігури не є трубою.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="661"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="665"/>
         <source>Selected model node does not have radius information.</source>
         <translation>Вибраний вузол моделі не має інформації про радіус.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="681"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="688"/>
         <source>MIS diameter</source>
         <translation>MIS діаметр</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="683"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="690"/>
         <source>CE diameter</source>
         <translation>CE діаметр</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="684"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1781"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="691"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1800"/>
         <source>Cross-section area</source>
         <translation>Площа поперечного перерізу</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="686"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1782"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="693"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1801"/>
         <source>Wall diameter</source>
         <translation>Діаметр стінки</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="687"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1783"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="694"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1802"/>
         <source>Wall cross-section area</source>
         <translation>Площа перерізу стіни</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="689"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1786"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="696"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1805"/>
         <source>Stenosis by diameter (CE)</source>
         <translation>Стеноз за діаметром (CE)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="690"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1784"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="697"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1803"/>
         <source>Stenosis by surface area</source>
         <translation>Стеноз за площею поверхні</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="801"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="815"/>
         <source>Collection of lumen regions is unexpectedly None.</source>
         <translation>Колекція областей просвіту неочікувано відсутня.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="806"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="820"/>
         <source>Requested region is beyond range.</source>
         <translation>Запитуваний регіон знаходиться за межами діапазону.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="814"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="828"/>
         <source> points</source>
         <translation> балів</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="817"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="831"/>
         <source> cells</source>
         <translation> клітини</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="837"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="851"/>
         <source>Could not prepare the segment editor.</source>
         <translation>Не вдалося підготувати редактор сегментів.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="997"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1022"/>
         <source>Invalid surface polydata.</source>
         <translation>Недійсні полідані поверхні.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1079"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1104"/>
         <source>Processing started</source>
         <translation>Розпочато обробку</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1085"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1110"/>
         <source>Processing completed</source>
         <translation>Обробку завершено</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1223"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1242"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1248"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1273"/>
         <source>Waiting for background jobs...</source>
         <translation>Очікування фонових завдань...</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1252"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1286"/>
         <source>Updating table:</source>
         <translation>Таблиця оновлення:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1291"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1330"/>
         <source>Processing completed in {duration} seconds - {countOfPoints} points</source>
         <translation>Обробку завершено за {duration} секунд - {countOfPoints} балів</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1349"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1351"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1355"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1388"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1390"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1394"/>
         <source>Diameter ({unitOfLength})</source>
         <translation>Діаметр ({unitOfLength})</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1353"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1357"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1392"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1396"/>
         <source>Area ({unitOfArea})</source>
         <translation>Площа ({unitOfArea})</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1359"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1361"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1398"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1400"/>
         <source>Stenosis (%)</source>
         <translation>Стеноз (%)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1540"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1579"/>
         <source>Lumen surface node is not set.</source>
         <translation>Люмен поверхневий вузол не встановлений.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1585"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1619"/>
+        <source>Error creating a cross-section polydata of the lumen at point index {indexOfPoint}.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1639"/>
+        <source>Cross-section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1726"/>
+        <source>Maximum inscribed sphere</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1760"/>
+        <source>empty sections have been detected; consider improving the input lumen {nameOfSurface}.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Could not cut segment. Is it visible in 3D view?</source>
-        <translation>Не вдалося вирізати сегмент. Чи видно це в 3D-перегляді?</translation>
+        <translation type="vanished">Не вдалося вирізати сегмент. Чи видно це в 3D-перегляді?</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1588"/>
         <source>Not enough points to create surface</source>
-        <translation>Недостатньо точок для створення поверхні</translation>
+        <translation type="vanished">Недостатньо точок для створення поверхні</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1622"/>
         <source>Cross section: </source>
-        <translation>Поперечний переріз: </translation>
+        <translation type="vanished">Поперечний переріз: </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1644"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1659"/>
         <source>Maximum inscribed sphere radius is not available</source>
         <translation>Максимальний радіус вписаної сфери недоступний</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1711"/>
         <source>Maximum inscribed sphere: </source>
-        <translation>Максимальна вписана сфера: </translation>
+        <translation type="vanished">Максимальна вписана сфера: </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1778"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1797"/>
         <source>Distance</source>
         <translation>Відстань</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1779"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1798"/>
         <source>Diameter (MIS)</source>
         <translation>Діаметр (MIS)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1780"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1125"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1799"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1170"/>
         <source>Diameter (CE)</source>
         <translation>Діаметр (CE)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="78"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="120"/>
         <source>Parameters</source>
         <translation>Параметри</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="84"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="126"/>
         <source>Centerline source:</source>
         <translation>Джерело центральної лінії:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="91"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="133"/>
         <source>The centerline source may be:
 
 - a centerline curve created by &apos;Extract centerline&apos; module,
@@ -603,82 +902,81 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 - невидима центральна лінія вузла розмітки форми, яка використовується як труба.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="131"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="173"/>
         <source>Input lumen surface:</source>
         <translation>Поверхня вхідного просвіту:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="140"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="182"/>
         <source>Input segmentation or model node, required for computing cross-sectional area.
 The input centerline is expected to be inside the lumen surface.</source>
         <translation>Вхідна сегментація або вузол моделі, необхідний для обчислення площі поперечного перерізу.
 Очікується, що центральна лінія входу буде всередині поверхні просвіту.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="172"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="214"/>
         <source>Select an input segment node</source>
         <translation>Виберіть вузол вхідного сегмента</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="187"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="229"/>
         <source>Output table:</source>
         <translation>Вихідна таблиця:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="196"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="238"/>
         <source>Pick the output table to the algorithm.</source>
         <translation>Підібрати вихідну таблицю до алгоритму.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="226"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="268"/>
         <source>Toggle between the table layout and the previous one.</source>
         <translation>Перемикання між макетом таблиці та попереднім.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="229"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="284"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="991"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1054"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="271"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="326"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1043"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1106"/>
         <source>show</source>
         <translation>шоу</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="238"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="280"/>
         <source>Output plot series:</source>
         <translation>Серія вихідних сюжетів:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="247"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="289"/>
         <source>Pick the output plot series to the algorithm.</source>
         <translation>Виберіть ряд вихідних графіків для алгоритму.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="268"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="310"/>
         <source>Select the plot&apos;s Y axis</source>
         <translation>Виберіть вісь Y графіка</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="281"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="323"/>
         <source>Toggle between the plot layout and the previous one.</source>
         <translation>Перемикання між макетом сюжету та попереднім.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="299"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="341"/>
         <source>Tools / Options</source>
         <translation>Інструменти / Параметри</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="339"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="381"/>
         <source>Manage connected regions of the lumen surface.</source>
         <translation>Керуйте сполученими областями поверхні просвіту.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="342"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="384"/>
         <source>Tab 1</source>
         <translation>вкладка 1</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="350"/>
         <source>Get the number of distinct connected regions in the lumen surface.
 
 Ideally, there should be only one region. More regions may indicate the presence of holes in the lumen and/or distinct regions outside of the lumen. Holes in the lumen mean inaccurate cross-section area measurement.
@@ -686,7 +984,7 @@ Ideally, there should be only one region. More regions may indicate the presence
 When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again.
 
 After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation>Отримайте кількість окремих з’єднаних областей на поверхні просвіту. 
+        <translation type="vanished">Отримайте кількість окремих з’єднаних областей на поверхні просвіту. 
 
 В ідеалі має бути тільки один регіон. Більше областей може вказувати на наявність отворів у просвіті та/або окремих ділянок за межами просвіту. Отвори в просвіті означають неточне вимірювання площі поперечного перерізу. 
 
@@ -695,27 +993,27 @@ After a complete repair of the lumen surface, the centerlines must be extracted 
 Після повного ремонту поверхні просвіту центральні лінії необхідно виділити знову, щоб оновити масиви радіусів «Максимальна вписана сфера».</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="359"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="401"/>
         <source>Get:</source>
         <translation>Отримати:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="374"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="416"/>
         <source>Cycle through the identified distinct regions.</source>
         <translation>Прокрутіть визначені окремі регіони.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="396"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="438"/>
         <source>Indicates the size of the selected region. Low values suggest a parasite region.</source>
         <translation>Вказує розмір вибраної області. Низькі значення свідчать про паразитарну область.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="406"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="448"/>
         <source>If toggled, the selected region is centred in all slice views, except in the ideal case where there is one single region.</source>
         <translation>Якщо перемикається, вибрана область буде по центру в усіх переглядах фрагментів, за винятком ідеального випадку, коли є одна окрема область.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="419"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="461"/>
         <source>Activate the &apos;Paint&apos; effect of the &apos;Segment editor&apos;.
 
 This is available if the lumen surface is a segmentation.
@@ -728,127 +1026,163 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
 Кисть «Сфера» застосовується примусово. Подальше налаштування можна виконати в «Редакторі сегментів».</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="426"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="468"/>
         <source>paint</source>
         <translation>фарба</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="441"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="493"/>
         <source>Specify how to output point coordinates of the centerline.</source>
         <translation>Вкажіть спосіб виведення координат точки осьової лінії.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="444"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="496"/>
         <source>Tab 2</source>
         <translation>Вкладка 2</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="524"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="576"/>
         <source>Run the algorithm.</source>
         <translation>Виконайте алгоритм.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="527"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="579"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="455"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="507"/>
         <source>Coordinate system:</source>
         <translation>Система координат:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="495"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="547"/>
         <source>Split coordinates:</source>
         <translation>Координати розділення:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="502"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="554"/>
         <source>Split coordinate system values into three separate table columns.</source>
         <translation>Розбийте значення системи координат на три окремі стовпці таблиці.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="464"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="516"/>
         <source>Right-Anterior-Superior coordinate system. Used in the Slicer scene.</source>
         <translation>Права-передня-верхня система координат. Використовується в сцені Slicer.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="467"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="52"/>
+        <source>A parameter set groups parameters that define a named study distinctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="97"/>
+        <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="100"/>
+        <source>↺</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="392"/>
+        <source>Get the number of distinct connected regions in the lumen surface.
+
+Ideally, there should be only one region. More regions may indicate the presence of holes in the lumen and/or distinct regions outside of the lumen. Holes in the lumen mean inaccurate cross-section area measurement.
+
+When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again. A &apos;fast fix&apos; function is also provided.
+
+After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="478"/>
+        <source>Replace the segment by the largest region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="481"/>
+        <source>fast fix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="519"/>
         <source>RAS (Slicer convention)</source>
         <translation>RAS (Конвенція Slicer)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="477"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="529"/>
         <source>Left-Posterior-Superior coordinate system. Used commonly in files.</source>
         <translation>Ліва-задня-верхня система координат. Зазвичай використовується у файлах.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="480"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="532"/>
         <source>LPS (DICOM convention)</source>
         <translation>LPS (DICOM конвенції)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="543"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="595"/>
         <source>Browse cross-sections</source>
         <translation>Перегляньте перерізи</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="560"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="612"/>
         <source>Point index:</source>
         <translation>Індекс точки:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="567"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="619"/>
         <source>Point of the centerline where the selected slice view should be moved</source>
         <translation>Точка центральної лінії, куди потрібно перемістити вибраний фрагмент</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="583"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="635"/>
         <source>Move slice view:</source>
         <translation>Переміщення фрагмента:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="592"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="683"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="644"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="735"/>
         <source>Move this slice view to a point along the centerline</source>
         <translation>Перемістіть цей вид фрагмента в точку вздовж центральної лінії</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="616"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="668"/>
         <source>Center the selected point in the slice view</source>
         <translation>Відцентруйте вибрану точку в поданні зрізу</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="619"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="671"/>
         <source>centered</source>
         <translation>по центру</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="632"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="684"/>
         <source>Orient the slice view orthogonal to the centerline</source>
         <translation>Орієнтуйте вигляд зрізу ортогонально до центральної лінії</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="635"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="687"/>
         <source>orthogonal</source>
         <translation>ортогональний</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="648"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="753"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="700"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="805"/>
         <source>Axial:</source>
         <translation>Осьовий:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="763"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="798"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="815"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="850"/>
         <source>Rotate slice view around its Z-axis to restore anatomic orientation</source>
         <translation>Поверніть вид зрізу навколо осі Z, щоб відновити анатомічну орієнтацію</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="676"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="781"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="816"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="728"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="833"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="868"/>
         <source> deg</source>
         <translation> град</translation>
     </message>
@@ -858,47 +1192,46 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
         <translation>Набір параметрів:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="38"/>
         <source>Pick a node to store the parameter set.
 
 This is intended to represent a unique combination of input centerline and surface nodes. Create a distinct parameter set for each combination.</source>
-        <translation>Виберіть вузол для збереження набору параметрів.
+        <translation type="vanished">Виберіть вузол для збереження набору параметрів.
 
 Це призначено для представлення унікальної комбінації вхідної центральної лінії та вузлів поверхні. Створіть окремий набір параметрів для кожної комбінації.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="658"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="710"/>
         <source>Rotation angle for longitudinal slice view</source>
         <translation>Кут повороту для поздовжнього зрізу</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="710"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="762"/>
         <source>Rotate:</source>
         <translation>Обертати:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="717"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="769"/>
         <source>Longitudinal</source>
         <translation>Поздовжній</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="720"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="788"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="772"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="840"/>
         <source>Long.:</source>
         <translation>Довгий.:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="729"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="781"/>
         <source>Spin / Flip</source>
         <translation>Обертання / Перевертання</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="823"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="875"/>
         <source>Flip:</source>
         <translation>Перевернути:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="832"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="884"/>
         <source>Flip the slice view horizontally.
 
 Concerns orthogonal reformat in axial navigation.</source>
@@ -907,12 +1240,12 @@ Concerns orthogonal reformat in axial navigation.</source>
 Стосується ортогонального переформатування в осьовій навігації.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="837"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="889"/>
         <source>Horizontal</source>
         <translation>Горизонтальний</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="844"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="896"/>
         <source>Flip the slice view vertically.
 
 Concerns orthogonal reformat in axial navigation.</source>
@@ -921,132 +1254,133 @@ Concerns orthogonal reformat in axial navigation.</source>
 Стосується ортогонального переформатування в осьовій навігації.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="849"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="901"/>
         <source>Vertical</source>
         <translation>Вертикальний</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="864"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="916"/>
         <source>Distance from origin:</source>
         <translation>Відстань від місця відправлення:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="873"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="925"/>
         <source>Cumulative distance from start of centerline</source>
         <translation>Сумарна відстань від початку осьової лінії</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="886"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="938"/>
         <source>Set the current point as origin</source>
         <translation>Встановіть поточну точку як початок</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="889"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="941"/>
         <source>set</source>
         <translation>встановити</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="899"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="951"/>
         <source>Go to origin point</source>
         <translation>Перейти до початкової точки</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="409"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="902"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="451"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="954"/>
         <source>go to</source>
         <translation>перейти до</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="917"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="969"/>
         <source>Coordinates:</source>
         <translation>Координати:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="924"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="976"/>
         <source>RAS coordinate of selected point</source>
         <translation>RAS координата обраної точки</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="955"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1007"/>
         <source>Maximum inscribed sphere (MIS) diameter at selected point.</source>
         <translation>Максимальний діаметр вписаної сфери (MIS) у вибраній точці.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="968"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1020"/>
         <source>Jump to the smallest MIS diameter point.</source>
         <translation>Перейдіть до найменшої точки діаметра MIS.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="971"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1028"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1023"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1080"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1339"/>
         <source>min</source>
         <translation>хв</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="978"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1030"/>
         <source>Jump to the largest MIS diameter point.</source>
         <translation>Перейдіть до найбільшої точки діаметра MIS.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="981"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1041"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1226"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1266"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1033"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1093"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1308"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1346"/>
         <source>max</source>
         <translation>макс</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="988"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1040"/>
         <source>Show the maximum inscribed sphere diameter.</source>
         <translation>Покажіть максимальний діаметр вписаної сфери.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="946"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="998"/>
         <source>Diameter (MIS):</source>
         <translation>Діаметр (MIS):</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1012"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1064"/>
         <source>Area of the cross-section</source>
         <translation>площа поперечного перерізу</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1025"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1077"/>
         <source>Jump to the smallest cross-section area point.</source>
         <translation>Перейти до найменшої точки площі поперечного перерізу.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1038"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1090"/>
         <source>Jump to the largest cross-section area point.</source>
         <translation>Перейти до найбільшої точки площі поперечного перерізу.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1051"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1103"/>
         <source>Show cross-section at current point. Requires input lumen surface.</source>
         <translation>Показати поперечний переріз у поточній точці. Потрібна вхідна поверхня просвіту.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1003"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1055"/>
         <source>Cross-section area:</source>
         <translation>Площа поперечного перерізу:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1066"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1118"/>
         <source>Diameter (CE):</source>
         <translation>Діаметр (CE):</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1097"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1149"/>
         <source>Angles are in Slicer&apos;s coordinate system</source>
         <translation>Кути знаходяться в системі координат Слайсера</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1090"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1142"/>
         <source>Orientation:</source>
         <translation>Орієнтація:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1073"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1125"/>
         <source>Circular equivalent (CE) diameter: that of a circle having the surface area of the cross-section.
 
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
@@ -1059,39 +1393,373 @@ Caution: values at bifurcations may not have clinical meaning.</source>
 Увага: значення на біфуркаціях можуть не мати клінічного значення.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1122"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1167"/>
         <source>Circular equivalent diameter, derived from the surface area.</source>
         <translation>Круговий еквівалентний діаметр, отриманий від площі поверхні.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1139"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1230"/>
         <source>Surface area</source>
         <translation>Площа поверхні</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1159"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1190"/>
         <source>Lumen:</source>
         <translation>Люмен:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1175"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1243"/>
         <source>Wall:</source>
         <translation>Стіна:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1191"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1206"/>
         <source>Stenosis:</source>
         <translation>Стеноз:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1223"/>
         <source>Jump to the maximum stenosis point by CE diameter.</source>
-        <translation>Перейдіть до максимальної точки стенозу за діаметром CE.</translation>
+        <translation type="vanished">Перейдіть до максимальної точки стенозу за діаметром CE.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1263"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1305"/>
         <source>Jump to the maximum stenosis point by surface area.</source>
         <translation>Перейдіть до максимальної точки стенозу за площею поверхні.</translation>
+    </message>
+</context>
+<context>
+    <name>EditCenterline</name>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="31"/>
+        <source>Edit centerline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="39"/>
+        <source>
+Create a Shape::Tube markups node guided by an arbitrary markups curve, a centerline model or a centerline curve.
+See more information in &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
+Thanks to Andras Lasso for requiring import/export from/to a centerline model/curve.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="44"/>
+        <source>
+This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
+</source>
+        <translation type="unfinished">
+Цей файл був спочатку розроблений Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
+і Стіва Піпера, Isomics, Inc. і частково фінансувався грантом NIH 3P41RR013218-12S1.
+</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="134"/>
+        <source>Tiny</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="135"/>
+        <source>Small</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="136"/>
+        <source>Medium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="137"/>
+        <source>Big</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="138"/>
+        <source>Huge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="236"/>
+        <source>Failed to compute results.</source>
+        <translation type="unfinished">Не вдалося обчислити результати.</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="357"/>
+        <location filename="EditCenterline/EditCenterline.py" line="402"/>
+        <location filename="EditCenterline/EditCenterline.py" line="452"/>
+        <source>Parameter node is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="361"/>
+        <source>Input centerline is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="407"/>
+        <source>Processing started.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="419"/>
+        <source>Centerline model processing failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="421"/>
+        <source>Centerline is bifurcated, it must not be bifurcated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="431"/>
+        <source>Processing completed in {duration} seconds</source>
+        <translation type="unfinished">Обробку завершено за {duration} с</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="543"/>
+        <source>Failed to get segment polydata.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="581"/>
+        <source>Skipping empty section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="592"/>
+        <source>Skipping empty closest section.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="608"/>
+        <location filename="EditCenterline/EditCenterline.py" line="628"/>
+        <location filename="EditCenterline/EditCenterline.py" line="674"/>
+        <source>Tube is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="610"/>
+        <location filename="EditCenterline/EditCenterline.py" line="630"/>
+        <location filename="EditCenterline/EditCenterline.py" line="676"/>
+        <source>Shape is not a tube.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="612"/>
+        <location filename="EditCenterline/EditCenterline.py" line="632"/>
+        <location filename="EditCenterline/EditCenterline.py" line="678"/>
+        <source>Tube must have at least 4 points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="616"/>
+        <location filename="EditCenterline/EditCenterline.py" line="639"/>
+        <source>The central spline of the tube is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="621"/>
+        <location filename="EditCenterline/EditCenterline.py" line="642"/>
+        <source>The central spline of the tube does not have radius information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/EditCenterline.py" line="635"/>
+        <source>Centerline curve is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="19"/>
+        <source>Parameter set:</source>
+        <translation type="unfinished">Набір параметрів:</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="29"/>
+        <source>A parameter set groups parameters that define a named study distinctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="64"/>
+        <source>Inputs</source>
+        <translation type="unfinished">Вхідні дані</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="70"/>
+        <source>Centerline:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="77"/>
+        <source>Select an input centerline.
+
+This can be:
+ - an arbitrary curve representing the axis of an artery,
+ - a centerline curve generated by the &apos;ExtractCenterline&apos; module,
+ - a centerline model generated by the &apos;ExtractCenterline&apos; module.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="113"/>
+        <source>Volume:</source>
+        <translation type="unfinished">Обсяг:</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="120"/>
+        <source>Select a volume.</source>
+        <translation type="unfinished">Виберіть гучність.</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="150"/>
+        <source>Target dimension:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="163"/>
+        <source>Select a target artery dimension profile.
+
+Examples:
+ - Tiny: leg arteries, coronaries,
+ - Huge: thoracic aorta.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="177"/>
+        <source>Outputs</source>
+        <translation type="unfinished">Виходи</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="185"/>
+        <source>Shape tube:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="192"/>
+        <source>Select a shape node.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="203"/>
+        <source>Tube</source>
+        <translation type="unfinished">Трубка</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="225"/>
+        <source>Number of pairs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="238"/>
+        <source>Select the number of control point pairs for the tube.
+
+The tortuosity of the tube and the diameter distribution determine this parameter. This concerns an input centerline model or curve generated by the &apos;ExtractCenterline&apos; module.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="261"/>
+        <source>Options</source>
+        <translation type="unfinished">Опції</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="272"/>
+        <source>Segmentation:</source>
+        <translation type="unfinished">Сегментація:</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="279"/>
+        <source>Select an optional segmentation node to keep the segment mask.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="306"/>
+        <source>Centerline model:</source>
+        <translation type="unfinished">Модель центральної лінії:</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="315"/>
+        <source>Select an edited centerline model.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="326"/>
+        <source>EditedModel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="345"/>
+        <source>Update the edited centerline model.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="348"/>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="399"/>
+        <source>↺</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="357"/>
+        <source>Centerline curve:</source>
+        <translation type="unfinished">Крива центральної лінії:</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="366"/>
+        <source>Select an edited centerline curve.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="377"/>
+        <source>EditedCurve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="396"/>
+        <source>Update the edited centerline curve.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="410"/>
+        <source>Advanced</source>
+        <translation type="unfinished">Просунутий</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="421"/>
+        <source>Radius percent scaling:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="430"/>
+        <source>Decrease the Tube&apos;s radii.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="433"/>
+        <source>-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="446"/>
+        <source>This scale factor difference is applied to the current radii.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="465"/>
+        <source>Increase the Tube&apos;s radii.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="468"/>
+        <source>+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="501"/>
+        <source>Run the algorithm.</source>
+        <translation type="unfinished">Виконайте алгоритм.</translation>
+    </message>
+    <message>
+        <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="504"/>
+        <source>Apply</source>
+        <translation type="unfinished">Застосувати</translation>
     </message>
 </context>
 <context>
@@ -1520,7 +2188,7 @@ Caution: values at bifurcations may not have clinical meaning.</source>
 <context>
     <name>GuidedArterySegmentation</name>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="41"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="42"/>
         <source>
 This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module&lt;/a&gt; is intended to create a segmentation from a contrast enhanced CT angioscan, and to finally extract centerlines from the surface model.
 &lt;br&gt;&lt;br&gt;It assumes that curve control points are placed in the contrasted lumen.
@@ -1535,7 +2203,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="51"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="47"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -1546,98 +2214,125 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="136"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="113"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="119"/>
+        <source>Use the largest region of the segment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="141"/>
         <source>Failed to install {nameOfExtension} extension</source>
         <translation>Не вдалося встановити розширення {nameOfExtension}</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="150"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="152"/>
         <source>Curve node must have at least 3 points.</source>
         <translation>Вузол кривої повинен мати не менше 3 точок.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="169"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="163"/>
         <source>Shape node is not a Tube.</source>
         <translation>Вузол форми не є трубою.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="176"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="170"/>
         <source>Shape node must have at least 4 points.</source>
         <translation>Вузол форми повинен мати принаймні 4 точки.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="346"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="261"/>
         <source>No input curve node specified.</source>
         <translation>Не вказано вузол вхідної кривої.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="349"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="264"/>
         <source>Input curve node must have at least 3 control points.</source>
         <translation>Вузол вхідної кривої повинен мати не менше 3 контрольних точок.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="352"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="267"/>
         <source>No input slice node specified.</source>
         <translation>Не вказано вузол вхідного фрагмента.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="359"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="273"/>
         <source>No volume node selected in input slice node.</source>
         <translation>У вузлі вхідного зрізу не вибрано вузол обсягу.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="373"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="284"/>
         <source>Failed to compute results: </source>
         <translation>Не вдалося обчислити результати: </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="442"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="368"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="391"/>
+        <source>Invalid segmentation or segmentID.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="380"/>
+        <source>Number of regions in segment: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="430"/>
+        <source>Parameter node is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="434"/>
         <source>Processing started</source>
         <translation>Розпочато обробку</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="444"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="436"/>
         <source>Segment editor setup</source>
         <translation>Налаштування редактора сегментів</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="578"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="454"/>
+        <source>Background volume node in the selected slice node is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="570"/>
         <source>Flood filling: {duration} seconds - </source>
         <translation>Заповнення повені: {duration} секунд - </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="614"/>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="690"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="607"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="695"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>Обробку завершено за {duration} с</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="620"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="613"/>
         <source>Extract centerline setup</source>
         <translation>Витяг установок центральної лінії</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="718"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="723"/>
         <source>Starting the test</source>
         <translation>Початок тесту</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="720"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="725"/>
         <source>Test passed</source>
         <translation>Тест пройдено</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="23"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="108"/>
         <source>Inputs</source>
         <translation>Вхідні дані</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="32"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="117"/>
         <source>Input curve:</source>
         <translation>Вхідна крива:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="39"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="124"/>
         <source>Pick an input markups curve node.
 
 The control points are assumed to be on the contrasted lumen.</source>
@@ -1646,12 +2341,12 @@ The control points are assumed to be on the contrasted lumen.</source>
 Вважається, що контрольні точки знаходяться на контрастному просвіті.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="80"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="162"/>
         <source>Tube diameter:</source>
         <translation>Діаметр труби:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="87"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="169"/>
         <source>Specify a value slightly above the maximum estimated diameter of the target artery.
 
 If a Shape::Tube node is specified below, this parameter is ignored.</source>
@@ -1660,54 +2355,87 @@ If a Shape::Tube node is specified below, this parameter is ignored.</source>
 Якщо нижче вказано вузол Shape::Tube, цей параметр ігнорується.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="114"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="193"/>
         <source>Segmentation:</source>
         <translation>Сегментація:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="121"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="200"/>
         <source>Select an output segmentation</source>
         <translation>Виберіть вихідну сегментацію</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="153"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="229"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
         <translation>Виберіть перегляд фрагмента. Використовуватиметься вузол фонового об’єму. Будьте обережні, використовуйте правильний вузол гучності.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="183"/>
         <source>Restore slice views with the referenced volume node</source>
-        <translation>Відновити перегляди фрагментів за допомогою вузла обсягу, на який посилається</translation>
+        <translation type="vanished">Відновити перегляди фрагментів за допомогою вузла обсягу, на який посилається</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="186"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="198"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="19"/>
+        <source>Parameter set:</source>
+        <translation type="unfinished">Набір параметрів:</translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="43"/>
+        <source>A parameter set groups parameters that define a named study distinctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="88"/>
+        <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="91"/>
+        <source>↺</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="261"/>
         <source>Slice node:</source>
         <translation>Вузол зрізу:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="217"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="270"/>
+        <source>Ideally, there should be only one region in the output segment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="280"/>
+        <source>If the segment has more than one region, this function replaces the input segment by a new segment having a single region. It is created from the largest region of the input segment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="283"/>
+        <source>Fix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="304"/>
         <source>Alternative extent</source>
         <translation>Альтернативна міра</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="232"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="319"/>
         <source>Use a Shape::Tube node to limit the circumferential
 extent, instead of a fixed diameter tube.</source>
         <translation>Використовуйте вузол Shape::Tube, щоб обмежити окружність
 замість труби фіксованого діаметра.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="242"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="329"/>
         <source>Tube node:</source>
         <translation>Трубний вузол:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="249"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="336"/>
         <source>Limit the region of interest to this Shape::Tube node.
 
 If specified, the regular tube diameter above is ignored.</source>
@@ -1716,48 +2444,54 @@ If specified, the regular tube diameter above is ignored.</source>
 Якщо вказано, стандартний діаметр труби вище ігнорується.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="298"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="385"/>
         <source>Flood filling parameters</source>
         <translation>Параметри паводкового наповнення</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="319"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="406"/>
         <source>Intensity tolerance:</source>
         <translation>Толерантність до інтенсивності:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="326"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="413"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
         <translation>Виберіть підключені вокселі з діапазоном інтенсивності між вокселями в положенні контрольної точки +/- цей допуск.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="351"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="435"/>
         <source>Neighbourhood size:</source>
         <translation>Розмір мікрорайону:</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="358"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="442"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
         <translation>Області додаються, лише якщо всі вокселі в околицях мають однакову інтенсивність. Використовуйте вищі значення, щоб уникнути витоку. Використовуйте нижчі значення, щоб дозволити захоплення дрібніших деталей.
 </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="407"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="488"/>
         <source>Extract centerlines</source>
         <translation>Виділити осьові лінії</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="420"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="495"/>
+        <source>Create a segmentation and optionally a centerline model and a centerline curve. Output nodes from the last run will be replaced.
+
+If centerlines are extracted, optionally replace the segment by its largest region if it contains more than one region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Create a segmentation and optionally a centerline model and a centerline curve.
 
 Output nodes from the last run will be removed.</source>
-        <translation>Створіть сегментацію та, за бажанням, модель центральної лінії та криву центральної лінії.
+        <translation type="vanished">Створіть сегментацію та, за бажанням, модель центральної лінії та криву центральної лінії.
 
 Вихідні вузли з останнього запуску буде видалено.</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="428"/>
+        <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="500"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
     </message>
@@ -1785,165 +2519,195 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="195"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="190"/>
         <source>Failed to compute results.</source>
         <translation>Не вдалося обчислити результати.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="243"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="267"/>
+        <source>Parameter node is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="280"/>
         <source>Input curve or volume or segmentation is invalid.</source>
         <translation>Вхідна крива, обсяг або сегментація недійсні.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="251"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="288"/>
         <source>Extrusion kernel size or Gaussian standard deviation
                 or seed radius or shell margin or shell thickness is invalid.</source>
         <translation>Розмір ядра екструзії або стандартне відхилення Гауса
                 або радіус насіння, або край оболонки, або товщина оболонки недійсні.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="255"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="292"/>
         <source>Processing started</source>
         <translation>Розпочато обробку</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="279"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="316"/>
         <source>Segment</source>
         <translation>Відрізок</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="370"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="407"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>Обробку завершено за {duration} с</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="396"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="433"/>
         <source>Starting the test</source>
         <translation>Початок тесту</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="398"/>
+        <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="435"/>
         <source>Test passed</source>
         <translation>Тест пройдено</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="19"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="108"/>
         <source>Open curve:</source>
         <translation>Відкрита крива:</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="26"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="115"/>
         <source>Select an open markups curve.</source>
         <translation>Виберіть відкриту криву розмітки.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="59"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="145"/>
         <source>Volume:</source>
         <translation>Обсяг:</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="66"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="152"/>
         <source>Select a volume.</source>
         <translation>Виберіть гучність.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="99"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="189"/>
         <source>Select a segmentation to contain the output.</source>
         <translation>Виберіть сегментацію, яка буде містити результат.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="132"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="182"/>
         <source>Segmentation:</source>
         <translation>Сегментація:</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="154"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="19"/>
+        <source>Parameter set:</source>
+        <translation type="unfinished">Набір параметрів:</translation>
+    </message>
+    <message>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="43"/>
+        <source>A parameter set groups parameters that define a named study distinctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="88"/>
+        <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="91"/>
+        <source>↺</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="102"/>
+        <source>Inputs</source>
+        <translation type="unfinished">Вхідні дані</translation>
+    </message>
+    <message>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="235"/>
         <source>Parameters</source>
         <translation>Параметри</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="165"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="246"/>
         <source>Shell margin:</source>
         <translation>Поле оболонки:</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="178"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="259"/>
         <source>Margin of a temporary shell around the input curve.</source>
         <translation>Поле тимчасової оболонки навколо вхідної кривої.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="181"/>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="212"/>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="251"/>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="303"/>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="341"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="262"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="290"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="326"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="375"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="410"/>
         <source> mm</source>
         <translation> мм</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="209"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="287"/>
         <source>For the &apos;Smoothing::RemoveExtrusion&apos; effect of the &apos;Segment editor&apos;.</source>
         <translation>Для ефекту «Smoothing::RemoveExtrusion» «Редактора сегментів».</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="234"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="309"/>
         <source>Gaussian standard
 deviation:</source>
         <translation>Стандарт Гауса
 відхилення:</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="248"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="323"/>
         <source>For the &apos;Smoothing::Gaussian&apos; effect of the &apos;Segment editor&apos;.</source>
         <translation>Для ефекту «Smoothing::Gaussian» «Редактора сегментів».</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="273"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="345"/>
         <source>Extrusion kernel size:</source>
         <translation>Розмір ядра екструзії:</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="282"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="354"/>
         <source>Options</source>
         <translation>Опції</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="300"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="372"/>
         <source>Dimension of the primary seed around the input curve.</source>
         <translation>Розмір первинного насіння навколо вхідної кривої.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="325"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="394"/>
         <source>Seed radius:</source>
         <translation>Радіус посіву:</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="338"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="407"/>
         <source>Thickness of a temporary shell around the input curve.</source>
         <translation>Товщина тимчасової оболонки навколо вхідної кривої.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="363"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="429"/>
         <source>Shell thickness:</source>
         <translation>Товщина корпусу:</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="370"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="436"/>
         <source>Subtract overlapping parts of other segments from the resulting vein segment.</source>
         <translation>Від отриманого сегмента жилки відніміть частини інших сегментів, що перекриваються.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="386"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="449"/>
         <source>Remove overlaps:</source>
         <translation>Видалити перекриття:</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="402"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="465"/>
         <source>Run the algorithm.</source>
         <translation>Виконайте алгоритм.</translation>
     </message>
     <message>
-        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="405"/>
+        <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="468"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
     </message>
@@ -1977,73 +2741,132 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="133"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="114"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="120"/>
+        <source>Use the largest region of the segment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="142"/>
         <source>Failed to install {nameOfExtension} extension</source>
         <translation>Не вдалося встановити розширення {nameOfExtension}</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="147"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="156"/>
         <source>Fiducial node must have at least 2 points.</source>
         <translation>Фідуальний вузол повинен мати не менше 2 точок.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="341"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="270"/>
         <source>No input fiducial node specified.</source>
         <translation>Не вказано опорний вузол введення.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="344"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="273"/>
         <source>No input slice node specified.</source>
         <translation>Не вказано вузол вхідного фрагмента.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="351"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="279"/>
         <source>No volume node selected in input slice node.</source>
         <translation>У вузлі вхідного фрагмента не вибрано вузол обсягу.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="355"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="283"/>
         <source>No input ROI node specified.</source>
         <translation>Вузол ROI не вказано.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="369"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="294"/>
         <source>Failed to compute results: </source>
         <translation>Не вдалося обчислити результати: </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="435"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="382"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="404"/>
+        <source>Invalid segmentation or segmentID.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="393"/>
+        <source>Number of regions in segment: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="441"/>
+        <source>Parameter node is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="445"/>
         <source>Processing started</source>
         <translation>Розпочато обробку</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="437"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="447"/>
         <source>Segment editor setup</source>
         <translation>Налаштування редактора сегментів</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="508"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="455"/>
+        <source>Background volume node in the selected slice node is None.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="523"/>
         <source>Flood filling: {duration} seconds - </source>
         <translation>Заповнення повені: {duration} секунд - </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="530"/>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="587"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="546"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="612"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>Обробку завершено за {duration} с</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="536"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="552"/>
         <source>Extract centerline setup</source>
         <translation>Витяг установок центральної лінії</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="20"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="619"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="634"/>
+        <source>Segmentation or segmentID is invalid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="621"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="636"/>
+        <source>Segment not found in the segmentation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="22"/>
+        <source>Parameter set:</source>
+        <translation type="unfinished">Набір параметрів:</translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="46"/>
+        <source>A parameter set groups parameters that define a named study distinctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="91"/>
+        <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="94"/>
+        <source>↺</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="105"/>
         <source>Inputs</source>
         <translation>Вхідні дані</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="26"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="111"/>
         <source>Pick an input markups fiducial node.
 
 The fiducial points are assumed to be on the contrasted lumen.</source>
@@ -2052,89 +2875,119 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
 Вважається, що опорні точки знаходяться на контрастному просвіті.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="66"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="148"/>
         <source>Pick an optional ROI node. This may speed up segmentation and centerline extraction. The ROI will be forcibly hidden after completion.</source>
         <translation>Виберіть додатковий вузол ROI. Це може прискорити сегментацію та виділення центральної лінії. ROI буде примусово приховано після завершення.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="93"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="159"/>
+        <source>QuickROI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="175"/>
         <source>Set the bounds of the ROI accounting for that of the fiducial node. It must  further be manually adjusted to enclose the target region of interest.</source>
         <translation>Встановіть межі ROI, враховуючи межі довірчого вузла. Далі його потрібно налаштувати вручну, щоб охопити цільову область інтересу.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="99"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="181"/>
         <source>Pre-fit</source>
         <translation>Попередня підгонка</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="111"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="193"/>
         <source>ROI node:</source>
         <translation>ROI вузол:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="121"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="203"/>
         <source>Fiducial node:</source>
         <translation>Допоміжний вузол:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="128"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="210"/>
         <source>Segmentation:</source>
         <translation>Сегментація:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="135"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="217"/>
         <source>Select an output segmentation</source>
         <translation>Виберіть вихідну сегментацію</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="167"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="246"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
         <translation>Виберіть перегляд фрагмента. Використовуватиметься вузол фонового об’єму. Будьте обережні, використовуйте правильний вузол гучності.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="197"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="442"/>
+        <source>Create a segmentation and optionally a centerline model and a centerline curve. Output nodes from the last run will be replaced.
+
+If centerlines are extracted, optionally replace the segment by its largest region if it contains more than one region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restore slice views with the referenced volume node</source>
-        <translation>Відновити перегляди фрагментів за допомогою вузла обсягу, на який посилається</translation>
+        <translation type="vanished">Відновити перегляди фрагментів за допомогою вузла обсягу, на який посилається</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="200"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="209"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="275"/>
         <source>Slice node:</source>
         <translation>Вузол зрізу:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="225"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="284"/>
+        <source>Ideally, there should be only one region in the output segment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="294"/>
+        <source>If the segment has more than one region, this function replaces the input segment by a new segment having a single region. It is created from the largest region of the input segment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="297"/>
+        <source>Fix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="315"/>
+        <source>Use a parameter set for a distinct study.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="318"/>
         <source>Flood filling parameters</source>
         <translation>Параметри паводкового наповнення</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="249"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="342"/>
         <source>Intensity tolerance:</source>
         <translation>Толерантність до інтенсивності:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="256"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="349"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
         <translation>Виберіть підключені вокселі з діапазоном інтенсивності між вокселями в положенні контрольної точки +/- цей допуск.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="281"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="371"/>
         <source>Neighbourhood size:</source>
         <translation>Розмір мікрорайону:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="288"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="378"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
         <translation>Області додаються, лише якщо всі вокселі в околицях мають однакову інтенсивність. Використовуйте вищі значення, щоб уникнути витоку. Використовуйте нижчі значення, щоб дозволити захоплення дрібніших деталей.
 </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="334"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="421"/>
         <source>Use &apos;Extract centerline&apos; module to generate a centerline model and a centerline curve.
 
 It is recommended to generate centerlines on accurate segmentations.</source>
@@ -2143,21 +2996,20 @@ It is recommended to generate centerlines on accurate segmentations.</source>
 Рекомендується генерувати осьові лінії на точних сегментах.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="342"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="429"/>
         <source>Extract centerlines</source>
         <translation>Виділити осьові лінії</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="361"/>
         <source>Create a segmentation and optionally a centerline model and a centerline curve.
 
 Output nodes from the last run will be removed.</source>
-        <translation>Створіть сегментацію та, за бажанням, модель центральної лінії та криву центральної лінії.
+        <translation type="vanished">Створіть сегментацію та, за бажанням, модель центральної лінії та криву центральної лінії.
 
 Вихідні вузли з останнього запуску буде видалено.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="366"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="447"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
     </message>
@@ -2253,7 +3105,7 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 </translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="47"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="43"/>
         <source>
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
@@ -2264,32 +3116,32 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="118"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="107"/>
         <source>More options</source>
         <translation>Більше варіантів</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="120"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="109"/>
         <source>Apply to all segments</source>
         <translation>Застосувати до всіх сегментів</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="122"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="111"/>
         <source>If unchecked, only the selected segment will be processed.</source>
         <translation>Якщо цей прапорець знято, буде оброблено лише вибраний сегмент.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="126"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="115"/>
         <source>Calculate the surface area of the closest island to the ficucial control point.</source>
         <translation>Обчисліть площу поверхні найближчого острова до контрольної точки.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="129"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="118"/>
         <source>Create an output model.</source>
         <translation>Створіть вихідну модель.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="132"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="121"/>
         <source>Create a model for each cut segment.
 This allows to view the model from which the surface area is calculated.
 
@@ -2313,173 +3165,193 @@ The result is influenced by :
  - рівень згладжування в «Редакторі сегментів».</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="133"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="122"/>
         <source>Reset control point orientation</source>
         <translation>Скинути орієнтацію контрольної точки</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="135"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="124"/>
         <source>Click on a control point to reset its recorded slice orientation.</source>
         <translation>Клацніть контрольну точку, щоб скинути орієнтацію її записаного зрізу.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="137"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="126"/>
         <source>Restore orientation of all slice views</source>
         <translation>Відновити орієнтацію всіх видів фрагментів</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="138"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="127"/>
         <source>... to their default orientation.</source>
         <translation>... до стандартної орієнтації.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="149"/>
         <source>Control point</source>
         <translation>Контрольна точка</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="149"/>
         <source>Segment</source>
         <translation>Відрізок</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="149"/>
         <source>Surface area</source>
         <translation>Площа поверхні</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="149"/>
         <source>Model visibility</source>
         <translation>Видимість моделі</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="147"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="149"/>
         <source>Segment visibility</source>
         <translation>Видимість сегмента</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="176"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="181"/>
         <source>Remove row</source>
         <translation>Видалити Рядок</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="181"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="186"/>
         <source>Empty table</source>
         <translation>Порожній стіл</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="187"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="192"/>
         <source>Dismiss menu</source>
         <translation>Закрити меню</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="236"/>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="566"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="241"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="629"/>
         <source>Input segmentation is invalid</source>
         <translation>Введена сегментація недійсна</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="320"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="346"/>
         <source>Select a slice node</source>
         <translation>Виберіть вузол зрізу</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="323"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="349"/>
         <source>Select a fiducial node</source>
         <translation>Виберіть опорний вузол</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="326"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="352"/>
         <source>Select a segmentation node</source>
         <translation>Виберіть вузол сегментації</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="329"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="355"/>
         <source>Click on a fiducial control point</source>
         <translation>Натисніть опорну контрольну точку</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="331"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="357"/>
         <source>Failed to compute results.</source>
         <translation>Не вдалося обчислити результати.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="476"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="542"/>
         <source>Fiducial node is no longer observed</source>
         <translation>Фідуційний вузол більше не спостерігається</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="482"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="548"/>
         <source>Fiducial node is being observed</source>
         <translation>Спостерігається опорний вузол</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="495"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="561"/>
         <source>Slice node not set</source>
         <translation>Вузол фрагмента не встановлено</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="512"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="578"/>
         <source>Slice orientation recorded</source>
         <translation>Записано орієнтацію зрізу</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="522"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="588"/>
         <source>Slice orientation restored</source>
         <translation>Орієнтацію фрагмента відновлено</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="529"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="595"/>
         <source>Reset orientation at point</source>
         <translation>Скинути орієнтацію в точці</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="568"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="631"/>
         <source>Input segment ID is invalid</source>
         <translation>Введений ідентифікатор сегмента недійсний</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="572"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="635"/>
         <source>Processing started</source>
         <translation>Розпочато обробку</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="624"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="678"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>Обробку завершено за {duration} с</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="676"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="730"/>
         <source>Starting the test</source>
         <translation>Початок тесту</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="678"/>
+        <location filename="StenosisMeasurement2D/StenosisMeasurement2D.py" line="732"/>
         <source>Test passed</source>
         <translation>Тест пройдено</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="17"/>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="19"/>
+        <source>Parameter set:</source>
+        <translation type="unfinished">Набір параметрів:</translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
+        <source>A parameter set groups parameters that define a named study distinctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="88"/>
+        <source>Update the segment editor with the input segmentation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="91"/>
+        <source>↺</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="102"/>
         <source>Inputs</source>
         <translation>Вхідні дані</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="36"/>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="121"/>
         <source>Slice node:</source>
         <translation>Вузол зрізу:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="128"/>
         <source>Select an input slice view.</source>
         <translation>Виберіть вигляд вхідного фрагмента.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="70"/>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="155"/>
         <source>Fiducial:</source>
         <translation>Фідуціал:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="77"/>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="162"/>
         <source>Select an input markups fiducial list.
 
 Clicking at a control point allows to track the slice orientation in the selected slice node, on top of the usual jump behaviour. This tracking is scene-wide only, it is not saved with the scene.</source>
@@ -2488,17 +3360,17 @@ Clicking at a control point allows to track the slice orientation in the selecte
 Клацання в контрольній точці дозволяє відстежувати орієнтацію зрізу у вибраному вузлі зрізу на додаток до звичайної поведінки переходу. Це відстеження стосується лише сцени, воно не зберігається разом зі сценою.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="112"/>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="197"/>
         <source>Segmentation:</source>
         <translation>Сегментація:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="119"/>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="204"/>
         <source>Select an input segmentation.</source>
         <translation>Виберіть вхідну сегментацію.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="142"/>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="227"/>
         <source>Result table.
 
 Right click for more.</source>
@@ -2507,7 +3379,7 @@ Right click for more.</source>
 Клацніть правою кнопкою миші, щоб дізнатися більше.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="167"/>
+        <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="252"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
     </message>
@@ -2516,6 +3388,7 @@ Right click for more.</source>
     <name>qSlicerAbstractCoreModule</name>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="34"/>
+        <location filename="EditCenterline/EditCenterline.py" line="32"/>
         <source>Vascular Modeling Toolkit</source>
         <translation>Набір інструментів моделювання судин</translation>
     </message>

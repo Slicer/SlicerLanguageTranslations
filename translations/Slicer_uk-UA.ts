@@ -2681,10 +2681,15 @@ Allows casting to the same type as the input volume.</source>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
         <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
 
-MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
-        <translation>Виконує анізотропну дифузію на зображенні за допомогою модифікованого рівняння дифузії кривизни (MCDE).
+        <oldsource>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
+
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
+
+ Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</oldsource>
+        <translation type="unfinished">Виконує анізотропну дифузію на зображенні за допомогою модифікованого рівняння дифузії кривизни (MCDE).
 
 MCDE не демонструє властивостей покращення країв класичної анізотропної дифузії, яка за певних умов може зазнавати «негативної» дифузії, що посилює контраст країв.  Рівняння форми MCDE завжди зазнають позитивної дифузії, причому член провідності змінює лише силу цієї дифузії.
 
@@ -4060,10 +4065,19 @@ This filter is used to smooth over local minima without affecting the values of 
 
 This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
 
- Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
-        <translation>Фільтр заповнює порожнечі у відтінках сірого на напівтоновому зображенні.  Дірки - це локальні мінімуми в топографії відтінків сірого, не пов&apos;язані з межами зображення. Значення рівня сірого поруч з діркою екстраполюються через неї.
+        <oldsource>GrayscaleFillholeImageFilter fills holes in a grayscale image.  Holes are local minima in the grayscale topography that are not connected to boundaries of the image. Gray level values adjacent to a hole are extrapolated across the hole.
+
+This filter is used to smooth over local minima without affecting the values of local maxima.  If you take the difference between the output of this filter and the original image (and perhaps threshold the difference above a small value), you&apos;ll obtain a map of the local minima.
+
+This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
+
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
+
+ A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
+        <translation type="unfinished">Фільтр заповнює порожнечі у відтінках сірого на напівтоновому зображенні.  Дірки - це локальні мінімуми в топографії відтінків сірого, не пов&apos;язані з межами зображення. Значення рівня сірого поруч з діркою екстраполюються через неї.
 
 Цей фільтр використовується для згладжування локальних мінімумів, не впливаючи на значення локальних максимумів.  Якщо ви візьмете різницю між виходом цього фільтра і вихідним зображенням (і, можливо, піднімете поріг різниці вище невеликого значення), ви отримаєте карту локальних мінімумів.
 
@@ -4830,8 +4844,9 @@ The filter assumes that both the source and reference are of the same type and t
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
-        <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
-        <translation>Створюйте 3D-моделі поверхні із сегментованих даних.&lt;p&gt;Моделі імпортуються в Slicer під вузлом ієрархії моделі в сцені MRML. Кольори моделі встановлюються таблицею кольорів, пов’язаною з вхідним обсягом (ці кольори будуть видимі, лише якщо ви завантажите файл сцени моделі).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Укажіть &lt;i&gt;Вхідний том&lt;/i&gt;, який є сегментованим обсягом карти міток. Створіть нову ієрархію &lt;i&gt;Моделей&lt;/i&gt;, щоб створити структуру для моделей повернення, створених із вхідного обсягу.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Створити кілька:&lt;/b&gt;&lt;/p&gt;&lt;p &gt;Якщо ви вкажете список &lt;i&gt;Міток&lt;/i&gt;, він матиме перевагу над будь-якими параметрами початкової/кінцевої мітки.&lt;/p&gt;&lt;p&gt;Якщо ви натиснете &lt;i&gt;Створити все&lt;/i&gt;, це буде замінено список міток і будь-які налаштування початкової/кінцевої мітки.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Параметри Model Maker:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ви можете встановити кількість ітерацій згладжування, цільове зменшення кількості полігонів (десятковий відсоток) . Використовуйте 0 і 1, якщо ви не бажаєте ні згладжування, ні децимації.&lt;br&gt;Ви також можете встановити прапорці для розділення нормалей або генерування точкових нормалей на цій панелі.&lt;br&gt;Ви можете зберегти копію моделей після проміжних кроків (маршуючих кубів). , згладжування та децимація, якщо не спільне згладжування, інакше відразу після децимації); ці моделі не зберігаються у файлі mrml, спочатку вимкніть видалення тимчасових файлів у вікні python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
+        <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 0 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
+        <oldsource>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</oldsource>
+        <translation type="unfinished">Створюйте 3D-моделі поверхні із сегментованих даних.&lt;p&gt;Моделі імпортуються в Slicer під вузлом ієрархії моделі в сцені MRML. Кольори моделі встановлюються таблицею кольорів, пов’язаною з вхідним обсягом (ці кольори будуть видимі, лише якщо ви завантажите файл сцени моделі).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Укажіть &lt;i&gt;Вхідний том&lt;/i&gt;, який є сегментованим обсягом карти міток. Створіть нову ієрархію &lt;i&gt;Моделей&lt;/i&gt;, щоб створити структуру для моделей повернення, створених із вхідного обсягу.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Створити кілька:&lt;/b&gt;&lt;/p&gt;&lt;p &gt;Якщо ви вкажете список &lt;i&gt;Міток&lt;/i&gt;, він матиме перевагу над будь-якими параметрами початкової/кінцевої мітки.&lt;/p&gt;&lt;p&gt;Якщо ви натиснете &lt;i&gt;Створити все&lt;/i&gt;, це буде замінено список міток і будь-які налаштування початкової/кінцевої мітки.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Параметри Model Maker:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ви можете встановити кількість ітерацій згладжування, цільове зменшення кількості полігонів (десятковий відсоток) . Використовуйте 0 і 1, якщо ви не бажаєте ні згладжування, ні децимації.&lt;br&gt;Ви також можете встановити прапорці для розділення нормалей або генерування точкових нормалей на цій панелі.&lt;br&gt;Ви можете зберегти копію моделей після проміжних кроків (маршуючих кубів). , згладжування та децимація, якщо не спільне згладжування, інакше відразу після децимації); ці моделі не зберігаються у файлі mrml, спочатку вимкніть видалення тимчасових файлів у вікні python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
@@ -5454,9 +5469,13 @@ The filter assumes that both the source and reference are of the same type and t
         <translation>Параметри орієнтації</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output</source>
-        <translation>Орієнтація виходу</translation>
+        <translation type="vanished">Орієнтація виходу</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
+        <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
@@ -6210,9 +6229,11 @@ The filter assumes that both the source and reference are of the same type and t
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
-        <source>Finite Strain (FS) or
+        <source>Finite Strain (FS) or 
 Preservation of the Principal Direction (PPD)</source>
-        <translation>Кінцева деформація (FS) або
+        <oldsource>Finite Strain (FS) or
+Preservation of the Principal Direction (PPD)</oldsource>
+        <translation type="unfinished">Кінцева деформація (FS) або
 Збереження основного напрямку (PPD)</translation>
     </message>
     <message>
@@ -6435,13 +6456,19 @@ Preservation of the Principal Direction (PPD)</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
-        <source>Window Function
+        <source>Window Function 
+h = Hamming 
+c = Cosine 
+w = Welch 
+l = Lanczos 
+b = Blackman</source>
+        <oldsource>Window Function
 h = Hamming
 c = Cosine
 w = Welch
 l = Lanczos
-b = Blackman</source>
-        <translation>Функція вікна
+b = Blackman</oldsource>
+        <translation type="unfinished">Функція вікна
 h = Хеммінга
 c = косинус
 w = Велч
@@ -6544,12 +6571,17 @@ a = афінне перетворення</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
-        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+
+Warning: To resample DWMR Images, use nrrd input and output files. 
+
+Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
+        <oldsource>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
 
 Warning: To resample DWMR Images, use nrrd input and output files.
 
-Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
-        <translation>Цей модуль реалізує повторну дискретизацію зображень і векторних зображень за допомогою itk Transforms. Він також може обробляти дифузійно-зважену повторну дискретизацію зображень МРТ. «Повторна вибірка» виконується в просторових координатах, а не в піксельних/сіткових координатах. Досить важливо переконатися, що інтервал між зображеннями встановлено належним чином. Інтерполятор потрібен, оскільки відображення з одного простору в інший часто вимагатиме оцінки інтенсивності зображення в положеннях поза сіткою. 
+Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
+        <translation type="unfinished">Цей модуль реалізує повторну дискретизацію зображень і векторних зображень за допомогою itk Transforms. Він також може обробляти дифузійно-зважену повторну дискретизацію зображень МРТ. «Повторна вибірка» виконується в просторових координатах, а не в піксельних/сіткових координатах. Досить важливо переконатися, що інтервал між зображеннями встановлено належним чином. Інтерполятор потрібен, оскільки відображення з одного простору в інший часто вимагатиме оцінки інтенсивності зображення в положеннях поза сіткою. 
 
 Застереження: щоб змінити вибірку зображень DWMR, використовуйте вхідні та вихідні файли nrrd. 
 
@@ -6886,13 +6918,19 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
-        <source>Window Function
+        <source>Window Function 
+h = Hamming 
+c = Cosine 
+w = Welch 
+l = Lanczos 
+b = Blackman</source>
+        <oldsource>Window Function
 h = Hamming
 c = Cosine
 w = Welch
 l = Lanczos
-b = Blackman</source>
-        <translation>Функція вікна
+b = Blackman</oldsource>
+        <translation type="unfinished">Функція вікна
 h = Хеммінга
 c = косинус
 w = Велч
@@ -9194,12 +9232,12 @@ You can save the camera position at any point by clicking &quot;Save camera posi
         <translation>Сегментація</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="88"/>
+        <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="87"/>
         <source>Failed to load file: </source>
         <translation>Не вдалося завантажити файл: </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="143"/>
+        <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="142"/>
         <source>Syntax error in line {line}</source>
         <translation>Синтаксична помилка в рядку {line}</translation>
     </message>
@@ -9288,115 +9326,147 @@ use it for commercial purposes.&lt;/p&gt;
         <translation>Перейдіть до модуля SampleData, щоб завантажити дані з мережі</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="516"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="275"/>
+        <source>Load data from URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="277"/>
+        <source>URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="281"/>
+        <source>Load</source>
+        <translation type="unfinished">Завантажити</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="283"/>
+        <source>Download the dataset from the given URL and import it into the scene</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="285"/>
+        <source>Show folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="286"/>
+        <source>Show folder where custom data sets are downloaded ({path}).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="543"/>
         <source>General</source>
         <translation>Основне</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="517"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="544"/>
         <source>Development</source>
         <translation>Розборники</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="639"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="666"/>
         <source>Failed to create cache folder {path}</source>
         <translation>Не вдалося створити папку кешу {path}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="641"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="668"/>
         <source>Cache folder {path} is not writable</source>
         <translation>Папка кешу {path} не доступна для запису</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="694"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="735"/>
         <source>Download failed (attempt {current} of {total})...</source>
         <translation>Помилка завантаження (спроба {current} із {total})...</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="748"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="789"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
         <translation>Помилка завантаження (спроба {current} із {total}). Не вдається видалити та повторіть спробу завантаження {path}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="752"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="793"/>
         <source>Load failed (attempt {current} of {total})...</source>
         <translation>помилка завантаження (спроба {current} із {total})...</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="889"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="930"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
         <translation>Завантажено {sizeCompleted} ({percentCompleted}% від {sizeTotal})...</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="906"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="947"/>
         <source>Requesting download {name} from {uri} ...</source>
         <translation>Запит на завантаження {name} з {uri}...</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="909"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="950"/>
         <source>Download finished</source>
         <translation>Завантаження завершене</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="911"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="952"/>
         <source>Download failed: {errorMessage}</source>
         <translation>Помилка завантаження: {errorMessage}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="912"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="953"/>
         <source>Failed to download {uri} to {filePath}</source>
         <translation>Не вдалося завантажити {uri} до {filePath}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="915"/>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="927"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="956"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="968"/>
         <source>Verifying checksum</source>
         <translation>Перевірка контрольної суми</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="919"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="960"/>
         <source>Checksum verification failed. Computed checksum {currentChecksum} different from expected checksum {expectedChecksum}</source>
         <translation>Не вдалося перевірити контрольну суму. Обчислена контрольна сума {currentChecksum} відрізняється від очікуваної контрольної суми {expectedChecksum}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="924"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="965"/>
         <source>Checksum OK</source>
         <translation>Контрольна сума в порядку</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="930"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="971"/>
         <source>File already exists in cache but checksum is different - re-downloading it.</source>
         <translation>Файл уже існує в кеші, але контрольна сума інша - його потрібно повторно завантажити.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="935"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="976"/>
         <source>File already exists and checksum is OK - reusing it.</source>
         <translation>Файл уже існує, і контрольна сума в порядку - повторне використання.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="938"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="979"/>
         <source>File already exists in cache - reusing it.</source>
         <translation>Файл уже існує в кеші - використовувати його повторно.</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="942"/>
         <source>Requesting load {uri}</source>
-        <translation>Запит на завантаження {uri}</translation>
+        <translation type="vanished">Запит на завантаження {uri}</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="946"/>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="963"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="1004"/>
         <source>Load failed!</source>
         <translation>Не вдалось завантажити!</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="948"/>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="966"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="1008"/>
+        <source>Error was reported while loading {count} nodes from {path}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="1011"/>
         <source>Load finished</source>
         <translation>Завантаження завершене</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/SampleData/SampleData.py" line="952"/>
+        <location filename="Modules/Scripted/SampleData/SampleData.py" line="992"/>
         <source>Requesting load {name} from {uri} ...</source>
         <translation>запит на завантаження {name} з {uri}...</translation>
     </message>
@@ -10136,109 +10206,109 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 <context>
     <name>SegmentEditorEffects.AbstractScriptedSegmentEditorAutoCompleteEffect</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="93"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="102"/>
         <source>Auto-update</source>
         <translation>Автоматичне оновлення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="94"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="103"/>
         <source>Auto-update results preview when input segments change.</source>
         <translation>Попередній перегляд результатів автоматичного оновлюється, коли вхідні сегменти змінюються.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="98"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="261"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="107"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="270"/>
         <source>Initialize</source>
         <translation>Розпочати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="100"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="109"/>
         <source>Preview complete segmentation</source>
         <translation>Попередній перегляд завершеної сегментації</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="110"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="119"/>
         <source>Preview:</source>
         <translation>Попередній перегляд:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="113"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="122"/>
         <source>Adjust visibility of results preview.</source>
         <translation>Налаштуйте видимість попереднього перегляду результатів.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="121"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="130"/>
         <source>Show 3D</source>
         <translation>Показати 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="122"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="131"/>
         <source>Preview results in 3D.</source>
         <translation>Попередній перегляд 3D.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="126"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="135"/>
         <source>inputs</source>
         <translation>вхідні дані</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="128"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="137"/>
         <source>results</source>
         <translation>результати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="130"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="139"/>
         <source>Display:</source>
         <translation>Показати:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="132"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="141"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="134"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="143"/>
         <source>Clear preview and cancel auto-complete</source>
         <translation>Очистити попередній перегляд і відмінити авто-оновлення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="136"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="145"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="138"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="147"/>
         <source>Replace segments by previewed result</source>
         <translation>Замінити сегменти попереднім переглядом</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="177"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="186"/>
         <source>Segmentation operation is cancelled because an input segment was deleted.</source>
         <translation>Операцію сегментації скасовано, оскільки вхідний сегмент видалено.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="255"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="264"/>
         <source>Update</source>
         <translation>Оновити</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="286"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="295"/>
         <source>Running {effectName} auto-complete...</source>
         <translation>Виконується автозавершення {effectName}...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="288"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="297"/>
         <source>Segmentation operation failed:</source>
         <translation>Помилка операції сегментації:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="450"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="462"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="459"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="471"/>
         <source>Minimum {minimumNumberOfSegments} visible segments are required.</source>
         <translation>Потрібна мінімум {minimumNumberOfSegments} видимих сегментів.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="455"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="464"/>
         <source>Minimum {minimumNumberOfSegments} visible segments (or specification of editable area or intensity range) is required.</source>
         <translation>Потрібна мінімум {minimumNumberOfSegments} видимих сегментів (або специфікація редагованої області чи діапазону інтенсивності).</translation>
     </message>
@@ -10314,7 +10384,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         Location, size, and shape of initial segments and content of source volume are taken into account.
         Final segment boundaries will be placed where source volume brightness changes abruptly. Instructions:&lt;p&gt;
         &lt;ul style=&quot;margin: 0&quot;&gt;
-        &lt;li&gt;Use Paint or other offects to draw seeds in each region that should belong to a separate segment.
+        &lt;li&gt;Use Paint or other effects to draw seeds in each region that should belong to a separate segment.
         Paint each seed with a different segment. Minimum two segments are required.
         &lt;li&gt;Click &lt;dfn&gt;Initialize&lt;/dfn&gt; to compute preview of full segmentation.
         &lt;li&gt;Browse through image slices. If previewed segmentation result is not correct then switch to
@@ -10325,7 +10395,22 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</source>
-        <translation>Створення сегментів для створення повної сегментації&lt;br&gt;.
+        <oldsource>Growing segments to create complete segmentation&lt;br&gt;.
+        Location, size, and shape of initial segments and content of source volume are taken into account.
+        Final segment boundaries will be placed where source volume brightness changes abruptly. Instructions:&lt;p&gt;
+        &lt;ul style=&quot;margin: 0&quot;&gt;
+        &lt;li&gt;Use Paint or other offects to draw seeds in each region that should belong to a separate segment.
+        Paint each seed with a different segment. Minimum two segments are required.
+        &lt;li&gt;Click &lt;dfn&gt;Initialize&lt;/dfn&gt; to compute preview of full segmentation.
+        &lt;li&gt;Browse through image slices. If previewed segmentation result is not correct then switch to
+        Paint or other effects and add more seeds in the misclassified region. Full segmentation will be
+        updated automatically within a few seconds
+        &lt;li&gt;Click &lt;dfn&gt;Apply&lt;/dfn&gt; to update segmentation with the previewed result.
+        &lt;/ul&gt;&lt;p&gt;
+        If segments overlap, segment higher in the segments table will have priority.
+        The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
+        &lt;p&gt;</oldsource>
+        <translation type="unfinished">Створення сегментів для створення повної сегментації&lt;br&gt;.
         Враховується розташування, розмір і форма початкових сегментів і вміст вихідного об&apos;єму.
         Кінцеві межі сегментів будуть розміщені там, де різко змінюється яскравість компонентів у зображенні. Інструкції:&lt;p&gt;
         &lt;ul style=&quot;margin: 0&quot;&gt;
@@ -11060,12 +11145,12 @@ If segments overlap, segment higher in the segments table will have priority. &l
 <context>
     <name>SegmentEditorEffects.SegmentEditorThresholdEffect</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="28"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="29"/>
         <source>Threshold</source>
         <translation>Поріг</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="90"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="100"/>
         <source>Fill segment based on source volume intensity range&lt;br&gt;. Options:&lt;p&gt;
 &lt;ul style=&quot;margin: 0&quot;&gt;
 &lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; set the selected intensity range as &lt;dfn&gt;Editable intensity range&lt;/dfn&gt; and switch to Paint effect.
@@ -11078,205 +11163,205 @@ If segments overlap, segment higher in the segments table will have priority. &l
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="106"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="116"/>
         <source>Threshold Range:</source>
         <translation>Пороговий діапазон:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="107"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="117"/>
         <source>Set the range of the background values that should be labeled.</source>
         <translation>Встановіть діапазон значень, які слід виділити.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="116"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="126"/>
         <source>threshold above</source>
         <translation>поріг вище</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="117"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="127"/>
         <source>threshold below</source>
         <translation>поріг нижче</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="118"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="128"/>
         <source>set as lower value</source>
         <translation>встановити як нижче значення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="119"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="129"/>
         <source>set as upper value</source>
         <translation>встановити як верхнє значення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="122"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="132"/>
         <source>How to set lower and upper values of the threshold range. Threshold above/below: sets the range from the computed value to maximum/minimum. Set as lower/upper value: only modifies one side of the threshold range.</source>
         <translation>Як встановити нижнє та верхнє значення порогового діапазону. Поріг вище/нижче: встановлює діапазон від обчисленого значення до максимуму/мінімуму. Установити як нижнє/верхнє значення: змінює лише одну сторону порогового діапазону.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="125"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="135"/>
         <source>Otsu</source>
         <translation>Трав&apos;янисті</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="126"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="136"/>
         <source>Huang</source>
         <translation>Хуан</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="127"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="137"/>
         <source>IsoData</source>
         <translation>Великі дані</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="130"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="140"/>
         <source>Kittler-Illingworth</source>
         <translation>Кітлер-Ілінгворт</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="135"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="145"/>
         <source>Maximum entropy</source>
         <translation>Максимальна ентропія</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="136"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="146"/>
         <source>Moments</source>
         <translation>Моменти</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="137"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="147"/>
         <source>Renyi entropy</source>
         <translation>Ентропія Реньї</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="138"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="148"/>
         <source>Shanbhag</source>
         <translation>Шанбхаг</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="139"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="149"/>
         <source>Triangle</source>
         <translation>Трикутник</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="140"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="150"/>
         <source>Yen</source>
         <translation>Єна</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="141"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="151"/>
         <source>Select method to compute threshold value automatically.</source>
         <translation>Оберіть методику автоматичного встановлення порогу.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="146"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="156"/>
         <source>Select previous thresholding method and set thresholds. Useful for iterating through all available methods.</source>
         <translation>Виберіть попередній метод порогового значення та встановіть порогові значення. Корисно для повторення всіх доступних методів.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="151"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="161"/>
         <source>Select next thresholding method and set thresholds. Useful for iterating through all available methods.</source>
         <translation>Виберіть наступний метод порогового значення та встановіть порогові значення. Корисно для повторення всіх доступних методів.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="153"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="163"/>
         <source>Set</source>
         <translation>Установити</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="154"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="164"/>
         <source>Set threshold using selected method.</source>
         <translation>Встановити поріг із застосуванням обраної методики.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="169"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="179"/>
         <source>Automatic threshold</source>
         <translation>Автоматичний поріг</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="179"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="189"/>
         <source>Region shape:</source>
         <translation>Форма регіону:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="186"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="196"/>
         <source>Box</source>
         <translation>Коробка</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="193"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="203"/>
         <source>Circle</source>
         <translation>Коло</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="200"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="210"/>
         <source>Draw</source>
         <translation>Рисувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="207"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="217"/>
         <source>Line</source>
         <translation>Лінія</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="268"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="285"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="278"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="295"/>
         <source>Lower</source>
         <translation>Нижній</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="277"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="287"/>
         <source>Min</source>
         <translation>Хв</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="278"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="288"/>
         <source>Minimum</source>
         <translation>Мінімум</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="292"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="310"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="302"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="320"/>
         <source>Mean</source>
         <translation>Тобто</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="301"/>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="317"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="311"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="327"/>
         <source>Upper</source>
         <translation>Верхній</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="324"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="334"/>
         <source>Max</source>
         <translation>Max</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="325"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="335"/>
         <source>Maximum</source>
         <translation>Максимум</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="332"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="342"/>
         <source>Local histogram</source>
         <translation>Локальна гістограма</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="337"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="347"/>
         <source>Use for masking</source>
         <translation>Застосувати для створення маски</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="338"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="348"/>
         <source>Use specified intensity range for masking and switch to Paint effect.</source>
         <translation>Застосувати вказаний діапазон для створення маски і перейти до функції Фарбування.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="341"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="351"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="343"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="353"/>
         <source>Fill selected segment in regions that are in the specified intensity range.</source>
         <translation>Заповнити виділений сегмент в межах встановленого діапазону.</translation>
     </message>
@@ -12637,43 +12722,43 @@ for Medical Image Computing (NA-MIC), що фінансується Націон
 <context>
     <name>qMRMLCaptureToolBar</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="102"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="105"/>
         <source>Screenshot</source>
         <translation>Знімок екрана</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="106"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image.</source>
         <oldsource>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</oldsource>
         <translation>Зробіть знімок екрана повного макета, 3D-вигляду або фрагментів. Використовуйте Файл, Зберегти, щоб зберегти зображення.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="116"/>
         <source>Scene view</source>
         <translation>Вигляд робочого простору</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="117"/>
         <source>Capture and name a scene view.</source>
         <translation>Створення та присвоєння імені вигляду робочого простору.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="120"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="124"/>
         <source>Restore view</source>
         <translation>Відновити вигляд</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="122"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="126"/>
         <source>Restore or delete saved scene views.</source>
         <translation>Відновити або видалити збережений вигляд робочого простору.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="177"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="181"/>
         <source>SceneView Name</source>
         <translation>Ім&apos;я вигляду робочого простору</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="182"/>
         <source>SceneView Name:</source>
         <translation>Ім&apos;я вигляду робочого простору:</translation>
     </message>
@@ -12976,35 +13061,76 @@ for Medical Image Computing (NA-MIC), що фінансується Націон
 <context>
     <name>qMRMLColorModel</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="69"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="64"/>
         <source>Color</source>
         <translation>Колір</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="73"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="68"/>
         <source>Label</source>
         <translation>Мітка</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="77"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="72"/>
         <source>Opacity</source>
         <translation>Непрозорість</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="161"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="76"/>
+        <source>Terminology</source>
+        <translation type="unfinished">Термінологія</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="160"/>
         <source>None</source>
         <translation>Нічого</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="550"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="577"/>
+        <source>%2 %1</source>
+        <extracomment>For formatting of terminology entry with a modifier in simplified mode. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
+----------
+For formatting of terminology entry name in simplified mode. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
+        <translation type="unfinished">%2 %1</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="555"/>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="582"/>
+        <source>%1, %2</source>
+        <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
+----------
+For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
+        <translation type="unfinished">%1, %2</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="593"/>
+        <source>%1 in %2</source>
+        <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;).</extracomment>
+        <translation type="unfinished">%1 в %2</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="605"/>
+        <source>Unknown in %1</source>
+        <extracomment>For formatting of terminology entry name. %1 is region name (e.g., &quot;Liver&quot;).</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="625"/>
+        <source>%1: %2</source>
+        <extracomment>For formatting of terminology entry name. %1 is category name (e.g., &quot;Morphologically Altered Structure&quot;), %2 is the type in region (&quot;Mass in Liver&quot;)</extracomment>
+        <translation type="unfinished">%1, %2 {1:?}</translation>
     </message>
 </context>
 <context>
     <name>qMRMLColorPickerWidget</name>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="14"/>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="14"/>
         <source>Color Picker</source>
         <translation>Палітра кольорів</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="20"/>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="20"/>
         <source>Color node:</source>
         <translation>Колір об&apos;єкта:</translation>
     </message>
@@ -14291,18 +14417,18 @@ for Medical Image Computing (NA-MIC), що фінансується Націон
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="309"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="485"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1110"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1113"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1332"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1126"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1129"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1348"/>
         <source>Rename current </source>
         <translation>Перейменувати поточний </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="313"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="480"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1084"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1087"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1330"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1100"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1103"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1346"/>
         <source>Edit current </source>
         <translation>Редагувати поточний </translation>
     </message>
@@ -14322,9 +14448,9 @@ for Medical Image Computing (NA-MIC), що фінансується Націон
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="329"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="475"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1058"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1061"/>
-        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1328"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1074"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1077"/>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1344"/>
         <source>Delete current </source>
         <translation>Видалити поточний </translation>
     </message>
@@ -14752,17 +14878,17 @@ for Medical Image Computing (NA-MIC), що фінансується Націон
         <translation>Налаштуйте поле зору засобу перегляду діаграм, щоб воно відповідало протяжності осей діаграми</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="109"/>
+        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="108"/>
         <source>P</source>
         <translation>P</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="338"/>
+        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="337"/>
         <source>Save as SVG</source>
         <translation>Зберегти як SVG</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="339"/>
+        <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="338"/>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Масштабована Векторна Графіка (*.svg)</translation>
     </message>
@@ -14941,7 +15067,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
 <context>
     <name>qMRMLSceneViewMenu</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSceneViewMenu.cxx" line="257"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qMRMLSceneViewMenu.cxx" line="198"/>
         <source>No scene views</source>
         <translation>Немає переглядів сцени</translation>
     </message>
@@ -15095,7 +15221,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="147"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="414"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="426"/>
         <source>Segmentations</source>
         <translation>Сегментації</translation>
     </message>
@@ -15169,67 +15295,72 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>Визначає, які сегменти перезаписуватиме поточний сегмент. Сегменти, які не будуть перезаписані, можуть перекриватися із вибраним сегментом.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="400"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="412"/>
         <source>Everywhere</source>
         <translation>Всюди</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="401"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="413"/>
         <source>Inside all segments</source>
         <translation>Всередині усіх сегментів</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="402"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="414"/>
         <source>Inside all visible segments</source>
         <translation>Всередині усіх видимих сегментів</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="403"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="415"/>
         <source>Outside all segments</source>
         <translation>Поза усіх сегментів</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="404"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="416"/>
         <source>Outside all visible segments</source>
         <translation>Поза усіх видимих сегментів</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="408"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="420"/>
         <source>Overwrite all</source>
         <translation>Переписати всі</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="409"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="421"/>
         <source>Overwrite visible</source>
         <translation>Переписати видимий</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="410"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="422"/>
         <source>Allow overlap</source>
         <translation>Дозволити перекриття</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="416"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="428"/>
         <source>Import/export nodes...</source>
         <translation>Імпортувати/експортувати вузли...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="419"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="431"/>
         <source>Export to files...</source>
         <translation>Експортувати до файлів...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1041"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="434"/>
+        <source>Export to color table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1056"/>
         <source>None</source>
         <translation>Нічого</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1042"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1057"/>
         <source>No editing</source>
         <translation>Не редагує</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1375"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1390"/>
         <source>Editing requires binary labelmap source representation, but currently the source representation is %1. Changing the source representation requires conversion. Some details may be lost during conversion process.
 
 Change source representation to binary labelmap?</source>
@@ -15241,30 +15372,30 @@ Change master representation to binary labelmap?</oldsource>
 Змінити представлення джерела на двійкову карту міток?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1380"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1395"/>
         <source>Change source representation to binary labelmap?</source>
         <oldsource>Change master representation to binary labelmap?</oldsource>
         <translation>Змінити представлення джерела на двійкову карту міток?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1401"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1416"/>
         <source>Failed to create binary labelmap representation in segmentation %1 for editing!
 Please see Segmentations module for details.</source>
         <translation>Не вдалося створити двійкове представлення карти міток у сегментації %1 для редагування!
 Додаткову інформацію див. у модулі сегментації.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1403"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1418"/>
         <source>Failed to create binary labelmap for editing</source>
         <translation>Не вдалося створити двійкову картку міток для редагування</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2405"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2429"/>
         <source>Inside </source>
         <translation>Всередині </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="3493"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="3517"/>
         <source>Export segments to files</source>
         <translation>Експорт сегментів у файли</translation>
     </message>
@@ -16011,32 +16142,32 @@ Do you wish to proceed with changing source representation?</source>
         <translation>Стан сегмента</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="477"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="482"/>
         <source>Not started</source>
         <translation>Не розпочато</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="482"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="487"/>
         <source>In progress</source>
         <translation>В роботі</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="486"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="491"/>
         <source>Completed</source>
         <translation>Виконано</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="490"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="495"/>
         <source>Flagged</source>
         <translation>Позначено</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1053"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1061"/>
         <source>No terminology information</source>
         <translation>Немає термінологічної інформації</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1058"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1066"/>
         <source>Invalid terminology information</source>
         <translation>Недійсна термінологічна інформація</translation>
     </message>
@@ -16079,112 +16210,117 @@ Do you wish to proceed with changing source representation?</source>
         <translation>Показати/приховати позначені сегменти</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="564"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="578"/>
         <source>Choose new segment color</source>
         <translation>Виберіть новий колір сегмента</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="590"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="604"/>
         <source>Stop using terminologies?</source>
         <translation>Перестати використовувати термінологію?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="591"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="605"/>
         <source>You frequently enter custom name or color. How do you prefer setting name and color next time?</source>
         <translation>Ви часто вводите власну назву або колір. Як ви віддаєте перевагу налаштування імені та кольору ?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="596"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="610"/>
         <source>Switch to direct editing</source>
         <translation>Перейти до прямого редагування</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="597"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="611"/>
         <source>Keep using terminology selector</source>
         <translation>Продовжуйте використовувати селектор термінології</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="598"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="612"/>
         <source>Ask me later</source>
         <translation>Запитай мене пізніше</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="630"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="644"/>
         <source>No node is selected</source>
         <translation>Об&apos;єкт не вибраний</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="635"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="649"/>
         <source>Empty segmentation</source>
         <translation>Порожня сегментація</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1184"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1198"/>
+        <source>Toggle selected segments visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1202"/>
         <source>Show only selected segments</source>
         <translation>Показати лише обрані сегменти</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1190"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1208"/>
         <source>Jump slices</source>
         <translation>Пропустити зрізи</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1196"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1214"/>
         <source>Move selected segments up</source>
         <translation>Перемістити обрані сегменти вверх</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1200"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1218"/>
         <source>Move selected segments down</source>
         <translation>Перемістити обрані сегменти вниз</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1207"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1225"/>
         <source>Show filter bar</source>
         <translation>Показати кнопку фільтрів</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1213"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1231"/>
         <source>Show layer column</source>
         <translation>Показати колонку прошарків</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1234"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1252"/>
         <source>Show in 3D</source>
         <translation>Показати в 3D</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1241"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1259"/>
         <source>Show in 2D as fill</source>
         <translation>Показати у заповненому 2D вигляді</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1248"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1266"/>
         <source>Show in 2D as outline</source>
         <translation>Показати у 2D вигляді контурами</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1272"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1290"/>
         <source>Clear selected segments</source>
         <translation>Очистити обрані сегменти</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1280"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1298"/>
         <source>Use standard terminology for name and color selection</source>
         <translation>Використовуйте стандартну термінологію для вибору імені та кольору</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1352"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1370"/>
         <source>Clear</source>
         <translation>Очистити</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1353"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1371"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1355"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1373"/>
         <source>Are you sure you want to clear the contents of the selected segments?</source>
         <translation>Ви дійсно бажаєте очистити вміст вибраних сегментів?</translation>
     </message>
@@ -17273,27 +17409,27 @@ Do you wish to proceed with changing source representation?</source>
         <translation>Не призначено роль предметної ієрархії! Будь ласка, повідомте про помилку</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1153"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1158"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1163"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1168"/>
         <source>Apply transform to children</source>
         <translation>Застосувати перетворення до дітей</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1167"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1172"/>
         <source>This node is not transformable</source>
         <translation>Цей об&apos;єкт не можна трансформувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1356"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1371"/>
         <source>Some nodes in the branch are already transformed</source>
         <translation>Деякі об&apos;єкти в гілці вже трансформовані</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1357"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1372"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
@@ -17305,34 +17441,44 @@ Do you wish to proceed with changing source representation?</source>
 <context>
     <name>qMRMLSubjectHierarchyTreeView</name>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="214"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="222"/>
         <source>Rename</source>
         <translation>Перейменувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="219"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="227"/>
         <source>Delete</source>
         <translation>Видалити</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="224"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="232"/>
         <source>Edit properties...</source>
         <translation>Змінити налаштування...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="229"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="237"/>
         <source>Hide</source>
         <translation>Приховати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="232"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="240"/>
         <source>Show</source>
         <translation>Показати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="235"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="243"/>
         <source>Toggle visibility</source>
         <translation>Перемкнути видимість</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="350"/>
+        <source>Create new %1</source>
+        <translation type="unfinished">Створити новий %1</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2567"/>
+        <source>node</source>
+        <translation type="unfinished">вузол</translation>
     </message>
     <message>
         <source>Interaction</source>
@@ -17369,17 +17515,17 @@ Do you wish to proceed with changing source representation?</source>
         <translation>Розгорнути дерево до рівня...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="378"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="399"/>
         <source>Select plugin</source>
         <translation>Виберіть плагін</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1819"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1865"/>
         <source>Delete subject hierarchy branch?</source>
         <translation>Видалити гілку ієрархії суб&apos;єктів?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1820"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1866"/>
         <source>The deleted subject hierarchy item has children. Do you want to remove those too?
 
 If you choose yes, the whole branch will be deleted, including all children.
@@ -17452,7 +17598,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="84"/>
         <source>Copy</source>
         <translation>Копіювати</translation>
     </message>
@@ -17470,13 +17616,13 @@ If you choose Yes to All, this question never appears again, and all subject hie
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="92"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="91"/>
         <source>Paste</source>
         <translation>Вставити</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="99"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="98"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
         <translation>Створіть інтерактивний графік на основі вибору користувачем стовпчиків таблиці.</translation>
     </message>
@@ -17515,12 +17661,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation type="vanished">1</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="377"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="376"/>
         <source>Click to unlock this table so that values can be modified</source>
         <translation>Натисніть, щоб розблокувати цю таблицю, щоб можна було змінювати значення</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="382"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="381"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
         <translation>Натисніть, щоб заблокувати цю таблицю, щоб запобігти зміні значень в інтерфейсі користувача</translation>
     </message>
@@ -17596,7 +17742,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="139"/>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="151"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="150"/>
         <source>Orientation marker</source>
         <translation>Маркет орієнтації екрану</translation>
     </message>
@@ -17896,72 +18042,77 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation>Змушуйте об’єкти відкидати тіні, щоб покращити сприйняття глибини</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="231"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="230"/>
         <source>Stereo Modes</source>
         <translation>Стереорежими</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="109"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="108"/>
         <source>Visibility</source>
         <translation>Видимість</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="185"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="184"/>
         <source>Ruler</source>
         <translation>Лінійка</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="193"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="192"/>
         <source>More</source>
         <translation>Більше</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="276"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="275"/>
         <source>Shadows</source>
         <translation>Тіні</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="285"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="284"/>
         <source>Size scale</source>
         <translation>Розмірна шкала</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="288"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="287"/>
         <source>Size of features to be emphasized by shadows. The scale is logarithmic, default (0.0) corresponds to object size of about 100mm.</source>
         <translation>Розмір рис, які необхідно підкреслити тінями. Масштаб логарифмічний, за замовчуванням (0,0) відповідає розміру об&apos;єкта близько 100 мм.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="305"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="304"/>
         <source>Volume opacity threshold</source>
         <translation>Непрозорість гучності</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="309"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="308"/>
         <source>Volume rendering opacity above this will cast shadows.</source>
         <translation>Непрозорість об’ємної візуалізації вище цього відкидає тіні.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="325"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="324"/>
         <source>Intensity scale</source>
         <translation>Шкала інтенсивності</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="328"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="327"/>
         <source>Intensity of darkening by shadows. Larger value means more darkening. Default is 1.</source>
         <translation>Інтенсивність затемнення тінями. Більше значення означає більше затемнення. За замовчуванням 1.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="345"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="344"/>
         <source>Intensity shift</source>
         <translation>Зсув інтенсивності</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="348"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="347"/>
         <source>Minimum amount of occlusion required for visible darkening by shadows. Larger value means more occlusion is needed to darkening. Default is 0.</source>
         <translation>Мінімальна оклюзія, необхідна для видимого затемнення тінями. Більше значення означає, що для затемнення потрібна більша оклюзія. За замовчуванням 0.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="379"/>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="366"/>
+        <source>Reset settings to default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="385"/>
         <source>1</source>
         <translation>1</translation>
     </message>
@@ -19190,106 +19341,106 @@ p, li white-space: pre-wrap;
 <context>
     <name>qSlicerAppMainWindow</name>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="76"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
         <source>&amp;Keyboard Shortcuts Reference</source>
         <oldsource>&amp;Keyboard Shortcuts</oldsource>
         <translation>&amp;Довідник гарячих клавіш</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="78"/>
         <source>Raise a window that lists commonly-used keyboard shortcuts.</source>
         <translation>Викликати вікно зі списком часто використовуваних гарячих клавіш.</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="81"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
         <source>Documentation</source>
         <oldsource>Interface Documentation</oldsource>
         <translation>Документація</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="83"/>
         <source>Ctrl+1</source>
         <comment>Documentation</comment>
         <translation>Ctrl+1</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="86"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="87"/>
         <source>Quick Start</source>
         <translation>Швидкий старт</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="90"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="91"/>
         <source>Get Help</source>
         <translation>Отримати допомогу</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="94"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="95"/>
         <source>User Interface</source>
         <translation>Інтерфейс користувача</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="98"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="99"/>
         <source>Visit the Slicer Forum</source>
         <translation>Відвідайте форум Slicer</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="102"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="103"/>
         <source>Browse Tutorials</source>
         <translation>Перегляньте підручники</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="127"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="128"/>
         <source>Acknowledgments</source>
         <translation>Подяки</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="131"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
         <source>Report a Bug</source>
         <translation>Повідомити про помилку</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="103"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="104"/>
         <source>Raise the training pages in your favorite web browser</source>
         <translation>Викликати навчальні сторінки у вашому улюбленому веб-браузері</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="108"/>
         <source>Join Us on LinkedIn</source>
         <oldsource>Join Us on Twitter</oldsource>
         <translation>Приєднуйтесь до нас на LinkedIn</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="111"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="112"/>
         <source>Search Feature Requests</source>
         <translation>Запити на функції пошуку</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="115"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="116"/>
         <source>View License</source>
         <translation>Переглянути ліцензію</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="119"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="120"/>
         <source>How to Cite</source>
         <translation>Як цитувати</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="123"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="124"/>
         <source>Slicer Publications</source>
         <translation>Публікації Slicer</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="133"/>
         <source>Report error or request enhancement or new feature.</source>
         <translation>Повідомити про помилку або зробити запит про вдосконалення програми або її нову функцію.</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="136"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="137"/>
         <source>About 3D Slicer</source>
         <translation>Про 3D Slicer</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="137"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="138"/>
         <source>Provides a description of the Slicer effort and its support.</source>
         <translation>Надає інформацію про зусилля при створенні Slicer і його технічну підтримку.</translation>
     </message>
@@ -19297,66 +19448,66 @@ p, li white-space: pre-wrap;
 <context>
     <name>qSlicerApplication</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="408"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="424"/>
         <source>General</source>
         <translation>Основне</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="971"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="411"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="891"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="931"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="427"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="917"/>
         <source>Modules</source>
         <translation>Модулі</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="415"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="431"/>
         <source>Appearance</source>
         <translation>Інтерфейс</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="419"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="435"/>
         <source>Views</source>
         <translation>Перегляди</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="423"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="439"/>
         <source>User</source>
         <translation>Користувач</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="427"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="443"/>
         <source>Extensions</source>
         <translation>Додатки</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="431"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="447"/>
         <source>Cache</source>
         <translation>Кеш</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="436"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="452"/>
         <source>Internationalization</source>
         <translation>Інтернаціоналізація</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="442"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="458"/>
         <source>Python</source>
         <translation>Python</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="447"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="463"/>
         <source>Developer</source>
         <translation>Розробник</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="555"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="591"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="581"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="617"/>
         <source>%1 has caught an application error, </source>
         <translation>%1 помітив помилку у програмі, </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="556"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="592"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="582"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="618"/>
         <source>please save your work and restart.
 
 </source>
@@ -19365,7 +19516,7 @@ p, li white-space: pre-wrap;
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="557"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="583"/>
         <source>The application has run out of memory. </source>
         <translation>У програми закінчилася пам&apos;ять. </translation>
     </message>
@@ -19374,7 +19525,7 @@ p, li white-space: pre-wrap;
         <translation type="obsolete">winnt</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="560"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="586"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -19387,7 +19538,7 @@ p, li white-space: pre-wrap;
         <translation type="vanished">linux</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="564"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="590"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -19400,7 +19551,7 @@ p, li white-space: pre-wrap;
         <translation type="vanished">Дарвін</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="568"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="594"/>
         <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
@@ -19409,7 +19560,7 @@ p, li white-space: pre-wrap;
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="572"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="598"/>
         <source>Adding more RAM may fix this issue.
 
 </source>
@@ -19418,14 +19569,14 @@ p, li white-space: pre-wrap;
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="574"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="593"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="600"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="619"/>
         <source>If you have a repeatable sequence of steps that causes this message, </source>
         <translation>Якщо ви виявили послідовність дій, що повторюється і викликає це повідомлення, </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="575"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="594"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="601"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="620"/>
         <source>please report the issue following instructions available at https://slicer.org
 
 
@@ -19436,8 +19587,8 @@ p, li white-space: pre-wrap;
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="576"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="595"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="602"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="621"/>
         <source>The message detail is:
 
 </source>
@@ -19446,19 +19597,19 @@ p, li white-space: pre-wrap;
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="577"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="596"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="603"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="622"/>
         <source>Exception thrown in event: </source>
         <translation>Виняток у події: </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="585"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="604"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="611"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="630"/>
         <source>Application Error</source>
         <translation>Помилка в роботі програми</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="769"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="795"/>
         <source>Are you sure you want to restart?</source>
         <translation>Ви дійсно хочете перезавантажити?</translation>
     </message>
@@ -19496,12 +19647,12 @@ p, li white-space: pre-wrap;
 <context>
     <name>qSlicerApplicationHelper</name>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="250"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="259"/>
         <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
         <translation>Можливостей графіки комп&apos;ютера недостатньо, аби запустити цю програму. Програма, швидше за все, не працюватиме як слід.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="253"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="262"/>
         <source>See more information and help at:
 %1/user_guide/get_help.html#slicer-application-does-not-start
 
@@ -19516,7 +19667,7 @@ Graphics capabilities of this computer:
 </translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="262"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="271"/>
         <source>Insufficient graphics capability</source>
         <translation>Можливостей графіки недостатньо</translation>
     </message>
@@ -19828,6 +19979,16 @@ Graphics capabilities of this computer:
         <source>Colors</source>
         <translation>Кольори</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="166"/>
+        <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="188"/>
+        <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerColorsModuleWidget</name>
@@ -19837,130 +19998,161 @@ Graphics capabilities of this computer:
         <translation>Кольори</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="49"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="27"/>
+        <source>Color legend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
         <source>Colors:</source>
         <translation>Кольори:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="68"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="153"/>
         <source>Duplicate the current color node to allow editing colors, scalar range, size.</source>
         <translation>Скопіюйте поточний колірний вузол, щоб дозволити редагувати кольори, скалярний діапазон, розмір.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="86"/>
         <source>Color Legend</source>
-        <translation>Кольорова легенда</translation>
+        <translation type="vanished">Кольорова легенда</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="122"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="63"/>
         <source>Displayable node:</source>
         <translation>Відображуваний вузол:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="75"/>
         <source>Create color legend for the selected displayable node.</source>
         <translation>Створіть кольорову легенду для вибраного відображуваного вузла.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="137"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="78"/>
         <source>Create</source>
         <translation>Створити</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="144"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="85"/>
         <source>Use the currently selected colors for the selected displayable node.</source>
         <translation>Використовуйте поточні вибрані кольори для вибраного відображуваного вузла.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="147"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="88"/>
         <source>Use current colors</source>
         <translation>Використовуйте актуальні кольори</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="154"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="95"/>
         <source>Delete the color legend for the selected displayable node.</source>
         <translation>Видалити кольорову легенду для вибраного відображуваного вузла.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="157"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="98"/>
         <source>Delete</source>
         <translation>Видалити</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="166"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="107"/>
         <source>Color legend:</source>
         <translation>Кольорова легенда:</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="163"/>
+        <source>Add new empty color table node.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
-        <source>Color Table</source>
-        <translation>Таблиця кольорів</translation>
+        <source>Color table</source>
+        <oldsource>Color Table</oldsource>
+        <translation type="unfinished">Таблиця кольорів</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
-        <source>Number of Colors: </source>
-        <translation>Кількість Кольорів: </translation>
+        <source>Number of colors: </source>
+        <oldsource>Number of Colors: </oldsource>
+        <translation type="unfinished">Кількість Кольорів: </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="256"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="246"/>
+        <source>Hide empty colors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="317"/>
+        <source>Add new color to color table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
+        <source>Delete currently selected color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide empty Colors: </source>
-        <translation>Приховати відсутні Кольори: </translation>
+        <translation type="vanished">Приховати відсутні Кольори: </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="263"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
         <source>Show/Hide the unnamed color entries in the list below.</source>
         <translation>Показати/сховати записи кольору без імен у списку нижче.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="273"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="263"/>
         <source>Scalar Range:</source>
         <translation>Скалярний Діапазон:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="283"/>
+        <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="273"/>
         <source>The range of scalars that are mapped to the full range of colors.</source>
         <translation>Діапазон скалярів, які зіставляються з повним діапазоном кольорів.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="211"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="223"/>
         <source>Discrete table</source>
         <translation>Таблиця дискретних даних</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="269"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="285"/>
         <source>Continuous scale</source>
         <translation>Безперервна шкала</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="439"/>
+        <source>Unnamed</source>
+        <extracomment>This is the default name for a new color in a color table</extracomment>
+        <translation type="unfinished">Без назва</translation>
     </message>
 </context>
 <context>
     <name>qSlicerCoreApplication</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="869"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="887"/>
         <source>Failed to create %1 directory</source>
         <translation>Не вдалося створити %1 каталог</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1810"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1828"/>
         <source>Built on top of:</source>
         <translation>Побудований на основі:</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1830"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1848"/>
         <source>Licensing Information</source>
         <translation>Інформація про ліцензування</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1831"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1849"/>
         <source>Website</source>
         <translation>Веб-сайт</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1832"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1850"/>
         <source>Acknowledgments</source>
         <translation>Подяки</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1839"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1857"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
         <translation>Slicer НЕ є медичним пристроєм, схваленим FDA.&lt;br&gt;&lt;br&gt;За підтримки: NA-MIC, NAC, BIRN, NCIGT і спільноти Slicer.&lt;br&gt;&lt;br&gt;Окрема подяка NIH та іншим нашим прихильникам.&lt;br &lt;br&gt;Ця робота є частиною Національного альянсу з обробки медичних зображень (NA-MIC), що фінансується Національними інститутами охорони здоров’я через Дорожню карту NIH для медичних досліджень, грант U54 EB005149. Інформацію про Національні центри біомедичних обчислень можна отримати за адресою&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt; br&gt;</translation>
     </message>
@@ -19968,55 +20160,55 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerCoreIOManager</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="643"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="646"/>
         <source>Loading %1</source>
         <extracomment>%1 is the filename</extracomment>
         <translation>Завантажуємо %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="679"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="682"/>
         <source>%1 load failed.</source>
         <translation>%1 завантаження не вдалося.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="849"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="852"/>
         <source>No writer found to write file %1 of type %2.</source>
         <translation>Не знайдено записувач для запису файлу %1 типу %2.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="864"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="867"/>
         <source>Unable to create directory &apos;%1&apos;</source>
         <translation>Неможливо створити каталог &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="897"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="900"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
         <translation>Не вдалось зберегти усі можливі файли &apos;%1&apos; типу &apos;%2&apos;.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="910"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="913"/>
         <source>No nodes were saved in the scene</source>
         <translation>Для цього вигляду не збережено об&apos;єктів</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="981"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="984"/>
         <source>Unable to find a storable node with ID %1</source>
         <translation>Неможливо знайти збережений об&apos;єкт з ID %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="994"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1030"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1088"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="997"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1033"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1091"/>
         <source>Error encountered while exporting %1.</source>
         <translation>Сталася помилка під час експорту %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1056"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1059"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
         <translation>Не вдалося створити вузол зберігання за умовчанням для %1 у тимчасовій сцені.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1078"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1081"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
         <translation>Не вдалося зберегти властивості відображення для %1 у тимчасовій сцені.</translation>
     </message>
@@ -20836,27 +21028,27 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation>Застосувати трансформації</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="136"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="134"/>
         <source>Select a format</source>
         <translation>Вибрати формат</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="171"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="169"/>
         <source>Export format:</source>
         <translation>Формат експорту:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="411"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="409"/>
         <source>Output folder:</source>
         <translation>Вихідна папка:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="428"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="426"/>
         <source>&amp;Export</source>
         <translation>&amp;Експортувати</translation>
     </message>
     <message numerus="yes">
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="739"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="737"/>
         <source>Export %n node(s)</source>
         <translation>
             <numerusform>Експорт %n вузла</numerusform>
@@ -20865,95 +21057,95 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="743"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="741"/>
         <source>When exporting multiple nodes, filenames are automatically set</source>
         <translation>Під час експорту кількох вузлів імена файлів встановлюються автоматично</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="745"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="743"/>
         <source>&lt;automatic&gt;</source>
         <translation>&lt;автоматичний&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="759"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="757"/>
         <source>Export </source>
         <translation>Експорт </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="881"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="879"/>
         <source>Filename not standard</source>
         <translation>Назва файлу не стандартна</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="882"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="880"/>
         <source>The following filename is recommended:</source>
         <translation>Рекомендується наступна назва файлу:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="886"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="884"/>
         <source>Accept recommended</source>
         <translation>Прийняти рекомендовано</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="887"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="885"/>
         <source>Keep my filename</source>
         <translation>Зберегти мою назву файлу</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="950"/>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1052"/>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1060"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="948"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1050"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1058"/>
         <source>Export Error</source>
         <translation>Помилка експорт</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="951"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="949"/>
         <source>Failed to export node %1; filename is empty.</source>
         <translation>Не вдалося експортувати вузол %1; ім&apos;я файлу порожнє.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="969"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="967"/>
         <source>File Exists</source>
         <translation>Файл існує</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="970"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="968"/>
         <source>The file %1 already exists. Do you want to replace it?</source>
         <translation>Файл %1 уже існує. Ви хочете його замінити?</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1019"/>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1072"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1070"/>
         <source>Export Information</source>
         <translation>Експорт інформації</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1019"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
         <source>Nothing was exported.</source>
         <translation>Нічого не експортували.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1046"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1044"/>
         <source>Error encountered while exporting.</source>
         <translation>Під час експорту сталася помилка.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1067"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1065"/>
         <source>Export Warning</source>
         <translation>Попередження щодо експорту</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1227"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1232"/>
         <source>Export an individual node</source>
         <translation>Експорт окремого вузла</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1249"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1254"/>
         <source>Export error</source>
         <translation>Помилка експорту</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1249"/>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1254"/>
         <source>There is nothing to export.</source>
         <translation>Нема чого експортувати.</translation>
     </message>
@@ -21784,6 +21976,14 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
 </context>
 <context>
+    <name>qSlicerGeneralizedReformatModule</name>
+    <message>
+        <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="43"/>
+        <source>GeneralizedReformat</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerIOManager</name>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="97"/>
@@ -21931,7 +22131,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="90"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="530"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="516"/>
         <source>Favorite Modules</source>
         <translation>Улюблені модулі</translation>
     </message>
@@ -21951,230 +22151,229 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>Взаємодія миші</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="140"/>
         <source>Capture/Restore</source>
-        <translation>Захопити/відновити</translation>
+        <translation type="vanished">Захопити/відновити</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="151"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="137"/>
         <source>Crosshair Selection</source>
         <translation>Вибір перехрестя</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="162"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="148"/>
         <source>Extensions</source>
         <translation>Додатки</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="174"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="160"/>
         <source>Layout ToolBar</source>
         <translation>Макет панелі інструментів</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="221"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="207"/>
         <source>&amp;File</source>
         <translation>&amp;Файл</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="225"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="211"/>
         <source>Recent</source>
         <oldsource>Recently Loaded</oldsource>
         <translation>Нещодавні</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="239"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="225"/>
         <source>&amp;Edit</source>
         <translation>&amp;Редагувати</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="252"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="238"/>
         <source>&amp;View</source>
         <translation>&amp;Вигляд</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="256"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="369"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="242"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="329"/>
         <source>Layout</source>
         <translation>Макет</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="294"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="280"/>
         <source>&amp;Toolbars</source>
         <translation>&amp;Панелі інструментів</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="299"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="285"/>
         <source>&amp;Appearance</source>
         <translation>&amp;Зовнішній вигляд</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="315"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="301"/>
         <source>&amp;Help</source>
         <translation>&amp;Допомога</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="329"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="315"/>
         <source>Load Scene</source>
         <translation>Завантажити сцену</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="332"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="318"/>
         <source>Raise a file browser to select a scene (mrml, xcat or xml) to load. It first clears any existing scene in Slicer and resets the application state.</source>
         <translation>Відкрийте браузер файлів, щоб вибрати сцену (mrml, xcat або xml) для завантаження. Спочатку очищається будь-яка існуюча сцена в Slicer і скидається стан програми.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="341"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="327"/>
         <source>Load Data</source>
         <translation>Завантажити дані</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="344"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="383"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="330"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="369"/>
         <source>Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</source>
         <translation>Відкрити віджет &quot;Додати дані&quot;, що дозволяє обрати набори даних і додати їх до існуючого проєкту. Опція завантаження найбільш корисна коли потрібно завантажити багато різних типів даних (зображення, моделі, і ін.), що не вкладаються в один файл.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="353"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="339"/>
         <source>Load DICOM</source>
         <translation>Завантажити DICOM</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="356"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="342"/>
         <source>Raise the DICOM module for loading DICOM datasets.</source>
         <translation>Ввімкнути модуль DICOM для завантаження наборів даних DICOM.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="368"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="354"/>
         <source>Import Scene</source>
         <translation>Імпортувати сцену</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="371"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="357"/>
         <source>Raise a file browser to navigate and select a scene file to be added to the existing scene. The scene is not cleared.</source>
         <translation>Відкрийте браузер файлів для навігації та виберіть файл сцени, який потрібно додати до існуючої сцени. Сцена не видаляється.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="380"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="366"/>
         <source>&amp;Add Data</source>
         <translation>&amp;Додати дані</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="386"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="372"/>
         <source>Ctrl+O</source>
         <translation>Ctrl+O</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="395"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="381"/>
         <source>Add Volume</source>
         <translation>Додати обсяг</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="398"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="384"/>
         <source>Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</source>
         <translation>Створіть віджет «Додати об’єм», який дозволяє вибрати об’ємний набір даних для додавання до існуючої сцени. Панель «Параметри гучності» можна використовувати, щоб уточнити, як потрібно завантажувати та відображати вибраний набір даних.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="407"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="393"/>
         <source>Add Transform</source>
         <translation>Додати трансформацію</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="410"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="396"/>
         <source>Raise a standard file browser that allows you to select a transform to the existing scene.</source>
         <translation>Підніміть стандартний браузер файлів, який дозволяє вибрати трансформацію для існуючої сцени.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="654"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="614"/>
         <source>Save</source>
         <translation>Зберегти</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="422"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="408"/>
         <source>Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</source>
         <translation>Відкрити віджет &quot;Зберегти дані&quot;, який дозволяє зберегти зображення і/або набори даних в різні способи.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="425"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="411"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="434"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="420"/>
         <source>Save Scene To Directory</source>
         <translation>Зберегти сцену в каталог</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="437"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="423"/>
         <source>UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</source>
         <translation>У РОЗРОБЦІ: Збережіть поточну сцену в окремому каталозі.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="446"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="432"/>
         <source>Save Scene to MRB File</source>
         <translation>Зберегти сцену у файл MRB</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="449"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="435"/>
         <source>Create a Medical Reality Bundle containing the scene.</source>
         <translation>Створіть набір медичної реальності, що містить сцену.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="458"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="444"/>
         <source>Close Scene</source>
         <translation>Закрити сцену</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="461"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="447"/>
         <source>Close the current scene and reset the application state. </source>
         <translation>Закрийте поточну сцену та скиньте стан програми. </translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="464"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="450"/>
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="469"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="455"/>
         <source>E&amp;xit</source>
         <translation>В&amp;ихід</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="472"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="458"/>
         <source>Quit the application</source>
         <translation>Вийти з додатку</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="481"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="467"/>
         <source>Undo</source>
         <translation>Відмінити</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="484"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="470"/>
         <source>Undo the history of undoable commands, from last to first.</source>
         <translation>Скасувати історію невиконуваних команд, від останньої до першої.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="487"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="473"/>
         <source>Ctrl+Z</source>
         <translation>Ctrl+Z</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="496"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="482"/>
         <source>Redo</source>
         <translation>Повторити</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="499"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="485"/>
         <source>Redo the history of commands most recently undone, from last to first.</source>
         <translation>Повторити історію останніх скасованих команд, від останньої до першої.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="502"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="488"/>
         <source>Ctrl+Y</source>
         <translation>Ctrl+Y</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="419"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="405"/>
         <source>Save Data</source>
         <translation>Зберегти дані</translation>
     </message>
@@ -22184,112 +22383,112 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>Панель модулів</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="497"/>
         <source>Extensions Manager</source>
         <translation>Менеджер розширень</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="514"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="500"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
         <translation>Викликає Менеджер розширень, що показує доступність і пояснює можливості розширень</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="517"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="503"/>
         <source>Ctrl+4</source>
         <translation>Ctrl+4</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="522"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="508"/>
         <source>Cache &amp; Remote I/O Manager</source>
         <translation>Кеш &amp; Віддалений менеджер введення/виведення</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="525"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
         <source>The Cache and Remote Data Handling interface provides status and information about all remote data transfers, and allows some control over the local cache.</source>
         <translation>Інтерфейс кешу та віддаленої обробки даних надає статус і інформацію про всі віддалені передачі даних, а також дозволяє певний контроль над локальним кешем.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="533"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="519"/>
         <source>Open settings to the Modules panel where Favorite Modules can be defined.</source>
         <translation>Відкрийте налаштування на панелі «Модулі», де можна обрати улюблені модулі.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="542"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="528"/>
         <source>Application Settings</source>
         <translation>Налаштування програми</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="545"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="531"/>
         <source>The Application Settings provides options for controlling the application&apos;s user interface preferences into the application registry, so they are preserved across sessions.</source>
         <translation>Налаштування програми надають параметри для керування налаштуваннями інтерфейсу користувача програми в реєстрі програми, тому вони зберігаються протягом сеансів.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="548"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="534"/>
         <source>Ctrl+2</source>
         <translation>Ctrl+2</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="557"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="543"/>
         <source>Cut</source>
         <translation>Вирізати</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="560"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="546"/>
         <source>Cut currently selected item and place in clipboard</source>
         <translation>Вирізати поточний вибраний елемент і помістити в буфер обміну</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="563"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="549"/>
         <source>Ctrl+X</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="572"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="558"/>
         <source>Copy</source>
         <translation>Копіювати</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="575"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="561"/>
         <source>Copy currently selected item to clipboard</source>
         <translation>Копіювати вибраний елемент у буфер обміну</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="578"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="564"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="587"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="573"/>
         <source>Paste</source>
         <translation>Вставити</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="590"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="576"/>
         <source>Paste the current contents of the clipboard</source>
         <translation>Вставити поточний вміст буфера обміну</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="593"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="579"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="604"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="590"/>
         <source>&amp;Maximize view</source>
         <translation>&amp;Розгорнути перегляд</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="607"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="593"/>
         <source>Maximize/Minimize the current view.</source>
         <translation>Розгорнути/згорнути поточний перегляд.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="610"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="596"/>
         <source>Ctrl+6</source>
         <translation>Ctrl+6</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="438"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="398"/>
         <source>&amp;Error Log</source>
         <translation>&amp;Журнал помилок</translation>
     </message>
@@ -22298,310 +22497,310 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="obsolete">Raise the error log display.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="440"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="400"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="615"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="601"/>
         <source>Feedback: report usability issue (www)</source>
         <translation>Відгук: повідомити про проблему зручності використання (www)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="618"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="604"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to report any usability issues and make suggestions how to address them.</source>
         <translation>Створіть тему на форумі Slicer (https://discourse.slicer.org), щоб повідомляти про будь-які проблеми з зручністю використання та вносити пропозиції щодо їх вирішення.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="623"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="609"/>
         <source>Feedback: make a feature request (www)</source>
         <translation>Відгук: зробити запит на функцію (www)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="626"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="612"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to request a new feature.</source>
         <translation>Створіть тему на форумі Slicer (https://discourse.slicer.org), щоб запросити нову функцію.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="631"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="617"/>
         <source>Load Module</source>
         <translation>Завантажити модуль</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="640"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="626"/>
         <source>Conventional</source>
         <translation>Звичайний</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="652"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="638"/>
         <source>Four-Up</source>
         <translation>Чотири вікна</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="664"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="650"/>
         <source>Dual 3D</source>
         <translation>Подвійний 3D</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="676"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="662"/>
         <source>3D only</source>
         <translation>Лише 3D</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="688"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="674"/>
         <source>3D Table</source>
         <translation>3D таблиця</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="700"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="686"/>
         <source>Red slice only</source>
         <translation>Лише червоні зрізи</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="712"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="698"/>
         <source>Yellow slice only</source>
         <translation>Лише жовті зрізи</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="724"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="710"/>
         <source>Green slice only</source>
         <translation>Лише зелені зрізи</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="736"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="722"/>
         <source>Tabbed 3D</source>
         <translation>3D по вкладках</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="748"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="734"/>
         <source>Tabbed slice</source>
         <translation>Зрізи по вкладках</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="760"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="746"/>
         <source>Compare</source>
         <translation>Порівняти</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="772"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="775"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="758"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="761"/>
         <source>Compare Widescreen</source>
         <translation>Порівняти широкий екран</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="787"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="773"/>
         <source>Two over two</source>
         <translation>Два над двома</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="790"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="776"/>
         <source>Two over Two Layout</source>
         <translation>Два над двома макет</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="802"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="788"/>
         <source>Home</source>
         <translation>Домівка</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="805"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="791"/>
         <source>Favorite module for easy access</source>
         <translation>Улюблені модулі для швидкого доступу</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="808"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="794"/>
         <source>Ctrl+H</source>
         <translation>Ctrl+H</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="820"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="806"/>
         <source>Conventional Widescreen</source>
         <translation>Звичайний широкоекранний</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="829"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="815"/>
         <source>Triple 3D</source>
         <translation>Потрійний 3D</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="838"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="824"/>
         <source>Three over three</source>
         <translation>Три над трьома</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="847"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="833"/>
         <source>Four over four</source>
         <translation>Чотири над чотирьома</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="856"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="919"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="842"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="905"/>
         <source>2 viewers</source>
         <translation>2 спостерігачі</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="865"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="928"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="851"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="914"/>
         <source>3 viewers</source>
         <translation>3 спостерігачі</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="874"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="937"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="860"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="923"/>
         <source>4 viewers</source>
         <translation>4 спостерігачі</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="883"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="946"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="869"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="932"/>
         <source>5 viewers</source>
         <translation>5 спостерігачів</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="892"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="955"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="878"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="941"/>
         <source>6 viewers</source>
         <translation>6 спостерігачів</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="901"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="964"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="887"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="950"/>
         <source>7 viewers</source>
         <translation>7 спостерігачів</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="910"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="973"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="896"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="959"/>
         <source>8 viewers</source>
         <translation>8 спостерігачів</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="982"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="968"/>
         <source>Compare Grid</source>
         <translation>Сітка порівняння</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="991"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="977"/>
         <source>2x2 viewers</source>
         <translation>2x2 спостерігача</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1000"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="986"/>
         <source>3x3 viewers</source>
         <translation>3x3 спостерігача</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1009"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="995"/>
         <source>4x4 viewers</source>
         <translation>4x4 спостерігачів</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1014"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1000"/>
         <source>Record Macro</source>
         <translation>Запис Macro</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1022"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1008"/>
         <source>Play Macro</source>
         <translation>Грати Macro</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1034"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1020"/>
         <source>Side by side</source>
         <translation>Поруч</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1043"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1046"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1029"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1032"/>
         <source>Four by three slice</source>
         <translation>Зрізи чотири на три</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1055"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1058"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1041"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1044"/>
         <source>Four by two slice</source>
         <translation>Зрізи чотири на два</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1067"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1070"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1053"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1056"/>
         <source>Five by two slice</source>
         <translation>Зрізи п&apos;ять на два</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1079"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1082"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1065"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1068"/>
         <source>Three by three slice</source>
         <translation>Зрізи три на три</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1091"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1094"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1077"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1080"/>
         <source>Dual-monitor Four-Up</source>
         <translation>Подвійний монітор на Чотири вікна</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1103"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1089"/>
         <source>Plot only</source>
         <translation>Лише креслення</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1106"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1092"/>
         <source>Plot view</source>
         <translation>Вид ділянки</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1118"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1104"/>
         <source>Four-Up Plot</source>
         <translation>Сюжет із чотирьох сторін</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1121"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1107"/>
         <source>Three slices and a plot in four-Up layout</source>
         <translation>Три зрізи і таблиця у вигляді розкладки Чотири вікна</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1133"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1119"/>
         <source>Conventional Plot</source>
         <translation>Звичайне креслення</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1136"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1122"/>
         <source>Conventional three slices and 3D view with an additional plot</source>
         <translation>Звичайний на три зрізи і 3D з додатковим кресленням</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1148"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1134"/>
         <source>Three over three Plot</source>
         <translation>Три над трьома креслення</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1151"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1137"/>
         <source>Three plots over three slices</source>
         <translation>Три креслення над трьома зрізами</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1160"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1146"/>
         <source>Four-Up Table</source>
         <translation>Таблиця Чотири вікна</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1169"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1155"/>
         <source>Four-Up Quantitative</source>
         <translation>Чотири вікна кількісно</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1172"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1158"/>
         <source>Four-up slice and 3D view with an additional table and plot</source>
         <translation>Чотири вікна із зрізами та 3D і додатковою таблицею і кресленням</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1177"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1163"/>
         <source>Reset to default</source>
         <translation>Скинути параметри до стандартних</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1188"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1174"/>
         <source>Show Status Bar</source>
         <translation>Показати рядок стану</translation>
     </message>
@@ -22611,9 +22810,9 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>Згортання/розгортання панелі графічного інтерфейсу, дозволяє переглядачам Slicer займати все вікно програми</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="315"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="329"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="343"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="284"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="298"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="312"/>
         <source>Select number of viewers...</source>
         <translation>Обрати кількість спостерігачів...</translation>
     </message>
@@ -22628,57 +22827,57 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>Вибір модулів</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="429"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="389"/>
         <source>Error Log</source>
         <translation>Журнал помилок</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="439"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="399"/>
         <source>Show/hide Error Log window</source>
         <translation>Показати/сховати вікно журналу помилок</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="463"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="423"/>
         <source>Python Console</source>
         <translation>Консоль Python</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="475"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="435"/>
         <source>Slicer Python Console</source>
         <translation>Консоль Python для Slicer</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="486"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="446"/>
         <source>&amp;Python Console</source>
         <translation>&amp;Консоль Python</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="487"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="447"/>
         <source>Show Python Console window for controlling the application&apos;s data, user interface, and internals</source>
         <translation>Показати вікно консолі Python для керування даними програми, інтерфейсом користувача та внутрішніми елементами</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="489"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="449"/>
         <source>Ctrl+3</source>
         <translation>Ctrl+3</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="489"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="449"/>
         <source>Ctrl+`</source>
         <translation>Ctrl+`</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="589"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="549"/>
         <source>Clear History</source>
         <translation>Очистити історію</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="702"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="662"/>
         <source>Modifications in data files:</source>
         <translation>Зміни у файлах даних:</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="723"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="683"/>
         <source>Modifications in the scene file:</source>
         <translation>Зміни у файлі сцени:</translation>
     </message>
@@ -22687,23 +22886,23 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="vanished">Деякі дані були змінені. Ви хочете зберегти їх перед виходом?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="652"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="747"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="612"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="707"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
         <translation>Сцена була змінена. Ви хочете зберегти перед виходом?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="651"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="611"/>
         <source>Save before exit?</source>
         <translation>Зберегти перед виходом?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="656"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="616"/>
         <source>Exit (discard modifications)</source>
         <translation>Вийти (скасувати зміни)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="657"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="617"/>
         <source>Cancel exit</source>
         <translation>Скасувати вихід</translation>
     </message>
@@ -22716,37 +22915,37 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="vanished">Сцена була змінена. Ви хочете зберегти зміни перед закриттям?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="746"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="706"/>
         <source>Save before closing scene?</source>
         <translation>Зберегти перед закриттям сцени?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="751"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="711"/>
         <source>Close scene (discard modifications)</source>
         <translation>Закрити сцену (скасувати зміни)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="752"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="712"/>
         <source>Save scene</source>
         <translation>Зберегти сцену</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1029"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="989"/>
         <source>Slicer Data Bundle Directory (Select Empty Directory)</source>
         <translation>Каталог пакетів даних Slicer (виберіть порожній каталог)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1061"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1021"/>
         <source>Save Data Bundle File</source>
         <translation>Зберегти файл комплекту даних</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1062"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1022"/>
         <source>Medical Reality Bundle (*.mrb)</source>
         <translation>Пакет Medical Reality (*.mrb)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1093"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1053"/>
         <source>MRML Scene</source>
         <translation>Сцена MRML</translation>
     </message>
@@ -24571,82 +24770,93 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Під час збереження виникли помилки або попередження. Перегляньте піктограми стану, щоб дізнатися більше.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="605"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1146"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1160"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1167"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="587"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1217"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1231"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1238"/>
         <source>Modified</source>
         <translation>Змінено</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="605"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="916"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="587"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="911"/>
         <source>Not Modified</source>
         <translation>Не змінено</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="658"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="640"/>
         <source>Select a format</source>
         <translation>Вибрати формат</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="684"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="666"/>
         <source>Output folder</source>
         <translation>Папка вивантаження</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="735"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="717"/>
         <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
         <translation>Файл сцени не було збережено, оскільки користувач вирішив не перезаписувати існуючий файл: %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="824"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="815"/>
         <source>Node %1 not saved, file name is empty.</source>
         <translation>Вузол %1 не збережено, ім&apos;я файлу порожнє.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="834"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="825"/>
         <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
         <translation>Вузол %1 не було збережено, оскільки користувач вирішив не перезаписувати існуючий файл: %2.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="872"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="863"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1000"/>
         <source>Cannot write data file: %1.</source>
         <translation>Не вдається записати файл даних: %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="878"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="873"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1010"/>
+        <source>File writing may have failed because filename is too long: &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="880"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1017"/>
+        <source>File writing may have failed because the output folder name is too long: &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File name may be too long: %1.</source>
-        <translation>Ім&apos;я файлу може бути задовгим: %1.</translation>
+        <translation type="vanished">Ім&apos;я файлу може бути задовгим: %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="887"/>
         <source>File path may be too long: %1.</source>
-        <translation>Шлях до файлу може бути задовгим: %1.</translation>
+        <translation type="vanished">Шлях до файлу може бути задовгим: %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="894"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
         <source>Failed to save node %1 to file %2.</source>
         <translation>Не вдалося зберегти вузол %1 у файл %2.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="943"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1147"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1055"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1218"/>
         <source>Scene</source>
         <translation>Сцена</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1459"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1530"/>
         <source>Any Data</source>
         <translation>Будь-які дані</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1492"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1563"/>
         <source>Saving file...</source>
         <translation>Збереження файлу...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1493"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1564"/>
         <source>The file: %1 already exists. Do you want to replace it ?</source>
         <translation>Файл: %1 вже існує. Ви хочете?</translation>
     </message>
@@ -24684,25 +24894,42 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>Якщо позначено, перегляди зрізів відображатимуть лінійно інтерпольовані зрізи через вхідні обсяги. Не позначено вказує на повторну вибірку найближчого сусіда.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="132"/>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="96"/>
+        <source>Invert:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="103"/>
+        <source>Reverse the order of colors in the lookup table to display this volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="149"/>
         <source>Shows the number of pixels (y axis) vs the image intensity (x axis) over a background of the current window/level and threshold mapping.</source>
         <translation>Показує кількість пікселів (вісь y) проти інтенсивності зображення (вісь х) на тлі поточного вікна/рівня та відображення порогового значення.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="135"/>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="152"/>
         <source>Histogram</source>
         <translation>Гістограма</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="182"/>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="199"/>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="216"/>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
     </message>
 </context>
 <context>
     <name>qSlicerSceneBundleReader</name>
     <message>
-        <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="59"/>
+        <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="60"/>
         <source>MRB Slicer Data Bundle</source>
         <translation>Пакет даних зрізувача MRB</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="98"/>
+        <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="123"/>
         <source>Medical Reality Bundle</source>
         <translation>Набір медичної реальності</translation>
     </message>
@@ -24752,7 +24979,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerSceneViewsModule</name>
     <message>
-        <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="39"/>
+        <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="41"/>
         <source>Scene Views</source>
         <oldsource>Views</oldsource>
         <translation>Перегляд сцени</translation>
@@ -24775,35 +25002,35 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>Види сцени</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="114"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
         <source>Thumbnail</source>
         <translation>Мініатюра</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="115"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="117"/>
         <source>Description</source>
         <translation>Опис</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="118"/>
         <source>Actions</source>
         <translation>Дії</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="181"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="182"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="183"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="184"/>
         <source>Restore</source>
         <translation>Відновити</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="187"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="188"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="189"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="190"/>
         <source>Edit</source>
         <translation>Редагувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="193"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="194"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="195"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="196"/>
         <source>Delete</source>
         <translation>Видалити</translation>
     </message>
@@ -25148,270 +25375,269 @@ Please choose an empty directory.</source>
         <translation>Сегментації</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="40"/>
         <source> Segmentation:</source>
         <oldsource> Active segmentation:</oldsource>
-        <translation> Сегментація:</translation>
+        <translation type="vanished"> Сегментація:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="47"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="122"/>
         <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
         <translation>Вузол, який використовувався для встановлення геометрії сегментації (початок, відстань, напрямок осі та екстент за замовчуванням)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="50"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="125"/>
         <source> Source geometry:</source>
         <translation> Вихідна геометрія:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="104"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="160"/>
         <source>Add empty segment</source>
         <translation>Додати незаповнений сегмент</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="107"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="163"/>
         <source>Add segment</source>
         <translation>Додати сегмент</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="118"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="174"/>
         <source>Remove selected segment</source>
         <translation>Видалити обраний сегмент</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="121"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="177"/>
         <source>Remove selected</source>
         <translation>Видалити обране</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="135"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="191"/>
         <source>Go to Segment Editor module</source>
         <translation>Перейти в модуль Редактора сегментів</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="138"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="194"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="164"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="220"/>
         <source>Display settings for the segmentation (all segments)</source>
         <translation>Параметри відображення для сегментації (всі сегменти)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="167"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="223"/>
         <source>Display</source>
         <translation>Дисплей</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="194"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="250"/>
         <source>List of representations to see available and existing ones, and creating or updating them</source>
         <translation>Список представництв, щоб переглянути доступні та існуючі, а також створити або оновити їх</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="197"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="253"/>
         <source>Representations</source>
         <translation>Уявлення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="224"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="280"/>
         <source>Copy/move segments</source>
         <translation>Копіювати/перемістити сегменти</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="265"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="321"/>
         <source>Current segmentation</source>
         <translation>Вибрана сегментація</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="307"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="363"/>
         <source>Move from current segmentation to other Segmentation node</source>
         <translation>Перехід від поточної сегментації до іншого вузла сегментації</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="310"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="366"/>
         <source>&gt;</source>
         <translation>&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="335"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
         <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
         <translation>Копіювати з поточної сегментації до іншого вузла (вузол сегментації для копіювання та вузол Model або Labelmap для імпорту/експорту)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="338"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
         <source>+&gt;</source>
         <translation>+&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="363"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="419"/>
         <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
         <translation>Копіювати до поточної сегментації з іншого вузла (вузол сегментації для копіювання та вузол Model або Labelmap для імпорту/експорту)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="366"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="422"/>
         <source>&lt;+</source>
         <translation>&lt;+</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="447"/>
         <source>Move to current segmentation from other Segmentation node</source>
         <translation>Перейти до поточної сегментації з іншого вузла сегментації</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="450"/>
         <source>&lt;</source>
         <translation>&lt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="416"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="472"/>
         <source>Select Segmentation node to copy/move segments to/from.</source>
         <translation>Виберіть вузол сегментації, щоб скопіювати/перемістити сегменти до/з.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="457"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="513"/>
         <source>Export/import models and labelmaps</source>
         <translation>Експортувати/імпортувати моделі та labelmaps</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="489"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="545"/>
         <source>Clear selection indicating that a new node should be created</source>
         <translation>Очистити вибір, який вказує на те, що потрібно створити новий вузол</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="505"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="561"/>
         <source>Operation:</source>
         <translation>Функція:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="512"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="568"/>
         <source>Labelmap</source>
         <translation>Карта мітки</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="522"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="578"/>
         <source>Models</source>
         <translation>Моделі</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="529"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="585"/>
         <source>Type:</source>
         <translation>Тип:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="536"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="592"/>
         <source>Output:</source>
         <translation>Вихід:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="543"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="599"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="550"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="606"/>
         <source>Export</source>
         <translation>Експортувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="557"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="613"/>
         <source>Import</source>
         <translation>Імпортувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="564"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="620"/>
         <source>Advanced</source>
         <translation>Додатково</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="594"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="650"/>
         <source>Exported segments:</source>
         <translation>Експортовані сегменти:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="602"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="658"/>
         <source>All</source>
         <translation>Все</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="607"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="663"/>
         <source>Visible</source>
         <translation>Видно</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="615"/>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="625"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="671"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="681"/>
         <source>Exported labelmap geometry will match this volume&apos;s geometry</source>
         <translation>Експортована геометрія карти міток відповідатиме геометрії цього тому</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="618"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="674"/>
         <source>Reference volume:</source>
         <translation>Довідковий обсяг:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="646"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="702"/>
         <source>Use color table values:</source>
         <translation>Використовуйте значення таблиці кольорів:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="679"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="735"/>
         <source>Labels of the imported labelmap will be mapped to terminology entries of this context</source>
         <translation>Мітки імпортованої карти міток буде зіставлено з термінологічними записами цього контексту</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="685"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="741"/>
         <source>Choose terminology...</source>
         <translation>Виберіть термінології...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="692"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="748"/>
         <source>Terminology context:</source>
         <translation>Контекст термінології:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="705"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="761"/>
         <source>Export to files</source>
         <translation>Експортувати до файлів</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="748"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="804"/>
         <source>Binary labelmap layers</source>
         <translation>Двійкові шари карти міток</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="757"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="813"/>
         <source>Number of layers:</source>
         <translation>Кількість шарів:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="767"/>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="810"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="823"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="866"/>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="774"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="830"/>
         <source>Forcing all segments to a single layer will modify overlapping segments. Regions where multiple segments overlap will be assigned to the segment closest to the end of the segment list.</source>
         <translation>Примусове розміщення всіх сегментів на одному шарі призведе до зміни сегментів, що перекриваються. Ділянки, де кілька сегментів перекриваються, будуть призначені сегменту, найближчому до кінця списку сегментів.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="777"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="833"/>
         <source>Force collapse to single layer:</source>
         <translation>Примусово згорнути до одного шару:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="784"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="840"/>
         <source>Number of segments:</source>
         <translation>Кількість сегментів:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="800"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="856"/>
         <source>Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</source>
         <translation>Зменшіть кількість шарів, перемістивши сегменти на спільні шари, щоб мінімізувати використання пам’яті. Вміст сегментів не змінюється, якщо немає сегментів, що перекриваються, і згортання на один шар примусове.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="803"/>
+        <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="859"/>
         <source>Collapse labelmap layers</source>
         <translation>Згорнути шари карти міток</translation>
     </message>
@@ -25429,47 +25655,47 @@ Please choose an empty directory.</source>
 <context>
     <name>qSlicerSegmentationsModuleWidget</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="633"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="641"/>
         <source>Output type:</source>
         <translation>Тип виведення:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="634"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="642"/>
         <source>Output node:</source>
         <translation>Вихідний вузол:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="635"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="643"/>
         <source>Export</source>
         <translation>Експортувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="641"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="649"/>
         <source>Input type:</source>
         <translation>Тип введення:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="642"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="650"/>
         <source>Input node:</source>
         <translation>Вхідний вузол:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="643"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="651"/>
         <source>Import</source>
         <translation>Імпортувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="660"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="668"/>
         <source>Export to new labelmap</source>
         <translation>Експорт до нової карти міток</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="668"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="676"/>
         <source>Export models to new folder</source>
         <translation>Експортуйте моделі в нову папку</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="779"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="787"/>
         <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;, thus unable to copy segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
 
 Would you like to change the source representation of &apos;%5&apos; to &apos;%1&apos;?
@@ -25487,32 +25713,32 @@ Note: This may result in unwanted data loss in %5.</oldsource>
 Примітка. Це може призвести до небажаної втрати даних у %5.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="785"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="793"/>
         <source>Failed to copy segment</source>
         <translation>Не вдалось скопіювати сегмент</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="793"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="801"/>
         <source>Failed to convert %1 to %2!</source>
         <translation>Не вдалося перетворити %1 на %2!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="794"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="802"/>
         <source>Conversion failed</source>
         <translation>Конверсія не вдалась</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="918"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="926"/>
         <source>Export may erase data</source>
         <translation>Експорт може видалити дані</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="923"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="931"/>
         <source>Segmentations/AlwaysCropDuringSegmentationNodeExport</source>
         <translation>Сегментації/Завжди обрізати під час експорту вузла сегментації</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="924"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="932"/>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
@@ -25521,7 +25747,7 @@ Do you want to crop the segmentation?
 </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1000"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1008"/>
         <source>Failed to export segments from segmentation %1 to labelmap node %2!
 
 Most probably the segment cannot be converted into binary labelmap representation.</source>
@@ -25530,12 +25756,12 @@ Most probably the segment cannot be converted into binary labelmap representatio
 Швидше за все, сегмент не можна перетворити на двійкове представлення карти міток.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1004"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1012"/>
         <source>Failed to export segments to labelmap</source>
         <translation>Не вдалося експортувати сегменти в карту міток</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1016"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1024"/>
         <source>Failed to export segments from segmentation %1 to models in folder %2!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
@@ -25544,37 +25770,37 @@ Most probably the segment cannot be converted into closed surface representation
 Швидше за все, сегмент не можна перетворити на зображення замкнутої поверхні.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1020"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1028"/>
         <source>Failed to export segments to models</source>
         <translation>Не вдалось експортувати сегменти до моделей</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1077"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1085"/>
         <source>Failed to copy labels from labelmap volume node %1!</source>
         <translation>Не вдалося скопіювати мітки з вузла тома карти міток %1!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1079"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1087"/>
         <source>Failed to import labelmap volume</source>
         <translation>Не вдалося імпортувати том карти міток</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1088"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1096"/>
         <source>Failed to copy polydata from model node %1!</source>
         <translation>Не вдалося скопіювати полідані з вузла моделі %1!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1090"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1098"/>
         <source>Failed to import model node</source>
         <translation>Не вдалося імпортувати вузол моделі</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1099"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1107"/>
         <source>Failed to copy polydata from models under folder %1!</source>
         <translation>Не вдалося скопіювати полідані з моделей у папці %1!</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1101"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1109"/>
         <source>Failed to import models</source>
         <translation>Не вдалось імпортувати моделі</translation>
     </message>
@@ -26462,30 +26688,45 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
         <translation>Адреса сервера, який надає інформацію про останню доступну версію програми.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="109"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="231"/>
+        <source>Maximum filename length:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="238"/>
+        <source>Limit the maximum length of filenames. For compatibility with Windows systems, a low value such as 50 is recommended. Set a higher value to allow using longer filenames that match long node names.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="110"/>
         <source>Application update server URL</source>
         <translation>URL-адреса сервера оновлення програми</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="156"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="157"/>
         <source>Default scene path</source>
         <translation>Шлях сцени за замовчуванням</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="187"/>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="191"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="188"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="192"/>
         <source>Documentation location</source>
         <translation>Місцезнаходження документації</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="195"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="196"/>
         <source>Enable/Disable languages</source>
         <translation>Увімкнути/вимкнути мови</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="199"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="200"/>
         <source>Max. number of &apos;Recent&apos; menu items</source>
         <translation>Макс. кількість пунктів меню «Останні»</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="214"/>
+        <source>Max. filename length</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -27624,7 +27865,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="173"/>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="665"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="547"/>
         <source>Delete control point</source>
         <translation>Видалити контрольну точку</translation>
     </message>
@@ -27669,27 +27910,27 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <translation>Варіанти взаємодії</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="661"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="543"/>
         <source>Clear control point position</source>
         <translation>Чітке положення контрольної точки</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="714"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="596"/>
         <source>Delete %1</source>
         <translation>Видалити %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="715"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="597"/>
         <source>Edit %1 terminology...</source>
         <translation>Редагувати термінологію %1...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="806"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="688"/>
         <source>Rename %1</source>
         <translation>Перейменувати %1</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="806"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="688"/>
         <source>New name:</source>
         <translation>Нова назва:</translation>
     </message>
@@ -27817,9 +28058,8 @@ Select plugin to add node named
 <context>
     <name>qSlicerSubjectHierarchySceneViewsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/SceneViews/SubjectHierarchyPlugins/qSlicerSubjectHierarchySceneViewsPlugin.cxx" line="78"/>
         <source>Restore scene view</source>
-        <translation>Відновити вигляд сцени</translation>
+        <translation type="vanished">Відновити вигляд сцени</translation>
     </message>
 </context>
 <context>
@@ -28016,51 +28256,51 @@ Please visit the Segmentation module and try the advanced create representation 
 <context>
     <name>qSlicerSubjectHierarchySegmentsPlugin</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="98"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="99"/>
         <source>Show only this segment</source>
         <translation>Показати лише цей сегмент</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="102"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="103"/>
         <source>Show all segments</source>
         <translation>Показати всі сегменти</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="106"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="107"/>
         <source>Jump slices</source>
         <translation>Стрибати шматочками</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="110"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="111"/>
         <source>Clone</source>
         <translation>Клон</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="115"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="125"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="116"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="126"/>
         <source>Opacity</source>
         <translation>Непрозорість</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="126"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="127"/>
         <source>Set segment opacity in the sub-menu</source>
         <translation>Встановіть непрозорість сегмента у підменю</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="229"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="230"/>
         <source>Segment ID of the moved segment (%1) might exist in the target segmentation.
 Please check the error window for details.</source>
         <translation>Ідентифікатор сегмента переміщеного сегмента (%1) може існувати в цільовій сегментації.
 Перегляньте подробиці у вікні помилки.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="231"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="244"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="232"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="245"/>
         <source>Failed to move segment between segmentations</source>
         <translation>Не вдалося перемістити сегмент між сегментами</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="236"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="237"/>
         <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;,thus unable to move segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
 
 Would you like to change the source representation of &apos;%5&apos; to &apos;%1&apos;?
@@ -28078,30 +28318,30 @@ Note: This may result in unwanted data loss in %5.</oldsource>
 Примітка. Це може призвести до небажаної втрати даних у %5.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="253"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="254"/>
         <source>Failed to convert %1 to %2</source>
         <translation>Не вдалося перетворити %1 на %2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="255"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="256"/>
         <source>Conversion failed</source>
         <translation>Перетворення не вдалося</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="322"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="328"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="334"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="323"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="329"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="335"/>
         <source>Invalid</source>
         <translation>Недійсний</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="368"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="392"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="369"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="393"/>
         <source>None</source>
         <translation>Нічого</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="405"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="406"/>
         <source>Segment - ID: %1, Representations: %2, Color: (%3, %4, %5)
 Tags: %6</source>
         <translation>Сегмент - ідентифікатор: %1, подання: %2, колір: (%3, %4, %5)
@@ -29038,6 +29278,60 @@ Tags: %6</source>
     </message>
 </context>
 <context>
+    <name>qSlicerTerminologyEditorWidget</name>
+    <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="14"/>
+        <source>qSlicerTerminologyEditorWidget</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="37"/>
+        <source>Value</source>
+        <translation type="unfinished">Значення</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="47"/>
+        <source>Scheme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="57"/>
+        <source>Region:</source>
+        <translation type="unfinished">Регіон:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="87"/>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="163"/>
+        <source>    Modifier:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="94"/>
+        <source>Category:</source>
+        <translation type="unfinished">Категорія:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="111"/>
+        <source>Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="153"/>
+        <source>Meaning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="244"/>
+        <source>Use automatically generated label and color from selected terminology:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="290"/>
+        <source>Select from terminology...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerTerminologyNavigatorWidget</name>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="14"/>
@@ -29045,84 +29339,93 @@ Tags: %6</source>
         <translation>Віджет навігатора термінології qSlicer</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="117"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="342"/>
+        <source>Select region context...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="374"/>
+        <source>Region...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="426"/>
         <source>Property type...</source>
         <translation>Тип власності...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1371"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="274"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="884"/>
         <source>No type modifier</source>
         <oldsource>Select type modifier...</oldsource>
         <translation>Виберіть модифікатор типу</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="169"/>
         <source>Select anatomic region context...</source>
-        <translation>Виберіть контекст анатомічної області...</translation>
+        <translation type="vanished">Виберіть контекст анатомічної області...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="201"/>
         <source>Anatomic region...</source>
-        <translation>Анатомічна область...</translation>
+        <translation type="vanished">Анатомічна область...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="243"/>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="2158"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="416"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1351"/>
         <source>No region modifier</source>
         <oldsource>Select anatomic region modifier...</oldsource>
         <translation>Без модифікатора регіону</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="280"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="95"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="512"/>
         <source>Select terminology...</source>
         <translation>Виберіть термінологію...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="337"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="222"/>
         <source>Category...</source>
         <translation>Категорія...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="376"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="261"/>
         <source>Select all</source>
         <translation>Вибрати все</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="407"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="149"/>
         <source>Name:</source>
         <translation>Ім&apos;я:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="428"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="170"/>
         <source>Color:</source>
         <translation>Колір:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="200"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="249"/>
         <source>None</source>
         <translation>Жодного</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="978"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1902"/>
         <source>%1, %2</source>
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)</extracomment>
         <translation>%1, %2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="993"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1919"/>
         <source>%1 in %2, %3</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
         <translation>%1 в %2, %3</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1001"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1927"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;)</extracomment>
         <translation>%1 в %2</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="2021"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1212"/>
         <source>There is a file with name &apos;%1&apos; in the stored contexts.
 
 Do you wish to update the stored context file with the just loaded one?</source>
@@ -29131,7 +29434,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
 Ви бажаєте оновити збережений контекстний файл щойно завантаженим?</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="2024"/>
+        <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1215"/>
         <source>Context file exists</source>
         <translation>Контекстний файл існує</translation>
     </message>
@@ -29218,195 +29521,194 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <translation>Трансформує</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="44"/>
         <source> Transform:</source>
         <oldsource>Active Transform:</oldsource>
-        <translation> Трансформувати:</translation>
+        <translation type="vanished"> Трансформувати:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="74"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="112"/>
         <source>Information</source>
         <translation>Інформація</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="98"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="136"/>
         <source>Edit</source>
         <translation>Редагувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="116"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="154"/>
         <source>Transform Matrix</source>
         <translation>Матриця трансформації</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="169"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="207"/>
         <source>Rotation</source>
         <translation>Обертання</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="190"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="228"/>
         <source>Identity</source>
         <translation>Ідентичність</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="200"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="238"/>
         <source>Invert</source>
         <translation>Інвертувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="210"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="248"/>
         <source>Split a composite transform to its components</source>
         <translation>Розділити складене перетворення на його компоненти</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="213"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="251"/>
         <source>Split</source>
         <translation>Спліт</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="220"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="258"/>
         <source>Translation in global or local (rotated) reference frame</source>
         <translation>Трансляція в глобальній або локальній (поверненій) системі відліку</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="223"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="261"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="260"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="298"/>
         <source>Copy transform</source>
         <translation>Копіювати перетворення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="270"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="308"/>
         <source>Paste transform</source>
         <translation>Вставити трансформацію</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="282"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="320"/>
         <source>Center of transformation</source>
         <translation>Центр трансформації</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="292"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="330"/>
         <source>World</source>
         <translation>Світ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="297"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="335"/>
         <source>Local</source>
         <translation>Місцевий</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="311"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="349"/>
         <source>Coordinates:</source>
         <translation>Координати:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="318"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="356"/>
         <source>Reset</source>
         <translation>Скинути</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="344"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="382"/>
         <source>Display</source>
         <translation>Дисплей</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="368"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="406"/>
         <source>Apply transform</source>
         <translation>Застосувати трансформацію</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="379"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="417"/>
         <source>Transformable:</source>
         <translation>Кабріолет:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="423"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="461"/>
         <source>Apply the selected transform to the selected transformable nodes</source>
         <oldsource>Apply the active transform to the selected transformable nodes</oldsource>
         <translation>Застосуйте активне перетворення до вибраних трансформованих вузлів</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="426"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="464"/>
         <source>&gt;</source>
         <translation>&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="433"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="471"/>
         <source>Remove the selected transform from the selected transformed nodes</source>
         <oldsource>Remove the active transform from the selected transformed nodes</oldsource>
         <translation>Видалити активне перетворення з вибраних перетворених вузлів</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="436"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="474"/>
         <source>&lt;</source>
         <translation>&lt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="443"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="481"/>
         <source>Harden transform</source>
         <translation>Зміцнення трансформації</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="461"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="499"/>
         <source>Transformed:</source>
         <translation>Перетворений:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="501"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="539"/>
         <source>Convert</source>
         <translation>Конвертувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="513"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="551"/>
         <source>Reference volume:</source>
         <translation>Довідковий обсяг:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="529"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="567"/>
         <source>Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</source>
         <translation>Об’єм, який визначає початок, відстань і напрямок осі експортованого поля переміщення. Якщо опорний об’єм знаходиться під нелінійним перетворенням, то нетрансформована геометрія використовується як посилання.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="559"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="597"/>
         <source>Output displacement field:</source>
         <translation>Вихідне поле переміщення:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="575"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="613"/>
         <source>Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</source>
         <translation>Вузол обсягу або трансформації, який зберігатиме поле переміщення. Якщо вибрано вузол скалярного об’єму, зберігається лише величина переміщення. У векторному об’ємі або вузлі трансформації зберігається вектор тривимірного переміщення.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="588"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="626"/>
         <source>Displacement Field</source>
         <translation>Поле зміщення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="610"/>
+        <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="648"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="131"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="132"/>
         <source>Copy</source>
         <translation>Копіювати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="137"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="138"/>
         <source>Paste</source>
         <translation>Вставити</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="702"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="780"/>
         <source>Conversion failed</source>
         <translation>Перетворення не вдалося</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="702"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="780"/>
         <source>Failed to convert transform. See application log for details.</source>
         <translation>Не вдалося перетворити трансформацію. Подробиці дивіться в журналі заявок.</translation>
     </message>
@@ -29722,8 +30024,12 @@ This should only used by advanced users who understand the consequences of chang
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
+        <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation>Показати як різні площини зрізів пересікаються між собою.</translation>
+        <translation type="vanished">Показати як різні площини зрізів пересікаються між собою.</translation>
     </message>
 </context>
 <context>
@@ -29902,152 +30208,156 @@ This should only used by advanced users who understand the consequences of chang
         <translation>Об&apos;ємне подання</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="43"/>
         <source>Volume:</source>
-        <translation>Об&apos;ємне зображення:</translation>
+        <translation type="vanished">Об&apos;ємне зображення:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="88"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="99"/>
         <source>Inputs</source>
         <translation>Вхідні</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="115"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="126"/>
         <source>ROI:</source>
         <translation>Область інтересу (ROI):</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="137"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="148"/>
         <source>Property:</source>
         <translation>Властивость:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="159"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="170"/>
         <source>View:</source>
         <translation>Вигляд:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="172"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="183"/>
         <source>Display</source>
         <translation>Показ</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="199"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="207"/>
+        <source>Visibility:</source>
+        <translation type="unfinished">Видимість:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="235"/>
         <source>Crop:</source>
         <translation>Обрізати:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="211"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="247"/>
         <source>Enable</source>
         <translation>Увімкнути</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="221"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="257"/>
         <source>Display ROI</source>
         <translation>Показати область інтересу (ROI)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="242"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="278"/>
         <source>Fit to Volume</source>
         <translation>Припасувати до картини</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="255"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="291"/>
         <source>Rendering:</source>
         <translation>Метод рендерингу:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="269"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="305"/>
         <source>Clipping</source>
         <translation>Вирізка</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="287"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="323"/>
         <source>Clipping:</source>
         <translation>Вирізка:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="294"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="330"/>
         <source>Clip node:</source>
         <translation>Вузол кліпу:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="338"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="374"/>
         <source>Soft edge:</source>
         <translation>М&apos;який край:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="373"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="409"/>
         <source>Advanced...</source>
         <translation>Додатково...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="401"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="437"/>
         <source>Techniques</source>
         <translation>Техніки</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="407"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="443"/>
         <source>GPU memory size:</source>
         <translation>Об&apos;єм пам&apos;яті GPU:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="414"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="450"/>
         <source>Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</source>
         <translation>Обсяг пам’яті, виділений для об’ємного відтворення на графічній карті. «За замовчуванням» можна змінити в налаштуваннях.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="424"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="460"/>
         <source>Quality:</source>
         <translation>Якість:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="438"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="474"/>
         <source>Interactive speed:</source>
         <translation>Інтерактивна швидкість:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="457"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="493"/>
         <source> fps</source>
         <translation> кадр/с</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="464"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="500"/>
         <source>Advanced rendering properties</source>
         <translation>Додаткові властивості рендеренгу</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="495"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="531"/>
         <source>Auto-release resources:</source>
         <translation>Автоматично звільнити незадіяні графічні ресурси:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="502"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="538"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
         <translation>Миттєво вивантажуйте томи з графічної пам’яті, коли вони невидимі. Зменшує використання пам’яті, але сповільнює перемикання видимості гучності.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="513"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="549"/>
         <source>Volume properties</source>
         <translation>Властивості об&apos;ємної картини</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="542"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="578"/>
         <source>Synchronize with Volumes module</source>
         <translation>Синхронізувати з модулем Об&apos;єми</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="555"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="591"/>
         <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
         <translation>Не використовуйте порогові значення. Замість цього встановіть рамку непрозорості в діапазоні Вікно/Рівень в модулі Об&apos;єми.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="558"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="594"/>
         <source>Ignore threshold</source>
         <translation>Ігнорувати поріг</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="585"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="621"/>
         <source>ROI</source>
         <translation>Область інтересу (ROI)</translation>
     </message>
@@ -30247,38 +30557,37 @@ This should only used by advanced users who understand the consequences of chang
         <translation>Обсяги</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
         <source> Volume: </source>
         <oldsource>Active Volume: </oldsource>
-        <translation> Обсяг: </translation>
+        <translation type="vanished"> Обсяг: </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
+        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="103"/>
         <source>Volume Information</source>
         <translation>Інформація про обсяг</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
+        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="136"/>
         <source>Convert to LabelMap:</source>
         <translation>Перетворити на LabelMap:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="132"/>
+        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="170"/>
         <source>Replace current node</source>
         <translation>Замінити поточний вузол</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="139"/>
+        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="177"/>
         <source>Convert</source>
         <translation>Конвертувати</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="152"/>
+        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="190"/>
         <source>Display</source>
         <translation>Дисплей</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="170"/>
+        <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="208"/>
         <source>Color Legend</source>
         <translation>Кольорова легенда</translation>
     </message>
@@ -30296,23 +30605,23 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>qSlicerVolumesReader</name>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="92"/>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="106"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="94"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
         <source>Volume</source>
         <translation>Обсяг</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="107"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
         <source>Dicom</source>
         <translation>Dicom</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="110"/>
         <source>Image</source>
         <translation>Зображення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="111"/>
         <source>All Files</source>
         <translation>Усі файли</translation>
     </message>
@@ -30684,13 +30993,52 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLColorTableStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="320"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="322"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="329"/>
-        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="331"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="74"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="76"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="87"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="89"/>
+        <source>CSV Color Table</source>
+        <extracomment>File format name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="78"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="80"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="91"/>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="93"/>
         <source>MRML Color Table</source>
         <extracomment>File format name</extracomment>
         <translation>Таблиця кольорів MRML</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="268"/>
+        <source>labelValue is not specified in color file in line %1. Skipping this line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="277"/>
+        <source>labelValue &apos;%1&apos; is invalid in color file in line %2. Skipping this line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="286"/>
+        <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must be positive (&gt;0). Skipping this line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="300"/>
+        <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must not go above be %3.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="350"/>
+        <source>Failed to parse color values (&apos;%1&apos;, &apos;%2&apos;, &apos;%3&apos;, &apos;%4&apos;) in line %5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="360"/>
+        <source>Unable to set color &apos;%1&apos; with name &apos;%2&apos;, breaking the loop over &apos;%3&apos; lines in the file %4.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -30754,12 +31102,12 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsAngleNode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsAngleNode.cxx" line="46"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsAngleNode.cxx" line="46"/>
         <source>Angle</source>
         <translation>Кут</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsAngleNode.cxx" line="49"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsAngleNode.cxx" line="49"/>
         <source>A</source>
         <translation>A</translation>
     </message>
@@ -30767,12 +31115,12 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsClosedCurveNode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsClosedCurveNode.cxx" line="57"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsClosedCurveNode.cxx" line="57"/>
         <source>Closed Curve</source>
         <translation>Закрита крива</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsClosedCurveNode.cxx" line="60"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsClosedCurveNode.cxx" line="60"/>
         <source>CC</source>
         <translation>CC</translation>
     </message>
@@ -30780,12 +31128,12 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsCurveNode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsCurveNode.cxx" line="78"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="78"/>
         <source>Curve</source>
         <translation>Крива</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsCurveNode.cxx" line="81"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="81"/>
         <source>OC</source>
         <translation>OC</translation>
     </message>
@@ -30793,12 +31141,12 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsFiducialNode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialNode.cxx" line="41"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="41"/>
         <source>Point List</source>
         <translation>Список точок</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialNode.cxx" line="44"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="44"/>
         <source>F</source>
         <translation>F</translation>
     </message>
@@ -30806,14 +31154,14 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsFiducialStorageNode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="788"/>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="797"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="788"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="797"/>
         <source>Markups Fiducial CSV</source>
         <extracomment>File format name</extracomment>
         <translation>Розмітки Fiducial CSV</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="790"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="790"/>
         <source>Annotation Fiducial CSV</source>
         <extracomment>File format name</extracomment>
         <translation>Анотація Fiducial CSV</translation>
@@ -30834,12 +31182,12 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsLineNode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsLineNode.cxx" line="47"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="47"/>
         <source>Line</source>
         <translation>Лінія</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsLineNode.cxx" line="50"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="50"/>
         <source>L</source>
         <translation>L</translation>
     </message>
@@ -30847,12 +31195,12 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsNode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsNode.cxx" line="542"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="536"/>
         <source>M</source>
         <translation>M</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsNode.cxx" line="552"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="546"/>
         <source>Markup</source>
         <translation>Розмітка</translation>
     </message>
@@ -30860,12 +31208,12 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsPlaneNode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneNode.cxx" line="54"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneNode.cxx" line="53"/>
         <source>Plane</source>
         <translation>Літак</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsPlaneNode.cxx" line="57"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneNode.cxx" line="56"/>
         <source>P</source>
         <translation>P</translation>
     </message>
@@ -30873,12 +31221,12 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLMarkupsROINode</name>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROINode.cxx" line="59"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsROINode.cxx" line="57"/>
         <source>ROI</source>
         <translation>ROI</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsROINode.cxx" line="62"/>
+        <location filename="Libs/MRML/Core/vtkMRMLMarkupsROINode.cxx" line="60"/>
         <source>R</source>
         <translation>R</translation>
     </message>
@@ -30886,69 +31234,69 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLModelStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="747"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="777"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="787"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="817"/>
         <source>VTK Polygon Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>VTK Багатокутна сітка</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="749"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="779"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="789"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="819"/>
         <source>VTK XML Polygon Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>VTK XML Багатокутна сітка</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="751"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="794"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="791"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="834"/>
         <source>VTK Unstructured Grid</source>
         <extracomment>File format name</extracomment>
         <translation>VTK Неструктурована сітка</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="753"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="796"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="793"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="836"/>
         <source>VTK XML Unstructured Grid</source>
         <extracomment>File format name</extracomment>
         <translation>VTK XML Неструктурована сітка</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="755"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="757"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="795"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="797"/>
         <source>Movie.BYU Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>Фільм.БЮ Сітка</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="759"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="799"/>
         <source>MetaIO Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>Сітка MetaIO</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="761"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="785"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="801"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="825"/>
         <source>Stereolithography Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>Сітка стереолітографії</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="763"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="787"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="803"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="827"/>
         <source>Stanford Polygon Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>Стенфордська багатокутна сітка</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="765"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="805"/>
         <source>AVS Unstructured Grid</source>
         <extracomment>File format name</extracomment>
         <translation>Неструктурована сітка AVS</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="767"/>
-        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="789"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="807"/>
+        <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="829"/>
         <source>Wavefront Mesh</source>
         <extracomment>File format name</extracomment>
         <translation>Сітка хвильового фронту</translation>
@@ -30957,10 +31305,10 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLProceduralColorStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="222"/>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="224"/>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="231"/>
-        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="233"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="221"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="223"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="230"/>
+        <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="232"/>
         <source>MRML Color Function</source>
         <extracomment>File format name</extracomment>
         <translation>Функція кольору MRML</translation>
@@ -30979,10 +31327,10 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLSequenceStorageNode</name>
     <message>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="200"/>
+        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="202"/>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="209"/>
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="211"/>
-        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="218"/>
-        <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="220"/>
         <source>MRML Sequence Bundle</source>
         <extracomment>File format name</extracomment>
         <translation>Пакет послідовностей MRML</translation>
@@ -31011,17 +31359,17 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLTableStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="230"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="234"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="241"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="245"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="242"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="246"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="253"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="257"/>
         <source>Tab-separated values</source>
         <extracomment>File format name</extracomment>
         <translation>Значення, розділені табуляцією</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="232"/>
-        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="243"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="244"/>
+        <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="255"/>
         <source>Comma-separated values</source>
         <extracomment>File format name</extracomment>
         <translation>Значення, розділені комами</translation>
@@ -31060,112 +31408,112 @@ This should only used by advanced users who understand the consequences of chang
 <context>
     <name>vtkMRMLVolumeArchetypeStorageNode</name>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="418"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="417"/>
         <source>Cannot read &apos;%1&apos; file as a volume of type &apos;%2&apos;. Details: %3.</source>
         <translation>Неможливо прочитати файл «%1» як том типу «%2». Подробиці: %3.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="433"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="432"/>
         <source>Unable to read data from file: &apos;%1&apos;</source>
         <translation>Неможливо прочитати дані з файлу: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="443"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="442"/>
         <source>Unable to read DiffusionTensorVolume data from file: &apos;%1&apos;</source>
         <translation>Не вдалося прочитати дані DiffusionTensorVolume з файлу: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="452"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="451"/>
         <source>Unable to read ScalarVolume data from file: &apos;%1&apos;</source>
         <translation>Не вдається прочитати дані ScalarVolume з файлу: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="462"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="461"/>
         <source>Not a scalar volume file: &apos;%1&apos;</source>
         <translation>Файл не є скалярним томом: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="505"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="504"/>
         <source>Cannot read file: &apos;%1&apos;</source>
         <translation>Неможливо прочитати файл: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="533"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="532"/>
         <source>Image reader provided invalid RAS to IJK matrix</source>
         <translation>Зчитувач зображень надав недійсну матрицю RAS до IJK</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="586"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="585"/>
         <source>Voxel vector type is spatial but number of scalar components is not 3. Saved vector type will be non-spatial.</source>
         <translation>Воксельний векторний тип є просторовим, але кількість скалярних компонентів не дорівнює 3. Збережений векторний тип буде непросторовим.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="595"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="594"/>
         <source>Spatial vectors will be written to non-NRRD file format (%1). In this format, voxels are saved as regular vectors. If the file is imported again then vector axis directions may be flipped. It is recommended to save volumes that contain spatial vectors in NRRD file format.</source>
         <translation>Просторові вектори будуть записані у формат файлу, відмінний від NRRD (%1). У цьому форматі вокселі зберігаються як звичайні вектори. Якщо файл буде імпортовано знову, напрямки векторної осі можуть бути перевернуті. Рекомендується зберігати томи, які містять просторові вектори, у форматі файлу NRRD.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="638"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="637"/>
         <source>Unable to remove old version of file: &apos;%1&apos;</source>
         <translation>Не вдалося видалити стару версію файлу: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="648"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="647"/>
         <source>Error renaming file to &apos;%1&apos;, rename returned code %2</source>
         <translation>Помилка перейменування файлу на &quot;%1&quot;, перейменуйте повернутий код %2</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="740"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="735"/>
         <source>VTK file format can only store LPS axis oriented images. Orientation of the saved image may be incorrect. NRRD file format is recommended for storing this image.</source>
         <translation>Формат файлу VTK може зберігати лише зображення, орієнтовані на вісь LPS. Орієнтація збереженого зображення може бути неправильною. Для зберігання цього зображення рекомендується формат файлу NRRD.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="769"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="764"/>
         <source>Saving this image in TIFF format will result in loss of information (image position, orientation, or spacing along the third image axis). NRRD file format is recommended for storing this image.</source>
         <translation>Збереження цього зображення у форматі TIFF призведе до втрати інформації (положення зображення, орієнтація або відстань уздовж третьої осі зображення). Для зберігання цього зображення рекомендується формат файлу NRRD.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="781"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="776"/>
         <source>Analyze file format is not recommended, as its image orientation specification is ambiguous. NRRD file format is recommended for storing this image.</source>
         <translation>Аналіз формату файлу не рекомендується, оскільки специфікація його орієнтації зображення неоднозначна. Для зберігання цього зображення рекомендується формат файлу NRRD.</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="821"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="816"/>
         <source>Cannot write volume, image data is empty</source>
         <translation>Неможливо записати том, дані зображення порожні</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="869"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="864"/>
         <source>Failed to delete directory &apos;%1&apos;</source>
         <translation>Не вдалося видалити каталог &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="876"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="871"/>
         <source>Failed to create directory &apos;%1&apos;</source>
         <translation>Не вдалося створити каталог &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="936"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="931"/>
         <source>Failed to write &apos;%1&apos;</source>
         <translation>Не вдалося записати &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="951"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="942"/>
         <source>Failed to open directory &apos;%1&apos;</source>
         <translation>Не вдалося відкрити каталог &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1065"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1056"/>
         <source>The archetype file &apos;%1&apos; wasn&apos;t written out when writing &apos;%2&apos; in &apos;%3&apos;. Only these %4 file(s) have been written: %5. Old name is &apos;%6&apos;.</source>
         <translation>Файл архетипу «%1» не було виписано під час запису «%2» у «%3». Записано лише ці файли %4: %5. Стара назва «%6».</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1088"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1079"/>
         <source>Failed to remove temporary directory &apos;%1&apos;</source>
         <translation>Не вдалося видалити тимчасовий каталог &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1137"/>
+        <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1128"/>
         <source>Displacements are expected to be stored as double or float. Vector values will not be converted from LPS to RAS.</source>
         <translation>Очікується, що переміщення зберігатимуться як подвійні або плаваючі. Векторні значення не будуть конвертовані з LPS в RAS.</translation>
     </message>
@@ -31192,14 +31540,22 @@ This should only used by advanced users who understand the consequences of chang
     </message>
 </context>
 <context>
+    <name>vtkSlicerSegmentationsModuleLogic</name>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Logic/vtkSlicerSegmentationsModuleLogic.cxx" line="1087"/>
+        <source>background</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>vtkSlicerSequencesLogic</name>
     <message>
-        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="687"/>
+        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="715"/>
         <source>Unnamed</source>
         <translation>Без назва</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="689"/>
+        <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="717"/>
         <source>Sequence</source>
         <translation>Послідовність</translation>
     </message>

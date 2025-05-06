@@ -1432,7 +1432,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="19"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">الدليل الارشادي</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="22"/>

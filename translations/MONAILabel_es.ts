@@ -973,7 +973,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="686"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="631"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estado:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="687"/>
@@ -1039,7 +1039,7 @@ Actualice a la última versión de monailabel (&gt; 0.2.0)</translation>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="42"/>
         <source>Active Learning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aprendizaje Activo</translation>
     </message>
 </context>
 </TS>

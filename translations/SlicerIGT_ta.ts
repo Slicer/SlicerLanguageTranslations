@@ -280,7 +280,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வெளியீட்டு உருமாற்றம்: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
@@ -305,7 +305,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">மறு செய்கைகளின் எண்ணிக்கை:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
@@ -773,7 +773,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="19"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">வழிகாட்டுதல்</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="22"/>
