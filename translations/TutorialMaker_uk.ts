@@ -6,17 +6,17 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="31"/>
         <source>Annotation needs a widget reference and a valid type</source>
-        <translation type="unfinished"></translation>
+        <translation>Анотація потребує посилання на віджет та дійсного типу</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="249"/>
         <source>Write your text here</source>
-        <translation type="unfinished"></translation>
+        <translation>Напишіть свій текст тут</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="332"/>
         <source>Write something here</source>
-        <translation type="unfinished"></translation>
+        <translation>Напишіть щось тут</translation>
     </message>
 </context>
 <context>
@@ -45,13 +45,13 @@
         <location filename="TutorialMaker/Lib/GitTools.py" line="47"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="68"/>
         <source>Message from {endpoint}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Повідомлення від {endpoint}: {message}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="48"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="69"/>
         <source>Malformed Response from {endpoint}</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильно сформована відповідь від {endpoint}</translation>
     </message>
 </context>
 <context>
@@ -130,17 +130,17 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="290"/>
         <source>TutorialMaker - Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>TutorialMaker - Анотатор</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="318"/>
         <source>Title for the slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок слайда</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="323"/>
         <source>Write a description for the slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Напишіть опис для слайда</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="900"/>
@@ -175,7 +175,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="927"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="931"/>
@@ -200,12 +200,12 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="947"/>
         <source>Arrow text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст зі стрілкою</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="951"/>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстове поле</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="955"/>
@@ -240,7 +240,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1179"/>
         <source>Add Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати зображення</translation>
     </message>
 </context>
 <context>
@@ -278,22 +278,22 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="78"/>
         <source>Fetch From Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Отримати з Github</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="91"/>
         <source>Capture screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробити скріншоти</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="98"/>
         <source>Edit annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Редагувати анотації</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="108"/>
         <source>Generate output</source>
-        <translation type="unfinished"></translation>
+        <translation>Генерувати вихідні дані</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="118"/>
@@ -317,58 +317,59 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="70"/>
         <source>Version Date: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата версії: {}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="244"/>
         <source>Tutorial Captured</source>
-        <translation type="unfinished"></translation>
+        <translation>Записано навчальний посібник</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="244"/>
         <source>Captured Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Захоплений навчальний посібник: {tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="249"/>
         <source>Failed to capture tutorial: {e}</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося зняти навчальний посібник: {e}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="256"/>
         <source>Tutorial Generated</source>
-        <translation type="unfinished"></translation>
+        <translation>Згенеровано навчальний посібник</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="256"/>
         <source>Generated Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Згенерований навчальний посібникl: {tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="281"/>
         <source>Failed to fetch tutorials from {repo}. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося отримати навчальні матеріали з {repo}. Спробуйте пізніше.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="328"/>
         <source>No Tests Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Тестів не знайдено</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="375"/>
         <source>Tutorial Execution Failed: {unit_tutorials} - Error: {e}. 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося виконати навчальний посібник: {unit_tutorials} - Помилка: {e}. 
+</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="379"/>
         <source>Tutorial Tested</source>
-        <translation type="unfinished"></translation>
+        <translation>Підручник протестовано</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="382"/>
         <source>{tutorials_failed} tutorials failed to execute. Errors: {error_message}</source>
-        <translation type="unfinished"></translation>
+        <translation>{tutorials_failed} Не вдалося виконати навчальні посібники. Помилки: {error_message}</translation>
     </message>
 </context>
 <context>
@@ -378,7 +379,7 @@
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="316"/>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="462"/>
         <source>Error: Load an image first.</source>
-        <translation type="unfinished">Помилка: спочатку завантажте зображення.</translation>
+        <translation>Помилка: Спочатку завантажте зображення.</translation>
     </message>
 </context>
 <context>
@@ -386,7 +387,7 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="32"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Комунальна послуга</translation>
     </message>
 </context>
 </TS>
