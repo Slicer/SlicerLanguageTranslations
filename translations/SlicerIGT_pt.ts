@@ -797,7 +797,7 @@ Para obter ajuda sobre como usar este módulo, visite: &lt;a href=&apos;https://
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="19"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Guia</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="22"/>
