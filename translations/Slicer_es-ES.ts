@@ -28602,7 +28602,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="153"/>
         <source>Meaning</source>
-        <translation type="unfinished"></translation>
+        <translation>Significado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="244"/>
@@ -28612,7 +28612,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="290"/>
         <source>Select from terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar por terminología...</translation>
     </message>
 </context>
 <context>
@@ -28630,7 +28630,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="374"/>
         <source>Region...</source>
-        <translation type="unfinished"></translation>
+        <translation>Región...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="426"/>
@@ -30089,7 +30089,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="89"/>
         <source>CSV Color Table</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de color CSV</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="78"/>
@@ -30103,7 +30103,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="268"/>
         <source>labelValue is not specified in color file in line %1. Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>labelValue no se ha especificado en el archivo de color en la línea %1. Se omitirá esta línea.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="277"/>
