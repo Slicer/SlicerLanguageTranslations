@@ -84,7 +84,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation>Usafishaji wa DWI (UBONGO)</translation>
+        <translation>Usafishaji wa DWI (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation>Uharibifu wa Ubongo kutoka kwa picha ya T1/T2 (UBONGO)</translation>
+        <translation>Uharibifu wa Ubongo kutoka kwa picha ya T1/T2 (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
