@@ -175,12 +175,12 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="303"/>
         <source>Select positive points</source>
-        <translation>Seleccionar ejes positivos</translation>
+        <translation>Seleccionar puntos positivos</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="309"/>
         <source>Select negative points</source>
-        <translation>Seleccionar ejes negativos</translation>
+        <translation>Seleccionar puntos negativos</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="316"/>
