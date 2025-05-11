@@ -30103,7 +30103,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="268"/>
         <source>labelValue is not specified in color file in line %1. Skipping this line.</source>
-        <translation>labelValue no se ha especificado en el archivo de color en la línea %1. Se omitirá esta línea.</translation>
+        <translation>labelValue no se ha especificado en el archivo de color en la línea %1. Se omite esta línea.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="277"/>
