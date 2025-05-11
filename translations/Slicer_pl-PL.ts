@@ -71,7 +71,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolejność interpolacji wielomianowej stosowanej, jeśli dwa obrazy mają różną geometrię (początek, odstępy, kierunki osi lub zakres): 0 = najbliższy sąsiad, 1 = liniowy, 2 = kwadratowy, 3 = interpolacja sześcienna.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
