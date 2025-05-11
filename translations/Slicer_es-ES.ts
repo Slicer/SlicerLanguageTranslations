@@ -2947,7 +2947,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="40"/>
         <source>Advanced Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de Conversión Avanzados</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="41"/>
