@@ -84,7 +84,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation>DWI Temizliği (BEYİN)</translation>
+        <translation>DWI Temizliği (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation>T1 / T2 görüntüsünden Beyin Tahrifi (BEYİNLER)</translation>
+        <translation>T1 / T2 görüntüsünden Beyin Tahrifi (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
