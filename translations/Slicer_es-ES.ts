@@ -2957,7 +2957,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="42"/>
         <source>Write Protocol Gradients File</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir Archivo de Protocolo Gradientes</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="43"/>
