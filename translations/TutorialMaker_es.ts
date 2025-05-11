@@ -6,17 +6,17 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="31"/>
         <source>Annotation needs a widget reference and a valid type</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotación necesita una referencia de widget y un tipo válido</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="249"/>
         <source>Write your text here</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriba su texto aquí</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="332"/>
         <source>Write something here</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriba algo aquí</translation>
     </message>
 </context>
 <context>
@@ -45,13 +45,13 @@
         <location filename="TutorialMaker/Lib/GitTools.py" line="47"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="68"/>
         <source>Message from {endpoint}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje desde {endpoint}: {message}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="48"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="69"/>
         <source>Malformed Response from {endpoint}</source>
-        <translation type="unfinished"></translation>
+        <translation>Respuesta Malformada desde {endpoint}</translation>
     </message>
 </context>
 <context>
@@ -130,17 +130,17 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="290"/>
         <source>TutorialMaker - Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>TutorialMaker - Anotador</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="318"/>
         <source>Title for the slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Título para la diapositiva</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="323"/>
         <source>Write a description for the slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribe una descripción para la diapositiva</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="900"/>
