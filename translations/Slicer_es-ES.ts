@@ -30607,7 +30607,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1128"/>
         <source>Displacements are expected to be stored as double or float. Vector values will not be converted from LPS to RAS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los desplazamiento deben ser guardados como double o float. Los valores del vector no serán convertidos de LPS a RAS.</translation>
     </message>
 </context>
 <context>
