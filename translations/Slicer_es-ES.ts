@@ -162,7 +162,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
         <source>Source Passive Images Image</source>
-        <translation>Origen pasivo imágenes imagen</translation>
+        <translation>Origen Imágenes Pasivo de Imagen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
@@ -359,22 +359,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="11"/>
         <source>B-Spline Grid Size</source>
-        <translation>Tamaño de la cuadricula B-Spline</translation>
+        <translation>Tamaño de Cuadricula B-Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
         <source>Input fixed image (the moving image will be transformed into this image space).</source>
-        <translation>Imagen Fija de Entrada (la imagen en movimiento será transformada en este espacio de imagen).</translation>
+        <translation>Imagen de entrada fija (la imagen en movimiento será transformada en este espacio de imagen).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
         <source>Input moving image (this image will be transformed into the fixed image space).</source>
-        <translation>Imagen en movimiento de entrada (esta imagen será transformada en el espacio de imagen fija).</translation>
+        <translation>Imagen de entrada en movimiento (esta imagen será transformada en el espacio de imagen fija).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation>Fracción de vóxeles de la imagen fija que se utilizaran para el registro. El numero tiene que ser mas grande que cero y menor o igual a uno. Valores de mayor tamaño incrementan el tiempo de calculo pero pueden dar resultados más precisos. También puede limitar el enfoque de muestras con mascaras ROI y la generación de mascaras ROIAUTO. El valor por defecto es 0.002 (usa aproximadamente 0.2% de los vóxeles, resultando en 100000 muestras en un volumen de 512x512x192) para proveer un registro muy rápido en la mayoría de los casos. Rango de valores típicos de 0.01 (1%) para imágenes de bajo detalle a 0.2 (20%) para imágenes de alto detalle.</translation>
+        <translation>Fracción de vóxeles de la imagen fija que se utilizaran para el registro. El numero tiene que ser mas grande que cero y menor o igual a uno. Valores de mayor tamaño incrementan el tiempo de calculo pero pueden dar resultados más precisos. También puede limitar el enfoque de muestras con mascaras ROI y la generación de mascaras ROIAUTO. El valor por defecto es 0&apos;002 (usa aproximadamente 0&apos;2% de los vóxeles, resultando en 100.000 muestras en un volumen de 512×512×192) para proveer un registro muy rápido en la mayoría de los casos. Rango de valores típicos de 0&apos;01 (1%) para imágenes de bajo detalle a 0&apos;2 (20%) para imágenes de alto detalle.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
@@ -389,12 +389,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation>Transformación lineal de segmentación</translation>
+        <translation>Transformación Lineal de Segmentación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
         <source>Slicer BSpline Transform</source>
-        <translation>Transformación BSpline de rebanadora</translation>
+        <translation>Transformación BSpline de Segmentación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
@@ -444,7 +444,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation>Determina como iniciar el centro de transformación. usarMomentosAlinear asume que el centro de masa de las imágenes representa estructuras similares. usarCentroDeCabezaAlinear intenta utilizar la parte superior de la cabeza y la forma del cuello para realizar una estimación del centro de masa. usarGeometríaAlinear encendido asume que el centro de la red de vóxeles de las imágenes representa estructuras similares. Apagado asume que las imágenes se encuentran a una distancia física cercana . Esta bandera es mutuamente excluyente con la transformación de Inicialización.</translation>
+        <translation>Determina como iniciar el centro de transformación. useMomentsAlign asume que el centro de masa de las imágenes representa estructuras similares. useCenterOfHeadAlign intenta utilizar la parte superior de la cabeza y la forma del cuello para realizar una estimación del centro de masa. useGeometryAlign encendido asume que el centro de la red de vóxeles de las imágenes representa estructuras similares.  Apagado asume que las imágenes se encuentran a una distancia física cercana. Este indicador es mutuamente excluyente con la transformación de Inicialización.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -3489,7 +3489,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="90"/>
         <source>Variations on parameters that use index rather than flags.</source>
-        <translation>Variaciones de parámetros que utilizan índice en lugar de banderas.</translation>
+        <translation>Variaciones de parámetros que utilizan índice en lugar de indicadores.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="91"/>
@@ -5873,7 +5873,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished">Parámetros de entrada</translation>
+        <translation>Parámetros de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="9"/>
@@ -7123,7 +7123,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health</source>
-        <translation>Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud.</translation>
+        <translation>Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
@@ -7336,7 +7336,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"/>
         <source>The integer value (0-255) to use for the segmentation results. This will determine the color of the segmentation that will be generated by the Region growing algorithm</source>
-        <translation>El valor entero (0-255) a utilizar para los resultados de la segmentación. Esto determinará el color de la segmentación que será generada por el algoritmo de crecimiento de la región.</translation>
+        <translation>El valor entero (0-255) a utilizar para los resultados de la segmentación. Esto determinará el color de la segmentación que será generada por el algoritmo de crecimiento de la región</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="25"/>
@@ -7829,7 +7829,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
         <source>Determines the relative size of the thumbnails when using the visual DICOM browser</source>
-        <translation>Determina el tamaño relativo de las miniaturas cuando se utiliza el navegador visual DICOM.</translation>
+        <translation>Determina el tamaño relativo de las miniaturas cuando se utiliza el navegador visual DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
@@ -7930,7 +7930,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="868"/>
         <source>Received DICOM file: {filename}</source>
-        <translation>Archivo DICOM recibido: {nombre de fichero}</translation>
+        <translation>Archivo DICOM recibido: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
@@ -7945,7 +7945,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="948"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation>¿Está seguro de que desea eliminar todos los datos y archivos copiados en la base de datos ({contar} pacientes)?</translation>
+        <translation>¿Está seguro de que desea eliminar todos los datos y archivos copiados en la base de datos ({count} pacientes)?</translation>
     </message>
 </context>
 <context>
@@ -7953,7 +7953,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="26"/>
         <source>Enhanced US volume</source>
-        <translation>Mayor volumen en EE.UU.</translation>
+        <translation>Mayor volumen en EUA</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
@@ -8000,12 +8000,12 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="206"/>
         <source>{modality} image sequence</source>
-        <translation>{modalidad} secuencia de imágenes</translation>
+        <translation>{modality} secuencia de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="187"/>
         <source>{modality} image sequence ({count} planes)</source>
-        <translation>{modalidad} secuencia de imágenes ({contar} planos)</translation>
+        <translation>{modality} secuencia de imágenes ({count} planos)</translation>
     </message>
 </context>
 <context>
@@ -8075,12 +8075,12 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="470"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation>{cuenta_archivos_que_faltan} de {cuenta_archivos_total} archivos seleccionados listados en la base de datos no se pueden encontrar en el disco.</translation>
+        <translation>{missing_file_count} de {total_file_count} archivos seleccionados listados en la base de datos no se pueden encontrar en el disco.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="477"/>
         <source>Checking {what}</source>
-        <translation>Comprobando {qué}</translation>
+        <translation>Comprobando {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="495"/>
@@ -8095,7 +8095,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="606"/>
         <source>Loading {what}</source>
-        <translation>Cargando {qué}</translation>
+        <translation>Cargando {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="629"/>
@@ -8105,7 +8105,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="640"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation>Advertencia en el plugin DICOM {load_type} al examinar el cargable {name}: {mensaje}</translation>
+        <translation>Advertencia en el plugin DICOM {load_type} al examinar el cargable {name}: {message}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="645"/>
@@ -8348,7 +8348,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="135"/>
         <source>First volume is {imageScalarType1}, but second is {imageScalarType2}</source>
-        <translation>El primer volumen es {imageScalarType1}, pero el segundo es {imageScalarType2}.</translation>
+        <translation>El primer volumen es {imageScalarType1}, pero el segundo es {imageScalarType2}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="140"/>
@@ -8358,12 +8358,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="200"/>
         <source>{count} files, first file: {filename}</source>
-        <translation>{count} archivos, primer archivo: {nombre de fichero}</translation>
+        <translation>{count} archivos, primer archivo: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="306"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation>{contar} archivos, agrupados por {etiqueta} = {valor}. Primer fichero: {nombre de fichero}</translation>
+        <translation>{count} archivos, agrupados por {tag} = {value}. Primer fichero: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="344"/>
@@ -8388,12 +8388,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="688"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="693"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation>No se puede obtener el paciente para la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se puede obtener el paciente para la serie &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="742"/>
@@ -8486,12 +8486,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="181"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="186"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation>No se puede obtener el paciente para la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se puede obtener el paciente para la serie &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="215"/>
@@ -8555,7 +8555,7 @@ indicada por la posición del ratón.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="182"/>
         <source>{numberOfComponents} components</source>
-        <translation>{númeroDeComponentes} componentes</translation>
+        <translation>{numberOfComponents} componentes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="294"/>
@@ -8895,7 +8895,7 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="288"/>
         <source>Failed to open extension {path}.</source>
-        <translation>Error al abrir la extensión {ruta}.</translation>
+        <translation>Error al abrir la extensión {path}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="303"/>
@@ -8920,7 +8920,7 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="388"/>
         <source>The {name} module could not be registered</source>
-        <translation>No se ha podido registrar el módulo {name}.</translation>
+        <translation>No se ha podido registrar el módulo {name}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="394"/>
@@ -8983,13 +8983,13 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="65"/>
         <source>{type} name may not be empty.</source>
-        <translation>{tipo} el nombre no puede estar vacío.</translation>
+        <translation>{type} el nombre no puede estar vacío.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="66"/>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="73"/>
         <source>Cannot create {type}</source>
-        <translation>No se puede crear {tipo}</translation>
+        <translation>No se puede crear {type}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="72"/>
@@ -9254,12 +9254,13 @@ and is exclusively available for research and teaching. You are not authorized t
 use it for commercial purposes.&lt;/p&gt;
 </source>
         <translation>
-&lt;p&gt;Este trabajo fue financiado en parte por Cancer Care Ontario y el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterápica (OCAIRO).&lt;/p&gt;
+&lt;p&gt;Este trabajo fue financiado en parte por Cancer Care Ontario y
+el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterápica (OCAIRO).&lt;/p&gt;
 
 &lt;p&gt;Los conjuntos de datos MRHead, CBCT-MR Head y CT-MR Brain fueron donados al proyecto 3D Slicer por las personas visibles en las imágenes, para ser utilizados sin ninguna restricción.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Cabeza&lt;/strong&gt;, CBCT-MR Head y CT-MR Brain.&lt;/p&gt;
 
-&lt;p&gt;El conjunto de datos CTLiver procede de &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;Proyecto Decathlon Médico&lt;/a&gt; (imagesTr/liver_100.nii.gz en la colección Task03_Liver) con una licencia de derechos de autor permisiva
-(&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), lo que permite compartir, distribuir y mejorar los datos.&lt;/p&gt;
+&lt;p&gt;El conjunto de datos CTLiver procede de &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;Proyecto Decathlon Médico&lt;/a&gt; (imagesTr/liver_100.nii.gz en la colección Task03_Liver)
+con una licencia de derechos de autor permisiva (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), lo que permite compartir, distribuir y mejorar los datos.&lt;/p&gt;
 
 &lt;p&gt;El conjunto de datos CTA abdomen (Panoramix) procede de &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Biblioteca de imágenes DICOM Osirix&lt;/a&gt; y
 está disponible exclusivamente para investigación y docencia. No está autorizado a redistribuirlo o venderlo, ni a utilizarlo con fines comerciales.&lt;/p&gt;
@@ -9278,7 +9279,7 @@ está disponible exclusivamente para investigación y docencia. No está autoriz
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="275"/>
         <source>Load data from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga datos desde URL</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="277"/>
@@ -9338,7 +9339,7 @@ está disponible exclusivamente para investigación y docencia. No está autoriz
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="793"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation>Carga incorrecta (intento {current} de {total})...</translation>
+        <translation>Carga incorrecta (intento {current} de {total})…</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="930"/>
@@ -9452,7 +9453,7 @@ está disponible exclusivamente para investigación y docencia. No está autoriz
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="61"/>
         <source>Switch to Layout</source>
-        <translation>Cambiar al Diseño</translation>
+        <translation>Intercambiar al Distribución</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="66"/>
@@ -9783,7 +9784,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="306"/>
         <source>Video extra options:</source>
-        <translation>Opciones extra de vídeo:</translation>
+        <translation>Opciones adicionales de vídeo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="213"/>
@@ -10347,7 +10348,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="79"/>
         <source>Increasing this value makes the effect of seeds more localized, thereby reducing leaks, but requires seed regions to be more evenly distributed in the image. The value is specified as an additional &quot;intensity level difference&quot; per &quot;unit distance.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar este valor hace que el efecto de las semillas sea más localizado, reduciendo así las fugas, pero requiere que las regiones semilla estén distribuidas más uniformemente en la imagen. El valor se especifica como una &quot;diferencia de nivel de intensidad&quot; adicional por &quot;unidad de distancia.&quot;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="80"/>
@@ -10395,7 +10396,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="60"/>
         <source>Closest achievable thickness. Constrained by the segmentation&apos;s binary labelmap representation spacing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Espesor más próximo alcanzable. Restringido por el espaciado de representación del mapa de etiquetas binario de la segmentación.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="64"/>
@@ -10454,17 +10455,18 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="40"/>
         <source>Edit islands (connected components) in a segment&lt;br&gt;. To get more information
 about each operation, hover the mouse over the option and wait for the tooltip to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar islas (componentes conectados) en un segmento&lt;br&gt;. Para obtener más información
+sobre cada operación, pase el ratón por encima de la opción y espere a que aparezca la información sobre herramientas.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="43"/>
         <source>Keep largest island</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantener la isla más grande</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="45"/>
         <source>Keep only the largest island in selected segment, remove all other islands in the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantenga sólo la isla más grande del segmento seleccionado, elimine todas las demás islas del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="49"/>
@@ -10509,22 +10511,22 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="73"/>
         <source>Split islands to segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir islas en segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="76"/>
         <source>Create a new segment for each island of selected segment. Islands smaller than minimum size will be removed. Segments will be ordered by island size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cree un nuevo segmento para cada isla del segmento seleccionado. Se eliminarán las islas de tamaño inferior al mínimo. Los segmentos se ordenarán por tamaño de isla.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="92"/>
         <source>Islands consisting of less voxels than this minimum size, will be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se eliminarán las islas que tengan menos vóxeles que este tamaño mínimo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="97"/>
         <source> voxels</source>
-        <translation type="unfinished"></translation>
+        <translation> voxeles</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="97"/>
@@ -10534,7 +10536,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="99"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="399"/>
@@ -10587,7 +10589,19 @@ about each operation, hover the mouse over the option and wait for the tooltip t
 &lt;b&gt;Selected segment:&lt;/b&gt; segment selected in the segment list - above. &lt;b&gt;Modifier segment:&lt;/b&gt; segment chosen in
 segment list in effect options - below.
 &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplica operadores lógicos o combina segmentos&lt;/br&gt;. Operaciones disponibles:&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Copy:&lt;/b&gt; replace the selected segment by the modifier segment.
+&lt;li&gt;&lt;b&gt;Add:&lt;/b&gt; add modifier segment to current segment.
+&lt;li&gt;&lt;b&gt;Subtract:&lt;/b&gt; subtract region of modifier segment from the selected segment.
+&lt;li&gt;&lt;b&gt;Intersect:&lt;/b&gt; only keeps those regions in the select segment that are common with the modifier segment.
+&lt;li&gt;&lt;b&gt;Invert:&lt;/b&gt; inverts selected segment.
+&lt;li&gt;&lt;b&gt;Clear:&lt;/b&gt; clears selected segment.
+&lt;li&gt;&lt;b&gt;Fill:&lt;/b&gt; completely fills selected segment.
+&lt;/ul&gt;&lt;p&gt;
+&lt;b&gt;Selected segment:&lt;/b&gt; segment selected in the segment list - above. &lt;b&gt;Modifier segment:&lt;/b&gt; segment chosen in
+segment list in effect options - below.
+&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="52"/>
@@ -10602,7 +10616,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="54"/>
         <source>Subtract</source>
-        <translation>Restar</translation>
+        <translation>Sustraer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="55"/>
@@ -19712,7 +19726,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
         <source>Delete currently selected color</source>
-        <translation>Eliminar color seleccionado actualmente</translation>
+        <translation>Borrar color seleccionado actualmente</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
