@@ -414,7 +414,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation>(opcional) Imagen de salida: la imagen en movimiento se deforma al espacio de imagen fijo. NOTA: Debe configurar al menos un objeto de salida (transformación y/o volumen de salida).</translation>
+        <translation>(opcional) Imagen de salida: la imagen en movimiento deformada al espacio de imagen fijo. NOTA: Debe configurar al menos un objeto de salida (transformación y/o volumen de salida).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
@@ -585,7 +585,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
         <source>Define BSpline grid over the ROI bounding box</source>
-        <translation>Definir la red BSpline sobre la caja límite del ROI</translation>
+        <translation>Definir la cuadrícula BSpline sobre la caja acotada del ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
@@ -630,7 +630,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
         <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
-        <translation>Si está habilitado, la caja delimitadora de las ROIs de entrada define la región de soporte de la cuadrícula BSpline. De lo contrario, la región de soporte de la cuadrícula BSpline es toda la imagen fija.</translation>
+        <translation>Si está habilitado, la caja acotada de las ROI de entrada define la región de soporte de la cuadrícula BSpline. De lo contrario, la región de soporte de la cuadrícula BSpline es toda la imagen fija.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
@@ -661,7 +661,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
@@ -798,7 +798,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"/>
         <source>Welch</source>
-        <translation type="unfinished">Welch</translation>
+        <translation>Welch</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="103"/>
@@ -965,7 +965,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
         <source>Pass warped moving image to BSpline registration filter</source>
-        <translation>Pase la imagen móvil deformada al filtro de registro BSpline</translation>
+        <translation>Pasa imagen en movimiento deformada al filtro de registro BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
@@ -1193,7 +1193,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
@@ -1238,7 +1238,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
         <source>The inputVolume with optional [maskOutput|cropOutput] to the region of the brain mask.</source>
-        <translation type="unfinished">El inputVolume con opción [maskOutput|cropOutput] para la región de la máscara cerebral.</translation>
+        <translation>El inputVolume con opción [maskOutput|cropOutput] para la región de la máscara cerebral.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="18"/>
@@ -1319,12 +1319,12 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="35"/>
         <source>short</source>
-        <translation>corto</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
@@ -1334,7 +1334,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
@@ -1344,7 +1344,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
         <source>uchar</source>
-        <translation>álamos</translation>
+        <translation>uchar</translation>
     </message>
 </context>
 <context>
@@ -1352,7 +1352,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="4"/>
         <source>Resample Image (BRAINS)</source>
-        <translation>Reescalar imagen (BRAINS)</translation>
+        <translation>Remuestra de imagen (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="5"/>
@@ -1360,7 +1360,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </source>
         <translation>
-    Este programa reúne tres tareas comunes de procesamiento de imágenes que implican el reescalado de un volumen de imagen: reescalar a una nueva resolución y espaciado, aplicar una transformación (utilizando mecanismos de transformación ITK IO) y deformar (utilizando un campo de deformación de imagen vectorial).
+    Este programa reúne tres tareas comunes de procesamiento de imágenes que implican remuestreo de un volumen de imagen: remuestreo a una resolución y espaciado nuevo, aplicar una transformación (utilizando mecanismos de transformación ITK E/S) y deformar (utilizando un campo de deformación de imagen vectorial).
   </translation>
     </message>
     <message>
@@ -1428,22 +1428,22 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="20"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
         <source>short</source>
-        <translation>corto</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation>mina</translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
@@ -1453,27 +1453,27 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
         <source>uchar</source>
-        <translation>álamos</translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
         <source>binary</source>
-        <translation>binario</translation>
+        <translation>binary</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
         <source>input</source>
-        <translation>aporte</translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="28"/>
         <source>Warping Parameters</source>
-        <translation>Parámetros de deformación</translation>
+        <translation>Parámetros de Deformación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="29"/>
         <source>Parameters used to define home the image is warped</source>
-        <translation>Parámetros utilizados para definir el hogar La imagen está deformada</translation>
+        <translation>Parámetros utilizados para definir el inicio la imagen está deformada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="30"/>
@@ -1493,7 +1493,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
         <source>Compute inverse transform of given transformation?</source>
-        <translation>Calcular la transformación inversa de la transformación dada?</translation>
+        <translation>¿Calcular la transformación inversa de la transformación dada?</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="34"/>
@@ -1513,12 +1513,12 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
-        <translation>Tipo de interpolación que se utilizará al aplicar la transformación al volumen móvil.  Las opciones son lineales, resampleinplace, más cerca</translation>
+        <translation>Tipo de interpolación que se utilizará al aplicar la transformación al volumen móvil.  Las opciones son Linear, ResampleInPlace, NearestNeighbor, BSpline, o WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
         <source>True/False is to compute inverse of given transformation. Default is false</source>
-        <translation>Verdadero/Falso es calcular el inverso de la transformación dada. El valor predeterminado es falso</translation>
+        <translation>Cierto/Falso es calcular el inverso de la transformación dada. El valor predeterminado es falso</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="39"/>
@@ -1529,32 +1529,32 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="40"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="42"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
         <source>NearestNeighbor</source>
-        <translation>Neigho más cercano</translation>
+        <translation>NearestNeighbor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
         <source>ResampleInPlace</source>
-        <translation>Reamparar</translation>
+        <translation>ResampleInPlace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"/>
         <source>BSpline</source>
-        <translation>Bspline</translation>
+        <translation>BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="45"/>
         <source>WindowedSinc</source>
-        <translation>Windowedsinc</translation>
+        <translation>WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="46"/>
         <source>Hamming</source>
-        <translation>Hamming</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"/>
@@ -1574,7 +1574,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="50"/>
         <source>Blackman</source>
-        <translation>Negro</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"/>
@@ -1594,12 +1594,12 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
         <source>Multiprocessing Control</source>
-        <translation>Control de multiprocesamiento</translation>
+        <translation>Control de multi-procesamiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="55"/>
         <source>Number Of Threads</source>
-        <translation>Número de hilos</translation>
+        <translation>Número de Hilos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"/>
@@ -1612,7 +1612,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="4"/>
         <source>Resize Image (BRAINS)</source>
-        <translation>Reloz Imagen (cerebro)</translation>
+        <translation>Redim. Imagen (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="5"/>
@@ -1626,7 +1626,7 @@ Este programa es útil para la reducción de una imagen por un factor de escala 
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation>El desarrollo de esta herramienta fue apoyado por la financiación de las subvenciones NS050568 y NS40068 del Instituto Nacional de Trastornos Neurológicos y Accidentes cerebrovasculares y Subvenciones MH31593, MH40856, del Instituto Nacional de Salud Mental.  </translation>
+        <translation>El desarrollo de esta herramienta fue apoyado por la financiación de las subvenciones NS050568 y NS40068 del Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares y Subvenciones MH31593, MH40856, del Instituto Nacional de Salud Mental.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
@@ -1641,7 +1641,7 @@ Este programa es útil para la reducción de una imagen por un factor de escala 
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
         <source>Image To Warp</source>
-        <translation>Imagen a Warp</translation>
+        <translation>Imagen a Deformar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"/>
@@ -1651,7 +1651,7 @@ Este programa es útil para la reducción de una imagen por un factor de escala 
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"/>
         <source>Outputs</source>
-        <translation type="unfinished">Salidas</translation>
+        <translation>Salidas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"/>
@@ -1671,23 +1671,23 @@ Este programa es útil para la reducción de una imagen por un factor de escala 
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="15"/>
         <source>Resulting scaled image</source>
-        <translation>Imagen Escalada Resultante</translation>
+        <translation>Resultado de imagen de escalada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"/>
         <source>Specifies the pixel type for the input/output images.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation>Especifica el tipo de píxel para las imágenes de entrada/salida. El tipo de píxel &quot;binario&quot; utiliza un algoritmo modificado en el que la imagen se lee como unsigned char, se crea un mapa de distancia con signo, se remuestra el mapa de distancia con signo y luego se escribe en disco una imagen umbralizada de tipo unsigned char.</translation>
+        <translation>Especifica el tipo de píxel para las imágenes de entrada/salida.  El tipo de píxel &quot;binario&quot; utiliza un algoritmo modificado en el que la imagen se lee como unsigned char, se crea un mapa de distancia con signo, se remuestra el mapa de distancia con signo y luego se escribe en disco una imagen con umbral de tipo unsigned char.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
@@ -1697,7 +1697,7 @@ Este programa es útil para la reducción de una imagen por un factor de escala 
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="22"/>
@@ -1707,7 +1707,7 @@ Este programa es útil para la reducción de una imagen por un factor de escala 
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"/>
         <source>uchar</source>
-        <translation type="unfinished">uchar</translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="24"/>
@@ -1756,7 +1756,7 @@ Este programa es útil para la reducción de una imagen por un factor de escala 
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"/>
         <source>Image To Warp</source>
-        <translation>Imagen para deformarse</translation>
+        <translation>Imagen a Deformar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
@@ -5286,7 +5286,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="18"/>
         <source>BSpline grid resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolución de cuadrícula BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="19"/>
@@ -5301,12 +5301,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"/>
         <source>Resolution of the initial bspline grid defined as a sequence of three numbers. The actual resolution will be defined by adding the bspline order (default is 3) to the resolution in each dimension specified here. For example, 1,1,1 will result in a 4x4x4 grid of control points. This parameter may need to be adjusted based on your input image. In the multi-resolution N4 framework, the resolution of the bspline grid at subsequent iterations will be doubled. The number of resolutions is implicitly defined by Number of iterations parameter (the size of this list is the number of resolutions)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resolución de la cuadrícula bspline inicial definida como una secuencia de tres números. La resolución actual será definida agregando el orden bspline (predet. es 3) para la resolución en cada dimensión especificada aquí.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"/>
         <source>An alternative means to define the spline grid, by setting the distance between the control points. This parameter is used only if the grid resolution is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una alternativa significa definir la cuadrícula spline, finando la distancia entre los puntos de control. Este parámetro es utilizado solo si la resolución de cuadrícula no está especificada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="23"/>
@@ -5893,7 +5893,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"/>
         <source>Input transform that is use to warp moving image before metric comparison.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de entrada que es utilizada para deformar moviendo imagen antes de comparación métrica.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"/>
@@ -6021,7 +6021,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">no coordenadas de pixel/cuadrícula</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
@@ -6550,7 +6550,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation>Este módulo implementa el remuestreo de imágenes y de imágenes vectoriales mediante el uso de transformaciones itk. También puede manejar el remuestreo de imágenes de resonancia magnética ponderada por difusión. El &quot;remuestreo&quot; se realiza en coordenadas espaciales, no en coordenadas de píxel/rejilla. Es muy importante asegurarse de que el espaciado de la imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeo de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones no cuadriculadas.
+        <translation type="unfinished">Este módulo implementa el remuestreo de imágenes y de imágenes vectoriales mediante el uso de transformaciones itk. También puede manejar el remuestreo de imágenes de resonancia magnética ponderada por difusión. El &quot;remuestreo&quot; se realiza en coordenadas espaciales, no en coordenadas de píxel/cuadrícula. Es muy importante asegurarse de que el espaciado de la imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeo de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones no cuadriculadas.
 
 Advertencia: Para remuestrear imágenes DWMR, utilice archivos de entrada y salida nrrd.
 
@@ -8302,7 +8302,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
-        <translation>Permite añadir una transformación no lineal para regularizar las imágenes adquiridas con una geometría irregular: rejilla no rectilínea (como las adquisiciones de TC con pórtico inclinado) y espaciado de cortes no uniforme. Si no se aplica ninguna regularización, la imagen puede aparecer distorsionada si se ha adquirido con una geometría irregular.</translation>
+        <translation>Permite añadir una transformación no lineal para regularizar las imágenes adquiridas con una geometría irregular: cuadrícula no rectilínea (como las adquisiciones de TC con pórtico inclinado) y espaciado de cortes no uniforme. Si no se aplica ninguna regularización, la imagen puede aparecer distorsionada si se ha adquirido con una geometría irregular.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
@@ -9191,7 +9191,7 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="142"/>
         <source>Syntax error in line {line}</source>
-        <translation>Error de sintaxis en la línea {línea}</translation>
+        <translation>Error de sintaxis en la línea {line}</translation>
     </message>
 </context>
 <context>
@@ -9209,17 +9209,17 @@ Puede guardar la posición de la cámara en cualquier punto haciendo clic en &qu
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="50"/>
         <source>Create new </source>
-        <translation>Crear nuevo. </translation>
+        <translation>Crear nuevo </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="51"/>
         <source> as...</source>
-        <translation type="unfinished"> as...</translation>
+        <translation> como…</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="52"/>
         <source>Rename </source>
-        <translation>Cambie el nombre de </translation>
+        <translation>Renombra </translation>
     </message>
 </context>
 <context>
@@ -9254,17 +9254,14 @@ and is exclusively available for research and teaching. You are not authorized t
 use it for commercial purposes.&lt;/p&gt;
 </source>
         <translation>
-&lt;p&gt;Este trabajo fue financiado en parte por Cancer Care Ontario
-y el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterápica (OCAIRO)&lt;/p&gt; &lt;p&gt;.
+&lt;p&gt;Este trabajo fue financiado en parte por Cancer Care Ontario y el Consorcio de Ontario para Intervenciones Adaptativas en Oncología Radioterápica (OCAIRO).&lt;/p&gt;
 
-&lt;p&gt;Los conjuntos de datos MRHead, CBCT-MR Head y CT-MR Brain fueron donados al proyecto 3D Slicer por las personas visibles en las imágenes, para ser utilizados sin ninguna restricción.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Cabeza&lt;/strong&gt;, CBCT-MR Head y CT-MR Brain.
+&lt;p&gt;Los conjuntos de datos MRHead, CBCT-MR Head y CT-MR Brain fueron donados al proyecto 3D Slicer por las personas visibles en las imágenes, para ser utilizados sin ninguna restricción.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Cabeza&lt;/strong&gt;, CBCT-MR Head y CT-MR Brain.&lt;/p&gt;
 
-&lt;p&gt;El conjunto de datos CTLiver procede de &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;Proyecto Decathlon Médico&lt;/a&gt; (imagesTr/liver_100.nii.gz en la colección Task03_Liver)
-con una licencia de derechos de autor permisiva (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), lo que permite compartir, distribuir y mejorar los datos.&lt;/p&gt; &lt;p&gt;
+&lt;p&gt;El conjunto de datos CTLiver procede de &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;Proyecto Decathlon Médico&lt;/a&gt; (imagesTr/liver_100.nii.gz en la colección Task03_Liver) con una licencia de derechos de autor permisiva
+(&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), lo que permite compartir, distribuir y mejorar los datos.&lt;/p&gt;
 
-&lt;p&gt;El conjunto de datos CTA abdomen (Panoramix) procede de &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Biblioteca de imágenes DICOM Osirix&lt;/a&gt;
-y está disponible exclusivamente para investigación y docencia. No está autorizado a redistribuirlo o venderlo, ni a
-utilizarlo con fines comerciales.&lt;/p&gt; &lt;p&gt;
+&lt;p&gt;El conjunto de datos CTA abdomen (Panoramix) procede de &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Biblioteca de imágenes DICOM Osirix&lt;/a&gt; y está disponible exclusivamente para investigación y docencia. No está autorizado a redistribuirlo o venderlo, ni a utilizarlo con fines comerciales.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -9285,22 +9282,22 @@ utilizarlo con fines comerciales.&lt;/p&gt; &lt;p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="277"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="281"/>
         <source>Load</source>
-        <translation type="unfinished">Carga</translation>
+        <translation>Carga</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="283"/>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga el conjunto de datos desde el URL dada e impórtela en la escena</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="285"/>
         <source>Show folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar carpeta</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="286"/>
@@ -9320,37 +9317,37 @@ utilizarlo con fines comerciales.&lt;/p&gt; &lt;p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="666"/>
         <source>Failed to create cache folder {path}</source>
-        <translation>No se ha podido crear la carpeta de caché {ruta}.</translation>
+        <translation>No se ha podido crear la carpeta de caché {path}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="668"/>
         <source>Cache folder {path} is not writable</source>
-        <translation>La carpeta de caché {ruta} no tiene permisos de escritura</translation>
+        <translation>La carpeta de caché {path} no tiene permisos de escritura</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="735"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation>Descarga fallida (intento {actual} de {total})...</translation>
+        <translation>Descarga fallida (intento {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="789"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation>Carga fallida (intento {actual} de {total}). Imposible borrar e intentar de nuevo cargar {ruta}.</translation>
+        <translation>Carga fallida (intento {current} de {total}). Imposible borrar e intentar de nuevo cargar {path}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="793"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation>Carga fallida (intento {actual} de {total})...</translation>
+        <translation>Carga fallida (intento {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="930"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation>Descargado {tamañoTerminado} ({porcentajeTerminado}% de {tamañoTotal})...</translation>
+        <translation>Descargado {sizeCompleted} ({percentCompleted}% de {sizeTotal})…</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="947"/>
         <source>Requesting download {name} from {uri} ...</source>
-        <translation>Solicitando descarga {name} desde {uri} ...</translation>
+        <translation>Solicitando descarga {name} desde {uri}…</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="950"/>
@@ -9391,22 +9388,22 @@ utilizarlo con fines comerciales.&lt;/p&gt; &lt;p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="976"/>
         <source>File already exists and checksum is OK - reusing it.</source>
-        <translation>El fichero ya existe y la suma de comprobación es correcta - reutilizándolo.</translation>
+        <translation>El archivo ya existe y la suma de comprobación es correcta; reutilizándolo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="979"/>
         <source>File already exists in cache - reusing it.</source>
-        <translation>El archivo ya existe en la caché - reutilizándolo.</translation>
+        <translation>El archivo ya existe en la caché; reutilizándolo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1004"/>
         <source>Load failed!</source>
-        <translation>Carga fallida.</translation>
+        <translation>Carga incorrecta.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1008"/>
         <source>Error was reported while loading {count} nodes from {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error fue informado mientras cargaba {count} nodos desde {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1011"/>
@@ -9424,7 +9421,7 @@ utilizarlo con fines comerciales.&lt;/p&gt; &lt;p&gt;
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="20"/>
         <source>Scene Performance</source>
-        <translation>Rendimiento de la escena</translation>
+        <translation>Rendimiento de Escena</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="26"/>
@@ -9449,7 +9446,7 @@ utilizarlo con fines comerciales.&lt;/p&gt; &lt;p&gt;
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="56"/>
         <source>Close Scene</source>
-        <translation>Cerrar escena</translation>
+        <translation>Cerrar Escena</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="61"/>
@@ -9574,17 +9571,17 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="124"/>
         <source>Rotation range:</source>
-        <translation>Rango de rotación:</translation>
+        <translation>Intervalo de rotación:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="131"/>
         <source>View rotation range, relative to current view orientation.</source>
-        <translation>Rango de rotación de la vista, relativo a la orientación actual de la vista.</translation>
+        <translation>Intervalo de rotación de la vista, relativo a la orientación actual de la vista.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="135"/>
         <source>Rotation axis:</source>
-        <translation>Eje de Rotación:</translation>
+        <translation>Eje de rotación:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
@@ -9725,7 +9722,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="90"/>
         <source>This slice or 3D view will be updated during capture.Only this view will be captured unless &apos;Capture all views&apos; option is enabled.</source>
-        <translation>Sólo se capturará esta vista a menos que la opción &quot;Capturar todas las vistas&quot; esté activada.</translation>
+        <translation>Esta ranura o visor 3D será actualizado durante la captura.Sólo se capturará esta vista a menos que la opción &apos;Capturar todas las vistas&apos; esté activada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="100"/>
@@ -9900,7 +9897,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="413"/>
         <source>Capture</source>
-        <translation>Capture</translation>
+        <translation>Capturar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="414"/>
@@ -9970,7 +9967,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1323"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1367"/>
         <source>Write {filename}</source>
-        <translation>Escribir {nombre de archivo}</translation>
+        <translation>Escribir {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="730"/>
@@ -9981,7 +9978,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="766"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="773"/>
         <source>Copy to {filename}</source>
-        <translation>Copiar a {nombre de archivo}</translation>
+        <translation>Copiar a {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="791"/>
@@ -10038,7 +10035,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1143"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1152"/>
         <source>Unsupported image format based on file name {filename}</source>
-        <translation>Formato de imagen no compatible basado en el nombre de archivo {filename}.</translation>
+        <translation>Formato de imagen no compatible basado en el nombre de archivo {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1201"/>
@@ -10050,13 +10047,13 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1213"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1223"/>
         <source>Selected 3D view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista 3D seleccionada no es visible en la distribución actual.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1234"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1264"/>
         <source>Selected slice view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista rodaja seleccionada no es visible en la distribución actual.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1256"/>
@@ -10064,53 +10061,53 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1347"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1374"/>
         <source>User requested cancel.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuario ha solicitado cancelar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1377"/>
         <source>Export to lightbox image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar a imagen lightbox…</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1420"/>
         <source>Lightbox image saved to file: {filename}</source>
         <oldsource>Lighbox image saved to file: {filename}</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Imagen lightbox guardada al archivo: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1423"/>
         <source>Export to video...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar a vídeo…</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1430"/>
         <source>Video creation failed: ffmpeg executable path is not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Creación de vídeo incorrecta: no está definida la ruta de ffmpeg ejecutable</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1432"/>
         <source>Video creation failed: ffmpeg executable path is invalid: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Creación de vídeo incorrecta: ruta ejecutable de ffmpeg no es válida: {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1445"/>
         <source>Start ffmpeg:</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar ffmpeg:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1452"/>
         <source>ffmpeg error output: {error}</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg errónea con salida: {error}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1453"/>
         <source>ffmpeg returned with error</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg devolvió con un error</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1455"/>
         <source>Video export succeeded to file: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportación de vídeo correcta al archivo: {path}</translation>
     </message>
 </context>
 <context>
@@ -10119,7 +10116,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="15"/>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="118"/>
         <source>Segment Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor de Segmento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="23"/>
@@ -10136,7 +10133,7 @@ so for example the closed surface can be visualized as edited in the 3D view.
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished">
+        <translation>
 Este trabajo forma parte del proyecto SparKit, financiado por el programa ACRU de Cancer Care Ontario (CCO)
 y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </translation>
@@ -10144,7 +10141,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="118"/>
         <source>Segment Editor is not compatible with slice viewers in light box mode.Views are being reset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor de Segmento no es compatible con visores de rodaja en modo caja clara. Vistas están siendo restauradas.</translation>
     </message>
 </context>
 <context>
@@ -10152,33 +10149,33 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="102"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-actualizar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="103"/>
         <source>Auto-update results preview when input segments change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultados de auto-actualizar vista previa cuando segmentos de entrada cambia.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="107"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="270"/>
         <source>Initialize</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="109"/>
         <source>Preview complete segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de vista previa completa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="119"/>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="122"/>
         <source>Adjust visibility of results preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajusta visibilidad de resultados de vista previa.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="130"/>
@@ -10188,73 +10185,73 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="131"/>
         <source>Preview results in 3D.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultados de vista previa en 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="135"/>
         <source>inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>entradas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="137"/>
         <source>results</source>
-        <translation type="unfinished"></translation>
+        <translation>resultados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="139"/>
         <source>Display:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantalla:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="141"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="143"/>
         <source>Clear preview and cancel auto-complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Purga vista previa y cancela auto-completado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="145"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="147"/>
         <source>Replace segments by previewed result</source>
-        <translation type="unfinished"></translation>
+        <translation>Sustituye segmentos por resultado de vista previa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="186"/>
         <source>Segmentation operation is cancelled because an input segment was deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operación de segmentación está cancelada porque un segmento de entrada fue borrado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="264"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="295"/>
         <source>Running {effectName} auto-complete...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutando {effectName} auto-completado…</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="297"/>
         <source>Segmentation operation failed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Operación de segmentación incorrecta:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="459"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="471"/>
         <source>Minimum {minimumNumberOfSegments} visible segments are required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se requieren {minimumNumberOfSegments} de segmentos mínimos visibles.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="464"/>
         <source>Minimum {minimumNumberOfSegments} visible segments (or specification of editable area or intensity range) is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se requieren {minimumNumberOfSegments} segmentos mínimos visibles (o especificación de área editable o intervalo de intensidad).</translation>
     </message>
 </context>
 <context>
@@ -10262,7 +10259,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorDrawEffect.py" line="21"/>
         <source>Draw</source>
-        <translation type="unfinished">Dibujar</translation>
+        <translation>Dibujar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorDrawEffect.py" line="46"/>
@@ -10273,7 +10270,13 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
 &lt;li&gt;&lt;b&gt;x:&lt;/b&gt; delete last point.
 &lt;li&gt;&lt;b&gt;Double-left-click&lt;/b&gt; or &lt;b&gt;right-click&lt;/b&gt; or &lt;b&gt;a&lt;/b&gt; or &lt;b&gt;enter&lt;/b&gt;: apply outline.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Dibuja segmento fuera de sus visores de ranura&lt;br&gt;.
+&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;Pulsar izq:&lt;/b&gt; añade punto.
+&lt;li&gt;&lt;b&gt;Botón izq arrastrar-y-soltar:&lt;/b&gt; añade múltiples puntos.
+&lt;li&gt;&lt;b&gt;x:&lt;/b&gt; borra último punto.
+&lt;li&gt;&lt;b&gt;Pulsación doble izq&lt;/b&gt; o &lt;b&gt;pulsación secundaria&lt;/b&gt; o &lt;b&gt;A&lt;/b&gt; o &lt;b&gt;Intro&lt;/b&gt;: aplica salida.
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -10281,7 +10284,7 @@ y el Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorFillBetweenSlicesEffect.py" line="22"/>
         <source>Fill between slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellenar entre ranuras</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorFillBetweenSlicesEffect.py" line="48"/>
@@ -10304,7 +10307,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="24"/>
         <source>Grow from seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Crece desde semillas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="60"/>
@@ -10348,7 +10351,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="80"/>
         <source>Seed locality:</source>
-        <translation type="unfinished"></translation>
+        <translation>Semilla localmente:</translation>
     </message>
 </context>
 <context>
@@ -10356,37 +10359,37 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="20"/>
         <source>Hollow</source>
-        <translation type="unfinished"></translation>
+        <translation>Hueco</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="38"/>
         <source>Make the selected segment hollow by replacing the segment with a uniform-thickness shell defined by the segment boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hace el hueco del segmento seleccionado remplazando el segmento con un escudo grueso-uniforme definido por el lindero del segmento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="41"/>
         <source>inside surface</source>
-        <translation type="unfinished"></translation>
+        <translation>interno a superficie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="42"/>
         <source>medial surface</source>
-        <translation type="unfinished"></translation>
+        <translation>superficie medial</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="43"/>
         <source>outside surface</source>
-        <translation type="unfinished"></translation>
+        <translation>externo a superficie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="49"/>
         <source>Use current segment as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Un segmento actual como:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="53"/>
         <source>Thickness of the hollow shell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Espesor de la cáscara hueca.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="60"/>
@@ -10396,7 +10399,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="64"/>
         <source>Shell thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Grosor del caparazón:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="69"/>
@@ -10411,7 +10414,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="74"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="76"/>
@@ -10426,17 +10429,17 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="134"/>
         <source>Actual:</source>
-        <translation type="unfinished"></translation>
+        <translation>Actual:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="139"/>
         <source>Empty segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento vacío</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="251"/>
         <source>Processing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesando {segmentName}…</translation>
     </message>
 </context>
 <context>
@@ -10444,7 +10447,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="20"/>
         <source>Islands</source>
-        <translation type="unfinished"></translation>
+        <translation>Islas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="40"/>
@@ -10465,42 +10468,42 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="49"/>
         <source>Keep selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantener isla seleccionada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="51"/>
         <source>Click on an island in a slice view to keep that island and remove all other islands in selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulsar en una isla en una vista ranura para conservar esa isla y eliminar todas las otras islas en el segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="55"/>
         <source>Remove small islands</source>
-        <translation type="unfinished"></translation>
+        <translation>Retirar islas pequeñas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="57"/>
         <source>Remove all islands from the selected segment that are smaller than the specified minimum size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Retira todas las islas desde el segmento seleccionado que son más pequeñas que el tamaño mínimo especificado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="61"/>
         <source>Remove selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Retirar isla seleccionada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="63"/>
         <source>Click on an island in a slice view to remove it from selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse sobre una isla dentro de una vista ranura para quitarla desde el segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="67"/>
         <source>Add selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir isla seleccionada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="69"/>
         <source>Click on a region in a slice view to add it to selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse sobre una región dentro de una vista de ranura para añadirlo al segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="73"/>
@@ -10525,7 +10528,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="97"/>
         <source>Minimum size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño mínimo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="99"/>
@@ -10566,7 +10569,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="19"/>
         <source>Logical operators</source>
-        <translation type="unfinished"></translation>
+        <translation>Operadores lógicos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="50"/>
@@ -10593,7 +10596,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="53"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="54"/>
@@ -10603,7 +10606,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="55"/>
         <source>Intersect</source>
-        <translation type="unfinished"></translation>
+        <translation>Interseccionar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="56"/>
@@ -10613,32 +10616,32 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
         <source>Clear</source>
-        <translation type="unfinished">Claro</translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="58"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Relleno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="59"/>
         <source>Click &lt;dfn&gt;Show details&lt;/dfn&gt; link above for description of operations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse enlace &lt;dfn&gt;Mostrar detalles&lt;/dfn&gt; arriba para descripción de operaciones.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="61"/>
         <source>Bypass masking</source>
-        <translation type="unfinished"></translation>
+        <translation>Enmascaramiento de derivación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="62"/>
         <source>Ignore all masking options and only modify the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora todas las opciones de enmascaramiento y sólo modifica el segmento seleccionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="65"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="72"/>
@@ -12999,7 +13002,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
         <source>Slice Intersections &amp;Thickness:</source>
-        <translation>Intersecciones y grosor de cortes</translation>
+        <translation>&amp;Espesor de Intersecciones de rebanada:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
@@ -13576,7 +13579,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="209"/>
         <source>Visibility:</source>
-        <translation>Visibilidad</translation>
+        <translation>Visibilidad:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="242"/>
@@ -14342,7 +14345,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="329"/>
         <source>Grid visibility:</source>
         <oldsource>Grid visible:</oldsource>
-        <translation type="unfinished">Grid visible:</translation>
+        <translation>Visibilidad de cuadrícula:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="336"/>
@@ -14612,12 +14615,12 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="183"/>
         <source>Grid</source>
-        <translation>Rejilla</translation>
+        <translation>Cuadrícula</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="186"/>
         <source>Show grid</source>
-        <translation>Mostrar regilla</translation>
+        <translation>Mostrar cuadrícula</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="194"/>
@@ -14931,7 +14934,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="62"/>
         <source>Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</source>
-        <translation type="unfinished">Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</translation>
+        <translation>Especifica geometría (cuadrícula origen, espaciado, direcciones de eje, y extensión predet.) de la representación labelmap editada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="65"/>
@@ -17906,12 +17909,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="169"/>
         <source>Visualize transform using a warped grid</source>
-        <translation type="unfinished">Visualize transform using a warped grid</translation>
+        <translation>Visualiza transformada utilizando una cuadrícula transformada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="172"/>
         <source>Grid</source>
-        <translation type="unfinished">Grid</translation>
+        <translation>Cuadrícula</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="210"/>
@@ -18140,41 +18143,41 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="725"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="741"/>
         <source>Distance between the gridlines</source>
-        <translation type="unfinished">Distance between the gridlines</translation>
+        <translation>Distancia entre las líneas de cuadrícula</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="772"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="788"/>
         <source>Percentage of displacement applied to the gridpoints. 100% means that the grid is deformed with the actual displacement.</source>
-        <translation type="unfinished">Percentage of displacement applied to the gridpoints. 100% means that the grid is deformed with the actual displacement.</translation>
+        <translation>Porcentaje de desplazamiento aplicado a los puntos de cuadrícula. 100% significa que la cuadrícula está deformada con el desplazamiento actual.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="813"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="823"/>
         <source>Thickness of the gridlines in the 3D view</source>
-        <translation type="unfinished">Thickness of the gridlines in the 3D view</translation>
+        <translation>Grosor de las líneas de cuadrícula en la vista 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="816"/>
         <source>3D gridline diameter:</source>
-        <translation type="unfinished">3D gridline diameter:</translation>
+        <translation>Diámetro de línea de cuadrícula 3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="854"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="864"/>
         <source>Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</source>
-        <translation type="unfinished">Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</translation>
+        <translation>Distancia entre puntos de muestra a lo largo de las líneas cuadrícula. Resultado de valor inferiores en líneas de cuadrícula que siguen más de cerca que el desplazamiento actual de vectores, pero requiere más tiempo de cálculo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="895"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="905"/>
         <source>Show non-warped grid in the slice view</source>
-        <translation type="unfinished">Show non-warped grid in the slice view</translation>
+        <translation>Muestra cuadrícula no transformada en la vista slice</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="898"/>
         <source>Show original grid:</source>
-        <translation type="unfinished">Show original grid:</translation>
+        <translation>Muestra la cuadrícula original:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="927"/>
@@ -21321,9 +21324,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished">
-
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+        <translation>Pulse Aceptar para esperarlos a completar, o elija Descartar para cerrar ahora el Gestor de Extensiones.</translation>
     </message>
 </context>
 <context>
@@ -21608,7 +21609,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished">Select a reader to use for your data?</translation>
+        <translation>Seleccione un lector para utilizar para sus datos:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
@@ -22260,7 +22261,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="968"/>
         <source>Compare Grid</source>
-        <translation type="unfinished">Compare Grid</translation>
+        <translation>Comparar Cuadrícula</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="977"/>
@@ -30123,12 +30124,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="350"/>
         <source>Failed to parse color values (&apos;%1&apos;, &apos;%2&apos;, &apos;%3&apos;, &apos;%4&apos;) in line %5</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorrecto al interpretar valores de color (&apos;%1&apos;, &apos;%2&apos;, &apos;%3&apos;, &apos;%4&apos;) en línea %5</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="360"/>
         <source>Unable to set color &apos;%1&apos; with name &apos;%2&apos;, breaking the loop over &apos;%3&apos; lines in the file %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>No es capaz de establecer color &apos;%1&apos; con nombre &apos;%2&apos;, interrumpiendo el bucle sobre &apos;%3&apos; líneas en el archivo %4.</translation>
     </message>
 </context>
 <context>
@@ -30141,7 +30142,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="683"/>
         <source>Scheduled</source>
-        <translation>Programado</translation>
+        <translation>Planificado</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="684"/>
@@ -30194,12 +30195,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsAngleNode.cxx" line="46"/>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ángulo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsAngleNode.cxx" line="49"/>
         <source>A</source>
-        <translation type="unfinished">A</translation>
+        <translation>A</translation>
     </message>
 </context>
 <context>
@@ -30207,12 +30208,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsClosedCurveNode.cxx" line="57"/>
         <source>Closed Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva Cerrada</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsClosedCurveNode.cxx" line="60"/>
         <source>CC</source>
-        <translation type="unfinished"></translation>
+        <translation>CC</translation>
     </message>
 </context>
 <context>
@@ -30220,12 +30221,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="78"/>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsCurveNode.cxx" line="81"/>
         <source>OC</source>
-        <translation type="unfinished"></translation>
+        <translation>OC</translation>
     </message>
 </context>
 <context>
@@ -30233,12 +30234,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="41"/>
         <source>Point List</source>
-        <translation type="unfinished"></translation>
+        <translation>Listado de Punto</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="44"/>
         <source>F</source>
-        <translation type="unfinished">F</translation>
+        <translation>F</translation>
     </message>
 </context>
 <context>
@@ -30248,7 +30249,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="797"/>
         <source>Markups Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation>Marcas Fiducial CSV</translation>
+        <translation>Marcas Fiduciales CSV</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialStorageNode.cxx" line="790"/>
@@ -30274,12 +30275,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="47"/>
         <source>Line</source>
-        <translation type="unfinished">Línea</translation>
+        <translation>Línea</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsLineNode.cxx" line="50"/>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation>L</translation>
     </message>
 </context>
 <context>
@@ -30287,12 +30288,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="536"/>
         <source>M</source>
-        <translation type="unfinished">METRO</translation>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="546"/>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcaje</translation>
     </message>
 </context>
 <context>
@@ -30300,12 +30301,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneNode.cxx" line="53"/>
         <source>Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>Plano</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneNode.cxx" line="56"/>
         <source>P</source>
-        <translation type="unfinished">P</translation>
+        <translation>P</translation>
     </message>
 </context>
 <context>
@@ -30313,12 +30314,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROINode.cxx" line="57"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROINode.cxx" line="60"/>
         <source>R</source>
-        <translation type="unfinished">R</translation>
+        <translation>R</translation>
     </message>
 </context>
 <context>
