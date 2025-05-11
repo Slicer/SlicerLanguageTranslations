@@ -166,7 +166,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="322"/>
         <source>If enabled, then the shortcut opens the text finder, which can be used to extract text from the application user interface and open it in the translation website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está habilitado, entonces el enlace abre el texto encontrado, el cual puede ser utilizado para extraer texto desde la aplicación del interfaz de usuario y lo abre en el sitio web de traducción.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="347"/>
@@ -194,7 +194,9 @@ Consulte más información en la &lt;a href=&quot;https://github.com/Slicer/Slic
         <source>
 Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Desarrollado de este módulo fue parcialmente fundado por &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;Subvención CZI EOSS&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="141"/>
