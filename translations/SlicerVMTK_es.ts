@@ -36,17 +36,17 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="266"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de parámetro es Ninguno.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="278"/>
         <source>Input segmentation, volume, segment ID or margin size is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de entrada, volumen, ID del segmento o tamaño de margen no es válido.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="282"/>
         <source>Input segmentation or volume mismatch with the segment editor... fixing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de entrada o volumen no coincide con el editor de segmento… reparando.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="289"/>
@@ -96,27 +96,27 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conj parámetro:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="43"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un parámetro establece parámetros de grupos que define un estudio nombrado distintamente.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="88"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiza el editor de segmento y las vistas de ranura con la segmentación de entrada y volumen si existe.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation>↺</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="102"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="128"/>
