@@ -84,7 +84,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation>Limpieza de DWI (Cerebro)</translation>
+        <translation>Limpieza de DWI (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation>Desfiguración cerebral de imágenes T1/T2 (CEREBROS)</translation>
+        <translation>Desfiguración cerebral de imágenes T1/T2 (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
@@ -339,7 +339,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
         <source>Input Images</source>
-        <translation>Imágenes de entrada</translation>
+        <translation>Imágenes de Entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
@@ -434,12 +434,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
         <source>Initialize Transform Mode</source>
-        <translation>Modo de inciar transformación</translation>
+        <translation>Modo de Inicio de Transformación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation>Transformación que se aplicará al imagen en marcha para iniciar la registración.   Esto solo se puede usar si el Modo de Iniciar Transformación está apagado.</translation>
+        <translation>Transformación que se aplicará al imagen en marcha para iniciar registro.   Esto solo se puede usar si el Modo de Iniciar Transformación está apagado.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
@@ -450,7 +450,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="30"/>
         <source>Off</source>
-        <translation>Desactivado</translation>
+        <translation>Apagado</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
@@ -645,7 +645,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation>Elimina los vóxeles de intensidad muy alta y muy baja de los volúmenes de entrada. El parámetro especifica el porcentaje medio para determinar los valores atípicos de las intensidades de la imagen. El valor predeterminado es cero, lo que significa que no se eliminarán valores atípicos. Si se establece en **0.005**, se descartará el **0.005%** de ambos extremos, por lo que en total se ignorará el **0.01%** de las intensidades en el cálculo estadístico.</translation>
+        <translation>Elimina los vóxeles de intensidad muy alta y muy baja de los volúmenes de entrada. El parámetro especifica el porcentaje medio para determinar los valores atípicos de las intensidades de la imagen. El valor predeterminado es cero, lo que significa que no se eliminarán valores atípicos. Si se establece en 0&apos;005, se descartará el 0&apos;005% de ambos extremos, por lo que en total se ignorará el 0&apos;01% de las intensidades en el cálculo estadístico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
@@ -768,7 +768,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
         <source>NearestNeighbor</source>
-        <translation>Vecino más cercano</translation>
+        <translation>NearestNeighbor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
@@ -788,7 +788,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
         <source>Hamming</source>
-        <translation>Martillo</translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
@@ -808,7 +808,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"/>
         <source>Blackman</source>
-        <translation>Negro</translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
@@ -883,18 +883,18 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
         <source>ScaleVersor3D &apos;Scale&apos; compensation factor.  Increase this to allow for more rescaling in a ScaleVersor3D or ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation>Factor de compensación &apos;Escala&apos; de ScaleVersor3D. Aumenta este valor para permitir más reescalado en un patrón de búsqueda ScaleVersor3D o ScaleSkewVersor3D. Un valor de 1.0 funciona bien con una escala de traducción de 1000.0</translation>
+        <translation>Factor de compensación &apos;Escala&apos; de ScaleVersor3D. Aumenta este valor para permitir más re-escalado en un patrón de búsqueda ScaleVersor3D o ScaleSkewVersor3D. Un valor de 1&apos;0 funciona bien con una escala de traducción de 1.000&apos;0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="120"/>
         <source>ScaleSkewVersor3D Skew compensation factor.  Increase this to allow for more skew in a ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation>Factor de compensación de sesgo (Skew) de ScaleSkewVersor3D. Aumenta este valor para permitir más sesgo en un patrón de búsqueda ScaleSkewVersor3D. Un valor de 1.0 funciona bien con una escala de traducción de 1000.0</translation>
+        <translation>Factor de compensación de sesgo (Skew) de ScaleSkewVersor3D.  Aumenta este valor para permitir más sesgo en un patrón de búsqueda ScaleSkewVersor3D. Un valor de 1&apos;0 funciona bien con una escala de traducción de 1.000&apos;0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation>Desplazamientos máximos permitidos en las coordenadas físicas de la imagen (mm) para la cuadrícula de control BSpline a lo largo de cada eje. Un valor de 0.0 indica que el problema no tiene restricciones. NOTA: Esto solo restringe la parte BSpline, y no limita el desplazamiento del transformador asociado. Esto puede llevar a una reducción sustancial en el tiempo de cómputo en el optimizador BSpline.
+        <translation>Desplazamientos máximos permitidos en las coordenadas físicas de la imagen (mm) para la cuadrícula de control BSpline a lo largo de cada eje. Un valor de 0&apos;0 indica que el problema no tiene restricciones. NOTA: Esto solo restringe la parte BSpline, y no limita el desplazamiento del transformador asociado. Esto puede llevar a una reducción sustancial en el tiempo de cómputo en el optimizador BSpline.
       </translation>
     </message>
     <message>
@@ -945,22 +945,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
         <source>Number Of Samples</source>
-        <translation>Número de muestras</translation>
+        <translation>Número de Muestras</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
         <source>Stripped Output Transform</source>
-        <translation>Transformación de salida sin procesar</translation>
+        <translation>Transformación de Salida Sin Procesar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
         <source>Transform Type</source>
-        <translation>Tipo de transformación</translation>
+        <translation>Tipo de Transformación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
         <source>Output Transform</source>
-        <translation>Transformación de salida</translation>
+        <translation>Transformación de Salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
@@ -975,12 +975,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
         <source>The index in the time series for the 3D fixed image to fit. Only allowed if the fixed input volume is 4-dimensional.</source>
-        <translation>El índice en la serie temporal para la imagen fija 3D que se ajustará. Solo se permite si el volumen de entrada fijo es de 4 dimensiones.</translation>
+        <translation>El índice en la serie temporal para la imagen fija 3D que se ajustará. Solo se permite si el volumen de entrada fijo es de 4-dimensiones.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation>El índice en la serie temporal para la imagen en movimiento 3D que se ajustará. Solo se permite si el volumen de entrada en movimiento es de 4 dimensiones</translation>
+        <translation>El índice en la serie temporal para la imagen en movimiento 3D que se ajustará. Solo se permite si el volumen de entrada en movimiento es de 4-dimensiones</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
@@ -1000,17 +1000,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation>Si el modo de transformación inicialize se establece en useCenterofheadalign o la opción de enmascaramiento es roiauto, este valor define cuánto se corta de la parte inferior de la imagen. La distancia de corte se especifica en milímetros, en relación con el centro de imágenes. Si el valor es de 1000 o más, entonces no se realizó un corte.</translation>
+        <translation>Si el Modo de Transformación Inicialice se establece en useCenterofheadalign o la opción de enmascaramiento es ROIAUTO, este valor define cuánto se corta de la parte inferior de la imagen. La distancia de corte se especifica en milímetros, en relación con el centro de imágenes. Si el valor es de 1.000 o más, entonces no se realizó un corte.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation>Este indicador solo es relevante cuando se usa el modo Roiauto para inicializar máscaras.  Define el tamaño de dilatación final para capturar un poco de fondo fuera de la región del tejido.  Se ha demostrado que una configuración de 10 mm ayuda a regularizar un tipo de registro de Bspline para que haya algunas restricciones de fondo para que coincidan mejor con los bordes de la cabeza.</translation>
+        <translation>Este indicador solo es relevante cuando se usa el modo ROIAUTO para inicializar máscaras.  Define el tamaño de dilatación final para capturar un poco de fondo fuera de la región del tejido.  Se ha demostrado que una configuración de 10mm ayuda a regularizar un tipo de registro de Bspline para que haya algunas restricciones de fondo para que coincidan mejor con los bordes de la cabeza.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation>Este indicador solo es relevante cuando se usa el modo Roiauto para inicializar máscaras.  Define el tamaño de cierre del orificio en mm.  Se redondea al tamaño de píxel completo más cercano en cada dirección. El valor predeterminado es usar un tamaño de cierre de 9 mm.  Para los datos del mouse, este valor puede necesitar restablecerse a 0.9 o menor.</translation>
+        <translation>Este indicador solo es relevante cuando se usa el modo ROIAUTO para inicializar máscaras.  Define el tamaño de cierre del orificio en mm.  Se redondea al tamaño de píxel completo más cercano en cada dirección. El valor predeterminado es usar un tamaño de cierre de 9 mm.  Para los datos del ratón, este valor puede necesitar restablecerse a 0&apos;9 o menor.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
@@ -1027,7 +1027,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
         <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
-        <translation>Especifica una lista de tipos de registro que se utilizarán.  Los tipos válidos son, rígido, escala 3D, scaleskewversor3d, afine, bspline y syn.  Especificar más de uno en una lista separada por coma inicializará la siguiente etapa con los resultados anteriores. Si se usa el indicador de registroclass, anula esta configuración de parámetros.</translation>
+        <translation>Especifica una lista de tipos de registro que se utilizarán.  Los tipos válidos son Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline y SyN.  Especificar más de uno en una lista separada por coma inicializará la siguiente etapa con los resultados anteriores. Si se usa el indicador de registrationClass, anula esta configuración de parámetros.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
@@ -1037,7 +1037,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation>Si este indicador está activado, la transformación compuesta genérica actual, resultó de las etapas de registro lineal, se establece para inicializar el seguimiento del proceso de registro no lineal. Sin embargo, por el comportamiento predeterminado, la imagen móvil se deforma primero en función de la transformación existente antes de pasar al filtro de registro BSPLINE. Se hace para acelerar el registro de BSPLIN reduciendo los cálculos de la transformación compuesta de jacobian.</translation>
+        <translation>Si este indicador está activado, la transformación compuesta genérica actual, resultó de las etapas de registro lineal, se establece para inicializar el seguimiento del proceso de registro no lineal. Sin embargo, por el comportamiento predeterminado, la imagen móvil se deforma primero en función de la transformación existente antes de pasar al filtro de registro BSPLINE. Se hace para acelerar el registro de BSPLIN reduciendo los cálculos de la transformación compuesta de Jacobian.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
@@ -1058,12 +1058,12 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
         <source>NC</source>
-        <translation>CAROLINA DEL NORTE</translation>
+        <translation>NC</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="155"/>
         <source>MIH</source>
-        <translation>Mih</translation>
+        <translation>MIH</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="156"/>
@@ -1073,7 +1073,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="157"/>
         <source>Failure Exit Code</source>
-        <translation>Fallo de Código de Salida</translation>
+        <translation>Código de Salida Incorrecto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="158"/>
@@ -1098,7 +1098,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="162"/>
         <source>Log File Report</source>
-        <translation>Informe de archivo boletín</translation>
+        <translation>Informe de Archivo Bitácora</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="163"/>
@@ -1118,13 +1118,13 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="166"/>
         <source>Display debug messages, and produce debug intermediate results.  0=OFF, 1=Minimal, 10=Maximum debugging.</source>
-        <translation>Exhibe mensajes de depuración, y produce resultados intermedio de depuración.  0=OFF, 1=Mínima, 10= Máxima depuración.</translation>
+        <translation>Exhibe mensajes de depuración, y produce resultados intermedio de depuración. Depuración 0=OFF, 1=Mínima, 10=Máxima.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the CostFunctionConvergenceFactor. Algorithm terminates when the reduction in cost function is less than (factor * epsmcj) where epsmch is the machine precision. Typical values for factor: 1e+12 for low accuracy; 1e+7 for moderate accuracy and 1e+1 for extremely high accuracy.  1e+9 seems to work well.
       </source>
-        <translation>De itklbfgsboptimizer.h: establecer/obtener el CostFunctionConvergenceFactor. El algoritmo termina cuando la reducción en la función de costo es menor que (factor * EPSMCJ) donde EPSMCH es la precisión de la máquina. Valores típicos para el factor: 1e+12 para baja precisión; 1e+7 para precisión moderada y 1e+1 para una precisión extremadamente alta.  1e+9 parece funcionar bien.
+        <translation>Desde itkLBFGSBOptimizer.h: establecer/obtener el CostFunctionConvergenceFactor. El algoritmo termina cuando la reducción en la función de costo es menor que (factor * EPSMCJ) donde EPSMCH es la precisión de la máquina. Valores típicos para el factor: 1e+12 para baja precisión; 1e+7 para precisión moderada y 1e+1 para una precisión extremadamente alta.  1e+9 parece funcionar bien.
       </translation>
     </message>
     <message>
@@ -1182,7 +1182,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation>Este programa se utiliza para crear una máscara sobre la región de primer plano más prominente en una imagen. Esto se logra mediante una combinación de umbralización de Otsu y una operación de cierre.
+        <translation>Este programa se utiliza para crear una máscara sobre la región de primer plano más prominente en una imagen. Esto se logra mediante una combinación de umbral de Otsu y una operación de cierre.
   </translation>
     </message>
     <message>
@@ -1554,7 +1554,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="46"/>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"/>
@@ -1574,7 +1574,7 @@ Tenga en cuenta que se sugiere utilizar SampleGingCimentage en lugar de esta opc
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="50"/>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"/>
@@ -1900,7 +1900,7 @@ Permite fundición al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
@@ -2004,7 +2004,7 @@ Permite fundición al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
@@ -3027,17 +3027,17 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
         <source>DEPRECATED THESE DO NOT WORK</source>
-        <translation type="unfinished"></translation>
+        <translation>OBSOLETOS ESTOS NO FUNCIONAN</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="57"/>
         <source>Gradient Vector File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de Vector Gradiente</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="58"/>
         <source>Output fMRI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de salida fMRI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="59"/>
@@ -3047,7 +3047,7 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="60"/>
         <source>DEPRECATED:  No support or testing.  Output a NRRD file, but without gradients</source>
-        <translation type="unfinished"></translation>
+        <translation>OBSOLETO:  Sin soporte ni pruebas.  Imprimir un archivo NRRD, pero sin gradientes</translation>
     </message>
 </context>
 <context>
@@ -3594,52 +3594,52 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="111"/>
         <source>A floating point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Un valor de retorno en coma flotante</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="112"/>
         <source>A double point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Un valor de retorno con coma doble</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="113"/>
         <source>A string point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Un valor de retorno de cadena con coma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="114"/>
         <source>An integer vector return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Un valor de retorno vectorial entero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="115"/>
         <source>A string enumeration return value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de retorno de una enumeración de cadena</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="116"/>
         <source>An example of an integer return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Un ejemplo de tipo de retorno entero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="117"/>
         <source>An example of a boolean return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Un ejemplo de tipo de retorno booleano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="118"/>
         <source>An example of a float return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Un ejemplo de tipo de retorno flotante</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="119"/>
         <source>An example of a double return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Un ejemplo de tipo de retorno doble</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="120"/>
         <source>An example of a string return type</source>
-        <translation type="unfinished"></translation>
+        <translation>Un ejemplo de tipo devuelto de cadena</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="121"/>
@@ -3672,12 +3672,12 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
@@ -3737,38 +3737,38 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="20"/>
         <source>Type of skeleton to create. 1D extract centerline curve points. 2D extracts medial surface points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de esqueleto a crear. 1D extrae puntos de curva de línea central. 2D extrae puntos de superficie media.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="21"/>
         <source>Include the full tree in the output, not just the longest branch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluye el árbol completo en la salida, no sólo la rama más larga.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="22"/>
         <source>Number of points used to represent the skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de puntos utilizados para representar el esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="23"/>
         <source>Name of the file to store the coordinates of the central (1D) skeleton points</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del archivo para almacenar las coordenadas de los puntos centrales (1D) del esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="24"/>
         <source>Centerline points as markups curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos centrales como curva de marcas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="25"/>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="26"/>
         <source>1D</source>
-        <translation type="unfinished">1D</translation>
+        <translation>1D</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="27"/>
         <source>2D</source>
-        <translation type="unfinished">2D</translation>
+        <translation>2D</translation>
     </message>
 </context>
 <context>
@@ -3776,57 +3776,57 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="5"/>
         <source>Fiducial Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro Fiduciario</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="6"/>
         <source>Computes a rigid, similarity or affine transform from a matched list of fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcula una transformación rígida, de similitud o afín a partir de una lista emparejada de fiduciales</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de ruta para la investigación médica de los NIH, Subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
         <source>Fixed landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de referencia fijos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="11"/>
         <source>Moving landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de referencia en movimiento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="12"/>
         <source>Save transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="13"/>
         <source>Transform Type</source>
-        <translation type="unfinished">Tipo de transformación</translation>
+        <translation>Tipo de Transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"/>
         <source>RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error RMS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="15"/>
         <source>Output Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje de Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"/>
@@ -3900,27 +3900,27 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de Entrada/Salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
@@ -3930,12 +3930,12 @@ Cualitativamente, MCDE se compara favorablemente con otras técnicas de difusió
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="14"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>Volumen entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"/>
         <source>Blurred Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen borroso</translation>
     </message>
 </context>
 <context>
@@ -6026,7 +6026,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished">Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por los National Institutes of Health a través de la NIH Roadmap for Medical Research, Grant U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics.</translation>
+        <translation>Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por los National Institutes of Health a través de la NIH Roadmap for Medical Research, Grant U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
@@ -6208,7 +6208,7 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation>Elige entre 2 métodos para transformar los tensores: Tensión Finita (FS), más rápido pero menos preciso, o Preservación de la Dirección Principal (PPD).</translation>
+        <translation>Elige entre 2 métodos para transformar los tensores: Tensión Finita (FS), más rápido pero menos preciso, o Preservación de la Dirección Principal (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
@@ -6270,7 +6270,7 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="58"/>
         <source>input-to-output</source>
-        <translation>entrada-salida</translation>
+        <translation>de entrada a salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="60"/>
@@ -6315,7 +6315,7 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation>Invertir la transformación antes de aplicarla de la imagen de salida a la imagen de entrada (sólo para transformaciones rígidas y afines).</translation>
+        <translation>Invertir la transformación antes de aplicarla de la imagen de salida a la imagen de entrada (sólo para transformaciones rígidas y afines)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
@@ -6346,7 +6346,7 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"/>
         <source>Size</source>
-        <translation>Talla</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
@@ -6391,12 +6391,12 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
         <source>Number Of Threads</source>
-        <translation>Número de hilos</translation>
+        <translation>Número de Hilos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
         <source>Default Pixel Value</source>
-        <translation>Valor de píxel por defecto</translation>
+        <translation>Valor Pixelar Predeterminado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="86"/>
@@ -6411,17 +6411,17 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="88"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation>Parámetros de la función de interpolación Sinc con ventanas</translation>
+        <translation>Parámetros de la Función de Interpolación Sinc con Ventana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation>Parámetros utilizados para la interpolación Windowed Sinc</translation>
+        <translation>Parámetros utilizados para Interpolación con Ventana Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
         <source>Window Function</source>
-        <translation>Función de ventana</translation>
+        <translation>Función de Ventana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
@@ -6550,16 +6550,16 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation type="unfinished">Este módulo implementa el remuestreo de imágenes y de imágenes vectoriales mediante el uso de transformaciones itk. También puede manejar el remuestreo de imágenes de resonancia magnética ponderada por difusión. El &quot;remuestreo&quot; se realiza en coordenadas espaciales, no en coordenadas de píxel/cuadrícula. Es muy importante asegurarse de que el espaciado de la imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeo de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones no cuadriculadas.
+        <translation>Este módulo implementa el remuestreo de imágenes y de imágenes vectoriales mediante el uso de transformaciones itk. También puede manejar el remuestreo de imágenes de resonancia magnética ponderada por difusión. El &quot;remuestreo&quot; se realiza en coordenadas espaciales, no en coordenadas de píxel/cuadrícula. Es muy importante asegurarse de que el espaciado de la imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeo de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones no cuadriculadas.
 
 Advertencia: Para remuestrear imágenes DWMR, utilice archivos de entrada y salida nrrd.
 
-Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los tensores no se reorientarían.</translation>
+Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los tensores no se reorientarían</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation>Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por los National Institutes of Health a través de la NIH Roadmap for Medical Research, Grant U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics.</translation>
+        <translation>Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por los National Institutes of Health a través de la NIH Roadmap for Medical Research, Grant U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
@@ -6696,17 +6696,17 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="35"/>
         <source>Transforms Order</source>
-        <translation>Orden de transformación</translation>
+        <translation>Orden de Transformaciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="36"/>
         <source>Not a Bulk Transform</source>
-        <translation>No es una transformación masiva</translation>
+        <translation>No una Transformación Masiva</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="37"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation>Espacio Incoherencia de orientación (entre la transformación y la imagen)</translation>
+        <translation>Espacio Incoherencia de orientación (entre la transformación e imagen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="38"/>
@@ -30607,7 +30607,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1128"/>
         <source>Displacements are expected to be stored as double or float. Vector values will not be converted from LPS to RAS.</source>
-        <translation>Los desplazamiento deben ser guardados como double o float. Los valores del vector no serán convertidos de LPS a RAS.</translation>
+        <translation>Se espera que los desplazamientos sean almacenados como double o float. Los valores del vector no serán convertidos de LPS a RAS.</translation>
     </message>
 </context>
 <context>
@@ -30618,7 +30618,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="216"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation>Propiedad de volumen MRML</translation>
+        <translation>Propiedad de Volumen MRML</translation>
     </message>
 </context>
 <context>
@@ -30628,7 +30628,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="628"/>
         <source>Volume Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation>Secuencia de volumen</translation>
+        <translation>Secuencia de Volumen</translation>
     </message>
 </context>
 <context>
