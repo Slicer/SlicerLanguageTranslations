@@ -324,7 +324,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation>Recalage général (CERVEAUX)</translation>
+        <translation>Recalage général (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
@@ -1740,7 +1740,7 @@ Ce programme est utile pour sous-échantillonner une image avec un facteur d&apo
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="4"/>
         <source>Strip Rotation (BRAINS)</source>
-        <translation>Rotation des bandes (CERVEAUX)</translation>
+        <translation>Rotation des bandes (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
@@ -1784,7 +1784,7 @@ Ce programme est utile pour sous-échantillonner une image avec un facteur d&apo
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
         <source>Transform Convert (BRAINS)</source>
-        <translation>Transformer Convertir (CERVEAUX)</translation>
+        <translation>Transformer Convertir (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
@@ -5878,7 +5878,7 @@ Le filtre suppose que la source et la référence sont du même type et que les 
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="4"/>
         <source>Registration Metric Test (BRAINS)</source>
-        <translation>Test de métrique d&apos;enregistrement (CERVEAUX)</translation>
+        <translation>Test de métrique d&apos;enregistrement (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
