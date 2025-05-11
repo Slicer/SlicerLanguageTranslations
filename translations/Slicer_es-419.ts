@@ -84,7 +84,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation>Limpieza de DWI (CEREBRO)</translation>
+        <translation>Limpieza de DWI (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation>Desfase cerebral de la imagen T1/T2 (CEREBRO)</translation>
+        <translation>Desfase cerebral de la imagen T1/T2 (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
@@ -324,7 +324,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation>Registro general (CEREBRO)</translation>
+        <translation>Registro general (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
@@ -1352,7 +1352,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="4"/>
         <source>Resample Image (BRAINS)</source>
-        <translation>Remuestrear imagen (CEREBRO)</translation>
+        <translation>Remuestrear imagen (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="5"/>
@@ -1612,7 +1612,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="4"/>
         <source>Resize Image (BRAINS)</source>
-        <translation>Redimensionar imagen (CEREBRO)</translation>
+        <translation>Redimensionar imagen (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="5"/>
@@ -1740,7 +1740,7 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="4"/>
         <source>Strip Rotation (BRAINS)</source>
-        <translation>Rotación de tiras (CEREBRO)</translation>
+        <translation>Rotación de tiras (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
@@ -1784,7 +1784,7 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
         <source>Transform Convert (BRAINS)</source>
-        <translation>Transformar Convertir (CEREBRO)</translation>
+        <translation>Transformar Convertir (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
@@ -5879,7 +5879,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="4"/>
         <source>Registration Metric Test (BRAINS)</source>
-        <translation>Prueba métrica de registro (CEREBROS)</translation>
+        <translation>Prueba métrica de registro (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
