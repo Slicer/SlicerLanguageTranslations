@@ -30113,7 +30113,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="286"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must be positive (&gt;0). Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>labelValue &apos;%1&apos; no es válido en el archivo de color en la línea %2: el valor debe ser positivo (&gt;0). Se omitirá esta línea.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="300"/>
