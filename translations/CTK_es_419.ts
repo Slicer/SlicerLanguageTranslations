@@ -6,114 +6,122 @@
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="4"/>
         <source>2D Blurring</source>
-        <translation type="unfinished"></translation>
+        <translation>Difuminado 2D</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="5"/>
         <source>
 Blur a 2d image.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Difuminar una imagen 2D.
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="6"/>
         <source>Scalar Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros escalares</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="7"/>
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Variaciones de los parámetros escalares
+    </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="8"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros enteros</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="9"/>
         <source>Boolean Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro booleano</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="17"/>
         <source>Some file</source>
-        <translation type="unfinished"></translation>
+        <translation>Algunos archivos</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="11"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="18"/>
         <source>Some dir</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Algunos dir</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="12"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="19"/>
         <source>Some geom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Algunos geom</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="13"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="20"/>
         <source>Some image</source>
-        <translation type="unfinished"></translation>
+        <translation>Algunas imágenes</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="14"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro doble</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="15"/>
         <source>
       An integer without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Un número entero sin restricciones
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="16"/>
         <source>
       A boolean without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Un booleano sin restricciones
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="21"/>
         <source>An double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Un doble con restricciones</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="22"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros vectoriales</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="23"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variaciones de los parámetros vectoriales</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="24"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro de vector flotante</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="25"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro vectorial de cadena</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="26"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un vector de flotadores</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="27"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Un vector de cadenas</translation>
     </message>
 </context>
 <context>
@@ -121,22 +129,22 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="3"/>
         <source>Test Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo de prueba</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="4"/>
         <source>Test Module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo de prueba.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="5"/>
         <source>Test parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de prueba</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="6"/>
         <source>Test parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de prueba.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="7"/>
@@ -144,27 +152,27 @@ Blur a 2d image.
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="12"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Número entero</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="8"/>
         <source>Enumeration</source>
-        <translation type="unfinished"></translation>
+        <translation>Enumeración</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="11"/>
         <source>Enumeration parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro de enumeración</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="13"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>sí</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="14"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>no</translation>
     </message>
 </context>
 <context>
@@ -172,144 +180,146 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="4"/>
         <source>Test Bed</source>
-        <translation type="unfinished"></translation>
+        <translation>Banco de pruebas</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="5"/>
         <source>
 Configurable behaviour for testing purposes.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Comportamiento configurable con fines de prueba.
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="6"/>
         <source>Runtime behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Comportamiento en tiempo de ejecución</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="7"/>
         <source>Configures the runtime behaviour of this module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura el comportamiento en tiempo de ejecución de este módulo.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="8"/>
         <source>Runtime (seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de ejecución (segundos)</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="9"/>
         <source>Output Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de salida</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="10"/>
         <source>Exit time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de salida</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="11"/>
         <source>Exit code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de salida</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="12"/>
         <source>Force a crash</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forzar un bloqueo</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="13"/>
         <source>Error text</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de texto</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="14"/>
         <source>An integer with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Un número entero con restricciones</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="15"/>
         <source>Number of outputs which will be reported as the progress text via a QFutureWatcher.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Número de salidas de las que se informará como texto de progreso a través de un QFutureWatcher.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="16"/>
         <source>The exit time of the module (premature finish).</source>
-        <translation type="unfinished"></translation>
+        <translation>La hora de salida del módulo (fin anticipado).</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="17"/>
         <source>The exit code of the module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de salida del módulo.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="18"/>
         <source>Exit by crashing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salida por fallo.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="19"/>
         <source>Final error message at the end.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje de error final.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="20"/>
         <source>Output parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de salida</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="21"/>
         <source>Output parameters for testing purposes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de salida para realizar pruebas.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="22"/>
         <source>Number of results</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de resultados</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="23"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="24"/>
         <source>Exit status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado de salida</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="25"/>
         <source>Output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen de salida</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="26"/>
         <source>The number of results reported by this module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de resultados comunicados por este módulo.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="27"/>
         <source>Exit error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje de error de salida.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="28"/>
         <source>Exit status (crashed or normal exit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado de la salida ( fallo o salida normal)</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="29"/>
         <source>Image output path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de salida de la imagen.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="30"/>
         <source>Normal exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida normal</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="31"/>
         <source>Crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falló</translation>
     </message>
 </context>
 <context>
@@ -317,292 +327,300 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="4"/>
         <source>Execution Model Tour</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorrido por el modelo de ejecución</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="5"/>
         <source>
   Shows one of each type of parameter.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  Muestra un parámetro de cada tipo.
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="6"/>
         <source>Scalar Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros escalares</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="7"/>
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Variaciones de los parámetros escalares
+    </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="8"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros enteros</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="9"/>
         <source>Boolean Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros booleanos</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="10"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro doble</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="11"/>
         <source>
       An integer without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Un número entero sin restricciones
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="12"/>
         <source>
       A boolean without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Un valor booleano sin restricciones
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="13"/>
         <source>An double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un doble con restricciones</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="14"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros vectoriales</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="15"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variaciones de los parámetros vectoriales</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="16"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro de vector flotante</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="17"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro vectorial de cadena</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="18"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un vector de flotantes</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="19"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un vector de cadenas</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="20"/>
         <source>Enumeration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de enumeración</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="21"/>
         <source>Variations on enumeration parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variaciones de los parámetros de enumeración</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="22"/>
         <source>String Enumeration Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro de enumeración de cadenas</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="23"/>
         <source>A point</source>
-        <translation type="unfinished"></translation>
+        <translation>Un punto</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="24"/>
         <source>An enumeration of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Una enumeración de cadenas</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="25"/>
         <source>asf</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">asf</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="26"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="27"/>
         <source>foo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">foo</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="28"/>
         <source>&quot;foobar&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;foobar&quot;</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="29"/>
         <source>foofoo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">foofoo</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="30"/>
         <source>Directory I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Directorio de parámetros de E/S</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="31"/>
         <source>Various Directory I/O parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Varios parámetros de E/S del directorio.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="32"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="33"/>
         <source>Some dir</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Algunos dir</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="34"/>
         <source>File I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de E/S de archivos</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="35"/>
         <source>Various File I/O parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Varios parámetros de E/S de archivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="36"/>
         <source>Input file, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichero de entrada, sin extensiones especificadas.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="37"/>
         <source>Input file, .txt or .mat file specified using leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichero de entrada, .txt o .mat especificado con punto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="38"/>
         <source>Input file, .txt or .mat file specified without leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de entrada, .txt o .mat especificado sin punto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="39"/>
         <source>Output file, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichero de salida, sin extensiones especificadas.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="40"/>
         <source>Output file, .txt or .mat file specified using leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fichero de salida, .txt o .mat especificado con punto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="41"/>
         <source>Output file, .txt or .mat file specified without leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Archivo de salida, .txt o .mat especificado sin punto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="42"/>
         <source>Input file, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de entrada, sin especificar extensiones de archivo, por lo que se pueden seleccionar todos los archivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="43"/>
         <source>Input file, where a correct comma separated list of .txt and .mat are specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichero de entrada, donde se especifica una lista correcta separada por comas de .txt y .mat, que debe incluir el primer punto, pero no debe incluir ningún asterisco.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="44"/>
         <source>Input file, where the XML has missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de entrada, en el que el XML ha omitido el primer punto de las extensiones de archivo.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="45"/>
         <source>Output file, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de salida, sin especificar extensiones de archivo, por lo que se pueden seleccionar todos los archivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="46"/>
         <source>Output file, where a comma separated list of .txt and .mat are specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichero de salida, donde se especifica una lista separada por comas de .txt y .mat, que debe incluir el primer punto, pero no debe incluir ningún asterisco.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="47"/>
         <source>Output file, where the XML has missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de salida, en el que el XML ha omitido el primer punto de las extensiones de archivo.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="48"/>
         <source>Geometry I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de E/S de la geometría</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="49"/>
         <source>Various Geometry I/O parameters, which are for things like vtkPolyData.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varios parámetros de E/S de Geometría, que son para elementos como vtkPolyData.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="50"/>
         <source>Input geometry, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometría de entrada, sin extensiones especificadas.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="51"/>
         <source>Input geometry, .vtk or .vtp file specified with a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geometría de entrada, archivo .vtk o .vtp especificado con un punto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="52"/>
         <source>Input geometry, .vtk or .vtp file specified without a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geometría de entrada, archivo .vtk o .vtp especificado sin punto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="53"/>
         <source>Output geometry, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometría de salida, sin extensiones especificadas.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="54"/>
         <source>Output geometry, .vtk or .vtp file specified with a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geometría de salida, archivo .vtk o .vtp especificado con un punto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="55"/>
         <source>Output geometry, .vtk or .vtp file specified without a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometría de salida, archivo .vtk o .vtp especificado sin un punto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="56"/>
         <source>Input geometry, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometría de entrada, sin especificar extensiones de archivo, por lo que se pueden seleccionar todos los archivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="57"/>
         <source>Input geometry, where a comma separated list is specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometría de entrada, donde se especifica una lista separada por comas, que debe incluir el primer punto, pero no debe incluir ningún asterisco.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="58"/>
         <source>Input geometry, where the XML has incorrectly missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometría de entrada, donde el XML ha omitido incorrectamente el primer punto de las extensiones de archivo.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="59"/>
         <source>Output geometry, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geometría de salida, sin especificar extensiones de archivo, por lo que se pueden seleccionar todos los archivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="60"/>
         <source>Output geometry, where a comma separated list is specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometría de salida, donde se especifica una lista separada por comas, que debe incluir el primer punto, pero no debe incluir ningún asterisco.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="61"/>
         <source>Output geometry, where the XML has incorrectly missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometría de salida, donde el XML ha omitido incorrectamente el primer punto de las extensiones de archivo.</translation>
     </message>
 </context>
 <context>
@@ -2451,7 +2469,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="554"/>
         <source>SOPInstance UID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SOPInstance UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="558"/>
@@ -2898,7 +2916,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMSeriesItemWidget.ui" line="14"/>
         <source>Series Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Serie del artículo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesItemWidget.cpp" line="513"/>
@@ -3018,12 +3036,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="155"/>
         <source>AETitle: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">AETitle: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="162"/>
         <source>CTKSTORE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ALMACÉN DE CTK</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="175"/>
@@ -3058,7 +3076,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="260"/>
         <source>Called AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nombrado TítuloAE</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="265"/>
@@ -6667,17 +6685,17 @@ Do you want to renew the session?</source>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="3"/>
         <source>Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de imágenes</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="3"/>
         <source>Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>Pruebas</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="3"/>
         <source>Tours</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitas</translation>
     </message>
 </context>
 </TS>
