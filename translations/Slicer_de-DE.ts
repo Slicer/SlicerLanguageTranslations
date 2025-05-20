@@ -419,7 +419,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation type="unfinished">Einstellungen für die Transform-Initialisierung</translation>
+        <translation>Einstellungen für die Transform-Initialisierung</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
