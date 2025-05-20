@@ -7,17 +7,17 @@
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="20"/>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="56"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Bejelentkezés</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jelszó:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="43"/>
         <source>UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>Felhasználónév:</translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="41"/>
         <source>MONAILabel</source>
-        <translation type="unfinished"></translation>
+        <translation>MONAILabel</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="50"/>
@@ -33,69 +33,74 @@
 Active Learning solution.
 See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Aktív tanulás megoldás.
+További információk a &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;modul dokumentációjában&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="57"/>
         <source>
 Developed by NVIDIA, KCL
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Fejlesztette: NVIDIA, KCL
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="72"/>
         <source>MONAI Label Server</source>
-        <translation type="unfinished"></translation>
+        <translation>MONAI Label Szerver</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="75"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Szerver címe:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="79"/>
         <source>Server address history:</source>
-        <translation type="unfinished"></translation>
+        <translation>Szerver cím előzmények:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>Default extension for uploading images/labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Alapértelmezett kiterjesztés képek/annotációk feltöltéséhez</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>File Extension:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl kiterjesztés:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="93"/>
         <source>user-xyz</source>
-        <translation type="unfinished"></translation>
+        <translation>user-xyz</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User ID that will be sent to MONAI Label server for reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Az ügyfél/felhasználó azonosítója, amelyet a MONAI Label szerverre küldünk hivatkozásként</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User-ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliens/Felhasználó-ID:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Enable this option to auto run segmentation if pre-trained model exists when Next Sample is fetched</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapcsold be ezt az opciót, hogy automatikusan elinduljon a szegmentálás, ha előre betanított modell létezik, amikor a következő mintát lekérjük</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Auto-Run Pre-Trained Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Előre Betanított Modell Automatikus Futattatása:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Enable this option to fetch Next Sample after saving the label</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapcsold be ezt az opciót, hogy a címke mentése után automatikusan lekérje a következő mintát</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
