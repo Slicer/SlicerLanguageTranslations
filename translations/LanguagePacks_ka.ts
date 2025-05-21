@@ -26,47 +26,47 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="212"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>ენები:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="222"/>
         <source>Weblate (latest translations)</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate (უახლესი თარგმანები)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="229"/>
         <source>GitHub (updated daily)</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub (ნახლდება დღეში ერთხელ)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="236"/>
         <source>Local folder (for offline use)</source>
-        <translation type="unfinished"></translation>
+        <translation>ლოკალური საქაღალდე (ინტერნეტის გარეშე გამოყენებისთვის)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="243"/>
         <source>Latest file only:</source>
-        <translation type="unfinished"></translation>
+        <translation>მხოლოდ უკანასკნელი ფაილები:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="253"/>
         <source>Refresh Weblate language list by querying the Weblate server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate-ის ენების სიის განახლება Weblate-ის სერვერიდან გამოთხოვით.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="256"/>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>განახლება</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="263"/>
         <source>Select language(s) that will be downloaded and installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>აირჩიეთ ენები, რომლებიც გადმოწერილი და დაყენებული იქნება.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="270"/>
         <source>Folder containing translation (.ts) files.</source>
-        <translation type="unfinished"></translation>
+        <translation>საქაღალდე, რომელიც თარგმანის (.ts) ფაილებს შეიცავს.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="285"/>
@@ -76,12 +76,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="151"/>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation>აპლიკაციის ენა:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="164"/>
         <source>Change only takes effect after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>ცვლილება ძალაში, მხოლოდ, აპლიკაციის გადატვირთვის შემდეგ შევა.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="174"/>
@@ -91,17 +91,17 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="177"/>
         <source>Restart the application</source>
-        <translation type="unfinished"></translation>
+        <translation>აპლიკაციის გადატვირთვა</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="27"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"></translation>
+        <translation>დამატებითი პარამეტრები</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="39"/>
         <source>Qt &apos;lrelease&apos; tool path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-ის &apos;lrelease&apos; პროგრამის ბილიკი:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="46"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="59"/>
         <source>Slicer version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer-ის ვერსია:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="66"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="76"/>
         <source>GitHub repository URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub-ის რეპოზიტორიის URL:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="83"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="93"/>
         <source>Weblate download URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Weblate-დან გადმოწერის URL:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="100"/>
@@ -141,7 +141,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
         <source>Translation file folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>თარგმანის ფაილის საქაღალდეები:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="117"/>
@@ -151,17 +151,17 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="126"/>
         <source>Show more...</source>
-        <translation type="unfinished"></translation>
+        <translation>მეტის ჩვენება...</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="301"/>
         <source>Find text</source>
-        <translation type="unfinished"></translation>
+        <translation>შემდეგის ძებნა</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="313"/>
         <source>Enable text finder:</source>
-        <translation type="unfinished"></translation>
+        <translation>ტექსტის მომძებნის ჩართვა:</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="322"/>
@@ -171,12 +171,12 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="347"/>
         <source>Keyboard shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>კლავიატურის მალსახმობი:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
         <source>Language Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>ენის ხელსაწყოები</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="29"/>
@@ -221,7 +221,7 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="399"/>
         <source>Update failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>განახლების შეცდომა.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="424"/>
@@ -246,7 +246,7 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="576"/>
         <source>Use translation file: {file}</source>
-        <translation type="unfinished"></translation>
+        <translation>თარგმანის ფაილის გამოყენება: {file}</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="601"/>
@@ -267,12 +267,12 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
         <location filename="LanguageTools/LanguageTools.py" line="635"/>
         <location filename="LanguageTools/LanguageTools.py" line="658"/>
         <source>Translation files folder is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>თარგმანის ფაილების საქაღალდე მითითებული არაა.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="638"/>
         <source>lrelease tool path is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>lrelease პროგრამის ბილიკი მითითებული არაა.</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="676"/>
@@ -301,7 +301,7 @@ Installed {count} translation files in {location}.</source>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="23"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>ხელსაწყოები</translation>
     </message>
 </context>
 </TS>
