@@ -6,42 +6,46 @@
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="4"/>
         <source>2D Blurring</source>
-        <translation type="unfinished"></translation>
+        <translation>Размытие 2D</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="5"/>
         <source>
 Blur a 2d image.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Размытие 2D изображения.
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="6"/>
         <source>Scalar Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Скалярные параметры</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="7"/>
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Вариации скалярных параметров
+    </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="8"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр целого числа</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="9"/>
         <source>Boolean Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Логический параметр</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="17"/>
         <source>Some file</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые файлы</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="11"/>
@@ -53,25 +57,27 @@ Blur a 2d image.
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="12"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="19"/>
         <source>Some geom</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые геомы</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="13"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="20"/>
         <source>Some image</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые изображения</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="14"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойной параметр</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="15"/>
         <source>
       An integer without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Целое число без ограничений
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="16"/>
@@ -83,37 +89,37 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="21"/>
         <source>An double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойка с ограничениями</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="22"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры вектора</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="23"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Вариации параметров вектора</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="24"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Плавающий векторный параметр</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="25"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Строковый векторный параметр</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="26"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>Вектор плавающих значений</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="27"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Вектор строк</translation>
     </message>
 </context>
 <context>
@@ -121,22 +127,22 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="3"/>
         <source>Test Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Тестовый модуль</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="4"/>
         <source>Test Module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тестовый модуль.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="5"/>
         <source>Test parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры теста</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="6"/>
         <source>Test parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры теста.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="7"/>
@@ -144,27 +150,27 @@ Blur a 2d image.
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="12"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Целое число</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="8"/>
         <source>Enumeration</source>
-        <translation type="unfinished"></translation>
+        <translation>Перечисление</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="11"/>
         <source>Enumeration parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр перечисления</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="13"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>да</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="14"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>нет</translation>
     </message>
 </context>
 <context>
