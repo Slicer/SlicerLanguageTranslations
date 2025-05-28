@@ -384,7 +384,7 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="32"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாடுகள்</translation>
     </message>
 </context>
 </TS>
