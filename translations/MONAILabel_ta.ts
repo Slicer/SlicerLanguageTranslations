@@ -7,17 +7,17 @@
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="20"/>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="56"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>புகுபதிவு</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>கடவுச்சொல்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="43"/>
         <source>UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர்பெயர்:</translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="41"/>
         <source>MONAILabel</source>
-        <translation type="unfinished"></translation>
+        <translation>மோனிலல்பெல்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="50"/>
@@ -33,268 +33,276 @@
 Active Learning solution.
 See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+செயலில் கற்றல் தீர்வு. 
+மேலும் தகவல்களை &lt;a href = &quot;https://github.com/project-monai/monailabel&quot;&gt; தொகுதி ஆவணங்கள் &lt;/a&gt; இல் காண்க.
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="57"/>
         <source>
 Developed by NVIDIA, KCL
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+என்விடியா, கே.சி.எல்
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="72"/>
         <source>MONAI Label Server</source>
-        <translation type="unfinished"></translation>
+        <translation>மோனாய் சிட்டை சேவையகம்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="75"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையக முகவரி:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="79"/>
         <source>Server address history:</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையக முகவரி வரலாறு:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>Default extension for uploading images/labels</source>
-        <translation type="unfinished"></translation>
+        <translation>படங்கள்/லேபிள்களைப் பதிவேற்றுவதற்கான இயல்புநிலை நீட்டிப்பு</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>File Extension:</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு நீட்டிப்பு:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="93"/>
         <source>user-xyz</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர்-xyz</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User ID that will be sent to MONAI Label server for reference</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளையன்ட்/பயனர் அடையாளம், இது குறிப்புக்காக மோனாய் சிட்டை சேவையகத்திற்கு அனுப்பப்படும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User-ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளையன்ட்/பயனர் ஐடி:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Enable this option to auto run segmentation if pre-trained model exists when Next Sample is fetched</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுத்த மாதிரி பெறப்படும்போது முன் பயிற்சி பெற்ற மாதிரி இருந்தால், இந்த விருப்பத்தை தானாக இயக்க பிரிவுக்கு இயக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Auto-Run Pre-Trained Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>தானாக இயங்கும் முன் பயிற்சி பெற்ற மாதிரி:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Enable this option to fetch Next Sample after saving the label</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிளைச் சேமித்த பிறகு அடுத்த மாதிரியைப் பெற இந்த விருப்பத்தை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Auto-Fetch Next Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுத்த மாதிரி தானாக எடுக்கிறது:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
         <source>Enable this option to auto update model after submitting the label</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிளை சமர்ப்பித்த பிறகு தானாக புதுப்பித்தல் மாதிரியை இயக்க இந்த விருப்பத்தை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
         <source>Auto-Update Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>தானாக புதுப்பித்தல் மாதிரி:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Enable this option to ask for the user name every time the MONAILabelextension is loaded for the first time</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒவ்வொரு முறையும் முதல் முறையாக ஏற்றப்படும் ஒவ்வொரு முறையும் பயனர் பெயரைக் கேட்க இந்த விருப்பத்தை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Ask For User Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் பெயரைக் கேளுங்கள்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
         <source>Enable this option to allow overlapping segmentations</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒன்றுடன் ஒன்று பிரிவை அனுமதிக்க இந்த விருப்பத்தை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
         <source>Allow Overlapping Segmentations:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒன்றுடன் ஒன்று பிரிவை அனுமதிக்கவும்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
         <source>Enable this option to first read original label (predictions)</source>
-        <translation type="unfinished"></translation>
+        <translation>அசல் லேபிளை முதலில் படிக்க இந்த விருப்பத்தை இயக்கவும் (கணிப்புகள்)</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
         <source>Original Labels:</source>
-        <translation type="unfinished"></translation>
+        <translation>அசல் லேபிள்கள்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="174"/>
         <source>Enable this option to find options tab etc...</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பங்கள் தாவல் போன்றவற்றைக் கண்டுபிடிக்க இந்த விருப்பத்தை இயக்கவும் ...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="174"/>
         <source>Developer Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்குபவர் பயன்முறை:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Enable this option to show segments in 3D (slow) after mask update...</source>
-        <translation type="unfinished"></translation>
+        <translation>முகமூடி புதுப்பித்தலுக்குப் பிறகு 3D (மெதுவாக) பிரிவுகளைக் காட்ட இந்த விருப்பத்தை இயக்கவும் ...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Show Segments In 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>3D இல் பிரிவுகளைக் காட்டு:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="204"/>
         <source>Overlapping segmentations are only available with the &apos;.seg.nrrd&apos; file extension!Consider changing MONAILabel file extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒன்றுடன் ஒன்று பிரிவுகள் &apos;.seg.nrrd&apos; கோப்பு நீட்டிப்புடன் மட்டுமே கிடைக்கின்றன! மோனிலேபல் கோப்பு நீட்டிப்பை மாற்றுவதைக் கவனியுங்கள்.</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="303"/>
         <source>Select positive points</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடு நேரமம் பிரிவகம்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="309"/>
         <source>Select negative points</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடு எதிர்மம் பிரிவகம்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="316"/>
         <source>ROI/BBOX Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>கிங்/பாக்ச் வரியில்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="345"/>
         <source>Paint scribbles for selected scribble layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Paint scribbles க்கு தேர்ந்தெடுக்கப்பட்டது எழுது layer</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="347"/>
         <source>Erase scribbles for selected scribble layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Erase scribbles க்கு தேர்ந்தெடுக்கப்பட்டது எழுது layer</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="351"/>
         <source>Update label by sending scribbles to server to apply selected post processing method</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பு சிட்டை by sending scribbles பெறுநர் சேவையகம் பெறுநர் இடு தேர்ந்தெடுக்கப்பட்டது post processing method</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="354"/>
         <source>Change brush size for scribbles tool</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்கிரிபிள்ச் கருவிக்கு தூரிகை அளவை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="356"/>
         <source>Use 3D brush to paint/erase in multiple slices in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Use 3D மின்தொடி பெறுநர் paint/erase in multiple slices in 3D</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="383"/>
         <source>infer</source>
-        <translation type="unfinished"></translation>
+        <translation>infer</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="384"/>
         <source>train</source>
-        <translation type="unfinished"></translation>
+        <translation>ரயில்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="385"/>
         <source>activelearning</source>
-        <translation type="unfinished"></translation>
+        <translation>activelearning</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="386"/>
         <source>scoring</source>
-        <translation type="unfinished"></translation>
+        <translation>பொறிவுசெய்தல்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="395"/>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் பெயர்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="396"/>
         <source>Please enter your name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Please enter your பெயர்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="503"/>
         <source>{current}/{total} epoch is completed</source>
-        <translation type="unfinished"></translation>
+        <translation>{current}/{total} epoch is முடிந்தது</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="514"/>
         <source>Training: {status}</source>
-        <translation type="unfinished"></translation>
+        <translation>Training: {status}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="613"/>
         <source>{current}/{total} samples are labeled</source>
-        <translation type="unfinished"></translation>
+        <translation>{current}/{total} samples அரே labeled</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="890"/>
         <source>Accuracy: {value}</source>
-        <translation type="unfinished"></translation>
+        <translation>துல்லியம்: {value}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1034"/>
         <source>This will clear current scribbles session.
 Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>இது தற்போதைய ச்கிரிபிள்ச் அமர்வை அழிக்கும். 
+தொடர நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1104"/>
         <source>Please upgrade the monai server to latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>மோனாய் சேவையகத்தை அண்மைக் கால பதிப்பிற்கு மேம்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1115"/>
         <source>Failed to fetch models from remote server. Make sure server address is correct and &lt;server_uri&gt;/info/ is accessible in browser.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>தொலை சேவையகத்திலிருந்து மாதிரிகளைப் பெறுவதில் தோல்வி. சேவையக முகவரி சரியானது என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள் மற்றும் &lt;server_uri&gt;/ தகவல்/ உலாவியில் அணுகக்கூடியது. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1149"/>
         <location filename="MONAILabel/MONAILabel.py" line="1154"/>
         <source>Wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>காத்திருங்கள் ...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1170"/>
         <source>No Model selected is to run the training</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட எந்த மாதிரியும் பயிற்சியை இயக்குவது அல்ல</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1178"/>
         <source>Training: STARTED</source>
-        <translation type="unfinished"></translation>
+        <translation>பயிற்சி: தொடங்கியது</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1185"/>
         <source>Failed to run training in MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>மோனாய் சிட்டை சேவையகத்தில் பயிற்சியை இயக்குவதில் தோல்வி. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1192"/>
@@ -302,18 +310,22 @@ Are you sure to continue?</source>
 Status: {status}
 Start Time: {start_time}
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ஐடி: {id} 
+நிலை: {status} 
+தொடக்க நேரம்: {start_time}
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1207"/>
         <source>This will kill/stop current Training task.  Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>இது தற்போதைய பயிற்சி பணியை கொல்லும்/நிறுத்தும். தொடர நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1217"/>
         <source>Failed to stop Training Task.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed பெறுநர் நிறுத்து Training Task.
+ {message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1224"/>
@@ -321,30 +333,36 @@ Start Time: {start_time}
 Start Time: {start_time}
 End Time: {end_time}
 Result: {result}</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலை: {status} 
+தொடக்க நேரம்: {start_time} 
+இறுதி நேரம்: {end_time} 
+முடிவு: {result}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1252"/>
         <source>This will close current scene.  Please make sure you have saved your current work.
 Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>இது தற்போதைய காட்சியை மூடும். உங்கள் தற்போதைய வேலையை நீங்கள் சேமித்துள்ளீர்கள் என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள். 
+தொடர நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1265"/>
         <source>No Strategy Found/Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>இல்லை Strategy Found/Selected</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1276"/>
         <source>Unlabeled samples or images not found at server.
 Instead please go to File -&gt; Add Data to load image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unlabeled samples or படங்கள் not found at server.
+Instead please go பெறுநர் கோப்பு -&gt; கூட்டு தகவல்கள் பெறுநர் load image.</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1334"/>
         <source>Failed to fetch Sample from MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>மோனாய் சிட்டை சேவையகத்திலிருந்து மாதிரியைப் பெறுவதில் தோல்வி. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1387"/>
@@ -353,7 +371,11 @@ Instead please go to File -&gt; Add Data to load image.</source>
 Click &apos;OK&apos; to proceed with the segmentation.
 Click &apos;Cancel&apos; to not upload any data and cancel segmentation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>மூல தொகுதி - கூடுதல் நோயாளி செய்தி இல்லாமல் - தொலைநிலை தரவு செயலாக்க சேவையகத்திற்கு அனுப்பப்படும்: {server_url}. 
+
+பிரிவைத் தொடர &apos;சரி&apos; என்பதைக் சொடுக்கு செய்க. 
+எந்தவொரு தரவையும் பதிவேற்ற வேண்டாம் மற்றும் பிரிவை ரத்து செய்ய &apos;நீக்கறல்&apos; என்பதைக் சொடுக்கு செய்க.
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1428"/>
@@ -361,141 +383,146 @@ Click &apos;Cancel&apos; to not upload any data and cancel segmentation.
 Please upgrade to latest monailabel version (&gt; 0.2.0)</source>
         <oldsource>Server Error:: Session creation Failed
 Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>சேவையகம் Error: அமர்வு creation Failed
+Please மேம்படுத்தல் பெறுநர் latest monailabel version (&gt; 0.2.0)</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1434"/>
         <source>Failed to upload volume to Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையகத்தில் அளவை பதிவேற்றுவதில் தோல்வி. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1441"/>
         <source>Label File not selected</source>
-        <translation type="unfinished"></translation>
+        <translation>சிட்டை கோப்பு தேர்ந்தெடுக்கப்படவில்லை</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1450"/>
         <source>Failed to import label</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிளை இறக்குமதி செய்வதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1521"/>
         <source>Failed to save Label to MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிளை மோனாய் சிட்டை சேவையகத்தில் சேமிப்பதில் தோல்வி. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1532"/>
         <source>Label-Mask saved into MONAI Label Server</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்-மாச்க் மோனாய் சிட்டை சேவையகத்தில் சேமிக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1577"/>
         <source>Failed to run inference in MONAI Label Server.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>மோனாய் சிட்டை சேவையகத்தில் அனுமானத்தை இயக்குவதில் தோல்வி. 
+{message}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1594"/>
         <source>Please select a model</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு மாதிரியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1599"/>
         <source>Please add the required label to run interactive model</source>
-        <translation type="unfinished"></translation>
+        <translation>ஊடாடும் மாதிரியை இயக்க தேவையான லேபிளைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1616"/>
         <source>Run Inference for segment: {label}; model: {model}; 3d {in3d}</source>
-        <translation type="unfinished"></translation>
+        <translation>ஓடு Inference க்கு segment: {label}; model: {model}; 3d {in3d}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1617"/>
         <source>enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>இயக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1618"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>முடக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="2051"/>
         <source>Failed to post process label on MONAI Label Server using {scribbles_method}.
 {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>{Scribbles_method bey ஐப் பயன்படுத்தி மோனாய் சிட்டை சேவையகத்தில் செயல்முறை லேபிளை இடுகையிடுவதில் தோல்வி. 
+{scribbles_method}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="2418"/>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் உள்நுழைவு</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="40"/>
         <source>Fetch/Refresh models from Server</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையகத்திலிருந்து மாதிரிகளைப் பெறுங்கள்/புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="50"/>
         <source>App Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டு பெயர்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="73"/>
         <source>MONAI Label server:</source>
-        <translation type="unfinished"></translation>
+        <translation>மோனாய் சிட்டை சேவையகம்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="80"/>
         <source>Source Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>மூல தொகுதி:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="90"/>
         <source>Select Node</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடு கணு</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="103"/>
         <source>Upload Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவேற்றும் தொகுதி</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="115"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பங்கள்</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="157"/>
         <source>Section:</source>
-        <translation type="unfinished"></translation>
+        <translation>Section:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="174"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="189"/>
         <source>Active Learning</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் கற்றல்</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="238"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலை:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="252"/>
         <source>Accuracy:</source>
-        <translation type="unfinished"></translation>
+        <translation>துல்லியம்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="259"/>
         <source>Average Dice score computed over submitted labels</source>
-        <translation type="unfinished"></translation>
+        <translation>சமர்ப்பிக்கப்பட்ட லேபிள்களில் சராசரி டைச் மதிப்பெண் கணக்கிடப்படுகிறது</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="269"/>
@@ -503,141 +530,141 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="430"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="706"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>மாதிரி:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="288"/>
         <source>Train</source>
-        <translation type="unfinished"></translation>
+        <translation>பயிற்சி</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="295"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுத்து</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="307"/>
         <source>Submit Label</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிளை சமர்ப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="314"/>
         <source>Strategy:</source>
-        <translation type="unfinished"></translation>
+        <translation>கையாளும் முறை:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="321"/>
         <source>Next Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுத்த மாதிரி</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="334"/>
         <source>Segment Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment திருத்தி</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="359"/>
         <source>Auto Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்டோ பிரிவு</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="383"/>
         <source>Select pre-trained segmentation model</source>
-        <translation type="unfinished"></translation>
+        <translation>முன் பயிற்சி பெற்ற பிரிவு மாதிரியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="400"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>ஓடு</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="410"/>
         <source>SmartEdit</source>
         <oldsource>SmartEdit / Deepgrow</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>புத்திசாலித்தனமான</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="446"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="598"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பு</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="459"/>
         <source>Select Deepgrow/DeepEdit Model</source>
-        <translation type="unfinished"></translation>
+        <translation>டீப்ரோ/டீப்எடிட் மாதிரியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="466"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="686"/>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="494"/>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation>உறை</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="513"/>
         <source>Foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்புறம்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="535"/>
         <source>  Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>  பின்னணி:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="503"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>தானி</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="582"/>
         <source>Scribbles</source>
-        <translation type="unfinished"></translation>
+        <translation>எழுத்தாளர்கள்</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="605"/>
         <source>Paint</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ணப்பூச்சு</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="615"/>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="629"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவு:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="667"/>
         <source>3D</source>
-        <translation type="unfinished"></translation>
+        <translation>3D</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="679"/>
         <source>Scribbles:</source>
-        <translation type="unfinished"></translation>
+        <translation>கிறுக்கல்கள்:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="555"/>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="728"/>
         <source>ROI:</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="755"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>கருவிகள்</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="776"/>
         <source>Import Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>இறக்குமதி Label:</translation>
     </message>
 </context>
 <context>
@@ -646,31 +673,31 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="614"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="22"/>
         <source>Basic mode</source>
-        <translation type="unfinished"></translation>
+        <translation>அடிப்படை முறை</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="615"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="38"/>
         <source>Reviewer&apos;s mode</source>
-        <translation type="unfinished"></translation>
+        <translation>விமர்சகரின் பயன்முறை</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="618"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="53"/>
         <source>Search Images</source>
-        <translation type="unfinished"></translation>
+        <translation>படங்களைத் தேடுங்கள்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="619"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="80"/>
         <source>Image Ids</source>
-        <translation type="unfinished"></translation>
+        <translation>பட ஐடிகள்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="622"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="87"/>
         <source>imageId_1, imageId2, ...</source>
-        <translation type="unfinished"></translation>
+        <translation>படஅடையாளம்_1, படஅடையாளம்2, ...</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="623"/>
@@ -680,25 +707,25 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="161"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="232"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடல்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="626"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="74"/>
         <source>Ids</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐடிஎச்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="627"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="111"/>
         <source>Select annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறுகுறிப்பாளரைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="628"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="121"/>
         <source>Select reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>மதிப்பாய்வாளரைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="629"/>
@@ -706,7 +733,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="131"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="820"/>
         <source>approved</source>
-        <translation type="unfinished"></translation>
+        <translation>approved</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="630"/>
@@ -714,61 +741,61 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="138"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="802"/>
         <source>flagged</source>
-        <translation type="unfinished"></translation>
+        <translation>flagged</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="634"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="105"/>
         <source>Annotator/Reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறுகுறிப்பு/விமர்சகர்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="636"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="175"/>
         <source>Select level of difficulty</source>
-        <translation type="unfinished"></translation>
+        <translation>சிரமத்தின் அளவைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="637"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="195"/>
         <source>easy</source>
-        <translation type="unfinished"></translation>
+        <translation>எளிய</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="638"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="202"/>
         <source>medium</source>
-        <translation type="unfinished"></translation>
+        <translation>நடுத்தர</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="639"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="209"/>
         <source>hard</source>
-        <translation type="unfinished"></translation>
+        <translation>கடினம்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="643"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="169"/>
         <source>Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>தகுதி</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="644"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="247"/>
         <source>Result:</source>
-        <translation type="unfinished"></translation>
+        <translation>முடிவு:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="646"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="258"/>
         <source>Image Id</source>
-        <translation type="unfinished"></translation>
+        <translation>படம் அடையாளம்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="648"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="271"/>
         <source>found</source>
-        <translation type="unfinished"></translation>
+        <translation>காணப்பட்டது</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="650"/>
@@ -776,25 +803,25 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="284"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="813"/>
         <source>segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="651"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="295"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்டு</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="652"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="307"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையகம்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="655"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="345"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>இணை</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="656"/>
@@ -802,7 +829,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="352"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="754"/>
         <source>Segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிக்கப்பட்ட</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="657"/>
@@ -810,201 +837,201 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="369"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="747"/>
         <source>Approved</source>
-        <translation type="unfinished"></translation>
+        <translation>அங்கீகரிக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="658"/>
         <source>Server IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையக ஐபி:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="659"/>
         <source>Reviewer:</source>
-        <translation type="unfinished"></translation>
+        <translation>விமர்சகர்:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="662"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="415"/>
         <source>Data Evaluation</source>
-        <translation type="unfinished"></translation>
+        <translation>தகவல்கள் Evaluation</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="665"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="428"/>
         <source>Level of difficulty</source>
-        <translation type="unfinished"></translation>
+        <translation>சிரமத்தின் நிலை</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="666"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="440"/>
         <source>Easy</source>
-        <translation type="unfinished"></translation>
+        <translation>எளிய</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="667"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="450"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>நடுத்தர</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="668"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="460"/>
         <source>Hard</source>
-        <translation type="unfinished"></translation>
+        <translation>கடினம்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="669"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="476"/>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>முந்தைய</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="670"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="486"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுத்தது</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="671"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="493"/>
         <source>Flag</source>
-        <translation type="unfinished"></translation>
+        <translation>கொடி</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="672"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="500"/>
         <source>Approve</source>
-        <translation type="unfinished"></translation>
+        <translation>Approve</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="673"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="511"/>
         <source>Image: x/y</source>
-        <translation type="unfinished"></translation>
+        <translation>Image: x/y</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="674"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="534"/>
         <source>Version of labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Version of சிட்டைகள்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="675"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="549"/>
         <source>Start label edit</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடங்கு சிட்டை தொகு</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="678"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="564"/>
         <source>Overwrite this version</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த பதிப்பை மேலெழுதவும்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="679"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="572"/>
         <source>Save as new version</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய பதிப்பாக சேமிக்கவும்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="680"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="577"/>
         <source>Delete this version</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த பதிப்பை நீக்கு</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="681"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="588"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="682"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="603"/>
         <source>Image Id: </source>
-        <translation type="unfinished"></translation>
+        <translation>படம் Id: </translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="683"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="610"/>
         <source>Annotator:</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotator:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="684"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="617"/>
         <source>Annotation Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotation தேதி:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="685"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="624"/>
         <source>Difficulty Level:</source>
-        <translation type="unfinished"></translation>
+        <translation>கடினநிலை:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="686"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="631"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலை:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="687"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="638"/>
         <source>Editor: </source>
-        <translation type="unfinished"></translation>
+        <translation>ஆசிரியர்: </translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="688"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="645"/>
         <source>Editing Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Editing தேதி:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="689"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="701"/>
         <source>Add Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>கூட்டு கருத்து</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="692"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="716"/>
         <source>Data Set Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>தகவல்கள் கணம் Explorer</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="693"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="727"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்று</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="696"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="761"/>
         <source>Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotator</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="697"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="781"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>வடிப்பி</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="698"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="795"/>
         <source>not segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரிக்கப்படாதது</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="383"/>
         <source>Server Url</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையக முகவரி</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="400"/>
         <source>Reviewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Reviewer</translation>
     </message>
 </context>
 <context>
@@ -1012,7 +1039,7 @@ Please upgrade to latest monailabel version (&gt; 0.2.0)</oldsource>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="42"/>
         <source>Active Learning</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் கற்றல்</translation>
     </message>
 </context>
 </TS>
