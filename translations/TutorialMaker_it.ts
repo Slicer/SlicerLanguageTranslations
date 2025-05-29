@@ -11,12 +11,12 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="249"/>
         <source>Write your text here</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci qui il tuo testo</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="332"/>
         <source>Write something here</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrivi qui qualcosa</translation>
     </message>
 </context>
 <context>
@@ -24,7 +24,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulo</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="26"/>
@@ -39,19 +39,19 @@
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="33"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Il percorso del file non esiste</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="47"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="68"/>
         <source>Message from {endpoint}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Messaggio da {endpoint}: {message}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="48"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="69"/>
         <source>Malformed Response from {endpoint}</source>
-        <translation type="unfinished"></translation>
+        <translation>Risposta Malformata da {endpoint}</translation>
     </message>
 </context>
 <context>
@@ -59,7 +59,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>FinestraPrincipale</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="34"/>
@@ -69,17 +69,17 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="41"/>
         <source>Create a new tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Creare un nuovo tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="67"/>
         <source>Tutorial title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Titolo del Tutorial:</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/CreateNewTutorial.ui" line="74"/>
         <source>Author name(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome dell&apos;autore(i):</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialEditor.ui" line="20"/>
@@ -140,42 +140,42 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="323"/>
         <source>Write a description for the slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrivi una descrizione per la diapositiva</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="900"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="901"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="902"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="903"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="904"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="905"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="927"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="931"/>
@@ -185,17 +185,17 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="935"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerchio</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="938"/>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Clic</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="943"/>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Freccia</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="947"/>
