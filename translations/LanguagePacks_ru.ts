@@ -171,7 +171,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="347"/>
         <source>Keyboard shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Комбинации клавиш:</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="22"/>
