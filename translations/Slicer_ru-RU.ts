@@ -1674,7 +1674,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"/>
         <source>Specifies the pixel type for the input/output images.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Определяет тип пикселя для входных/выходных изображений. &quot;Бинарный&quot; тип пикселей использует модифицированный алгоритм, при котором изображение считывается как unsigned char (беззнаковый байт), создается знаковая карта расстояний и передискретизируется, а затем пороговое изображение типа unsigned char записывается на диск.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
