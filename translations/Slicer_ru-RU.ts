@@ -1664,7 +1664,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
         <source>Pixel Type</source>
-        <translation type="unfinished">Тип пикселей</translation>
+        <translation>Тип пикселя</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="15"/>
