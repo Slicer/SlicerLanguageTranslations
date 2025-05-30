@@ -2412,7 +2412,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="188"/>
         <source>Echo server</source>
-        <translation type="unfinished">Servidor Eco</translation>
+        <translation>Servidor Echo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="192"/>
