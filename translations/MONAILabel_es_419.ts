@@ -170,7 +170,7 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="204"/>
         <source>Overlapping segmentations are only available with the &apos;.seg.nrrd&apos; file extension!Consider changing MONAILabel file extension.</source>
-        <translation>Las segmentaciones solapadas sólo están disponibles con la extensión de archivo &apos;.seg.nrrd&apos; ¡Considere la posibilidad de cambiar la extensión de archivo MONAILabel!</translation>
+        <translation>Las segmentaciones solapadas sólo están disponibles con la extensión de archivo &apos;.seg.nrrd&apos; ¡Considere la posibilidad de cambiar la extensión de archivo MONAILabel.</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="303"/>
@@ -185,7 +185,7 @@ Desarrollado por NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="316"/>
         <source>ROI/BBOX Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Indicador ROI/BBOX</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="345"/>
