@@ -4832,7 +4832,7 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 0 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
         <oldsource>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</oldsource>
-        <translation type="unfinished">பிரிக்கப்பட்ட தரவுகளிலிருந்து 3D மேற்பரப்பு மாதிரிகளை உருவாக்கவும். &lt;p&gt; எம்.ஆர்.எம்.எல் காட்சியில் மாதிரி வரிசைமுறை முனையின் கீழ் மாதிரிகள் ச்லைசரில் இறக்குமதி செய்யப்படுகின்றன. மாதிரி வண்ணங்கள் உள்ளீட்டு அளவோடு தொடர்புடைய வண்ண அட்டவணையால் அமைக்கப்படுகின்றன (நீங்கள் மாதிரிக் காட்சி கோப்பை ஏற்றினால் மட்டுமே இந்த வண்ணங்கள் தெரியும்). &lt;/P&gt; &lt;p&gt; &lt;b&gt; io: &lt;/b&gt; &lt;/p&gt; &lt;p&gt; ஒரு &lt;i&gt; உள்ளீட்டு தொகுதி &lt;/i&gt; இது ஒரு பிரிக்கப்பட்ட சிட்டை வரைபட அளவு என்பதைக் குறிப்பிடவும். உள்ளீட்டு அளவிலிருந்து உருவாக்கப்பட்ட திரும்ப மாதிரிகளைக் கட்டுப்படுத்த ஒரு கட்டமைப்பை வழங்கப் புதிய &lt;i&gt; மாதிரிகள் &lt;/i&gt; வரிசைமுறையை உருவாக்கவும். &lt;/P&gt; &lt;p&gt; &lt;b&gt; பலவற்றை உருவாக்கவும்: &lt;/b&gt; &lt;/p&gt; &lt;p &gt; &lt;i&gt; லேபிள்களின் பட்டியலை நீங்கள் குறிப்பிட்டால், அது எந்தத் தொடக்க/இறுதி சிட்டை அமைப்புகளையும் சவாரி செய்யும். &lt;/P&gt; &lt;p&gt; நீங்கள் சொடுக்கு செய்தால் &lt;i&gt; அனைத்தையும் உருவாக்குங்கள் &lt;/i&gt; அது சவாரி செய்யும் லேபிள்களின் பட்டியல் மற்றும் எந்தத் தொடக்க/இறுதி சிட்டை அமைப்புகள். பலகோணங்களின் (தசம சதவீதம்). நீங்கள் மென்மையான அல்லது அழிவை விரும்பவில்லை என்றால் 0 மற்றும் 1 ஐப் பயன்படுத்தவும். &lt;br&gt; இந்தப் பலகத்தில் இயல்புநிலைகளைப் பிரிக்க அல்லது புள்ளி இயல்புகளை உருவாக்க நீங்கள் கொடிகளை அமைக்கலாம். , மூட்டு மென்மையாக்காவிட்டால் மென்மையாக்குதல், மற்றும் அழிவு, இல்லையெனில் அழிவுக்குப் பிறகு); இந்த மாதிரிகள் எம்.ஆர்.எம்.எல் கோப்பில் சேமிக்கப்படவில்லை, பைதான் சாளரத்தில் தற்காலிக கோப்புகளை நீக்குவதை முடக்குகின்றன: &lt;br&gt; &lt;i&gt; sliceer.modules.modelmaker.climodulelogic ().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
+        <translation>பிரிக்கப்பட்ட தரவுகளிலிருந்து 3D மேற்பரப்பு மாதிரிகளை உருவாக்கவும். &lt;p&gt; எம்.ஆர்.எம்.எல் காட்சியில் மாதிரி வரிசைமுறை முனையின் கீழ் மாதிரிகள் ச்லைசரில் இறக்குமதி செய்யப்படுகின்றன. மாதிரி வண்ணங்கள் உள்ளீட்டு அளவோடு தொடர்புடைய வண்ண அட்டவணையால் அமைக்கப்படுகின்றன (நீங்கள் மாதிரி காட்சி கோப்பை ஏற்றினால் மட்டுமே இந்த வண்ணங்கள் தெரியும்). உள்ளீட்டு அளவிலிருந்து உருவாக்கப்பட்ட திரும்பும் மாதிரிகளைக் கட்டுப்படுத்த ஒரு புதிய &lt;i&gt; மாதிரிகள் &lt;/i&gt; வரிசைமுறையை உருவாக்கவும். அமைப்புகள். நீங்கள் மென்மையாக்கவோ அல்லது அழிவாகவோ விரும்பவில்லை என்றால் 0 மற்றும் 0 ஐப் பயன்படுத்தவும். இந்த மாதிரிகள் எம்.ஆர்.எம்.எல் கோப்பில் சேமிக்கப்படவில்லை, பைதான் சாளரத்தில் தற்காலிக கோப்புகளை நீக்குவதை முடக்குகின்றன: &lt;br&gt; &lt;i&gt; sliceer.modules.modelmaker.climodulelogic ().</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
@@ -5457,7 +5457,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டின் நோக்குநிலை. இந்த நோக்குநிலை குறியீடு ITK மாநாட்டைப் பயன்படுத்துகிறது என்பதை நினைவில் கொள்க: ஒவ்வொரு அச்சுகளும் எங்கிருந்து உருவாகின்றன என்பதைக் குறிக்கின்றன. இது பொதுவாகப் பயன்படுத்தப்படும் நோக்குநிலை மரபுகளுக்கு நேர்மாறானது, எடுத்துக்காட்டாக, எல்.பி.எச் ஒருங்கிணைப்பு கணினி அச்சு திசைகளுக்கு ஒத்த பட அச்சுகளுடன் படத்தைப் பெறுவதற்கு, இந்த அளவுருவை RAI க்கு அமைக்க வேண்டும்.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
@@ -9276,32 +9276,32 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="275"/>
         <source>Load data from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>முகவரி இலிருந்து தரவை ஏற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="277"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="281"/>
         <source>Load</source>
-        <translation type="unfinished">சுமை</translation>
+        <translation>சுமை</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="283"/>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>கொடுக்கப்பட்ட முகவரி இலிருந்து தரவுத்தொகுப்பைப் பதிவிறக்கி காட்சிக்கு இறக்குமதி செய்யுங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="285"/>
         <source>Show folder</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புறையைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="286"/>
         <source>Show folder where custom data sets are downloaded ({path}).</source>
-        <translation type="unfinished"></translation>
+        <translation>தனிப்பயன் தரவுத் தொகுப்புகள் பதிவிறக்கம் செய்யப்படும் கோப்புறையைக் காட்டு ({path}).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="543"/>
@@ -9402,7 +9402,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1008"/>
         <source>Error was reported while loading {count} nodes from {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>{count} இலிருந்து {path} முனைகளை ஏற்றும்போது பிழை தெரிவிக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1011"/>
@@ -10354,21 +10354,21 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</oldsource>
-        <translation type="unfinished">முழுமையான பிரிவை உருவாக்க வளரும் பிரிவுகள் &lt;br&gt;.
- ஆரம்ப பிரிவுகளின் இருப்பிடம், அளவு மற்றும் வடிவம் மற்றும் மூல அளவின் உள்ளடக்கம் ஆகியவை கணக்கில் எடுத்துக்கொள்ளப்படுகின்றன.
- மூல அளவு ஒளி திடீரென மாறும் இடத்தில் இறுதி பிரிவு எல்லைகள் வைக்கப்படும். வழிமுறைகள்: &lt;p&gt;
- &lt;ul சூல் தண்டு = &quot;cragin: 0&quot;&gt;
- &lt;li&gt; ஒவ்வொரு பிராந்தியத்திலும் ஒரு தனி பிரிவுக்கு சொந்தமான விதைகளை வரைய வண்ணப்பூச்சு அல்லது பிற தீங்கு விளைவிக்கும்.
- ஒவ்வொரு விதை வெவ்வேறு பிரிவுடன் வரைவதற்கு. குறைந்தபட்சம் இரண்டு பிரிவுகள் தேவை.
- &lt;li&gt; முழு பிரிவின் முன்னோட்டத்தைக் கணக்கிட &lt;/dfn&gt; ஐத் துவக்க &lt;/dfn&gt; என்பதைக் சொடுக்கு செய்க.
- &lt;li&gt; பட துண்டுகள் மூலம் உலாவுக. முன்னோட்டமிடப்பட்ட பிரிவு முடிவு சரியாக இல்லாவிட்டால், மாறவும்
- வண்ணப்பூச்சு அல்லது பிற விளைவுகள் மற்றும் தவறாக வகைப்படுத்தப்பட்ட பகுதியில் அதிக விதைகளைச் சேர்க்கவும். முழு பிரிவு இருக்கும்
- சில நொடிகளில் தானாகவே புதுப்பிக்கப்படும்
- &lt;li&gt; முன்னோட்டமிடப்பட்ட முடிவுடன் பிரிவைப் புதுப்பிக்க &lt;/dfn&gt; ஐப் பயன்படுத்துங்கள் &lt;/dfn&gt; என்பதைக் சொடுக்கு செய்க.
- &lt;/ul&gt; &lt;p&gt;
- பிரிவுகள் ஒன்றுடன் ஒன்று இருந்தால், பிரிவுகள் அட்டவணையில் உயர்ந்த பிரிவுக்கு முன்னுரிமை இருக்கும்.
- விளைவு &lt;a href = &quot;http://interactivemedical.org/imic2014/camerarareadypapers/paper%204/imic_id4_fastgrowcut.pdf&quot;&gt; வேகமாக வளரும்-cut முறை &lt;/a&gt; ஐப் பயன்படுத்துகிறது.
- &lt;p&gt;</translation>
+        <translation>முழுமையான பிரிவை உருவாக்க வளரும் பிரிவுகள் &lt;br&gt;. 
+ஆரம்ப பிரிவுகளின் இருப்பிடம், அளவு மற்றும் வடிவம் மற்றும் மூல அளவின் உள்ளடக்கம் ஆகியவை கணக்கில் எடுத்துக்கொள்ளப்படுகின்றன. 
+மூல அளவு ஒளி திடீரென மாறும் இடத்தில் இறுதி பிரிவு எல்லைகள் வைக்கப்படும். வழிமுறைகள்: &lt;p&gt; 
+&lt;ul சூல் தண்டு = &quot;cragin: 0&quot;&gt; 
+&lt;li&gt; ஒவ்வொரு பிராந்தியத்திலும் ஒரு தனி பிரிவுக்கு சொந்தமான விதைகளை வரைய வண்ணப்பூச்சு அல்லது பிற விளைவுகளைப் பயன்படுத்துங்கள். 
+ஒவ்வொரு விதை வெவ்வேறு பிரிவுடன் வரைவதற்கு. குறைந்தபட்சம் இரண்டு பிரிவுகள் தேவை. 
+&lt;li&gt; முழு பிரிவின் முன்னோட்டத்தைக் கணக்கிட &lt;/dfn&gt; ஐத் துவக்க &lt;/dfn&gt; என்பதைக் சொடுக்கு செய்க. 
+&lt;li&gt; பட துண்டுகள் மூலம் உலாவுக. முன்னோட்டமிடப்பட்ட பிரிவு முடிவு சரியாக இல்லாவிட்டால், மாறவும் 
+வண்ணப்பூச்சு அல்லது பிற விளைவுகள் மற்றும் தவறாக வகைப்படுத்தப்பட்ட பகுதியில் அதிக விதைகளைச் சேர்க்கவும். முழு பிரிவு இருக்கும் 
+சில நொடிகளில் தானாகவே புதுப்பிக்கப்படும் 
+&lt;li&gt; முன்னோட்டமிடப்பட்ட முடிவுடன் பிரிவைப் புதுப்பிக்க &lt;/dfn&gt; ஐப் பயன்படுத்துங்கள் &lt;/dfn&gt; என்பதைக் சொடுக்கு செய்க. 
+&lt;/ul&gt; &lt;p&gt; 
+பிரிவுகள் ஒன்றுடன் ஒன்று இருந்தால், பிரிவுகள் அட்டவணையில் உயர்ந்த பிரிவுக்கு முன்னுரிமை இருக்கும். 
+விளைவு &lt;a href = &quot;http://interactivemedical.org/imic2014/camerarareadypapers/paper%204/imic_id4_fastgrowcut.pdf&quot;&gt; வேகமாக வளரும்-cut முறை &lt;/a&gt; ஐப் பயன்படுத்துகிறது. 
+&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="79"/>
@@ -12955,7 +12955,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="76"/>
         <source>Terminology</source>
-        <translation type="unfinished">சொல்</translation>
+        <translation>சொல்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="160"/>
@@ -12969,7 +12969,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <extracomment>For formatting of terminology entry with a modifier in simplified mode. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
 For formatting of terminology entry name in simplified mode. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished">%2 %1</translation>
+        <translation>%2 %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="555"/>
@@ -12978,25 +12978,25 @@ For formatting of terminology entry name in simplified mode. %1 is region name (
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
 For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished">%1, %2</translation>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="593"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation type="unfinished">%2 %2</translation>
+        <translation>%2 %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="605"/>
         <source>Unknown in %1</source>
         <extracomment>For formatting of terminology entry name. %1 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 இல் தெரியவில்லை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="625"/>
         <source>%1: %2</source>
         <extracomment>For formatting of terminology entry name. %1 is category name (e.g., &quot;Morphologically Altered Structure&quot;), %2 is the type in region (&quot;Mass in Liver&quot;)</extracomment>
-        <translation type="unfinished">%1, %2 {1:?}</translation>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -15148,7 +15148,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="434"/>
         <source>Export to color table</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண அட்டவணைக்கு ஏற்றுமதி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1056"/>
@@ -16049,7 +16049,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1198"/>
         <source>Toggle selected segments visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட பிரிவுகளின் தெரிவுநிலையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1202"/>
@@ -16794,12 +16794,12 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1321"/>
         <source>Show slice edge</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் எட்ச் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1324"/>
         <source>Show slice edge in the 3D view</source>
-        <translation type="unfinished"></translation>
+        <translation>3D பார்வையில் ச்லைச் எட்சைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="409"/>
@@ -17234,12 +17234,12 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="350"/>
         <source>Create new %1</source>
-        <translation type="unfinished">புதிய %1 ஐ உருவாக்கவும்</translation>
+        <translation>புதிய %1 ஐ உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2567"/>
         <source>node</source>
-        <translation type="unfinished">கணு</translation>
+        <translation>கணு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
@@ -17814,7 +17814,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="366"/>
         <source>Reset settings to default</source>
-        <translation type="unfinished"></translation>
+        <translation>அமைப்புகளை இயல்புநிலைக்கு மீட்டமைக்கவும்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="385"/>
@@ -19659,12 +19659,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="166"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt; வண்ணங்கள் தொகுதி &lt;/b&gt; வண்ணத் தேடல் அட்டவணைகள், வண்ண முனைகளில் சேமிக்கப்படுகிறது. தொடர்ச்சியான மேப்பிங்கிற்கும் தனித்துவமான அட்டவணைகள் பயன்படுத்தப்படலாம், இந்த விசயத்தில் வண்ணங்கள் குறிப்பிட்ட வரம்பிற்குள் சம தூரத்தில் மாதிரிகளாகப் பயன்படுத்தப்படுகின்றன, மேலும் அவற்றுக்கிடையே சீராக இடைக்கணிக்கின்றன (எடுத்துக்காட்டு: சாம்பல்). வண்ணங்களுக்கு பெயர்கள் எதுவும் குறிப்பிடப்படவில்லை. &lt;/Li&gt; அனைத்து உள்ளமைக்கப்பட்ட வண்ண அட்டவணைகள் படிக்க மட்டுமே. வண்ணங்களைத் திருத்த, &apos;நகல்&apos; கோப்புறை ஐகானைக் சொடுக்கு செய்வதன் மூலம் வண்ண அட்டவணையின் நகலை உருவாக்கவும். &lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="188"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">இந்த வேலையை NA-MIC, NAC, BRN, NCIGT மற்றும் ச்லைசர் சமூகம் ஆதரித்தன.</translation>
+        <translation>இந்த வேலையை NA-MIC, NAC, BRN, NCIGT மற்றும் ச்லைசர் சமூகம் ஆதரித்தன.</translation>
     </message>
 </context>
 <context>
@@ -19677,7 +19677,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="27"/>
         <source>Color legend</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண புராணக்கதை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
@@ -19732,34 +19732,34 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="163"/>
         <source>Add new empty color table node.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய வெற்று வண்ண அட்டவணை முனையைச் சேர்க்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
         <source>Color table</source>
         <oldsource>Color Table</oldsource>
-        <translation type="unfinished">வண்ண அட்டவணை</translation>
+        <translation>வண்ண அட்டவணை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
         <source>Number of colors: </source>
         <oldsource>Number of Colors: </oldsource>
-        <translation type="unfinished">வண்ணங்களின் எண்ணிக்கை: </translation>
+        <translation>வண்ணங்களின் எண்ணிக்கை: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="246"/>
         <source>Hide empty colors: </source>
-        <translation type="unfinished"></translation>
+        <translation>வெற்று வண்ணங்களை மறைக்க: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="317"/>
         <source>Add new color to color table</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண அட்டவணையில் புதிய வண்ணத்தைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
         <source>Delete currently selected color</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போது தேர்ந்தெடுக்கப்பட்ட வண்ணத்தை நீக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -19790,7 +19790,7 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="439"/>
         <source>Unnamed</source>
         <extracomment>This is the default name for a new color in a color table</extracomment>
-        <translation type="unfinished">பெயரில்லாதது</translation>
+        <translation>பெயரில்லாதது</translation>
     </message>
 </context>
 <context>
@@ -21628,7 +21628,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="43"/>
         <source>GeneralizedReformat</source>
-        <translation type="unfinished"></translation>
+        <translation>பொதுமைப்படுத்தப்பட்ட ரெஃபார்மட்</translation>
     </message>
 </context>
 <context>
@@ -24355,13 +24355,13 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="873"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1010"/>
         <source>File writing may have failed because filename is too long: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு பெயர் மிக நீளமானது என்பதால் கோப்பு எழுதுதல் தோல்வியடைந்திருக்கலாம்: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="880"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1017"/>
         <source>File writing may have failed because the output folder name is too long: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு கோப்புறை பெயர் மிக நீளமாக இருப்பதால் கோப்பு எழுதுதல் தோல்வியடைந்திருக்கலாம்: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
@@ -24425,12 +24425,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="96"/>
         <source>Invert:</source>
-        <translation type="unfinished"></translation>
+        <translation>தலைகீழ்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="103"/>
         <source>Reverse the order of colors in the lookup table to display this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த அளவைக் காட்ட தேடல் அட்டவணையில் வண்ணங்களின் வரிசையை மாற்றியமைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="149"/>
@@ -24447,7 +24447,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="216"/>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
 </context>
 <context>
@@ -26146,12 +26146,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="231"/>
         <source>Maximum filename length:</source>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்ச கோப்பு பெயர் நீளம்:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="238"/>
         <source>Limit the maximum length of filenames. For compatibility with Windows systems, a low value such as 50 is recommended. Set a higher value to allow using longer filenames that match long node names.</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு பெயர்களின் அதிகபட்ச நீளத்தைக் கட்டுப்படுத்துங்கள். சாளரங்கள் அமைப்புகளுடன் பொருந்தக்கூடிய தன்மைக்கு, 50 போன்ற குறைந்த மதிப்பு பரிந்துரைக்கப்படுகிறது. நீண்ட முனை பெயர்களுடன் பொருந்தக்கூடிய நீண்ட கோப்பு பெயர்களைப் பயன்படுத்த அனுமதிக்க அதிக மதிப்பை அமைக்கவும்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="110"/>
@@ -26182,7 +26182,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="214"/>
         <source>Max. filename length</source>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்சம். கோப்பு பெயர் நீளம்</translation>
     </message>
 </context>
 <context>
@@ -26830,12 +26830,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="126"/>
         <source>Show slice edge in 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>3D இல் ச்லைச் எட்சைக் காட்டு:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="133"/>
         <source>Show colored frame around the slice when displayed in 3D views.</source>
-        <translation type="unfinished"></translation>
+        <translation>3D காட்சிகளில் காட்டப்படும் போது துண்டுகளைச் சுற்றி வண்ணச் சட்டத்தைக் காட்டுங்கள்.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="146"/>
@@ -26958,7 +26958,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="121"/>
         <source>Slice edge visibility in 3D views</source>
-        <translation type="unfinished"></translation>
+        <translation>3D காட்சிகளில் விளிம்பு தெரிவுநிலை</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="126"/>
@@ -27829,18 +27829,18 @@ Tags: %6</source>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="138"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="151"/>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐடி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="158"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="168"/>
         <source>If enabled, double-clicking the color column opens the terminology selector. Otherwise the color can be edited via simple color selector. True by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயக்கப்பட்டால், வண்ண நெடுவரிசையை இருமுறை சொடுக்கு செய்வது சொற்களஞ்சியம் தேர்வாளரைத் திறக்கும். இல்லையெனில் வண்ணத்தை எளிய வண்ண தேர்வாளர் வழியாக திருத்தலாம். இயல்புநிலையாக உண்மை.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="161"/>
         <source>Use standard terminology:</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலையான சொற்களைப் பயன்படுத்துங்கள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="111"/>
@@ -27865,32 +27865,32 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="75"/>
         <source>Enable/disable automatic subject hierarchy children deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>தானியங்கி பொருள் வரிசைமுறை குழந்தைகள் நீக்குதல் இயக்கவும்/முடக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="79"/>
         <source>Include patient ID in the name of the patient item</source>
-        <translation type="unfinished"></translation>
+        <translation>நோயாளி ஐடியை நோயாளியின் உருப்படியின் பெயரில் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="82"/>
         <source>Include patient birth date in the name of the patient item</source>
-        <translation type="unfinished"></translation>
+        <translation>நோயாளியின் பிறப்பு தேதியை நோயாளியின் பொருளின் பெயரில் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="85"/>
         <source>Include study ID in the name of the study item</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆய்வு உருப்படியின் பெயரில் ஆய்வு ஐடியைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="88"/>
         <source>Include study date in the name of the study item</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆய்வு உருப்படியின் பெயரில் ஆய்வு தேதியைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="91"/>
         <source>Use standard terminology for color selection</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ணத் தேர்வுக்கு நிலையான சொற்களைப் பயன்படுத்தவும்</translation>
     </message>
 </context>
 <context>
@@ -28707,53 +28707,53 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="14"/>
         <source>qSlicerTerminologyEditorWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qslicerterminologyeditorwidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="37"/>
         <source>Value</source>
-        <translation type="unfinished">மதிப்பு</translation>
+        <translation>மதிப்பு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="47"/>
         <source>Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>திட்டம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="57"/>
         <source>Region:</source>
-        <translation type="unfinished">பகுதி:</translation>
+        <translation>பகுதி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="87"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="163"/>
         <source>    Modifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>    மாற்றியமைப்பாளர்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="94"/>
         <source>Category:</source>
-        <translation type="unfinished">வகை:</translation>
+        <translation>வகை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="111"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>தட்டச்சு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="153"/>
         <source>Meaning</source>
-        <translation type="unfinished"></translation>
+        <translation>பொருள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="244"/>
         <source>Use automatically generated label and color from selected terminology:</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட சொற்களிலிருந்து தானாக உருவாக்கப்பட்ட சிட்டை மற்றும் வண்ணத்தைப் பயன்படுத்தவும்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="290"/>
         <source>Select from terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>சொற்களிலிருந்து தேர்ந்தெடுக்கவும் ...</translation>
     </message>
 </context>
 <context>
@@ -28766,12 +28766,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="342"/>
         <source>Select region context...</source>
-        <translation type="unfinished"></translation>
+        <translation>பிராந்திய சூழலைத் தேர்ந்தெடுக்கவும் ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="374"/>
         <source>Region...</source>
-        <translation type="unfinished"></translation>
+        <translation>பகுதி ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="426"/>
@@ -29433,7 +29433,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்லைச் குறுக்குவெட்டு தெரிவுநிலையை மாற்றவும். ச்லைச் குறுக்குவெட்டு நிலையை அமைக்க ஒரு பார்வையில் சிப்ட் விசையை வைத்து சுட்டியை நகர்த்தவும்.</translation>
     </message>
 </context>
 <context>
@@ -29504,7 +29504,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="207"/>
         <source>Visibility:</source>
-        <translation type="unfinished">பார்வை:</translation>
+        <translation>பார்வை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="235"/>
@@ -30258,7 +30258,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="89"/>
         <source>CSV Color Table</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>சி.எச்.வி வண்ண அட்டவணை</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="78"/>
@@ -30272,32 +30272,32 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="268"/>
         <source>labelValue is not specified in color file in line %1. Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>சிட்டை மதிப்பு %1 வரியில் வண்ண கோப்பில் குறிப்பிடப்படவில்லை. இந்த வரியைத் தவிர்க்கிறது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="277"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2. Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்வல்யூ &apos; %1&apos; %2 வரியில் வண்ண கோப்பில் செல்லாது. இந்த வரியைத் தவிர்க்கிறது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="286"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must be positive (&gt;0). Skipping this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்வாலூ &apos; %1&apos; வரியில் %2 இல் வண்ணக் கோப்பில் செல்லாது: மதிப்பு நேர்மறையாக இருக்க வேண்டும் (&gt; 0). இந்த வரியைத் தவிர்க்கிறது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="300"/>
         <source>labelValue &apos;%1&apos; is invalid in color file in line %2: the value must not go above be %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்வல்யூ &apos; %1&apos; வரியில் %2 இல் வண்ணக் கோப்பில் செல்லாது: மதிப்பு %3 ஆக இருக்கக்கூடாது.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="350"/>
         <source>Failed to parse color values (&apos;%1&apos;, &apos;%2&apos;, &apos;%3&apos;, &apos;%4&apos;) in line %5</source>
-        <translation type="unfinished"></translation>
+        <translation>%5 வரிசையில் வண்ண மதிப்புகளை (&apos;%1&apos;, &apos;%2&apos;, &apos;%3&apos;, &apos;%4&apos;) அலசத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="360"/>
         <source>Unable to set color &apos;%1&apos; with name &apos;%2&apos;, breaking the loop over &apos;%3&apos; lines in the file %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%2&apos; என்ற பெயருடன் &apos;%1&apos; வண்ணத்தை அமைக்க முடியவில்லை,%4 கோப்பில் &apos;%3&apos; வரிகளுக்கு மேல் சுழற்சியை உடைக்கவும்.</translation>
     </message>
 </context>
 <context>
@@ -30803,7 +30803,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Segmentations/Logic/vtkSlicerSegmentationsModuleLogic.cxx" line="1087"/>
         <source>background</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்னணி</translation>
     </message>
 </context>
 <context>
