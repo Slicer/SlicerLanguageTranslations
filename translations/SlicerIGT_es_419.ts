@@ -520,7 +520,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="136"/>
         <source>Pick the transform that the camera should follow, e.g. &apos;cauteryCameraToCauteryTransform&apos;</source>
-        <translation type="unfinished">Elija la transformación que la cámara debe seguir, por ejemplo, &apos; cauterio Cámara A Cauterio Transformar &apos;.</translation>
+        <translation>Elija la transformación que la cámara debe seguir, por ejemplo, &apos;cauterio Cámara A Cauterio Transformar &apos;.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="142"/>
@@ -1382,7 +1382,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.h" line="49"/>
         <source>Fiducial Registration Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Asistente de registro Fiducial</translation>
     </message>
 </context>
 <context>
@@ -1411,7 +1411,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="359"/>
         <source>No Fiducial Registration Wizard module node selected.</source>
-        <translation type="unfinished">No se ha seleccionado ningún nodo del módulo Asistente de registro no fiduciario</translation>
+        <translation>No se ha seleccionado ningún nodo del módulo Asistente de registro no fiduciario.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="405"/>
@@ -1457,7 +1457,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.h" line="46"/>
         <source>Landmark Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Detección de puntos de referencia</translation>
     </message>
 </context>
 <context>
@@ -1565,7 +1565,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="72"/>
         <source>Path Explorer is a module designed to facilitate the creation of trajectory, and visualization of volumes along these trajectories For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished">Path Explorer es un módulo diseñado para facilitar la creación de trayectorias, y la visualización de volúmenes a lo largo de estas trayectorias Para obtener ayuda sobre cómo utilizar este módulo visite: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</translation>
+        <translation>Explorador de rutas es un módulo diseñado para facilitar la creación de trayectorias, y la visualización de volúmenes a lo largo de estas trayectorias Para obtener ayuda sobre cómo utilizar este módulo visite: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
@@ -2989,7 +2989,7 @@ Para obtener ayuda sobre cómo utilizar este módulo, visite  &lt;a href=&apos;h
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.cxx" line="84"/>
         <source>This work was supported by NIH National Center for Image Guided Therapy, and National Alliance for Medical Image Computing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo ha sido financiado por el Centro Nacional de Terapia Guiada por Imágenes de los NIH y la Alianza Nacional para la Computación de Imágenes Médicas (NA-MIC por sus siglas en inglés).</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
