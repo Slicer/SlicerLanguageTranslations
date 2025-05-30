@@ -11,7 +11,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="20"/>
         <source>Update translation files</source>
-        <translation>更新翻译文件</translation>
+        <translation type="unfinished">更新翻译文件</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="193"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="27"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"></translation>
+        <translation>高级设置</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="39"/>
@@ -283,7 +283,7 @@ Developed of this module was partially funded by &lt;a href=&quot;https://chanzu
         <location filename="LanguageTools/LanguageTools.py" line="678"/>
         <source>Update successfully completed.
 Installed {count} translation files in {location}.</source>
-        <translation type="unfinished"></translation>
+        <translation>更新翻译文件</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="684"/>
