@@ -215,7 +215,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="383"/>
         <source>infer</source>
-        <translation>infer</translation>
+        <translation>ஊகி</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="384"/>
@@ -225,7 +225,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="385"/>
         <source>activelearning</source>
-        <translation>activelearning</translation>
+        <translation>சுறுசுறுப்பான கற்றல்</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="386"/>
@@ -250,7 +250,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="514"/>
         <source>Training: {status}</source>
-        <translation>Training: {status}</translation>
+        <translation>பயிற்சி: {status}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="613"/>
@@ -497,7 +497,7 @@ Please மேம்படுத்தல் பெறுநர் latest monaila
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="157"/>
         <source>Section:</source>
-        <translation>Section:</translation>
+        <translation>பிரிவு:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="174"/>
@@ -512,7 +512,7 @@ Please மேம்படுத்தல் பெறுநர் latest monaila
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="238"/>
         <source>Status:</source>
-        <translation>நிலை:</translation>
+        <translation>நிலைமை:</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/MONAILabel.ui" line="252"/>
@@ -733,7 +733,7 @@ Please மேம்படுத்தல் பெறுநர் latest monaila
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="131"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="820"/>
         <source>approved</source>
-        <translation>approved</translation>
+        <translation>அங்கீகரிக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="630"/>
@@ -741,7 +741,7 @@ Please மேம்படுத்தல் பெறுநர் latest monaila
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="138"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="802"/>
         <source>flagged</source>
-        <translation>flagged</translation>
+        <translation>கொடியிடப்பட்டது</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="634"/>
@@ -901,7 +901,7 @@ Please மேம்படுத்தல் பெறுநர் latest monaila
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="672"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="500"/>
         <source>Approve</source>
-        <translation>Approve</translation>
+        <translation>ஒப்புதல்அளி</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="673"/>
@@ -955,7 +955,7 @@ Please மேம்படுத்தல் பெறுநர் latest monaila
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="683"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="610"/>
         <source>Annotator:</source>
-        <translation>Annotator:</translation>
+        <translation>விளக்கஉரையாளர்:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="684"/>
@@ -973,7 +973,7 @@ Please மேம்படுத்தல் பெறுநர் latest monaila
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="686"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="631"/>
         <source>Status:</source>
-        <translation>நிலை:</translation>
+        <translation>நிலைமை:</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="687"/>
@@ -1009,7 +1009,7 @@ Please மேம்படுத்தல் பெறுநர் latest monaila
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="696"/>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="761"/>
         <source>Annotator</source>
-        <translation>Annotator</translation>
+        <translation>விளக்கஉரையாளர்</translation>
     </message>
     <message>
         <location filename="MONAILabelReviewer/.qt_for_python/uic/MONAILabelReviewer.py" line="697"/>
@@ -1031,7 +1031,7 @@ Please மேம்படுத்தல் பெறுநர் latest monaila
     <message>
         <location filename="MONAILabelReviewer/Resources/UI/MONAILabelReviewer.ui" line="400"/>
         <source>Reviewer</source>
-        <translation>Reviewer</translation>
+        <translation>மதிப்பாய்வாளர்</translation>
     </message>
 </context>
 <context>
