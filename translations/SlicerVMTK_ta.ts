@@ -1415,7 +1415,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="134"/>
         <source>Tiny</source>
-        <translation>சிறிய</translation>
+        <translation>மிகசிறிய</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="135"/>
@@ -1435,7 +1435,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="138"/>
         <source>Huge</source>
-        <translation>பெரிய</translation>
+        <translation>மிகபெரிய</translation>
     </message>
     <message>
         <location filename="EditCenterline/EditCenterline.py" line="236"/>
@@ -2096,7 +2096,7 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="559"/>
         <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
-        <translation>முன் செயலாக்க முடிவைச் சேமிக்கவும். தரமான சோதனைகளுக்குப் பயனுள்ளதாக இருக்கும் மற்றும் மீண்டும் மீண்டும் கணக்கீடுகளை விரைவாகச் செய்வதற்கு: முன் செயலாக்கப்பட்ட மேற்பரப்பை உள்ளீட்டு மேற்பரப்பாகப் பயன்படுத்தலாம் (மற்றும் &quot;முன் செயலாக்க உள்ளீட்டு மேற்பரப்பு&quot; விருப்பத்தை முடக்கலாம்).</translation>
+        <translation>முன் செயலாக்க முடிவைச் சேமிக்கவும். தரமான சோதனைகளுக்குப் பயனுள்ளதாக இருக்கும் மற்றும் மறுநிகழ்வு கணக்கீடுகளை விரைவாகச் செய்வதற்கு: முன் செயலாக்கப்பட்ட மேற்பரப்பை உள்ளீட்டு மேற்பரப்பாகப் பயன்படுத்தலாம் (மற்றும் &quot;முன் செயலாக்க உள்ளீட்டு மேற்பரப்பு&quot; விருப்பத்தை முடக்கலாம்).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="570"/>
@@ -2166,9 +2166,9 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 </source>
         <translation>
 இந்த &lt;a href = &quot;https://github.com/vmtk/slicerextextional-vmtk/&quot;&gt; தொகுதி &lt;/a&gt; ஒரு மாறுபட்ட மேம்பட்ட சி.டி. 
-&lt;br&gt; &lt;br&gt; வளைவு கட்டுப்பாட்டு புள்ளிகள் மாறுபட்ட லுமனில் வைக்கப்பட்டுள்ளன என்று கருதுகிறது. 
-&lt;br&gt; &lt;br&gt; &apos;&lt;a href = &quot;https://github.com/lassowan/slicersegmenteditorextraeffects&quot;&gt; பிரிவு எடிட்டர் கூடுதல் விளைவுகள் &lt;/a&gt;&apos; இன் &apos;வெள்ள நிரப்புதல்&apos; மற்றும் &apos;பிளவு தொகுதி&apos; விளைவுகள் பயன்படுத்தப்படுகின்றன. 
-&lt;br&gt; &lt;br&gt; &apos;&lt;a href = &quot;https://github.com/vmtk/slicerextension-vmtk/tree/master/extractcenterline/&quot;&gt; slicerextension-vmtk சென்டர்லைன் &lt;/a&gt;&apos; தொகுதி தேவை.
+&lt;br&gt;&lt;br&gt; வளைவு கட்டுப்பாட்டு புள்ளிகள் மாறுபட்ட லுமனில் வைக்கப்பட்டுள்ளன என்று கருதுகிறது. 
+&lt;br&gt;&lt;br&gt; &apos;&lt;a href = &quot;https://github.com/lassowan/slicersegmenteditorextraeffects&quot;&gt; பிரிவு எடிட்டர் கூடுதல் விளைவுகள் &lt;/a&gt;&apos; இன் &apos;வெள்ள நிரப்புதல்&apos; மற்றும் &apos;பிளவுத் தொகுதி&apos; விளைவுகள் பயன்படுத்தப்படுகின்றன. 
+&lt;br&gt;&lt;br&gt; &apos;&lt;a href = &quot;https://github.com/vmtk/slicerextension-vmtk/tree/master/extractcenterline/&quot;&gt; slicerextension-vmtk சென்டர்லைன் &lt;/a&gt;&apos; தொகுதி தேவை.
 </translation>
     </message>
     <message>
@@ -2679,9 +2679,9 @@ This &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;mod
 </source>
         <translation>
 இந்த &lt;a href = &quot;https://github.com/vmtk/slicerextextional-vmtk/&quot;&gt; தொகுதி &lt;/a&gt; ஒரு மாறுபட்ட மேம்பட்ட சி.டி. 
-&lt;br&gt; &lt;br&gt; உள்ளீட்டு தொகுதியின் தரவு கையகப்படுத்தல் கிட்டத்தட்ட சரியானது என்றும், மாறுபட்ட லுமனில் நம்பகமான புள்ளிகள் வைக்கப்பட்டுள்ளன என்றும் இது கருதுகிறது. 
-&lt;br&gt; &lt;br&gt; &apos;&lt;a href = &quot;https://github.com/lassowan/slicersegmenteditorextraeffects&quot;&gt; பிரிவு எடிட்டர் கூடுதல் விளைவுகள் &lt;/a&gt;&apos; இன் &apos;வெள்ள நிரப்புதல்&apos; விளைவு பிரிவுக்கு பயன்படுத்தப்படுகிறது. 
-&lt;br&gt; &lt;br&gt; &apos;&lt;a href = &quot;https://github.com/vmtk/slicerextension-vmtk/tree/master/extractcenterline/&quot;&gt; slicerextension-vmtk சென்டர்லைன் &lt;/a&gt;&apos; தொகுதி தேவை.
+&lt;br&gt;&lt;br&gt; உள்ளீட்டு தொகுதியின் தரவு கையகப்படுத்தல் கிட்டத்தட்ட சரியானது என்றும், மாறுபட்ட லுமனில் நம்பகமான புள்ளிகள் வைக்கப்பட்டுள்ளன என்றும் இது கருதுகிறது. 
+&lt;br&gt;&lt;br&gt; &apos;&lt;a href = &quot;https://github.com/lassowan/slicersegmenteditorextraeffects&quot;&gt; பிரிவு எடிட்டர் கூடுதல் விளைவுகள் &lt;/a&gt;&apos; இன் &apos;வெள்ள நிரப்புதல்&apos; விளைவு பிரிவுக்குப் பயன்படுத்தப்படுகிறது. 
+&lt;br&gt;&lt;br&gt; &apos;&lt;a href = &quot;https://github.com/vmtk/slicerextension-vmtk/tree/master/extractcenterline/&quot;&gt; slicerextension-vmtk சென்டர்லைன் &lt;/a&gt;&apos; தொகுதி தேவை.
 </translation>
     </message>
     <message>
@@ -3308,7 +3308,7 @@ Clicking at a control point allows to track the slice orientation in the selecte
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="204"/>
         <source>Select an input segmentation.</source>
-        <translation>உள்ளீட்டு பிரிவைத் தேர்ந்தெடு.</translation>
+        <translation>உள்ளீட்டு பிரிதலைத் தேர்ந்தெடு.</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="227"/>
