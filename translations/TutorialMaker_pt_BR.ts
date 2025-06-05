@@ -6,17 +6,17 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="31"/>
         <source>Annotation needs a widget reference and a valid type</source>
-        <translation type="unfinished"></translation>
+        <translation>A nota precisa de uma referência de widget e um tipo válido</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="249"/>
         <source>Write your text here</source>
-        <translation type="unfinished"></translation>
+        <translation>Escreva o seu texto aqui</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="332"/>
         <source>Write something here</source>
-        <translation type="unfinished"></translation>
+        <translation>Escreva algo aqui</translation>
     </message>
 </context>
 <context>
@@ -45,13 +45,13 @@
         <location filename="TutorialMaker/Lib/GitTools.py" line="47"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="68"/>
         <source>Message from {endpoint}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensagem de {endpoint}: {message}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/GitTools.py" line="48"/>
         <location filename="TutorialMaker/Lib/GitTools.py" line="69"/>
         <source>Malformed Response from {endpoint}</source>
-        <translation type="unfinished"></translation>
+        <translation>Resposta malformada de {endpoint}</translation>
     </message>
 </context>
 <context>
@@ -130,17 +130,17 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="290"/>
         <source>TutorialMaker - Annotator</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial Maker – Anotador</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="318"/>
         <source>Title for the slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Título para o slide</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="323"/>
         <source>Write a description for the slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Escreva uma descrição para o slide</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="900"/>
@@ -175,7 +175,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="927"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="931"/>
@@ -200,12 +200,12 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="947"/>
         <source>Arrow text</source>
-        <translation type="unfinished"></translation>
+        <translation>Seta de texto</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="951"/>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Caixa de texto</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="955"/>
@@ -240,7 +240,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1179"/>
         <source>Add Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar imagem</translation>
     </message>
 </context>
 <context>
@@ -278,22 +278,22 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="78"/>
         <source>Fetch From Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Busca do Github</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="91"/>
         <source>Capture screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de tela</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="98"/>
         <source>Edit annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar anotações</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="108"/>
         <source>Generate output</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerar saída</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="118"/>
@@ -317,58 +317,59 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="70"/>
         <source>Version Date: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Data da versão: {}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="244"/>
         <source>Tutorial Captured</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de Tutorial</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="244"/>
         <source>Captured Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de tutorial: {tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="249"/>
         <source>Failed to capture tutorial: {e}</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao capturar o tutorial: {e}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="256"/>
         <source>Tutorial Generated</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial gerado</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="256"/>
         <source>Generated Tutorial: {tutorialName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial gerado: {tutorialName}</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="281"/>
         <source>Failed to fetch tutorials from {repo}. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha em buscar tutoriais de {repo}. Tente novamente mais tarde.</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="328"/>
         <source>No Tests Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum teste encontrado</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="375"/>
         <source>Tutorial Execution Failed: {unit_tutorials} - Error: {e}. 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Execução do tutorial falhou: {unit_tutorials} - Erro: {e}. 
+</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="379"/>
         <source>Tutorial Tested</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial testado</translation>
     </message>
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="382"/>
         <source>{tutorials_failed} tutorials failed to execute. Errors: {error_message}</source>
-        <translation type="unfinished"></translation>
+        <translation>{tutorials_failed} falha ao executar os tutoriais. Erros: {error_message}</translation>
     </message>
 </context>
 <context>
@@ -378,7 +379,7 @@
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="316"/>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="462"/>
         <source>Error: Load an image first.</source>
-        <translation type="unfinished">Erro: Carregue uma imagem primeiro.</translation>
+        <translation>Erro: Carregue uma imagem primeiro.</translation>
     </message>
 </context>
 <context>
