@@ -109,7 +109,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
         <source>Set the Plus Server Host and Name Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين خادم Plus ومدخل المنفذ:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
@@ -127,17 +127,17 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
         <source>Select connector node</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر عقدة اتصال</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="190"/>
         <source>OpenIGTLink connector: </source>
-        <translation type="unfinished"></translation>
+        <translation>موصل OpenIGTLink: </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="193"/>
         <source>Show 3D Slicer user interface</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض واجهة مستخدم 3D Slicer</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
@@ -147,12 +147,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="201"/>
         <source>Save Guidelet scene</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ مشهد الدليل</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="216"/>
         <source>Save scene directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ مجلد المشهد:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
@@ -165,7 +165,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="48"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>الموجات فوق الصوتية</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="58"/>
@@ -185,42 +185,42 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="75"/>
         <source>Brightness </source>
-        <translation type="unfinished"></translation>
+        <translation>درجة سطوع. </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="85"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>طَبيعيّ</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="89"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>مُشْرِق</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="93"/>
         <source>Brighter</source>
-        <translation type="unfinished"></translation>
+        <translation>أكثر إشراقا</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="245"/>
         <source>  Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>  إيقاف التسجيل</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="247"/>
         <source>Recording is being started...</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم البدء في التسجيل...</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="261"/>
         <source>  Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>  ..ابدأ التسجيل</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="263"/>
         <source>Recording is being stopped...</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم إيقاف التسجيل...</translation>
     </message>
 </context>
 <context>
@@ -228,7 +228,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="18"/>
         <source>Model Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل النموذج</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
@@ -236,19 +236,25 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 This module applies Iterative Closest Points registration between two surface models.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+تطبق هذه الوحدة تسجيل نقاط التقارب التكراري (ICP) بين نموذجين سطحين.
+للمساعدة حول كيفية استخدام هذه الوحدة، قم بزيارة:
+&lt;a href=&apos;https://www.slicerigt.org&apos;&gt;موقع SlicerIGT&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="35"/>
         <source>
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+هذا العمل جزء من مشروع SparKit، الممول من برنامج ACRU التابع لرعاية السرطان في أونتاريو (CCO) واتحاد أونتاريو للتدخلات التكيفية في الأورام الإشعاعية (OCAIRO).
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="44"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>مُعاملات</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
