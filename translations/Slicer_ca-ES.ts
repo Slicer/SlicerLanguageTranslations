@@ -7245,12 +7245,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="28"/>
         <source>Label image for initialization</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge amb l&apos;etiqueta d&apos;inicialització</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="29"/>
         <source>Segmented image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge segmentada</translation>
     </message>
 </context>
 <context>
@@ -7273,7 +7273,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="8"/>
         <source>Smoothing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametres de suavitzat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="9"/>
@@ -7283,27 +7283,27 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"/>
         <source>Smoothing iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Iteracions de suavitzat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="11"/>
         <source>Timestep</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de temps</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="12"/>
         <source>Number of smoothing iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Número d&apos;iteracions de suavitzat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="13"/>
         <source>Timestep for curvature flow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de temps per al flux de curvatura</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="14"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de segmentació</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="15"/>
@@ -7318,7 +7318,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="17"/>
         <source>Multiplier</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplicador</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="18"/>
@@ -7328,7 +7328,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"/>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de l&apos;etiqueta de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
@@ -7396,7 +7396,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="5"/>
         <source>Subtract Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Restar valors d&apos;escalars</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="6"/>
@@ -7446,7 +7446,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
         <source>Volume1 - Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum1 - Volum2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
@@ -7524,12 +7524,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"/>
         <source>Threshold Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipus del Llindar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="15"/>
         <source>Threshold Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor del Llindar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
@@ -7549,7 +7549,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="19"/>
         <source>Negate Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Fer el llindar negatiu</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"/>
@@ -7559,7 +7559,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"/>
         <source>Threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor del llindar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="22"/>
@@ -7585,17 +7585,17 @@ a = Transformada afí</translation>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="26"/>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="29"/>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Fora</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="27"/>
         <source>Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Sota</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="28"/>
         <source>Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobre</translation>
     </message>
 </context>
 <context>
@@ -7831,7 +7831,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Load referenced series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Carrega la sèrie referenciada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"/>
@@ -7841,7 +7841,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"/>
         <source>Detailed logging:</source>
-        <translation type="unfinished"></translation>
+        <translation>Registre detallat:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
