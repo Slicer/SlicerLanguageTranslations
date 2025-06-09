@@ -7170,27 +7170,27 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="13"/>
         <source>Some auxiliary parameters to control the stop criteria.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alguns paràmetres auxiliars per controlar els criteris de parada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="14"/>
         <source>Intensity Homogeneity[0-1.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Homogeneïtat de la intensitat[0-1.0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="15"/>
         <source>Boundary Smoothness[0-1.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Suavitat de la frontera[0-1.0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="16"/>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de l&apos;etiqueta de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="17"/>
         <source>Max running time(min)</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps màxim d&apos;execució (min)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="18"/>
@@ -7205,12 +7205,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="20"/>
         <source>Label value of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de l&apos;etiqueta de la imatge de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="21"/>
         <source>The program will stop if this time is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>El programa s&apos;aturarà si s&apos;arriba a aquest temps.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="22"/>
@@ -7225,12 +7225,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
         <source>Original Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge original</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="25"/>
         <source>Label Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge d&apos;etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
@@ -7240,7 +7240,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
         <source>Original image to be segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge original per segmentar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="28"/>
