@@ -17,77 +17,79 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ezt a fájlt eredetileg Jean-Christophe Fillion-Robin (Kitware Inc.) és Steve Pieper (Isomics, Inc.) fejlesztette ki, és részben a NIH 3P41RR013218-12S1 számú támogatása finanszírozta.
+</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
         <source>Pick the input fiducial list for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Válassza ki az algoritmus bemeneti referenciális listáját.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation type="unfinished"></translation>
+        <translation>Bemeneti referenciaértékek: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
         <source>Pick the input model for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Válasza ki a bementi modellt az algoritmushoz.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
         <source>Input model: </source>
-        <translation type="unfinished"></translation>
+        <translation>Bemeneti modell: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="96"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Válassza ki az algoritmus kimenetét</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Kimeneti transzformáció: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
         <source>If checked, take screen shots for tutorials. Use Save Data to write them to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha be van jelölve, képernyőképeket készít az oktatóanyagokhoz. Az Adatok mentése funkcióval lemezre írhatja őket.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="115"/>
         <source>Set scale factor for the screen shots.</source>
-        <translation type="unfinished"></translation>
+        <translation>Állítsa be a képernyőképek méretarányát.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="122"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Futtassa az algoritmust.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="130"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Kimenet</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="135"/>
         <source>Mean distance after registration: </source>
-        <translation type="unfinished"></translation>
+        <translation>Átlagos távolság a regisztráció után: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejlett</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
         <source>Transform type: </source>
-        <translation type="unfinished"></translation>
+        <translation>Transzformáció típusa: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Iterációk száma:</translation>
     </message>
 </context>
 <context>
@@ -95,7 +97,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="18"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation>Útmutató</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="45"/>
