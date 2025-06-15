@@ -2831,7 +2831,7 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="15"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="16"/>
         <source>DicomToNrrd</source>
-        <translation>DicomToNrrd</translation>
+        <translation>DicomANrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="17"/>
@@ -5895,7 +5895,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">ES</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
