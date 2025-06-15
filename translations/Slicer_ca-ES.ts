@@ -61,7 +61,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avançat</translation>
+        <translation>Avançat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
@@ -661,7 +661,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
         <source>ROI</source>
-        <translation type="unfinished">RDI</translation>
+        <translation>RDI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
@@ -738,12 +738,12 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">Lineal</translation>
+        <translation>Lineal</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation type="unfinished">curt</translation>
+        <translation>curt</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
@@ -1319,7 +1319,7 @@ TINGUES EN COMPTE que es recomana utilitzar samplingPercentage en lloc d&apos;aq
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="35"/>
         <source>short</source>
-        <translation type="unfinished">curt</translation>
+        <translation>curt</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
@@ -1488,7 +1488,7 @@ TINGUES EN COMPTE que es recomana utilitzar samplingPercentage en lloc d&apos;aq
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished">Mode d&apos;interpolació</translation>
+        <translation>Mode d&apos;interpolació</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
@@ -1529,7 +1529,7 @@ TINGUES EN COMPTE que es recomana utilitzar samplingPercentage en lloc d&apos;aq
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="40"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="42"/>
         <source>Linear</source>
-        <translation type="unfinished">Lineal</translation>
+        <translation>Lineal</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
@@ -1631,7 +1631,7 @@ Aquest programa és útil per A reduir una imatge mitjançant un factor d&apos;e
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrades</translation>
+        <translation>Entrades</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
@@ -1651,7 +1651,7 @@ Aquest programa és útil per A reduir una imatge mitjançant un factor d&apos;e
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"/>
         <source>Outputs</source>
-        <translation type="unfinished">Sortides</translation>
+        <translation>Sortides</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"/>
@@ -1661,7 +1661,7 @@ Aquest programa és útil per A reduir una imatge mitjançant un factor d&apos;e
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"/>
         <source>Output Image</source>
-        <translation type="unfinished">Imatge de sortida</translation>
+        <translation>Imatge de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
@@ -1682,12 +1682,12 @@ Aquest programa és útil per A reduir una imatge mitjançant un factor d&apos;e
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
         <source>float</source>
-        <translation type="unfinished">flotant</translation>
+        <translation>flotant</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
         <source>short</source>
-        <translation type="unfinished">curt</translation>
+        <translation>curt</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
@@ -1878,7 +1878,7 @@ Aquest programa és útil per A reduir una imatge mitjançant un factor d&apos;e
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
         <source>float</source>
-        <translation type="unfinished">flotant</translation>
+        <translation>flotant</translation>
     </message>
 </context>
 <context>
