@@ -59,14 +59,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="197"/>
-        <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="225"/>
-        <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="253"/>
-        <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="281"/>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="215"/>
         <source>Input volume 2:</source>
         <translation type="unfinished"></translation>
@@ -94,11 +86,6 @@
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="318"/>
         <source>This will store the segmentation result.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="321"/>
-        <source>vtkMRMLSegmentationNode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

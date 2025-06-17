@@ -19,11 +19,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="33"/>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="51"/>
         <source>Segmentation task:</source>
         <translation type="unfinished"></translation>
@@ -69,92 +64,82 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="115"/>
-        <source>vtkMRMLSegmentationNode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="123"/>
-        <source>Brain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="141"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="138"/>
         <source>Create new segmentation on Apply</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="157"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="154"/>
         <source>Start segmentation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="160"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="157"/>
         <source>Apply</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="170"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="167"/>
         <source>Advanced</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="179"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="176"/>
         <source>Use standard segment names:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="186"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="183"/>
         <source>If enabled (default) then segment names are obtained from Slicer standard terminology files. If disabled then TotalSegmentator identifiers are used as segment names.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="199"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="196"/>
         <source>Force to use CPU: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="206"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="203"/>
         <source>Use CPU, even if GPU is available. Useful if the GPU does not have enough memory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="216"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="213"/>
         <source>TotalSegmentator Python package:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="223"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="220"/>
         <source>Force upgrade of TotalSegmentator Python package to the version required by this module.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="226"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="223"/>
         <source>Force reinstall</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="233"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="230"/>
         <source>TotalSegmentator license: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="240"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="237"/>
         <source>Get metadata information for the TotalSegmentator package currently installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="243"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="240"/>
         <source>Get TotalSegmentator package information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="263"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="260"/>
         <source>Set or update TotalSegmentator license key to allow running tasks that require a license. The registration has to be done only once, the license information is stored persistently in the TotalSegmentation configuration.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="266"/>
+        <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="263"/>
         <source>Set license key</source>
         <translation type="unfinished"></translation>
     </message>
