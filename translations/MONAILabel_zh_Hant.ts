@@ -7,17 +7,17 @@
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="20"/>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="56"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>登入</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>密碼：</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="43"/>
         <source>UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者名稱：</translation>
     </message>
 </context>
 <context>
@@ -40,7 +40,9 @@ See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAIL
         <source>
 Developed by NVIDIA, KCL
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+由 NVIDIA、KCL 開發
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="72"/>
