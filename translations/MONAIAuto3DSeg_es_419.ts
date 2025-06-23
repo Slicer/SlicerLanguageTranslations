@@ -6,232 +6,232 @@
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="23"/>
         <source>Remote processing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesamiento a distancia:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="76"/>
         <source>Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="112"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectar</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="127"/>
         <source>Segmentation model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de segmentación:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="136"/>
         <source>List models that contain all the specified words</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de modelos que contienen todas las palabras especificadas</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="143"/>
         <source>Search in full text of the segmentation model description. Uncheck to search only in the model names.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en el texto completo de la descripción del modelo de segmentación. Anular la selección para buscar solo en los nombres de los modelos.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="146"/>
         <source>Full text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto completo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="155"/>
         <source>Download sample data set for the current segmentation model</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar conjunto de datos de muestra para el modelo de segmentación actual</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="158"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="187"/>
         <source>Input volume 1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada 1:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="215"/>
         <source>Input volume 2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada 2:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="243"/>
         <source>Input volume 3:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada 3:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="271"/>
         <source>Input volume 4:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada 4:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="302"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Salidas</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="311"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="318"/>
         <source>This will store the segmentation result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto almacenará el resultado de la segmentación.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="329"/>
         <source>Brain</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerebro</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="347"/>
         <source>Create new segmentation on Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear una nueva segmentación en Aplicar</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="360"/>
         <source>Start segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar segmentación.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="363"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="376"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="385"/>
         <source>Use standard segment names:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar nombres del segmento estándar:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="392"/>
         <source>If enabled (default) then segment names are obtained from Slicer standard terminology files. If disabled then internal identifiers are used as segment names.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está activado (por defecto), los nombres de los segmentos se obtienen de los archivos de terminología estándar de Slicer. Si se desactiva, se utilizan identificadores internos como nombres de segmento.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="405"/>
         <source>Force to use CPU: </source>
-        <translation type="unfinished"></translation>
+        <translation>Forzar el uso de CPU: </translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="412"/>
         <source>Use CPU, even if GPU is available. Useful if the GPU does not have enough memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar la CPU, incluso si la GPU está disponible. Útil si la GPU no tiene suficiente memoria.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="422"/>
         <source>MONAI Python package:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquete MONAI Python:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="429"/>
         <source>Force upgrade of MONAI Python package to the version required by this module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forzar la actualización del paquete MONAI Python a la versión requerida por este módulo.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="432"/>
         <source>Force reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Forzar reinstalación</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="439"/>
         <source>Get information on the installed MONAI Python package</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtener información sobre el paquete MONAI Python instalado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="442"/>
         <source>Get Python package information</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtener información sobre el paquete Python</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="462"/>
         <source>Show all models:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todos los modelos:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="469"/>
         <source>Show all models in &quot;Segmentation model&quot; list, including old versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todos los modelos en la lista &quot;Modelo de segmentación&quot;, incluidas las versiones antiguas.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="479"/>
         <source>Manage models:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestionar modelos:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="488"/>
         <source>Open the folder that contains all downloaded files for models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la carpeta que contiene todos los archivos descargados para los modelos.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="491"/>
         <source>Open models cache folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la carpeta caché de modelos</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="498"/>
         <source>Delete all downloaded files for all models. The files will be automatically downloaded again as needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar todos los archivos descargados para todos los modelos. Los archivos se volverán a descargar automáticamente cuando sea necesario.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="501"/>
         <source>Clear cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar caché</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="510"/>
         <source>Auto show 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>Exposición automática en 3D:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="517"/>
         <source>If enabled then the segmentation will be shown in 3D by default (takes extra time).</source>
-        <translation type="unfinished"></translation>
+        <translation>Si se activa, la segmentación se mostrará en 3D por defecto (tarda más tiempo).</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="533"/>
         <source>Local segmentation server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor de segmentación local</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="542"/>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Puerto:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="562"/>
         <source>Log to Console: </source>
-        <translation type="unfinished"></translation>
+        <translation>Acceder a la consola: </translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="576"/>
         <source>Log to GUI: </source>
-        <translation type="unfinished"></translation>
+        <translation>Registro en GUI: </translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="597"/>
         <source>Start server</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrancar servidor</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="607"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección del servidor:</translation>
     </message>
 </context>
 </TS>
