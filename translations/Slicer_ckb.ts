@@ -28641,7 +28641,9 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; نەرمه‌زارێکی ئازاد و سەرچاوەییە بۆ چاکسازی وێنەی پزیشکی و پیشاندانی سێ‌دیمەنسی زانیاری وێنەکان. ئەم پارچەیە زانیاری سەرەکی و بەستەرە گرنگەکان دابین دەکات بۆ دەستپێکردن بە بەکارهێنانی Slicer. بۆ زانیاری زیاتر، تکایە ماڵپەڕەکەمان ببینە &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; بە شێوەیەکی BSD-ستایلەوە بەڕێوە دەکرێت؛ بۆ وردەکاریەکانی کرداری و ڕێکەوتی مۆرافەو ڕازنامەی مۆرافەکان، تکایە پەیوەندی بکە بە &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. ئەم نەرمه‌زارە تەنها بۆ مەبەستی توێژینەوە دروستکراوە و هێچ پەسەندی فەرمی لەلایەن FDA یان هەر ئەژانسێکی تر نەگەیشتووە.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="287"/>
