@@ -61,7 +61,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>پێشکەوتوو</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
@@ -4813,7 +4813,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>مۆدیوڵەکان</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
@@ -22467,7 +22467,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="77"/>
         <source>Help &amp;&amp; Acknowledgement</source>
-        <translation type="unfinished">Help &amp;&amp; Acknowledgement</translation>
+        <translation>یارمەتی &amp;&amp; سوپاس</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="93"/>
@@ -22477,7 +22477,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="110"/>
         <source>Acknowledgement</source>
-        <translation type="unfinished">Acknowledgement</translation>
+        <translation>ناسکردن و سوپاس</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="196"/>
