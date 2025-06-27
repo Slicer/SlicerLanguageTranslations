@@ -146,7 +146,7 @@
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="27"/>
         <source>Total Segmentator</source>
-        <translation type="unfinished"></translation>
+        <translation>Total Segmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="34"/>
@@ -154,7 +154,10 @@
 3D Slicer extension for fully automatic whole body CT segmentation using &quot;TotalSegmentator&quot; AI model.
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerTotalSegmentator&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Extensão do 3D Slicer para segmentação totalmente automática de tomografia computadorizada de corpo inteiro usando o modelo de IA &quot;TotalSegmentator&quot;.
+Veja mais informações na &lt;a href=&quot;https://github.com/lassoan/SlicerTotalSegmentator&quot;&gt;documentação da extensão&lt;/a&gt;.]
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="42"/>
@@ -166,55 +169,65 @@ Wasserthal J., Meyer M., , Hanns-Christian Breit H.C., Cyriac J., Shan Y., Seger
 TotalSegmentator: robust segmentation of 104 anatomical structures in CT images.
 https://arxiv.org/abs/2208.05868
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este arquivo foi desenvolvido originalmente por Andras Lasso (PerkLab, Queen&apos;s University).
+O módulo utiliza o &lt;a href=&quot;https://github.com/wasserth/TotalSegmentator&quot;&gt;TotalSegmentator&lt;/a&gt;.
+Se você utilizar a função nn-Unet do TotalSegmentator deste software em sua pesquisa, por favor cite:
+Wasserthal J., Meyer M., Hanns-Christian Breit H.C., Cyriac J., Shan Y., Segeroth, M.:
+TotalSegmentator: robust segmentation of 104 anatomical structures in CT images.
+[https://arxiv.org/abs/2208.05868](https://arxiv.org/abs/2208.05868)
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="94"/>
         <source>{task_title} [license required]</source>
-        <translation type="unfinished"></translation>
+        <translation>{task_title} [license required]</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="220"/>
         <source>Start segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar segmentação</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="223"/>
         <source>Select input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar volume de entrada</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="226"/>
         <source>{volume_name} segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>{volume_name} segmentação</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="271"/>
         <source>The input volume you provided are part of a sequence. Do you want to segment all frames of that sequence?</source>
-        <translation type="unfinished"></translation>
+        <translation>O volume de entrada que você forneceu faz parte de uma sequência. Deseja segmentar todos os quadros dessa sequência?</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="282"/>
         <source>Failed to install Python dependencies:
 {exception}
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao instalar as dependências do Python:
+{exception}
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="287"/>
         <source>Application restart required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinício da aplicação necessário.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="289"/>
         <source>Application is required to complete installation of required Python packages.
 Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>É necessário reiniciar a aplicação para completar a instalação dos pacotes Python obrigatórios.
+Pressione OK para reiniciar.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="290"/>
         <source>Confirm application restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirme o reinício da aplicação.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="297"/>
@@ -447,7 +460,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="28"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação</translation>
     </message>
 </context>
 </TS>
