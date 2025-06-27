@@ -381,82 +381,82 @@ Requerido: {requiredUrl}</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="978"/>
         <source>Processing started</source>
-        <translation>Processamento iniciado.</translation>
+        <translation>Processamento iniciado</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1002"/>
         <source>No GPU is detected. Switch to &apos;fast&apos; mode to get low-resolution result in a few minutes or compute full-resolution result which may take 5 to 50 minutes (depending on computer configuration)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma GPU detectada. Deseja mudar para o modo &apos;rápido&apos; para obter um resultado em baixa resolução em poucos minutos ou calcular o resultado em resolução total, o que pode levar de 5 a 50 minutos (dependendo da configuração do computador)?</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1002"/>
         <source>Fast (~2 minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rápido (~2 minutos)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1003"/>
         <source>Full-resolution (~5 to 50 minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolução completa (~5 a 50 minutos)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1011"/>
         <source>You have less than 7 GB of GPU memory available. Enable &apos;fast&apos; mode to ensure segmentation can be completed successfully?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tem menos de 7 GB de memória GPU disponível. Quer habilitar o modo &quot;rápido&quot; para garantir que a segmentação possa ser concluída com sucesso?</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1059"/>
         <source>Processing completed in {time_elapsed:.2f} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento concluído em {time_elapsed:.2f} segundos</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1062"/>
         <source>Cleaning up temporary folder...</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpeza de pasta temporária...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1066"/>
         <source>Not cleaning up temporary folder: {temp_folder}</source>
-        <translation type="unfinished"></translation>
+        <translation>Não limpar pasta temporária: {temp_folder}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1074"/>
         <source>Writing input file to {input_file}</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrevendo arquivo de entrada para {input_file}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1118"/>
         <source>Creating segmentations with TotalSegmentator AI...</source>
-        <translation type="unfinished"></translation>
+        <translation>Criando segmentações com TotalSegmentator AI...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1119"/>
         <source>Total Segmentator arguments: {options}</source>
-        <translation type="unfinished"></translation>
+        <translation>Total dos argumentos do Segmentator: {options}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1124"/>
         <source>Importing segmentation results...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importação de resultados de segmentação...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1168"/>
         <source>Importing candidate {segment_name}</source>
-        <translation type="unfinished"></translation>
+        <translation>Importando o candidato {segment_name}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1171"/>
         <source>Path {segment_name} not exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>O caminho {segment_name} não existe.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1181"/>
         <source>Importing subset {segment_name}</source>
-        <translation type="unfinished"></translation>
+        <translation>Importação de subconjunto {segment_name}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1188"/>
         <source>{segment_name} not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>{segment_name} não encontrado.</translation>
     </message>
 </context>
 <context>
