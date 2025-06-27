@@ -148,63 +148,64 @@ O módulo utiliza o &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="747"/>
         <source>Failed to download sample data</source>
-        <translation>Falha ao baixar os dados de exemplo.</translation>
+        <translation>Falha ao baixar os dados de exemplo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="753"/>
         <source>Failed to load sample data set &apos;{sample_data_name}&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao carregar o conjunto de dados de exemplo &apos;{sample\_data\_name}&apos;.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="763"/>
         <source>Failed to get MONAI package version information</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao obter as informações da versão do pacote MONAI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="768"/>
         <source>Failed to upgrade MONAI</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao atualizar o MONAI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="772"/>
         <source>This MONAI update requires a 3D Slicer restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta atualização do MONAI requer reinício do 3D Slicer.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="772"/>
         <source>Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pressione OK para reiniciar.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="783"/>
         <source>There are no downloaded models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não há modelos baixados.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="785"/>
         <source>All downloaded model files will be deleted. The files will be automatically downloaded again as needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos de modelos baixados serão excluídos. Os arquivos serão baixados novamente automaticamente conforme necessário.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="788"/>
         <source>Downloaded models are deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos baixados foram excluídos.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="793"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="797"/>
         <source>Remote Server Connected {server_address}. {models_len} models are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor remoto conectado {server\_address}. {models\_len} modelos estão disponíveis.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="800"/>
         <source>Connection to remote server &apos;{server_address}&apos; failed. 
 Please check address, port, and connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na conexão com o servidor remoto &apos;{server\_address}&apos;. 
+Por favor, verifique o endereço, a porta e a conexão.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="808"/>
@@ -215,17 +216,17 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="813"/>
         <source>Failed to start server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao iniciar o servidor.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="836"/>
         <source>Server started</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor iniciado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="848"/>
         <source>Server was stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor foi parado.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="849"/>
