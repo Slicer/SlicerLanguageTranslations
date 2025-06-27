@@ -638,7 +638,7 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Details</source>
-        <translation type="unfinished">Detalls</translation>
+        <translation>Detalls</translation>
     </message>
 </context>
 <context>
@@ -1076,7 +1076,7 @@ due to:
     <message>
         <location filename="Libs/Widgets/ctkColorDialog.cpp" line="70"/>
         <source>Basic</source>
-        <translation type="unfinished">Bàsic</translation>
+        <translation>Bàsic</translation>
     </message>
 </context>
 <context>
@@ -2196,7 +2196,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="19"/>
         <source>Details</source>
-        <translation type="unfinished">Detalls</translation>
+        <translation>Detalls</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="25"/>
@@ -3007,7 +3007,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="265"/>
         <source>Address</source>
-        <translation type="unfinished">Adreça</translation>
+        <translation>Adreça</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="270"/>
@@ -3188,7 +3188,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="45"/>
         <source>Age</source>
-        <translation type="unfinished">Edat</translation>
+        <translation>Edat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="46"/>
@@ -3362,7 +3362,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="56"/>
         <source>Create new database</source>
-        <translation type="unfinished">Crear una nova base de dades</translation>
+        <translation>Crea una nova base de dades</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="63"/>
@@ -3439,7 +3439,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="409"/>
         <source>CT</source>
-        <translation type="unfinished">CT</translation>
+        <translation>TC</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="414"/>
@@ -3540,7 +3540,7 @@ Please set at least one filter to query the servers</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="808"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avançat</translation>
+        <translation>Avançat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMVisualBrowserWidget.ui" line="814"/>
@@ -3568,7 +3568,7 @@ Please set at least one filter to query the servers</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="281"/>
         <source>DICOM File Metadata</source>
-        <translation type="unfinished">Metadades del fitxer DICOM</translation>
+        <translation>Metadades del fitxer DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="379"/>
@@ -3593,7 +3593,7 @@ Please set at least one filter to query the servers</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="434"/>
         <source>Copy</source>
-        <translation type="unfinished">Copiar</translation>
+        <translation>Copia</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="436"/>
