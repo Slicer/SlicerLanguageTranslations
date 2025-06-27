@@ -226,17 +226,17 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="848"/>
         <source>Server was stopped.</source>
-        <translation>Servidor foi parado.</translation>
+        <translation>O servidor foi interrompido.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="849"/>
         <source>Processing failed with error code {return_code}. Try again with `Log to GUI` for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento falhou com o código de erro {return\_code}. Tente novamente com a opção `Registrar na interface` para mais detalhes.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="1427"/>
         <source>Segmenting sequence item {number_of_processed_items}/{number_of_items}</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentando o item da sequência {number\_of\_processed\_items}/{number\_of\_items}</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="127"/>
@@ -456,7 +456,7 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="40"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação</translation>
     </message>
 </context>
 </TS>
