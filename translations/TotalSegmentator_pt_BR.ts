@@ -227,157 +227,161 @@ Pressione OK para reiniciar.</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="290"/>
         <source>Confirm application restart</source>
-        <translation>Confirme o reinício da aplicação.</translation>
+        <translation>Confirme o reinício da aplicação</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="297"/>
         <source>Failed to install required packages.
 
 {exception}</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao instalar os pacotes obrigatórios.
+
+{exception}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="300"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao calcular os resultados.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="312"/>
         <source>Processing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento concluído.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="316"/>
         <source>Failed to get TotalSegmentator package version information</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao obter as informações da versão do pacote TotalSegmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="320"/>
         <source>Failed to upgrade TotalSegmentator</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao atualizar o TotalSegmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="323"/>
         <source>This TotalSegmentator update requires a 3D Slicer restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Essa atualização do TotalSegmentator requer reinício do 3D Slicer.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="323"/>
         <source>Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pressione OK para reiniciar.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="324"/>
         <source>Restart was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>O reinício foi cancelado.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="330"/>
         <source>Set TotalSegmentator license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir chave de licença do TotalSegmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="330"/>
         <source>License key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chave de licença:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="333"/>
         <source>Failed to set TotalSegmentator license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao definir a licença do TotalSegmentator.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="335"/>
         <source>License is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licença não especificada.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="341"/>
         <source>License key is set. You can now use TotalSegmentator tasks that require a license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chave de licença definida. Agora você pode usar as tarefas do TotalSegmentator que exigem licença.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="600"/>
         <source>Failed to deserialize terminology string: {terminology_entry_str}</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao desserializar a string de terminologia: {terminology\_entry\_str}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="738"/>
         <source>- Skip {requirement}</source>
-        <translation type="unfinished"></translation>
+        <translation>- Ignorar {requirement}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="740"/>
         <source>- Installing {requirement}...</source>
-        <translation type="unfinished"></translation>
+        <translation>- Instalando {requirement}...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="801"/>
         <source>This module requires installation of additional Python packages. Installation needs network connection and may take several minutes. Click OK to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo requer a instalação de pacotes Python adicionais. A instalação precisa de conexão à internet e pode levar vários minutos. Clique em OK para continuar.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="802"/>
         <source>Confirm Python package installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar instalação dos pacotes Python</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="803"/>
         <source>Python packages that will be installed: {package_list}</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacotes Python que serão instalados: {package\_list}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="809"/>
         <source>PyTorch Python package is required. Installing... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>O pacote Python PyTorch é obrigatório. Instalando... (isso pode levar vários minutos)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="823"/>
         <source>nnunetv2 package is required. Installing... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>O pacote nnunetv2 é obrigatório. Instalando... (isso pode levar vários minutos)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="845"/>
         <source>This module requires TotalSegmentator Python package update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo requer atualização do pacote Python TotalSegmentator.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="846"/>
         <source>Currently installed: {downloadUrl}
 
 Required: {requiredUrl}</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualmente instalado: {downloadUrl}
+
+Requerido: {requiredUrl}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="853"/>
         <source>TotalSegmentator Python package is required. Installing it from {downloadUrl}... (it may take several minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>O pacote Python TotalSegmentator é obrigatório. Instalando a partir de {downloadUrl}... (isso pode levar vários minutos)</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="865"/>
         <source>TotalSegmentator installation completed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalação do TotalSegmentator concluída com sucesso.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="928"/>
         <source>Setting license...</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurando licença...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="948"/>
         <source>License has been successfully set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licença configurada com sucesso.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="950"/>
         <source>This license update requires a 3D Slicer restart.</source>
         <comment>Press OK to restart.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esta atualização da licença requer reinício do 3D Slicer.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="978"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento iniciado.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="1002"/>
