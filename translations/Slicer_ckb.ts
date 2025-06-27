@@ -3442,7 +3442,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>مۆدێلەکان</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
@@ -8459,7 +8459,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="297"/>
         <source>Data Probe</source>
-        <translation type="unfinished">Data Probe</translation>
+        <translation>پرۆبی داتا</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
@@ -17522,7 +17522,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="67"/>
         <source>New application version is available: %1</source>
-        <translation>وەشانی نوێی بەرنامە بەردەستە: %1</translation>
+        <translation>وەشانی نوێی بەرنامە بەردەستە:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="75"/>
@@ -17930,12 +17930,12 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="379"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="851"/>
         <source>Modules</source>
-        <translation type="unfinished">Modules</translation>
+        <translation>بەشەکان</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="383"/>
         <source>Appearance</source>
-        <translation type="unfinished">Appearance</translation>
+        <translation>سوپاسگوزاری</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="387"/>
