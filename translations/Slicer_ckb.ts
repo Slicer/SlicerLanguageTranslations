@@ -28626,24 +28626,11 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;We are always interested in improving 3D Slicer, to tell us about your problem or submit a bug report, open &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</source>
         <translation>&lt;table border=&quot;0&quot; align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;
 &lt;tr&gt;
-  &lt;td style=&quot;vertical-align:middle;&quot;&gt;
-    &lt;p&gt;
-      &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;
-        &lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; style=&quot;vertical-align: middle;&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/p&gt;
-  &lt;/td&gt;
-  &lt;td style=&quot;vertical-align:middle;&quot;&gt;
-    &lt;p&gt;
-      چیرۆکەکانت پەیوەندیبە بەمان لە &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;فۆڕومی Slicer&lt;/a&gt; و بڵێ بۆمان چۆن 3D Slicer یارمەتیت دا لە توێژینەوەت.
-    &lt;/p&gt;
-  &lt;/td&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;چیرۆکەکانت لەگەڵمان بەش بکە لە &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;فۆڕومی Slicer&lt;/a&gt; و بڵێ چۆن 3D Slicer یارمەتیت دا لە توێژینەوەت.&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
-
-&lt;p&gt;
-  ئێمە هەمیشە دڵخۆشین بە باشترکردنی 3D Slicer. بۆ ئاگادارکردنەوەمان لە کێشەکانت یان ناردنی راپۆرتی هەڵە، کرتە بکە سەر &lt;b&gt;یارمەتی → راپۆرتکردنی هەڵە&lt;/b&gt;.
-&lt;/p&gt;</translation>
+&lt;p&gt;ئێمە هەمیشە حەز لە باشترکردنی 3D Slicer هەیە، بۆ ئاگادارکردنەوە لە کێشەیەکت یان ناردنی راپۆرتی هەڵە، کرتە بکە سەر &lt;b&gt;یارمەتی → راپۆرتکردنی هەڵە&lt;/b&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
