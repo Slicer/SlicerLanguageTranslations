@@ -21,7 +21,7 @@
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="39"/>
         <source>MONAI Auto3DSeg</source>
-        <translation type="unfinished"></translation>
+        <translation>MONAI Auto3DSeg</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="46"/>
@@ -29,7 +29,10 @@
 3D Slicer extension for segmentation using MONAI Auto3DSeg AI model.
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Extensão do 3D Slicer para segmentação utilizando o modelo de IA do MONAI Auto3DSeg.
+Veja mais informações na &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;documentação da extensão&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="51"/>
@@ -37,112 +40,115 @@ See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMO
 This file was originally developed by Andras Lasso (PerkLab, Queen&apos;s University).
 The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg model&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este arquivo foi desenvolvido originalmente por Andras Lasso (PerkLab, Queen&apos;s University).
+O módulo utiliza o &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;modelo MONAI Auto3DSeg&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="459"/>
         <source>Connect to server or disable remote processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conecte-se ao servidor ou desative o processamento remoto.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="467"/>
         <source>Select a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um modelo.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="482"/>
         <source>Select {input_title}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione {input_title}.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="485"/>
         <source>&apos;{input_title}&apos; does not have a unique input (&apos;{already_in_input}&apos; is already used as another input).</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;{input_title}&apos; não possui uma entrada exclusiva (&apos;{already_in_input}&apos; já está sendo usada como outra entrada).</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="496"/>
         <source>Start segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar segmentação</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="500"/>
         <source>Please wait while the segmentation is being initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>Aguarde enquanto a segmentação está sendo inicializada</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="503"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="504"/>
         <source>Cancel in-progress segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar segmentação em progresso</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="507"/>
         <source>Please wait while the segmentation result is being imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, espere enquanto o resultado da segmentação está sendo importado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="510"/>
         <source>Please wait for the segmentation to be cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, espere até que a segmentação seja cancelada</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="533"/>
         <source>Running ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Em execução ...</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="575"/>
         <source>Log cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro apagado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="643"/>
         <source>The first input volume you provided are part of a sequence. Do you want to segment all frames of that sequence?</source>
-        <translation type="unfinished"></translation>
+        <translation>O primeiro volume de entrada fornecido faz parte de uma sequência. Deseja segmentar todos os quadros dessa sequência?</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="648"/>
         <source>Processing Failed. Check logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha no processamento. Verifique os registros para mais informações.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="678"/>
         <source>Failed to cancel processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao cancelar o processamento.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="702"/>
         <source>Processing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento concluído.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="705"/>
         <source>Processing was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>O processamento foi cancelado.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="709"/>
         <source>Processing failed with error code [{error_codes_string}]. Please check logs for further information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento falhou com o código de erro [{error_codes_string}]. Por favor, verifique os registros para mais informações.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="735"/>
         <source>Failed to retrieve model information</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao recuperar informações do modelo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="740"/>
         <source>No sample data is available for this model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum dado de exemplo está disponível para este modelo.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="747"/>
         <source>Failed to download sample data</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao baixar os dados de exemplo.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="753"/>
