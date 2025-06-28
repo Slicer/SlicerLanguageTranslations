@@ -17976,7 +17976,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="523"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="559"/>
         <source>%1 has caught an application error, </source>
-        <translation type="unfinished">%1 has caught an application error, </translation>
+        <translation>%1 کێشەیەکی بەرنامەیی گرتە، </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="524"/>
@@ -17984,7 +17984,7 @@ p, li { white-space: pre-wrap; }
         <source>please save your work and restart.
 
 </source>
-        <translation type="unfinished">please save your work and restart.
+        <translation>تکایە ئەرکەکانت پاشەکەوت بکە و بەرنامەکە دووبارە دەستپێبکە.
 
 </translation>
     </message>
