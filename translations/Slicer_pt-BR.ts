@@ -15040,7 +15040,7 @@ deve definir &quot;face -verso&quot; e &quot;face-frente&quot; para OFF nas opç
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="116"/>
         <source>Add</source>
-        <translation>Add</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="127"/>
