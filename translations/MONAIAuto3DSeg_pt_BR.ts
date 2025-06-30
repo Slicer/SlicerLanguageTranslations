@@ -48,27 +48,27 @@ O módulo utiliza o &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="190"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocioso</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="191"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="192"/>
         <source>Segmenting</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="193"/>
         <source>Importing Results</source>
-        <translation type="unfinished"></translation>
+        <translation>Importação de Resultados</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="194"/>
         <source>Processing Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Processamento concluído.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="195"/>
