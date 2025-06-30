@@ -796,7 +796,7 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="64"/>
         <source>Input T1N volume</source>
-        <translation>Volume de entrada T1C</translation>
+        <translation>Volume de entrada T1N</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="65"/>
