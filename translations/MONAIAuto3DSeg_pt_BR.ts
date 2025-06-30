@@ -491,187 +491,187 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="3"/>
         <source>Abdominal organs TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Órgãos abdominais TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="4"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_organs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixa resolução (3mm) para visualização rápida. Treinado em class_map_part_organs do conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="5"/>
         <source>human</source>
-        <translation type="unfinished"></translation>
+        <translation>humano</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="6"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>TC</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="7"/>
         <source>Abdominal organs TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Órgãos abdominais TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="8"/>
         <source>Trained on class_map_part_organs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Treinado em class_map_part_organs do conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="9"/>
         <source>Body TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Corpo TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="10"/>
         <source>Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Treinado no conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="11"/>
         <source>Body TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Corpo TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="12"/>
         <source>Low-resolution (3mm) for quick preview. Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixa resolução (3mm) para visualização rápida. Treinado no conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="13"/>
         <source>Vertebrae TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertebrae TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="14"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_vertebrae of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixa resolução (3mm) para visualização rápida. Treinado em class_map_part_vertebrae do conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="15"/>
         <source>Vertebrae TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertebras TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="16"/>
         <source>Trained on class_map_part_vertebrae of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Treinado em class_map_part_vertebrae do conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="17"/>
         <source>Mediastinal anatomy TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomia mediastinal TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="18"/>
         <source>Mediastinal anatomy TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomia da mídia TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="19"/>
         <source>Whole Head Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação de cabeça inteira</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="20"/>
         <source>Model trained on CT scans for whole head segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo treinado em exames de TC para segmentação total da cabeça.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="21"/>
         <source>Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="22"/>
         <source>Whole Head Segmentation - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação de cabeça inteira - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="23"/>
         <source>Low-resolution (1mm) for quick preview. Model trained on CT scans for whole head segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixa resolução (1mm) para visualização rápida. Modelo treinado em exames de TC para segmentação total da cabeça.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="24"/>
         <source>Whole body segmentation TS1</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação total do corpo TS1</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="25"/>
         <source>Segment 104 structures (abdominal organs, bones, vessels) on CT images. Trained on TotalSegmentatorV1 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estruturas de segmento 104 (órgãos abdominais, ossos, vasos) em imagens de TC. Treinado no conjunto de dados TotalSegmentatorV1.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="26"/>
         <source>Whole body segmentation TS1 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação total do corpo TS1 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="27"/>
         <source>Whole body segmentation TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação total do corpo TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="28"/>
         <source>Segment &gt;100 structures (abdominal organs, bones, vessels, etc) on CT images. Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento &gt;100 estruturas (órgãos abdominais, ossos, vasos, etc) em imagens CT. Treinado no conjunto de dados TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="29"/>
         <source>Whole body segmentation TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação total do corpo TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="30"/>
         <source>Abdominal organs TS1</source>
-        <translation type="unfinished"></translation>
+        <translation>Órgãos abdominais TS1</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="31"/>
         <source>Segment 17 abdominal organs. Trained on TotalSegmentatorV1 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento 17 órgãos abdominais. Treinado no conjunto de dados TotalSegmentatorV1. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="32"/>
         <source>Prostate - Multisequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Prostate - Multisequência</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="33"/>
         <source>Segments peripheral (PZ) and transition zone (TZ) on T2 and ADC sequences. Trained on Medical Segmentation Decathlon dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentos periféricos (PZ) e zona de transição (TZ) em sequências T2 e ADC. Formado em conjunto de dados de Decathlon Segmentation Medical.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="34"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>RM</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="35"/>
         <source>Input T2 volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada T2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="36"/>
         <source>Input ADC volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada ADC</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="37"/>
         <source>Ribs TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Ribs TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="38"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_ribs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixa resolução (3mm) para visualização rápida. Treinado em class_map_part_ribs de conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="39"/>
         <source>Ribs TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ribs TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="40"/>
