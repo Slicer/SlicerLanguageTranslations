@@ -661,7 +661,7 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="37"/>
         <source>Ribs TS2 - quick</source>
-        <translation>Ribs TS2 - rápido</translation>
+        <translation>Costelas TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="38"/>
@@ -671,157 +671,157 @@ Por favor, verifique o endereço, a porta e a conexão.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="39"/>
         <source>Ribs TS2</source>
-        <translation>Ribs TS2</translation>
+        <translation>Costelas TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="40"/>
         <source>class_map_part_ribs: Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Treinado no conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="41"/>
         <source>Muscles TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Músculos TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="42"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_muscles of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixa resolução (3mm) para visualização rápida. Treinado em class_map_part_muscles de conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="43"/>
         <source>Muscles TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Músculos TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="44"/>
         <source>Trained on class_map_part_muscles of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Treinado em class_map_part_muscles de conjunto de dados TotalSegmentatorV2. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="45"/>
         <source>Cardiac TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Cardiac TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="46"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_cardiac of TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixa resolução (3mm) para visualização rápida. Treinado em class_map_part_cardiac do conjunto de dados TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="47"/>
         <source>Cardiac TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Cardíaco TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="48"/>
         <source>class_map_part_cardiac: Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>class_map_part_cardiac: Treinado no conjunto de dados TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="49"/>
         <source>Lungs - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulmões - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="50"/>
         <source>Low-resolution (3mm) for quick preview. Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixa resolução (3mm) para visualização rápida. Treinado no conjunto de dados TotalSegmentatorV2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="51"/>
         <source>Lungs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulmões</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="52"/>
         <source>Segment 9 segments: lung segments, pulmonary vein, pulmonary artery, lung vessels and trachea. Trained on TotalSegmentatorV2 datasets. In v1.x there are no pulmonary vein and artery segments but there is esophagus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento 9 segmentos: segmentos pulmonares, veia pulmonar, artéria pulmonar, vasos pulmonares e traqueia. Treinado em conjuntos de dados TotalSegmentatorV2. Em v1.x não há veia pulmonar e segmentos de artéria, mas há esôfago.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="53"/>
         <source>Hips and spine</source>
-        <translation type="unfinished"></translation>
+        <translation>Coxas e coluna</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="54"/>
         <source>Segment 27 segments: hips, sacrum and vertebrae. Trained on TotalSegmentatorV1 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento 27 segmentos: quadris, sacrum e vértebras. Treinado no conjunto de dados TotalSegmentatorV1. A imagem de entrada é abdominais, tórax ou TAC do corpo inteiro.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="55"/>
         <source>Aorta</source>
-        <translation type="unfinished"></translation>
+        <translation>Aorta</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="56"/>
         <source>Aorta segmentation. Trained on TotalSegmentatorV1 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação aorta. Treinado no conjunto de dados TotalSegmentatorV1.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="57"/>
         <source>Intracranial hemorrhage (ICrH) Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação intracraniana (ICrH)</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="58"/>
         <source>Intracranial Hemorrhage segmentation using CT images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação intracraniana de hemorragia usando imagens CT.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="59"/>
         <source>Brain and intracranial hemorrhage (ICrH) Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação cerebral e intracraniana (ICrH)</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="60"/>
         <source>Brain Anatomy and Intracranial Hemorrhage segmentation using CT images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomia cerebral e segmentação de hemorragia intracraniana usando imagens de TC.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="61"/>
         <source>Brain Tumor Segmentation (BRATS) GLI</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação do tumor cerebral (BRATS) GLI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="62"/>
         <source>Input T2F volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada T2F</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="63"/>
         <source>Input T1C volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada T1C</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="64"/>
         <source>Input T1N volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada T1C</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="65"/>
         <source>Input T2W volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada T2W</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="66"/>
         <source>Brain Tumor Segmentation (BRATS) MEN</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação do tumor cerebral (BRATS) MEN</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="67"/>
         <source>Brain Tumor Segmentation (BRATS) MET</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação do tumor cerebral (BRATS) MET</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="68"/>
         <source>Brain Tumor Segmentation (BRATS) PED</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação do tumor cerebral (BRATS) PED</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="69"/>
         <source>Brain Tumor Segmentation (BRATS) SSA</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação do tumor cerebral (BRATS) SSA</translation>
     </message>
 </context>
 <context>
