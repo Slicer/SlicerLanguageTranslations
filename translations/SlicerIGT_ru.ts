@@ -51,7 +51,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation>Выходное преобразлвание: </translation>
+        <translation>Выходное преобразование: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
@@ -61,7 +61,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="115"/>
         <source>Set scale factor for the screen shots.</source>
-        <translation type="unfinished"></translation>
+        <translation>Установите масштабирующий коэффициент для снимков экрана.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="122"/>
@@ -76,7 +76,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="135"/>
         <source>Mean distance after registration: </source>
-        <translation type="unfinished"></translation>
+        <translation>Средняя дистанция после регистрации: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
@@ -86,12 +86,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
         <source>Transform type: </source>
-        <translation type="unfinished"></translation>
+        <translation>Тип преобразования: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Число повторений:</translation>
     </message>
 </context>
 <context>
@@ -99,12 +99,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="18"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation>Путеводитель</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="45"/>
         <source>Guidelet launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Лаунчер путеводителя</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
@@ -114,7 +114,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
         <source>Select Configuration: </source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите конфигурацию: </translation>
     </message>
 </context>
 <context>
@@ -122,12 +122,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="165"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
         <source>Select connector node</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите соединительный узел</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="190"/>
@@ -142,7 +142,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
         <source>Show Guidelet in full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Показатель путеводитель на весь экран</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="201"/>
@@ -157,7 +157,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="223"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход</translation>
     </message>
 </context>
 <context>
@@ -170,12 +170,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="58"/>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать запись</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="61"/>
         <source>If clicked, start recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Если нажата, начать запись</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="63"/>
@@ -185,32 +185,32 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="75"/>
         <source>Brightness </source>
-        <translation type="unfinished"></translation>
+        <translation>Яркость </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="85"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Нормальный</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="89"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Яркий</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="93"/>
         <source>Brighter</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярче</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="245"/>
         <source>  Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>  Прекратить запись</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="247"/>
         <source>Recording is being started...</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись была начата...</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="261"/>
@@ -220,7 +220,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="263"/>
         <source>Recording is being stopped...</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись была остановлена...</translation>
     </message>
 </context>
 <context>
