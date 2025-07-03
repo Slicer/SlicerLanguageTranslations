@@ -1323,7 +1323,7 @@ due to:
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="20"/>
         <source>DICOM Browser</source>
         <oldsource>ctkDICOMBrowser</oldsource>
-        <translation type="unfinished">ctkDICOMBrowser</translation>
+        <translation>Navegador DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="38"/>
