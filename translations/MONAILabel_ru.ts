@@ -57,12 +57,12 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="79"/>
         <source>Server address history:</source>
-        <translation type="unfinished"></translation>
+        <translation>История адресов сервера:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>Default extension for uploading images/labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартное расширение для загрузки изображений/ярлыков</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
@@ -72,7 +72,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="93"/>
         <source>user-xyz</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользователь-xyz</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
@@ -87,17 +87,17 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Enable this option to auto run segmentation if pre-trained model exists when Next Sample is fetched</source>
-        <translation type="unfinished"></translation>
+        <translation>Включите эту опцию для автоматического запуска сегментации, если предварительно обученная модель существует, когда внесен новый образец</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Auto-Run Pre-Trained Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>Автозапуск предварительно обученной модели:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Enable this option to fetch Next Sample after saving the label</source>
-        <translation type="unfinished"></translation>
+        <translation>Включите эту опцию для внесения нового образца после сохранения ярлыка</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
@@ -122,7 +122,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Ask For User Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Спросите имя пользователя:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
@@ -137,7 +137,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
         <source>Enable this option to first read original label (predictions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Включите эту опцию при первом чтении оригинальных ярлыков (предсказаний)</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
@@ -152,17 +152,17 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="174"/>
         <source>Developer Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим разработчика:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Enable this option to show segments in 3D (slow) after mask update...</source>
-        <translation type="unfinished"></translation>
+        <translation>Включите эту опцию, чтобы показать сегменты в 3D (медленно) после обновления маски...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Show Segments In 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать сегменты в 3D:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="204"/>
@@ -222,22 +222,22 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="385"/>
         <source>activelearning</source>
-        <translation type="unfinished"></translation>
+        <translation>активное обучение</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="386"/>
         <source>scoring</source>
-        <translation type="unfinished"></translation>
+        <translation>подсчет</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="395"/>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя пользователя</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="396"/>
         <source>Please enter your name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, введите свое имя:</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="503"/>
@@ -247,17 +247,17 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="514"/>
         <source>Training: {status}</source>
-        <translation type="unfinished"></translation>
+        <translation>Тренировка: {status}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="613"/>
         <source>{current}/{total} samples are labeled</source>
-        <translation type="unfinished"></translation>
+        <translation>{current}/{total} образцы помечены</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="890"/>
         <source>Accuracy: {value}</source>
-        <translation type="unfinished"></translation>
+        <translation>Точность: {value}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1034"/>
