@@ -6,12 +6,12 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="31"/>
         <source>Annotation needs a widget reference and a valid type</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotasi membutuhkan referensi widget dan jenis yang valid</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="249"/>
         <source>Write your text here</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulis teks Anda di sini</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="332"/>
