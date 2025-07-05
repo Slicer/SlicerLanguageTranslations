@@ -144,7 +144,7 @@ Difumina una imatge 2d.
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="6"/>
         <source>Test parameters.</source>
-        <translation>Paràmetres de prova</translation>
+        <translation>Paràmetres de prova.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="7"/>
@@ -152,17 +152,17 @@ Difumina una imatge 2d.
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="12"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="8"/>
         <source>Enumeration</source>
-        <translation type="unfinished"></translation>
+        <translation>Enumeració</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="11"/>
         <source>Enumeration parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres d&apos;enumeració</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="13"/>
