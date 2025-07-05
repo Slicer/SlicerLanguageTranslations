@@ -6,114 +6,122 @@
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="4"/>
         <source>2D Blurring</source>
-        <translation type="unfinished"></translation>
+        <translation>Difuminat 2D</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="5"/>
         <source>
 Blur a 2d image.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Difumina una imatge 2d.
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="6"/>
         <source>Scalar Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres dels escalars</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="7"/>
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Variacions en els paràmetres dels escalars
+    </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="8"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetre Enter</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="9"/>
         <source>Boolean Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetre booleà</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="17"/>
         <source>Some file</source>
-        <translation type="unfinished"></translation>
+        <translation>Algun fitxer</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="11"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="18"/>
         <source>Some dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Alguna carpeta</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="12"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="19"/>
         <source>Some geom</source>
-        <translation type="unfinished"></translation>
+        <translation>Alguna geom</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="13"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="20"/>
         <source>Some image</source>
-        <translation type="unfinished"></translation>
+        <translation>Alguna imatge</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="14"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetre doble</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="15"/>
         <source>
       An integer without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Un enter sense restriccions
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="16"/>
         <source>
       A boolean without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Un booleà sense restriccions
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="21"/>
         <source>An double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Un doble amb restriccions</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="22"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de vectors</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="23"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variacions en paràmetres de vectors</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="24"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetre de vector de flotants</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="25"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetre de vector de cadenes</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="26"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>Un vector de flotants</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="27"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Un vector de cadenes</translation>
     </message>
 </context>
 <context>
@@ -121,17 +129,17 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="3"/>
         <source>Test Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Mòdul de prova</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="4"/>
         <source>Test Module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mòdul de proba.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="5"/>
         <source>Test parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de proba</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="6"/>
