@@ -180,7 +180,7 @@ Difumina una imatge 2d.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="4"/>
         <source>Test Bed</source>
-        <translation type="unfinished"></translation>
+        <translation>Banc de proves</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="5"/>
@@ -192,12 +192,12 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="6"/>
         <source>Runtime behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Comportament en temps d&apos;execució</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="7"/>
         <source>Configures the runtime behaviour of this module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura el comportament en temps d&apos;execució d&apos;aquest mòdul.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="8"/>
