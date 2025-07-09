@@ -31,7 +31,6 @@ See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMO
 </source>
         <translation>
 ‬امتداد 3D Slicer لتقسيم الصور باستخدام نموذج ذكاء إصطناعي MONAI Auto3DSeg .
-
 راجع مزيدًا من المعلومات في &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;وثائق الامتداد&lt;/a&gt;.
 </translation>
     </message>
@@ -41,62 +40,65 @@ See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMO
 This file was originally developed by Andras Lasso (PerkLab, Queen&apos;s University).
 The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg model&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+هذا الملف تم تطويره في الأصل بواسطة Andras Lasso (PerkLab ، جامعة كوينز).
+تستخدم الوحدة &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;نموذج MONAI Auto3DSeg&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="190"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation>خاملاً</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="191"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>تهيئة</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="192"/>
         <source>Segmenting</source>
-        <translation type="unfinished"></translation>
+        <translation>تقسيم</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="193"/>
         <source>Importing Results</source>
-        <translation type="unfinished"></translation>
+        <translation>استيراد النتائج</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="194"/>
         <source>Processing Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>تم الانتهاء من المعالجة</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="195"/>
         <source>Cancelling</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="199"/>
         <source>Processing Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل المعالجة</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="459"/>
         <source>Connect to server or disable remote processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>اتصل بالخادم أو قم بتعطيل المعالجة عن بعد.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="467"/>
         <source>Select a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر نموذجًا.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="482"/>
         <source>Select {input_title}.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر {input_title}.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="485"/>
         <source>&apos;{input_title}&apos; does not have a unique input (&apos;{already_in_input}&apos; is already used as another input).</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;{input_title}&apos; ليس لديه مُدخل فريد (&apos;{already_in_input}&apos; مُستخدم بالفعل كمُدخل آخر).</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="496"/>
