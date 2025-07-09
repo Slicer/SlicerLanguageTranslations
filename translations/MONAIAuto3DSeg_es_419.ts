@@ -29,7 +29,10 @@
 3D Slicer extension for segmentation using MONAI Auto3DSeg AI model.
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+El modelo de IA - MONAI Auto3DSeg se usa la extensión de 3D Slicer para segmentaciones .
+Consulte más información en &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;documentación de la extensión&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="51"/>
@@ -37,47 +40,50 @@ See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMO
 This file was originally developed by Andras Lasso (PerkLab, Queen&apos;s University).
 The module uses &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg model&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este archivo fue desarrollado originalmente por Andras Lasso (PerkLab, Queen&apos;s University).
+El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/tutorials/blob/main/MONAIAuto3DSeg/README.md&quot;&gt;MONAI Auto3DSeg&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="190"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin actividad</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="191"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializando</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="192"/>
         <source>Segmenting</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentando</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="193"/>
         <source>Importing Results</source>
-        <translation type="unfinished"></translation>
+        <translation>Importando resultados</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="194"/>
         <source>Processing Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Proceso finalizado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="195"/>
         <source>Cancelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelando</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="199"/>
         <source>Processing Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallado el proceso</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="459"/>
         <source>Connect to server or disable remote processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectar al servidor o desabilitar el procesamiento remoto.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="467"/>
