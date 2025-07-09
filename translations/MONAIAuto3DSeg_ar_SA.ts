@@ -11,12 +11,12 @@
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="23"/>
         <source>Remote processing:</source>
-        <translation>المعالجة عن بُعد</translation>
+        <translation>المعالجة عن بُعد:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="76"/>
         <source>Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>خادم:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="39"/>
@@ -29,7 +29,11 @@
 3D Slicer extension for segmentation using MONAI Auto3DSeg AI model.
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+‬امتداد 3D Slicer لتقسيم الصور باستخدام نموذج ذكاء إصطناعي MONAI Auto3DSeg .
+
+راجع مزيدًا من المعلومات في &lt;a href=&quot;https://github.com/lassoan/SlicerMONAIAuto3DSeg&quot;&gt;وثائق الامتداد&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="51"/>
