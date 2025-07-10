@@ -261,7 +261,7 @@ Pulsar OK para reiniciar.</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="323"/>
         <source>This TotalSegmentator update requires a 3D Slicer restart.</source>
-        <translation>Esta actualización de TotalSegmentator requiere reiniciar 3D Slicer.</translation>
+        <translation>Esta actualización de Segmentador total requiere reiniciar 3D Slicer.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="323"/>
