@@ -68,7 +68,7 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="194"/>
         <source>Processing Finished</source>
-        <translation>Proceso finalizado</translation>
+        <translation>Procesamiento finalizado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="195"/>
@@ -78,7 +78,7 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="199"/>
         <source>Processing Failed</source>
-        <translation>Ha fallado el proceso</translation>
+        <translation>Ha fallado el procesamiento</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="459"/>
@@ -88,12 +88,12 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="467"/>
         <source>Select a model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar un modelo.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="482"/>
         <source>Select {input_title}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar {input_título}.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="485"/>
@@ -158,88 +158,89 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="702"/>
         <source>Processing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesamiento finalizado.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="705"/>
         <source>Processing was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>El procesamiento fue cancelado.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="709"/>
         <source>Processing failed with error code [{error_codes_string}]. Please check logs for further information.</source>
-        <translation type="unfinished"></translation>
+        <translation>El procesamiento falló con error en el código [{error_códigos_cadena}]. Por favor, consulte los registros para obtener más información.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="735"/>
         <source>Failed to retrieve model information</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al recuperar la información del modelo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="740"/>
         <source>No sample data is available for this model.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se dispone de datos de muestra para este modelo.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="747"/>
         <source>Failed to download sample data</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al descargar datos de muestra</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="753"/>
         <source>Failed to load sample data set &apos;{sample_data_name}&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al cargar el conjunto de datos de muestra “{nombre_datos_muestra}”.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="763"/>
         <source>Failed to get MONAI package version information</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al obtener la información de la versión del paquete MONAI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="768"/>
         <source>Failed to upgrade MONAI</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al actualizar MONAI</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="772"/>
         <source>This MONAI update requires a 3D Slicer restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta actualización de MONAI requiere reiniciar 3D Slicer.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="772"/>
         <source>Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulsar OK para reiniciar.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="783"/>
         <source>There are no downloaded models.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay modelos descargados.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="785"/>
         <source>All downloaded model files will be deleted. The files will be automatically downloaded again as needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se borrarán todos los archivos de modelo descargados. Los archivos se volverán a descargar automáticamente cuando sea necesario.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="788"/>
         <source>Downloaded models are deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se eliminan los modelos descargados.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="793"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="797"/>
         <source>Remote Server Connected {server_address}. {models_len} models are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor remoto conectado {dirección_servidor}. {modelos_len} modelos disponibles.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="800"/>
         <source>Connection to remote server &apos;{server_address}&apos; failed. 
 Please check address, port, and connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallado la conexión con el servidor remoto “{dirección_del_servidor}”. 
+Compruebe la dirección, el puerto y la conexión.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="808"/>
@@ -250,27 +251,27 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="813"/>
         <source>Failed to start server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al iniciar el servidor.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="836"/>
         <source>Server started</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor activado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="848"/>
         <source>Server was stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha detenido el servidor.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="849"/>
         <source>Processing failed with error code {return_code}. Try again with `Log to GUI` for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>El proceso ha fallado con el código de error {regresar_código}. Inténtelo de nuevo con &quot;Registrar en GUI&quot; para obtener más detalles.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="1427"/>
         <source>Segmenting sequence item {number_of_processed_items}/{number_of_items}</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de elemento de secuencia {número_de_elementos_procesados}/{número_de_elementos}</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="127"/>
@@ -490,102 +491,102 @@ Please check address, port, and connection.</source>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="3"/>
         <source>Abdominal organs TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Órganos abdominales TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="4"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_organs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baja resolución (3 mm) para una previsualización rápida. Formado en clasificación_mapa_parte_órganos del conjunto de datos Segmentador total V2. La imagen de entrada es una TC abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="5"/>
         <source>human</source>
-        <translation type="unfinished"></translation>
+        <translation>humano</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="6"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>TC</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="7"/>
         <source>Abdominal organs TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Órganos abdominales TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="8"/>
         <source>Trained on class_map_part_organs of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formado en clasificación_mapa_parte_órganos del conjunto de datos Segmentator total V2. La imagen de entrada es una TC abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="9"/>
         <source>Body TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuerpo TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="10"/>
         <source>Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formado en el conjunto de datos Segmentator total V2. La imagen de entrada es una TC abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="11"/>
         <source>Body TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuerpo TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="12"/>
         <source>Low-resolution (3mm) for quick preview. Trained on TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baja resolución (3 mm) para una previsualización rápida. Formado en el conjunto de datos Segmentator total V2. La imagen de entrada es una TC abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="13"/>
         <source>Vertebrae TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Vértebras TS2 - rápido</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="14"/>
         <source>Low-resolution (3mm) for quick preview. Trained on class_map_part_vertebrae of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baja resolución (3 mm) para una previsualización rápida. Formado en clasificación_mapa_parte_vertebra Segmentator total V2. La imagen de entrada es una TC abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="15"/>
         <source>Vertebrae TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vértebras TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="16"/>
         <source>Trained on class_map_part_vertebrae of TotalSegmentatorV2 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formado en clasificación_mapa_parte_vertebra Segmentator total V2. La imagen de entrada es una TC abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="17"/>
         <source>Mediastinal anatomy TS2</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomía mediastínica TS2</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="18"/>
         <source>Mediastinal anatomy TS2 - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomía mediastínica TS2 - rápida</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="19"/>
         <source>Whole Head Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de la cabeza completa</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="20"/>
         <source>Model trained on CT scans for whole head segmentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo formado en TC para la segmentación de la cabeza completa.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="21"/>
         <source>Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="22"/>
         <source>Whole Head Segmentation - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de la cabeza completa - instantáneo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="23"/>
