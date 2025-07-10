@@ -816,12 +816,12 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="68"/>
         <source>Brain Tumor Segmentation (BRATS) PED</source>
-        <translation>Segmentación de tumores cerebrales (BRATS) PEDIÁTRICO</translation>
+        <translation>Segmentación de tumores cerebrales (Brain Tumor Segmentation) PEDIÁTRICO</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="69"/>
         <source>Brain Tumor Segmentation (BRATS) SSA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brain Tumor Segmentation (BRATS) SSA</translation>
     </message>
 </context>
 <context>
