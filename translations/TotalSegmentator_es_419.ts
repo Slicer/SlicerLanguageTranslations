@@ -286,7 +286,7 @@ Pulsar OK para reiniciar.</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="333"/>
         <source>Failed to set TotalSegmentator license.</source>
-        <translation>Error al establecer la licencia de Segmentador total.</translation>
+        <translation>Error al establecer la licencia del Segmentador total.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="335"/>
@@ -296,22 +296,22 @@ Pulsar OK para reiniciar.</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="341"/>
         <source>License key is set. You can now use TotalSegmentator tasks that require a license.</source>
-        <translation>La clave de licencia está configurada. Ahora puede utilizar las tareas de TotalSegmentator que requieren una licencia.</translation>
+        <translation>La clave de licencia está configurada. Ahora puede utilizar las tareas del Segmentador total que requieren una licencia.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="600"/>
         <source>Failed to deserialize terminology string: {terminology_entry_str}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al deserializar la cadena terminológica: {terminología_entry_str}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="738"/>
         <source>- Skip {requirement}</source>
-        <translation type="unfinished"></translation>
+        <translation>- Saltar {requerimiento}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="740"/>
         <source>- Installing {requirement}...</source>
-        <translation type="unfinished"></translation>
+        <translation>- Instalando {requisito}...</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="801"/>
