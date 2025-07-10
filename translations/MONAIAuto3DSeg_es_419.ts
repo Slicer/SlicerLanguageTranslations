@@ -816,7 +816,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="68"/>
         <source>Brain Tumor Segmentation (BRATS) PED</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de tumores cerebrales (BRATS) PEDIÁTRICO</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="69"/>
