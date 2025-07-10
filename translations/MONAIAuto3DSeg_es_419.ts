@@ -721,7 +721,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="49"/>
         <source>Lungs - quick</source>
-        <translation>Pulmones - instántaneo</translation>
+        <translation>Pulmones - instantaneo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="50"/>
