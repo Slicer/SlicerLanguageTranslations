@@ -261,22 +261,22 @@ Pulsar OK para reiniciar.</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="323"/>
         <source>This TotalSegmentator update requires a 3D Slicer restart.</source>
-        <translation>Esta actualización de Segmentador total requiere reiniciar 3D Slicer.</translation>
+        <translation>Esta actualización del Segmentador total requiere reiniciar 3D Slicer.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="323"/>
         <source>Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulsar OK para reiniciar.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="324"/>
         <source>Restart was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha cancelado el reinicio.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="330"/>
         <source>Set TotalSegmentator license key</source>
-        <translation type="unfinished"></translation>
+        <translation>Establezca la clave de licencia de TotalSegmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="330"/>
