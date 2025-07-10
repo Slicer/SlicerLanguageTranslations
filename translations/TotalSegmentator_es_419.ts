@@ -276,7 +276,7 @@ Pulsar OK para reiniciar.</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="330"/>
         <source>Set TotalSegmentator license key</source>
-        <translation>Establezca la clave de licencia de Segmentador total</translation>
+        <translation>Establezca la clave de licencia del Segmentador total</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="330"/>
@@ -286,17 +286,17 @@ Pulsar OK para reiniciar.</translation>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="333"/>
         <source>Failed to set TotalSegmentator license.</source>
-        <translation>Error al establecer la licencia de TotalSegmentator.</translation>
+        <translation>Error al establecer la licencia de Segmentador total.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="335"/>
         <source>License is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se especifica la licencia.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="341"/>
         <source>License key is set. You can now use TotalSegmentator tasks that require a license.</source>
-        <translation type="unfinished"></translation>
+        <translation>La clave de licencia está configurada. Ahora puede utilizar las tareas de TotalSegmentator que requieren una licencia.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="600"/>
