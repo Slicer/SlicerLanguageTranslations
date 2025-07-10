@@ -716,67 +716,67 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="48"/>
         <source>class_map_part_cardiac: Trained on TotalSegmentatorV2 dataset.</source>
-        <translation>class_map_part_cardiac: Formado en el conjunto de datos Segmentador total V2.</translation>
+        <translation>clasificación_mapa_parte_cardiaco: Formado en el conjunto de datos Segmentador total V2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="49"/>
         <source>Lungs - quick</source>
-        <translation>Pulmones - instantaneo</translation>
+        <translation>Pulmones - instantáneo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="50"/>
         <source>Low-resolution (3mm) for quick preview. Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baja resolución (3 mm) para una previsualización rápida. Formado en el conjunto de datos Segmentador total V2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="51"/>
         <source>Lungs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulmones</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="52"/>
         <source>Segment 9 segments: lung segments, pulmonary vein, pulmonary artery, lung vessels and trachea. Trained on TotalSegmentatorV2 datasets. In v1.x there are no pulmonary vein and artery segments but there is esophagus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmenta 9 segmentos: segmentos pulmonares, vena pulmonar, arteria pulmonar, vasos pulmonares y tráquea. Entrenado en conjuntos de datos Segmentador total V2. En v1.x no hay segmentos de vena y arteria pulmonares, pero sí de esófago.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="53"/>
         <source>Hips and spine</source>
-        <translation type="unfinished"></translation>
+        <translation>Caderas y columna vertebral</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="54"/>
         <source>Segment 27 segments: hips, sacrum and vertebrae. Trained on TotalSegmentatorV1 dataset. Input image is abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmenta 27 segmentos: caderas, sacro y vértebras. Entrenado en el conjunto de datos Segmentador total V1. La imagen de entrada es una TC abdominal, torácica o de cuerpo entero.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="55"/>
         <source>Aorta</source>
-        <translation type="unfinished"></translation>
+        <translation>Aorta</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="56"/>
         <source>Aorta segmentation. Trained on TotalSegmentatorV1 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de la aorta. Entrenado en el conjunto de datos Segmentador total V1.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="57"/>
         <source>Intracranial hemorrhage (ICrH) Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemorragia intracraneal (HIC) Segmentación</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="58"/>
         <source>Intracranial Hemorrhage segmentation using CT images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de hemorragias intracraneales mediante imágenes de TC.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="59"/>
         <source>Brain and intracranial hemorrhage (ICrH) Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de hemorragias cerebrales e intracraneales (HIC)</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="60"/>
         <source>Brain Anatomy and Intracranial Hemorrhage segmentation using CT images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anatomía cerebral y segmentación de hemorragias intracraneales mediante imágenes de TC.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="61"/>
@@ -786,32 +786,32 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="62"/>
         <source>Input T2F volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada T2F</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="63"/>
         <source>Input T1C volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada T1C</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="64"/>
         <source>Input T1N volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada T1N</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="65"/>
         <source>Input T2W volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de entrada T2W</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="66"/>
         <source>Brain Tumor Segmentation (BRATS) MEN</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación de tumores cerebrales (Brain Tumor Segmentation) HOMBRES</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="67"/>
         <source>Brain Tumor Segmentation (BRATS) MET</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segmentación de tumores cerebrales (Brain Tumor Segmentation) METÁSTASIS</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="68"/>
