@@ -491,7 +491,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="3"/>
         <source>Abdominal organs TS2 - quick</source>
-        <translation>Órganos abdominales TS2 - rápido</translation>
+        <translation>Órganos abdominales TS2 - instantáneo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="4"/>
@@ -531,7 +531,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="11"/>
         <source>Body TS2 - quick</source>
-        <translation>Cuerpo TS2 - rápido</translation>
+        <translation>Cuerpo TS2 - insatantáneo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="12"/>
@@ -541,7 +541,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="13"/>
         <source>Vertebrae TS2 - quick</source>
-        <translation>Vértebras TS2 - rápido</translation>
+        <translation>Vértebras TS2 - instanáneo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="14"/>
@@ -566,7 +566,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="18"/>
         <source>Mediastinal anatomy TS2 - quick</source>
-        <translation>Anatomía mediastínica TS2 - rápida</translation>
+        <translation>Anatomía mediastínica TS2 - instantáneo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="19"/>
