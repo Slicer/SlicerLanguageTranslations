@@ -108,52 +108,52 @@ El módulo utiliza el modelo &lt;a href=&quot;https://github.com/Project-MONAI/t
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="500"/>
         <source>Please wait while the segmentation is being initialized</source>
-        <translation>Por favor, espere mientras se inicializa la segmentación.</translation>
+        <translation>Por favor, espere mientras se inicializa la segmentación</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="503"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="504"/>
         <source>Cancel in-progress segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar la segmentación en curso</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="507"/>
         <source>Please wait while the segmentation result is being imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Espere mientras se importa el resultado de la segmentación</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="510"/>
         <source>Please wait for the segmentation to be cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Espere a que se cancele la segmentación</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="533"/>
         <source>Running ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutando...</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="575"/>
         <source>Log cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro borrado</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="643"/>
         <source>The first input volume you provided are part of a sequence. Do you want to segment all frames of that sequence?</source>
-        <translation type="unfinished"></translation>
+        <translation>El primer volumen de entrada que has proporcionado forma parte de una secuencia. ¿Quiere segmentar todos los fotogramas de esa secuencia?</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="648"/>
         <source>Processing Failed. Check logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesamiento fallido. Compruebe los registros para obtener más información.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="678"/>
         <source>Failed to cancel processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido cancelar el proceso.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="702"/>
@@ -716,12 +716,12 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="48"/>
         <source>class_map_part_cardiac: Trained on TotalSegmentatorV2 dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>class_map_part_cardiac: Formado en el conjunto de datos Segmentador total V2.</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="49"/>
         <source>Lungs - quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulmones - instántaneo</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="50"/>
