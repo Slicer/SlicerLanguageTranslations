@@ -821,7 +821,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="69"/>
         <source>Brain Tumor Segmentation (BRATS) SSA</source>
-        <translation type="unfinished">Brain Tumor Segmentation (BRATS) SSA</translation>
+        <translation type="unfinished">Segmentación de tumores cerebrales (Brain Tumor Segmentation) SSA</translation>
     </message>
 </context>
 <context>
