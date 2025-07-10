@@ -146,7 +146,7 @@
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="27"/>
         <source>Total Segmentator</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentador total</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="34"/>
@@ -154,7 +154,10 @@
 3D Slicer extension for fully automatic whole body CT segmentation using &quot;TotalSegmentator&quot; AI model.
 See more information in the &lt;a href=&quot;https://github.com/lassoan/SlicerTotalSegmentator&quot;&gt;extension documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Extensión de 3D Slicer para la segmentación totalmente automática de TC de cuerpo entero utilizando el modelo IA &quot;Segmentador total&quot;.
+Más información en &lt;a href=&quot;https://github.com/lassoan/SlicerTotalSegmentator&quot;&gt;documentación de la extensión&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="42"/>
@@ -166,82 +169,94 @@ Wasserthal J., Meyer M., , Hanns-Christian Breit H.C., Cyriac J., Shan Y., Seger
 TotalSegmentator: robust segmentation of 104 anatomical structures in CT images.
 https://arxiv.org/abs/2208.05868
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este archivo fue desarrollado originalmente por Andras Lasso (PerkLab, Queen&apos;s University).
+El módulo utiliza &lt;a href=&quot;https://github.com/wasserth/TotalSegmentator&quot;&gt;TotalSegmentator&lt;/a&gt;.
+Si utiliza la función Segmentador total nn-Unet de este software en su investigación, por favor cite:
+Wasserthal J., Meyer M., , Hanns-Christian Breit H.C., Cyriac J., Shan Y., Segeroth, M.:
+Segmentador total: segmentación robusta de 104 estructuras anatómicas en imágenes de TC.
+https://arxiv.org/abs/2208.05868
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="94"/>
         <source>{task_title} [license required]</source>
-        <translation type="unfinished"></translation>
+        <translation>{tarea_título} [se requiere licencia]</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="220"/>
         <source>Start segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar la segmentación</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="223"/>
         <source>Select input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar volumen de entrada</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="226"/>
         <source>{volume_name} segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>{nombre_volumen} segmentación</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="271"/>
         <source>The input volume you provided are part of a sequence. Do you want to segment all frames of that sequence?</source>
-        <translation type="unfinished"></translation>
+        <translation>El volumen de entrada que se ha proporcionado forma parte de una secuencia. ¿Desea segmentar todos los fotogramas de esa secuencia?</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="282"/>
         <source>Failed to install Python dependencies:
 {exception}
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Error al instalar las dependencias de Python:
+{excepción}
+</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="287"/>
         <source>Application restart required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es necesario reiniciar la aplicación.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="289"/>
         <source>Application is required to complete installation of required Python packages.
 Press OK to restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación es necesaria para completar la instalación de los paquetes Python requeridos.
+Pulsar OK para reiniciar.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="290"/>
         <source>Confirm application restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar el reinicio de la aplicación</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="297"/>
         <source>Failed to install required packages.
 
 {exception}</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al instalar los paquetes necesarios.
+
+{excepción}</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="300"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se han podido calcular los resultados.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="312"/>
         <source>Processing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesamiento finalizado.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="316"/>
         <source>Failed to get TotalSegmentator package version information</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al obtener información sobre la versión del paquete Segmentador total</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="320"/>
         <source>Failed to upgrade TotalSegmentator</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al actualizar TotalSegmentator</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="323"/>
@@ -447,7 +462,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="28"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentación</translation>
     </message>
 </context>
 </TS>
