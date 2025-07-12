@@ -27,41 +27,43 @@ Blur a 2d image.
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    స్కెలార్ పరిమితుల వైవిద్యాలు
+    </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="8"/>
         <source>Integer Parameter</source>
-        <translation>పూర్ణాంకం పూర్ణాంక పరిమితులు</translation>
+        <translation>పూర్ణాంకం పరిమితులు</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="9"/>
         <source>Boolean Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>బూలియన్ పరిమితులు</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="17"/>
         <source>Some file</source>
-        <translation type="unfinished"></translation>
+        <translation>యేదో ఫైలు</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="11"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="18"/>
         <source>Some dir</source>
-        <translation type="unfinished"></translation>
+        <translation>యేదో డైర్</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="12"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="19"/>
         <source>Some geom</source>
-        <translation type="unfinished"></translation>
+        <translation>యేదో జియోమ్</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="13"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="20"/>
         <source>Some image</source>
-        <translation type="unfinished"></translation>
+        <translation>some జియోమ్</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="14"/>
