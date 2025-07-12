@@ -106,22 +106,22 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="24"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>ఫ్లొట్ వెక్టర్ పరిమితి</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="25"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>స్ట్రింగ్ వెక్టర్పరిమితి</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="26"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>ఒక వెక్టర్ యొక్క ఫ్లొట్స్</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="27"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>ఒక వెక్టర్ యొక్క స్ట్రింగ్స్</translation>
     </message>
 </context>
 <context>
@@ -129,12 +129,12 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="3"/>
         <source>Test Module</source>
-        <translation type="unfinished"></translation>
+        <translation>పరీక్ష మాడ్యూల్</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="4"/>
         <source>Test Module.</source>
-        <translation type="unfinished"></translation>
+        <translation>పరీక్ష మాడ్యూల్</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="5"/>
