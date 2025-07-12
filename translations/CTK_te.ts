@@ -96,12 +96,12 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="22"/>
         <source>Vector Parameters</source>
-        <translation></translation>
+        <translation>వెక్టర్ పరిమితులు</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="23"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">వెక్టర్ పరిమితుల యొక్క  వైవిద్యములు</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="24"/>
