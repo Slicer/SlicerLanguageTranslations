@@ -254,7 +254,7 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="18"/>
         <source>Exit by crashing.</source>
-        <translation>క్రాష్ చేయడం ద్వారా నిష్క్రమించండి</translation>
+        <translation>క్రాష్ వలన  నిష్క్రమించండి</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="19"/>
