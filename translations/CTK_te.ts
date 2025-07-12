@@ -299,12 +299,12 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="27"/>
         <source>Exit error message.</source>
-        <translation>దోష నిష్క్రమణ సందేశం</translation>
+        <translation>దోష సందేశాన్ని నిష్క్రమించండి.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="28"/>
         <source>Exit status (crashed or normal exit)</source>
-        <translation type="unfinished"></translation>
+        <translation>నిష్క్రమణ స్థితి (క్రాష్ అయింది లేదా సాధారణ నిష్క్రమణ)</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="29"/>
