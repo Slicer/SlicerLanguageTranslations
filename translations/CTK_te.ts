@@ -239,22 +239,22 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="15"/>
         <source>Number of outputs which will be reported as the progress text via a QFutureWatcher.</source>
-        <translation>ప్రోగ్రెస్ టెక్స్ట్‌గా నివేదించబడే అవుట్‌పుట్‌ల సంఖ్య a ద్వారా  QFutureWatcher</translation>
+        <translation>ప్రోగ్రెస్ టెక్స్ట్‌గా నివేదించబడే అవుట్‌పుట్‌ల సంఖ్య a ద్వారా  క్యూ ఫ్యూచర్ వాచర్</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="16"/>
         <source>The exit time of the module (premature finish).</source>
-        <translation type="unfinished"></translation>
+        <translation>మాడ్యూల్ నిష్క్రమణ సమయం (అకాల ముగింపు).</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="17"/>
         <source>The exit code of the module.</source>
-        <translation type="unfinished"></translation>
+        <translation>మాడ్యూల్ యొక్క నిష్క్రమణ కోడ్.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="18"/>
         <source>Exit by crashing.</source>
-        <translation type="unfinished"></translation>
+        <translation>క్రాష్ చేయడం ద్వారా నిష్క్రమించండి</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="19"/>
