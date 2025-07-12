@@ -269,37 +269,37 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="21"/>
         <source>Output parameters for testing purposes.</source>
-        <translation>పరీక్ష కొరకు అవుట్‌పుట్ పరామితి</translation>
+        <translation>పరీక్షా ప్రయోజనాల కోసం అవుట్‌పుట్ పారామితులు.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="22"/>
         <source>Number of results</source>
-        <translation type="unfinished"></translation>
+        <translation>ఫలితాల సంఖ్య</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="23"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>లోపం</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="24"/>
         <source>Exit status</source>
-        <translation type="unfinished"></translation>
+        <translation>నిష్క్రమించు స్థితి</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="25"/>
         <source>Output image</source>
-        <translation type="unfinished"></translation>
+        <translation>అవుట్‌పుట్ చిత్రం</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="26"/>
         <source>The number of results reported by this module.</source>
-        <translation type="unfinished"></translation>
+        <translation>ఈ మాడ్యూల్ నివేదించిన ఫలితాల సంఖ్య.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="27"/>
         <source>Exit error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>దోష నిష్క్రమణ సందేశం</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="28"/>
