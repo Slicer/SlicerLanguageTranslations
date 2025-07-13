@@ -136,7 +136,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="100"/>
         <source>Weblate project that stores the translated strings.</source>
-        <translation>Weblate-Projekt, in dem die übersetzten Zeichenfolgen gespeichert sind.</translation>
+        <translation>Weblate-Projekt, das die übersetzten Zeichenketten speichert.</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="110"/>
