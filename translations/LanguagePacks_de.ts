@@ -31,7 +31,7 @@
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="222"/>
         <source>Weblate (latest translations)</source>
-        <translation>Weblate (letzte Übersetzungen)</translation>
+        <translation>Weblate (neuste Übersetzungen)</translation>
     </message>
     <message>
         <location filename="LanguageTools/Resources/UI/LanguageTools.ui" line="229"/>
@@ -195,7 +195,7 @@ Weitere Informationen finden Sie in der Dokumentation der &lt;a href=&quot;https
 Developed of this module was partially funded by &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS grant&lt;/a&gt;.
 </source>
         <translation>
-Die Entwicklung dieses Moduls wurde teilweise durch &lt;ein href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS Grant finanziert&lt;/a&gt;.
+Die Entwicklung dieses Moduls wurde teilweise durch &lt;a href=&quot;https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/&quot;&gt;CZI EOSS Grant finanziert&lt;/a&gt;.
 </translation>
     </message>
     <message>
@@ -284,7 +284,7 @@ Die Entwicklung dieses Moduls wurde teilweise durch &lt;ein href=&quot;https://c
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="676"/>
         <source>No translation (qm) files were found at {location}</source>
-        <translation>Es wurden keine Übersetzungsdateien (qm) unter {location} gefunden.</translation>
+        <translation>Es wurden keine Übersetzungsdateien (qm) unter {location} gefunden</translation>
     </message>
     <message>
         <location filename="LanguageTools/LanguageTools.py" line="678"/>
