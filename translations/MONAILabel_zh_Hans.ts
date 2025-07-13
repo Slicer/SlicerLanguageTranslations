@@ -12,12 +12,12 @@
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="29"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>密码：</translation>
     </message>
     <message>
         <location filename="MONAILabel/Resources/UI/LoginDialog.ui" line="43"/>
         <source>UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名：</translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="41"/>
         <source>MONAILabel</source>
-        <translation type="unfinished"></translation>
+        <translation>MONAI 标签</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="50"/>
@@ -33,29 +33,34 @@
 Active Learning solution.
 See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+主动学习解决方案。
+更多信息请参阅&lt;a href=&quot;https://github.com/Project-MONAI/MONAILabel&quot;&gt;模块文档&lt;/a&gt;。
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="57"/>
         <source>
 Developed by NVIDIA, KCL
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+由 NVIDIA 开发的 KCL
+</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="72"/>
         <source>MONAI Label Server</source>
-        <translation type="unfinished"></translation>
+        <translation>MONAI 标签服务器</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="75"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器地址：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="79"/>
         <source>Server address history:</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器地址历史记录：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
