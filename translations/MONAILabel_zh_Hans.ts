@@ -65,12 +65,12 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>Default extension for uploading images/labels</source>
-        <translation type="unfinished"></translation>
+        <translation>上传影像文件/标注文件的默认扩展名</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="87"/>
         <source>File Extension:</source>
-        <translation type="unfinished"></translation>
+        <translation>文件扩展名：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="93"/>
@@ -80,37 +80,37 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User ID that will be sent to MONAI Label server for reference</source>
-        <translation type="unfinished"></translation>
+        <translation>将发送至 MONAI Label 服务器供参考的客户端/用户 ID</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
         <source>Client/User-ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>客户端/用户 ID：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Enable this option to auto run segmentation if pre-trained model exists when Next Sample is fetched</source>
-        <translation type="unfinished"></translation>
+        <translation>启用此选项后，当获取下一个样本时，若存在预训练模型，将自动执行分割</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="103"/>
         <source>Auto-Run Pre-Trained Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>自动执行预训练模型：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Enable this option to fetch Next Sample after saving the label</source>
-        <translation type="unfinished"></translation>
+        <translation>启用此选项后，保存标注结果时将自动获取下一个样本</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="114"/>
         <source>Auto-Fetch Next Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>自动获取下一个样本：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
         <source>Enable this option to auto update model after submitting the label</source>
-        <translation type="unfinished"></translation>
+        <translation>启用此选项后，提交标注结果时将自动更新模型。</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
