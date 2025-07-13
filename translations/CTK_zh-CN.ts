@@ -6,14 +6,16 @@
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="4"/>
         <source>2D Blurring</source>
-        <translation type="unfinished"></translation>
+        <translation>2D 模糊</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="5"/>
         <source>
 Blur a 2d image.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+模糊 2d 图像。
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="6"/>
@@ -25,7 +27,9 @@ Blur a 2d image.
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    标量参数的波动
+    </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="8"/>
@@ -35,25 +39,25 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="9"/>
         <source>Boolean Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>布尔参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="17"/>
         <source>Some file</source>
-        <translation type="unfinished"></translation>
+        <translation>某些文件</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="11"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="18"/>
         <source>Some dir</source>
-        <translation type="unfinished"></translation>
+        <translation>某些路径</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="12"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="19"/>
         <source>Some geom</source>
-        <translation type="unfinished"></translation>
+        <translation>某些几何结构</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="13"/>
