@@ -25,7 +25,7 @@
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="41"/>
         <source>MONAILabel</source>
-        <translation>MONAI 标签</translation>
+        <translation>MONAI Label</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="50"/>
@@ -50,7 +50,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="72"/>
         <source>MONAI Label Server</source>
-        <translation>MONAI 标签服务器</translation>
+        <translation>MONAI Label 服务器</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="75"/>
@@ -110,17 +110,17 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
         <source>Enable this option to auto update model after submitting the label</source>
-        <translation>启用此选项后，提交标注结果时将自动更新模型。</translation>
+        <translation>启用此选项后，提交标注结果时将自动更新模型</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="125"/>
         <source>Auto-Update Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>自动更新模型：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Enable this option to ask for the user name every time the MONAILabelextension is loaded for the first time</source>
-        <translation type="unfinished"></translation>
+        <translation>启用此选项后，每次首次加载 MONAI Label 扩展功能时，都将要求输入用户名称。</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
