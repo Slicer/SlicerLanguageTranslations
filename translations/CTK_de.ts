@@ -45,13 +45,13 @@ Blur a 2d image.
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="17"/>
         <source>Some file</source>
-        <translation>Manche Dateien</translation>
+        <translation>Eine Datei</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="11"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="18"/>
         <source>Some dir</source>
-        <translation>Manche Verzeichnisse</translation>
+        <translation>Ein Verzeichnis</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="12"/>
@@ -63,7 +63,7 @@ Blur a 2d image.
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="13"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="20"/>
         <source>Some image</source>
-        <translation>Manche Bilder</translation>
+        <translation>Ein Bild</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="14"/>
@@ -244,7 +244,7 @@ Konfigurierbares Verhalten zum Testen.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="16"/>
         <source>The exit time of the module (premature finish).</source>
-        <translation>Die Abschlusszeit von diesem Modul (Vorzeitige Beendigung)</translation>
+        <translation>Die Abschlusszeit von diesem Modul (Vorzeitige Beendigung).</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="17"/>
@@ -299,7 +299,7 @@ Konfigurierbares Verhalten zum Testen.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="27"/>
         <source>Exit error message.</source>
-        <translation>Abschlussfehlertext</translation>
+        <translation>Abschlussfehlertext.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="28"/>
@@ -309,7 +309,7 @@ Konfigurierbares Verhalten zum Testen.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="29"/>
         <source>Image output path.</source>
-        <translation>Bildausgabepfad</translation>
+        <translation>Bildausgabepfad.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="30"/>
@@ -334,19 +334,23 @@ Konfigurierbares Verhalten zum Testen.
         <source>
   Shows one of each type of parameter.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  Zeigt einen for jedem Parametertypen.
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="6"/>
         <source>Scalar Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Scalar-Parameter</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="7"/>
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Variationen von Scalar-Parametern.
+    </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="8"/>
@@ -1206,7 +1210,7 @@ wegen:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="72"/>
         <source>LocalDatabase:</source>
-        <translation>LocalDatabase:</translation>
+        <translation>Lokale Datenbank:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="108"/>
@@ -1509,7 +1513,7 @@ wegen:
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="585"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation>Fehler beim erstellen der Datenbank im Ordner %1</translation>
+        <translation>Fehler beim erstellen einer neuen Datenbank im Ordner %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="641"/>
@@ -3685,7 +3689,7 @@ Please set at least one filter to query the servers</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2592"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation type="unfinished">Fehler beim erstellen der Datenbank im Ordner %1</translation>
+        <translation>Fehler beim Erstellen einer neuen Datenbank im Ordner %1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMVisualBrowserWidget.cpp" line="2933"/>
