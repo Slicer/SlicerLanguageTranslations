@@ -43,8 +43,8 @@ See more information in &lt;a href=&quot;https://github.com/Project-MONAI/MONAIL
         <source>
 Developed by NVIDIA, KCL
 </source>
-        <translation type="unfinished">
-由 NVIDIA 开发的 KCL
+        <translation>
+由 NVIDIA 开发的 计算内核的语言方式
 </translation>
     </message>
     <message>
@@ -75,7 +75,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="93"/>
         <source>user-xyz</source>
-        <translation type="unfinished"></translation>
+        <translation>用户-xyz</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="95"/>
@@ -205,7 +205,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="354"/>
         <source>Change brush size for scribbles tool</source>
-        <translation type="unfinished"></translation>
+        <translation>更改涂鸦工具的画笔大小</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="356"/>
