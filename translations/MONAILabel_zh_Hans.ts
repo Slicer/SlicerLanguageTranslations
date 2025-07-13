@@ -120,12 +120,12 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Enable this option to ask for the user name every time the MONAILabelextension is loaded for the first time</source>
-        <translation>启用此选项后，每次首次加载 MONAI Label 扩展功能时，都将要求输入用户名称。</translation>
+        <translation>启用此选项后，每次首次加载 MONAI Label 扩展功能时，都将要求输入用户名称</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="140"/>
         <source>Ask For User Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>询问用户名称：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
