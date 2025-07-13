@@ -67,62 +67,62 @@ Steve Pieper（Isomics, Inc.）开发，并部分由美国国立卫生研究院�
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="388"/>
         <source>Test passed</source>
-        <translation type="unfinished"></translation>
+        <translation>测试通过</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="115"/>
         <source>Select an input lumen segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择输入管腔区段。</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="108"/>
         <source>Segmentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>分割结果：</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="172"/>
         <source>Segment calcification around the lumen within this margin.</source>
-        <translation type="unfinished"></translation>
+        <translation>在此边界范围内分割管腔周围的钙化区域。</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="175"/>
         <source> mm</source>
-        <translation type="unfinished"></translation>
+        <translation> 毫米</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="165"/>
         <source>Margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>边界：</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>参数集：</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="43"/>
         <source>A parameter set groups parameters that define a named study distinctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>参数集将精确定义的某项命名研究的参数归集在一起。</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="88"/>
         <source>Update the segment editor and the slice views with the input segmentation and volume if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>用输入的分割结果和体数据（若有）更新分割编辑器及切片视图。</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">↺</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="102"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>输入</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="128"/>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>体数据：</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="135"/>
