@@ -119,7 +119,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
         <source>given a list of </source>
-        <translation>Eine gegebene Liste von </translation>
+        <translation>Eine Liste von </translation>
     </message>
 </context>
 <context>
