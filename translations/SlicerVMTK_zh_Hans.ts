@@ -127,17 +127,17 @@ Steve Pieper（Isomics, Inc.）开发，并部分由美国国立卫生研究院�
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="135"/>
         <source>Select the source volume node of the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择选定分割区段的源体数据节点。</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="207"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>执行算法。</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="210"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>应用</translation>
     </message>
 </context>
 <context>
@@ -145,7 +145,7 @@ Steve Pieper（Isomics, Inc.）开发，并部分由美国国立卫生研究院�
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="33"/>
         <source>Centerline disassembly</source>
-        <translation type="unfinished"></translation>
+        <translation>中心线分解</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="41"/>
@@ -154,7 +154,11 @@ Break down a centerline model into parts.
 This module makes use of the &apos;ExtractCenterline&apos; module to generate curves.
 See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+将中心线模型分解为多个部分。
+本模块利用 ExtractCenterline 模块生成曲线。
+更多信息请参阅&lt;a href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块文档&lt;/a&gt;。
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="51"/>
@@ -162,37 +166,40 @@ See more information in the &lt;a href=&quot;https://github.com/vmtk/SlicerExten
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+本文件最初由 Kitware 公司的 Jean-Christophe Fillion-Robin、PerkLab 的 Andras Lasso、
+Isomics 公司的 Steve Pieper 共同开发，部分资金来源于美国国立卫生研究院（NIH）基金 3P41RR013218-12S1。
+</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="88"/>
         <source>Bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>分叉点结构</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="89"/>
         <source>Branches</source>
-        <translation type="unfinished"></translation>
+        <translation>分支血管</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="90"/>
         <source>Centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>中心线</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="95"/>
         <source>Show curve names</source>
-        <translation type="unfinished"></translation>
+        <translation>显示中心线曲线名称</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="200"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>计算结果失败。</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="204"/>
         <source>Please select the components to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择需创建的组件：</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="208"/>
