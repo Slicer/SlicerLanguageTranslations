@@ -732,7 +732,7 @@ Wenn Sie die Anwendung schließen, werden alle aktuellen Berechnungen abgebroche
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="32"/>
         <source>Module Search Paths</source>
-        <translation>Suchpfade für Module</translation>
+        <translation>Modul Suchpfad</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="77"/>
