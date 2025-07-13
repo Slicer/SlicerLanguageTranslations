@@ -112,7 +112,7 @@ Steve Pieper（Isomics, Inc.）开发，并部分由美国国立卫生研究院�
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="91"/>
         <source>↺</source>
-        <translation type="unfinished">↺</translation>
+        <translation>撤销</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="102"/>
