@@ -19,7 +19,10 @@ Fraude
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+本文件最初由 Jean-Christophe Fillion-Robin（Kitware Inc.）、Andras Lasso（PerkLab）和
+ Steve Pieper（Isomics, Inc.）开发，并部分由美国国立卫生研究院（NIH）基金 3P41RR013218-12S1 资助。
+</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="103"/>
