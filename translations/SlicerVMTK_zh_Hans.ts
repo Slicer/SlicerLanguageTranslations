@@ -21,48 +21,48 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </source>
         <translation>
 本文件最初由 Jean-Christophe Fillion-Robin（Kitware Inc.）、Andras Lasso（PerkLab）和
- Steve Pieper（Isomics, Inc.）开发，并部分由美国国立卫生研究院（NIH）基金 3P41RR013218-12S1 资助。
+Steve Pieper（Isomics, Inc.）开发，并部分由美国国立卫生研究院（NIH）基金 3P41RR013218-12S1 资助。
 </translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="103"/>
         <source>Show 3D on success</source>
-        <translation type="unfinished"></translation>
+        <translation>成功时显示三维效果‌</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="190"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>结果计算失败。</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="266"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>参数节点为 None。</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="278"/>
         <source>Input segmentation, volume, segment ID or margin size is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的分割结果、体数据、分割区域 ID 或边界尺寸无效。</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="282"/>
         <source>Input segmentation or volume mismatch with the segment editor... fixing.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的分割结果或体数据与分割编辑器不匹配……正在修复。</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="289"/>
         <source>Processing started</source>
-        <translation type="unfinished"></translation>
+        <translation>开始处理</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="364"/>
         <source>Processing completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>处理已完成，耗时 {duration} 秒</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="386"/>
         <source>Starting the test</source>
-        <translation type="unfinished"></translation>
+        <translation>正在启动测试</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="388"/>
