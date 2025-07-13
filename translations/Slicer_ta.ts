@@ -9255,7 +9255,7 @@ use it for commercial purposes.&lt;/p&gt;
 
  &lt;p&gt; எம்.ஆர்எட், சிபிசிடி-எம்ஆர் எட் மற்றும் சி.டி-எம்ஆர் மூளை தரவுத் தொகுப்புகள் 3 டி ச்லைசர் திட்டத்திற்கு படங்களில் தெரியும் நபர்களால் நன்கொடையாக வழங்கப்பட்டன, எந்தவொரு கட்டுப்பாடுகளும் இல்லாமல் பயன்படுத்தப்பட வேண்டும். &lt;/p&gt;
 
- &lt;p&gt; ctliver தரவுத்தொகுப்பு &lt;a href = &quot;http://medicaldecathlon.com/&quot;&gt; மருத்துவ டெகாத்லான் திட்டம் &lt;/a&gt;
+ &lt;p&gt; ctliver தரவுத்தொகுப்பு &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;மருத்துவ டெகாத்லான் திட்டம் &lt;/a&gt;
  அனுமதிக்கப்பட்ட பதிப்புரிமை-உரிமையுடன் (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0 &lt;/a&gt;), தரவைப் பகிரவும், விநியோகிக்கவும் அனுமதிக்கிறது மற்றும் மேம்படுத்தப்பட்டது. &lt;/p&gt;
 
  &lt;p&gt; சி.டி.ஏ அடிவயிற்று (பனோரமிக்ச்) தரவுத்தொகுப்பு &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;OSIRIX DICOM பட நூலகம் &lt;/a&gt;
@@ -12984,7 +12984,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="593"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation>%2 %2</translation>
+        <translation>%2இல் %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="605"/>
