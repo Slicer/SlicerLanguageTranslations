@@ -199,56 +199,56 @@ Isomics 公司的 Steve Pieper 共同开发，部分资金来源于美国国立�
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="204"/>
         <source>Please select the components to create.</source>
-        <translation>请选择需创建的组件：</translation>
+        <translation>请选择需创建的组件。</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="208"/>
         <source>Please specify whether centerline &apos;Models&apos; and/or &apos;Curves&apos; should be generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>请指定是否应生成中心线“模型”和/或“曲线”。</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="210"/>
         <source>Splitting centerline</source>
-        <translation type="unfinished"></translation>
+        <translation>中心线切割</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="226"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="244"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="262"/>
         <source> models</source>
-        <translation type="unfinished"></translation>
+        <translation> 模型</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="229"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="247"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="265"/>
         <source> curves</source>
-        <translation type="unfinished"></translation>
+        <translation> 曲线</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="231"/>
         <source>Creating bifurcations</source>
-        <translation type="unfinished"></translation>
+        <translation>分叉点生成</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="234"/>
         <source>Bifurcation_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>分叉点模型</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="237"/>
         <source>Bifurcation_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>分叉点曲线</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="249"/>
         <source>Creating branches</source>
-        <translation type="unfinished"></translation>
+        <translation>正在创建分支血管</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="252"/>
         <source>Branch_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>分支血管模型</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="255"/>
