@@ -239,12 +239,12 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="15"/>
         <source>Number of outputs which will be reported as the progress text via a QFutureWatcher.</source>
-        <translation>将通过 QFutureWatcher 报告进度的输出项数量</translation>
+        <translation>将通过 QFutureWatcher 报告进度的输出项数量。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="16"/>
         <source>The exit time of the module (premature finish).</source>
-        <translation type="unfinished"></translation>
+        <translation>模块异常终止时间（非正常退出）。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="17"/>
