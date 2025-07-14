@@ -217,12 +217,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="261"/>
         <source>  Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>  开始录制</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/UltraSound.py" line="263"/>
         <source>Recording is being stopped...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在停止录制……</translation>
     </message>
 </context>
 <context>
@@ -230,7 +230,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="18"/>
         <source>Model Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>模型配准</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="25"/>
@@ -238,14 +238,19 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 This module applies Iterative Closest Points registration between two surface models.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+本模块实施两个表面模型之间的迭代最近点（ICP）配准。
+使用帮助请访问：&lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT 网站&lt;/a&gt;。
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="35"/>
         <source>
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+本研究工作隶属于 SparKit 项目，由安大略省癌症护理中心（CCO）的高级临床研究组（ACRU）计划及安大略省肿瘤放射治疗自适应干预联盟（OCAIRO） 共同资助。
+</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="44"/>
