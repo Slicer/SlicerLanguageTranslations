@@ -210,22 +210,22 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="356"/>
         <source>Use 3D brush to paint/erase in multiple slices in 3D</source>
-        <translation>使用 3D 笔刷工具在 3D 空间中跨多断层切面执行绘制/擦除操作。</translation>
+        <translation>使用 3D 笔刷工具在 3D 空间中跨多断层切面执行绘制/擦除操作</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="383"/>
         <source>infer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">执行推理</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="384"/>
         <source>train</source>
-        <translation type="unfinished"></translation>
+        <translation>训练</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="385"/>
         <source>activelearning</source>
-        <translation type="unfinished"></translation>
+        <translation>主动学习</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="386"/>
