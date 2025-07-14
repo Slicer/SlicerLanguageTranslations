@@ -249,7 +249,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
         <translation>
-本研究工作隶属于 SparKit 项目，由安大略省癌症护理中心（CCO）的高级临床研究组（ACRU）计划及安大略省肿瘤放射治疗自适应干预联盟（OCAIRO） 共同资助。
+本研究工作隶属于 SparKit 项目，由安大略省癌症护理中心（CCO）的高级临床研究组（ACRU）计划及安大略省肿瘤放射治疗自适应干预联盟（OCAIRO）共同资助。
 </translation>
     </message>
     <message>
@@ -260,7 +260,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
         <source>Note: Parent transforms of models are not used. Models should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>模型父级变换未被采用。模型应在待配准坐标系中定义。</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="65"/>
