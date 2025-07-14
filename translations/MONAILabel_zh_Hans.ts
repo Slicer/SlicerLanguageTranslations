@@ -130,77 +130,77 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
         <source>Enable this option to allow overlapping segmentations</source>
-        <translation type="unfinished"></translation>
+        <translation>启用此选项后，将允许分割结果重叠</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="151"/>
         <source>Allow Overlapping Segmentations:</source>
-        <translation type="unfinished"></translation>
+        <translation>允许分割结果重叠：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
         <source>Enable this option to first read original label (predictions)</source>
-        <translation type="unfinished"></translation>
+        <translation>启用此选项后，将优先读取原始标注（预测结果）</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="163"/>
         <source>Original Labels:</source>
-        <translation type="unfinished"></translation>
+        <translation>原始标注：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="174"/>
         <source>Enable this option to find options tab etc...</source>
-        <translation type="unfinished"></translation>
+        <translation>启用此选项后，将定位选项选项卡等功能入口。</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="174"/>
         <source>Developer Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>开发者模式：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Enable this option to show segments in 3D (slow) after mask update...</source>
-        <translation type="unfinished"></translation>
+        <translation>启用此选项后，掩膜更新时将显示三维分割区域（速度较慢）……</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="185"/>
         <source>Show Segments In 3D:</source>
-        <translation type="unfinished"></translation>
+        <translation>显示 3D 分割区域：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="204"/>
         <source>Overlapping segmentations are only available with the &apos;.seg.nrrd&apos; file extension!Consider changing MONAILabel file extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>重叠分割功能仅支持“.seg.nrrd”文件格式！建议更改 MONAILabel 的文件扩展名。</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="303"/>
         <source>Select positive points</source>
-        <translation type="unfinished"></translation>
+        <translation>选择目标区域标记点</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="309"/>
         <source>Select negative points</source>
-        <translation type="unfinished"></translation>
+        <translation>选择背景区域标记点</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="316"/>
         <source>ROI/BBOX Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI/BBOX 提示</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="345"/>
         <source>Paint scribbles for selected scribble layer</source>
-        <translation type="unfinished"></translation>
+        <translation>为选定的草图图层绘制草图标记</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="347"/>
         <source>Erase scribbles for selected scribble layer</source>
-        <translation type="unfinished"></translation>
+        <translation>为选定的草图图层擦除草图标记</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="351"/>
         <source>Update label by sending scribbles to server to apply selected post processing method</source>
-        <translation type="unfinished"></translation>
+        <translation>将草图标记发送至服务器，应用选定的后处理方法更新标注结果</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="354"/>
@@ -210,7 +210,7 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="356"/>
         <source>Use 3D brush to paint/erase in multiple slices in 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>使用 3D 笔刷工具在 3D 空间中跨多断层切面执行绘制/擦除操作。</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="383"/>
