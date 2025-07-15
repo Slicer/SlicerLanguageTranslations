@@ -4846,7 +4846,7 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 0 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
         <oldsource>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</oldsource>
-        <translation type="unfinished">إنشاء نماذج سطح 3D من البيانات المجزأة. &lt;p&gt;يتم استيراد النماذج إلى Slicer ضمن عقدة تسلسل هرمي للنموذج في مشهد MRML. يتم ضبط ألوان النموذج بواسطة جدول الألوان المرتبط بمستوى صوت الإدخال (ستكون هذه الألوان مرئية فقط إذا قمت بتحميل ملف مشهد النموذج).&lt;/p&gt; &lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;حدد وحدة تخزين &lt;p&gt;إدخال عبارة عن &lt;i&gt;وحدة تخزين&lt;/i&gt; خريطة تسمية مجزأة. قم بإنشاء تسلسل هرمي &lt;i&gt;جديد للنماذج&lt;/i&gt; لتوفير بنية تحتوي على نماذج الإرجاع التي تم إنشاؤها من وحدة تخزين الإدخال.&lt;/p&gt; &lt;p&gt;&lt;b&gt;إنشاء متعدد:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;إذا حددت قائمة من &lt;i&gt;التسميات&lt;/i&gt; ، تجاوزها في أي إعدادات تسمية بداية / نهاية.&lt;/p&gt; &lt;p&gt;إذا قمت بالنقر فوق &lt;i&gt;إنشاء الكل&lt;/i&gt; ، تجاوز قائمة التسميات وأي إعدادات تسمية بداية / نهاية.&lt;/p&gt; &lt;p&gt;&lt;b&gt;معلمات صانع النموذج:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;يمكنك تعيين عدد تكرارات التجانس ، وتقليل الهدف في عدد المضلعات (النسبة المئوية العشرية). استخدم 0 و 1 إذا كنت لا ترغب في التنعيم أو الهلاك. &lt;br&gt;يمكنك تعيين العلامات لتقسيم القيم العادية أو إنشاء نقاط عادية في هذا الجزء أيضا. &lt;br&gt;يمكنك حفظ نسخة من النماذج بعد الخطوات الوسيطة (مكعبات المسيرة ، والتنعيم ، والتدمير إن لم يكن تجانس المفاصل ، وإلا بعد الهلاك مباشرة) ؛ لا يتم حفظ هذه النماذج في ملف mrml ، قم بإيقاف تشغيل حذف الملفات المؤقتة أولا في نافذة python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic(). إيقاف حذف الملفات المؤقتة()&lt;/i&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;يتم استيراد النماذج إلى عقدة التسلسل الهرمي للنماذج داخل مشهد MRML. يتم ضبط ألوان النماذج باستخدام جدول الألوان المرتبط بحجم الإدخال (ستكون هذه الألوان مرئية فقط إذا قمت بتحميل ملف مشهد النموذج).&lt;/p&gt; &lt;p&gt;&lt;b&gt;الإدخال/الإخراج (IO):&lt;/b&gt;&lt;/p&gt; &lt;p&gt;حدد وحدة تخزين. الإدخال هو &lt;i&gt;وحدة تخزين خريطة تسميات مجزأة&lt;/i&gt;. سيتم إنشاء &lt;i&gt;تسلسل هرمي جديد للنماذج&lt;/i&gt; لتخزين النماذج الناتجة التي تم إنشاؤها من وحدة التخزين هذه.&lt;/p&gt; &lt;p&gt;&lt;b&gt;إنشاء متعدد التسميات:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;إذا قمت بتحديد قائمة من &lt;i&gt;التسميات&lt;/i&gt;، فسيتم تجاهل إعدادات البداية/النهاية للتسميات.&lt;/p&gt; &lt;p&gt;إذا قمت بالنقر على &lt;i&gt;إنشاء الكل&lt;/i&gt;، فسيتم تجاهل قائمة التسميات وكذلك إعدادات البداية/النهاية.&lt;/p&gt; &lt;p&gt;&lt;b&gt;معلمات منشئ النماذج:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;يمكنك تعيين عدد تكرارات التنعيم، ونسبة تقليل عدد المضلعات (كنسبة عشرية مئوية). استخدم القيمة 0 أو 1 إذا كنت لا ترغب في إجراء تنعيم أو تقليل.&lt;br&gt; يمكنك أيضاً تعيين خيارات لتقسيم القيم العادية أو إنشاء نقاط عادية في هذه المرحلة.&lt;br&gt; يمكنك حفظ نسخة من النماذج بعد كل مرحلة وسيطة (مثل مكعبات المسيرة، التنعيم، التقليل — ما لم يتم استخدام تنعيم المفاصل، ففي هذه الحالة يتم الحفظ بعد التقليل مباشرة). هذه النماذج الوسيطة لا تُحفظ ضمن ملف MRML. لتعطيل حذف الملفات المؤقتة، استخدم الأمر التالي في وحدة Python:&lt;br&gt; &lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().SetDeleteTemporaryFiles(False)&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
@@ -5471,7 +5471,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
-        <translation type="unfinished"></translation>
+        <translation>اتجاه المخرجات. يُرجى ملاحظة أن رموز الاتجاه هذه تستخدم معيار ITK: يشير كل حرف إلى مصدر كل محور. هذا عكس معايير الاتجاه الشائعة، فعلى سبيل المثال، للحصول على صورة تتوافق محاورها مع اتجاهات محاور نظام إحداثيات LPS، يجب ضبط هذه المعلمة على RAI.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
@@ -9309,12 +9309,12 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="275"/>
         <source>Load data from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل البيانات من الرابط</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="277"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>الرابط:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="281"/>
@@ -9324,17 +9324,17 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="283"/>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتنزيل مجموعة البيانات من عنوان الموقع المحدد واستيرادها إلى المشهد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="285"/>
         <source>Show folder</source>
-        <translation type="unfinished"></translation>
+        <translation>اظهار المجلد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="286"/>
         <source>Show folder where custom data sets are downloaded ({path}).</source>
-        <translation type="unfinished"></translation>
+        <translation>اظهر الملف من مكان يتم تنزيل مجموعات البيانات المخصصة  ({المكان}).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="543"/>
