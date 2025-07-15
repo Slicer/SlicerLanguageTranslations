@@ -6,7 +6,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation>Ajouter les volumes scalaires</translation>
+        <translation>Ajouter des volumes scalaires</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
@@ -4846,7 +4846,7 @@ Le filtre suppose que la source et la référence sont du même type et que les 
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 0 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
         <oldsource>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</oldsource>
-        <translation type="unfinished">Créez des modèles de surface 3D à partir de données segmentées.&lt;p&gt;Les modèles sont importés dans Slicer sous un nœud de hiérarchie de modèles dans une scène MRML. Les couleurs du modèle sont définies par la table de couleurs associée au volume d&apos;entrée (ces couleurs ne seront visibles que si vous chargez le fichier de scène du modèle).&lt;/p&gt;&lt;p&gt;&lt;b&gt;E/S&#xa0;:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Spécifiez un &lt;i&gt;Volume d&apos;entrée&lt;/i&gt; qui est un volume de mappage d&apos;étiquettes segmenté. Créez une nouvelle hiérarchie &lt;i&gt;Modèles&lt;/i&gt; pour fournir une structure contenant les modèles de retour créés à partir du volume d&apos;entrée.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Créer plusieurs&#xa0;:&lt;/b&gt;&lt;/p&gt;&lt;p &gt; Si vous spécifiez une liste d&apos;&lt;i&gt;Étiquettes&lt;/i&gt;, elle écrasera tous les paramètres d&apos;étiquette de début/fin.&lt;/p&gt;&lt;p&gt;Si vous cliquez sur &lt;i&gt;Générer tout&lt;/i&gt;, elle écrasera la liste des étiquettes et tous les paramètres d&apos;étiquette de début/fin.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Paramètres de Model&#xa0;Maker&#xa0;:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Vous pouvez définir le nombre d&apos;itérations de lissage, cibler la réduction du nombre de polygones (pourcentage décimal). Utilisez 0 et 1 si vous ne souhaitez ni lissage ni décimation.&lt;br&gt;Vous pouvez également définir les indicateurs pour diviser les normales ou générer des normales ponctuelles dans ce volet.&lt;br&gt;Vous pouvez enregistrer une copie des modèles après les étapes intermédiaires (cubes en marche , lissage et décimation sinon lissage conjoint, sinon juste après décimation) ; ces modèles ne sont pas enregistrés dans le fichier mrml, désactivez d&apos;abord la suppression des fichiers temporaires dans la fenêtre python&#xa0;:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
+        <translation>Créez des modèles de surface 3D à partir de données segmentées.&lt;p&gt;Les modèles sont importés dans Slicer sous un nœud de hiérarchie de modèles dans une scène MRML. Les couleurs du modèle sont définies par la table de couleurs associée au volume d&apos;entrée (ces couleurs ne seront visibles que si vous chargez le fichier de scène du modèle).&lt;/p&gt;&lt;p&gt;&lt;b&gt;E/S&#xa0;:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Spécifiez un &lt;i&gt;Volume d&apos;entrée&lt;/i&gt; qui est un volume de mappage d&apos;étiquettes segmenté. Créez une nouvelle hiérarchie &lt;i&gt;Modèles&lt;/i&gt; pour fournir une structure contenant les modèles de retour créés à partir du volume d&apos;entrée.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Créer plusieurs&#xa0;:&lt;/b&gt;&lt;/p&gt;&lt;p &gt; Si vous spécifiez une liste d&apos;&lt;i&gt;Étiquettes&lt;/i&gt;, elle écrasera tous les paramètres d&apos;étiquette de début/fin.&lt;/p&gt;&lt;p&gt;Si vous cliquez sur &lt;i&gt;Générer tout&lt;/i&gt;, elle écrasera la liste des étiquettes et tous les paramètres d&apos;étiquette de début/fin.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Paramètres de Model&#xa0;Maker&#xa0;:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Vous pouvez définir le nombre d&apos;itérations de lissage, cibler la réduction du nombre de polygones (pourcentage décimal). Utilisez 0 et 1 si vous ne souhaitez ni lissage ni décimation.&lt;br&gt;Vous pouvez également définir les indicateurs pour diviser les normales ou générer des normales ponctuelles dans ce volet.&lt;br&gt;Vous pouvez enregistrer une copie des modèles après les étapes intermédiaires (cubes en marche , lissage et décimation sinon lissage conjoint, sinon juste après décimation)&#x202f;; ces modèles ne sont pas enregistrés dans le fichier mrml, désactivez d&apos;abord la suppression des fichiers temporaires dans la fenêtre python&#xa0;:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
@@ -5471,7 +5471,7 @@ Le filtre suppose que la source et la référence sont du même type et que les 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientation de la sortie. Notez que ce code d&apos;orientation utilise la convention ITK&#xa0;: chaque lettre fait référence à l&apos;origine de chaque axe. Cela va à l&apos;encontre des conventions d&apos;orientation couramment utilisées. Par exemple, pour obtenir une image dont les axes correspondent aux directions des axes du système de coordonnées LPS, ce paramètre doit être réglé sur RAI.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
@@ -9309,22 +9309,22 @@ utilisez-le à des fins commerciales.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="275"/>
         <source>Load data from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger des données à partir d&apos;une URL</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="277"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="281"/>
         <source>Load</source>
-        <translation type="unfinished">Charger</translation>
+        <translation>Charger</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="283"/>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger le jeu de données à partir de l&apos;URL donnée et l&apos;importer dans la scène.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="285"/>
@@ -10387,7 +10387,7 @@ L&apos;effet utilise la &lt;a href=&quot;https://insight-journal.org/browse/publ
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</oldsource>
-        <translation type="unfinished">Des segments croissants pour créer une segmentation complète&lt;br&gt;.
+        <translation>Des segments croissants pour créer une segmentation complète&lt;br&gt;.
         L&apos;emplacement, la taille et la forme des segments initiaux ainsi que le contenu du volume source sont pris en compte.
         Les limites finales des segments seront placées là où la luminosité du volume source change brusquement. Instructions&#xa0;:&lt;p&gt;
         &lt;ul style=&quot;marge&#xa0;: 0&quot;&gt;
@@ -12988,7 +12988,7 @@ Feuille de route des NIH pour la recherche médicale, subvention U54 EB005149.</
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="76"/>
         <source>Terminology</source>
-        <translation type="unfinished">Terminologie</translation>
+        <translation>Terminologie</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="160"/>
@@ -13002,7 +13002,7 @@ Feuille de route des NIH pour la recherche médicale, subvention U54 EB005149.</
         <extracomment>For formatting of terminology entry with a modifier in simplified mode. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
 For formatting of terminology entry name in simplified mode. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished">%2 %1</translation>
+        <translation>%2 %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="555"/>
@@ -13011,13 +13011,13 @@ For formatting of terminology entry name in simplified mode. %1 is region name (
         <extracomment>For formatting of terminology entry with a modifier. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
 For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished">%1, %2</translation>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="593"/>
         <source>%1 in %2</source>
         <extracomment>For formatting of terminology entry name. %1 is type name (e.g., &quot;Mass&quot;), %2 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation type="unfinished">%1 dans %2</translation>
+        <translation>%1 dans %2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="605"/>
@@ -13029,7 +13029,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="625"/>
         <source>%1: %2</source>
         <extracomment>For formatting of terminology entry name. %1 is category name (e.g., &quot;Morphologically Altered Structure&quot;), %2 is the type in region (&quot;Mass in Liver&quot;)</extracomment>
-        <translation type="unfinished">%1, %2 {1:?}</translation>
+        <translation>%1&#xa0;: %2</translation>
     </message>
 </context>
 <context>
@@ -16827,7 +16827,7 @@ Souhaitez-vous continuer à changer la représentation source ?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1321"/>
         <source>Show slice edge</source>
-        <translation type="unfinished">le phython brasse forming</translation>
+        <translation>Afficher le bord de la tranche</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1324"/>
@@ -17267,12 +17267,12 @@ Souhaitez-vous continuer à changer la représentation source ?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="350"/>
         <source>Create new %1</source>
-        <translation type="unfinished">Créer un nouveau %1</translation>
+        <translation>Créer un nouveau %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2567"/>
         <source>node</source>
-        <translation type="unfinished">nœud</translation>
+        <translation>nœud</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
@@ -19697,7 +19697,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="188"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Ce travail a été soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer.</translation>
+        <translation>Ce travail a été soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer.</translation>
     </message>
 </context>
 <context>
@@ -19771,13 +19771,13 @@ Capacités graphiques de cet ordinateur&#x202f;:
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
         <source>Color table</source>
         <oldsource>Color Table</oldsource>
-        <translation type="unfinished">Tableau des couleurs</translation>
+        <translation>Tableau des couleurs</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
         <source>Number of colors: </source>
         <oldsource>Number of Colors: </oldsource>
-        <translation type="unfinished">Nombre de couleurs : </translation>
+        <translation>Nombre de couleurs&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="246"/>
@@ -19823,7 +19823,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="439"/>
         <source>Unnamed</source>
         <extracomment>This is the default name for a new color in a color table</extracomment>
-        <translation type="unfinished">innomé</translation>
+        <translation>Sans nom</translation>
     </message>
 </context>
 <context>
@@ -24480,7 +24480,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="216"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
 </context>
 <context>
@@ -28755,7 +28755,7 @@ Balises&#xa0;: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="57"/>
         <source>Region:</source>
-        <translation type="unfinished">Région&#x202f;:</translation>
+        <translation>Région&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="87"/>
