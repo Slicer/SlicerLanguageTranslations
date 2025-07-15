@@ -19700,7 +19700,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="188"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT ومجتمع Slicer.</translation>
+        <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT والمجتمع Slicer.</translation>
     </message>
 </context>
 <context>
@@ -19713,7 +19713,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="27"/>
         <source>Color legend</source>
-        <translation type="unfinished"></translation>
+        <translation>أسطورة اللون</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
@@ -19768,7 +19768,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="163"/>
         <source>Add new empty color table node.</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف عقدة جدول ألوان فارغة جديدة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
@@ -19780,22 +19780,22 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
         <source>Number of colors: </source>
         <oldsource>Number of Colors: </oldsource>
-        <translation type="unfinished">عدد الألوان: </translation>
+        <translation>عدد الألوان: . </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="246"/>
         <source>Hide empty colors: </source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء الألوان الفارغة: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="317"/>
         <source>Add new color to color table</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة لون جديد إلى جدول الألوان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="327"/>
         <source>Delete currently selected color</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف اللون المحدد حاليا</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="253"/>
@@ -21668,7 +21668,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/GeneralizedReformat/qSlicerGeneralizedReformatModule.h" line="43"/>
         <source>GeneralizedReformat</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة التنسيق المعمم</translation>
     </message>
 </context>
 <context>
@@ -24395,13 +24395,13 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="873"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1010"/>
         <source>File writing may have failed because filename is too long: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>ربما فشلت عملية كتابة الملف لأن اسم الملف طويل جدًا: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="880"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1017"/>
         <source>File writing may have failed because the output folder name is too long: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>ربما فشلت عملية كتابة الملف لأن اسم مجلد الإخراج طويل جدًا: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
@@ -24465,12 +24465,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="96"/>
         <source>Invert:</source>
-        <translation type="unfinished"></translation>
+        <translation>عكس:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="103"/>
         <source>Reverse the order of colors in the lookup table to display this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بعكس ترتيب الألوان في جدول البحث لعرض هذا المجلد.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="149"/>
@@ -24487,7 +24487,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="216"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
 </context>
 <context>
@@ -26186,12 +26186,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="231"/>
         <source>Maximum filename length:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لطول اسم الملف:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="238"/>
         <source>Limit the maximum length of filenames. For compatibility with Windows systems, a low value such as 50 is recommended. Set a higher value to allow using longer filenames that match long node names.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد الحد الأقصى لطول أسماء الملفات. للتوافق مع أنظمة ويندوز، يُنصح باستخدام قيمة منخفضة مثل 50. اضبط قيمة أعلى للسماح باستخدام أسماء ملفات أطول تتوافق مع أسماء العقد الطويلة.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="110"/>
@@ -26222,7 +26222,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="214"/>
         <source>Max. filename length</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لطول اسم الملف</translation>
     </message>
 </context>
 <context>
@@ -28747,7 +28747,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="14"/>
         <source>qSlicerTerminologyEditorWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>أداة تحرير المصطلحات qSlicer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="37"/>
@@ -28757,7 +28757,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="47"/>
         <source>Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>مخطط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="57"/>
@@ -28768,7 +28768,7 @@ Tags: %6</source>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="87"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="163"/>
         <source>    Modifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>    المعدل:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="94"/>
@@ -28778,22 +28778,22 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="111"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="153"/>
         <source>Meaning</source>
-        <translation type="unfinished"></translation>
+        <translation>المعنى</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="244"/>
         <source>Use automatically generated label and color from selected terminology:</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم الملصق واللون المولدين تلقائيًا من المصطلحات المحددة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="290"/>
         <source>Select from terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر من المصطلحات...</translation>
     </message>
 </context>
 <context>
@@ -28806,12 +28806,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="342"/>
         <source>Select region context...</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد سياق المنطقة...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="374"/>
         <source>Region...</source>
-        <translation type="unfinished"></translation>
+        <translation>المنطقة...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="426"/>
@@ -29473,7 +29473,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
         <source>Toggle slice intersection visibility. Hold Shift key and move mouse in a view to set slice intersection position.</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل رؤية تقاطع الشريحة. اضغط باستمرار على مفتاح Shift وحرك الماوس في العرض لتعيين موضع تقاطع الشريحة.</translation>
     </message>
 </context>
 <context>
@@ -29544,7 +29544,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="207"/>
         <source>Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>الرؤية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="235"/>
@@ -30160,23 +30160,29 @@ This should only used by advanced users who understand the consequences of chang
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</oldsource>
-        <translation type="unfinished">&lt;p&gt;&lt;b&gt;توثيق&lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href = &quot;https://slicer.readthedocs.io/en/latest/&quot; &gt; الوثائق&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot; &gt; البدء السريع&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot; &gt; الحصول على مساعدة&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot; &gt;واجهة المستخدم&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href = &amp;quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&amp;quot; &gt;أزرار الماوس ، &amp;quot;مفاتيح التشغيل السريع&amp;quot; واختصارات لوحة المفاتيح&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot; &gt;تصفح البرامج التعليمية&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;اتصل بنا&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;قم بزيارة منتدى القطاعة&lt;/a&gt;&lt;/li&gt;
+        <translation>&lt;p&gt;&lt;b&gt;توثيق&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt; الوثائق&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt; البدء السريع&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt; الحصول على مساعدة&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;واجهة المستخدم&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;أزرار الماوس ، &quot;مفاتيح التشغيل السريع&quot; واختصارات لوحة المفاتيح&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;تصفح البرامج التعليمية&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;اتصل بنا&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;قم بزيارة منتدى القطاعة&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://twitter.com/3dslicerapp&quot;&gt;انضم إلينا على تويتر&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;طلبات ميزة البحث&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot; &gt;الإبلاغ عن خطأ&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;حول قطاعة 3D&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;عرض الترخيص&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href = &quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot; &gt;كيفية الاستشهاد&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href = &quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG = &quot;&gt;منشورات القطاعة&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;شكر وتقدير&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
+&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;طلبات ميزات&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;الإبلاغ عن خطأ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;حول قطاعة 3D&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;عرض الترخيص&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;كيفية الاستشهاد&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;منشورات القطاعة&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;شكر وتقدير&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
