@@ -19695,22 +19695,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="166"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
-        <translation>&lt;b&gt;وحدة الألوان (Colors Module)&lt;/b&gt; تدير جداول البحث اللوني (Color Look Up Tables)، والتي تُخزَّن في عقد الألوان (Color nodes).
-تُستخدم هذه الجداول لترجمة القيم الرقمية إلى ألوان لعرض أنواع مختلفة من البيانات مثل الأحجام (volumes) والنماذج (models).
-تتوفر نوعان من جداول البحث اللوني:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;جدول منفصل (Discrete table):&lt;/b&gt; يتم تحديد قائمة من الألوان المسماة (مثال: GenericAnatomyColors). يمكن استخدام الجداول المنفصلة أيضًا لرسم خرائط مستمرة، وفي هذه الحالة تُستخدم الألوان كنقاط عينة على مسافات متساوية ضمن النطاق المحدد، ويتم التدرج بين الألوان بشكل سلس (مثال: Grey).&lt;/li&gt;
-
-&lt;li&gt;&lt;b&gt;مقياس مستمر (Continuous scale):&lt;/b&gt; يتم تحديد اللون لقيم رقمية مختارة بشكل عشوائي، ويمكن حساب قيمة اللون من خلال التدرج بين هذه القيم (مثال: PET-DICOM). لا يتم تحديد أسماء للألوان.&lt;/li&gt;
-&lt;/ul&gt;
-
-جميع جداول الألوان المدمجة (المثبتة مسبقًا) هي للقراءة فقط. لتحرير الألوان، يجب إنشاء نسخة من جدول الألوان عن طريق النقر على أيقونة المجلد مع رمز النسخ (copy).</translation>
+        <translation>&lt;b&gt;وحدة الألوان (Colors Module)&lt;/b&gt; تدير جداول البحث اللوني، والتي تُخزَّن في عقد الألوان.&lt;br&gt;تُستخدم هذه الجداول لترجمة القيم الرقمية إلى ألوان لعرض أنواع مختلفة من البيانات، مثل الأحجام والنماذج.&lt;br&gt;تتوفر نوعان من جداول البحث اللوني:&lt;br&gt;&lt;ul&gt;&lt;li&gt;جدول منفصل: يتم تحديد قائمة من الألوان المسماة (مثال: GenericAnatomyColors). يمكن استخدام الجداول المنفصلة أيضًا لرسم خرائط مستمرة، وفي هذه الحالة تُستخدم الألوان كنقاط عينة على مسافات متساوية ضمن النطاق المحدد، ويتم التدرج بينها بسلاسة (مثال: Grey).&lt;/li&gt;&lt;li&gt;مقياس مستمر: يتم تحديد اللون لقيم رقمية مختارة بشكل عشوائي، ويمكن حساب اللون من خلال التدرج السلس بين هذه القيم (مثال: PET-DICOM). لا يتم تحديد أسماء للألوان.&lt;/li&gt;جميع جداول الألوان المدمجة هي للقراءة فقط. لتحرير الألوان، أنشئ نسخة من جدول الألوان بالنقر على أيقونة المجلد مع رمز النسخ.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="188"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT ومجتمع Slicer.</translation>
+        <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT ومجتمع Slicer.</translation>
     </message>
 </context>
 <context>
