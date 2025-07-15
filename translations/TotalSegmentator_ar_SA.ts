@@ -6,22 +6,22 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>المدخلات</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="23"/>
         <source>Input volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="30"/>
         <source>Input abdominal, chest, or whole body CT.</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال الأشعة المقطعية للبطن أو الصدر أو الجسم بالكامل.</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="51"/>
         <source>Segmentation task:</source>
-        <translation type="unfinished"></translation>
+        <translation>مهمة التجزئة:</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="58"/>
