@@ -6,12 +6,12 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="31"/>
         <source>Annotation needs a widget reference and a valid type</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;annotation nécessite une référence de widget et un type valide</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="249"/>
         <source>Write your text here</source>
-        <translation type="unfinished"></translation>
+        <translation>Écrivez votre texte ici</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="332"/>
@@ -378,7 +378,7 @@
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="316"/>
         <location filename="TutorialMaker/Lib/TutorialPainter.py" line="462"/>
         <source>Error: Load an image first.</source>
-        <translation type="unfinished">Erreur&#xa0;: Chargez d&apos;abord une image.</translation>
+        <translation>Erreur&#xa0;: Chargez d&apos;abord une image.</translation>
     </message>
 </context>
 <context>
