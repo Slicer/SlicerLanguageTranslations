@@ -680,12 +680,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="347"/>
         <source>Safe Zone (Viewport X percentage): </source>
-        <translation>安全区范围（视口X轴百分比）： </translation>
+        <translation>安全区范围（视口 X 轴百分比）： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="355"/>
         <source>Safe Zone (Viewport Y percentage): </source>
-        <translation>安全区范围（视口Y轴百分比）： </translation>
+        <translation>安全区范围（视口 Y 轴百分比）： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="364"/>
@@ -695,12 +695,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="373"/>
         <source>Adjust Along Camera X</source>
-        <translation type="unfinished"></translation>
+        <translation>沿相机 X 轴对齐：</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="376"/>
         <source>If checked, adjust the camera so that it aligns with the target model along the x axis.</source>
-        <translation type="unfinished"></translation>
+        <translation>勾选时，相机将与目标模型沿 X 轴自动对齐</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="380"/>
