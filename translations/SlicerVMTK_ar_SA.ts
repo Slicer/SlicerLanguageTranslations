@@ -38,7 +38,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="266"/>
         <source>Parameter node is None.</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة المعلمة هي لا شيئ.</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="278"/>
