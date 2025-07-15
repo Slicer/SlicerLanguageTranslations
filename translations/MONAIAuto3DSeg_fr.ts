@@ -6,12 +6,12 @@
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="23"/>
         <source>Remote processing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement à distance&#xa0;:</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/UI/MONAIAuto3DSeg.ui" line="76"/>
