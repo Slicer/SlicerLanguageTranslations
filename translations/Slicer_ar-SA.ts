@@ -10388,37 +10388,20 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</oldsource>
         <translation>&lt;h3&gt;شرائح متتالية لإنشاء تجزئة كاملة&lt;/h3&gt;
-
-&lt;p&gt;
-يؤخذ في الاعتبار موقع، حجم، وشكل البذور الأولية بالإضافة إلى محتوى حجم المصدر.
-ستُوضع حدود الأجزاء النهائية حيث يحدث تغير مفاجئ في شدة حجم الصورة المصدرية.
-&lt;/p&gt;
-
+&lt;p&gt;يؤخذ في الاعتبار موقع، حجم، وشكل البذور الأولية بالإضافة إلى محتوى حجم المصدر.&lt;/p&gt;
+&lt;p&gt;ستُوضع حدود الأجزاء النهائية حيث يحدث تغير مفاجئ في شدة حجم الصورة المصدرية.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;التعليمات:&lt;/b&gt;&lt;/p&gt;
 &lt;ul style=&quot;margin: 0&quot;&gt;
-  &lt;li&gt;
-    استخدم أداة &lt;b&gt;الطلاء&lt;/b&gt; أو &lt;b&gt;التأثيرات الأخرى&lt;/b&gt; لرسم البذور في كل منطقة يجب أن تُصنف كجزء مستقل.
-    استخدم لونًا مختلفًا لكل بذرة. يجب وجود جزأين على الأقل.
-  &lt;/li&gt;
-  &lt;li&gt;
-    انقر على &lt;dfn&gt;بدء&lt;/dfn&gt; لحساب معاينة التجزئة الكاملة.
-  &lt;/li&gt;
-  &lt;li&gt;
-    تصفح شرائح الصورة. إذا كانت نتيجة المعاينة غير صحيحة، استخدم الطلاء أو أدوات التأثير الأخرى لإضافة المزيد من البذور في المناطق المصنفة بشكل خاطئ.
-    ستُحدث التجزئة الكاملة تلقائيًا خلال بضع ثوانٍ.
-  &lt;/li&gt;
-  &lt;li&gt;
-    انقر على &lt;dfn&gt;تطبيق&lt;/dfn&gt; لتحديث التجزئة بالنتيجة المعاينة.
-  &lt;/li&gt;
+&lt;li&gt;استخدم أداة &lt;b&gt;الطلاء&lt;/b&gt; أو &lt;b&gt;التأثيرات الأخرى&lt;/b&gt; لرسم البذور في كل منطقة يجب أن تُصنف كجزء مستقل.&lt;/li&gt;
+&lt;li&gt;استخدم لونًا مختلفًا لكل بذرة. يجب وجود جزأين على الأقل.&lt;/li&gt;
+&lt;li&gt;انقر على &lt;dfn&gt;بدء&lt;/dfn&gt; لحساب معاينة التجزئة الكاملة.&lt;/li&gt;
+&lt;li&gt;تصفح شرائح الصورة. إذا كانت نتيجة المعاينة غير صحيحة، استخدم الطلاء أو أدوات التأثير الأخرى لإضافة المزيد من البذور في المناطق المصنفة بشكل خاطئ.&lt;/li&gt;
+&lt;li&gt;سيتم تحديث التجزئة الكاملة تلقائيًا خلال بضع ثوانٍ.&lt;/li&gt;
+&lt;li&gt;انقر على &lt;dfn&gt;تطبيق&lt;/dfn&gt; لتحديث التجزئة بالنتيجة المعاينة.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;
-إذا حدث تداخل بين الأجزاء، فسيتم إعطاء الأولوية للجزء الأعلى في جدول الأجزاء.
-&lt;/p&gt;
-
-&lt;p&gt;
-يعتمد هذا التأثير على خوارزمية
-&lt;a href=&quot;https://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot; target=&quot;_blank&quot;&gt;
+&lt;p&gt;إذا حدث تداخل بين الأجزاء، فسيتم إعطاء الأولوية للجزء الأعلى في جدول الأجزاء.&lt;/p&gt;
+&lt;p&gt;يعتمد هذا التأثير على خوارزمية 
+&lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot; target=&quot;_blank&quot;&gt;
 Fast GrowCut
 &lt;/a&gt;.
 &lt;/p&gt;</translation>
@@ -12513,12 +12496,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="6"/>
         <source>Emphasize air in a CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>التأكيد على الهواء في حجم التصوير المقطعي المحوسب.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="7"/>
         <source>CT-Brain</source>
-        <translation type="unfinished"></translation>
+        <translation>تصوير الدماغ المقطعي المحوسب.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="8"/>
