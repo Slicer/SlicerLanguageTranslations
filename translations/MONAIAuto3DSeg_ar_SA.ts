@@ -21,7 +21,7 @@
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="39"/>
         <source>MONAI Auto3DSeg</source>
-        <translation type="unfinished"></translation>
+        <translation>موناي أوتو 3 دي إس إي جي</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="46"/>
