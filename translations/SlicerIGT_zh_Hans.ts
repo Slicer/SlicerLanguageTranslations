@@ -564,32 +564,32 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="186"/>
         <source>Anterior: </source>
-        <translation type="unfinished"></translation>
+        <translation>前： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="192"/>
         <source>Posterior: </source>
-        <translation type="unfinished"></translation>
+        <translation>后： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="197"/>
         <source>Right: </source>
-        <translation type="unfinished"></translation>
+        <translation>右： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="202"/>
         <source>Left: </source>
-        <translation type="unfinished"></translation>
+        <translation>左： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="207"/>
         <source>Superior: </source>
-        <translation type="unfinished"></translation>
+        <translation>上： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="212"/>
         <source>Inferior: </source>
-        <translation type="unfinished"></translation>
+        <translation>下： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="219"/>
@@ -604,48 +604,48 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="234"/>
         <source>This model be the center of rotation using 3DOF Viewpoint (e.g. tumour)</source>
-        <translation type="unfinished"></translation>
+        <translation>此模型将作为 3 自由度视点的旋转中心（例如肿瘤定位）</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="240"/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="247"/>
         <source>View angle (degrees): </source>
-        <translation type="unfinished"></translation>
+        <translation>视角（度）： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="254"/>
         <location filename="Viewpoint/Viewpoint.py" line="267"/>
         <source>Make the current viewing target look larger/smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>放大/缩小当前观察目标。</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="259"/>
         <source>View scale: </source>
-        <translation type="unfinished"></translation>
+        <translation>视距比例： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="274"/>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>平移</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="281"/>
         <source>Left/Right (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>左/右（毫米）： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="290"/>
         <source>Down/Up (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>下/上（毫米）： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="300"/>
         <source>Front/Back (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>前/后（毫米）： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="311"/>
@@ -655,12 +655,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="314"/>
         <source>If checked, render with parallel projection (box-shaped view). Otherwise render with perspective projection (cone-shaped view).</source>
-        <translation type="unfinished"></translation>
+        <translation>勾选时使用平行投影（方锥形视野），未勾选时使用透视投影（圆锥形视野）。</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="319"/>
         <source>The camera will continuously update its position so that it follows the tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>相机将持续更新位置以跟随器械运动。</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="328"/>
@@ -670,27 +670,27 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="335"/>
         <source>Followed model: </source>
-        <translation type="unfinished"></translation>
+        <translation>跟随模型： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="342"/>
         <source>Pick the model that the camera should follow, e.g. &apos;tumorModel&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>选择相机应追踪的模型（例如“肿瘤模型”）</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="347"/>
         <source>Safe Zone (Viewport X percentage): </source>
-        <translation type="unfinished"></translation>
+        <translation>安全区范围（视口X轴百分比）： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="355"/>
         <source>Safe Zone (Viewport Y percentage): </source>
-        <translation type="unfinished"></translation>
+        <translation>安全区范围（视口Y轴百分比）： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="364"/>
         <source>Safe Zone (Viewport Z percentage): </source>
-        <translation type="unfinished"></translation>
+        <translation>安全区范围（视口 Z 轴百分比）： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="373"/>
