@@ -63,7 +63,7 @@ Blur a 2d image.
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="13"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="20"/>
         <source>Some image</source>
-        <translation type="unfinished"></translation>
+        <translation>بعض الصورة</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="14"/>
