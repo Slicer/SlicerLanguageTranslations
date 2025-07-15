@@ -310,7 +310,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>迭代次数：</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
@@ -328,7 +328,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
@@ -396,7 +396,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="68"/>
         <source>Model:</source>
-        <translation type="unfinished"></translation>
+        <translation>模型：</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="80"/>
@@ -406,22 +406,22 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="81"/>
         <source>Texture:</source>
-        <translation type="unfinished"></translation>
+        <translation>纹理：</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="84"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>已禁用</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
         <source>RGB vector</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB 向量</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="86"/>
         <source>RGB float vector</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB 浮点向量</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="87"/>
@@ -457,24 +457,29 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>本模块用于调整 3D 视图的相机视角。
+靶心导航视图：用户可通过追踪器械定位/定向相机。
+使用帮助请访问：&lt;a href=&apos;https://www.slicerigt.org&apos;&gt;Slicer影像引导治疗官网&lt;/a&gt;。
+</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="25"/>
         <source>
     This work is part of the Breast NaviKnife project within the Laboratory for Percutaneous Surgery, Queen&apos;s University, Kingston, Ontario. Thomas Vaughan is funded by an NSERC Postgraduate award. Gabor Fichtinger is funded as a Cancer Care Ontario (CCO) Chair.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    本研究工作隶属于安大略省金斯顿皇后大学经皮手术实验室（PerkLab）的 Breast NaviKnife 项目。Thomas Vaughan 获加拿大国家科学与工程研究委员会（NSERC）研究生奖学金资助，Gabor Fichtinger 受聘为安大略省癌症护理中心（CCO）讲席教授。
+    </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="65"/>
         <source>Enable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>启用靶心导航视图模式</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="68"/>
         <source>Disable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用靶心导航视图模式</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="94"/>
@@ -529,7 +534,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="159"/>
         <source>The camera will always look at the target model (or if unselected will act like 5DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>相机将始终锁定目标模型（若未选择目标，则以 5 自由度模式运行）。</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="163"/>
