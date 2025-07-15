@@ -58,7 +58,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
         <source>If checked, take screen shots for tutorials. Use Save Data to write them to disk.</source>
-        <translation>若勾选此选项，将为教程捕获屏幕截图。使用「保存数据」功能将其写入磁盘。</translation>
+        <translation>若勾选此选项，将为教程捕获屏幕截图。使用“保存数据”功能将其写入磁盘。</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="115"/>
@@ -357,7 +357,10 @@ See more information in &lt;a href=&quot;https://github.com/organization/project
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc., Andras Lasso, PerkLab,
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+该文件最初由Jean-Christophe Fillion-Robin（Kitware Inc.）、Andras Lasso（PerkLab）、
+Steve Pieper（Isomics, Inc.）共同开发，并部分由美国国立卫生研究院（NIH）基金 3P41RR013218-12S1 资助。
+</translation>
     </message>
 </context>
 <context>
@@ -374,7 +377,11 @@ It is typically used to display colored surfaces, provided by surface scanners, 
 The model must contain texture coordinates. Only a single texture file per model is supported.
 For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;SlicerIGT project website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>本模块将纹理（存储于体积节点）应用于模型节点，
+通常用于显示表面扫描仪提供的彩色表面（需导出为 OBJ 格式）。
+模型必须包含纹理坐标，且仅支持单纹理文件。
+更多信息请访问&lt;a href=&apos;https://github.com/SlicerIGT/SlicerIGT/#user-documentation&apos;&gt;Slicer影像引导治疗项目官网&lt;/a&gt;。
+</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="50"/>
@@ -384,7 +391,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="67"/>
         <source>Model node containing geometry and texture coordinates.</source>
-        <translation type="unfinished"></translation>
+        <translation>包含几何体与纹理坐标的模型节点。</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="68"/>
@@ -424,7 +431,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="91"/>
         <source>Save color in point data. &quot;RGB vector&quot; is recommended for compatibility with most software. The point data may be used for thresholding or color-based processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>将颜色保存于点数据中。推荐使用“RGB向量”格式以确保与多数软件的兼容性，该点数据可用于阈值分割或基于颜色的处理。</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="92"/>
