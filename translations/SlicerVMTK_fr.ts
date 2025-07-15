@@ -98,7 +98,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Ensemble de paramètres&#xa0;:</translation>
+        <translation>Ensemble de paramètres&#xa0;:</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="43"/>
@@ -118,7 +118,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="102"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="ArterialCalcificationPreProcessor/Resources/UI/ArterialCalcificationPreProcessor.ui" line="128"/>
@@ -339,7 +339,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Ensemble de paramètres&#xa0;:</translation>
+        <translation>Ensemble de paramètres&#xa0;:</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="29"/>
@@ -349,7 +349,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="64"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/Resources/UI/CenterlineDisassembly.ui" line="70"/>
@@ -412,17 +412,17 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="23"/>
         <source>Surface:</source>
-        <translation type="unfinished">Surface&#x202f;:</translation>
+        <translation>Surface&#xa0;:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="30"/>
         <source>Input surface model of the tree. If computation is slow adjust preprocessing parameters in advanced section.</source>
-        <translation type="unfinished">Modèle de surface de l&apos;arbre. Si le calcul est lent ajuster les paramètres de pré-traitement dans la section avancée.</translation>
+        <translation>Modèle de surface de l&apos;arbre. Si le calcul est lent ajuster les paramètres de pré-traitement dans la section avancée.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="33"/>
@@ -430,17 +430,17 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="219"/>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="381"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished">vtkMRMLModelNode</translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="33"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+        <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="51"/>
         <source>Select a model or segmentation node</source>
-        <translation type="unfinished">Sélectionnez un modèle ou un nœud de segmentation</translation>
+        <translation>Sélectionnez un modèle ou un nœud de segmentation</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="58"/>
@@ -455,7 +455,7 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="70"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished">vtkMRMLMarkupsFiducialNode</translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="78"/>
@@ -490,17 +490,17 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="169"/>
         <source>Paremeter set: </source>
-        <translation type="unfinished">Jeu de paramètres&#x202f;: </translation>
+        <translation>Jeu de paramètres&#xa0;: </translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="176"/>
         <source>Pick node to store parameter set</source>
-        <translation type="unfinished">Sélectionnez le nœud pour stocker le jeu de paramètres</translation>
+        <translation>Sélectionnez le nœud pour stocker le jeu de paramètres</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="179"/>
         <source>vtkMRMLScriptedModuleNode</source>
-        <translation type="unfinished">vtkMRMLScriptedModuleNode</translation>
+        <translation>vtkMRMLScriptedModuleNode</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="187"/>
@@ -510,7 +510,7 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="210"/>
         <source>Outputs</source>
-        <translation type="unfinished">Sorties</translation>
+        <translation>Sorties</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="216"/>
@@ -525,67 +525,67 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="252"/>
         <source>Advanced</source>
-        <translation type="unfinished">Paramètres avancés</translation>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="261"/>
         <source>Preprocess input surface:</source>
-        <translation type="unfinished">Pré-traitement de la surface d&apos;entrée&#x202f;:</translation>
+        <translation>Pré-traitement de la surface d&apos;entrée&#xa0;:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="268"/>
         <source>Input surface model is reduced to the requested target point count (making computation faster), or subdivided (to make computations more accurate).</source>
-        <translation type="unfinished">Le modèle de surface est réduit au nombre de points cibles (calcul plus rapide), ou subdivisé (pour rendre les calculs plus précis).</translation>
+        <translation>Le modèle de surface est réduit au nombre de points cibles (calcul plus rapide), ou subdivisé (pour rendre les calculs plus précis).</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="281"/>
         <source>Target point count:</source>
-        <translation type="unfinished">Compte de points cible&#x202f;:</translation>
+        <translation>Nombre de points cibles&#xa0;:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="291"/>
         <source>Preferred number of points in the preprocessed surface.</source>
-        <translation type="unfinished">Nombre de points préféré dans la surface pré-traitée.</translation>
+        <translation>Nombre de points préféré dans la surface pré-traitée.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="309"/>
         <source>k</source>
-        <translation type="unfinished">k</translation>
+        <translation>k</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="316"/>
         <source>Decimation aggressiveness:</source>
-        <translation type="unfinished">Agressivité de décimation&#x202f;:</translation>
+        <translation>Agressivité de décimation&#xa0;:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="326"/>
         <source>Lower values preserve the mesh integrity better but it may not be possible to reduce number of points to the desired level.</source>
-        <translation type="unfinished">Les valeurs inférieures préservent mieux l&apos;intégrité des mailles, mais il peut ne pas être possible de réduire le nombre de points au niveau souhaité.</translation>
+        <translation>Des valeurs plus faibles préservent mieux l&apos;intégrité du maillage, mais il peut être impossible de réduire le nombre de points au niveau souhaité.</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="348"/>
         <source>Subdivide:</source>
-        <translation type="unfinished">Sub-diviser&#x202f;:</translation>
+        <translation>Subdiviser&#xa0;:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="358"/>
         <source>Subdivide the mesh to make computation more accurate (at the cost of increased computation time).</source>
-        <translation type="unfinished">Sub-divisez le maillage pour rendre le calcul plus précis (au coût du temps de calcul accru).</translation>
+        <translation>Subdiviser le maillage pour rendre le calcul plus précis (au prix d&apos;une augmentation du temps de calcul).</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="368"/>
         <source>Output preprocessed surface:</source>
-        <translation type="unfinished">Surface de sortie pré-traitée&#x202f;:</translation>
+        <translation>Sortie de la surface prétraitée&#xa0;:</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="378"/>
         <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
-        <translation type="unfinished">Enregistrer le résultat de pré-traitement. Utilisable pour des contrôles de qualité et pour des calculs répétés plus rapidement&#x202f;: la surface pré-traitée peut être utilisée comme surface d&apos;entrée (et l&apos;option &quot;Pre-traitement de la surface d&apos;entrée&quot; peut alors être désactivée).</translation>
+        <translation>Sauvegarde du résultat du prétraitement. Utile pour les contrôles de qualité et pour accélérer les calculs répétés&#xa0;: la surface prétraitée peut être utilisée comme surface d&apos;entrée (et l&apos;option « Prétraitement de la surface d&apos;entrée » peut alors être désactivée).</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="389"/>
         <source>Preprocessed model</source>
-        <translation type="unfinished">Modèle pré-traité</translation>
+        <translation>Modèle prétraité</translation>
     </message>
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="411"/>
@@ -625,7 +625,7 @@ La visibilité des noms des courbes peut être spécifié via le menu.</translat
     <message>
         <location filename="ClipVessel/Resources/UI/ClipVessel.ui" line="489"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquer</translation>
+        <translation>Appliquer</translation>
     </message>
 </context>
 <context>
@@ -1518,7 +1518,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Ensemble de paramètres&#xa0;:</translation>
+        <translation>Ensemble de paramètres&#xa0;:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="29"/>
@@ -1528,7 +1528,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="64"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="70"/>
@@ -1548,12 +1548,12 @@ This can be:
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="113"/>
         <source>Volume:</source>
-        <translation type="unfinished">Volume&#x202f;:</translation>
+        <translation>Volume&#xa0;:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="120"/>
         <source>Select a volume.</source>
-        <translation type="unfinished">Sélectionnez un volume.</translation>
+        <translation>Sélectionnez un volume.</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="150"/>
@@ -1572,7 +1572,7 @@ Examples:
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="177"/>
         <source>Outputs</source>
-        <translation type="unfinished">Sorties</translation>
+        <translation>Sorties</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="185"/>
@@ -1587,7 +1587,7 @@ Examples:
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="203"/>
         <source>Tube</source>
-        <translation type="unfinished">Tube</translation>
+        <translation>Tube</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="225"/>
@@ -1604,7 +1604,7 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="261"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="272"/>
@@ -1645,7 +1645,7 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="357"/>
         <source>Centerline curve:</source>
-        <translation type="unfinished">Courbe de ligne centrale&#x202f;:</translation>
+        <translation>Courbe de la ligne centrale&#xa0;:</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="366"/>
@@ -1665,7 +1665,7 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="410"/>
         <source>Advanced</source>
-        <translation type="unfinished">Paramètres avancés</translation>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="421"/>
@@ -1705,7 +1705,7 @@ The tortuosity of the tube and the diameter distribution determine this paramete
     <message>
         <location filename="EditCenterline/Resources/UI/EditCenterline.ui" line="504"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquer</translation>
+        <translation>Appliquer</translation>
     </message>
 </context>
 <context>
@@ -2317,7 +2317,7 @@ Si un nœud Shape::Tube est spécifié ci-dessous, ce paramètre est ignoré.</t
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Ensemble de paramètres&#xa0;:</translation>
+        <translation>Ensemble de paramètres&#xa0;:</translation>
     </message>
     <message>
         <location filename="GuidedArterySegmentation/Resources/UI/GuidedArterySegmentation.ui" line="43"/>
@@ -2527,7 +2527,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Ensemble de paramètres&#xa0;:</translation>
+        <translation>Ensemble de paramètres&#xa0;:</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="43"/>
@@ -2547,7 +2547,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="102"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/Resources/UI/GuidedVeinSegmentation.ui" line="235"/>
@@ -2773,7 +2773,7 @@ and Steve Pieper, Isomics, Inc. et son développement a été partiellement fina
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="22"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Ensemble de paramètres&#xa0;:</translation>
+        <translation>Ensemble de paramètres&#xa0;:</translation>
     </message>
     <message>
         <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="46"/>
@@ -3227,7 +3227,7 @@ Le résultat est influencé par&#xa0;:
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="19"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Ensemble de paramètres&#xa0;:</translation>
+        <translation>Ensemble de paramètres&#xa0;:</translation>
     </message>
     <message>
         <location filename="StenosisMeasurement2D/Resources/UI/StenosisMeasurement2D.ui" line="43"/>
