@@ -30813,12 +30813,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1079"/>
         <source>Failed to remove temporary directory &apos;%1&apos;</source>
-        <translation>فشل في إزالة الملف المؤقت &apos;%1&apos;</translation>
+        <translation>فشل في إزالة المجلد المؤقت &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="1128"/>
         <source>Displacements are expected to be stored as double or float. Vector values will not be converted from LPS to RAS.</source>
-        <translation type="unfinished"></translation>
+        <translation>من المتوقع تخزين الإزاحات كقيمة مزدوجة أو عائمة. لن تُحوّل قيم المتجهات من LPS إلى RAS.</translation>
     </message>
 </context>
 <context>
@@ -30847,7 +30847,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Segmentations/Logic/vtkSlicerSegmentationsModuleLogic.cxx" line="1087"/>
         <source>background</source>
-        <translation type="unfinished"></translation>
+        <translation>خلفية</translation>
     </message>
 </context>
 <context>
