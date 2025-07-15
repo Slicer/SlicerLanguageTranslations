@@ -534,32 +534,32 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="159"/>
         <source>The camera will always look at the target model (or if unselected will act like 5DOF)</source>
-        <translation>相机将始终锁定目标模型（若未选择目标，则以 5 自由度模式运行）。</translation>
+        <translation>相机将始终锁定目标模型（若未选择目标，则以 5 自由度模式运行）</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="163"/>
         <source>5DOF: </source>
-        <translation type="unfinished"></translation>
+        <translation>5 自由度模式： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="165"/>
         <source>The camera will always be oriented with the selected &apos;up direction&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>相机将始终按选定“上方向”进行定向</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="169"/>
         <source>6DOF: </source>
-        <translation type="unfinished"></translation>
+        <translation>6 自由度模式： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="171"/>
         <source>The camera will be virtually attached to the tool, and rotate together with it</source>
-        <translation type="unfinished"></translation>
+        <translation>相机将虚拟附着于该器械，并随其同步旋转</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="178"/>
         <source>Up Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>上方向</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="186"/>
