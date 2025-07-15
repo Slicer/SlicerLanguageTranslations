@@ -9324,17 +9324,17 @@ utilisez-le à des fins commerciales.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="283"/>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation>Télécharger le jeu de données à partir de l&apos;URL donnée et l&apos;importer dans la scène.</translation>
+        <translation>Télécharger le jeu de données à partir de l&apos;URL donnée et l&apos;importer dans la scène</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="285"/>
         <source>Show folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le dossier</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="286"/>
         <source>Show folder where custom data sets are downloaded ({path}).</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le dossier dans lequel les ensembles de données personnalisés sont téléchargés ({path}).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="543"/>
@@ -9435,7 +9435,7 @@ utilisez-le à des fins commerciales.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1008"/>
         <source>Error was reported while loading {count} nodes from {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur a été signalée lors du chargement de {count} nœuds de {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1011"/>
@@ -13023,7 +13023,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="605"/>
         <source>Unknown in %1</source>
         <extracomment>For formatting of terminology entry name. %1 is region name (e.g., &quot;Liver&quot;).</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Inconnu en %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="625"/>
@@ -15181,7 +15181,7 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="434"/>
         <source>Export to color table</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportation vers un tableau de couleurs</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1056"/>
@@ -16082,7 +16082,7 @@ Souhaitez-vous continuer à changer la représentation source ?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1198"/>
         <source>Toggle selected segments visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher ou masquer les segments sélectionnés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1202"/>
@@ -16832,7 +16832,7 @@ Souhaitez-vous continuer à changer la représentation source ?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1324"/>
         <source>Show slice edge in the 3D view</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le bord de la tranche dans la vue 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="409"/>
@@ -17847,7 +17847,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="366"/>
         <source>Reset settings to default</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser les paramètres par défaut</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="385"/>
