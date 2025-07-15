@@ -9334,7 +9334,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="286"/>
         <source>Show folder where custom data sets are downloaded ({path}).</source>
-        <translation>اظهر الملف من مكان يتم تنزيل مجموعات البيانات المخصصة  ({المكان}).</translation>
+        <translation>اظهر الملف من مكان يتم تنزيل مجموعات البيانات المخصصة  ({path}).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="543"/>
@@ -9435,7 +9435,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1008"/>
         <source>Error was reported while loading {count} nodes from {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>حصل خطأ أثناء تحميل {count} العقد من {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1011"/>
@@ -10387,21 +10387,41 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         If segments overlap, segment higher in the segments table will have priority.
         The effect uses &lt;a href=&quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt;fast grow-cut method&lt;/a&gt;.
         &lt;p&gt;</oldsource>
-        <translation type="unfinished">شرائح متنامية لإنشاء تجزئة كاملة &lt; br &gt;.
-ويؤخذ في الاعتبار موقع وحجم وشكل الأجزاء الأولية ومحتوى حجم المصدر.
-سيتم وضع حدود الجزء الأخير حيث يتغير سطوع حجم المصدر فجأة. التعليمات: &lt;p&gt;
-&lt;ul style = &quot;margin: 0&quot;&gt;
-&lt;li&gt; استخدم الطلاء أو المخلفات الأخرى لرسم البذور في كل منطقة التي يجب أن تنتمي إلى جزء منفصل.
-طلاء كل بذرة بجزء مختلف. هناك حاجة إلى قسمين على الأقل.
-&lt;li&gt; انقر &lt;dfn&gt; ابتدأ &lt;/dfn&gt; لحساب معاينة التجزئة الكاملة.
-&lt;li&gt; تصفح شرائح الصور. إذا كانت نتيجة التجزئة المعاينة غير صحيحة، فانتقل إلى
-الطلاء أو التأثيرات الأخرى وإضافة المزيد من البذور في المنطقة المصنفة بشكل خاطئ. سيكون التجزئة الكاملة
-تم تحديثه تلقائيًا في غضون بضع ثوان
-&lt;li&gt; انقر &lt;dfn&gt; تطبيق &lt;/dfn&gt; لتحديث التجزئة بالنتيجة المعاينة.
-&lt;/ul&gt; &lt;p&gt;
-إذا تداخلت الأجزاء، فستكون للقطاع الأعلى في جدول الأجزاء الأولوية.
-يستخدم التأثير &lt; a href = &quot;http://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot;&gt; طريقة قطع النمو السريع &lt;/a&gt;.
-&lt;p&gt;</translation>
+        <translation>&lt;h3&gt;شرائح متتالية لإنشاء تجزئة كاملة&lt;/h3&gt;
+
+&lt;p&gt;
+يؤخذ في الاعتبار موقع، حجم، وشكل البذور الأولية بالإضافة إلى محتوى حجم المصدر.
+ستُوضع حدود الأجزاء النهائية حيث يحدث تغير مفاجئ في شدة حجم الصورة المصدرية.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;التعليمات:&lt;/b&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+  &lt;li&gt;
+    استخدم أداة &lt;b&gt;الطلاء&lt;/b&gt; أو &lt;b&gt;التأثيرات الأخرى&lt;/b&gt; لرسم البذور في كل منطقة يجب أن تُصنف كجزء مستقل.
+    استخدم لونًا مختلفًا لكل بذرة. يجب وجود جزأين على الأقل.
+  &lt;/li&gt;
+  &lt;li&gt;
+    انقر على &lt;dfn&gt;بدء&lt;/dfn&gt; لحساب معاينة التجزئة الكاملة.
+  &lt;/li&gt;
+  &lt;li&gt;
+    تصفح شرائح الصورة. إذا كانت نتيجة المعاينة غير صحيحة، استخدم الطلاء أو أدوات التأثير الأخرى لإضافة المزيد من البذور في المناطق المصنفة بشكل خاطئ.
+    ستُحدث التجزئة الكاملة تلقائيًا خلال بضع ثوانٍ.
+  &lt;/li&gt;
+  &lt;li&gt;
+    انقر على &lt;dfn&gt;تطبيق&lt;/dfn&gt; لتحديث التجزئة بالنتيجة المعاينة.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+إذا حدث تداخل بين الأجزاء، فسيتم إعطاء الأولوية للجزء الأعلى في جدول الأجزاء.
+&lt;/p&gt;
+
+&lt;p&gt;
+يعتمد هذا التأثير على خوارزمية
+&lt;a href=&quot;https://interactivemedical.org/imic2014/CameraReadyPapers/Paper%204/IMIC_ID4_FastGrowCut.pdf&quot; target=&quot;_blank&quot;&gt;
+Fast GrowCut
+&lt;/a&gt;.
+&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="79"/>
