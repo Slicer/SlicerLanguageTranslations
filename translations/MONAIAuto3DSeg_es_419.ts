@@ -621,7 +621,7 @@ Compruebe la dirección, el puerto y la conexión.</translation>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="29"/>
         <source>Whole body segmentation TS2 - quick</source>
-        <translation>Segmentación de todo el cuerpo TS2 - instantánea</translation>
+        <translation>Segmentación del cuerpo completo TS2 - instantánea</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/Resources/Models_tr.h" line="30"/>
