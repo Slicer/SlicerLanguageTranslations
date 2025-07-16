@@ -21,7 +21,7 @@
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="39"/>
         <source>MONAI Auto3DSeg</source>
-        <translation>Extensión MONAI Slicer Segmentación automática en 3D</translation>
+        <translation>Extensión de MONAI Slicer-Segmentación automática en 3D</translation>
     </message>
     <message>
         <location filename="MONAIAuto3DSeg/MONAIAuto3DSeg.py" line="46"/>
