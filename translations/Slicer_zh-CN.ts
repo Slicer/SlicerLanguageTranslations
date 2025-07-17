@@ -12348,22 +12348,22 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="93"/>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>平均值</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="94"/>
         <source>Average all the components.</source>
-        <translation type="unfinished"></translation>
+        <translation>计算所有分量的平均值。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="97"/>
         <source>Single Component Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>单分量提取</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="98"/>
         <source>Extract single component</source>
-        <translation type="unfinished"></translation>
+        <translation>提取单一通道分量</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="257"/>
