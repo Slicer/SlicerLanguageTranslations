@@ -4787,17 +4787,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="5"/>
         <source>Merge the polydata from two input models and output a new model with the combined polydata. Uses the vtkAppendPolyData filter. Works on .vtp and .vtk surface files.</source>
-        <translation>合并两个输入模型的多维数据，并以合并后的多维数据输出一个新模型。使用 vtkAppendPolyData 过滤器。在.vtp和.vtk曲面文件上工作。</translation>
+        <translation>将两个输入模型的几何数据合并，输出包含组合数据的新模型。采用 vtkAppendPolyData 过滤器，支持 .vtp 和 .vtk 表面文件。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过 NIH 医学研究路线图（Grant U54 EB005149）资助。</translation>
+        <translation>本研究隶属于国家医学影像计算联盟（NAMIC），资金来源于 NIH 医学研究路线图计划（项目号 U54 EB005149）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
         <source>IO</source>
-        <translation>输入输出</translation>
+        <translation>输入/输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
@@ -12584,7 +12584,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
         <source>Slicer API exec: </source>
-        <translation>Slicer API exec： </translation>
+        <translation>Slicer API 执行功能： </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="126"/>
@@ -12638,7 +12638,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="106"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image.</source>
         <oldsource>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</oldsource>
-        <translation type="unfinished">捕获完整布局、3D视图或切片视图的截图。以文件形式保存图像，在注释模块中编辑。</translation>
+        <translation>捕获完整布局、3D 视图或切片视图的屏幕截图。使用“文件” - “保存”存储图像。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="116"/>
@@ -12653,7 +12653,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="124"/>
         <source>Restore view</source>
-        <translation>还原视图</translation>
+        <translation>恢复视图</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="126"/>
@@ -12676,32 +12676,32 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="14"/>
         <source>qMRMLClipNodeDisplayWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qMRMLClipNodeDisplayWidget</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="39"/>
         <source>Clipping:</source>
-        <translation type="unfinished">剪切：</translation>
+        <translation>裁剪：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="46"/>
         <source>Cap visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>封盖可见性：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="53"/>
         <source>Opacity:</source>
-        <translation type="unfinished">不透明度：</translation>
+        <translation>不透明度：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="60"/>
         <source>Outline visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>轮廓可见性：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeDisplayWidget.ui" line="74"/>
         <source>Keep only whole cells:</source>
-        <translation type="unfinished"></translation>
+        <translation>仅保留完整单元：</translation>
     </message>
 </context>
 <context>
