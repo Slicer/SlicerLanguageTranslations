@@ -4840,7 +4840,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="4"/>
         <source>Model Maker</source>
-        <translation>模型制作器</translation>
+        <translation>模型生成器</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
