@@ -4846,7 +4846,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 0 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
         <oldsource>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</oldsource>
-        <translation type="unfinished">Cria modelos de superfície 3D a partir de dados segmentados.&lt;p&gt;Os modelos são importados para o Slicer sob um esquema de nós hierárquicos em uma cena MRML. As cores do modelo são definidas pela tabela de cores associada ao volume de entrada (estas cores somente serão visíveis se você carregar o modelo a partir de um arquivo de cena de modelos).&lt;/p&gt;&lt;p&gt;&lt;b&gt;ES:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Especifica uma &lt;i&gt;Imagem de Entrada/i&gt; que é uma imagem segmentada em um mapa de rótulos. Cria uma nova hierarquia de &lt;i&gt;Modelos&lt;/i&gt; para gerar uma estrutura que contem os modelos criados a partir do volume de entrada.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cria Múltiplos:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Se você especificar uma lista de &lt;i&gt;Rótulos&lt;/i&gt;, ela vai sobrescrever quaisquer configurações de rótulos de início/fim.&lt;/p&gt;&lt;p&gt;Se você clicar em &lt;i&gt;Gerar todos&lt;/i&gt; ela vai sobrepor a lista de rótulos e quaisquer configurações de rótulos de início/fim.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Parâmetros do Construtor de Modelos:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Você pode definir o número de interações de suavização, número alvo de redução de polígonos (porcentagem decimal). Use 0 e 1 se você não quiser suavização ou decimação.&lt;br&gt;Você pode habilitar a separação de normais ou a geração de normais pontuais tembém neste painel.&lt;br&gt;Você pode gravar os modelos após cada passo intermediário (cubos marchantes, suavização e decimação se não a suavização conjunta, se não apenas depois da decimação); para que estes modelos não sejam gravados no arquivo mrml, primeiro desligue a exclusão dos arquivos temporários na janela python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
+        <translation>Criar modelos de superfície 3D a partir de dados segmentados.&lt;p&gt;Os modelos são importados para o Slicer sob um esquema de nós hierárquicos em uma cena MRML. As cores do modelo são definidas pela tabela de cores associada ao volume de entrada (estas cores somente serão visíveis se você carregar o modelo a partir de um arquivo de cena de modelos).&lt;/p&gt;&lt;p&gt;&lt;b&gt;ES:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Especifica uma &lt;i&gt;Imagem de Entrada/i&gt; que é uma imagem segmentada em um mapa de rótulos. Cria uma nova hierarquia de &lt;i&gt;Modelos&lt;/i&gt; para gerar uma estrutura que contem os modelos criados a partir do volume de entrada.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cria Múltiplos:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Se você especificar uma lista de &lt;i&gt;Rótulos&lt;/i&gt;, ela vai sobrescrever quaisquer configurações de rótulos de início/fim.&lt;/p&gt;&lt;p&gt;Se você clicar em &lt;i&gt;Gerar todos&lt;/i&gt; ela vai sobrepor a lista de rótulos e quaisquer configurações de rótulos de início/fim.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Parâmetros do Construtor de Modelos:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Você pode definir o número de interações de suavização, número alvo de redução de polígonos (porcentagem decimal). Use 0 e 1 se você não quiser suavização ou decimação.&lt;br&gt;Você pode habilitar a separação de normais ou a geração de normais pontuais tembém neste painel.&lt;br&gt;Você pode gravar os modelos após cada passo intermediário (cubos marchantes, suavização e decimação se não a suavização conjunta, se não apenas depois da decimação); para que estes modelos não sejam gravados no arquivo mrml, primeiro desligue a exclusão dos arquivos temporários na janela python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
@@ -5471,7 +5471,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientação da saída. Observe que esses códigos de orientação seguem a convenção do ITK: cada letra se refere a DE ONDE cada eixo se origina. Isso é o oposto das convenções de orientação comumente usadas. Por exemplo, para obter uma imagem cujos eixos correspondam às direções dos eixos do sistema de coordenadas LPS (Esquerda-Posterior-Superior), este parâmetro deve ser definido como RAI.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
@@ -9319,22 +9319,22 @@ usá-lo para fins comerciais.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="281"/>
         <source>Load</source>
-        <translation type="unfinished">Carregar</translation>
+        <translation>Carregar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="283"/>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixe o conjunto de dados da URL fornecida e importe-o para a cena</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="285"/>
         <source>Show folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar pasta</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="286"/>
         <source>Show folder where custom data sets are downloaded ({path}).</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar a pasta onde os conjuntos de dados personalizados são baixados ({path}).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="543"/>
@@ -9435,7 +9435,7 @@ usá-lo para fins comerciais.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1008"/>
         <source>Error was reported while loading {count} nodes from {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Um erro foi reportado ao carregar {count} nós de {path}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1011"/>
