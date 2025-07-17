@@ -12584,7 +12584,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
         <source>Slicer API exec: </source>
-        <translation>Slicer API 执行功能： </translation>
+        <translation>Slicer API exec： </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="126"/>
@@ -12599,32 +12599,32 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
         <source>Enable serving static pages (stop server to change option)</source>
-        <translation type="unfinished"></translation>
+        <translation>启用静态页面服务（需停止服务器后更改）</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
         <source>Static pages: </source>
-        <translation type="unfinished"></translation>
+        <translation>静态页面： </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="136"/>
         <source>Copy log messages to the python console and parent terminal (disable to improve performance)</source>
-        <translation type="unfinished"></translation>
+        <translation>将日志消息复制至 Python 控制台及父终端（禁用可提升性能）</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="136"/>
         <source>Log to Console: </source>
-        <translation type="unfinished"></translation>
+        <translation>控制台日志： </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="141"/>
         <source>Copy log messages to the log widget (disable to improve performance)</source>
-        <translation type="unfinished"></translation>
+        <translation>将日志消息复制至图形界面日志组件（禁用可提升性能）</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="141"/>
         <source>Log to GUI: </source>
-        <translation type="unfinished"></translation>
+        <translation>图形界面日志： </translation>
     </message>
 </context>
 <context>
