@@ -4797,22 +4797,22 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
         <source>IO</source>
-        <translation>输入/输出</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
         <source>Input/output</source>
-        <translation>输入输出</translation>
+        <translation>输入/输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="9"/>
         <source>Model 1</source>
-        <translation>模型1</translation>
+        <translation>模型 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="10"/>
         <source>Model 2</source>
-        <translation>模型2</translation>
+        <translation>模型 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="11"/>
@@ -4822,12 +4822,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="12"/>
         <source>Input model 1</source>
-        <translation>输入模型1</translation>
+        <translation>输入模型 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="13"/>
         <source>Input model 2</source>
-        <translation>输入模型2</translation>
+        <translation>输入模型 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="14"/>
