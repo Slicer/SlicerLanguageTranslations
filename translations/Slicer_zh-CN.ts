@@ -4286,7 +4286,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"/>
         <source>Name to use for this model.</source>
-        <translation>模型使用的名称</translation>
+        <translation>模型使用的名称。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="23"/>
@@ -12310,7 +12310,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     &lt;li&gt;computes the mean of all the components.&lt;/li&gt;
     &lt;/ul&gt;
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    &lt;p&gt;将向量体积数据转换为标量（单通道）体积数据。&lt;/p&gt;
+
+    &lt;p&gt;提供多种转换模式：&lt;/p&gt;
+
+    &lt;ul&gt;
+    &lt;li&gt;提取任意向量图像的单个通道。&lt;/li&gt;
+    &lt;li&gt;通过 vtkImageLuminance 算法将 RGB 图像转为标量（亮度 = 0.30*红 + 0.59*绿 + 0.11*蓝）。&lt;/li&gt;
+    &lt;li&gt;计算所有通道的均值。&lt;/li&gt;
+    &lt;/ul&gt;
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
@@ -12319,17 +12329,21 @@ Developed by Steve Pieper, Isomics, Inc.,
 partially funded by NIH grant 3P41RR013218-12S1 (NAC) and is part of the National Alliance
 for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the
 NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+模块由 Steve Pieper（Isomics, Inc.）开发，
+部分获美国国立卫生研究院（NIH）基金 3P41RR013218-12S1（NAC项目）资助，
+隶属于国家医学影像计算联盟（NA-MIC），
+资金来源于 NIH 医学研究路线图计划（项目号 U54 EB005149）。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="89"/>
         <source>Luminance</source>
-        <translation type="unfinished"></translation>
+        <translation>亮度转换模式</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="90"/>
         <source>(RGB,RGBA) Luminance from first three components: 0.30*R + 0.59*G + 0.11*B + 0.0*A)</source>
-        <translation type="unfinished"></translation>
+        <translation>（RGB/RGBA 格式）前三通道亮度计算公式：0.30*红 + 0.59*绿 + 0.11*蓝 + 0.0*透明通道</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="93"/>
@@ -18740,7 +18754,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="4"/>
         <source>Utilities</source>
-        <translation>公用事业</translation>
+        <translation>工具</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="4"/>
@@ -20477,7 +20491,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;问题和功能请求：&lt;/span&gt; 查看 &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;错误汇报： &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;在Slicer论坛上发布一个新主题&lt;/span&gt;&lt;/a&gt;告诉我们您的问题或向 &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer 追踪器&lt;/span&gt;&lt;/a&gt;. 描述导致错误的步骤，并附加日志消息。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;警告-如果处理患者数据&lt;/span&gt; 检查日志消息是否不包含任何可能识别患者的信息。将日志信息发送给特定的人，而不是在邮件列表或网站上公开共享。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;问题与功能请求：&lt;/span&gt;请访问&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer论坛&lt;/span&gt;&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;错误报告：&lt;/span&gt;通过&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer论坛提交新主题&lt;/span&gt;&lt;/a&gt;说明问题，或向&lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer错误追踪系统&lt;/span&gt;&lt;/a&gt;提交报告。请描述导致错误的操作步骤并附日志信息。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;患者数据警告：&lt;/span&gt;请检查日志是否含患者身份信息。应将日志发送给特定人员，切勿在公开邮件列表或网站分享。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -20864,7 +20878,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="425"/>
         <source>Not found for this version of the application (r%1)</source>
-        <translation type="unfinished">未发现此版本的应用程序（r%2） {1)?}</translation>
+        <translation>未发现此版本的应用程序（r%1）</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="432"/>
@@ -26309,7 +26323,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Favorite Modules:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Drag &amp;amp; drop modules&lt;br/&gt;from &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;Modules&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; list&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;收藏夹模块：&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;从 &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;拖放模块&lt;br/&gt;模块&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; 列表&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;收藏模块：&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;从模块列表拖放&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;模块&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;至此处&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
@@ -28798,7 +28812,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="99"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the text node is immediately updated as the contents are edited. If unchecked, text node is updated only when &amp;quot;Save&amp;quot; is clicked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;如果选中，文本节点会在编辑内容时立即更新。 如果未选中，文本节点仅在单击&amp; &amp;quot;保存&amp;quot; 时更新。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;勾选时，文本节点将随编辑内容实时更新；未勾选时，仅当点击&amp;quot;保存&amp;quot;按钮后更新文本节点。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="102"/>
