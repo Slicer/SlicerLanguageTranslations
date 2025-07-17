@@ -6676,7 +6676,7 @@ Deseja renovar a sessão?</translation>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="3"/>
         <source>Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>Testes</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="3"/>
