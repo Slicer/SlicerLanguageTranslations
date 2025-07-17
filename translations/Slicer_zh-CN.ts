@@ -12368,47 +12368,47 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="257"/>
         <source>Please select Input Vector Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择输入向量体积</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="259"/>
         <source>Please select Output Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择输出标量体积</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="261"/>
         <source>Please select a component to extract</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择待提取通道</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="285"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>计算结果失败。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="321"/>
         <source>no input volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation>未定义输入体积节点</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="325"/>
         <source>no output volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation>未定义输出体积节点</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="330"/>
         <source>input and output volume is the same. Create a new volume for output to avoid this error.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入与输出体积相同。请创建新体积作为输出以避免此错误。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="348"/>
         <source>component to extract ({componentSelected}) is invalid. Image has only {componentsTotal} components.</source>
-        <translation type="unfinished"></translation>
+        <translation>待提取通道（{componentSelected}）无效。该图像仅含 {componentsTotal} 个通道分量。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="357"/>
         <source>input has only {componentsTotal} components but requires at least 3 components for luminance conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入仅含 {componentsTotal} 个通道分量，但亮度转换至少需要 3 个通道分量。</translation>
     </message>
 </context>
 <context>
@@ -12416,72 +12416,72 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="3"/>
         <source>CT-Bone</source>
-        <translation type="unfinished"></translation>
+        <translation>CT-骨骼</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="4"/>
         <source>Emphasize bone in a CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>突出显示 CT 体积中的骨骼结构。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="5"/>
         <source>CT-Air</source>
-        <translation type="unfinished"></translation>
+        <translation>CT-气体</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="6"/>
         <source>Emphasize air in a CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>突出显示 CT 体积中的气体区域。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="7"/>
         <source>CT-Brain</source>
-        <translation type="unfinished"></translation>
+        <translation>CT-脑部</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="8"/>
         <source>View brain CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>脑部 CT 影像显示方案。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="9"/>
         <source>CT-Abdomen</source>
-        <translation type="unfinished"></translation>
+        <translation>CT-腹部</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="10"/>
         <source>View abdominal CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>腹部 CT 影像显示方案。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="11"/>
         <source>CT-Lung</source>
-        <translation type="unfinished"></translation>
+        <translation>CT-肺部</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="12"/>
         <source>View lung CT volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>肺部 CT 扫描显示方案。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="13"/>
         <source>PET</source>
-        <translation type="unfinished"></translation>
+        <translation>PET 影像</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="14"/>
         <source>Preset for PET volume (uses rainbow color table).</source>
-        <translation type="unfinished"></translation>
+        <translation>PET 体积专用预设（采用彩虹色表）。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="15"/>
         <source>DTI</source>
-        <translation type="unfinished"></translation>
+        <translation>DTI 弥散</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/VolumeDisplayPresets_tr.h" line="16"/>
         <source>Preset for DTI scalar volumes like FA (uses rainbow color table).</source>
-        <translation type="unfinished"></translation>
+        <translation>DTI 标量体积（如 FA 各向异性分数）专用预设（采用彩虹色表）。</translation>
     </message>
 </context>
 <context>
