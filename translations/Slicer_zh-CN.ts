@@ -5042,23 +5042,23 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="45"/>
         <source>Sinc</source>
-        <translation>Sinc</translation>
+        <translation>Sinc 平滑</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="46"/>
         <source>Laplacian</source>
-        <translation>拉普拉斯算子</translation>
+        <translation>拉普拉斯平滑</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="50"/>
         <source>Debug</source>
-        <translation>调试</translation>
+        <translation>调试模式</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="48"/>
         <source>Color Hierarchy</source>
-        <translation>颜色层次</translation>
+        <translation>色表层级</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="49"/>
@@ -5068,12 +5068,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
         <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
-        <translation>一个包含模板模型层次树的mrml文件，在输入数据的颜色表中每个颜色有一个层次节点。用于模型的颜色名称与模板层次结构名称相匹配，以创建一个多层次的输出树。在Models GUI中创建一个层次，并保存一个场景，然后对其进行清理，删除除模型层次和显示节点之外的所有东西。</translation>
+        <translation>包含模板模型层级树的 MRML 文件（按输入体积色表的每种颜色创建层级节点）。模型颜色名将与模板层级名匹配，构建多级输出树。在模型图形界面创建层级并保存场景，然后清理场景仅保留模型层级与显示节点。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation type="unfinished">您可以在每个中间步骤（行进立方体、平滑和抽取（如果不是联合平滑）之后保存模型的副本，否则就在抽取之后）。这些中间模型不会保存在 mrml 文件中，您必须在关闭删除临时文件后手动加载它们 python 控制台 （View -&gt;Python Interactor） 使用以下命令 slicer.modules.modelmaker.cliModuleLogic（）。DeleteTemporaryFilesOff（）。</translation>
+        <translation>可保存各中间步骤的模型副本（流程：移动立方体 - 平滑 - 缩减；若启用联合平滑则仅保存缩减后模型）。这些中间模型不存入 MRML 文件，您需要在 Python 控制台（视图 - Python交互器）输入命令禁用临时文件删除：slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()，然后手动加载中间模型文件。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
