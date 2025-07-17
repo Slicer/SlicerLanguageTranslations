@@ -4876,32 +4876,32 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
         <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
-        <translation>输入标签映射。下拉菜单将加载场景中所有标签映射体积，选择待生成模型的源数据。</translation>
+        <translation>输入标签映射。输入体积下拉菜单将加载场景中所有标签映射体积，选择待生成模型的源数据。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"/>
         <source>Color table to make labels to colors and objects</source>
-        <translation type="unfinished">颜色表，用于为颜色和对象制作标签</translation>
+        <translation>色表映射，将标签映射至颜色与对象</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation type="unfinished">生成的模型，在一个模型层次结构节点下。模型在一个模型层次节点下被导入Slicer，它们的颜色由与输入标签图卷相关的颜色表来设置。在运行模型制作器之前，必须创建模型层次结构节点，从模型下拉菜单中选择创建新的模型层次结构。如果你从命令行运行，一个新的mrml场景中的模型层次结构节点将为你创建。</translation>
+        <translation>生成的模型存放于模型层次节点下。导入 Slicer 的模型存放于模型层次节点下，其颜色由输入标签图关联的色表设定。运行前需通过模型下拉菜单创建新模型层级；命令行运行时将自动在新 MRML 场景创建层级节点。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
         <source>Create Multiple</source>
-        <translation>创建多个</translation>
+        <translation>批量创建</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="15"/>
         <source>Create more than one model at the same time, used for continuous ranges of labels.</source>
-        <translation>同时创建一个以上的模型，用于标签的连续范围。</translation>
+        <translation>同时创建多个模型，适用于连续标签范围。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation>模型名称</translation>
+        <translation>模型命名</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="17"/>
@@ -4911,7 +4911,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="18"/>
         <source>Name to use for this model. Any text entered in the entry box will be the starting string for the created model file names. The label number and the color name will also be part of the file name. If making multiple models, use this as a prefix to the label and color name.</source>
-        <translation type="unfinished">为这个模型使用的名称。在输入框中输入的任何文本都将成为创建的模型文件名的起始字符串。标签号和颜色名称也将是文件名的一部分。如果制作多个模型，将此作为标签和颜色名称的前缀。</translation>
+        <translation>模型命名规则。输入文本将作为文件名前缀，自动追加标签编号及颜色名称。批量创建时作为标签与颜色名的统一前缀。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
