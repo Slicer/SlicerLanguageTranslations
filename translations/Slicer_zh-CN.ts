@@ -4916,17 +4916,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation>为输入数据中的所有标签生成模型。如果您想创建对应于标签数据中所有数值的所有模型，请选择这个选项（使用下面的联合平滑选项对这个选项很有用）。忽略标签、起始标签、结束标签设置。跳过标签0。</translation>
+        <translation>为输入体积中所有标签生成模型。如果要创建与标签映射体积中所有数值对应的所有模型，请选择这个选项（推荐配合下方“联合平滑”使用）。忽略标签列表/起始标签/结束标签设置，自动跳过标签 0。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
         <source>Model Maker Parameters</source>
-        <translation>模型制作器参数</translation>
+        <translation>模型生成参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="21"/>
         <source>Parameters used for making models.</source>
-        <translation>制作模型所用的参数。.</translation>
+        <translation>生成模型所需的参数。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"/>
@@ -4946,7 +4946,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="25"/>
         <source>Skip Un-Named Labels</source>
-        <translation>跳过未命名的标签</translation>
+        <translation>跳过未命名标签</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="26"/>
@@ -4956,7 +4956,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="27"/>
         <source>Smooth</source>
-        <translation>光滑</translation>
+        <translation>平滑</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="28"/>
@@ -4966,27 +4966,27 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="29"/>
         <source>Decimate</source>
-        <translation>抽取</translation>
+        <translation>缩减</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="30"/>
         <source>Split Normals</source>
-        <translation>分割法线</translation>
+        <translation>拆分法向量</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="31"/>
         <source>Point Normals</source>
-        <translation>点法线</translation>
+        <translation>点法向量</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="32"/>
         <source>Pad</source>
-        <translation type="unfinished">Pad</translation>
+        <translation>边界填充</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
         <source>A comma separated list of label values from which to make models. f you specify a list of Labels, it will override any start/end label settings. If you click Generate All Models it will override the list of labels and any start/end label settings.</source>
-        <translation type="unfinished">一个以逗号分隔的标签值列表，用于制作模型。如果您指定一个标签列表，它将覆盖任何开始/结束标签设置。如果你点击生成所有模型，它将覆盖标签列表和任何开始/结束标签设置。</translation>
+        <translation>逗号分隔的待生成模型标签值列表。若指定将覆盖起始/结束标签设置；点击生成全部模型时此设置失效。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
@@ -5001,42 +5001,42 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"/>
         <source>Select this to not generate models from labels that do not have names defined in the color look up table associated with the input label map. If true, only models which have an entry in the color table will be generated.  If false, generate all models that exist within the label range.</source>
-        <translation>选择这个以不从没有在与输入标签映射相关联的颜色查找表中定义名称的标签生成模型。如果是真的，只有在颜色表中有一个条目的模型将被生成。  如果是假的，生成存在于标签范围内的所有模型。</translation>
+        <translation>选中此项将跳过生成与输入标签映射关联的色表中未定义名称的模型。选中时仅生成色表中定义名称的标签模型；禁用时生成标签范围内所有模型。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"/>
         <source>This will ensure that all resulting models fit together smoothly, like jigsaw puzzle pieces. Otherwise the models will be smoothed independently and may overlap.</source>
-        <translation type="unfinished">这将确保所有产生的模型都能顺利地合在一起，就像拼图一样。否则，这些模型将被独立地磨平，并可能重叠。</translation>
+        <translation>确保输出模型无缝拼接（如拼图）；禁用时独立平滑可能导致模型重叠。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"/>
         <source>Here you can set the number of smoothing iterations for Laplacian smoothing, or the degree of the polynomial approximating the windowed Sinc function. Use 0 if you wish no smoothing. </source>
-        <translation type="unfinished">在这里你可以设置拉普拉斯平滑的迭代次数，或者设置逼近窗口化Sinc函数的多项式的程度。如果你希望不进行平滑处理，请使用0。 </translation>
+        <translation>设置拉普拉斯平滑迭代次数或窗式 Sinc 函数多项式阶数（0 表示无平滑）。 </translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
         <source>You can control the type of smoothing done on the models by selecting a filter type of either Sinc or Laplacian.</source>
-        <translation type="unfinished">你可以通过选择Sinc或Laplacian的过滤器类型来控制对模型的平滑类型。</translation>
+        <translation>通过在过滤器中选择 Sinc 或拉普拉斯平滑来控制模型平滑类型。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
         <source>Chose the target reduction in number of polygons as a decimal percentage (between 0 and 1) of the number of polygons. Specifies the percentage of triangles to be removed. For example, 0.1 means 10% reduction and 0.9 means 90% reduction.</source>
-        <translation type="unfinished">选择减少多边形数量的目标，是多边形数量的小数百分比（在0和1之间）。指定要删除的三角形的百分比。例如，0.1意味着减少10%，0.9意味着减少90%。</translation>
+        <translation>设定多边形缩减百分比（0.0-1.0）。如 0.1 表示缩减 10% 三角形数量，0.9 表示缩减 90%。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"/>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affects measurements.</source>
-        <translation>分割法线对于可视化尖锐特征非常有用。但是，它会在表面上产生孔洞，从而影响测量。</translation>
+        <translation>拆分法向量在可视化锐利特征时建议启用，但可能导致表面孔洞影响测量精度。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
         <source>Turn this flag on if you wish to calculate the normal vectors for the points.</source>
-        <translation type="unfinished">如果要计算点的法线向量，请打开此标志。</translation>
+        <translation>启用时计算顶点法向量。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
         <source>Pad the input volume with zero value voxels on all 6 faces in order to ensure the production of closed surfaces. Sets the origin translation and extent translation so that the models still line up with the unpadded input volume.</source>
-        <translation>在所有6个面的输入数据上用零值的体素进行填充，以确保产生封闭的表面。设置原点平移和范围平移，使模型仍然与未填充的输入数据保持一致。</translation>
+        <translation>在体积六面填充零值体素以确保生成封闭表面，自动校正原点与范围偏移使模型与原始体积对齐。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
