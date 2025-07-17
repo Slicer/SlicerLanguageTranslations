@@ -12489,87 +12489,87 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="31"/>
         <source>Web Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Web 服务器</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="35"/>
         <source>Provides an embedded web server in Slicer that allows control of the application via web services API (HTTP requests).</source>
-        <translation type="unfinished"></translation>
+        <translation>在 Slicer 中提供嵌入式 Web 服务器，支持通过 Web 服务 API（HTTP 请求）控制应用程序。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="44"/>
         <source>This work was partially funded by NIH grant 3P41RR013218.</source>
-        <translation type="unfinished"></translation>
+        <translation>本研究部分获 NIH 基金 3P41RR013218 资助。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="65"/>
         <source>Start server</source>
-        <translation type="unfinished"></translation>
+        <translation>启动服务器</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="68"/>
         <source>Start web server with the selected options.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用选定选项启动 Web 服务器。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="71"/>
         <source>Stop server</source>
-        <translation type="unfinished"></translation>
+        <translation>停止服务器</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="74"/>
         <source>Stop the web server.</source>
-        <translation type="unfinished"></translation>
+        <translation>停止Web服务器运行。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="77"/>
         <source>Open static pages in external browser</source>
-        <translation type="unfinished"></translation>
+        <translation>在外部浏览器打开静态页面</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="79"/>
         <source>Open a connection to the server on the local machine with your system browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>通过系统浏览器连接至本机服务器。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="82"/>
         <source>Open static pages in internal browser</source>
-        <translation type="unfinished"></translation>
+        <translation>在内部浏览器打开静态页面</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="84"/>
         <source>Open a connection with Qt to the server on the local machine.</source>
-        <translation type="unfinished"></translation>
+        <translation>通过 Qt 框架连接至本机服务器。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="94"/>
         <source>Clear Log</source>
-        <translation type="unfinished"></translation>
+        <translation>清除日志</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="96"/>
         <source>Clear the log window.</source>
-        <translation type="unfinished"></translation>
+        <translation>清空日志窗口内容。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="104"/>
         <source>Advanced</source>
-        <translation type="unfinished">高级</translation>
+        <translation>高级设置</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="113"/>
         <source>Enable Cross Origin Resource Sharing (stop server to change option). Warning: this option allows any web page to access the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>启用跨源资源共享（需停止服务器后更改）。警告：此选项允许任意网页访问服务器。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="113"/>
         <source>Enable CORS: </source>
-        <translation type="unfinished"></translation>
+        <translation>启用CORS： </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
         <source>Enable remote control of Slicer application (stop server to change option)</source>
-        <translation type="unfinished"></translation>
+        <translation>启用 Slicer 应用程序远程控制（需停止服务器后更改）</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="117"/>
@@ -12579,7 +12579,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
         <source>Enable execution of arbitrary Python command using Slicer API. It only has effect if Slicer API is enabled, too (stop server to change option).</source>
-        <translation type="unfinished"></translation>
+        <translation>启用 Slicer API 执行任意 Python 命令（需停止服务器后更改，仅在 Slicer API 启用时生效）</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
