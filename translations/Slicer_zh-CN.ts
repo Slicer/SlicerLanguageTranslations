@@ -12579,22 +12579,22 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
         <source>Enable execution of arbitrary Python command using Slicer API. It only has effect if Slicer API is enabled, too (stop server to change option).</source>
-        <translation>启用 Slicer API 执行任意 Python 命令（需停止服务器后更改，仅在 Slicer API 启用时生效）</translation>
+        <translation>启用 Slicer API 执行任意 Python 命令（需停止服务器后更改，仅在 Slicer API 启用时生效）。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="122"/>
         <source>Slicer API exec: </source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer API 执行功能： </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="126"/>
         <source>Enable serving Slicer DICOM database content via DICOMweb (stop server to change option)</source>
-        <translation type="unfinished"></translation>
+        <translation>支持通过 DICOMweb 提供 Slicer DICOM 数据库内容（需停止服务器后更改）</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="127"/>
         <source>DICOMweb API: </source>
-        <translation type="unfinished"></translation>
+        <translation>DICOMweb API： </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/WebServer/WebServer.py" line="131"/>
