@@ -292,7 +292,7 @@ Este archivo fue desarrollado originalmente por Jean-Christophe Fillion-Robin, K
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="610"/>
         <source>Processing curve creation started</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciada la creación de la curva de procesamiento</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="622"/>
