@@ -175,7 +175,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="927"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="931"/>
@@ -200,12 +200,12 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="947"/>
         <source>Arrow text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Texto de la Flecha</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="951"/>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Caja de Texto</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="955"/>
@@ -240,7 +240,7 @@
     <message>
         <location filename="TutorialMaker/Lib/TutorialGUI.py" line="1179"/>
         <source>Add Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir Imagen</translation>
     </message>
 </context>
 <context>
@@ -278,12 +278,12 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="78"/>
         <source>Fetch From Github</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Buscar en GitHub</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="91"/>
         <source>Capture screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Capturar pantalla</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/TutorialMaker.ui" line="98"/>
