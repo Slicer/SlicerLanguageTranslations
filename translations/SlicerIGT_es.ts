@@ -261,17 +261,17 @@ Este trabajo es parte del proyecto SparKit, fundado por el programa ACRU de Canc
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="49"/>
         <source>Note: Parent transforms of models are not used. Models should be defined in the coordinate system that is being registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: No se utilizan las transformaciones padre del modelo. Los modelos deberían ser definidos en el sistema de coordenadas que está siendo registrado.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="65"/>
         <source>Select the model the other will be transformed to. This model required to contain a dense set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona el modelo al que será transformado el otro. Este modelo requiere contener un conjunto denso de puntos.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="80"/>
         <source>Select the model that will be transformed. This model may require a sparse set of points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona el modelo que será transformado. Este modelo podría requerir un conjunto disperso de puntos.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
@@ -286,12 +286,12 @@ Este trabajo es parte del proyecto SparKit, fundado por el programa ACRU de Canc
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="97"/>
         <source>Output transform: </source>
-        <translation type="unfinished">Transformación de salida: </translation>
+        <translation>Transformación de salida: </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Ejecutar el algoritmo.</translation>
+        <translation>Ejecutar el algoritmo.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="112"/>
@@ -301,7 +301,7 @@ Este trabajo es parte del proyecto SparKit, fundado por el programa ACRU de Canc
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
         <source>Mean distance after registration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Distancia media después del registro:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="124"/>
