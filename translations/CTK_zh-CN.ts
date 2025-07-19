@@ -34,7 +34,7 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="8"/>
         <source>Integer Parameter</source>
-        <translation>整数参数</translation>
+        <translation>整型参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="9"/>
@@ -249,77 +249,77 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="17"/>
         <source>The exit code of the module.</source>
-        <translation type="unfinished"></translation>
+        <translation>模块的退出代码。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="18"/>
         <source>Exit by crashing.</source>
-        <translation type="unfinished"></translation>
+        <translation>异常终止退出。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="19"/>
         <source>Final error message at the end.</source>
-        <translation type="unfinished"></translation>
+        <translation>最终的报错信息。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="20"/>
         <source>Output parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>输出参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="21"/>
         <source>Output parameters for testing purposes.</source>
-        <translation type="unfinished"></translation>
+        <translation>用于测试的输出参数。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="22"/>
         <source>Number of results</source>
-        <translation type="unfinished"></translation>
+        <translation>结果数量</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="23"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>报错</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="24"/>
         <source>Exit status</source>
-        <translation type="unfinished"></translation>
+        <translation>退出状态</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="25"/>
         <source>Output image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输出影像</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="26"/>
         <source>The number of results reported by this module.</source>
-        <translation type="unfinished"></translation>
+        <translation>此模块报告的结果数量。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="27"/>
         <source>Exit error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>退出报错信息。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="28"/>
         <source>Exit status (crashed or normal exit)</source>
-        <translation type="unfinished"></translation>
+        <translation>退出状态（异常终止或正常退出）</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="29"/>
         <source>Image output path.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">影像输出路径。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="30"/>
         <source>Normal exit</source>
-        <translation type="unfinished"></translation>
+        <translation>正常退出</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="31"/>
         <source>Crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>异常终止</translation>
     </message>
 </context>
 <context>
@@ -327,65 +327,73 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="4"/>
         <source>Execution Model Tour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">执行模型功能演示</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="5"/>
         <source>
   Shows one of each type of parameter.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  展示各类参数的典型范例。
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="6"/>
         <source>Scalar Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>标量参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="7"/>
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+    标量参数变体
+    </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="8"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>整型参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="9"/>
         <source>Boolean Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>布尔型参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="10"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>双精度型参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="11"/>
         <source>
       An integer without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      无限制的整数值
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="12"/>
         <source>
       A boolean without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      无限制的布尔值
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="13"/>
         <source>An double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>有约束的双精度浮点数值</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="14"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>向量参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="15"/>
@@ -395,224 +403,224 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="16"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>浮点向量参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="17"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>字符串向量参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="18"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>浮点数向量</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="19"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>字符串向量</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="20"/>
         <source>Enumeration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>枚举参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="21"/>
         <source>Variations on enumeration parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">枚举参数的变体</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="22"/>
         <source>String Enumeration Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>字符串枚举参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="23"/>
         <source>A point</source>
-        <translation type="unfinished"></translation>
+        <translation>点</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="24"/>
         <source>An enumeration of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>字符串枚举</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="25"/>
         <source>asf</source>
-        <translation type="unfinished"></translation>
+        <translation>asf</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="26"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="27"/>
         <source>foo</source>
-        <translation type="unfinished"></translation>
+        <translation>foo</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="28"/>
         <source>&quot;foobar&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>“foobar”</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="29"/>
         <source>foofoo</source>
-        <translation type="unfinished"></translation>
+        <translation>foofoo</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="30"/>
         <source>Directory I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>目录输入输出参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="31"/>
         <source>Various Directory I/O parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>多种目录输入输出参数。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="32"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="33"/>
         <source>Some dir</source>
-        <translation type="unfinished"></translation>
+        <translation>某些路径</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="34"/>
         <source>File I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>文件输入输出参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="35"/>
         <source>Various File I/O parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>多种文件输入输出参数。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="36"/>
         <source>Input file, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入文件，未指定扩展名。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="37"/>
         <source>Input file, .txt or .mat file specified using leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入文件，使用前导点指定了 .txt 或 .mat 文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="38"/>
         <source>Input file, .txt or .mat file specified without leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入文件，未使用前导点指定了 .txt 或 .mat 文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="39"/>
         <source>Output file, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出文件，未指定扩展名。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="40"/>
         <source>Output file, .txt or .mat file specified using leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出文件，使用前导点指定了 .txt 或 .mat 文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="41"/>
         <source>Output file, .txt or .mat file specified without leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出文件，未使用前导点指定了 .txt 或 .mat 文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="42"/>
         <source>Input file, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入文件，未指定文件扩展名，因此可选择所有文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="43"/>
         <source>Input file, where a correct comma separated list of .txt and .mat are specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入文件，其中正确指定了 .txt 和 .mat 的逗号分隔列表，该列表应包含第一个点，但不应包含任何星号。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="44"/>
         <source>Input file, where the XML has missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入文件，其中 XML 配置遗漏了文件扩展名的第一个点。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="45"/>
         <source>Output file, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出文件，未指定文件扩展名，因此可选择所有文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="46"/>
         <source>Output file, where a comma separated list of .txt and .mat are specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出文件，其中指定了 .txt 和 .mat 的逗号分隔列表，该列表应包含第一个点，但不应包含任何星号。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="47"/>
         <source>Output file, where the XML has missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出文件，其中 XML 配置遗漏了文件扩展名的第一个点。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="48"/>
         <source>Geometry I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>几何体输入输出参数</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="49"/>
         <source>Various Geometry I/O parameters, which are for things like vtkPolyData.</source>
-        <translation type="unfinished"></translation>
+        <translation>多种几何体输入/输出参数，适用于诸如 vtkPolyData 的对象。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="50"/>
         <source>Input geometry, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入几何体，未指定扩展名。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="51"/>
         <source>Input geometry, .vtk or .vtp file specified with a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入几何体，使用前导点指定了 .vtk 或 .vtp 文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="52"/>
         <source>Input geometry, .vtk or .vtp file specified without a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入几何体，未使用前导点指定了 .vtk 或 .vtp 文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="53"/>
         <source>Output geometry, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出几何体，未指定扩展名。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="54"/>
         <source>Output geometry, .vtk or .vtp file specified with a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出几何体，使用前导点指定了 .vtk 或 .vtp 文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="55"/>
         <source>Output geometry, .vtk or .vtp file specified without a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出几何体，未使用前导点指定了 .vtk 或 .vtp 文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="56"/>
         <source>Input geometry, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入几何体，未指定文件扩展名，因此可选择所有文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="57"/>
         <source>Input geometry, where a comma separated list is specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入几何体，其中指定了逗号分隔列表，该列表应包含第一个点，但不应包含任何星号。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="58"/>
         <source>Input geometry, where the XML has incorrectly missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入几何体，其中 XML 配置错误遗漏了文件扩展名的第一个点。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="59"/>
         <source>Output geometry, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出几何体，未指定文件扩展名，因此可选择所有文件。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="60"/>
         <source>Output geometry, where a comma separated list is specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出几何体，其中指定了逗号分隔列表，该列表应包含第一个点，但不应包含任何星号。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="61"/>
         <source>Output geometry, where the XML has incorrectly missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出几何体，其中 XML 配置错误遗漏了文件扩展名的第一个点。</translation>
     </message>
 </context>
 <context>
@@ -2265,7 +2273,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="19"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>详情</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="25"/>
@@ -2274,92 +2282,96 @@ Halting export.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu Sans&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Ubuntu&apos;;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu Sans&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Ubuntu&apos;;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="69"/>
         <source>Select all entries in the table</source>
-        <translation type="unfinished"></translation>
+        <translation>选择表中的所有条目</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="72"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>全选</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="83"/>
         <source>Retry selected canceled or failed jobs</source>
-        <translation type="unfinished"></translation>
+        <translation>重新执行所选已取消或失败的任务</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="86"/>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>重新执行</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="97"/>
         <source>Stop selected in-progress jobs</source>
-        <translation type="unfinished"></translation>
+        <translation>停止所选进行中的任务</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="100"/>
         <source>Stop</source>
-        <translation type="unfinished">停</translation>
+        <translation>停止</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="111"/>
         <source>Stop all the in-progress jobs and clear all entries in the table</source>
-        <translation type="unfinished"></translation>
+        <translation>停止所有进行中的任务并清空表中的所有条目</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="114"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>全部清空</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="125"/>
         <source>Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="146"/>
         <source>Column used for filtering the entries with the RegEx filter</source>
-        <translation type="unfinished"></translation>
+        <translation>用于通过正则表达式过滤器筛选条目的列</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="153"/>
         <source>Reset all filters to default</source>
-        <translation type="unfinished"></translation>
+        <translation>将所有过滤器重置为默认状态</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="156"/>
         <source>Reset filters</source>
-        <translation type="unfinished"></translation>
+        <translation>重置过滤器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="167"/>
         <source>Show completed jobs</source>
-        <translation type="unfinished"></translation>
+        <translation>显示已完成的任务</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="170"/>
         <source>Show completed</source>
-        <translation type="unfinished"></translation>
+        <translation>显示已完成</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="196"/>
         <source>RegEx filter</source>
-        <translation type="unfinished"></translation>
+        <translation>正则表达式过滤器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="203"/>
         <source>Clear the completed jobs</source>
-        <translation type="unfinished"></translation>
+        <translation>清除已完成的任务</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMJobListWidget.ui" line="206"/>
         <source>Clear completed</source>
-        <translation type="unfinished"></translation>
+        <translation>清除已完成</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="325"/>
@@ -2368,7 +2380,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1239"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1334"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>已失败</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="330"/>
@@ -2377,7 +2389,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1239"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1333"/>
         <source>user-stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>用户中止</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="313"/>
@@ -2385,52 +2397,52 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1294"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1332"/>
         <source>in-progress</source>
-        <translation type="unfinished"></translation>
+        <translation>进行中</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="156"/>
         <source>Query patients</source>
-        <translation type="unfinished"></translation>
+        <translation>查询患者</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="158"/>
         <source>Query studies</source>
-        <translation type="unfinished"></translation>
+        <translation>查询检查</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="160"/>
         <source>Query series</source>
-        <translation type="unfinished"></translation>
+        <translation>查询序列</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="162"/>
         <source>Query instances</source>
-        <translation type="unfinished"></translation>
+        <translation>查询实例</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="173"/>
         <source>Retrieve patients</source>
-        <translation type="unfinished"></translation>
+        <translation>检索患者</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="175"/>
         <source>Retrieve studies</source>
-        <translation type="unfinished"></translation>
+        <translation>检索检查</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="177"/>
         <source>Retrieve series</source>
-        <translation type="unfinished"></translation>
+        <translation>检索序列</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="179"/>
         <source>Retrieve instances</source>
-        <translation type="unfinished"></translation>
+        <translation>检索实例</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="184"/>
         <source>Storage listener</source>
-        <translation type="unfinished"></translation>
+        <translation>存储服务侦听器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="188"/>
