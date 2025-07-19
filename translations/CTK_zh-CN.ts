@@ -2447,17 +2447,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="188"/>
         <source>Echo server</source>
-        <translation type="unfinished"></translation>
+        <translation>Echo 服务器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="192"/>
         <source>Inserter</source>
-        <translation type="unfinished"></translation>
+        <translation>插入器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="196"/>
         <source>Thumbnail generator</source>
-        <translation type="unfinished"></translation>
+        <translation>缩略图生成器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="304"/>
@@ -2466,131 +2466,131 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1295"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1331"/>
         <source>queued</source>
-        <translation type="unfinished"></translation>
+        <translation>已排队</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="335"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="462"/>
         <source>attempt-failed</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试失败</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="340"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="463"/>
         <source>completed</source>
-        <translation type="unfinished"></translation>
+        <translation>已完成</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="506"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="590"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="510"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="592"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>状态</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="514"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="594"/>
         <source>Progress</source>
-        <translation type="unfinished">进展</translation>
+        <translation>执行进度</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="518"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="596"/>
         <source>Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>时间与日期</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="522"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="598"/>
         <source>Starting Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>开始时间与日期</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="526"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="600"/>
         <source>Completion Time and Date</source>
-        <translation type="unfinished"></translation>
+        <translation>完成时间与日期</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="530"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="602"/>
         <source>DICOM Level</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM 层级</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="534"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="604"/>
         <source>Patient ID</source>
-        <translation type="unfinished">患者编号</translation>
+        <translation>患者 ID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="538"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="606"/>
         <source>Patient Name</source>
-        <translation type="unfinished"></translation>
+        <translation>患者姓名</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="542"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="608"/>
         <source>Birth Date</source>
-        <translation type="unfinished"></translation>
+        <translation>出生日期</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="546"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="610"/>
         <source>Study UID</source>
-        <translation type="unfinished"></translation>
+        <translation>检查 UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="550"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="612"/>
         <source>Series UID</source>
-        <translation type="unfinished"></translation>
+        <translation>序列 UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="554"/>
         <source>SOPInstance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>SOP 实例 UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="558"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="616"/>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="562"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="618"/>
         <source>Job UID</source>
-        <translation type="unfinished"></translation>
+        <translation>任务 UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="566"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="620"/>
         <source>Class</source>
-        <translation type="unfinished"></translation>
+        <translation>服务类</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="570"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="622"/>
         <source>Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>线程</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="574"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="624"/>
         <source>Logging</source>
-        <translation type="unfinished"></translation>
+        <translation>日志记录</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="614"/>
         <source>SOP UID</source>
-        <translation type="unfinished"></translation>
+        <translation>SOP UID</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="221"/>
@@ -2598,7 +2598,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1296"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMJobListWidget.cpp" line="1330"/>
         <source>initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>已初始化</translation>
     </message>
 </context>
 <context>
@@ -2606,7 +2606,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMListenerWidget.ui" line="14"/>
         <source>DICOM Listener</source>
-        <translation>DICOM监听器</translation>
+        <translation>DICOM 侦听服务</translation>
     </message>
 </context>
 <context>
@@ -2683,7 +2683,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="116"/>
         <source>Double-click to show DICOM tag definition.</source>
-        <translation>双击以显示DICOM标签定义。</translation>
+        <translation>双击以显示 DICOM 标签定义。</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="123"/>
@@ -2701,7 +2701,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="81"/>
         <source>Tag</source>
-        <translation>标记</translation>
+        <translation>标签</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="82"/>
@@ -2711,12 +2711,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="83"/>
         <source>Value</source>
-        <translation>数值</translation>
+        <translation>值</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="84"/>
         <source>VR</source>
-        <translation>虚拟现实</translation>
+        <translation>值表示类型</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="85"/>
@@ -2729,48 +2729,48 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="14"/>
         <source>Patient Item</source>
-        <translation type="unfinished"></translation>
+        <translation>患者条目</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="50"/>
         <source>Patient Information   </source>
-        <translation type="unfinished"></translation>
+        <translation>患者信息   </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="101"/>
         <source>Servers:</source>
-        <translation type="unfinished"></translation>
+        <translation>关联服务器：</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="120"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>姓名：</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="143"/>
         <source>Birth Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>出生日期：</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="162"/>
         <source>Sex:</source>
-        <translation type="unfinished"></translation>
+        <translation>性别：</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMPatientItemWidget.ui" line="194"/>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID：</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="319"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="727"/>
         <source>UNDEFINED</source>
-        <translation type="unfinished"></translation>
+        <translation>未定义</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMPatientItemWidget.cpp" line="735"/>
         <source>Study</source>
-        <translation type="unfinished">研究</translation>
+        <translation>检查</translation>
     </message>
 </context>
 <context>
@@ -2778,7 +2778,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="20"/>
         <source>DICOM Query/Retrieve</source>
-        <translation>DICOM查询/检索</translation>
+        <translation>DICOM 查询/检索</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="26"/>
@@ -2805,7 +2805,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
         <source>Query DICOM servers</source>
-        <translation>查询DICOM服务器</translation>
+        <translation>查询 DICOM 服务器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
@@ -2822,13 +2822,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="304"/>
         <source>Retrieve from DICOM servers</source>
-        <translation>从DICOM服务器检索</translation>
+        <translation>从 DICOM 服务器检索</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="342"/>
         <source>Retrieving:
 %1</source>
-        <translation>检索：
+        <translation>正在检索：
 %1</translation>
     </message>
     <message>
@@ -2840,7 +2840,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="408"/>
         <source>Retrieve failed.  Keep trying?</source>
-        <translation>检索失败。  继续尝试？</translation>
+        <translation>检索失败。  是否继续尝试？</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="438"/>
@@ -2873,22 +2873,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="61"/>
         <source>Study</source>
-        <translation>研究</translation>
+        <translation>检查</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="64"/>
         <source>Search in Study Description</source>
-        <translation>在研究描述中搜索</translation>
+        <translation>在检查描述中搜索</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="74"/>
         <source>Series</source>
-        <translation>系列</translation>
+        <translation>序列</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="77"/>
         <source>Search in Series Description</source>
-        <translation>在系列描述中搜索</translation>
+        <translation>在序列描述中搜索</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="87"/>
@@ -2898,7 +2898,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="90"/>
         <source>Search by Person ID</source>
-        <translation>按个人ID搜索</translation>
+        <translation>按个人 ID 搜索</translation>
     </message>
 </context>
 <context>
@@ -2906,18 +2906,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="103"/>
         <source>Got move request</source>
-        <translation>收到移动请求</translation>
+        <translation>收到 MOVE 请求</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="134"/>
         <source>Got STORE request for %1</source>
         <extracomment>%1 is an instance UID</extracomment>
-        <translation>收到STORE的请求%1</translation>
+        <translation>收到 %1 的 STORE 请求</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="204"/>
         <source>Got CGET response</source>
-        <translation>得到CGET的答复</translation>
+        <translation>收到 C-GET 响应</translation>
     </message>
 </context>
 <context>
@@ -2925,18 +2925,19 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMSeriesItemWidget.ui" line="14"/>
         <source>Series Item</source>
-        <translation type="unfinished"></translation>
+        <translation>序列条目</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesItemWidget.cpp" line="513"/>
         <source>Series: %1
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>序列：%1
+%2</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMSeriesItemWidget.cpp" line="516"/>
         <source>Series: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>序列：%1</translation>
     </message>
 </context>
 <context>
@@ -2949,7 +2950,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="20"/>
         <source>Calling AETitle</source>
-        <translation>呼叫AETitle</translation>
+        <translation>调用端 AE 标题</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="30"/>
@@ -2959,7 +2960,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="37"/>
         <source>Storage AETitle</source>
-        <translation>存储AETitle</translation>
+        <translation>存储端 AE 标题</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="47"/>
@@ -2984,7 +2985,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="85"/>
         <source>AETitle</source>
-        <translation>AETitle</translation>
+        <translation>AE 标题</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="90"/>
@@ -2999,7 +3000,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="100"/>
         <source>CGET</source>
-        <translation>CGET</translation>
+        <translation>C-GET</translation>
     </message>
 </context>
 <context>
@@ -3007,139 +3008,139 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="14"/>
         <source>Server List</source>
-        <translation type="unfinished">服务器列表</translation>
+        <translation>服务器列表</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="41"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="245"/>
         <source>Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>存储服务</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="53"/>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>端口：</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="60"/>
         <source>11112</source>
-        <translation type="unfinished"></translation>
+        <translation>11112</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="74"/>
         <source>Enable:</source>
-        <translation type="unfinished"></translation>
+        <translation>启用：</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="113"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>状态：</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="132"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="1278"/>
         <source>Inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>未激活</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="155"/>
         <source>AETitle: </source>
-        <translation type="unfinished"></translation>
+        <translation>AE 标题： </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="162"/>
         <source>CTKSTORE</source>
-        <translation type="unfinished"></translation>
+        <translation>CTKSTORE</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="175"/>
         <source>Servers   </source>
-        <translation type="unfinished"></translation>
+        <translation>服务器   </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="230"/>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="235"/>
         <source>Verification</source>
-        <translation type="unfinished"></translation>
+        <translation>验证功能</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="240"/>
         <source>Query/Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>查询/检索功能</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="250"/>
         <source>Trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>授信主机</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="255"/>
         <source>Calling AETitle</source>
-        <translation type="unfinished">呼叫AETitle</translation>
+        <translation>调用端 AE 标题</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="260"/>
         <source>Called AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>被叫端 AE 标题</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="265"/>
         <source>Address</source>
-        <translation type="unfinished">地址</translation>
+        <translation>地址</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="270"/>
         <source>Port</source>
-        <translation type="unfinished">端口</translation>
+        <translation>端口</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="275"/>
         <source>Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>超时时长</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="280"/>
         <source>Retrieve Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>检索协议</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="285"/>
         <source>Retrieve Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>检索代理</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="307"/>
         <source> Add host</source>
-        <translation type="unfinished"></translation>
+        <translation> </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="324"/>
         <source> Verify host</source>
-        <translation type="unfinished"></translation>
+        <translation> 验证主机</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="341"/>
         <source> Remove host</source>
-        <translation type="unfinished"></translation>
+        <translation> 移除主机</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget2.ui" line="352"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复默认配置</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="378"/>
         <source>Apply changes  </source>
-        <translation type="unfinished"></translation>
+        <translation>应用修改  </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="381"/>
         <source>Discard changes</source>
-        <translation type="unfinished"></translation>
+        <translation>放弃修改</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMServerNodeWidget2.cpp" line="593"/>
@@ -3185,7 +3186,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMStorageListener.cpp" line="129"/>
         <source>Got STORE request for %1</source>
-        <translation type="unfinished">收到STORE的请求%1</translation>
+        <translation>收到 %1 的 STORE 请求</translation>
     </message>
 </context>
 <context>
@@ -3193,17 +3194,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMStudyItemWidget.ui" line="14"/>
         <source>Study Item</source>
-        <translation type="unfinished"></translation>
+        <translation>检查条目</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMStudyItemWidget.ui" line="110"/>
         <source>Series</source>
-        <translation type="unfinished">系列</translation>
+        <translation>序列</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMStudyItemWidget.cpp" line="250"/>
         <source>UNDEFINED</source>
-        <translation type="unfinished"></translation>
+        <translation>未定义</translation>
     </message>
 </context>
 <context>
