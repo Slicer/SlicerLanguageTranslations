@@ -777,12 +777,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="53"/>
         <source>&amp;File</source>
-        <translation>&amp;文件</translation>
+        <translation>文件(&amp;L)</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="61"/>
         <source>&amp;Module</source>
-        <translation>＆模块</translation>
+        <translation>模块(&amp;M)</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="78"/>
@@ -837,7 +837,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="384"/>
         <source>&amp;Cancel</source>
-        <translation>＆取消</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="387"/>
@@ -852,7 +852,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="395"/>
         <source>&amp;Load Modules...</source>
-        <translation>&amp;加载模块…</translation>
+        <translation>加载模块(&amp;L)…</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="398"/>
@@ -867,12 +867,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="406"/>
         <source>E&amp;xit</source>
-        <translation>E&amp;xit</translation>
+        <translation>退出(&amp;X)</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="418"/>
         <source>&amp;Pause</source>
-        <translation>&amp;暂停</translation>
+        <translation>暂停(&amp;P)</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="421"/>
@@ -887,7 +887,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="429"/>
         <source>&amp;Options...</source>
-        <translation>＆选项…</translation>
+        <translation>选项(&amp;O)…</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="434"/>
@@ -1152,7 +1152,7 @@ due to:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="140"/>
         <source>&amp;Run file</source>
-        <translation>运行文件</translation>
+        <translation>运行文件(&amp;R)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="141"/>
@@ -1162,7 +1162,7 @@ due to:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="145"/>
         <source>Print &amp;help</source>
-        <translation>打印&amp;帮助</translation>
+        <translation>打印帮助(&amp;H)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="146"/>
@@ -1172,7 +1172,7 @@ due to:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="151"/>
         <source>&amp;Run script from file</source>
-        <translation>&amp;从文件运行脚本</translation>
+        <translation>从文件运行脚本(&amp;R)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1371"/>
@@ -4055,32 +4055,32 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="37"/>
         <source>&amp;All</source>
-        <translation>&amp;全部</translation>
+        <translation>全部(&amp;A)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="47"/>
         <source>&amp;Errors</source>
-        <translation>&amp;错误</translation>
+        <translation>错误(&amp;E)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="57"/>
         <source>&amp;Warnings</source>
-        <translation>&amp;警告</translation>
+        <translation>警告(&amp;W)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="67"/>
         <source>&amp;Messages</source>
-        <translation>&amp;信息</translation>
+        <translation>信息(&amp;M)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="84"/>
         <source>&amp;Clear</source>
-        <translation>&amp;清除</translation>
+        <translation>清除(&amp;C)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkErrorLogWidget.cpp" line="72"/>
         <source>Select messages in the list to see details here.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择列表中的消息，在此处查看详细信息。</translation>
     </message>
 </context>
 <context>
@@ -6626,12 +6626,12 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="113"/>
         <source>&amp;File</source>
-        <translation>&amp;文件</translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="122"/>
         <source>&amp;Quit</source>
-        <translation>&amp;退出</translation>
+        <translation>退出(&amp;Q)</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="91"/>
