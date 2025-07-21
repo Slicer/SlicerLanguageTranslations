@@ -327,7 +327,7 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="4"/>
         <source>Execution Model Tour</source>
-        <translation type="unfinished">执行模型功能演示</translation>
+        <translation>执行模型功能导览</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="5"/>
@@ -348,8 +348,8 @@ Configurable behaviour for testing purposes.
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished">
-    标量参数变体
+        <translation>
+    标量参数波动
     </translation>
     </message>
     <message>
@@ -398,7 +398,7 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="15"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>向量参数的波动</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="16"/>
@@ -428,7 +428,7 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="21"/>
         <source>Variations on enumeration parameters</source>
-        <translation type="unfinished">枚举参数的变体</translation>
+        <translation>枚举参数的波动</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="22"/>
@@ -1575,7 +1575,7 @@ Do you want to remove the series from the DICOM database?</oldsource>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1113"/>
         <source>(and %1 more)</source>
-        <translation type="unfinished"></translation>
+        <translation>（及其他 %1 项）</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1145"/>
@@ -1899,67 +1899,67 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="869"/>
         <source>Head First - Prone</source>
-        <translation>头部着地--俯卧</translation>
+        <translation>头先进 - 俯卧位</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="870"/>
         <source>Head First - Decubitus Right</source>
-        <translation>头部先着地 - 右侧卧位</translation>
+        <translation>头先进 - 右侧卧位</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="871"/>
         <source>Feet First - Decubitus Right</source>
-        <translation>脚先着地--右卧位</translation>
+        <translation>足先进 - 右侧卧位</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="872"/>
         <source>Feet First - Prone</source>
-        <translation>脚先着地--俯卧</translation>
+        <translation>足先进 - 俯卧位</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="873"/>
         <source>Head First - Supine</source>
-        <translation>头先 - 仰卧</translation>
+        <translation>头先进 - 仰卧位</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="874"/>
         <source>Head First - Decubitus Left</source>
-        <translation>头部先着地--左侧卧位</translation>
+        <translation>头先进 - 左侧卧位</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="875"/>
         <source>Feet First - Decubitus Left</source>
-        <translation>脚先着地-左侧卧位</translation>
+        <translation>足先进 - 左侧卧位</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="876"/>
         <source>Feet First - Supine</source>
-        <translation>脚先着地-仰卧</translation>
+        <translation>足先进 - 仰卧位</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="897"/>
         <source>Computed Radiography</source>
-        <translation>计算放射学</translation>
+        <translation>计算机放射成像</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="898"/>
         <source>Computed Tomography</source>
-        <translation>CT检查</translation>
+        <translation>计算机断层扫描</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="899"/>
         <source>Magnetic Resonance</source>
-        <translation>磁共振</translation>
+        <translation>磁共振成像</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="900"/>
         <source>Nuclear Medicine</source>
-        <translation>核医学</translation>
+        <translation>核医学成像</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="901"/>
         <source>Ultrasound</source>
-        <translation>超声波</translation>
+        <translation>超声成像</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="902"/>
@@ -1974,17 +1974,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="904"/>
         <source>Color flow Doppler</source>
-        <translation>彩流多普勒</translation>
+        <translation>彩色多普勒</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="905"/>
         <source>Duplex Doppler</source>
-        <translation>双相多普勒</translation>
+        <translation>双功多普勒</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="906"/>
         <source>Endoscopy</source>
-        <translation>内窥镜检查</translation>
+        <translation>透照成像</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="907"/>
@@ -1994,12 +1994,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="908"/>
         <source>Positron emission tomography (PET)</source>
-        <translation>正电子发射断层扫描（PET）</translation>
+        <translation>正电子发射断层成像（PET）</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="909"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation>放射性成像（传统胶片/屏幕）</translation>
+        <translation>放射成像（传统胶片/屏）</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="910"/>
@@ -2014,37 +2014,37 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="912"/>
         <source>X-Ray Aniography</source>
-        <translation>X-射线照相术</translation>
+        <translation>X 射线血管造影</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="913"/>
         <source>Radio Fluoroscopy</source>
-        <translation>无线电透视检查</translation>
+        <translation>放射透视</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="914"/>
         <source>Radiotherapy Image</source>
-        <translation>放疗图像</translation>
+        <translation>放射治疗影像</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="915"/>
         <source>Radiotherapy Dose</source>
-        <translation>放疗剂量</translation>
+        <translation>放射治疗剂量</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="916"/>
         <source>Radiotherapy Structure Set</source>
-        <translation>放射治疗的结构设置</translation>
+        <translation>放射治疗结构集</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="917"/>
         <source>Radiotherapy Plan</source>
-        <translation>放疗计划</translation>
+        <translation>放射治疗计划</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="918"/>
         <source>RT Treatment Record</source>
-        <translation>RT治疗记录</translation>
+        <translation>放射治疗记录</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="919"/>
@@ -2059,22 +2059,22 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="921"/>
         <source>Mammography</source>
-        <translation>乳房X光检查</translation>
+        <translation>乳腺 X 光摄影</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="922"/>
         <source>Intra-oral Radiography</source>
-        <translation>口内放射摄影</translation>
+        <translation>口内 X 光摄影</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="923"/>
         <source>Panoramic X-Ray</source>
-        <translation>全景X射线</translation>
+        <translation>全景 X 光</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="924"/>
         <source>General Microscopy</source>
-        <translation>普通显微镜</translation>
+        <translation>通用显微镜</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="925"/>
@@ -2084,12 +2084,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="926"/>
         <source>External-camera Photography</source>
-        <translation>外置摄像头摄影</translation>
+        <translation>外置相机摄影</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="927"/>
         <source>Presentation state</source>
-        <translation>演示状态</translation>
+        <translation>呈现状态</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="928"/>
@@ -2099,7 +2099,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="929"/>
         <source>Electrocardiography</source>
-        <translation>心电图学</translation>
+        <translation>心电图</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="930"/>
@@ -2109,17 +2109,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="931"/>
         <source>Hemodynamic Waveform</source>
-        <translation>血液动力学波形</translation>
+        <translation>血流动力学波形</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="932"/>
         <source>SR Document</source>
-        <translation>SR文件</translation>
+        <translation>结构化报告</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="933"/>
         <source>Intravascular Ultrasound</source>
-        <translation>血管内超声检查</translation>
+        <translation>血管内超声</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="934"/>
@@ -2134,12 +2134,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="936"/>
         <source>Optical Coherence Tomography (non-Ophthalmic)</source>
-        <translation>光学相干断层扫描(非眼科)</translation>
+        <translation>光学相干断层成像（非眼科）</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="937"/>
         <source>Ophthalmic Refraction</source>
-        <translation>眼科屈光</translation>
+        <translation>眼科屈光度</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="938"/>
@@ -2149,7 +2149,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="939"/>
         <source>Ophthalmic Mapping</source>
-        <translation>眼科测绘</translation>
+        <translation>眼科地形图</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="940"/>
@@ -2159,12 +2159,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="941"/>
         <source>Segmentation</source>
-        <translation>分割</translation>
+        <translation>分割结果</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="942"/>
         <source>Registration</source>
-        <translation>配准</translation>
+        <translation>配准结果</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="943"/>
@@ -2174,12 +2174,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="944"/>
         <source>Bone Densitometry (ultrasound)</source>
-        <translation>骨质密度测量（超声检查）</translation>
+        <translation>骨密度检测（超声）</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="945"/>
         <source>Bone Densitometry (X-Ray)</source>
-        <translation>骨质密度测量（X-射线）</translation>
+        <translation>骨密度检测（X 射线）</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="946"/>
@@ -2194,7 +2194,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="950"/>
         <source>Cinefluorography</source>
-        <translation>荧光幕</translation>
+        <translation>电影荧光摄影</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="951"/>
@@ -2209,7 +2209,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="953"/>
         <source>Angioscopy</source>
-        <translation>血管镜检查</translation>
+        <translation>血管内窥镜</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="954"/>
@@ -2249,12 +2249,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="961"/>
         <source>Magnetic resonance angiography</source>
-        <translation>磁共振血管造影</translation>
+        <translation>磁共振血管成像</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="962"/>
         <source>Magnetic resonance spectroscopy</source>
-        <translation>磁共振光谱学</translation>
+        <translation>磁共振波谱</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="993"/>
@@ -4088,7 +4088,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="161"/>
         <source>Event notification for TOPIC: %1</source>
-        <translation type="unfinished">主题 %1 的事件通知%1</translation>
+        <translation>主题 %1 的事件通知</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="217"/>
@@ -4568,17 +4568,17 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="14"/>
         <source>Modality</source>
-        <translation>模式</translation>
+        <translation>模态</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="23"/>
         <source>Any</source>
-        <translation>任何</translation>
+        <translation>全部</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="30"/>
         <source>Computed Radiography</source>
-        <translation>计算放射学</translation>
+        <translation>计算机放射成像</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="33"/>
@@ -4588,7 +4588,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="40"/>
         <source>Computed Tomography</source>
-        <translation>CT 检查</translation>
+        <translation>计算机断层扫描</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="43"/>
@@ -4598,7 +4598,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="50"/>
         <source>Magnetic Resonance</source>
-        <translation>磁共振</translation>
+        <translation>磁共振成像</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="53"/>
@@ -4608,7 +4608,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="60"/>
         <source>Nuclear Medicine</source>
-        <translation>核医学</translation>
+        <translation>核医学成像</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="63"/>
@@ -4618,12 +4618,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="70"/>
         <source>Ultrasound</source>
-        <translation>超声波</translation>
+        <translation>超声成像</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="73"/>
         <source>US</source>
-        <translation>美国</translation>
+        <translation>US</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="80"/>
@@ -4648,7 +4648,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="100"/>
         <source>Color flow Doppler</source>
-        <translation>彩流多普勒</translation>
+        <translation>彩色多普勒</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="103"/>
@@ -4658,7 +4658,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="110"/>
         <source>Duplex Doppler</source>
-        <translation>双相多普勒</translation>
+        <translation>双功多普勒</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="113"/>
@@ -4668,7 +4668,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="120"/>
         <source>Diaphanography</source>
-        <translation>绘画</translation>
+        <translation>透照成像</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="123"/>
@@ -4678,7 +4678,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="130"/>
         <source>Endoscopy</source>
-        <translation>内窥镜检查</translation>
+        <translation>内窥镜成像</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="133"/>
@@ -4698,7 +4698,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="150"/>
         <source>Positron emission tomography (PET)</source>
-        <translation>正电子发射断层扫描（PET）</translation>
+        <translation>正电子发射断层成像（PET）</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="153"/>
@@ -4708,7 +4708,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="160"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation>放射性成像（传统胶片/屏幕）</translation>
+        <translation>放射成像（传统胶片/屏）</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="163"/>
@@ -4718,7 +4718,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="170"/>
         <source>Single-photon emission computed tomography (SPECT)</source>
-        <translation>单光子发射计算机断层扫描（SPECT）</translation>
+        <translation>单光子发射计算机断层成像（SPECT）</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="173"/>
@@ -4738,7 +4738,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="190"/>
         <source>X-Ray Angiography</source>
-        <translation>X射线血管造影</translation>
+        <translation>X 射线血管造影</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="193"/>
@@ -4748,7 +4748,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="200"/>
         <source>Radio Fluoroscopy</source>
-        <translation>无线电透视检查</translation>
+        <translation>放射透视</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="203"/>
@@ -4758,7 +4758,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="210"/>
         <source>Radiotherapy Image</source>
-        <translation>放疗图像</translation>
+        <translation>放射治疗影像</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="213"/>
@@ -4768,7 +4768,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="220"/>
         <source>Radiotherapy Dose</source>
-        <translation>放疗剂量</translation>
+        <translation>放射治疗剂量</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="223"/>
@@ -4778,7 +4778,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="230"/>
         <source>Radiotherapy Structure Set</source>
-        <translation>放射治疗的结构设置</translation>
+        <translation>放射治疗结构集</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="233"/>
@@ -4788,7 +4788,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="240"/>
         <source>Radiotherapy Plan</source>
-        <translation>放疗计划</translation>
+        <translation>放射治疗计划</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="243"/>
@@ -4798,7 +4798,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="250"/>
         <source>RT Treatment Record</source>
-        <translation>RT治疗记录</translation>
+        <translation>放射治疗记录</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="253"/>
@@ -4818,7 +4818,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="270"/>
         <source>Digital Radiography</source>
-        <translation>数字化放射成像</translation>
+        <translation>数字放射成像</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="273"/>
@@ -4828,7 +4828,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="280"/>
         <source>Mammography</source>
-        <translation>乳房X光检查</translation>
+        <translation>乳腺 X 光摄影</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="283"/>
@@ -4838,7 +4838,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="290"/>
         <source>Intra-oral Radiography</source>
-        <translation>口内放射摄影</translation>
+        <translation>口内 X 光摄影</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="293"/>
@@ -4848,7 +4848,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="300"/>
         <source>Panoramic X-Ray</source>
-        <translation>全景X射线</translation>
+        <translation>全景 X 光</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="303"/>
@@ -4858,7 +4858,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="310"/>
         <source>General Microscopy</source>
-        <translation>普通显微镜</translation>
+        <translation>通用显微镜</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="313"/>
@@ -4878,7 +4878,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="330"/>
         <source>External-camera Photography</source>
-        <translation>外置摄像头摄影</translation>
+        <translation>外置相机摄影</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="333"/>
@@ -4888,7 +4888,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="340"/>
         <source>Presentation State</source>
-        <translation>演示状态</translation>
+        <translation>呈现状态</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="343"/>
@@ -4908,7 +4908,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="360"/>
         <source>Electrocardiography</source>
-        <translation>心电图学</translation>
+        <translation>心电图</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="363"/>
@@ -4918,7 +4918,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="370"/>
         <source>Cardiac Electrophysiology</source>
-        <translation>心脏电生理学</translation>
+        <translation>心脏电生理</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="373"/>
@@ -4938,7 +4938,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="390"/>
         <source>SR Document</source>
-        <translation>SR文件</translation>
+        <translation>结构化报告</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="393"/>
@@ -4948,7 +4948,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="400"/>
         <source>Intravascular Ultrasound</source>
-        <translation>血管内超声检查</translation>
+        <translation>血管内超声</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="403"/>
@@ -4978,7 +4978,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="430"/>
         <source>Optical Coherence Tomography</source>
-        <translation>光学相干断层扫描</translation>
+        <translation>光学相干断层成像</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="433"/>
@@ -4988,7 +4988,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="440"/>
         <source>Ophthalmic Refraction</source>
-        <translation>眼科屈光</translation>
+        <translation>眼科屈光度</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="443"/>
@@ -5008,7 +5008,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="460"/>
         <source>Ophthalmic Mapping</source>
-        <translation>眼科测绘</translation>
+        <translation>眼科地形图</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="463"/>
@@ -5028,7 +5028,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="480"/>
         <source>Segmentation</source>
-        <translation>分割</translation>
+        <translation>分割结果</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="483"/>
@@ -5038,7 +5038,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="490"/>
         <source>Registration</source>
-        <translation>配准</translation>
+        <translation>配准结果</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="493"/>
@@ -5131,11 +5131,11 @@ to path
 %2
 
 Please check your permissions.</source>
-        <translation>无法更改路径：
+        <translation>无法将路径：
 
 %1
 
-到路径
+更改到
 
 %2
 
@@ -5373,17 +5373,17 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="74"/>
         <source>Lazy</source>
-        <translation>Lazy</translation>
+        <translation>延迟加载</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="79"/>
         <source>Eager</source>
-        <translation>Eager</translation>
+        <translation>立即加载</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="87"/>
         <source>Advanced</source>
-        <translation>高级</translation>
+        <translation>高级选项</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="105"/>
@@ -5393,7 +5393,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="115"/>
         <source>Activator class name</source>
-        <translation>激活器类名称</translation>
+        <translation>激活器类名</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="125"/>
@@ -5409,12 +5409,12 @@ Please check your permissions.</source>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="35"/>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="47"/>
         <source>Main</source>
-        <translation>主要的</translation>
+        <translation>主配置</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="94"/>
         <source>Advanced (activator class: %1)</source>
-        <translation>高级 (激活器类:%1)</translation>
+        <translation>高级（激活器类：%1）</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="102"/>
@@ -5460,7 +5460,15 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="278"/>
@@ -5473,7 +5481,15 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Preview&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Preview&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="370"/>
@@ -5522,7 +5538,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="14"/>
         <source>Manifest</source>
-        <translation>表现形式</translation>
+        <translation>清单配置</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="29"/>
@@ -5577,7 +5593,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="124"/>
         <source>Doc URL</source>
-        <translation>文件网址</translation>
+        <translation>文档链接</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="131"/>
@@ -5587,12 +5603,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="161"/>
         <source>Lazy</source>
-        <translation>Lazy</translation>
+        <translation>延迟加载</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
         <source>Eager</source>
-        <translation>Eager</translation>
+        <translation>立即加载</translation>
     </message>
 </context>
 <context>
@@ -5613,32 +5629,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="100"/>
         <source>UNINSTALLED</source>
-        <translation>卸载</translation>
+        <translation>未安装</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="101"/>
         <source>INSTALLED</source>
-        <translation>安装</translation>
+        <translation>已安装</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="102"/>
         <source>RESOLVED</source>
-        <translation>解决</translation>
+        <translation>已解析</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="103"/>
         <source>STARTING</source>
-        <translation>开始</translation>
+        <translation>启动中</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="104"/>
         <source>STOPPING</source>
-        <translation>停止</translation>
+        <translation>停止中</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="105"/>
         <source>ACTIVE</source>
-        <translation type="unfinished">激活的</translation>
+        <translation>已激活</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="115"/>
@@ -5651,7 +5667,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="641"/>
         <source>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Contributed by: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quit  &lt;em&gt;h&lt;/em&gt;: display this help  &lt;em&gt;i&lt;/em&gt;: invert intensities  &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom  &lt;em&gt;x y&lt;/em&gt;: flip along the x / y axis  &lt;em&gt;r&lt;/em&gt;: reset to initial conditions  &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: change to next / previous slice&lt;h3&gt;Mouse commands:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: window and level  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: center</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;CTK 简易影像查看器控件&lt;/h1&gt;由 Kitware, Inc. 贡献&lt;br&gt;&lt;h3&gt;键盘指令：&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;：退出  &lt;em&gt;h&lt;/em&gt;：显示本帮助  &lt;em&gt;i&lt;/em&gt;：反转灰度  &lt;em&gt;[ ]&lt;/em&gt;：增大/缩小缩放比例  &lt;em&gt;x y&lt;/em&gt;：沿 X/Y 轴翻转  &lt;em&gt;r&lt;/em&gt;：重置初始状态  &lt;em&gt;空格键&lt;/em&gt;：切换光标连续追踪  &lt;em&gt;上下方向键&lt;/em&gt;：切换下一张/上一张切片  &lt;h3&gt;鼠标指令：&lt;/h3&gt;   &lt;em&gt;左键&lt;/em&gt;：窗宽窗位调节  &lt;em&gt;中键&lt;/em&gt;：缩放操作  &lt;em&gt;右键&lt;/em&gt;：居中视图</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1052"/>
@@ -6178,7 +6194,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="67"/>
         <source>Size issue ...</source>
-        <translation type="unfinished">尺寸问题…</translation>
+        <translation>尺寸异常…</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="68"/>
@@ -6682,17 +6698,17 @@ Do you want to renew the session?</source>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="3"/>
         <source>Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>影像过滤器</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="3"/>
         <source>Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>测试模块</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="3"/>
         <source>Tours</source>
-        <translation type="unfinished"></translation>
+        <translation>功能导览</translation>
     </message>
 </context>
 </TS>
