@@ -4080,7 +4080,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkErrorLogWidget.cpp" line="72"/>
         <source>Select messages in the list to see details here.</source>
-        <translation>选择列表中的消息，在此处查看详细信息。</translation>
+        <translation>选择列表中消息以查看详情。</translation>
     </message>
 </context>
 <context>
@@ -4088,12 +4088,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="161"/>
         <source>Event notification for TOPIC: %1</source>
-        <translation>主题的事件通知： %1</translation>
+        <translation type="unfinished">主题 %1 的事件通知%1</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="217"/>
         <source>Server can not start. Create it first, then call startListen again!!</source>
-        <translation>服务器不能启动。先创建它，然后再调用startListen！!</translation>
+        <translation>服务器无法启动。请先创建实例，再重新调用 startListen！</translation>
     </message>
 </context>
 <context>
@@ -4293,27 +4293,27 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="814"/>
         <source>started</source>
-        <translation type="unfinished"></translation>
+        <translation>已启动</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="832"/>
         <source>user stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>用户中止</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="862"/>
         <source>finished</source>
-        <translation type="unfinished"></translation>
+        <translation>已完成</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="892"/>
         <source>attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试失败</translation>
     </message>
     <message>
         <location filename="Libs/Core/ctkJobScheduler.cpp" line="922"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>已失败</translation>
     </message>
 </context>
 <context>
@@ -4321,27 +4321,27 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="29"/>
         <source>CTK Metatype Service - CommonTK Implementation</source>
-        <translation>CTK元类型服务 - CommonTK实现</translation>
+        <translation>CTK 元类型服务 - CommonTK 实现</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="31"/>
         <source>Unexpected element %1.</source>
-        <translation>意外的元素%1 。</translation>
+        <translation>意外元素 %1。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="32"/>
         <source>Unexpected text %1.</source>
-        <translation>意外的文本%1 。</translation>
+        <translation>意外文本%1。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="33"/>
         <source>Missing attribute %1 in tag %2.</source>
-        <translation>标签%2 中缺少属性%1 。</translation>
+        <translation>标签 %2 中缺少属性 %1。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="34"/>
         <source>Object Class Definition ID not found %1.</source>
-        <translation>未找到对象类定义ID%1 。</translation>
+        <translation>未找到对象类定义 ID %1。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="35"/>
@@ -4351,17 +4351,17 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="36"/>
         <source>Missing element %1 (Reference ID = %2.)</source>
-        <translation>缺少元素%1 (参考编号 =%2. )</translation>
+        <translation>缺失元素 %1（引用 ID = %2。）</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="38"/>
         <source>Unexpected exception %1 with message %2.</source>
-        <translation>出现意外异常 %1，显示消息 %2。</translation>
+        <translation>意外异常 %1：%2。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="39"/>
         <source>Cannot validate an empty value.</source>
-        <translation>无法验证一个空值。</translation>
+        <translation>无法验证空值。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="40"/>
@@ -4371,52 +4371,52 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="41"/>
         <source>Value %1 is out of Option.</source>
-        <translation>值 %1 不在选项中。</translation>
+        <translation>值 %1 不在可选范围内。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="42"/>
         <source>Found too many values in %1 when expecting %2 values.</source>
-        <translation>在%1 中发现了太多的值，而预期是%2 值。</translation>
+        <translation>在 %1 中发现过多值（预期 %2 个值）。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="43"/>
         <source>Cannot set Option labels or values empty.</source>
-        <translation>不能将选项标签或值设置为空。</translation>
+        <translation>选项标签或值不可设置为空。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="44"/>
         <source>Labels and Values of Option have different sizes.</source>
-        <translation>选项的标签和值有不同的尺寸。</translation>
+        <translation>选项标签与值数量不一致。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="45"/>
         <source>Option value %1 is invalid because of %2.</source>
-        <translation>由于%2 ，选项值%1 是无效的。</translation>
+        <translation>选项值 %1 无效：%2。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="46"/>
         <source>Defaults value %1 is invalid because of %2.</source>
-        <translation>默认值%1 是无效的，因为%2 。</translation>
+        <translation>默认值 %1 无效：%2。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="48"/>
         <source>Plugin(ID=&quot;%1&quot;, name=&quot;%2&quot;) has no MetaData file.</source>
-        <translation>插件（ID=“%1”， name=“%2”） 没有元数据文件。</translation>
+        <translation>插件（ID=“%1”，名称=“%2”）无元数据文件。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="49"/>
         <source>OCD(ID=&quot;%1&quot;) cannot support this locale &quot;%2&quot;.</source>
-        <translation>OCD(ID=&quot;%1&quot;)不能支持这个地区语言 &quot;%2&quot;。</translation>
+        <translation>OCD（ID=“%1”）不支持本地化设置“%2”。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="50"/>
         <source>The Tokenizer got invalid data.</source>
-        <translation>代序器得到了无效的数据。</translation>
+        <translation>分词器收到无效数据。</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="51"/>
         <source>Plugin %1 with ID %2 provided a ctkMetaTypeProvider with an invalid property. Property %3 with value %4 was not of the expected type (QString or QStringList) and will be ignored.</source>
-        <translation>ID为%2 的插件%1 提供了一个带有无效属性的ctkMetaTypeProvider。属性%3 ，其值为%4 ，不属于预期类型（QString或QStringList），将被忽略。</translation>
+        <translation>插件 %1（ID %2）提供的 ctkMetaTypeProvider 包含无效属性。属性 %3（值 %4）不符合预期类型（QString 或 QStringList），将被忽略。</translation>
     </message>
 </context>
 <context>
@@ -4424,12 +4424,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="14"/>
         <source>Material Property</source>
-        <translation>材料属性</translation>
+        <translation>材质属性</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="35"/>
         <source>Color:</source>
-        <translation>颜色:</translation>
+        <translation>颜色：</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="65"/>
@@ -4439,7 +4439,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="85"/>
         <source>Ambient:</source>
-        <translation>环境：</translation>
+        <translation>环境光：</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="102"/>
@@ -4454,17 +4454,17 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="139"/>
         <source>Specular power</source>
-        <translation>镜面反射功率</translation>
+        <translation>镜面反射强度</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="142"/>
         <source>Power:</source>
-        <translation>Power:</translation>
+        <translation>强度：</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="165"/>
         <source>Backface Culling:</source>
-        <translation>背面删减：</translation>
+        <translation>背面剔除：</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="179"/>
@@ -4474,12 +4474,12 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="211"/>
         <source>Presets:</source>
-        <translation>预设：</translation>
+        <translation>预设方案：</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="260"/>
         <source>Metallic:</source>
-        <translation>金属：</translation>
+        <translation>金属度：</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="267"/>
@@ -4489,47 +4489,47 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="294"/>
         <source>Mode:</source>
-        <translation>模式：</translation>
+        <translation>渲染模式：</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="308"/>
         <source>Flat</source>
-        <translation>平的</translation>
+        <translation>平面着色</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="313"/>
         <source>Gouraud</source>
-        <translation>Gouraud</translation>
+        <translation>高洛德着色</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="318"/>
         <source>Phong</source>
-        <translation>Phong</translation>
+        <translation>冯氏着色</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="323"/>
         <source>PBR</source>
-        <translation>PBR</translation>
+        <translation>基于物理渲染</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="106"/>
         <source>Full ambient eliminating all directional shading.</source>
-        <translation>完全的环境消除了所有的方向性遮挡。</translation>
+        <translation>全环境光模式（消除所有方向性阴影）。</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="107"/>
         <source>Dull material properties (no specular lighting).</source>
-        <translation>暗淡的材质属性（无镜面照明）。</translation>
+        <translation>哑光材质（无镜面反射）。</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="108"/>
         <source>Smooth material properties (moderate specular lighting).</source>
-        <translation>平滑的材料属性（适度的镜面照明）。</translation>
+        <translation>光滑材质（中等镜面反射）。</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="109"/>
         <source>Shiny material properties (high specular lighting).</source>
-        <translation>闪亮的材料属性（高镜面反射照明）。</translation>
+        <translation>高光材质（强镜面反射）。</translation>
     </message>
 </context>
 <context>
@@ -4588,7 +4588,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="40"/>
         <source>Computed Tomography</source>
-        <translation>CT检查</translation>
+        <translation>CT 检查</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="43"/>
