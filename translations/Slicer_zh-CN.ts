@@ -127,12 +127,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation>T1/T2图像中的脑部损坏（BRAINS）</translation>
+        <translation>基于 T1/T2 图像的脑部匿名化处理（BRAINS）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation>这个程序：1）将从一组图像中损坏图像。  输入必须与ACPC对齐，并提供AC、PC、LE、RE。</translation>
+        <translation>本程序功能：1）对一组图像执行匿名化处理。输入必须为 ACPC 对齐图像，且需提供 AC、PC、LE、RE 点坐标。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
         <source>Landmarks File</source>
-        <translation>标志文件</translation>
+        <translation>解剖标志点文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
