@@ -137,7 +137,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
         <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
-        <translation>这项工作由爱荷华大学电气和计算机工程系开发。</translation>
+        <translation>本工作由爱荷华大学电气与计算机工程系开发。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
@@ -147,7 +147,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
         <source>First Image, Second Image and Mask Image</source>
-        <translation>第一图像、第二图像和图像</translation>
+        <translation>主图像、辅图像与掩膜图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
         <source>Source Passive Images Image</source>
-        <translation>来源于被动图像的图像</translation>
+        <translation>源被动图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
@@ -172,33 +172,33 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
         <source>Input Landmark File with LE, and RE points defined in physical locations</source>
-        <translation>输入具有在物理位置中定义的 LE 和 RE 点的标志文件</translation>
+        <translation>输入包含 LE 和 RE 点物理坐标的解剖标志点文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
         <source>Input images, all images must be in the exact same physical space, ACPC aligned and consistent with landmarks.</source>
-        <translation>输入图像，所有的图像必须处于完全相同的物理空间，ACPC对齐并与地标一致。</translation>
+        <translation>输入图像：所有图像必须处于完全相同的物理空间，ACPC 对齐且与标志点一致。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
         <source>Input images not used in generating masks, all images must be in the exact same physical space as inputVolumes, ACPC aligned and consistent with landmarks.</source>
-        <translation>输入图像未用于生成蒙版，所有图像必须与输入数据处于完全相同的物理空间，ACPC 对齐并与地标一致。</translation>
+        <translation>未用于生成掩膜的输入图像：所有图像必须与输入体积处于完全相同的物理空间，ACPC 对齐并与标志点一致。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
         <source>Optional pre-generated mask to use.</source>
-        <translation>使用可选的预生成蒙版。</translation>
+        <translation>可选的预生成掩膜。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="20"/>
         <source>blur</source>
-        <translation>模糊</translation>
+        <translation>模糊处理</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="19"/>
         <source>zero</source>
-        <translation>零</translation>
+        <translation>零值填充</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="21"/>
@@ -208,12 +208,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
         <source>Outputs from both MUSH generation and brain volume mask creation</source>
-        <translation>MUSH生成和脑数据蒙版创建的输出结果</translation>
+        <translation>MUSH 生成与脑容积掩膜创建的双重输出</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="23"/>
         <source>brain volume mask</source>
-        <translation>脑数据蒙版</translation>
+        <translation>脑容积掩膜</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
@@ -223,12 +223,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
         <source>The brain volume mask generated from the MUSH image</source>
-        <translation>从MUSH图像中生成的脑数据蒙版</translation>
+        <translation>从 MUSH 图像生成的脑容积掩膜</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="26"/>
         <source>The output directory to writing the defaced input files</source>
-        <translation>用于写入损坏输入文件的输出目录</translation>
+        <translation>用于写入匿名化后输入文件的输出目录</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
@@ -238,37 +238,37 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
         <source>Modify the program to only generate a mask</source>
-        <translation>修改程序，只生成一个蒙版</translation>
+        <translation>修改程序仅生成掩膜</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
         <source>No Mask Application</source>
-        <translation>无蒙版应用</translation>
+        <translation>不应用掩膜</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation>不要对用于生成蒙版的输入图像应用蒙版</translation>
+        <translation>不将掩膜应用于用于生成掩膜的输入图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
         <source>Output Image Intensity Normalization</source>
-        <translation>输出图像强度标准化</translation>
+        <translation>输出图像强度归一化</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
         <source>Parameters for normalizing the output images.</source>
-        <translation>用于输出图像标准化的参数。</translation>
+        <translation>输出图像归一化参数。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
         <source>Upper Percentile</source>
-        <translation>上百分位数</translation>
+        <translation>上限百分位</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="34"/>
         <source>Lower Percentile</source>
-        <translation>下百分位数</translation>
+        <translation>下限百分位</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="35"/>
@@ -286,7 +286,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
         <source>Relative Scaling</source>
-        <translation>相对比例</translation>
+        <translation>相对缩放</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
@@ -296,22 +296,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
         <source>Upper Intensity Percentile (0.99 default)</source>
-        <translation>上强度百分位数（默认值 0.99）</translation>
+        <translation>强度上限百分位（默认值 0.99）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="41"/>
         <source>Lower Intensity Percentile (0.01 default)</source>
-        <translation>低强度百分位数（默认为0.01）</translation>
+        <translation>强度下限百分位（默认为0.01）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation>不要将此范围之外的值裁剪为“外部值”</translation>
+        <translation>不将超出范围的值裁剪为“外部值”</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
         <source>Do not scale to the relative percentiles of the output scale</source>
-        <translation>不要缩放到输出比例的相对百分位数</translation>
+        <translation>不按输出范围的相对百分位进行缩放</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
@@ -324,7 +324,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation>一般配准 (BRAINS)</translation>
+        <translation>通用配准（BRAINS）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
