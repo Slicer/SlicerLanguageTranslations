@@ -16,7 +16,7 @@
     <message>
         <location filename="TutorialMaker/Lib/Annotations.py" line="332"/>
         <source>Write something here</source>
-        <translation type="unfinished"></translation>
+        <translation>Écrivez quelque chose ici</translation>
     </message>
 </context>
 <context>
