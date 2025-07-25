@@ -22,8 +22,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-Este archivo fue originalmente desarrollado por Jean-Christophe Fillion-Robin, Kitware Inc  
-y Steve Pieper, Isomics, Inc. y fue parcialmente financiado por la beca 3P41RR013218-12S1 del NIH.
+This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.  
+and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </translation>
     </message>
     <message>
