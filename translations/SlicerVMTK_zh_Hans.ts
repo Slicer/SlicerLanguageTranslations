@@ -253,37 +253,37 @@ Isomics 公司的 Steve Pieper 共同开发，部分资金来源于美国国立�
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="255"/>
         <source>Branch_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>分支曲线</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="267"/>
         <source>Creating centerlines</source>
-        <translation type="unfinished"></translation>
+        <translation>创建中心线</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="270"/>
         <source>Centerline_Model</source>
-        <translation type="unfinished"></translation>
+        <translation>中心线模型</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="273"/>
         <source>Centerline_Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>中心线曲线</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="278"/>
         <source>Invalid component</source>
-        <translation type="unfinished"></translation>
+        <translation>无效组件</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="282"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>已完成</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="402"/>
         <source>Input centerline is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>输入中心线无效</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="419"/>
@@ -293,12 +293,12 @@ Isomics 公司的 Steve Pieper 共同开发，部分资金来源于美国国立�
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="627"/>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="658"/>
         <source>Call &apos;splitCenterlines()&apos; with an input centerline polydata first.</source>
-        <translation type="unfinished"></translation>
+        <translation>请先使用输入中心线多边形数据调用“splitCenterlines()”。</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="610"/>
         <source>Processing curve creation started</source>
-        <translation type="unfinished"></translation>
+        <translation>已开始处理曲线创建</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="622"/>
