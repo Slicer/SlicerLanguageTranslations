@@ -230,48 +230,49 @@ Developed by NVIDIA, KCL
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="386"/>
         <source>scoring</source>
-        <translation type="unfinished"></translation>
+        <translation>评分</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="395"/>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="396"/>
         <source>Please enter your name:</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入你的名字：</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="503"/>
         <source>{current}/{total} epoch is completed</source>
-        <translation type="unfinished"></translation>
+        <translation>{current}/{total} epoch 已完成</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="514"/>
         <source>Training: {status}</source>
-        <translation type="unfinished"></translation>
+        <translation>训练中： {status}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="613"/>
         <source>{current}/{total} samples are labeled</source>
-        <translation type="unfinished"></translation>
+        <translation>{current}/{total} 样本已标记</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="890"/>
         <source>Accuracy: {value}</source>
-        <translation type="unfinished"></translation>
+        <translation>准确率： {value}</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1034"/>
         <source>This will clear current scribbles session.
 Are you sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>这将清除当前scribbles会话。
+确定要继续吗？</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1104"/>
         <source>Please upgrade the monai server to latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>请将monai服务器升级至最新版本</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1115"/>
