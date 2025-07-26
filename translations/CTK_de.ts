@@ -13,8 +13,8 @@
         <source>
 Blur a 2d image.
   </source>
-        <translation type="unfinished">
-2D-Bild verwischen
+        <translation>
+2D-Bild verwischen.
   </translation>
     </message>
     <message>
