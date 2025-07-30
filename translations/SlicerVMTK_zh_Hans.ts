@@ -303,12 +303,12 @@ Isomics 公司的 Steve Pieper 共同开发，部分资金来源于美国国立�
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="622"/>
         <source>Processing curve creation completed in {duration} seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>在{duration} 秒内完成处理曲线创建</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="631"/>
         <source>Processing centerline ids started</source>
-        <translation type="unfinished"></translation>
+        <translation>中心线 ids 处理已开始</translation>
     </message>
     <message>
         <location filename="CenterlineDisassembly/CenterlineDisassembly.py" line="652"/>
