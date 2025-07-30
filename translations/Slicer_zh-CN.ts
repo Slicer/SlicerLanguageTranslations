@@ -5471,7 +5471,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出方向。请注意，这些方向代码采用ITK约定：每个字母指的是每个轴的起始方向。这与常用的方向约定相反，例如，如果需要获得与LPS坐标系轴方向对应的图像，需将此参数设置为RAI。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
@@ -9304,12 +9304,12 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="275"/>
         <source>Load data from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>从URL加载数据</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="277"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="281"/>
@@ -9319,17 +9319,17 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="283"/>
         <source>Download the dataset from the given URL and import it into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>从给定 URL 下载数据集并导入到场景中</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="285"/>
         <source>Show folder</source>
-        <translation type="unfinished"></translation>
+        <translation>显示文件夹</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="286"/>
         <source>Show folder where custom data sets are downloaded ({path}).</source>
-        <translation type="unfinished"></translation>
+        <translation>显示下载自定义数据集的文件夹 ({path})。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="543"/>
@@ -9430,7 +9430,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1008"/>
         <source>Error was reported while loading {count} nodes from {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>从{path}加载{count}个节点时报告了错误</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="1011"/>
@@ -10495,88 +10495,89 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="20"/>
         <source>Islands</source>
-        <translation type="unfinished"></translation>
+        <translation>岛屿</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="40"/>
         <source>Edit islands (connected components) in a segment&lt;br&gt;. To get more information
 about each operation, hover the mouse over the option and wait for the tooltip to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑分割中的岛屿（连通区域）。要获取每个操作的详细信息，
+将鼠标悬停在选项上并等待工具提示出现。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="43"/>
         <source>Keep largest island</source>
-        <translation type="unfinished"></translation>
+        <translation>保留最大岛屿</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="45"/>
         <source>Keep only the largest island in selected segment, remove all other islands in the segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>仅保留所选分割中的最大岛屿，移除该分割中的所有其他岛屿。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="49"/>
         <source>Keep selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>保留所选岛屿</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="51"/>
         <source>Click on an island in a slice view to keep that island and remove all other islands in selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>在切片视图中点击一个岛屿以保留该岛屿，同时移除所选分割中的所有其他岛屿。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="55"/>
         <source>Remove small islands</source>
-        <translation type="unfinished"></translation>
+        <translation>移除小岛屿</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="57"/>
         <source>Remove all islands from the selected segment that are smaller than the specified minimum size.</source>
-        <translation type="unfinished"></translation>
+        <translation>移除所选分割中小于指定最小尺寸的所有岛屿。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="61"/>
         <source>Remove selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>移除所选岛屿</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="63"/>
         <source>Click on an island in a slice view to remove it from selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>在切片视图中点击一个岛屿以将其从所选分割中移除。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="67"/>
         <source>Add selected island</source>
-        <translation type="unfinished"></translation>
+        <translation>添加所选岛屿</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="69"/>
         <source>Click on a region in a slice view to add it to selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>在切片视图中点击一个区域以将其添加到所选分割中。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="73"/>
         <source>Split islands to segments</source>
-        <translation type="unfinished"></translation>
+        <translation>分割岛屿为多个分割</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="76"/>
         <source>Create a new segment for each island of selected segment. Islands smaller than minimum size will be removed. Segments will be ordered by island size.</source>
-        <translation type="unfinished"></translation>
+        <translation>为所选分割中的每个岛屿创建一个新分割。小于最小尺寸的岛屿将被移除。分割将按照岛屿体积排序。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="92"/>
         <source>Islands consisting of less voxels than this minimum size, will be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>由少于此最小体素数的岛屿将被删除。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="97"/>
         <source> voxels</source>
-        <translation type="unfinished"></translation>
+        <translation> 体素</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="97"/>
         <source>Minimum size:</source>
-        <translation type="unfinished"></translation>
+        <translation>最小尺寸：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="99"/>
@@ -10586,7 +10587,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorIslandsEffect.py" line="399"/>
         <source>Click in a slice view to select an island.</source>
-        <translation type="unfinished"></translation>
+        <translation>在切片视图中点击以选择一个岛屿。</translation>
     </message>
 </context>
 <context>
@@ -10594,7 +10595,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="22"/>
         <source>Level tracing</source>
-        <translation type="unfinished"></translation>
+        <translation>水平追踪</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="49"/>
@@ -10604,12 +10605,16 @@ about each operation, hover the mouse over the option and wait for the tooltip t
         follows the same intensity value back to the starting point within the current slice.
         &lt;li&gt;&lt;b&gt;Left-click:&lt;/b&gt; add the previewed region to the current segment.
         &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>向所选分割添加均匀强度区域&lt;br&gt;.
+        &lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;
+        &lt;li&gt;&lt;b&gt;鼠标移动:&lt;/b&gt; 使用当前背景体素在本切片中寻找一条沿相同强度值回到起点的闭合路径。
+        &lt;li&gt;&lt;b&gt;左键单击:&lt;/b&gt; 将预览区域添加到当前分割。
+        &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLevelTracingEffect.py" line="108"/>
         <source>Slice view is not aligned with segmentation axis.&lt;br&gt;To use this effect, click the &apos;Slice views orientation&apos; warning button.</source>
-        <translation type="unfinished"></translation>
+        <translation>切片视图与分割轴未对齐。&lt;br&gt;要使用此效果，请点击“切片视图方向”警告按钮。</translation>
     </message>
 </context>
 <context>
@@ -10617,7 +10622,7 @@ about each operation, hover the mouse over the option and wait for the tooltip t
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="19"/>
         <source>Logical operators</source>
-        <translation type="unfinished"></translation>
+        <translation>逻辑运算</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="50"/>
@@ -10634,7 +10639,18 @@ about each operation, hover the mouse over the option and wait for the tooltip t
 &lt;b&gt;Selected segment:&lt;/b&gt; segment selected in the segment list - above. &lt;b&gt;Modifier segment:&lt;/b&gt; segment chosen in
 segment list in effect options - below.
 &lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>应用逻辑运算符或合并分割。&lt;br&gt;可用操作:&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;复制:&lt;/b&gt; 用修改分割替换所选分割。
+&lt;li&gt;&lt;b&gt;相加:&lt;/b&gt;将修改分割添加到当前分割。
+&lt;li&gt;&lt;b&gt;相减:&lt;/b&gt; 从所选分割中减去修改分割的区域。
+&lt;li&gt;&lt;b&gt;相交:&lt;/b&gt; 仅保留所选分割和修改分割共有的区域。
+&lt;li&gt;&lt;b&gt;反转:&lt;/b&gt;反转所选分割。
+&lt;li&gt;&lt;b&gt;清除:&lt;/b&gt; 清空所选分割。
+&lt;li&gt;&lt;b&gt;填充:&lt;/b&gt; 完全填充所选分割。
+&lt;/ul&gt;&lt;p&gt;
+&lt;b&gt;所选分割:&lt;/b&gt;在上方分割列表中选中的分割。修改分割：在下方效果选项分割列表中选择的分割。
+&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="52"/>
@@ -10654,7 +10670,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="55"/>
         <source>Intersect</source>
-        <translation type="unfinished"></translation>
+        <translation>相交</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="56"/>
@@ -10664,27 +10680,27 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="57"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="58"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>填充</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="59"/>
         <source>Click &lt;dfn&gt;Show details&lt;/dfn&gt; link above for description of operations.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击上方&lt;dfn&gt;显示详情&lt;/dfn&gt; 链接查看操作说明。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="61"/>
         <source>Bypass masking</source>
-        <translation type="unfinished"></translation>
+        <translation>绕过掩膜</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="62"/>
         <source>Ignore all masking options and only modify the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略所有掩膜选项，仅修改所选分割。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="65"/>
@@ -10700,37 +10716,37 @@ segment list in effect options - below.
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="74"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="143"/>
         <source>Modifier segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>修改分割：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="85"/>
         <source>Contents of this segment will be used for modifying the selected segment. This segment itself will not be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>此分割的内容将用于修改所选分割，该分割本身不会被更改。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="134"/>
         <source>Copy from segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>从分割复制：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="136"/>
         <source>Add segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>添加分割：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="138"/>
         <source>Subtract segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>减去分割：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="140"/>
         <source>Intersect with segment:</source>
-        <translation type="unfinished"></translation>
+        <translation>与分割相交：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="144"/>
         <source>Please select a modifier segment in the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>请在下方列表中选择一个修改分割。</translation>
     </message>
 </context>
 <context>
@@ -10738,22 +10754,22 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="20"/>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>边距</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="38"/>
         <source>Grow or shrink selected segment by specified margin size.</source>
-        <translation type="unfinished"></translation>
+        <translation>通过指定的边距大小膨胀或收缩所选分割。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="41"/>
         <source>Shrink</source>
-        <translation type="unfinished"></translation>
+        <translation>收缩</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="42"/>
         <source>Grow</source>
-        <translation type="unfinished"></translation>
+        <translation>膨胀</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="47"/>
@@ -10763,22 +10779,22 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="52"/>
         <source>Segment boundaries will be shifted by this distance. Positive value means the segments will grow, negative value means segment will shrink.</source>
-        <translation type="unfinished"></translation>
+        <translation>分割边界将按此距离移动。正值表示分割膨胀，负值表示分割收缩。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="58"/>
         <source>Size change in pixel. Computed from the segment&apos;s spacing and the specified margin size.</source>
-        <translation type="unfinished"></translation>
+        <translation>像素大小变化。根据分割的空间分辨率与指定的边距大小计算。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="62"/>
         <source>Margin size:</source>
-        <translation type="unfinished"></translation>
+        <translation>边距大小：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="67"/>
         <source>Grow or shrink all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>膨胀或收缩此分割节点中所有可见的分割。此操作可能需要一些时间。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="69"/>
@@ -10793,7 +10809,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="74"/>
         <source>Grows or shrinks selected segment /default) or all segments (checkbox) by the specified margin.</source>
-        <translation type="unfinished"></translation>
+        <translation>通过指定的边距膨胀或收缩所选分割（默认）或所有分割（复选框）。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMarginEffect.py" line="122"/>
@@ -10821,7 +10837,7 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="15"/>
         <source>Mask volume</source>
-        <translation type="unfinished"></translation>
+        <translation>遮罩体积</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="42"/>
@@ -10829,27 +10845,30 @@ segment list in effect options - below.
 The mask is applied to the source volume by default.&lt;p&gt;
 Fill inside and outside operation creates a binary labelmap volume as output, with the inside and outside fill values modifiable.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>使用当前所选分割作为掩膜对体积中的区域进行遮盖。&lt;br&gt;
+掩膜默认应用于源体积。&lt;p&gt;
+“填充内外”操作将输出一个二值标签图体积，内外的填充值可修改。
+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="49"/>
         <source>Fill inside</source>
-        <translation type="unfinished"></translation>
+        <translation>填充内部</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="53"/>
         <source>Fill outside</source>
-        <translation type="unfinished"></translation>
+        <translation>填充外部</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="57"/>
         <source>Fill inside and outside</source>
-        <translation type="unfinished"></translation>
+        <translation>填充内外</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="58"/>
         <source>Create a labelmap volume with specified inside and outside fill values.</source>
-        <translation type="unfinished"></translation>
+        <translation>以指定的内填充值和外填充值创建标签图体积。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="67"/>
@@ -10859,74 +10878,74 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="71"/>
         <source>Choose the voxel intensity that will be used to fill the masked region.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择用于填充掩膜区域的体素强度值。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="72"/>
         <source>Fill value: </source>
-        <translation type="unfinished"></translation>
+        <translation>填充值： </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="76"/>
         <source>Choose the voxel intensity that will be used to fill outside the mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择用于填充掩膜外部的体素强度值。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="77"/>
         <source>Outside fill value: </source>
-        <translation type="unfinished"></translation>
+        <translation>外部填充值： </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="81"/>
         <source>Choose the voxel intensity that will be used to fill inside the mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择用于填充掩膜内部的体素强度值。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="82"/>
         <source> Inside fill value: </source>
-        <translation type="unfinished"></translation>
+        <translation> 内部填充值： </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="112"/>
         <source>Standard deviation of the Gaussian function that blurs the edge of the mask. Higher value makes the edge softer.</source>
-        <translation type="unfinished"></translation>
+        <translation>用于模糊掩膜边缘的高斯函数标准差。值越大，边缘越柔和。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="117"/>
         <source>Soft edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>柔性边缘：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="128"/>
         <source>(Source volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>（源体积）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="130"/>
         <source>Volume to mask. Default is current source volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要掩膜的体积。默认是当前源体积节点。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="139"/>
         <source>Input Volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>输入体积： </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="150"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="233"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="234"/>
         <source>(Create new Volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>输入体积：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="152"/>
         <source>Masked output volume. It may be the same as the input volume for cumulative masking.</source>
-        <translation type="unfinished"></translation>
+        <translation>被掩膜输出的体积。对于累积掩膜操作，可以与输入体积相同。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="161"/>
         <source>Output Volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>输出体积： </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="164"/>
@@ -10936,18 +10955,18 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="166"/>
         <source>Apply segment as volume mask. No undo operation available once applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>将分割作为体积掩膜应用。一旦应用无法撤销此操作。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="237"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="238"/>
         <source>(Create new Labelmap Volume)</source>
-        <translation type="unfinished"></translation>
+        <translation>（新建标签图体积）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="305"/>
         <source>Failed to apply mask to volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>应用掩膜至体积失败。</translation>
     </message>
 </context>
 <context>
@@ -10955,7 +10974,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="20"/>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>平滑</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="47"/>
@@ -10969,77 +10988,86 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
 &lt;li&gt;&lt;b&gt;Joint smoothing:&lt;/b&gt; smoothes multiple segments at once, preserving watertight interface between them. Masking settings are bypassed.
 If segments overlap, segment higher in the segments table will have priority. &lt;b&gt;Applied to all visible segments.&lt;/b&gt;
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>通过去除突起和填补小孔，&lt;br&gt;使分割边界更加平滑。该效果可局部应用（通过在查看器中涂抹）
+或整体应用于整个分割区域（点击“应用”按钮）。可用的方法包括：&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;中值滤波（Median）：&lt;/b&gt;去除小的细节，同时基本保持轮廓平滑不变。仅作用于选中的分割区域。
+&lt;li&gt;&lt;b&gt;开运算（Opening）：&lt;/b&gt;去除小于设定内核尺寸的突起部分。仅作用于选中的分割区域。
+&lt;li&gt;&lt;b&gt;闭运算（Closing）：&lt;/b&gt;填补尖角和小于设定内核尺寸的孔洞。仅作用于选中的分割区域。
+&lt;li&gt;&lt;b&gt;高斯滤波（Gaussian）：&lt;/b&gt;平滑所有轮廓，但可能导致分割区域略微收缩。仅作用于选中的分割区域。
+&lt;li&gt;&lt;b&gt;联合平滑（Joint smoothing）：&lt;/b&gt;同时平滑多个分割区域，保持它们之间的密闭接触界面。此模式会忽略掩膜设置。
+若分割区域存在重叠，段表中排列靠前的分割区域将具有优先权。&lt;b&gt;此操作将应用于所有可见分割区域。&lt;/b&gt;
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="49"/>
         <source>Median</source>
-        <translation type="unfinished"></translation>
+        <translation>中值滤波</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="50"/>
         <source>Opening (remove extrusions)</source>
-        <translation type="unfinished"></translation>
+        <translation>开运算（去除突起）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="51"/>
         <source>Closing (fill holes)</source>
-        <translation type="unfinished"></translation>
+        <translation>闭运算（填充空洞）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="52"/>
         <source>Gaussian</source>
-        <translation type="unfinished"></translation>
+        <translation>高斯滤波</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="53"/>
         <source>Joint smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>联合平滑</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="54"/>
         <source>Smoothing method:</source>
-        <translation type="unfinished"></translation>
+        <translation>平滑方法：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="59"/>
         <source>Diameter of the neighborhood that will be considered around each voxel. Higher value makes smoothing stronger (more details are suppressed).</source>
-        <translation type="unfinished"></translation>
+        <translation>在每个体素周围考虑的邻域直径。值越大，平滑效果越强（更多细节被抑制）。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="66"/>
         <source>Diameter of the neighborhood in pixel. Computed from the segment&apos;s spacing and the specified kernel size.</source>
-        <translation type="unfinished"></translation>
+        <translation>以像素计算的邻域直径，根据分割的空间分辨率和指定的核大小计算。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="71"/>
         <source>Kernel size:</source>
-        <translation type="unfinished"></translation>
+        <translation>核大小：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="76"/>
         <source>Standard deviation of the Gaussian smoothing filter coefficients. Higher value makes smoothing stronger (more details are suppressed).</source>
-        <translation type="unfinished"></translation>
+        <translation>高斯平滑滤波器系数的标准差。值越大，平滑效果越强（更多细节被抑制）。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="80"/>
         <source>Standard deviation:</source>
-        <translation type="unfinished"></translation>
+        <translation>标准差：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="83"/>
         <source>Higher value means stronger smoothing.</source>
-        <translation type="unfinished"></translation>
+        <translation>值越大表示平滑效果越强。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="89"/>
         <source>Smoothing factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>平滑因子：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="93"/>
         <source>Apply smoothing effect to all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>对该分割节点中所有可见分割应用平滑效果。此操作可能需要一些时间。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="95"/>
@@ -11054,27 +11082,27 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="100"/>
         <source>Apply smoothing to selected segment</source>
-        <translation type="unfinished"></translation>
+        <translation>对所选分割应用平滑</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="113"/>
         <source>Smoothing brush options</source>
-        <translation type="unfinished"></translation>
+        <translation>平滑画笔选项</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="230"/>
         <source>Smoothing {segmentName}...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在平滑 {segmentName}...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="372"/>
         <source>Joint smoothing ...</source>
-        <translation type="unfinished"></translation>
+        <translation>联合平滑中...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorSmoothingEffect.py" line="478"/>
         <source>Smoothing brush is not available for &apos;joint smoothing&apos; method.</source>
-        <translation type="unfinished"></translation>
+        <translation>“联合平滑”方法下无法使用平滑画笔。</translation>
     </message>
 </context>
 <context>
@@ -11091,7 +11119,11 @@ If segments overlap, segment higher in the segments table will have priority. &l
 &lt;li&gt;&lt;b&gt;Use for masking:&lt;/b&gt; set the selected intensity range as &lt;dfn&gt;Editable intensity range&lt;/dfn&gt; and switch to Paint effect.
 &lt;li&gt;&lt;b&gt;Apply:&lt;/b&gt; set the previewed segmentation in the selected segment. Previous contents of the segment is overwritten.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>根据源体积的强度范围填充分割。&lt;br&gt;选项:&lt;p&gt;
+&lt;ul style=&quot;margin: 0&quot;&gt;
+&lt;li&gt;&lt;b&gt;用于掩膜:&lt;/b&gt; 将选定的强度范围设为 &lt;dfn&gt;可编辑强度范围&lt;/dfn&gt; 并切换至绘制效果。
+&lt;li&gt;&lt;b&gt;应用:&lt;/b&gt;将预览的分割设置到所选分割中，之前的内容将被覆盖。
+&lt;/ul&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="116"/>
@@ -27306,7 +27338,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="596"/>
         <source>Delete %1</source>
-        <translation type="unfinished"></translation>
+        <translation>删除 %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="597"/>
@@ -29888,12 +29920,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="391"/>
         <source>kB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>kB/s</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="396"/>
         <source>MB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>MB/s</translation>
     </message>
 </context>
 <context>
@@ -29906,7 +29938,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="47"/>
         <source>Welcome to Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation>欢迎来到 Slicer</translation>
     </message>
 </context>
 <context>
@@ -30118,7 +30150,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
         <source>No updates were found.</source>
-        <translation type="unfinished"></translation>
+        <translation>未发现更新。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="179"/>
