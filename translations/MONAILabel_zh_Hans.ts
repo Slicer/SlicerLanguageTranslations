@@ -284,7 +284,7 @@ Are you sure to continue?</source>
         <location filename="MONAILabel/MONAILabel.py" line="1149"/>
         <location filename="MONAILabel/MONAILabel.py" line="1154"/>
         <source>Wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>等待...</translation>
     </message>
     <message>
         <location filename="MONAILabel/MONAILabel.py" line="1170"/>
