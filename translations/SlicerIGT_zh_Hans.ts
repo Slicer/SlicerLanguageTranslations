@@ -315,7 +315,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
         <source>Test is not implemented for ModelRegistration</source>
-        <translation type="unfinished"></translation>
+        <translation>ModelRegistration 的测试尚未实现</translation>
     </message>
 </context>
 <context>
@@ -323,7 +323,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="17"/>
         <source>Time series</source>
-        <translation type="unfinished"></translation>
+        <translation>时间序列</translation>
     </message>
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="27"/>
@@ -333,12 +333,12 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="SequenceReplay/Resources/UI/SequenceReplay.ui" line="36"/>
         <source>Recorded nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>记录的节点</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="35"/>
         <source>Sequence Replay</source>
-        <translation type="unfinished"></translation>
+        <translation>序列重放</translation>
     </message>
     <message>
         <location filename="SequenceReplay/SequenceReplay.py" line="45"/>
@@ -368,7 +368,7 @@ Steve Pieper（Isomics, Inc.）共同开发，并部分由美国国立卫生研�
     <message>
         <location filename="TextureModel/TextureModel.py" line="21"/>
         <source>Texture Model</source>
-        <translation type="unfinished"></translation>
+        <translation>纹理模型</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="29"/>
@@ -401,7 +401,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="80"/>
         <source>Color image containing texture image.</source>
-        <translation type="unfinished"></translation>
+        <translation>包含纹理图像的彩色图像。</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="81"/>
@@ -426,7 +426,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="87"/>
         <source>RGB float components</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB 浮点分量</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="91"/>
@@ -436,12 +436,12 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="TextureModel/TextureModel.py" line="92"/>
         <source>Save color information as point data:</source>
-        <translation type="unfinished"></translation>
+        <translation>将颜色信息保存为点数据：</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="99"/>
         <source>Apply texture to selected model.</source>
-        <translation type="unfinished"></translation>
+        <translation>将纹理应用于所选模型。</translation>
     </message>
 </context>
 <context>
@@ -449,7 +449,7 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="13"/>
         <source>Viewpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>视点</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="23"/>
@@ -484,52 +484,52 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="94"/>
         <source>Enable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>启用自动居中模式</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="96"/>
         <source>Disable Auto-Center Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用自动居中模式</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="103"/>
         <source>View Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>视图选择</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="109"/>
         <source>Scene Camera: </source>
-        <translation type="unfinished"></translation>
+        <translation>场景相机： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="116"/>
         <source>Pick the view which should be adjusted, e.g. &apos;View1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>选择需要调整的视图，例如 “View1”</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="122"/>
         <source>Parameters for Bullseye View</source>
-        <translation type="unfinished"></translation>
+        <translation>靶眼视图参数</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="129"/>
         <source>Camera positioning transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>相机定位变换： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="136"/>
         <source>Pick the transform that the camera should follow, e.g. &apos;cauteryCameraToCauteryTransform&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>选择相机应跟随的变换，例如：&apos;cauteryCameraToCauteryTransform&apos;</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="142"/>
         <source>Camera Control</source>
-        <translation type="unfinished"></translation>
+        <translation>相机控制</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="150"/>
         <source>Degrees of Freedom</source>
-        <translation type="unfinished"></translation>
+        <translation>自由度</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="159"/>
@@ -594,12 +594,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="219"/>
         <source>Target Model</source>
-        <translation type="unfinished"></translation>
+        <translation>目标模型</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="228"/>
         <source>Target model: </source>
-        <translation type="unfinished"></translation>
+        <translation>目标模型： </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="234"/>
@@ -650,7 +650,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="311"/>
         <source>Parallel Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>平行投影</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="314"/>
@@ -665,7 +665,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="328"/>
         <source>Parameters for Auto-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>自动中心参数</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="335"/>
@@ -793,12 +793,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="19"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation>引导工具</translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="22"/>
         <source>Surface Models</source>
-        <translation type="unfinished"></translation>
+        <translation>表面模型</translation>
     </message>
 </context>
 <context>
@@ -836,12 +836,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="102"/>
         <source>Tool tip (to RAS) transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>工具尖端（到RAS）变换： </translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="112"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="149"/>
@@ -856,7 +856,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="178"/>
         <source>Line to closest point color</source>
-        <translation type="unfinished"></translation>
+        <translation>到最近点的连线颜色</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="188"/>
@@ -876,32 +876,32 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="222"/>
         <source>Line to closest point text size:</source>
-        <translation type="unfinished"></translation>
+        <translation>到最近点的连线文本大小：</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="242"/>
         <source>Line to closest point thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>到最近点的连线粗细：</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="265"/>
         <source>Breach warning distance (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>突破警告距离（mm）：</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="103"/>
         <source>This module can alert the user by color change and sound signal if a tool enters a restricted area. The restricted area is defined by a surface model, the tool position is defined by a linear transform. For help on how to use this module visit: &lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT website&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>该模块可通过变色和声音提醒用户工具进入受限区域。受限区域由表面模型定义，工具位置由线性变换确定。有关该模块的使用帮助，请访问：&lt;a href=&apos;http://www.slicerigt.org/&apos;&gt;SlicerIGT 网站&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.cxx" line="111"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
-        <translation type="unfinished"></translation>
+        <translation>本工作由Cancer Care Ontario和安大略省自适应放疗干预联盟（OCAIRO）资助</translation>
     </message>
     <message>
         <location filename="BreachWarning/qSlicerBreachWarningModule.h" line="50"/>
         <source>Breach Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>突破警告</translation>
     </message>
 </context>
 <context>
@@ -930,19 +930,19 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLBSplineTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLBSplineTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLGridTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLGridTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
@@ -953,12 +953,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="57"/>
         <source>vtkMRMLCollectPointsNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLCollectPointsNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="68"/>
         <source>Toggle visibility of the output node</source>
-        <translation type="unfinished"></translation>
+        <translation>切换输出节点的可见性</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="71"/>
@@ -1110,17 +1110,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表单</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="33"/>
         <source>Create models</source>
-        <translation type="unfinished"></translation>
+        <translation>创建模型</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="39"/>
         <source>Needle model</source>
-        <translation type="unfinished"></translation>
+        <translation>针模型</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="67"/>
@@ -1135,7 +1135,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="393"/>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="444"/>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>长度</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="99"/>
