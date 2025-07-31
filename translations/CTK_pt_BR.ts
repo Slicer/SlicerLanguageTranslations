@@ -13,7 +13,9 @@
         <source>
 Blur a 2d image.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Desfocar uma imagem 2D.
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="6"/>
@@ -467,158 +469,158 @@ Comportamento configurável para fins de teste..
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="30"/>
         <source>Directory I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de E/S de Diretório</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="31"/>
         <source>Various Directory I/O parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diversos parâmetros de E/S de diretório.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="32"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="33"/>
         <source>Some dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Algum diretório</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="34"/>
         <source>File I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de E/S de Arquivo</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="35"/>
         <source>Various File I/O parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diversos parâmetros de E/S de arquivo.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="36"/>
         <source>Input file, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de entrada, sem extensões especificadas.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="37"/>
         <source>Input file, .txt or .mat file specified using leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de entrada, arquivo .txt ou .mat especificado com o ponto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="38"/>
         <source>Input file, .txt or .mat file specified without leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de entrada, arquivo .txt ou .mat especificado sem o ponto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="39"/>
         <source>Output file, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de saída, sem extensões especificadas.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="40"/>
         <source>Output file, .txt or .mat file specified using leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de saída, arquivo .txt ou .mat especificado com o ponto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="41"/>
         <source>Output file, .txt or .mat file specified without leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de saída, arquivo .txt ou .mat especificado sem o ponto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="42"/>
         <source>Input file, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de entrada, sem extensões de arquivo especificadas, permitindo a seleção de todos os arquivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="43"/>
         <source>Input file, where a correct comma separated list of .txt and .mat are specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de entrada, no qual uma lista correta separada por vírgulas de arquivos .txt e .mat é especificada, que deve incluir o ponto inicial, mas não deve conter nenhum asterisco.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="44"/>
         <source>Input file, where the XML has missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de entrada, onde o XML não incluiu o ponto inicial das extensões dos arquivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="45"/>
         <source>Output file, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de saída, sem extensões de arquivo especificadas, permitindo a seleção de todos os arquivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="46"/>
         <source>Output file, where a comma separated list of .txt and .mat are specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de saída, no qual uma lista separada por vírgulas de arquivos .txt e .mat é especificada, devendo incluir o ponto inicial, mas sem conter asteriscos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="47"/>
         <source>Output file, where the XML has missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de saída, no qual o XML não incluiu o ponto inicial das extensões dos arquivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="48"/>
         <source>Geometry I/O Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de E/S de Geometria</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="49"/>
         <source>Various Geometry I/O parameters, which are for things like vtkPolyData.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diversos parâmetros de E/S de geometria, usados para itens como vtkPolyData.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="50"/>
         <source>Input geometry, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de entrada, sem extensões especificadas.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="51"/>
         <source>Input geometry, .vtk or .vtp file specified with a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de entrada, arquivo .vtk ou .vtp especificado com ponto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="52"/>
         <source>Input geometry, .vtk or .vtp file specified without a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de entrada, arquivo .vtk ou .vtp especificado sem ponto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="53"/>
         <source>Output geometry, no extensions specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de saída, sem extensões especificadas.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="54"/>
         <source>Output geometry, .vtk or .vtp file specified with a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de saída, arquivo .vtk ou .vtp especificado com ponto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="55"/>
         <source>Output geometry, .vtk or .vtp file specified without a leading dot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de saída, arquivo .vtk ou .vtp especificado sem ponto inicial.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="56"/>
         <source>Input geometry, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de entrada, sem extensões de arquivo especificadas, permitindo a seleção de todos os arquivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="57"/>
         <source>Input geometry, where a comma separated list is specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de entrada, no qual uma lista separada por vírgulas é especificada, devendo incluir o ponto inicial, mas sem conter asteriscos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="58"/>
         <source>Input geometry, where the XML has incorrectly missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de entrada, em que o XML não incluiu corretamente o ponto inicial das extensões dos arquivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="59"/>
         <source>Output geometry, with no file extensions specified, so all files selectable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de saída, sem extensões de arquivo especificadas, permitindo a seleção de todos os arquivos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="60"/>
         <source>Output geometry, where a comma separated list is specified, which should include the first dot, but should not include any asterisks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de saída, em que uma lista separada por vírgulas é especificada, devendo incluir o ponto inicial, mas sem conter asteriscos.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="61"/>
         <source>Output geometry, where the XML has incorrectly missed the first dot of the file extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de saída, em que o XML não incluiu corretamente o ponto inicial das extensões dos arquivos.</translation>
     </message>
 </context>
 <context>
@@ -6687,7 +6689,7 @@ Deseja renovar a sessão?</translation>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="3"/>
         <source>Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de imagem</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="3"/>
@@ -6697,7 +6699,7 @@ Deseja renovar a sessão?</translation>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Tour/ctkCmdLineModuleTour_tr.h" line="3"/>
         <source>Tours</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitações</translation>
     </message>
 </context>
 </TS>
