@@ -9,7 +9,10 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tento modul registruje seznam referenčních bodů k povrchu modelu pomocí iterativní metody nejbližších bodů (ICP).
+Nápovědu k používání tohoto modulu naleznete na: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;webové stránky SlicerIGT&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
@@ -17,7 +20,10 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
 This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tento soubor původně vyvinuli Jean-Christophe Fillion-Robin ze společnosti Kitware Inc. 
+a Steve Pieper ze společnosti Isomics, Inc. a byl částečně financován grantem NIH 3P41RR013218-12S1.
+</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
