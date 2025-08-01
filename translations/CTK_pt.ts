@@ -6,114 +6,122 @@
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="4"/>
         <source>2D Blurring</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfoque 2D</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="5"/>
         <source>
 Blur a 2d image.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Desfocar uma imagem 2D.
+  </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="6"/>
         <source>Scalar Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros escalares</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="7"/>
         <source>
     Variations on scalar parameters
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    Variações nos parâmetros escalares
+    </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="8"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetro inteiro</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="9"/>
         <source>Boolean Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetro booleano</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="17"/>
         <source>Some file</source>
-        <translation type="unfinished"></translation>
+        <translation>Algum ficheiro</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="11"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="18"/>
         <source>Some dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Algum diretório</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="12"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="19"/>
         <source>Some geom</source>
-        <translation type="unfinished"></translation>
+        <translation>Alguma geometria</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="13"/>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="20"/>
         <source>Some image</source>
-        <translation type="unfinished"></translation>
+        <translation>Alguma imagem</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="14"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetro duplo</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="15"/>
         <source>
       An integer without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Um número inteiro sem restrições
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="16"/>
         <source>
       A boolean without constraints
       </source>
-        <translation type="unfinished"></translation>
+        <translation>
+      Um booleano sem restrições
+      </translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="21"/>
         <source>An double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Um duplo com restrições</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="22"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros vetoriais</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="23"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variações nos parâmetros vetoriais</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="24"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetro vetorial flutuante</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="25"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetro vetorial de cadeia</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="26"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>Um vetor de flutuações</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/Blur2dImage/ctkCmdLineModuleBlur2dImage_tr.h" line="27"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Um vetor de cadeias</translation>
     </message>
 </context>
 <context>
@@ -121,22 +129,22 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="3"/>
         <source>Test Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo de teste</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="4"/>
         <source>Test Module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo de teste.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="5"/>
         <source>Test parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de teste</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="6"/>
         <source>Test parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de teste.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="7"/>
@@ -144,27 +152,27 @@ Blur a 2d image.
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="10"/>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="12"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Inteiro</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="8"/>
         <source>Enumeration</source>
-        <translation type="unfinished"></translation>
+        <translation>Enumeração</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="11"/>
         <source>Enumeration parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetro de enumeração</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="13"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>sim</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Frontend/QtGui/Testing/Cpp/ctkCmdLineModuleFrontendQtGuiTestModule1_tr.h" line="14"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>não</translation>
     </message>
 </context>
 <context>
@@ -172,7 +180,7 @@ Blur a 2d image.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="4"/>
         <source>Test Bed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bancada de testes</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="5"/>
@@ -199,77 +207,77 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="9"/>
         <source>Output Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de saída</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="10"/>
         <source>Exit time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo de saída</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="11"/>
         <source>Exit code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de saída</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="12"/>
         <source>Force a crash</source>
-        <translation type="unfinished"></translation>
+        <translation>Forçar uma falha</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="13"/>
         <source>Error text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto de erro</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="14"/>
         <source>An integer with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Um número inteiro com restrições</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="15"/>
         <source>Number of outputs which will be reported as the progress text via a QFutureWatcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de saídas que serão relatadas como texto de progresso através de um QFutureWatcher.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="16"/>
         <source>The exit time of the module (premature finish).</source>
-        <translation type="unfinished"></translation>
+        <translation>O tempo de saída do módulo (conclusão prematura).</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="17"/>
         <source>The exit code of the module.</source>
-        <translation type="unfinished"></translation>
+        <translation>O código de saída do módulo.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="18"/>
         <source>Exit by crashing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saída por falha.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="19"/>
         <source>Final error message at the end.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensagem de erro final no final.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="20"/>
         <source>Output parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetro de saída</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="21"/>
         <source>Output parameters for testing purposes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de saída para fins de teste.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="22"/>
         <source>Number of results</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de resultados</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="23"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="24"/>
