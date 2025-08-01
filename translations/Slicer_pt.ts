@@ -16,12 +16,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da Aliança Nacional para Computação de Imagens Médicas (NAMIC), financiada pelos Institutos Nacionais de Saúde através do Roteiro NIH para Investigação Médica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
@@ -339,7 +339,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
         <source>Input Images</source>
-        <translation type="unfinished">Imagens de Entrada</translation>
+        <translation>Imagens de Entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
@@ -18543,7 +18543,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="79"/>
         <source>IGT</source>
-        <translation type="unfinished"></translation>
+        <translation>IGT</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="34"/>
@@ -18681,7 +18681,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="3"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="3"/>
         <source>Surface Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos de superfície</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="26"/>
