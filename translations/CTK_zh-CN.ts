@@ -309,7 +309,7 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="29"/>
         <source>Image output path.</source>
-        <translation type="unfinished">影像输出路径。</translation>
+        <translation>影像输出路径。</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Testing/Modules/TestBed/ctkCmdLineModuleTestBed_tr.h" line="30"/>
@@ -641,12 +641,12 @@ Configurable behaviour for testing purposes.
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
         <source>Action</source>
-        <translation>行动</translation>
+        <translation>操作</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
         <source>Shortcut(s)</source>
-        <translation>捷径(s)</translation>
+        <translation>快捷方式(s)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
