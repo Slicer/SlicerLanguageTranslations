@@ -11285,7 +11285,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="302"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="320"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>平均值</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="311"/>
@@ -11306,17 +11306,17 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="342"/>
         <source>Local histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>局部直方图</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="347"/>
         <source>Use for masking</source>
-        <translation type="unfinished"></translation>
+        <translation>用于掩膜</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="348"/>
         <source>Use specified intensity range for masking and switch to Paint effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用指定的强度范围进行掩膜并切换到绘制效果。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="351"/>
@@ -11326,7 +11326,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="353"/>
         <source>Fill selected segment in regions that are in the specified intensity range.</source>
-        <translation type="unfinished"></translation>
+        <translation>在指定的强度范围内填充选中区域的分割段。</translation>
     </message>
 </context>
 <context>
@@ -11334,7 +11334,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="23"/>
         <source>Segment Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>分割统计</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="37"/>
@@ -11349,7 +11349,17 @@ Requires segment labelmap representation and selection of a scalar volume
 Closed surface statistics (CS): surface mm2, volume mm3, volume cm3 (computed from closed surface).
 Requires segment closed surface representation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+使用此模块计算分割段的计数和体积，以及灰度背景体积的统计数据。
+计算字段：
+分割标签图统计（LM）：体素计数，体积 mm3，体积 cm3。
+需要分割标签图表示。
+标量体积统计（SV）：体素计数，体积 mm3，体积 cm3（分割段与标量体积重叠部分），
+最小值，最大值，平均值，标准差（强度统计）。
+需要分割标签图表示及标量体积的选择。
+闭合表面统计（CS）：表面积 mm2，体积 mm3，体积cm3（从闭合表面计算）。
+需要分割闭合表面表示。
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="42"/>
