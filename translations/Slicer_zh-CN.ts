@@ -520,37 +520,37 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
         <source>Perform a rigid registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>作为顺序配准步骤的一部分，执行刚性配准。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
+        <translation>作为顺序配准步骤的一部分，执行刚性配准。  如果有任何选项被设置，这个序列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>作为顺序注册步骤的一部分，执行ScaleVersor3D注册。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
+        <translation>作为顺序注册步骤的一部分，执行ScaleVersor3D注册。  如果有任何选项被设置，这个序列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
         <source>Perform a ScaleSkewVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>执行ScaleSkewVersor3D配准，作为顺序配准步骤的一部分。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
+        <translation>执行ScaleSkewVersor3D配准，作为顺序配准步骤的一部分。  如果有任何选项被设置，这个序列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="47"/>
         <source>Perform an Affine registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>作为顺序配准步骤的一部分，执行刚性配准。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
+        <translation>作为顺序配准步骤的一部分，执行刚性配准。  如果有任何选项被设置，这个序列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
         <source>Perform a BSpline registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>作为顺序配准步骤的一部分，执行B样条配准。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
+        <translation>作为顺序配准步骤的一部分，执行B样条配准。  如果有任何选项被设置，这个序列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
         <source>Perform a SyN registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>作为顺序配准步骤的一部分，执行SyN配准。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
+        <translation>作为顺序配准步骤的一部分，执行SyN配准。  如果有任何选项被设置，这个序列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
         <source>Perform a Composite registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation>作为顺序配准步骤的一部分，执行复合配准。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
+        <translation>作为顺序配准步骤的一部分，执行复合配准。  如果有任何选项被设置，这个序列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
@@ -2072,12 +2072,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"/>
         <source>Create a DICOM Series</source>
-        <translation>创建一个DICOM系列</translation>
+        <translation>创建一个DICOM序列</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation>从Slicer数据创建一个DICOM系列。用户可以在用户界面中为选定的DICOM标签指定值。鉴于DICOM系列的标签数量，不可能在用户界面中公开所有的标签。所以只有重要的标签可以由用户设置。</translation>
+        <translation>从Slicer数据创建一个DICOM序列。用户可以在用户界面中为选定的DICOM标签指定值。鉴于DICOM序列的标签数量，不可能在用户界面中公开所有的标签。所以只有重要的标签可以由用户设置。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
@@ -2147,7 +2147,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
         <source>The directory to contain the DICOM series.</source>
-        <translation>包含DICOM系列的目录。</translation>
+        <translation>包含DICOM序列的目录。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
@@ -2290,37 +2290,37 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="50"/>
         <source>Study Parameters</source>
-        <translation>研究参数</translation>
+        <translation>检查参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="51"/>
         <source>Parameters that apply to a study</source>
-        <translation>适用于一项研究的参数</translation>
+        <translation>适用于一项检查的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="52"/>
         <source>Study ID</source>
-        <translation>研究编号</translation>
+        <translation>检查编号</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="53"/>
         <source>Study Date</source>
-        <translation>研究日期</translation>
+        <translation>检查日期</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="54"/>
         <source>Study Time</source>
-        <translation>研究时间</translation>
+        <translation>检查时间</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="55"/>
         <source>Study Comments</source>
-        <translation>研究评论</translation>
+        <translation>检查评论</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="56"/>
         <source>Study Description</source>
-        <translation>研究描述</translation>
+        <translation>检查描述</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="57"/>
@@ -2340,27 +2340,27 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="60"/>
         <source>The study ID (0020,0010)</source>
-        <translation>研究编号 (0020,0010)</translation>
+        <translation>检查编号 (0020,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="61"/>
         <source>The date of the study (0008,0020) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation>研究的日期（0008,0020），格式为YYYMMDD。如果设置为&quot;[现在]&quot;，则使用当前日期。</translation>
+        <translation>检查的日期（0008,0020），格式为YYYMMDD。如果设置为&quot;[现在]&quot;，则使用当前日期。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="62"/>
         <source>The time of the study (0008,0030) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation>研究的时间（0008,0030），格式为HHMMSS。如果设置为&quot;[现在]&quot;，则使用当前时间。</translation>
+        <translation>检查的时间（0008,0030），格式为HHMMSS。如果设置为&quot;[现在]&quot;，则使用当前时间。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="63"/>
         <source>Study comments (0032,4000)</source>
-        <translation>研究评论(0032,4000)</translation>
+        <translation>检查评论(0032,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="64"/>
         <source>Study description (0008,1030)</source>
-        <translation>研究描述(0008,1030)</translation>
+        <translation>检查描述(0008,1030)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="65"/>
@@ -2411,32 +2411,32 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="75"/>
         <source>Series Parameters</source>
-        <translation>系列参数</translation>
+        <translation>序列参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="76"/>
         <source>Parameters that apply to a series</source>
-        <translation>适用于一个系列的参数</translation>
+        <translation>适用于一个序列的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="77"/>
         <source>Series Number</source>
-        <translation>系列号</translation>
+        <translation>序列号</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="78"/>
         <source>Series Description</source>
-        <translation>系列描述</translation>
+        <translation>序列描述</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="79"/>
         <source>Series Date</source>
-        <translation>系列日期</translation>
+        <translation>序列日期</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="80"/>
         <source>Series Time</source>
-        <translation>系列时间</translation>
+        <translation>序列时间</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="81"/>
@@ -2446,22 +2446,22 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="82"/>
         <source>The series number (0020,0011)</source>
-        <translation>系列号（0020,0011）</translation>
+        <translation>序列号（0020,0011）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="83"/>
         <source>Series description (0008,103E)</source>
-        <translation>系列描述 (0008,103E)</translation>
+        <translation>序列描述 (0008,103E)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="84"/>
         <source>The date of the series (0008,0021) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation>系列（0008,0021）的日期，格式为YYYMMDD。如果设置为&quot;[现在]&quot;，那么将使用当前日期。</translation>
+        <translation>序列（0008,0021）的日期，格式为YYYMMDD。如果设置为&quot;[现在]&quot;，那么将使用当前日期。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="85"/>
         <source>The time of the series (0008,0031) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation>该系列的时间（0008,0031），格式为HHMMSS。如果设置为&quot;[现在]&quot;，则使用当前时间。</translation>
+        <translation>该序列的时间（0008,0031），格式为HHMMSS。如果设置为&quot;[现在]&quot;，则使用当前时间。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="86"/>
@@ -2637,17 +2637,17 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="121"/>
         <source>Unique identifiers (UIDs) that allow appending frames to existing studies or series. To generate UIDs automatically, leave all of them blank.</source>
-        <translation>唯一标识符(UID)，允许用于在现有研究或系列中附加帧。要自动生成UID，请将所有的UID留空。</translation>
+        <translation>唯一标识符(UID)，允许用于在现有研究或序列中附加帧。要自动生成UID，请将所有的UID留空。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="122"/>
         <source>Study Instance UID</source>
-        <translation>研究实例UID</translation>
+        <translation>检查实例UID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="123"/>
         <source>Series Instance UID</source>
-        <translation>系列实例 UID</translation>
+        <translation>序列实例 UID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="124"/>
@@ -2657,12 +2657,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"/>
         <source>The study instance UID (0020,000d). Leave it blank to generate UIDs automatically.</source>
-        <translation>研究实例UID（0020,000d）。留空以自动生成UID。</translation>
+        <translation>检查实例UID（0020,000d）。留空以自动生成UID。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="126"/>
         <source>The series instance UID (0020,000e). Leave it blank to generate UIDs automatically.</source>
-        <translation>系列实例UID（0020,000e）。留空以自动生成UID。</translation>
+        <translation>序列实例UID（0020,000e）。留空以自动生成UID。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="127"/>
@@ -2783,7 +2783,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
         <source>Converts diffusion weighted MR images in DICOM series into NRRD format for analysis in Slicer. This program has been tested on only a limited subset of DTI DICOM formats available from Siemens, GE, and Philips scanners. Work in progress to support DICOM multi-frame data. The program parses DICOM header to extract necessary information about measurement frame, diffusion weighting directions, b-values, etc, and write out a NRRD image. For non-diffusion weighted DICOM images, it loads in an entire DICOM series and writes out a single dicom volume in a .nhdr/.raw pair.</source>
-        <translation>在DICOM系列中转换弥散加权的MRI到NRRD格式以在Slicer中分析。</translation>
+        <translation>在DICOM序列中转换弥散加权的MRI到NRRD格式以在Slicer中分析。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
@@ -2866,7 +2866,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
         <source>Directory holding Dicom series</source>
-        <translation>持有Dicom系列的目录</translation>
+        <translation>持有Dicom序列的目录</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="24"/>
@@ -5750,7 +5750,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="5"/>
         <source>Computes the standardized uptake value based on body weight. Takes an input PET image in DICOM and NRRD format (DICOM header must contain Radiopharmaceutical parameters). Produces a CSV file that contains patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName for each volume of interest. It also displays some of the information as output strings in the GUI, the CSV file is optional in that case. The CSV file is appended to on each execution of the CLI.</source>
-        <translation>计算基于体重的标准化摄取值。接受DICOM和NRRD格式的PET影像输入（DICOM标题必须包含放射性药物参数）。产生一个CSV文件，包含病人ID、研究日期、剂量、标签ID、suvmin、suvmax、suvmean、每个感兴趣数据的标签名称。它也可以在GUI中以输出字符串的形式显示一些信息，在这种情况下CSV文件是可选的。CSV文件在每次执行CLI的时候都会被追加。</translation>
+        <translation>计算基于体重的标准化摄取值。接受DICOM和NRRD格式的PET影像输入（DICOM标题必须包含放射性药物参数）。产生一个CSV文件，包含病人ID、检查日期、剂量、标签ID、suvmin、suvmax、suvmean、每个感兴趣数据的标签名称。它也可以在GUI中以输出字符串的形式显示一些信息，在这种情况下CSV文件是可选的。CSV文件在每次执行CLI的时候都会被追加。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
@@ -7823,7 +7823,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="377"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation>确定加载 DICOM 时是否提供引用的 DICOM 系列，或者禁用交互时的自动行为。 参考系列的交互式选择是默认选择</translation>
+        <translation>确定加载 DICOM 时是否提供引用的 DICOM 序列，或者禁用交互时的自动行为。 参考序列的交互式选择是默认选择</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="377"/>
@@ -7843,7 +7843,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Load referenced series:</source>
-        <translation>加载参考系列：</translation>
+        <translation>加载参考序列：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="390"/>
@@ -8149,7 +8149,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="660"/>
         <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
-        <translation>已加载的 DICOM 对象包含对您未选择加载的其他数据集的引用。如果您要加载以下引用的数据集，请选择“是”；如果您只想加载最初选择的系列，请选择“否”；或者选择“取消”以中止加载。</translation>
+        <translation>已加载的 DICOM 对象包含对您未选择加载的其他数据集的引用。如果您要加载以下引用的数据集，请选择“是”；如果您只想加载最初选择的序列，请选择“否”；或者选择“取消”以中止加载。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="670"/>
@@ -8237,12 +8237,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="88"/>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation>为每个目录生成一个新的系列实例 UID，并将其设置在同一目录中的所有文件中。启用此选项可强制将文件夹中的所有帧放入单个卷中。</translation>
+        <translation>为每个目录生成一个新的序列实例 UID，并将其设置在同一目录中的所有文件中。启用此选项可强制将文件夹中的所有帧放入单个卷中。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="89"/>
         <source>Force same series instance UID in each directory</source>
-        <translation>在每个目录中强制使用同一系列的实例 UID</translation>
+        <translation>在每个目录中强制使用同一序列的实例 UID</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="95"/>
@@ -8252,7 +8252,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="96"/>
         <source>Generate missing patient/study/series IDs</source>
-        <translation>生成缺失的患者/研究/系列 ID</translation>
+        <translation>生成缺失的患者/检查/序列 ID</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="101"/>
@@ -8267,7 +8267,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="113"/>
         <source>If checked, then ultrasound image series are split by instance number. Useful if many ultrasound acquisitions appear in the same series.</source>
-        <translation>如果选中，则超声影像系列将按实例号拆分。如果在同一系列中出现了许多超声采集，这一选项会很有用。</translation>
+        <translation>如果选中，则超声影像序列将按实例号拆分。如果在同一序列中出现了许多超声采集，这一选项会很有用。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="123"/>
@@ -8402,7 +8402,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="639"/>
         <source>Creates a series of DICOM files from scalar volumes</source>
-        <translation>从标量体积创建一系列DICOM文件</translation>
+        <translation>从标量体积创建一序列DICOM文件</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="667"/>
@@ -8412,27 +8412,27 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="671"/>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
-        <translation>系列“{itemName}”无法导出</translation>
+        <translation>序列“{itemName}”无法导出</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="688"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation>无法获取系列“{volumeName}”的检查信息</translation>
+        <translation>无法获取序列“{volumeName}”的检查信息</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="693"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation>无法获取系列“{volumeName}”的患者信息</translation>
+        <translation>无法获取序列“{volumeName}”的患者信息</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="742"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation>系列“{volumeName}”的模态为空</translation>
+        <translation>序列“{volumeName}”的模态为空</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="756"/>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
-        <translation>数据库中已存在一个系列，其 SeriesInstanceUID 为 {seriesInstanceUID}。</translation>
+        <translation>数据库中已存在一个序列，其 SeriesInstanceUID 为 {seriesInstanceUID}。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="768"/>
@@ -8460,7 +8460,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="170"/>
         <source>Creates a series that embeds the entire Slicer scene in a private DICOM tag</source>
-        <translation>创建一个系列，将整个Slicer场景嵌入到私有DICOM标签中</translation>
+        <translation>创建一个序列，将整个Slicer场景嵌入到私有DICOM标签中</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="182"/>
@@ -8478,7 +8478,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="96"/>
         <source>Creates a series of DICOM files from volume sequences</source>
-        <translation>从容量序列创建一系列DICOM文件</translation>
+        <translation>从容量序列创建一序列DICOM文件</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="101"/>
@@ -8510,7 +8510,7 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="168"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="174"/>
         <source>Series &apos;{itemName}&apos; cannot be exported as volume sequence</source>
-        <translation>“{itemName}”系列不能导出为容量序列</translation>
+        <translation>“{itemName}”序列不能导出为容量序列</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="181"/>
@@ -9668,7 +9668,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <source>image series</source>
-        <translation>影像系列</translation>
+        <translation>影像序列</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
@@ -14324,7 +14324,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
         <source>Plot data series:</source>
-        <translation>绘制数据系列：</translation>
+        <translation>绘制数据序列：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
@@ -14454,7 +14454,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
-        <translation>绘图系列属性</translation>
+        <translation>绘图序列属性</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
@@ -14631,7 +14631,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="97"/>
         <source>Plot data series:</source>
-        <translation>绘制数据系列：</translation>
+        <translation>绘制数据序列：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="104"/>
@@ -19077,7 +19077,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
         <source>Documentation</source>
         <oldsource>Interface Documentation</oldsource>
-        <translation>接口文档</translation>
+        <translation>帮助文档</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="83"/>
@@ -19088,7 +19088,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="87"/>
         <source>Quick Start</source>
-        <translation>快速启动</translation>
+        <translation>快速开始</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="91"/>
@@ -19282,7 +19282,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="600"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="619"/>
         <source>If you have a repeatable sequence of steps that causes this message, </source>
-        <translation>如果您有一系列可重复的步骤导致此消息， </translation>
+        <translation>如果您有一序列可重复的步骤导致此消息， </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="601"/>
@@ -19692,7 +19692,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="166"/>
         <source>The &lt;b&gt;Colors Module&lt;/b&gt; manages color look up tables, stored in Color nodes.&lt;br&gt;These tables translate between a numeric value and a color for displaying of various data types, such as volumes and models.&lt;br&gt;Two lookup table types are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Discrete table: List of named colors are specified (example: GenericAnatomyColors). Discrete tables can be used for continuous mapping as well, in this case the colors are used as samples at equal distance within the specified range, and smoothly interpolating between them (example: Grey).&lt;/li&gt;&lt;li&gt;Continuous scale: Color is specified for arbitrarily chosen numerical values and color value can be computed by smoothly interpolating between these values (example: PET-DICOM). No names are specified for colors.&lt;/li&gt;All built-in color tables are read-only. To edit colors, create a copy of the color table by clicking on the &apos;copy&apos; folder icon.&lt;br&gt;</source>
-        <translation>&lt;b&gt;颜色模块&lt;/b&gt; 管理存储于颜色节点中的颜色查找表。&lt;br&gt;这些表用于在各种数据类型（如体积和模型）的显示中，将数值与颜色进行转换。&lt;br&gt;提供两种查找表类型：&lt;br&gt;&lt;ul&gt;&lt;li&gt;离散表：指定一系列命名颜色（例如：GenericAnatomyColors）。离散表也可用于连续映射，此时颜色作为指定范围内等距的采样点，颜色之间平滑插值（例如：Grey）。&lt;/li&gt;&lt;li&gt;连续刻度：为任意选定的数值指定颜色，通过这些数值间的平滑插值计算颜色值（例如：PET-DICOM）。颜色无命名。&lt;/li&gt;所有内置颜色表均为只读。若需编辑颜色，请点击“复制”文件夹图标，创建颜色表副本。&lt;br&gt;</translation>
+        <translation>&lt;b&gt;颜色模块&lt;/b&gt; 管理存储于颜色节点中的颜色查找表。&lt;br&gt;这些表用于在各种数据类型（如体积和模型）的显示中，将数值与颜色进行转换。&lt;br&gt;提供两种查找表类型：&lt;br&gt;&lt;ul&gt;&lt;li&gt;离散表：指定一序列命名颜色（例如：GenericAnatomyColors）。离散表也可用于连续映射，此时颜色作为指定范围内等距的采样点，颜色之间平滑插值（例如：Grey）。&lt;/li&gt;&lt;li&gt;连续刻度：为任意选定的数值指定颜色，通过这些数值间的平滑插值计算颜色值（例如：PET-DICOM）。颜色无命名。&lt;/li&gt;所有内置颜色表均为只读。若需编辑颜色，请点击“复制”文件夹图标，创建颜色表副本。&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="188"/>
@@ -19856,7 +19856,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1857"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
-        <translation>Slicer 不是经FDA批准的医疗器械。&lt;br&gt;&lt;br&gt;支持单位：NA-MIC、NAC、BIRN、NCIGT及Slicer社区。&lt;br&gt;&lt;br&gt;特别感谢NIH及其他支持者。&lt;br&gt;&lt;br&gt;本工作是国家医学影像计算联盟（NA-MIC）的一部分，该联盟由国家卫生研究院（NIH）通过医疗研究NIH路线图项目资助，资助编号U54 EB005149。有关国家生物医学计算中心的信息可访问&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;。&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Slicer 不是FDA批准的医疗设备。&lt;br&gt;&lt;br&gt;由NA-MIC、NAC、BIRN、NCIGT及 Slicer 社区支持。&lt;br&gt;&lt;br&gt;特别感谢NIH及我们的其他支持者。&lt;br&gt;&lt;br&gt;本项目是国家医学影像计算联盟（NA-MIC）的一部分，资助来源为国家卫生研究院通过NIH医学研究路线图项目，资助编号U54 EB005149。有关国家生物医学计算中心的信息，请访问&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;。&lt;br&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -20396,7 +20396,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="135"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
         <oldsource>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</oldsource>
-        <translation>数据模块是数据组织的核心节点，所有加载的数据均在此处展示以供访问和操作。它支持以文件夹或患者/研究树的形式组织数据（DICOM数据会自动完成），可视化任何可显示的数据，整枝变换，以及众多特定数据类型的功能。</translation>
+        <translation>数据模块是数据组织的核心节点，所有加载的数据均在此处展示以供访问和操作。它支持以文件夹或患者/检查树的形式组织数据（DICOM数据会自动完成），可视化任何可显示的数据，整枝变换，以及众多特定数据类型的功能。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
@@ -23627,7 +23627,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="14"/>
         <source>Module finder</source>
-        <translation>查找模块</translation>
+        <translation>模块搜索器</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="80"/>
@@ -23768,7 +23768,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="111"/>
         <source>Find module</source>
-        <translation>查找模块</translation>
+        <translation>搜索模块</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="138"/>
@@ -24016,7 +24016,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="114"/>
         <source>Series</source>
-        <translation>系列</translation>
+        <translation>序列</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="120"/>
@@ -26084,7 +26084,7 @@ Note: This applies to segment tables in Segment Editor and Segmentations modules
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="33"/>
         <source>Disable splash screen:</source>
-        <translation>禁用启动屏幕：</translation>
+        <translation>禁用启动画面：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="50"/>
@@ -26486,7 +26486,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
         <source>Editor for .py files:</source>
-        <translation>.py 文件编辑器：</translation>
+        <translation>.py 脚本编辑器：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
@@ -26736,7 +26736,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="58"/>
         <source>Login:</source>
-        <translation>登录：</translation>
+        <translation>用户名：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="75"/>
@@ -27157,7 +27157,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="110"/>
         <source>Create child study</source>
-        <translation>创建子研究</translation>
+        <translation>创建子检查</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="115"/>
@@ -27167,7 +27167,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="120"/>
         <source>Convert folder to study</source>
-        <translation>将文件夹转换为研究</translation>
+        <translation>将文件夹转换为检查</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="125"/>
@@ -27184,15 +27184,15 @@ Click Cancel, to create the patient/study hierarchy manually and drag-and-drop t
 Default patient and study will be created and the selected data and its related datasets will be moved in it for export.
 
 If you&apos;d like to create the hierarchy manually, please click Cancel, then create a patient by right-clicking the empty area in Subject hierarchy in the Data module and choosing &apos;Create new subject&apos;. Study can be similarly created under the patient. The data to export can be drag&amp;dropped under the study.</oldsource>
-        <translation>要输出的数据需要在一个研究项目下，在主题层次结构中置于一个病人项目下。
-默认的病人和研究将被创建，选定的数据及其相关的数据集将被移入其中进行导出。
+        <translation>要输出的数据需要在一个检查项目下，在主题层次结构中置于一个病人项目下。
+默认的病人和检查将被创建，选定的数据及其相关的数据集将被移入其中进行导出。
 
-点击 &quot;取消&quot;，手动创建病人/研究的层次结构，并在研究下拖放可导出的数据。</translation>
+点击 &quot;取消&quot;，手动创建病人/检查的层次结构，并在检查下拖放可导出的数据。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="519"/>
         <source>Create new patient and study for DICOM export?</source>
-        <translation>为DICOM导出创建新的患者和研究？</translation>
+        <translation>为DICOM导出创建新的患者和检查？</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="615"/>
@@ -27202,7 +27202,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="643"/>
         <source>No study description</source>
-        <translation>无研究描述</translation>
+        <translation>无检查描述</translation>
     </message>
 </context>
 <context>
@@ -27882,12 +27882,12 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="118"/>
         <source>Study tags in item name:</source>
-        <translation>项目名称中的学习标签：</translation>
+        <translation>项目名称中的检查标签：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="70"/>
         <source>  Study date:</source>
-        <translation>  学习日期：</translation>
+        <translation>  检查日期：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="83"/>
@@ -27912,12 +27912,12 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="85"/>
         <source>Include study ID in the name of the study item</source>
-        <translation>在研究项目名称中包含研究 ID</translation>
+        <translation>在检查项目名称中包含检查 ID</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="88"/>
         <source>Include study date in the name of the study item</source>
-        <translation>在研究项目名称中包含研究日期</translation>
+        <translation>在检查项目名称中包含检查日期</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="91"/>
