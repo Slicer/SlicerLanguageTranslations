@@ -27847,7 +27847,7 @@ Tags: %6</source>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="138"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="151"/>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="158"/>
@@ -28315,7 +28315,7 @@ Tags: %6</source>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="42"/>
         <source>qSlicerSuperLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerSuperLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -28323,7 +28323,7 @@ Tags: %6</source>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerSuperLoadableModuleTemplate</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -28632,7 +28632,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="212"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished"></translation>
+        <translation>单击锁定此表格，以防止在用户界面中修改值</translation>
     </message>
 </context>
 <context>
@@ -28640,7 +28640,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="147"/>
         <source>Table reading failed: no file extension specified: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>表格读取失败：未指定文件扩展名：%1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="162"/>
@@ -28655,7 +28655,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="195"/>
         <source>Failed to read table from  &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>从“%1”读取表格失败</translation>
     </message>
 </context>
 <context>
