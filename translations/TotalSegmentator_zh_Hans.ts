@@ -6,12 +6,12 @@
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>输入</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="23"/>
         <source>Input volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入体：</translation>
     </message>
     <message>
         <location filename="TotalSegmentator/Resources/UI/TotalSegmentator.ui" line="30"/>
@@ -447,7 +447,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="28"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>分割</translation>
     </message>
 </context>
 </TS>
