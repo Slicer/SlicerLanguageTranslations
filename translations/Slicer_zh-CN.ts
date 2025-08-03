@@ -11,12 +11,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation>添加两个图像。尽管输入支持所有图像类型，但仅生成有符号类型。这两个图像不必具有相同的尺寸。</translation>
+        <translation>添加两个影像。尽管输入支持所有影像类型，但仅生成有符号类型。这两个影像不必具有相同的尺寸。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>本项目是国家医学影像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation>输入数据1</translation>
+        <translation>输入体积数据1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation>如果两个图像具有不同的几何体（原点、间距、轴方向或范围），则使用多项式插值的顺序：0=最近邻，1=线性，2=二次，3=三次插值。</translation>
+        <translation>如果两个影像具有不同的几何体（原点、间距、轴方向或范围），则使用多项式插值的顺序：0=最近邻，1=线性，2=二次，3=三次插值。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
@@ -99,7 +99,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
         <source>Input Image Volume</source>
-        <translation>输入图像体积</translation>
+        <translation>输入影像体积</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
@@ -114,7 +114,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation>要求：输入图像是 4D NRRD 图像。</translation>
+        <translation>要求：输入影像是 4D NRRD 影像。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
@@ -127,12 +127,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation>基于 T1/T2 图像的脑部匿名化处理（BRAINS）</translation>
+        <translation>基于 T1/T2 影像的脑部匿名化处理（BRAINS）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation>本程序功能：1）对一组图像执行匿名化处理。输入必须为 ACPC 对齐图像，且需提供 AC、PC、LE、RE 点坐标。</translation>
+        <translation>本程序功能：1）对一组影像执行匿名化处理。输入必须为 ACPC 对齐影像，且需提供 AC、PC、LE、RE 点坐标。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
@@ -142,12 +142,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
         <source>Input Images</source>
-        <translation>输入图像</translation>
+        <translation>输入影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
         <source>First Image, Second Image and Mask Image</source>
-        <translation>主图像、辅图像与掩膜图像</translation>
+        <translation>主影像、辅影像与蒙版影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
@@ -157,17 +157,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
         <source>Source Reference Image</source>
-        <translation>源参考图像</translation>
+        <translation>源参考影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
         <source>Source Passive Images Image</source>
-        <translation>源被动图像</translation>
+        <translation>源被动影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
         <source>Optional Mask</source>
-        <translation>可选掩膜</translation>
+        <translation>可选蒙版</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
@@ -177,17 +177,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
         <source>Input images, all images must be in the exact same physical space, ACPC aligned and consistent with landmarks.</source>
-        <translation>输入图像：所有图像必须处于完全相同的物理空间，ACPC 对齐且与标志点一致。</translation>
+        <translation>输入影像：所有影像必须处于完全相同的物理空间，ACPC 对齐且与标志点一致。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
         <source>Input images not used in generating masks, all images must be in the exact same physical space as inputVolumes, ACPC aligned and consistent with landmarks.</source>
-        <translation>未用于生成掩膜的输入图像：所有图像必须与输入体积处于完全相同的物理空间，ACPC 对齐并与标志点一致。</translation>
+        <translation>未用于生成蒙版的输入影像：所有影像必须与输入体积处于完全相同的物理空间，ACPC 对齐并与标志点一致。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
         <source>Optional pre-generated mask to use.</source>
-        <translation>可选的预生成掩膜。</translation>
+        <translation>可选的预生成蒙版。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
@@ -208,12 +208,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
         <source>Outputs from both MUSH generation and brain volume mask creation</source>
-        <translation>MUSH 生成与脑容积掩膜创建的双重输出</translation>
+        <translation>MUSH 生成与脑容积蒙版创建的双重输出</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="23"/>
         <source>brain volume mask</source>
-        <translation>脑容积掩膜</translation>
+        <translation>脑容积蒙版</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
@@ -223,7 +223,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
         <source>The brain volume mask generated from the MUSH image</source>
-        <translation>从 MUSH 图像生成的脑容积掩膜</translation>
+        <translation>从 MUSH 影像生成的脑容积蒙版</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="26"/>
@@ -238,27 +238,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
         <source>Modify the program to only generate a mask</source>
-        <translation>修改程序仅生成掩膜</translation>
+        <translation>修改程序仅生成蒙版</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
         <source>No Mask Application</source>
-        <translation>不应用掩膜</translation>
+        <translation>不应用蒙版</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation>不将掩膜应用于用于生成掩膜的输入图像</translation>
+        <translation>不将蒙版应用于用于生成蒙版的输入影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
         <source>Output Image Intensity Normalization</source>
-        <translation>输出图像强度归一化</translation>
+        <translation>输出影像强度归一化</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
         <source>Parameters for normalizing the output images.</source>
-        <translation>输出图像归一化参数。</translation>
+        <translation>输出影像归一化参数。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
@@ -329,7 +329,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation>将一个三维数据配准到一个参考数据（默认为Mattes Mutual Information）。方法在BRAINSFit中描述。全脑三维图像的互信息配准，使用Insight Toolkit，Johnson H.J.，Harris G.，Williams K.，The Insight Journal，2007。https://hdl.handle.net/1926/1291</translation>
+        <translation>将一个 3D 数据配准到一个参考数据（默认为Mattes Mutual Information）。方法在BRAINSFit中描述。全脑三维影像的互信息配准，使用Insight Toolkit，Johnson H.J.，Harris G.，Williams K.，The Insight Journal，2007。https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
@@ -339,17 +339,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
         <source>Input Images</source>
-        <translation>输入图像</translation>
+        <translation>输入影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
         <source>Fixed Image Volume</source>
-        <translation>固定图像数据</translation>
+        <translation>固定影像数据</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
         <source>Moving Image Volume</source>
-        <translation>移动图像数据</translation>
+        <translation>移动影像数据</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
@@ -364,22 +364,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
         <source>Input fixed image (the moving image will be transformed into this image space).</source>
-        <translation>输入修正的图像（移动图像将被转换到这个图像空间）。</translation>
+        <translation>输入修正的影像（移动影像将被转换到这个影像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
         <source>Input moving image (this image will be transformed into the fixed image space).</source>
-        <translation>输入移动图像（该图像将被转换到固定图像空间）。</translation>
+        <translation>输入移动影像（该影像将被转换到固定影像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation>固定图像中用于配准的体素比例。这个数字必须大于零，小于或等于一。较高的数值会增加计算时间，但可能会得到更准确的结果。你也可以用ROI蒙版和ROIAUTO蒙版生成来限制采样重点。默认值是0.002（使用大约0.2%的体素，在512x512x192的数据中产生100000个样本），在大多数情况下提供一个非常快速的配准。典型的数值范围是低细节图像的0.01（1%）到高细节图像的0.2（20%）。</translation>
+        <translation>固定影像中用于配准的体素比例。这个数字必须大于零，小于或等于一。较高的数值会增加计算时间，但可能会得到更准确的结果。你也可以用ROI蒙版和ROIAUTO蒙版生成来限制采样重点。默认值是0.002（使用大约0.2%的体素，在512x512x192的数据中产生100000个样本），在大多数情况下提供一个非常快速的配准。典型的数值范围是低细节影像的0.01（1%）到高细节影像的0.2（20%）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation>沿着固定图像的每个轴线，以图像空间为中心的B样条网格细分的数量。为了正确计算BSpline，数值必须是3或更高。</translation>
+        <translation>沿着固定影像的每个轴线，以影像空间为中心的B样条网格细分的数量。为了正确计算BSpline，数值必须是3或更高。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
@@ -399,7 +399,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
         <source>Output Image Volume</source>
-        <translation>输出图像数据</translation>
+        <translation>输出影像数据</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
@@ -414,7 +414,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation>(可选）输出图像：被扭曲到固定图像空间的移动图像。注意：你必须至少设置一个输出对象（变换和/或输出数据）。</translation>
+        <translation>(可选）输出影像：被扭曲到固定影像空间的移动影像。注意：你必须至少设置一个输出对象（变换和/或输出数据）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
@@ -439,12 +439,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation>要应用于移动图像的变换以初始化配准。 仅当“初始化转换模式”为“关闭”时，才能使用此功能。</translation>
+        <translation>要应用于移动影像的变换以初始化配准。 仅当“初始化转换模式”为“关闭”时，才能使用此功能。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation>确定如何初始化变换中心。 useMomentsAlign假设图像的质心代表类似的结构。 useCenterOfHeadAlign试图使用头顶和颈部的形状来驱动质心估计。 useGeometryAlign on假设图像的体素晶格的中心代表类似的结构。  Off假设图像的物理空间是接近的。  这个标志与初始化变换是相互排斥的。</translation>
+        <translation>确定如何初始化变换中心。 useMomentsAlign假设影像的质心代表类似的结构。 useCenterOfHeadAlign试图使用头顶和颈部的形状来驱动质心估计。 useGeometryAlign on假设影像的体素晶格的中心代表类似的结构。  Off假设影像的物理空间是接近的。  这个标志与初始化变换是相互排斥的。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -555,7 +555,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
         <source>Image Mask and Pre-Processing</source>
-        <translation>图像蒙版和预处理</translation>
+        <translation>影像蒙版和预处理</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
@@ -605,37 +605,37 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation>指定一个蒙版，只考虑某个图像区域进行配准。  如果选择ROIAUTO，则使用Ostu阈值和孔填充来计算蒙版。如果选择ROI，则必须在输入中指定蒙版。</translation>
+        <translation>指定一个蒙版，只考虑某个影像区域进行配准。  如果选择ROIAUTO，则使用Ostu阈值和孔填充来计算蒙版。如果选择ROI，则必须在输入中指定蒙版。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>固定的图像二进制蒙版数据，如果蒙版选项是ROI，则需要。蒙版数据为零的图像区域在配准时将被忽略。</translation>
+        <translation>固定的影像二进制蒙版数据，如果蒙版选项是ROI，则需要。蒙版数据为零的影像区域在配准时将被忽略。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>移动图像的二进制蒙版数据，如果蒙版选项是ROI，则需要。蒙版数据为零的图像区域在配准时将被忽略。</translation>
+        <translation>移动影像的二进制蒙版数据，如果蒙版选项是ROI，则需要。蒙版数据为零的影像区域在配准时将被忽略。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>从固定图像中自动计算出的ROI。只有当蒙版选项为ROIAUTO时才可用。蒙版数据为零的图像区域在配准过程中会被忽略。</translation>
+        <translation>从固定影像中自动计算出的ROI。只有当蒙版选项为ROIAUTO时才可用。蒙版数据为零的影像区域在配准过程中会被忽略。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>从移动图像中自动计算出的ROI。只有在遮蔽选项为ROIAUTO时才可用。蒙版数据为零的图像区域在配准过程中会被忽略。</translation>
+        <translation>从移动影像中自动计算出的ROI。只有在遮蔽选项为ROIAUTO时才可用。蒙版数据为零的影像区域在配准过程中会被忽略。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
         <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
-        <translation>如果启用，那么输入ROI的边界框将定义B样条网格支持区域。否则，B样条网格支持区域就是整个固定图像。</translation>
+        <translation>如果启用，那么输入ROI的边界框将定义B样条网格支持区域。否则，B样条网格支持区域就是整个固定影像。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
         <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
-        <translation>对输入的图像应用直方图匹配操作，使其更加相似。  这适用于同一模式的图像，这些图像可能有不同的亮度或对比度，但整体强度曲线相同。如果配准来自不同模式的图像，请勿使用。</translation>
+        <translation>对输入的影像应用直方图匹配操作，使其更加相似。  这适用于同一模式的影像，这些影像可能有不同的亮度或对比度，但整体强度曲线相同。如果配准来自不同模式的影像，请勿使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
@@ -645,7 +645,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation>从输入的体积中删除强度非常高和非常低的体素。该参数指定半百分比以确定图像强度的异常值。默认值为零，表示不删除异常值。如果给出 0.005 的值，则两个尾部的 0.005% 将被丢弃，因此在统计计算中将忽略总强度的 0.01%。</translation>
+        <translation>从输入的体积中删除强度非常高和非常低的体素。该参数指定半百分比以确定影像强度的异常值。默认值为零，表示不删除异常值。如果给出 0.005 的值，则两个尾部的 0.005% 将被丢弃，因此在统计计算中将忽略总强度的 0.01%。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
@@ -671,17 +671,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
         <source>Fixed Image Volume 2</source>
-        <translation>固定图像数据2</translation>
+        <translation>固定影像数据2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
         <source>Moving Image Volume2</source>
-        <translation>移动图像数据2</translation>
+        <translation>移动影像数据2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
         <source>Output Image Pixel Type</source>
-        <translation>输出图像像素类型</translation>
+        <translation>输出影像像素类型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
@@ -701,12 +701,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
         <source>Input fixed image that will be used for multimodal registration. (the moving image will be transformed into this image space).</source>
-        <translation>输入固定图像，将用于多模态配准。(移动图像将被转换到这个图像空间)。</translation>
+        <translation>输入固定影像，将用于多模态配准。(移动影像将被转换到这个影像空间)。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="82"/>
         <source>Input moving image that will be used for multimodal registration(this image will be transformed into the fixed image space).</source>
-        <translation>输入将用于多模态配准的移动图像（该图像将被转换到固定的图像空间）。</translation>
+        <translation>输入将用于多模态配准的移动影像（该影像将被转换到固定的影像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
@@ -716,17 +716,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
         <source>This value will be used for filling those areas of the output image that have no corresponding voxels in the input moving image.</source>
-        <translation>这个值将用于填充输出图像中的那些在输入移动图像中没有相应体素的区域。</translation>
+        <translation>这个值将用于填充输出影像中的那些在输入移动影像中没有相应体素的区域。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
         <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
-        <translation>如果为真，且体素值不符合所需的outputVolumePixelType的最小和最大值，则线性缩放最小/最大输出图像体素值以符合outputVolumePixelType的最小/最大范围。</translation>
+        <translation>如果为真，且体素值不符合所需的outputVolumePixelType的最小和最大值，则线性缩放最小/最大输出影像体素值以符合outputVolumePixelType的最小/最大范围。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
-        <translation>在对移动数据进行变换时，要使用的插值类型。  选项包括线性、最近相邻、BSpline、WindowedSinc、Hamming、Cosine、Welch、Lanczos或ResampleInPlace。  ResampleInPlace选项将创建一个具有相同离散体素值的图像，并将调整物理空间解释的原点和方向。</translation>
+        <translation>在对移动数据进行变换时，要使用的插值类型。  选项包括线性、最近相邻、BSpline、WindowedSinc、Hamming、Cosine、Welch、Lanczos或ResampleInPlace。  ResampleInPlace选项将创建一个具有相同离散体素值的影像，并将调整物理空间解释的原点和方向。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
@@ -894,7 +894,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation>B样条控制网格沿每个轴的图像物理坐标（mm）中允许的最大位移。 值 0.0表示问题应不受限制。 注意：这仅约束 B样条部分，并不限制关联批量转换的位移。 这可以大大减少B样条优化器中的计算时间。
+        <translation>B样条控制网格沿每个轴的影像物理坐标（mm）中允许的最大位移。 值 0.0表示问题应不受限制。 注意：这仅约束 B样条部分，并不限制关联批量转换的位移。 这可以大大减少B样条优化器中的计算时间。
       </translation>
     </message>
     <message>
@@ -905,12 +905,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="123"/>
         <source>Fixed Image Time Index</source>
-        <translation>固定图像时间索引</translation>
+        <translation>固定影像时间索引</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="124"/>
         <source>Moving Image Time Index</source>
-        <translation>移动图像时间索引</translation>
+        <translation>移动影像时间索引</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="125"/>
@@ -965,7 +965,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
         <source>Pass warped moving image to BSpline registration filter</source>
-        <translation>将扭曲的运动图像传递到B样条配准滤波器</translation>
+        <translation>将扭曲的运动影像传递到B样条配准滤波器</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
@@ -975,12 +975,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
         <source>The index in the time series for the 3D fixed image to fit. Only allowed if the fixed input volume is 4-dimensional.</source>
-        <translation>拟合三维固定图像的时间序列中的索引。只有在固定输入数据为四维时才允许。</translation>
+        <translation>拟合 3D 固定影像的时间序列中的索引。只有在固定输入数据为四维时才允许。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation>拟合三维移动图像的时间序列中的索引。只有在移动输入数据是四维的情况下才允许</translation>
+        <translation>拟合 3D 移动影像的时间序列中的索引。只有在移动输入数据是四维的情况下才允许</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
@@ -1000,7 +1000,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation>如果初始化转换模式设置为useCenterOfHeadAlign或蒙版选项为ROIAUTO，那么这个值定义了从图像的下半部分切去多少。切断距离的单位是毫米，相对于图像中心。如果该值为1000或更大，则不进行截断。</translation>
+        <translation>如果初始化转换模式设置为useCenterOfHeadAlign或蒙版选项为ROIAUTO，那么这个值定义了从影像的下半部分切去多少。切断距离的单位是毫米，相对于影像中心。如果该值为1000或更大，则不进行截断。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
@@ -1022,7 +1022,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation>估计仿生转换的刚性分量。可用于将移动图像刚性地配准到固定图像上。注意：如果设置了b样条转换或线性转换，这个值会被覆盖。</translation>
+        <translation>估计仿生转换的刚性分量。可用于将移动影像刚性地配准到固定影像上。注意：如果设置了b样条转换或线性转换，这个值会被覆盖。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
@@ -1037,7 +1037,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation>如果这个标志是ON，当前的通用复合转换，即线性配准阶段的结果，将被设置为初始化后续的非线性配准过程。然而，在默认情况下，移动图像在被传递到B样条配准过滤器之前，会首先基于现有的转换进行扭曲。这样做是为了通过减少复合转换Jacobian的计算来加快B样条配准的速度。</translation>
+        <translation>如果这个标志是ON，当前的通用复合转换，即线性配准阶段的结果，将被设置为初始化后续的非线性配准过程。然而，在默认情况下，移动影像在被传递到B样条配准过滤器之前，会首先基于现有的转换进行扭曲。这样做是为了通过减少复合转换Jacobian的计算来加快B样条配准的速度。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
@@ -1147,17 +1147,17 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="171"/>
         <source>Display intermediate image volumes for debugging.  NOTE:  This is not part of the standard build system, and probably does nothing on your installation.</source>
-        <translation>显示中间图像数据以进行调试。 注意：这不是标准构建系统的一部分，可能对您的安装没有任何作用。</translation>
+        <translation>显示中间影像数据以进行调试。 注意：这不是标准构建系统的一部分，可能对您的安装没有任何作用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
         <source>Prompt the user to hit enter each time an image is sent to the DebugImageViewer</source>
-        <translation>每次有图像被发送到调试图像查看器时，提示用户点击回车</translation>
+        <translation>每次有影像被发送到调试影像查看器时，提示用户点击回车</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
         <source>It defines the method that registration filter uses to sample the input fixed image. Only Random is supported for now.</source>
-        <translation>它定义了配准过滤器用来对输入的固定图像进行采样的方法。目前只支持随机。</translation>
+        <translation>它定义了配准过滤器用来对输入的固定影像进行采样的方法。目前只支持随机。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
@@ -1182,7 +1182,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation>该程序用于在图像中最突出的前景区域上创建蒙版。 这是通过 otsu 阈值和关闭操作的组合来实现的。
+        <translation>该程序用于在影像中最突出的前景区域上创建蒙版。 这是通过 otsu 阈值和关闭操作的组合来实现的。
   </translation>
     </message>
     <message>
@@ -1203,7 +1203,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
         <source>Input Image Volume</source>
-        <translation>输入图像数据</translation>
+        <translation>输入影像数据</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
@@ -1213,7 +1213,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation>输出图像</translation>
+        <translation>输出影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
@@ -1223,17 +1223,17 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="14"/>
         <source>Output Image Clipped by ROI</source>
-        <translation>按 ROI 裁剪的输出图像</translation>
+        <translation>按 ROI 裁剪的输出影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="15"/>
         <source>The input image for finding the largest region filled mask.</source>
-        <translation>用于寻找最大区域填充蒙版的输入图像。</translation>
+        <translation>用于寻找最大区域填充蒙版的输入影像。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="16"/>
         <source>The ROI automatically found from the input image.</source>
-        <translation>从输入图像中自动找到的ROI。</translation>
+        <translation>从输入影像中自动找到的ROI。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
@@ -1278,7 +1278,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
         <source>Output Image Pixel Type</source>
-        <translation>输出图像像素类型</translation>
+        <translation>输出影像像素类型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
@@ -1293,12 +1293,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="28"/>
         <source>A factor to scale the Otsu algorithm&apos;s result threshold, in case clipping mangles the image.</source>
-        <translation>缩放 Otsu 算法结果阈值的一个因素，以防剪裁破坏图像。</translation>
+        <translation>缩放 Otsu 算法结果阈值的一个因素，以防剪裁破坏影像。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
         <source>The Closing Size (in millimeters) for largest connected filled mask.  This value is divided by image spacing and rounded to the next largest voxel number.</source>
-        <translation>最大连接填充蒙版的闭合尺寸（以毫米为单位）。 此值除以图像间距并四舍五入到下一个最大的体素数。</translation>
+        <translation>最大连接填充蒙版的闭合尺寸（以毫米为单位）。 此值除以影像间距并四舍五入到下一个最大的体素数。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
@@ -1308,7 +1308,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
         <source>The output image Pixel Type is the scalar datatype for representation of the Output Volume.</source>
-        <translation>输出图像像素类型是用于表示输出数据的标量数据类型。</translation>
+        <translation>输出影像像素类型是用于表示输出数据的标量数据类型。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
@@ -1352,7 +1352,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="4"/>
         <source>Resample Image (BRAINS)</source>
-        <translation>重采样图像（大脑）</translation>
+        <translation>重采样影像（大脑）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="5"/>
@@ -1360,7 +1360,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </source>
         <translation>
-    这个程序收集了三种常见的图像处理任务，它们都涉及到对图像数据的重新取样。重新取样到一个新的分辨率和间距，应用变换（使用ITK变换IO机制）和扭曲（使用矢量图像变形场）。
+    这个程序收集了三种常见的影像处理任务，它们都涉及到对影像数据的重新取样。重新取样到一个新的分辨率和间距，应用变换（使用ITK变换IO机制）和扭曲（使用矢量影像变形场）。
   </translation>
     </message>
     <message>
@@ -1376,23 +1376,23 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation>用于指定要扭曲的图像和产生的图像空间的参数</translation>
+        <translation>用于指定要扭曲的影像和产生的影像空间的参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="11"/>
         <source>Image To Warp</source>
-        <translation>图像扭曲</translation>
+        <translation>影像扭曲</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
         <source>Reference Image</source>
-        <translation>参考图像</translation>
+        <translation>参考影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="12"/>
         <source>Reference image used only to define the output space. If not specified, the warping is done in the same space as the image to warp.</source>
-        <translation>仅用于定义输出空间的参考图像。如果不指定，则在与要扭曲的图像相同的空间中进行扭曲。</translation>
+        <translation>仅用于定义输出空间的参考影像。如果不指定，则在与要扭曲的影像相同的空间中进行扭曲。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="13"/>
@@ -1402,12 +1402,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="14"/>
         <source>Resulting deformed image parameters</source>
-        <translation>生成的变形图像参数</translation>
+        <translation>生成的变形影像参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="15"/>
         <source>Output Image</source>
-        <translation>输出图像</translation>
+        <translation>输出影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="16"/>
@@ -1417,12 +1417,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="17"/>
         <source>Resulting deformed image</source>
-        <translation>生成的变形图像</translation>
+        <translation>生成的变形影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="18"/>
         <source>Specifies the pixel type for the input/output images.  If the type is &quot;input&quot;, then infer from the input image.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation>指定输入/输出图像的像素类型。  如果类型是 &quot;输入&quot;，那么就从输入图像中推断。  “二进制 ”像素类型使用一种修改过的算法，即图像以无符号字符形式读入，创建一个有符号的距离图，对有符号的距离图进行重采样，然后将无符号字符类型的阈值图像写入磁盘。</translation>
+        <translation>指定输入/输出影像的像素类型。  如果类型是 &quot;输入&quot;，那么就从输入影像中推断。  “二进制 ”像素类型使用一种修改过的算法，即影像以无符号字符形式读入，创建一个有符号的距离图，对有符号的距离图进行重采样，然后将无符号字符类型的阈值影像写入磁盘。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
@@ -1473,7 +1473,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="29"/>
         <source>Parameters used to define home the image is warped</source>
-        <translation>用来定义图像的变形原点的参数</translation>
+        <translation>用来定义影像的变形原点的参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="30"/>
@@ -1503,7 +1503,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="35"/>
         <source>Displacement Field to be used to warp the image (ITKv3 or earlier)</source>
-        <translation>用于扭曲图像的位移字段（ITKv3 或更早版本）</translation>
+        <translation>用于扭曲影像的位移字段（ITKv3 或更早版本）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="36"/>
@@ -1589,7 +1589,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation>在输出的图像中添加扭曲的网格，以帮助显示在指定间距下发生的变形。   如果某一维度的间距为0，则表示网格线应该被渲染成准确的落差（即不允许偏离该平面的位移）。  这对于从三维空间制作网格线的二维图像很有用</translation>
+        <translation>在输出的影像中添加扭曲的网格，以帮助显示在指定间距下发生的变形。   如果某一维度的间距为0，则表示网格线应该被渲染成准确的落差（即不允许偏离该平面的位移）。  这对于从三维空间制作网格线的二维影像很有用</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
@@ -1612,7 +1612,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="4"/>
         <source>Resize Image (BRAINS)</source>
-        <translation>调整图像大小（BRAINS）</translation>
+        <translation>调整影像大小（BRAINS）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="5"/>
@@ -1620,7 +1620,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
 This program is useful for downsampling an image by a constant scale factor.
   </source>
         <translation>
-这个程序对于通过一个恒定的比例系数对图像进行降采样很有用。
+这个程序对于通过一个恒定的比例系数对影像进行降采样很有用。
   </translation>
     </message>
     <message>
@@ -1636,17 +1636,17 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation>用于指定要扭曲的图像和生成的图像空间的参数</translation>
+        <translation>用于指定要扭曲的影像和生成的影像空间的参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
         <source>Image To Warp</source>
-        <translation>图像扭曲</translation>
+        <translation>影像扭曲</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"/>
         <source>Image To Scale</source>
-        <translation>图像缩放</translation>
+        <translation>影像缩放</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"/>
@@ -1656,12 +1656,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"/>
         <source>Resulting scaled image parameters</source>
-        <translation>缩放后的图像参数</translation>
+        <translation>缩放后的影像参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"/>
         <source>Output Image</source>
-        <translation>输出图像</translation>
+        <translation>输出影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
@@ -1671,12 +1671,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="15"/>
         <source>Resulting scaled image</source>
-        <translation>缩放后的图像</translation>
+        <translation>缩放后的影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"/>
         <source>Specifies the pixel type for the input/output images.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation>指定输入/输出图像的像素类型。  二进制 &quot;像素类型使用一种修改过的算法，即图像以无符号字符的形式被读入，创建一个有符号的距离图，对有符号的距离图进行重采样，然后将一个无符号字符类型的阈值图像写入磁盘。</translation>
+        <translation>指定输入/输出影像的像素类型。  二进制 &quot;像素类型使用一种修改过的算法，即影像以无符号字符的形式被读入，创建一个有符号的距离图，对有符号的距离图进行重采样，然后将一个无符号字符类型的阈值影像写入磁盘。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
@@ -1722,7 +1722,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="26"/>
         <source>Parameters used to define the scaling of the output image</source>
-        <translation>用于定义输出图像缩放比例的参数</translation>
+        <translation>用于定义输出影像缩放比例的参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="27"/>
@@ -1732,7 +1732,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="28"/>
         <source>The scale factor for the image spacing.</source>
-        <translation>图像间距的比例系数。</translation>
+        <translation>影像间距的比例系数。</translation>
     </message>
 </context>
 <context>
@@ -1745,7 +1745,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
         <source>Read an Image, write out same image with identity rotation matrix plus an ITK transform file</source>
-        <translation>读取一个图像，写出同一图像的旋转矩阵和一个ITK转换文件</translation>
+        <translation>读取一个影像，写出同一影像的旋转矩阵和一个ITK转换文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
@@ -1756,12 +1756,12 @@ This program is useful for downsampling an image by a constant scale factor.
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"/>
         <source>Image To Warp</source>
-        <translation>图像扭曲</translation>
+        <translation>影像扭曲</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
         <source>Output Image</source>
-        <translation>输出图像</translation>
+        <translation>输出影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
@@ -1771,7 +1771,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"/>
         <source>Resulting deformed image</source>
-        <translation>生成的变形图像</translation>
+        <translation>生成的变形影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"/>
@@ -1816,7 +1816,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"/>
         <source>Reference image</source>
-        <translation>参考图像</translation>
+        <translation>参考影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="12"/>
@@ -1900,7 +1900,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是美国国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>本项目是美国国家医学影像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
@@ -1999,12 +1999,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"/>
         <source>Create a checkerboard volume of two volumes. The output volume will show the two inputs alternating according to the user supplied checkerPattern. This filter is often used to compare the results of image registration. Note that the second input is resampled to the same origin, spacing and direction before it is composed with the first input. The scalar type of the output volume will be the same as the input image scalar type.</source>
-        <translation>创建一个由两个数据组成的棋盘式数据。输出的数据将显示两个输入根据用户提供的棋盘格图案交替出现。这个过滤器经常被用来比较图像配准的结果。请注意，第二个输入在与第一个输入组成之前被重新取样到相同的原点、间距和方向。输出数据的标量类型将与输入图像的标量类型相同。</translation>
+        <translation>创建一个由两个数据组成的棋盘式数据。输出的数据将显示两个输入根据用户提供的棋盘格图案交替出现。这个过滤器经常被用来比较影像配准的结果。请注意，第二个输入在与第一个输入组成之前被重新取样到相同的原点、间距和方向。输出数据的标量类型将与输入影像的标量类型相同。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是美国国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>本项目是美国国家医学影像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
@@ -2024,7 +2024,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"/>
         <source>The pattern of input 1 and input 2 in the output image. The user can specify the number of checkers in each dimension. A checkerPattern of 2,2,1 means that images will alternate in every other checker in the first two dimensions. The same pattern will be used in the 3rd dimension.</source>
-        <translation>在输出图像中的输入1和输入2的模式。用户可以指定在每个维度中指定检查器的数量。一个2,2,1的checkerPattern意思是图像将在前两个维度上被替换为每个其他的检查器。此时第三个维度将使用和前两个维度相同的检查器。</translation>
+        <translation>在输出影像中的输入1和输入2的模式。用户可以指定在每个维度中指定检查器的数量。一个2,2,1的checkerPattern意思是影像将在前两个维度上被替换为每个其他的检查器。此时第三个维度将使用和前两个维度相同的检查器。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="11"/>
@@ -2552,12 +2552,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="104"/>
         <source>Image Parameters</source>
-        <translation>图像参数</translation>
+        <translation>影像参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="105"/>
         <source>Parameters that apply to the images and data in each image</source>
-        <translation>适用于每个图像中的图像和数据的参数</translation>
+        <translation>适用于每个影像中的影像和数据的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="106"/>
@@ -2597,12 +2597,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="113"/>
         <source>Window center (0028,1050). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Center contains the input value that is the center of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation>窗口中心（0028,1050）。指定从存储的像素值（在应用了重缩放斜率和交互感知后）到要显示的值的线性转换。窗口中心包含作为窗口中心的输入值。如果窗口中心或宽度没有定义，那么窗口将被设置为图像的全部强度范围。</translation>
+        <translation>窗口中心（0028,1050）。指定从存储的像素值（在应用了重缩放斜率和交互感知后）到要显示的值的线性转换。窗口中心包含作为窗口中心的输入值。如果窗口中心或宽度没有定义，那么窗口将被设置为影像的全部强度范围。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="114"/>
         <source>Window width (0028,1051). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Width contains the width of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation>窗口宽度（0028,1051）。指定从存储的像素值（在应用了重缩放斜率和交互感知后）到要显示的值的线性转换。窗口宽度包含窗口的宽度。如果窗口中心或宽度未被定义，那么窗口将被设置为图像的全部强度范围。</translation>
+        <translation>窗口宽度（0028,1051）。指定从存储的像素值（在应用了重缩放斜率和交互感知后）到要显示的值的线性转换。窗口宽度包含窗口的宽度。如果窗口中心或宽度未被定义，那么窗口将被设置为影像的全部强度范围。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"/>
@@ -2617,7 +2617,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
         <source>Specifies the output units of the rescaled image (0008,1054). Leave it blank to set it automatically (Hounsfield unit for CT, unspecified for others).</source>
-        <translation>指定重新缩放图像的输出单位（0008,1054）。留空是为了自动设置（对CT来说是Hounsfield单位，对其他来说是未指定的）。</translation>
+        <translation>指定重新缩放影像的输出单位（0008,1054）。留空是为了自动设置（对CT来说是Hounsfield单位，对其他来说是未指定的）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="118"/>
@@ -2627,7 +2627,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="119"/>
         <source>The time of the image content (0008,0033) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation>图像内容的时间（0008,0033），格式为HHMMSS。如果设置为&quot;[now]&quot;，则使用当前时间。</translation>
+        <translation>影像内容的时间（0008,0033），格式为HHMMSS。如果设置为&quot;[now]&quot;，则使用当前时间。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="120"/>
@@ -2689,11 +2689,11 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
 MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</oldsource>
-        <translation>使用修改的曲率扩散方程（MCDE）对图像执行各向异性扩散。
+        <translation>使用修改的曲率扩散方程（MCDE）对影像执行各向异性扩散。
 
 MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异性扩散可在某些条件下经历“负”扩散，这增强了边缘的对比度。MCDE 形式的方程总是经历正扩散，电导项仅改变扩散的强度。
 
-从定性上讲，MCDE 比其他非线性扩散技术好。它比经典的 Perona-Malik 风格扩散对对比度的敏感度低，并保留了图像中更精细的细节结构。使用此函数代替梯度各向异性扩散存在潜在的速度折衷。解决方案的每次迭代大约需要两倍的时间。然而，可能需要更少的迭代来达到可接受的解决方案。</translation>
+从定性上讲，MCDE 比其他非线性扩散技术好。它比经典的 Perona-Malik 风格扩散对对比度的敏感度低，并保留了影像中更精细的细节结构。使用此函数代替梯度各向异性扩散存在潜在的速度折衷。解决方案的每次迭代大约需要两倍的时间。然而，可能需要更少的迭代来达到可接受的解决方案。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
@@ -2740,7 +2740,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation>时间步长取决于图像的维度。在Slicer中，图像是三维的，默认的（0.0625）时间步长将提供一个稳定的解决方案。</translation>
+        <translation>时间步长取决于影像的维度。在Slicer中，影像是三维的，默认的（0.0625）时间步长将提供一个稳定的解决方案。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"/>
@@ -2788,7 +2788,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  Additional support for DTI data produced on Philips scanners was contributed by Vincent Magnotta and Hans Johnson at the University of Iowa.</source>
-        <translation>这项工作是美国国家医学图像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过 NIH 医学研究路线图（Grant U54 EB005149）资助。爱荷华州大学的文森特·马格诺塔（Vincent Magnotta）和汉斯·约翰逊（Hans Johnson）对飞利浦扫描仪产生的 DTI 数据提供了额外的支持。</translation>
+        <translation>本项目是美国国家医学影像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过 NIH 医学研究路线图（Grant U54 EB005149）资助。爱荷华州大学的文森特·马格诺塔（Vincent Magnotta）和汉斯·约翰逊（Hans Johnson）对飞利浦扫描仪产生的 DTI 数据提供了额外的支持。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="8"/>
@@ -2987,7 +2987,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="48"/>
         <source>Allow lossy image conversion</source>
-        <translation>允许有损的图像转换</translation>
+        <translation>允许有损的影像转换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
@@ -3022,7 +3022,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
         <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
-        <translation>唯一支持的输出类型是 &quot;短整型&quot;。从不同类型的图像转换可能会由于四舍五入或截断而导致数据丢失。请谨慎使用!</translation>
+        <translation>唯一支持的输出类型是 &quot;短整型&quot;。从不同类型的影像转换可能会由于四舍五入或截断而导致数据丢失。请谨慎使用!</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
@@ -3065,7 +3065,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过 NIH 医学研究路线图（Grant U54 EB005149）资助。</translation>
+        <translation>本项目是国家医学影像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过 NIH 医学研究路线图（Grant U54 EB005149）资助。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
@@ -3234,7 +3234,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="39"/>
         <source>File, Directory and Image Parameters</source>
-        <translation>文件、目录和图像参数</translation>
+        <translation>文件、目录和影像参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="40"/>
@@ -3264,17 +3264,17 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="45"/>
         <source>Input image</source>
-        <translation>输入图像</translation>
+        <translation>输入影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="46"/>
         <source>Input 4D Image</source>
-        <translation>输入 4D 图像</translation>
+        <translation>输入 4D 影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="47"/>
         <source>Output image</source>
-        <translation>输出图像</translation>
+        <translation>输出影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="48"/>
@@ -3299,17 +3299,17 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="52"/>
         <source>An input image</source>
-        <translation>一个输入图像</translation>
+        <translation>一个输入影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="53"/>
         <source>Input 4D Image (txyz)</source>
-        <translation>输入4D图像（txyz）</translation>
+        <translation>输入4D影像（txyz）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="54"/>
         <source>An output image</source>
-        <translation>一个输出图像</translation>
+        <translation>一个输出影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="55"/>
@@ -3504,12 +3504,12 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="93"/>
         <source>First index argument is an image</source>
-        <translation>第一个索引参数是一个图像</translation>
+        <translation>第一个索引参数是一个影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="94"/>
         <source>Second index argument is an image</source>
-        <translation>第二个索引参数是一个图像</translation>
+        <translation>第二个索引参数是一个影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="95"/>
@@ -3667,7 +3667,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="6"/>
         <source>The original implementation of this method was provided by ETH Zurich, Image Analysis Laboratory of Profs Olaf Kuebler, Gabor Szekely and Guido Gerig.  Martin Styner at UNC, Chapel Hill made enhancements.  Wrapping for Slicer was provided by Pierre Seroul and Stephen Aylward at Kitware, Inc.</source>
-        <translation>这个方法的原始实现是由苏黎世联邦理工学院Olaf Kuebler、Gabor Szekely和Guido Gerig教授的图像分析实验室提供。  联合国大学教堂山分校的Martin Styner对其进行了改进。  Slicer的包装是由Kitware公司的Pierre Seroul和Stephen Aylward提供的。</translation>
+        <translation>这个方法的原始实现是由苏黎世联邦理工学院Olaf Kuebler、Gabor Szekely和Guido Gerig教授的影像分析实验室提供。  联合国大学教堂山分校的Martin Styner对其进行了改进。  Slicer的包装是由Kitware公司的Pierre Seroul和Stephen Aylward提供的。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
@@ -3682,22 +3682,22 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation>输入图像</translation>
+        <translation>输入影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="10"/>
         <source>Output Image</source>
-        <translation>输出图像</translation>
+        <translation>输出影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="11"/>
         <source>Input image</source>
-        <translation>输入图像</translation>
+        <translation>输入影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="12"/>
         <source>Skeleton of the input image.</source>
-        <translation>输入图像的骨架。</translation>
+        <translation>输入影像的骨架。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="13"/>
@@ -3786,7 +3786,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过NIH医学研究路线图（Grant U54 EB005149）资助。</translation>
+        <translation>本项目是国家医学影像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过NIH医学研究路线图（Grant U54 EB005149）资助。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
@@ -3831,7 +3831,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"/>
         <source>Ordered list of landmarks in the fixed image</source>
-        <translation>固定图像中标志的有序列表</translation>
+        <translation>固定影像中标志的有序列表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="17"/>
@@ -3885,17 +3885,17 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="5"/>
         <source>Gaussian Blur Image Filter</source>
-        <translation>高斯模糊图像滤波器</translation>
+        <translation>高斯模糊影像滤波器</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="6"/>
         <source>Apply a gaussian blur to an image</source>
-        <translation>在图像上应用高斯模糊法</translation>
+        <translation>在影像上应用高斯模糊法</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过NIH医学研究路线图（Grant U54 EB005149）资助。</translation>
+        <translation>本项目是国家医学影像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过NIH医学研究路线图（Grant U54 EB005149）资助。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
@@ -3952,7 +3952,7 @@ MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异�
 Anisotropic diffusion methods reduce noise (or unwanted detail) in images while preserving specific image features, like edges.  For many applications, there is an assumption that light-dark transitions (edges) are interesting.  Standard isotropic diffusion methods move and blur light-dark boundaries.  Anisotropic diffusion methods are formulated to specifically preserve edges. The conductance term for this implementation is a function of the gradient magnitude of the image at each point, reducing the strength of diffusion at edges. The numerical implementation of this equation is similar to that described in the Perona-Malik paper, but uses a more robust technique for gradient magnitude estimation and has been generalized to N-dimensions.</source>
         <translation>在一个体积上运行梯度各向异性扩散。
 
-各向异性扩散方法可以减少图像中的噪声（或不需要的细节），同时保留特定的图像特征，如边缘。  对于许多应用来说，有一个假设，即明暗过渡（边缘）很有趣。  标准的各向同性扩散方法会移动和模糊明暗界限。  各向异性的扩散方法是为了专门保护边缘而制定的。这个实现的传导项是图像在每个点上的梯度大小的函数，减少了边缘的扩散强度。这个方程的数值实现与Perona-Malik论文中描述的类似，但使用了一种更稳健的梯度估计技术，并被推广到N维。</translation>
+各向异性扩散方法可以减少影像中的噪声（或不需要的细节），同时保留特定的影像特征，如边缘。  对于许多应用来说，有一个假设，即明暗过渡（边缘）很有趣。  标准的各向同性扩散方法会移动和模糊明暗界限。  各向异性的扩散方法是为了专门保护边缘而制定的。这个实现的传导项是影像在每个点上的梯度大小的函数，减少了边缘的扩散强度。这个方程的数值实现与Perona-Malik论文中描述的类似，但使用了一种更稳健的梯度估计技术，并被推广到N维。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
@@ -3997,7 +3997,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation>时间步长取决于图像的维度。在 Slicer 中，图像是3D的，默认时间步长（0.0625）将提供稳定的解决方案。</translation>
+        <translation>时间步长取决于影像的维度。在 Slicer 中，影像是3D的，默认时间步长（0.0625）将提供稳定的解决方案。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
@@ -4042,12 +4042,12 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="24"/>
         <source>Use image spacing</source>
-        <translation>使用图像间距</translation>
+        <translation>使用影像间距</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
         <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
-        <translation>![CDATA[在计算中考虑到图像的间距。  建议打开这个选项，特别是当不同维度的像素大小不同时。然而，为了产生与Slicer4.2和更早版本一致的结果，应关闭此选项。]]</translation>
+        <translation>![CDATA[在计算中考虑到影像的间距。  建议打开这个选项，特别是当不同维度的像素大小不同时。然而，为了产生与Slicer4.2和更早版本一致的结果，应关闭此选项。]]</translation>
     </message>
 </context>
 <context>
@@ -4055,7 +4055,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="5"/>
         <source>Grayscale Fill Hole Image Filter</source>
-        <translation>灰度填充孔图像过滤器</translation>
+        <translation>灰度填充孔影像过滤器</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="6"/>
@@ -4077,20 +4077,20 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation>GrayscaleFillholeImageFilter可以填补灰度图像中的洞。  孔是灰度地形中的局部最小值，与图像的边界没有联系。与洞相邻的灰度值被外推到洞的对面。
+        <translation>GrayscaleFillholeImageFilter可以填补灰度影像中的洞。  孔是灰度地形中的局部最小值，与影像的边界没有联系。与洞相邻的灰度值被外推到洞的对面。
 
-这个滤波器是用来平滑局部最小值的，而不影响局部最大值的值。  如果你把这个滤波器的输出和原始图像之间的差值（也许还可以把差值的阈值提高到一个小值），你就会得到一个局部最小值的地图。
+这个滤波器是用来平滑局部最小值的，而不影响局部最大值的值。  如果你把这个滤波器的输出和原始影像之间的差值（也许还可以把差值的阈值提高到一个小值），你就会得到一个局部最小值的地图。
 
-这个过滤器使用itkGrayscaleGeodesicErodeImageFilter。  它提供自己的输入作为测地线侵蚀的 &quot;蒙版 &quot;输入。  测地线侵蚀的 &quot;标记 &quot;图像是这样构建的：边界像素与输入图像的边界像素相匹配，内部像素被设置为输入图像的最大像素值。
+这个过滤器使用itkGrayscaleGeodesicErodeImageFilter。  它提供自己的输入作为测地线侵蚀的 &quot;蒙版 &quot;输入。  测地线侵蚀的 &quot;标记 &quot;影像是这样构建的：边界像素与输入影像的边界像素相匹配，内部像素被设置为输入影像的最大像素值。
 
- 测地线形态学和Fillhole算法在Pierre Soille的《形态学图像分析》一书的第六章中有所描述。原理与应用》，第二版，Springer，2003。
+ 测地线形态学和Fillhole算法在Pierre Soille的《形态学影像分析》一书的第六章中有所描述。原理与应用》，第二版，Springer，2003。
 
- 一个配套的过滤器，灰度磨峰，可以去除灰度图像中的峰值。</translation>
+ 一个配套的过滤器，灰度磨峰，可以去除灰度影像中的峰值。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，资助号为U54 EB005149。</translation>
+        <translation>本项目是国家医学影像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，资助号为U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
@@ -4128,7 +4128,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="5"/>
         <source>Grayscale Grind Peak Image Filter</source>
-        <translation>灰度研磨峰值图像过滤器</translation>
+        <translation>灰度研磨峰值影像过滤器</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="6"/>
@@ -4143,22 +4143,22 @@ This filter is the dual to the GrayscaleFillholeImageFilter which implements the
 Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</source>
-        <translation>GrayscaleGrindPeakImageFilter 删除灰度图像中的峰值。 峰值是灰度地形中的局部最大值，不连接到图像的边界。 通过峰值推断与峰值相邻的灰度值。
+        <translation>GrayscaleGrindPeakImageFilter 删除灰度影像中的峰值。 峰值是灰度地形中的局部最大值，不连接到影像的边界。 通过峰值推断与峰值相邻的灰度值。
 
-该滤镜用于平滑局部最大值而不影响局部最小值的值。 如果您获取该滤镜的输出与原始图像之间的差异（并且可能将差异阈值设置为一个小值以上），您将获得局部最大值的图。
+该滤镜用于平滑局部最大值而不影响局部最小值的值。 如果您获取该滤镜的输出与原始影像之间的差异（并且可能将差异阈值设置为一个小值以上），您将获得局部最大值的图。
 
-该滤镜使用 GrayscaleGeodesicDilateImageFilter。 它提供自己的输入作为测地线侵蚀的“掩模”输入。 构造测地侵蚀的“标记”图像，使得边界像素与输入图像的边界像素匹配，并且内部像素设置为输入图像中的最小像素值。
+该滤镜使用 GrayscaleGeodesicDilateImageFilter。 它提供自己的输入作为测地线侵蚀的“掩模”输入。 构造测地侵蚀的“标记”影像，使得边界像素与输入影像的边界像素匹配，并且内部像素设置为输入影像中的最小像素值。
 
 该滤镜是实现 Fillhole 算法的 GrayscaleFillholeImageFilter 的双重滤镜。 由于它是双重的，所以有点多余，但提供它是为了方便。
 
-测地线形态学和 Fillhole 算法在 Pierre Soille 的书“形态学图像分析：原理与应用”（第二版，Springer，2003 ）的第 6 章中进行了描述。
+测地线形态学和 Fillhole 算法在 Pierre Soille 的书“形态学影像分析：原理与应用”（第二版，Springer，2003 ）的第 6 章中进行了描述。
 
-配套滤镜“灰度填充孔”可填充灰度图像中的孔。</translation>
+配套滤镜“灰度填充孔”可填充灰度影像中的孔。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，资助号为U54 EB005149。</translation>
+        <translation>本项目是国家医学影像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，资助号为U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
@@ -4206,7 +4206,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，资助号为U54 EB005149。</translation>
+        <translation>本项目是国家医学影像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，资助号为U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
@@ -4340,18 +4340,18 @@ The filter was originally designed to normalize MR images of the sameMR protocol
  Number of match points governs the number of quantile values to be matched.
 
 The filter assumes that both the source and reference are of the same type and that the input and output image type have the same number of dimension and have scalar pixel types.</source>
-        <translation>根据参考图像的灰度值，对源图像的灰度值进行标准化。  该过滤器使用直方图匹配技术，只在指定数量的分位值上匹配两幅图像的直方图。
+        <translation>根据参考影像的灰度值，对源影像的灰度值进行标准化。  该过滤器使用直方图匹配技术，只在指定数量的分位值上匹配两幅影像的直方图。
 
-该过滤器最初设计用来规范MR协议和身体部位都相同的MR图像。如果排除源直方图和参考直方图的背景像素，算法的效果会最好。  一个简单的背景排除方法是排除所有灰度值小于平均值的像素，ThresholdAtMeanIntensity就是用的这种方法。
+该过滤器最初设计用来规范MR协议和身体部位都相同的MR影像。如果排除源直方图和参考直方图的背景像素，算法的效果会最好。  一个简单的背景排除方法是排除所有灰度值小于平均值的像素，ThresholdAtMeanIntensity就是用的这种方法。
 
  匹配点的数量决定了要匹配分位数值的数量。
 
-该过滤器假定源和参考的类型相同，输入和输出图像类型的维数相同且都有标量像素类型。</translation>
+该过滤器假定源和参考的类型相同，输入和输出影像类型的维数相同且都有标量像素类型。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是美国国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，拨款号U54 EB005149。</translation>
+        <translation>本项目是美国国家医学影像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，拨款号U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
@@ -4439,7 +4439,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="4"/>
         <source>Image Label Combine</source>
-        <translation>图像标签组合</translation>
+        <translation>影像标签组合</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="5"/>
@@ -4475,12 +4475,12 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="11"/>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="12"/>
         <source>Label map image</source>
-        <translation>标签映射图像</translation>
+        <translation>标签映射影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="13"/>
         <source>Resulting Label map image</source>
-        <translation>生成的标签映射图像</translation>
+        <translation>生成的标签映射影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="14"/>
@@ -4518,7 +4518,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  This filter is based on work developed at the University of Utah, and implemented at GE Research.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。  这个过滤器是基于犹他大学开发的工作，并在GE研究院实施。</translation>
+        <translation>本项目是国家医学影像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。  这个过滤器是基于犹他大学开发的工作，并在GE研究院实施。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="7"/>
@@ -4538,7 +4538,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"/>
         <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
-        <translation>要光滑处理的标签。  其他的将会被忽略。  如果用户没有选择，则默认选择图像中最大的标签。</translation>
+        <translation>要光滑处理的标签。  其他的将会被忽略。  如果用户没有选择，则默认选择影像中最大的标签。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"/>
@@ -4631,12 +4631,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="6"/>
         <source>Masks two images. The output image is set to 0 everywhere except where the chosen label from the mask volume is present, at which point it will retain it&apos;s original values. The two images do not have to have the same dimensions.</source>
-        <translation>遮蔽两个图像。输出的图像在任何地方都被设置为0，除了从蒙版数据中选择的标签存在的地方，在这一点上，它将保留其原始值。这两幅图像不一定要有相同的尺寸。</translation>
+        <translation>遮蔽两个影像。输出的影像在任何地方都被设置为0，除了从蒙版数据中选择的标签存在的地方，在这一点上，它将保留其原始值。这两幅影像不一定要有相同的尺寸。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过 NIH 医学研究路线图（Grant U54 EB005149）资助。</translation>
+        <translation>本项目是国家医学影像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过 NIH 医学研究路线图（Grant U54 EB005149）资助。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
@@ -4714,12 +4714,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="5"/>
         <source>Median Image Filter</source>
-        <translation>中值图像过滤器</translation>
+        <translation>中值影像过滤器</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="6"/>
         <source>The MedianImageFilter is commonly used as a robust approach for noise reduction. This filter is particularly efficient against &quot;salt-and-pepper&quot; noise. In other words, it is robust to the presence of gray-level outliers. MedianImageFilter computes the value of each output pixel as the statistical median of the neighborhood of values around the corresponding input pixel.</source>
-        <translation>中值图像滤波器通常被用作一种稳健的降噪方法。这个过滤器对 &quot;salt-and-peppe&quot;噪声特别有效。换句话说，它对灰度等级异常值的存在具有鲁棒性。中值图像滤波器将每个输出像素的值计算为相应的输入像素周围的统计中值。</translation>
+        <translation>中值影像滤波器通常被用作一种稳健的降噪方法。这个过滤器对 &quot;salt-and-peppe&quot;噪声特别有效。换句话说，它对灰度等级异常值的存在具有鲁棒性。中值影像滤波器将每个输出像素的值计算为相应的输入像素周围的统计中值。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="7"/>
@@ -5234,7 +5234,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation>如果两个图像位于不同的坐标系中或具有不同的采样，则为插值顺序。</translation>
+        <translation>如果两个影像位于不同的坐标系中或具有不同的采样，则为插值顺序。</translation>
     </message>
 </context>
 <context>
@@ -5247,7 +5247,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"/>
         <source>Performs image bias correction using N4 algorithm. This module is based on the ITK filters contributed in the following publication:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</source>
-        <translation>使用N4算法进行图像偏差校正。该模块基于以下文献中贡献的ITK滤波器：Tustison N、Gee J，“N4ITK：Nick的N3 ITK实现用于MRI偏差场校正”，The Insight Journal 2009 年 1 月至 6 月，https://hdl.handle.net/10380/3053</translation>
+        <translation>使用N4算法进行影像偏差校正。该模块基于以下文献中贡献的ITK滤波器：Tustison N、Gee J，“N4ITK：Nick的N3 ITK实现用于MRI偏差场校正”，The Insight Journal 2009 年 1 月至 6 月，https://hdl.handle.net/10380/3053</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
@@ -5267,12 +5267,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation>输入图像</translation>
+        <translation>输入影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="10"/>
         <source>Mask Image</source>
-        <translation>蒙版图像</translation>
+        <translation>蒙版影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"/>
@@ -5282,12 +5282,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"/>
         <source>Output bias field image</source>
-        <translation>输出偏置字段图像</translation>
+        <translation>输出偏置字段影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="13"/>
         <source>Input image where you observe signal inhomegeneity</source>
-        <translation>观察信号不均匀性的输入图像</translation>
+        <translation>观察信号不均匀性的输入影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="14"/>
@@ -5327,7 +5327,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"/>
         <source>Resolution of the initial bspline grid defined as a sequence of three numbers. The actual resolution will be defined by adding the bspline order (default is 3) to the resolution in each dimension specified here. For example, 1,1,1 will result in a 4x4x4 grid of control points. This parameter may need to be adjusted based on your input image. In the multi-resolution N4 framework, the resolution of the bspline grid at subsequent iterations will be doubled. The number of resolutions is implicitly defined by Number of iterations parameter (the size of this list is the number of resolutions)</source>
-        <translation>初始b样条网格的分辨率，定义为三个数字的序列。实际的分辨率将通过将b样条顺序（默认为3）加上这里指定的每个维度的分辨率来定义。例如，1,1,1将产生一个4x4x4的控制点网格。这个参数可能需要根据你的输入图像来调整。在多分辨率的N4框架中，后续迭代的b样条网格的分辨率将翻倍。迭代次数由参数Number of iterations隐式定义（这个列表的大小就是分辨率的数量）</translation>
+        <translation>初始b样条网格的分辨率，定义为三个数字的序列。实际的分辨率将通过将b样条顺序（默认为3）加上这里指定的每个维度的分辨率来定义。例如，1,1,1将产生一个4x4x4的控制点网格。这个参数可能需要根据你的输入影像来调整。在多分辨率的N4框架中，后续迭代的b样条网格的分辨率将翻倍。迭代次数由参数Number of iterations隐式定义（这个列表的大小就是分辨率的数量）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"/>
@@ -5373,7 +5373,7 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="30"/>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="37"/>
         <source>Weight Image</source>
-        <translation>重量图像</translation>
+        <translation>重量影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="31"/>
@@ -5403,7 +5403,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
         <source>Defines how much the image should be upsampled before estimating the inhomogeneity field. Increase if you want to reduce the execution time. 1 corresponds to the original resolution. Larger values will significantly reduce the computation time.</source>
-        <translation>定义在估计不均匀场之前应该对图像进行多少采样。如果要减少执行时间，请增加。 1对应于原始分辨率。较大的值将显着减少计算时间。</translation>
+        <translation>定义在估计不均匀场之前应该对影像进行多少采样。如果要减少执行时间，请增加。 1对应于原始分辨率。较大的值将显着减少计算时间。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="38"/>
@@ -5426,7 +5426,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"/>
         <source>Orients an output volume. Rearranges the slices in a volume according to the selected orientation. The slices are not interpolated. They are just reordered and/or permuted. The resulting volume will cover the original volume. NOTE: since Slicer takes into account the orientation of a volume, the re-oriented volume will not show any difference from the original volume, To see the difference, save the volume and display it with a system that either ignores the orientation of the image (e.g. Paraview) or displays individual images.</source>
-        <translation>确定一个输出数据的方向。根据选定的方向重新安排数据中的切片。这些片子不是插值的。它们只是被重新排序和/或排列。产生的数据将覆盖原来的数据。注意：由于Slicer考虑到了数据的方向，重新排列的数据不会显示与原始数据的任何区别，要看区别，请保存数据，然后用一个忽略图像方向的系统显示（如Paraview）或显示单个图像。</translation>
+        <translation>确定一个输出数据的方向。根据选定的方向重新安排数据中的切片。这些片子不是插值的。它们只是被重新排序和/或排列。产生的数据将覆盖原来的数据。注意：由于Slicer考虑到了数据的方向，重新排列的数据不会显示与原始数据的任何区别，要看区别，请保存数据，然后用一个忽略影像方向的系统显示（如Paraview）或显示单个影像。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
@@ -5471,7 +5471,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output. Note that these orientation code use ITK convention: each letters refer to where each axis originates FROM. This is opposite of commonly used orientation conventions, for example to get image with image axes corresponding to LPS coordinate system axis directions, this parameter has to be set to RAI.</source>
-        <translation>输出方向。请注意，这些方向代码采用ITK约定：每个字母指的是每个轴的起始方向。这与常用的方向约定相反，例如，如果需要获得与LPS坐标系轴方向对应的图像，需将此参数设置为RAI。</translation>
+        <translation>输出方向。请注意，这些方向代码采用ITK约定：每个字母指的是每个轴的起始方向。这与常用的方向约定相反，例如，如果需要获得与LPS坐标系轴方向对应的影像，需将此参数设置为RAI。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
@@ -5750,17 +5750,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="5"/>
         <source>Computes the standardized uptake value based on body weight. Takes an input PET image in DICOM and NRRD format (DICOM header must contain Radiopharmaceutical parameters). Produces a CSV file that contains patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName for each volume of interest. It also displays some of the information as output strings in the GUI, the CSV file is optional in that case. The CSV file is appended to on each execution of the CLI.</source>
-        <translation>计算基于体重的标准化摄取值。接受DICOM和NRRD格式的PET图像输入（DICOM标题必须包含放射性药物参数）。产生一个CSV文件，包含病人ID、研究日期、剂量、标签ID、suvmin、suvmax、suvmean、每个感兴趣数据的标签名称。它也可以在GUI中以输出字符串的形式显示一些信息，在这种情况下CSV文件是可选的。CSV文件在每次执行CLI的时候都会被追加。</translation>
+        <translation>计算基于体重的标准化摄取值。接受DICOM和NRRD格式的PET影像输入（DICOM标题必须包含放射性药物参数）。产生一个CSV文件，包含病人ID、研究日期、剂量、标签ID、suvmin、suvmax、suvmean、每个感兴趣数据的标签名称。它也可以在GUI中以输出字符串的形式显示一些信息，在这种情况下CSV文件是可选的。CSV文件在每次执行CLI的时候都会被追加。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
         <source>This work is funded by the Harvard Catalyst, and the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作由哈佛大学催化剂和国家医学图像计算联盟（NAMIC）资助，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>本项目由哈佛催化剂项目资助，以及由国家医学影像计算联盟（NAMIC）资助，NAMIC通过国家卫生研究院（NIH）医学研究路线图资助，资助编号为U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="7"/>
         <source>Image and Information</source>
-        <translation>图像和信息</translation>
+        <translation>影像和信息</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="8"/>
@@ -5883,7 +5883,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
         <source>Compare Mattes/MSQ metric value for two input images and a possible input BSpline transform.</source>
-        <translation>比较两个输入图像和可能的输入B样条变换的Mattes/MSQ指标值。</translation>
+        <translation>比较两个输入影像和可能的输入B样条变换的Mattes/MSQ指标值。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
@@ -5910,17 +5910,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="10"/>
         <source>Fixed image</source>
-        <translation>固定图像</translation>
+        <translation>固定影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="11"/>
         <source>Moving image</source>
-        <translation>移动图像</translation>
+        <translation>移动影像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"/>
         <source>Input transform that is use to warp moving image before metric comparison.</source>
-        <translation>输入变换，用于在度量比较之前对移动图像进行扭曲。</translation>
+        <translation>输入变换，用于在度量比较之前对移动影像进行扭曲。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"/>
@@ -6048,12 +6048,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation>影像重采样是图像分析中的一项非常重要的任务，尤其是在影像配准的过程中。本模块通过使用ITK变换实现DT影像的重采样。重采样由输出间距控制。“重采样”是在空间坐标下进行的，而非像素/网格坐标。确保参与处理的影像的影像间距设置正确非常重要。由于从一个空间映射到另一个空间通常需要在非网格位置处计算影像强度，插值器是必需的。</translation>
+        <translation>影像重采样是影像分析中的一项非常重要的任务，尤其是在影像配准的过程中。本模块通过使用ITK变换实现DT影像的重采样。重采样由输出间距控制。“重采样”是在空间坐标下进行的，而非像素/网格坐标。确保参与处理的影像的影像间距设置正确非常重要。由于从一个空间映射到另一个空间通常需要在非网格位置处计算影像强度，插值器是必需的。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。有关国家生物医学计算中心的信息可从以下网站获得：http://nihroadmap.nih.gov/bioinformatics</translation>
+        <translation>本项目属于国家医学影像计算联盟（NAMIC）项目，NAMIC由国家卫生研究院（NIH）通过医学研究路线图资助，资助编号为U54 EB005149。有关国家生物医学计算中心的信息可访问：http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
@@ -6103,7 +6103,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="17"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation>用于将输入图像转换为输出图像的参数</translation>
+        <translation>用于将输入影像转换为输出影像的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="18"/>
@@ -6123,7 +6123,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="21"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation>包含变形字段的文件（包含3个分量的矢量图像的三维矢量）</translation>
+        <translation>包含变形字段的文件（包含3个分量的矢量影像的三维矢量）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="22"/>
@@ -6169,7 +6169,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"/>
         <source>Do not use the measurement frame that is in the input image to transform the tensors. Uses the image orientation instead</source>
-        <translation>不要使用输入图像中的测量框架来转换张量。使用图像方向代替</translation>
+        <translation>不要使用输入影像中的测量框架来转换张量。使用影像方向代替</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"/>
@@ -6271,7 +6271,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation>空间方向不一致（变换和图像之间）</translation>
+        <translation>空间方向不一致（变换和影像之间）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"/>
@@ -6286,7 +6286,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation>变换和图像之间的空间方向不同（RAS/LPS）（警告：如果变换是Slicer3中的变换节点，不要选择）</translation>
+        <translation>变换和影像之间的空间方向不同（RAS/LPS）（警告：如果变换是Slicer3中的变换节点，不要选择）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
@@ -6317,7 +6317,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="63"/>
         <source>Image Center</source>
-        <translation>图像中心</translation>
+        <translation>影像中心</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="64"/>
@@ -6332,17 +6332,17 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation>将变换的中心设置为输入图像的中心（仅适用于刚性和仿生变换）</translation>
+        <translation>将变换的中心设置为输入影像的中心（仅适用于刚性和仿生变换）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation>用于使变换居中的图像（仅在选择“居中变换”时使用）</translation>
+        <translation>用于使变换居中的影像（仅在选择“居中变换”时使用）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation>在将变换从输出图像应用到输入图像之前反转变换（仅适用于刚性和仿射变换）</translation>
+        <translation>在将变换从输出影像应用到输入影像之前反转变换（仅适用于刚性和仿射变换）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
@@ -6363,7 +6363,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
         <source>Parameters of the output image</source>
-        <translation>输出图像的参数</translation>
+        <translation>输出影像的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
@@ -6398,7 +6398,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"/>
         <source>Origin of the output Image</source>
-        <translation>输出图像的原点</translation>
+        <translation>输出影像的原点</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
@@ -6428,7 +6428,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="86"/>
         <source>Number of thread used to compute the output image</source>
-        <translation>用来计算输出图像的线程数</translation>
+        <translation>用来计算输出影像的线程数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="87"/>
@@ -6577,11 +6577,11 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation>该模块通过使用 ITK 变换实现图像及矢量图像的重采样。它还支持扩散加权MRI图像的重采样。“重采样”是在空间坐标中进行，而非像素/栅格坐标。确保参与处理图像的图像间距正确设置非常重要。由于从一个空间映射到另一个空间通常需要在非栅格位置评估图像强度，因此必须使用插值器。
+        <translation>该模块通过使用 ITK 变换实现影像及矢量影像的重采样。它还支持扩散加权MRI影像的重采样。“重采样”是在空间坐标中进行，而非像素/栅格坐标。确保参与处理影像的影像间距正确设置非常重要。由于从一个空间映射到另一个空间通常需要在非栅格位置评估影像强度，因此必须使用插值器。
 
-警告：对扩散加权磁共振成像（DWMR）图像进行重采样时，请使用nrrd格式的输入和输出文件。 
+警告：对扩散加权磁共振成像（DWMR）影像进行重采样时，请使用nrrd格式的输入和输出文件。 
 
-警告：不要用于扩散张量图像的重采样，张量不会被重新定向</translation>
+警告：不要用于扩散张量影像的重采样，张量不会被重新定向</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
@@ -6636,7 +6636,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="16"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation>用于将输入图像转换为输出图像的参数</translation>
+        <translation>用于将输入影像转换为输出影像的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="17"/>
@@ -6656,7 +6656,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="20"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation>包含变形字段的文件（包含3个分量的矢量图像的三维矢量）</translation>
+        <translation>包含变形字段的文件（包含3个分量的矢量影像的三维矢量）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="21"/>
@@ -6733,7 +6733,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="37"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation>空间方向不一致（变换和图像之间）</translation>
+        <translation>空间方向不一致（变换和影像之间）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="38"/>
@@ -6748,7 +6748,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation>变换和图像之间的空间方向不同（RAS/LPS）（警告：如果变换是Slicer3中的变换节点，不要选择）</translation>
+        <translation>变换和影像之间的空间方向不同（RAS/LPS）（警告：如果变换是Slicer3中的变换节点，不要选择）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"/>
@@ -6794,17 +6794,17 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="50"/>
         <source>Set the center of the transformation to the center of the input image</source>
-        <translation>将变换的中心设置为输入图像的中心</translation>
+        <translation>将变换的中心设置为输入影像的中心</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="51"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation>用于使变换居中的图像（仅在选择“居中变换”时使用）</translation>
+        <translation>用于使变换居中的影像（仅在选择“居中变换”时使用）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="52"/>
         <source>Inverse the transformation before applying it from output image to input image</source>
-        <translation>在从输出图像应用到输入图像之前，对变换进行反转</translation>
+        <translation>在从输出影像应用到输入影像之前，对变换进行反转</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="53"/>
@@ -6825,7 +6825,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="57"/>
         <source>Parameters of the output image</source>
-        <translation>输出图像的参数</translation>
+        <translation>输出影像的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="58"/>
@@ -6860,7 +6860,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="64"/>
         <source>Origin of the output Image</source>
-        <translation>输出图像的原点</translation>
+        <translation>输出影像的原点</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="65"/>
@@ -6890,7 +6890,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="70"/>
         <source>Number of thread used to compute the output image</source>
-        <translation>用于计算输出图像的线程数</translation>
+        <translation>用于计算输出影像的线程数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
@@ -7026,7 +7026,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation>对图像重新取样是图像分析中的一项重要任务。它在图像配准的框架中尤其重要。本模块通过使用itk变换来实现图像重采样。本模块使用一个身份变换。重采样是由输出间隔控制的。&quot;重采样 &quot;是在空间坐标中进行的，而不是在像素/网格坐标中。确保在所涉及的图像上正确设置图像间距是相当重要的。内插器是必需的，因为从一个空间到另一个空间的映射往往需要在非网格位置评估图像的强度。有几种插值器可用：线性、近邻、bspline和五种sinc。sinc插值器虽然更精确，但比线性和近邻插值器慢得多。要对标签量进行重新取样，应专门使用近邻插值。</translation>
+        <translation>对影像重新取样是影像分析中的一项重要任务。它在影像配准的框架中尤其重要。本模块通过使用itk变换来实现影像重采样。本模块使用一个身份变换。重采样是由输出间隔控制的。&quot;重采样 &quot;是在空间坐标中进行的，而不是在像素/网格坐标中。确保在所涉及的影像上正确设置影像间距是相当重要的。内插器是必需的，因为从一个空间到另一个空间的映射往往需要在非网格位置评估影像的强度。有几种插值器可用：线性、近邻、bspline和五种sinc。sinc插值器虽然更精确，但比线性和近邻插值器慢得多。要对标签量进行重新取样，应专门使用近邻插值。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
@@ -7061,7 +7061,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"/>
         <source>Sampling algorithm (linear, nearest neighbor, bspline(cubic)  or windowed sinc). There are several sinc algorithms available as described in the following publication: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Each window has a radius of 3;</source>
-        <translation>采样算法（线性、近邻、b样条(cubic)或windowed sinc）。有几种sinc算法可供选择，如以下出版物中所述。Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A。Viergever:用于医学图像插值的Sinc-近似核的定量比较。MICCAI 1999, pp.210-217.每个窗口的半径为3;</translation>
+        <translation>采样算法（线性、近邻、b样条(cubic)或windowed sinc）。有几种sinc算法可供选择，如以下出版物中所述。Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A。Viergever:用于医学影像插值的Sinc-近似核的定量比较。MICCAI 1999, pp.210-217.每个窗口的半径为3;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
@@ -7150,7 +7150,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院资助</translation>
+        <translation>本项目是国家医学影像计算联盟（NAMIC）的一部分，由美国国立卫生研究院资助</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
@@ -7215,7 +7215,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="20"/>
         <source>Label value of the output image</source>
-        <translation>输出图像的标签值</translation>
+        <translation>输出影像的标签值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="21"/>
@@ -7235,12 +7235,12 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
         <source>Original Image</source>
-        <translation>原始图像</translation>
+        <translation>原始影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="25"/>
         <source>Label Image</source>
-        <translation>标签图像</translation>
+        <translation>标签影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
@@ -7250,17 +7250,17 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
         <source>Original image to be segmented</source>
-        <translation>待分割的原始图像</translation>
+        <translation>待分割的原始影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="28"/>
         <source>Label image for initialization</source>
-        <translation>用于初始化的标签图像</translation>
+        <translation>用于初始化的标签影像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="29"/>
         <source>Segmented image</source>
-        <translation>分割后的图像</translation>
+        <translation>分割后的影像</translation>
     </message>
 </context>
 <context>
@@ -7288,7 +7288,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="9"/>
         <source>Parameters to denoise the image prior to segmenting</source>
-        <translation>分割前对图像进行去噪的参数</translation>
+        <translation>分割前对影像进行去噪的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"/>
@@ -7476,7 +7476,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation>如果两个图像位于不同的坐标系中或具有不同的采样，则为插值顺序。</translation>
+        <translation>如果两个影像位于不同的坐标系中或具有不同的采样，则为插值顺序。</translation>
     </message>
 </context>
 <context>
@@ -7489,12 +7489,12 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;阈值图像。&lt;/p&gt;&lt;p&gt;如果图像值低于、高于或介于简单阈值之间，请将图像值设置为用户指定的外部值。&lt;/p&gt;&lt;p&gt;阈值以上：大于或等于阈值的值设置为外部值。&lt;/p&gt;&lt;p&gt;阈值低于：小于或等于阈值的值设置为外部值。&lt;/p&gt;&lt;p&gt;阈值外部：超出“下限-上限”范围的值设置为“外部值”。&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;阈值影像。&lt;/p&gt;&lt;p&gt;如果影像值低于、高于或介于简单阈值之间，请将影像值设置为用户指定的外部值。&lt;/p&gt;&lt;p&gt;阈值以上：大于或等于阈值的值设置为外部值。&lt;/p&gt;&lt;p&gt;阈值低于：小于或等于阈值的值设置为外部值。&lt;/p&gt;&lt;p&gt;阈值外部：超出“下限-上限”范围的值设置为“外部值”。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>本项目属于国家医学影像计算联盟（NAMIC）项目，NAMIC由国家卫生研究院（NIH）通过医学研究路线图资助，资助编号为U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
@@ -7613,12 +7613,12 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="4"/>
         <source>Voting Binary Hole Filling Image Filter</source>
-        <translation>投票二进制孔填充图像过滤器</translation>
+        <translation>投票二进制孔填充影像过滤器</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation>应用投票操作以填充腔洞。此功能可用于平滑轮廓和填补二值图像中的孔洞。这一技术常用于分割完整器官时，针对可能未包含在初始分割中的管道或血管结构，例如肺、肾脏和肝脏。</translation>
+        <translation>应用投票操作以填充腔洞。此功能可用于平滑轮廓和填补二值影像中的孔洞。这一技术常用于分割完整器官时，针对可能未包含在初始分割中的管道或血管结构，例如肺、肾脏和肝脏。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
@@ -7793,7 +7793,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="38"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation>这项工作得到了 NA-MIC、NAC、BIRN、NCIGT 和 Slicer 社区的支持。</translation>
+        <translation>本项目得到了 NA-MIC、NAC、BIRN、NCIGT 和 Slicer 社区的支持。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="247"/>
@@ -7987,7 +7987,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation>此图像类型的加载是试验性的。请验证图像的几何形状并报告发现的任何问题。</translation>
+        <translation>此影像类型的加载是试验性的。请验证影像的几何形状并报告发现的任何问题。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="94"/>
@@ -8010,7 +8010,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="118"/>
         <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
-        <translation>此图像类型的加载是试验性的。请确认图像大小和方向，并报告发现的任何问题。</translation>
+        <translation>此影像类型的加载是试验性的。请确认影像大小和方向，并报告发现的任何问题。</translation>
     </message>
 </context>
 <context>
@@ -8023,18 +8023,18 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
         <source>Image spacing may need to be calibrated for accurate size measurements.</source>
-        <translation>为了准确测量尺寸，可能需要校准图像间距。</translation>
+        <translation>为了准确测量尺寸，可能需要校准影像间距。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="173"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="206"/>
         <source>{modality} image sequence</source>
-        <translation>{modality} 图像序列</translation>
+        <translation>{modality} 影像序列</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="187"/>
         <source>{modality} image sequence ({count} planes)</source>
-        <translation>{modality} 图像序列（{count}个平面）</translation>
+        <translation>{modality} 影像序列（{count}个平面）</translation>
     </message>
 </context>
 <context>
@@ -8247,7 +8247,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="95"/>
         <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
-        <translation>生成缺失的患者、检查和序列ID。假定目录中的所有文件都属于同一序列。修复由于过度匿名化或不正确的DICOM图像转换器导致的错误。</translation>
+        <translation>生成缺失的患者、检查和序列ID。假定目录中的所有文件都属于同一序列。修复由于过度匿名化或不正确的DICOM影像转换器导致的错误。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="96"/>
@@ -8257,7 +8257,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="101"/>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation>为仅具有“SliceThickness”字段的多帧文件生成“图像位置序列”。修复Dolphin 3D CBCT扫描仪中的错误。</translation>
+        <translation>为仅具有“SliceThickness”字段的多帧文件生成“影像位置序列”。修复Dolphin 3D CBCT扫描仪中的错误。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="102"/>
@@ -8267,12 +8267,12 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="113"/>
         <source>If checked, then ultrasound image series are split by instance number. Useful if many ultrasound acquisitions appear in the same series.</source>
-        <translation>如果选中，则超声图像系列将按实例号拆分。如果在同一系列中出现了许多超声采集，这一选项会很有用。</translation>
+        <translation>如果选中，则超声影像系列将按实例号拆分。如果在同一系列中出现了许多超声采集，这一选项会很有用。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="123"/>
         <source>If checked, then photometric interpretation of JPEG-compressed ultrasound will be set to YBR_FULL_422. This is useful for fixing inconsistency in JPEG-compressed images that used RGB as photometric interpretation due to ambiguity in the DICOM standard before CP156. See https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE and https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf for more details.</source>
-        <translation>如果选中，则JPEG压缩的超声图像的色彩解释将设置为YBR_FULL_422。这对于修复JPEG压缩图像中由于DICOM标准在CP156之前存在歧义而使用RGB作为色彩解释的不一致性非常有用。有关更多详细信息，请参见 https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE 和 https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf。</translation>
+        <translation>如果选中，则JPEG压缩的超声影像的色彩解释将设置为YBR_FULL_422。这对于修复JPEG压缩影像中由于DICOM标准在CP156之前存在歧义而使用RGB作为色彩解释的不一致性非常有用。有关更多详细信息，请参见 https://groups.google.com/g/comp.protocols.dicom/c/EPkbFOMBOhE 和 https://dicom.nema.org/medical/dicom/Final/cp156_ft.pdf。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="146"/>
@@ -8331,7 +8331,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
-        <translation>启用添加非线性变换以对图像进行正规化，适用于获取了不规则几何形状的图像：非矩形网格（如倾斜的CT扫描）和非均匀切片间距。如果不应用正规化，图像可能会出现失真，特别是当图像采用不规则几何形状获取时。</translation>
+        <translation>启用添加非线性变换以对影像进行正规化，适用于获取了不规则几何形状的影像：非矩形网格（如倾斜的CT扫描）和非均匀切片间距。如果不应用正规化，影像可能会出现失真，特别是当影像采用不规则几何形状获取时。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
@@ -8397,7 +8397,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="344"/>
         <source>There is no pixel data attribute for the DICOM objects, but they might be readable as secondary capture images.</source>
-        <translation>DICOM对象中没有像素数据属性，但它们可能可以作为二次捕获图像进行读取。</translation>
+        <translation>DICOM对象中没有像素数据属性，但它们可能可以作为二次捕获影像进行读取。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="639"/>
@@ -8554,7 +8554,7 @@ DataProbe 模块用于获取当前由鼠标位置指示的
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="137"/>
         <source>No Image</source>
-        <translation>无图像</translation>
+        <translation>无影像</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="141"/>
@@ -8634,7 +8634,7 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
         <translation>
-这项工作得到PAR-07-249:R01CA131718 NA-MIC虚拟结肠镜检查项目的支持
+本项目得到PAR-07-249:R01CA131718 NA-MIC虚拟结肠镜检查项目的支持
 （详见&lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;）
 NA-MIC、NAC、BIRN、NCIGT以及Slicer社区。
 </translation>
@@ -8859,7 +8859,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="54"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation>这项工作得到了 NA-MIC、NAC、BIRN、NCIGT 和 Slicer 社区的支持。</translation>
+        <translation>本项目得到了 NA-MIC、NAC、BIRN、NCIGT 和 Slicer 社区的支持。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="125"/>
@@ -9286,12 +9286,12 @@ use it for commercial purposes.&lt;/p&gt;
 &lt;p&gt;本工作部分资金由安大略癌症关怀组织（Cancer Care Ontario） 
 及安大略放射肿瘤学自适应干预联盟（Ontario Consortium for Adaptive Interventions in Radiation Oncology，OCAIRO）资助。&lt;/p&gt;
 
-&lt;p&gt;MRHead、CBCT-MR Head 和 CT-MR Brain 数据集由图像中可见人员捐赠给3D Slicer项目，可无限制使用。&lt;/p&gt;
+&lt;p&gt;MRHead、CBCT-MR Head 和 CT-MR Brain 数据集由影像中可见人员捐赠给3D Slicer项目，可无限制使用。&lt;/p&gt;
 
 &lt;p&gt;CTLiver 数据集来自 &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;Medical Decathlon 项目&lt;/a&gt;（Task03_Liver 集合中的 imagesTr/liver_100.nii.gz）， 
 采用宽松的版权许可协议（&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;），允许数据共享、分发及改进。&lt;/p&gt;
 
-&lt;p&gt;CTA腹部（Panoramix）数据集来自 &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM 图像库&lt;/a&gt;， 
+&lt;p&gt;CTA腹部（Panoramix）数据集来自 &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM 影像库&lt;/a&gt;， 
 仅限于科研和教学用途。未经授权不得重新分发、
 出售或用于商业用途。&lt;/p&gt;
 </translation>
@@ -9546,7 +9546,7 @@ from dynamic contents shown in 3D and slice viewers.
 </source>
         <translation>
 此模块从3D和切片查看器的动态内容中
-捕获图像序列和视频。
+捕获影像序列和视频。
 </translation>
     </message>
     <message>
@@ -9663,12 +9663,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation>选择捕获图像的保存方式。视频模式需要在高级部分设置ffmpeg可执行路径。</translation>
+        <translation>选择捕获影像的保存方式。视频模式需要在高级部分设置ffmpeg可执行路径。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <source>image series</source>
-        <translation>图像系列</translation>
+        <translation>影像系列</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
@@ -9678,7 +9678,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="184"/>
         <source>lightbox image</source>
-        <translation>光箱图像</translation>
+        <translation>光箱影像</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="178"/>
@@ -9688,12 +9688,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="198"/>
         <source>Number of images extracted between start and stop positions.</source>
-        <translation>在开始和停止位置之间提取的图像数量。</translation>
+        <translation>在开始和停止位置之间提取的影像数量。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="189"/>
         <source>Number of images:</source>
-        <translation>图像数量：</translation>
+        <translation>影像数量：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="206"/>
@@ -9774,7 +9774,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="273"/>
         <source>If checked, image series will be generated playing forward and then backward.</source>
-        <translation>若选中，将生成向前播放然后向后播放的图像序列。</translation>
+        <translation>若选中，将生成向前播放然后向后播放的影像序列。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="274"/>
@@ -9839,12 +9839,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="321"/>
         <source>Maximum number of images to be captured (without backward steps and repeating).</source>
-        <translation>最大捕获图像数量（无倒退和重复）。</translation>
+        <translation>最大捕获影像数量（无倒退和重复）。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="322"/>
         <source>Maximum number of images:</source>
-        <translation>图像最大数量：</translation>
+        <translation>影像最大数量：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="327"/>
@@ -9854,7 +9854,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="331"/>
         <source>Select a volume node to store the captured image in the scene instead of just writing immediately to disk. Requires output &apos;Number of images&apos; to be set to 1.</source>
-        <translation>选择一个体积节点将捕获的图像存储在场景中，而不是立即写入磁盘。需要将输出“图像数量”设置为1。</translation>
+        <translation>选择一个体积节点将捕获的影像存储在场景中，而不是立即写入磁盘。需要将输出“影像数量”设置为1。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="333"/>
@@ -9864,7 +9864,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="337"/>
         <source>If checked, images will be captured with view controllers visible.</source>
-        <translation>若选中，则捕获图像时视图控制器可见。</translation>
+        <translation>若选中，则捕获影像时视图控制器可见。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="338"/>
@@ -9874,7 +9874,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="342"/>
         <source>If checked, images will be captured with transparent background.</source>
-        <translation>若选中，将以透明背景捕获图像。</translation>
+        <translation>若选中，将以透明背景捕获影像。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="343"/>
@@ -9884,12 +9884,12 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="349"/>
         <source>If checked, selected watermark image will be added to all exported images.</source>
-        <translation>若选中，所有输出图像中都会加入所选水印。</translation>
+        <translation>若选中，所有输出影像中都会加入所选水印。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="354"/>
         <source>Add a watermark image to all exported images.</source>
-        <translation>为所有输出图像添加水印图片。</translation>
+        <translation>为所有输出影像添加水印图片。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="368"/>
@@ -9939,7 +9939,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="416"/>
         <source>Capture slice sweep to image sequence.</source>
-        <translation>捕捉切片扫描到图像序列。</translation>
+        <translation>捕捉切片扫描到影像序列。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="421"/>
@@ -10056,7 +10056,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1065"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1100"/>
         <source>Capture image from view failed</source>
-        <translation>从视图捕获图像失败</translation>
+        <translation>从视图捕获影像失败</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1129"/>
@@ -10067,7 +10067,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1143"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1152"/>
         <source>Unsupported image format based on file name {filename}</source>
-        <translation>不支持文件名{filename}的图像格式</translation>
+        <translation>不支持文件名{filename}的影像格式</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1201"/>
@@ -10170,7 +10170,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
         <translation>
-这项工作是SparKit项目的一部分，由安大略省癌症护理协会（CCO）的ACRU计划
+本项目是SparKit项目的一部分，由安大略省癌症护理协会（CCO）的ACRU计划
 和安大略省放射肿瘤适应性干预联盟（OCAIRO）资助。
 </translation>
     </message>
@@ -10190,7 +10190,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="103"/>
         <source>Auto-update results preview when input segments change.</source>
-        <translation>输入分段在更改时会自动更新结果预览。</translation>
+        <translation>当输入分割发生变化时自动更新结果预览。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="107"/>
@@ -10256,7 +10256,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="147"/>
         <source>Replace segments by previewed result</source>
-        <translation>用预览结果替换分段</translation>
+        <translation>用预览结果替换分割</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/AbstractScriptedSegmentEditorAutoCompleteEffect.py" line="186"/>
@@ -10306,7 +10306,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 &lt;li&gt;&lt;b&gt;x:&lt;/b&gt; delete last point.
 &lt;li&gt;&lt;b&gt;Double-left-click&lt;/b&gt; or &lt;b&gt;right-click&lt;/b&gt; or &lt;b&gt;a&lt;/b&gt; or &lt;b&gt;enter&lt;/b&gt;: apply outline.
 &lt;/ul&gt;&lt;p&gt;</source>
-        <translation>在切片查看器中绘制分段轮廓&lt;br&gt;。
+        <translation>在切片查看器中绘制分割轮廓&lt;br&gt;。
 &lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;
 &lt;li&gt;&lt;b&gt;左键单击：&lt;/b&gt;添加点。
 &lt;li&gt;&lt;b&gt;左键拖拽：&lt;/b&gt;添加多个点。
@@ -10394,7 +10394,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
         &lt;li&gt;使用“绘制”或其他效果在每个应属于独立分割的区域绘制种子。
         为每个种子指定不同的分割，至少需要两个分割。
         &lt;li&gt;点击&lt;dfn&gt;初始化&lt;/dfn&gt;以计算完整分割的预览。
-        &lt;li&gt;浏览图像切片。如果预览的分割结果不正确，切换回
+        &lt;li&gt;浏览影像切片。如果预览的分割结果不正确，切换回
         “绘制”或其他效果，并在错误分类的区域添加更多种子。完整分割将在
         几秒内自动更新。
         &lt;li&gt;点击&lt;dfn&gt;应用&lt;/dfn&gt;以使用预览结果更新分割。
@@ -10406,7 +10406,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="79"/>
         <source>Increasing this value makes the effect of seeds more localized, thereby reducing leaks, but requires seed regions to be more evenly distributed in the image. The value is specified as an additional &quot;intensity level difference&quot; per &quot;unit distance.&quot;</source>
-        <translation>增大该值会使种子的效果更加局部化，从而减少泄漏，但要求种子区域在图像中的分布更加均匀。该值被指定为每“单位距离”的额外“强度级差”</translation>
+        <translation>增大该值会使种子的效果更加局部化，从而减少泄漏，但要求种子区域在影像中的分布更加均匀。该值被指定为每“单位距离”的额外“强度级差”</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="80"/>
@@ -10424,7 +10424,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="38"/>
         <source>Make the selected segment hollow by replacing the segment with a uniform-thickness shell defined by the segment boundary.</source>
-        <translation>通过用由管段边界定义的均匀厚度壳替换分段，使所选分段中空。</translation>
+        <translation>通过用由分割边界定义的均匀厚度壳替换分割，使所选分割变为空心。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="41"/>
@@ -10444,7 +10444,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="49"/>
         <source>Use current segment as:</source>
-        <translation>将当前分段作为：</translation>
+        <translation>将当前分割作为：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="53"/>
@@ -10464,7 +10464,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="69"/>
         <source>Apply hollow effect to all visible segments in this segmentation node. This operation may take a while.</source>
-        <translation>将空心效果应用于此分段节点中的所有可见分段。此操作可能需要一段时间。</translation>
+        <translation>将空心效果应用于此分段节点中的所有可见分割。此操作可能需要一段时间。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="72"/>
@@ -10479,7 +10479,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="76"/>
         <source>Makes the segment hollow by replacing it with a thick shell at the segment boundary.</source>
-        <translation>将分段边界处的分段替换为厚壳，从而使其中空。</translation>
+        <translation>将分割边界处的分割替换为厚壳，从而使其中空。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="131"/>
@@ -10494,7 +10494,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="139"/>
         <source>Empty segment</source>
-        <translation>空分段</translation>
+        <translation>空分割</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorHollowEffect.py" line="251"/>
@@ -10709,12 +10709,12 @@ segment list in effect options - below.
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="61"/>
         <source>Bypass masking</source>
-        <translation>绕过掩膜</translation>
+        <translation>绕过蒙版</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="62"/>
         <source>Ignore all masking options and only modify the selected segment.</source>
-        <translation>忽略所有掩膜选项，仅修改所选分割。</translation>
+        <translation>忽略所有蒙版选项，仅修改所选分割。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorLogicalEffect.py" line="65"/>
@@ -10859,9 +10859,9 @@ segment list in effect options - below.
 The mask is applied to the source volume by default.&lt;p&gt;
 Fill inside and outside operation creates a binary labelmap volume as output, with the inside and outside fill values modifiable.
 </source>
-        <translation>使用当前所选分割作为掩膜对体积中的区域进行遮盖。&lt;br&gt;
-掩膜默认应用于源体积。&lt;p&gt;
-“填充内外”操作将输出一个二值标签图体积，内外的填充值可修改。
+        <translation>使用当前选定的分割作为蒙版来屏蔽体积中的区域&lt;br&gt;。
+默认情况下蒙版应用于源体积。&lt;p&gt;
+内外填充操作生成一个二值标签图卷作为输出，内外填充值可修改。
 </translation>
     </message>
     <message>
@@ -10892,7 +10892,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="71"/>
         <source>Choose the voxel intensity that will be used to fill the masked region.</source>
-        <translation>选择用于填充掩膜区域的体素强度值。</translation>
+        <translation>选择用于填充蒙版区域的体素强度值。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="72"/>
@@ -10902,7 +10902,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="76"/>
         <source>Choose the voxel intensity that will be used to fill outside the mask.</source>
-        <translation>选择用于填充掩膜外部的体素强度值。</translation>
+        <translation>选择用于填充蒙版外部的体素强度值。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="77"/>
@@ -10912,7 +10912,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="81"/>
         <source>Choose the voxel intensity that will be used to fill inside the mask.</source>
-        <translation>选择用于填充掩膜内部的体素强度值。</translation>
+        <translation>选择用于填充蒙版内部的体素强度值。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="82"/>
@@ -10922,7 +10922,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="112"/>
         <source>Standard deviation of the Gaussian function that blurs the edge of the mask. Higher value makes the edge softer.</source>
-        <translation>用于模糊掩膜边缘的高斯函数标准差。值越大，边缘越柔和。</translation>
+        <translation>用于模糊蒙版边缘的高斯函数标准差。值越大，边缘越柔和。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="117"/>
@@ -10937,7 +10937,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="130"/>
         <source>Volume to mask. Default is current source volume node.</source>
-        <translation>需要掩膜的体积。默认是当前源体积节点。</translation>
+        <translation>需要蒙版的体积。默认是当前源体积节点。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="139"/>
@@ -10954,7 +10954,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="152"/>
         <source>Masked output volume. It may be the same as the input volume for cumulative masking.</source>
-        <translation>被掩膜输出的体积。对于累积掩膜操作，可以与输入体积相同。</translation>
+        <translation>被蒙版输出的体积。对于累积蒙版操作，可以与输入体积相同。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="161"/>
@@ -10969,7 +10969,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="166"/>
         <source>Apply segment as volume mask. No undo operation available once applied.</source>
-        <translation>将分割作为体积掩膜应用。一旦应用无法撤销此操作。</translation>
+        <translation>将分割作为体积蒙版应用。一旦应用无法撤销此操作。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="237"/>
@@ -10980,7 +10980,7 @@ Fill inside and outside operation creates a binary labelmap volume as output, wi
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorMaskVolumeEffect.py" line="305"/>
         <source>Failed to apply mask to volume.</source>
-        <translation>应用掩膜至体积失败。</translation>
+        <translation>应用蒙版至体积失败。</translation>
     </message>
 </context>
 <context>
@@ -11009,7 +11009,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
 &lt;li&gt;&lt;b&gt;开运算（Opening）：&lt;/b&gt;去除小于设定内核尺寸的突起部分。仅作用于选中的分割区域。
 &lt;li&gt;&lt;b&gt;闭运算（Closing）：&lt;/b&gt;填补尖角和小于设定内核尺寸的孔洞。仅作用于选中的分割区域。
 &lt;li&gt;&lt;b&gt;高斯滤波（Gaussian）：&lt;/b&gt;平滑所有轮廓，但可能导致分割区域略微收缩。仅作用于选中的分割区域。
-&lt;li&gt;&lt;b&gt;联合平滑（Joint smoothing）：&lt;/b&gt;同时平滑多个分割区域，保持它们之间的密闭接触界面。此模式会忽略掩膜设置。
+&lt;li&gt;&lt;b&gt;联合平滑（Joint smoothing）：&lt;/b&gt;同时平滑多个分割区域，保持它们之间的密闭接触界面。此模式会忽略蒙版设置。
 若分割区域存在重叠，段表中排列靠前的分割区域将具有优先权。&lt;b&gt;此操作将应用于所有可见分割区域。&lt;/b&gt;
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
@@ -11135,7 +11135,7 @@ If segments overlap, segment higher in the segments table will have priority. &l
 &lt;/ul&gt;&lt;p&gt;</source>
         <translation>根据源体积的强度范围填充分割。&lt;br&gt;选项:&lt;p&gt;
 &lt;ul style=&quot;margin: 0&quot;&gt;
-&lt;li&gt;&lt;b&gt;用于掩膜:&lt;/b&gt; 将选定的强度范围设为 &lt;dfn&gt;可编辑强度范围&lt;/dfn&gt; 并切换至绘制效果。
+&lt;li&gt;&lt;b&gt;用于蒙版:&lt;/b&gt; 将选定的强度范围设为 &lt;dfn&gt;可编辑强度范围&lt;/dfn&gt; 并切换至绘制效果。
 &lt;li&gt;&lt;b&gt;应用:&lt;/b&gt;将预览的分割设置到所选分割中，之前的内容将被覆盖。
 &lt;/ul&gt;&lt;p&gt;</translation>
     </message>
@@ -11325,12 +11325,12 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="347"/>
         <source>Use for masking</source>
-        <translation>用于掩膜</translation>
+        <translation>用于蒙版</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="348"/>
         <source>Use specified intensity range for masking and switch to Paint effect.</source>
-        <translation>使用指定的强度范围进行掩膜并切换到绘制效果。</translation>
+        <translation>使用指定的强度范围进行蒙版并切换到绘制效果。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="351"/>
@@ -11958,7 +11958,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
         <translation>
-这项工作是SparKit项目的一部分，由安大略省癌症护理协会（CCO）的ACRU计划
+本项目是SparKit项目的一部分，由安大略省癌症护理协会（CCO）的ACRU计划
 和安大略省放射肿瘤适应性干预联盟（OCAIRO）资助。
 </translation>
     </message>
@@ -12125,12 +12125,12 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="54"/>
         <source>Image threshold:</source>
-        <translation>图像阈值：</translation>
+        <translation>影像阈值：</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="61"/>
         <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
-        <translation>设置用于计算输出图像的阈值。强度低于此值的体素将设置为零。</translation>
+        <translation>设置用于计算输出影像的阈值。强度低于此值的体素将设置为零。</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="76"/>
@@ -12254,7 +12254,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
         <source>Enable DICOM listening server to receive images (C-Store SCP)</source>
-        <translation>启用DICOM监听服务来接收图像(C-Store SCP)</translation>
+        <translation>启用DICOM监听服务来接收影像(C-Store SCP)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
@@ -12378,8 +12378,8 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     &lt;p&gt;提供多种转换模式：&lt;/p&gt;
 
     &lt;ul&gt;
-    &lt;li&gt;提取任意向量图像的单个通道。&lt;/li&gt;
-    &lt;li&gt;通过 vtkImageLuminance 算法将 RGB 图像转为标量（亮度 = 0.30*红 + 0.59*绿 + 0.11*蓝）。&lt;/li&gt;
+    &lt;li&gt;提取任意向量影像的单个通道。&lt;/li&gt;
+    &lt;li&gt;通过 vtkImageLuminance 算法将 RGB 影像转为标量（亮度 = 0.30*红 + 0.59*绿 + 0.11*蓝）。&lt;/li&gt;
     &lt;li&gt;计算所有通道的均值。&lt;/li&gt;
     &lt;/ul&gt;
     </translation>
@@ -12465,7 +12465,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="348"/>
         <source>component to extract ({componentSelected}) is invalid. Image has only {componentsTotal} components.</source>
-        <translation>待提取通道（{componentSelected}）无效。该图像仅含 {componentsTotal} 个通道分量。</translation>
+        <translation>待提取通道（{componentSelected}）无效。该影像仅含 {componentsTotal} 个通道分量。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="357"/>
@@ -12700,7 +12700,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="106"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image.</source>
         <oldsource>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</oldsource>
-        <translation>捕获完整布局、3D 视图或切片视图的屏幕截图。使用“文件” - “保存”存储图像。</translation>
+        <translation>捕获完整布局、3D 视图或切片视图的屏幕截图。使用“文件” - “保存”存储影像。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qMRMLCaptureToolBar.cxx" line="116"/>
@@ -14985,7 +14985,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="426"/>
         <source>Images (*.png *.jpg)</source>
-        <translation>图像(*.png *.jpg)</translation>
+        <translation>影像(*.png *.jpg)</translation>
     </message>
 </context>
 <context>
@@ -15086,7 +15086,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
         <source>Segments Table</source>
-        <translation>分段表</translation>
+        <translation>分割表</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="294"/>
@@ -15644,12 +15644,12 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="161"/>
         <source>Set reference image geometry and resample all segment labelmaps</source>
-        <translation>设置参考图像几何并重新采样所有分割标签图</translation>
+        <translation>设置参考影像几何并重新采样所有分割标签图</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="165"/>
         <source>Set reference image geometry (do not resample)</source>
-        <translation>设置参考图像几何（不重新采样）</translation>
+        <translation>设置参考影像几何（不重新采样）</translation>
     </message>
 </context>
 <context>
@@ -18015,7 +18015,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="259"/>
         <source>Reference image for visualizing transform nodes (will only use size, orientation and position)</source>
-        <translation>用于可视化变换节点的参考图像（仅使用大小、方向和位置）</translation>
+        <translation>用于可视化变换节点的参考影像（仅使用大小、方向和位置）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="262"/>
@@ -18586,12 +18586,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="38"/>
         <source>Image Dimensions:</source>
-        <translation>图像尺寸：</translation>
+        <translation>影像尺寸：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="58"/>
         <source>Image Spacing:</source>
-        <translation>图像间距：</translation>
+        <translation>影像间距：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="77"/>
@@ -18601,7 +18601,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="90"/>
         <source>Image Origin:</source>
-        <translation>图像原点：</translation>
+        <translation>影像原点：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="119"/>
@@ -19651,7 +19651,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
         <source>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;这项工作得到了NA-MIC、NAC、BIRN、NCIGT和Slicer社区的支持。</translation>
+        <translation>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;本项目得到了NA-MIC、NAC、BIRN、NCIGT和Slicer社区的支持。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.h" line="48"/>
@@ -20000,7 +20000,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="332"/>
         <source>Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</source>
-        <translation>插值并填充输入数据，使输出图像与ROI的大小完全一致，并具有所需的间距。</translation>
+        <translation>插值并填充输入数据，使输出影像与ROI的大小完全一致，并具有所需的间距。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="348"/>
@@ -20401,7 +20401,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC, and the Slicer Community.</source>
-        <translation>这项工作得到了NA-MIC、NAC、BIRN、NCIGT、CTSC和Slicer社区的支持。</translation>
+        <translation>本项目得到了NA-MIC、NAC、BIRN、NCIGT、CTSC和Slicer社区的支持。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.h" line="50"/>
@@ -20614,7 +20614,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="70"/>
         <source>This module was developed by Julien Finet, Kitware Inc. This work was supported by NIH grant 3P41RR013218-12S1, NA-MIC, NAC and Slicer community.</source>
-        <translation>本模块由Kitware公司的Julien Finet开发。这项工作得到了美国国立卫生研究院拨款3P41RR013218-12S1、NA-MIC、NAC和Slicer社区的支持。</translation>
+        <translation>此模块由Kitware公司的Julien Finet开发。本项目得到了美国国立卫生研究院拨款3P41RR013218-12S1、NA-MIC、NAC和Slicer社区的支持。</translation>
     </message>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="47"/>
@@ -24467,7 +24467,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="149"/>
         <source>Shows the number of pixels (y axis) vs the image intensity (x axis) over a background of the current window/level and threshold mapping.</source>
-        <translation>显示当前窗口/级别和阈值映射的背景上的像素数（y 轴）与图像强度（x 轴）。</translation>
+        <translation>显示当前窗口/级别和阈值映射的背景上的像素数（y 轴）与影像强度（x 轴）。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="152"/>
@@ -24658,12 +24658,12 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1075"/>
         <source>Operate on invisible segment?</source>
-        <translation>对不可见分段进行操作？</translation>
+        <translation>对不可见分割进行操作？</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1076"/>
         <source>The currently selected segment is hidden. Would you like to make it visible?</source>
-        <translation>当前选中的分段已隐藏。是否将其设为可见？</translation>
+        <translation>当前选中的分割已隐藏。是否将其设为可见？</translation>
     </message>
 </context>
 <context>
@@ -24676,7 +24676,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="75"/>
         <source>Erase from current segment with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; erase from segment around the mouse pointer.&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;</source>
-        <translation>使用圆形画笔从当前分段擦除&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;左键拖拽：&lt;/b&gt;在鼠标指针周围从分段中擦除。&lt;li&gt;&lt;b&gt;Shift + 鼠标滚轮&lt;/b&gt; 或 &lt;b&gt;+/- 键：&lt;/b&gt;调整画笔大小。&lt;li&gt;&lt;b&gt;Ctrl + 鼠标滚轮：&lt;/b&gt;切片视图放大/缩小。&lt;/ul&gt;&lt;p&gt;支持在切片视图和3D视图中编辑。&lt;p&gt;</translation>
+        <translation>使用圆形画笔从当前分割擦除&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;左键拖拽：&lt;/b&gt;在鼠标指针周围从分割中擦除。&lt;li&gt;&lt;b&gt;Shift + 鼠标滚轮&lt;/b&gt; 或 &lt;b&gt;+/- 键：&lt;/b&gt;调整画笔大小。&lt;li&gt;&lt;b&gt;Ctrl + 鼠标滚轮：&lt;/b&gt;切片视图放大/缩小。&lt;/ul&gt;&lt;p&gt;支持在切片视图和3D视图中编辑。&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -24732,17 +24732,17 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1446"/>
         <source>Select segment by sampling the pixel locationwhere the brush stroke starts. If brush stroke starts in an empty area then the brush erases highlighted region from the selected segment.</source>
-        <translation>通过采样画笔笔触起点的像素位置选择分段。如果笔触起点在空白区域，则画笔将擦除所选分段中的高亮区域。</translation>
+        <translation>通过采样画笔笔触起点的像素位置选择分割。如果笔触起点在空白区域，则画笔将擦除所选分割中的高亮区域。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1453"/>
         <source>Erase all segments</source>
-        <translation>擦除所有分段</translation>
+        <translation>擦除所有分割</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1454"/>
         <source>If not checked then highlighted area is erased from all segments. If unchecked then only area is only erased from selected segment.</source>
-        <translation>如果未勾选，则高亮区域将从所有分段中擦除。如果勾选，则只从所选分段中擦除该区域。</translation>
+        <translation>如果未勾选，则高亮区域将从所有分割中擦除。如果勾选，则只从所选分割中擦除该区域。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1461"/>
@@ -24770,7 +24770,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
         <source>Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;</source>
-        <translation>从当前视点切割整个分段&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;左键拖拽：&lt;/b&gt;描绘轮廓。&lt;li&gt;&lt;b&gt;Esc：&lt;/b&gt;取消。&lt;/ul&gt;&lt;p&gt;支持在切片视图和3D视图中编辑。在切片视图中，切割将应用于所有切片。&lt;p&gt;</translation>
+        <translation>从当前视点切割整个分割&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;左键拖拽：&lt;/b&gt;描绘轮廓。&lt;li&gt;&lt;b&gt;Esc：&lt;/b&gt;取消。&lt;/ul&gt;&lt;p&gt;支持在切片视图和3D视图中编辑。在切片视图中，切割将应用于所有切片。&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1203"/>
@@ -25262,7 +25262,7 @@ Note: This may result in unwanted data loss in %5.</source>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</oldsource>
-        <translation>无法将源表示 &apos;%1&apos; 转换为目标源 &apos;%2&apos;，因此无法将片段 &apos;%3&apos; 从分段 &apos;%4&apos; 复制到 &apos;%5&apos;。
+        <translation>无法将源表示 &apos;%1&apos; 转换为目标源 &apos;%2&apos;，因此无法将分割 &apos;%3&apos; 从分割 &apos;%4&apos; 复制到 &apos;%5&apos;。
 
 是否要将 &apos;%5&apos; 的源表示更改为 &apos;%1&apos;？
 
@@ -25298,8 +25298,8 @@ Note: This may result in unwanted data loss in %5.</oldsource>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
-        <translation>当前分段无法完全适应新的几何体。
-是否要裁剪分段？
+        <translation>当前分割无法完全适应新的几何体。
+是否要裁剪分割？
 </translation>
     </message>
     <message>
@@ -25307,9 +25307,9 @@ Do you want to crop the segmentation?
         <source>Failed to export segments from segmentation %1 to labelmap node %2!
 
 Most probably the segment cannot be converted into binary labelmap representation.</source>
-        <translation>从分段 %1 导出片段到标签图节点 %2 失败！
+        <translation>从分割 %1 导出分割到标签图节点 %2 失败！
 
-很可能该片段无法转换为二值标签图表示。</translation>
+很可能该分割无法转换为二值标签图表示。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1012"/>
@@ -25321,9 +25321,9 @@ Most probably the segment cannot be converted into binary labelmap representatio
         <source>Failed to export segments from segmentation %1 to models in folder %2!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
-        <translation>从分段 %1 导出片段到文件夹 %2 中的模型失败！
+        <translation>从分割 %1 导出分割到文件夹 %2 中的模型失败！
 
-很可能该片段无法转换为闭合曲面表示。</translation>
+很可能该分割无法转换为闭合曲面表示。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1028"/>
@@ -25371,7 +25371,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="48"/>
         <source>If enabled then segmentation labelmap representation is cropped to the minimum necessary size. This saves storage space but changes voxel coordinate system (physical coordinate system is not affected).</source>
-        <translation>启用后，分段标签图表示会裁剪到最小必要尺寸。这可节省存储空间，但会改变体素坐标系（物理坐标系不受影响）。</translation>
+        <translation>启用后，分割标签图表示会裁剪到最小必要尺寸。这可节省存储空间，但会改变体素坐标系（物理坐标系不受影响）。</translation>
     </message>
 </context>
 <context>
@@ -25429,9 +25429,9 @@ Most probably the segment cannot be converted into closed surface representation
         <source>If enabled, double-clicking the segment name or color in the segment tables opens the terminology selector. Otherwise the name and color can be simply edited. True by default.
 
 Note: This applies to segment tables in Segment Editor and Segmentations modules, but other modules may choose to use custom setting that is not controlled by this checkbox.</source>
-        <translation>启用后，双击片段表中的片段名称或颜色将打开术语选择器。否则，名称和颜色可以直接编辑。默认启用。
+        <translation>启用后，双击分割表中的分割名称或颜色将打开术语选择器。否则，名称和颜色可以直接编辑。默认启用。
 
-注意：此设置适用于分段编辑器和分段模块中的片段表，但其他模块可能会使用自定义设置，不受本复选框控制。</translation>
+注意：此设置适用于分割编辑器和分割模块中的分割表，但其他模块可能会使用自定义设置，不受本复选框控制。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="71"/>
@@ -27485,7 +27485,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="94"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
-        <translation>选择体积作为配准的移动图像。第二个体积可在第一个体积设置后从上下文菜单中选择。</translation>
+        <translation>选择体积作为配准的移动影像。第二个体积可在第一个体积设置后从上下文菜单中选择。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="99"/>
@@ -27495,12 +27495,12 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="104"/>
         <source>Rigid image-based registration</source>
-        <translation>基于刚性图像的配准</translation>
+        <translation>基于刚性影像的配准</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="108"/>
         <source>BSpline image-based registration</source>
-        <translation>基于BSpline图像的配准</translation>
+        <translation>基于BSpline影像的配准</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="112"/>
@@ -27544,12 +27544,12 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="109"/>
         <source>Export visible segments to binary labelmap</source>
-        <translation>将可见分段导出为二进制标签图</translation>
+        <translation>将可见分割导出为二进制标签图</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="112"/>
         <source>Export visible segments to models</source>
-        <translation>将可见分段导出为模型</translation>
+        <translation>将可见分割导出为模型</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="115"/>
@@ -27681,9 +27681,9 @@ Please visit the Segmentation module and try the advanced create representation 
         <source>Failed to export segments from segmentation %1 to labelmap node!
 
 Most probably the segment cannot be converted into binary labelmap representation</source>
-        <translation>无法将分割 %1 中的分段导出到标签图节点！
+        <translation>无法将分割 %1 中的分割导出到标签图节点！
 
-很可能该分段无法转换为二进制标签图表示</translation>
+很可能该分割无法转换为二进制标签图表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1045"/>
@@ -27716,9 +27716,9 @@ Please visit the Segmentation module and try the advanced create representation 
         <source>Failed to export segments from segmentation %1 to models!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
-        <translation>无法将分割 %1 中的分段导出为模型！
+        <translation>无法将分割 %1 中的分割导出为模型！
 
-很可能该分段无法转换为封闭表面表示。</translation>
+很可能该分割无法转换为封闭表面表示。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1335"/>
@@ -27735,12 +27735,12 @@ Please visit the Segmentation module and try the advanced create representation 
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="99"/>
         <source>Show only this segment</source>
-        <translation>仅显示此分段</translation>
+        <translation>仅显示此分割</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="103"/>
         <source>Show all segments</source>
-        <translation>显示所有分段</translation>
+        <translation>显示所有分割</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="107"/>
@@ -29800,7 +29800,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="56"/>
         <source>Ignore image position information that is specified in the image header.</source>
-        <translation>忽略图像标题中指定的图像位置信息。</translation>
+        <translation>忽略影像标题中指定的影像位置信息。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="63"/>
@@ -29810,7 +29810,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="66"/>
         <source>Ignore axis orientation information that is specified in the image header.</source>
-        <translation>忽略图像标题中指定的轴方向信息。</translation>
+        <translation>忽略影像标题中指定的轴方向信息。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="73"/>
@@ -29838,7 +29838,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="73"/>
         <source>The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.</source>
-        <translation>体积模块为调整窗宽、窗位、阈值、颜色查找表及其他控制场景中体积图像数据显示的参数提供界面。</translation>
+        <translation>体积模块为调整窗宽、窗位、阈值、颜色查找表及其他控制场景中体积影像数据显示的参数提供界面。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="92"/>
@@ -30108,7 +30108,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; 是一款免费的开源软件平台，用于医学图像处理和图像数据的三维可视化。本模块包含一些基础信息和实用链接，帮助您快速入门使用Slicer。欲了解更多信息，请访问我们的网站 &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;。&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; 是一款免费的开源软件平台，用于医学影像处理和影像数据的三维可视化。本模块包含一些基础信息和实用链接，帮助您快速入门使用Slicer。欲了解更多信息，请访问我们的网站 &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; 以BSD风格许可证发布；有关贡献和软件许可协议的详细信息，请参见 &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer软件许可协议&lt;/a&gt;。本软件仅设计用于科研目的，尚未经过食品药品监督管理局或任何其他机构的审查或批准。&lt;/p&gt;</translation>
     </message>
     <message>
@@ -30730,7 +30730,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="532"/>
         <source>Image reader provided invalid RAS to IJK matrix</source>
-        <translation>图像读取器提供的RAS到IJK矩阵无效</translation>
+        <translation>影像读取器提供的RAS到IJK矩阵无效</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="585"/>
@@ -30755,22 +30755,22 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="735"/>
         <source>VTK file format can only store LPS axis oriented images. Orientation of the saved image may be incorrect. NRRD file format is recommended for storing this image.</source>
-        <translation>VTK 文件格式仅能存储LPS轴向图像。保存图像的方向可能不正确。建议使用 NRRD 文件格式保存此图像。</translation>
+        <translation>VTK 文件格式仅能存储LPS轴向影像。保存影像的方向可能不正确。建议使用 NRRD 文件格式保存此影像。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="764"/>
         <source>Saving this image in TIFF format will result in loss of information (image position, orientation, or spacing along the third image axis). NRRD file format is recommended for storing this image.</source>
-        <translation>以 TIFF 格式保存此图像将导致信息丢失（图像位置、方向或第三个图像轴的间距）。建议使用 NRRD 文件格式保存此图像。</translation>
+        <translation>以 TIFF 格式保存此影像将导致信息丢失（影像位置、方向或第三个影像轴的间距）。建议使用 NRRD 文件格式保存此影像。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="776"/>
         <source>Analyze file format is not recommended, as its image orientation specification is ambiguous. NRRD file format is recommended for storing this image.</source>
-        <translation>不推荐使用 Analyze 文件格式，因为其图像方向规范不明确。建议使用 NRRD 文件格式保存此图像。</translation>
+        <translation>不推荐使用 Analyze 文件格式，因为其影像方向规范不明确。建议使用 NRRD 文件格式保存此影像。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="816"/>
         <source>Cannot write volume, image data is empty</source>
-        <translation>无法写入体数据，图像数据为空</translation>
+        <translation>无法写入体数据，影像数据为空</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLVolumeArchetypeStorageNode.cxx" line="864"/>
