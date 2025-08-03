@@ -4991,12 +4991,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
-        <translation type="unfinished">如果你想指定一个连续的标签范围来生成模型，在这里输入较低的标签。开始制作模型的体素值。用来代替标签列表指定一个范围（确保标签列表是空的，否则它将覆盖这个）。</translation>
+        <translation>如果你想指定一个连续的标签范围来生成模型，在这里输入较低的标签。开始制作模型的体素值。用来代替标签列表指定一个范围（确保标签列表是空的，否则它将覆盖这个）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the higher label here. Voxel value up to which to continue making models. Skip any values with zero voxels.</source>
-        <translation type="unfinished">如果你想指定一个连续的标签范围来生成模型，在这里输入较高的标签。继续制作模型的体素值。跳过任何零体素的值。</translation>
+        <translation>如果你想指定一个连续的标签范围来生成模型，在这里输入较高的标签。继续制作模型的体素值。跳过任何零体素的值。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"/>
@@ -5169,7 +5169,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="6"/>
         <source>Multiplies two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished">将两个图像相乘。尽管输入时支持所有的图像类型，但只产生有符号的类型。这两幅图像不一定要有相同的尺寸。</translation>
+        <translation>将两幅影像相乘。尽管输入支持所有影像类型，但输出仅生成有符号类型。两幅影像的尺寸不必相同。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
@@ -5247,7 +5247,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"/>
         <source>Performs image bias correction using N4 algorithm. This module is based on the ITK filters contributed in the following publication:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</source>
-        <translation type="unfinished">使用N4算法进行图像偏差校正。这个模块是基于以下出版物中贡献的ITK过滤器。  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</translation>
+        <translation>使用N4算法进行图像偏差校正。该模块基于以下文献中贡献的ITK滤波器：Tustison N、Gee J，“N4ITK：Nick的N3 ITK实现用于MRI偏差场校正”，The Insight Journal 2009 年 1 月至 6 月，https://hdl.handle.net/10380/3053</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
@@ -5292,7 +5292,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="14"/>
         <source>Binary mask that defines the structure of your interest. NOTE: This parameter is OPTIONAL. If the mask is not specified, the module will use internally Otsu thresholding to define this mask. Better processing results can often be obtained when a meaningful mask is defined.</source>
-        <translation type="unfinished">定义您感兴趣的结构的二进制掩码。注意：此参数是可选的。如果未指定掩码，模块将使用内部 Otsu 阈值来定义此掩码。定义有意义的掩码时，通常可以获得更好的处理结果。</translation>
+        <translation>定义感兴趣结构的二值掩模。注意：此参数为可选。如果未指定掩模，模块将内部使用Otsu阈值法来确定该掩模。通常，当定义了有意义的掩模时，可获得更好的处理效果。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="15"/>
@@ -5342,7 +5342,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="24"/>
         <source>Advanced N4 Parameters</source>
-        <translation type="unfinished">高级N4参数</translation>
+        <translation>高级N4参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="25"/>
@@ -5388,7 +5388,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="33"/>
         <source>Maximum number of iterations at each level of resolution. Larger values will increase execution time, but may lead to better results.</source>
-        <translation type="unfinished">每一级分辨率下的最大迭代次数。较大的值会增加执行时间，但可能导致更好的结果。</translation>
+        <translation>每一级分辨率下的最大迭代次数。较大的值会增加执行时间，但可能导致更好的结果。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="34"/>
@@ -5403,7 +5403,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
         <source>Defines how much the image should be upsampled before estimating the inhomogeneity field. Increase if you want to reduce the execution time. 1 corresponds to the original resolution. Larger values will significantly reduce the computation time.</source>
-        <translation type="unfinished">定义在估计不均匀场之前应该对图像进行多少采样。如果要减少执行时间，请增加。 1对应于原始分辨率。较大的值将显着减少计算时间。</translation>
+        <translation>定义在估计不均匀场之前应该对图像进行多少采样。如果要减少执行时间，请增加。 1对应于原始分辨率。较大的值将显着减少计算时间。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="38"/>
@@ -5800,17 +5800,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="15"/>
         <source>Color table to to map labels to colors and names</source>
-        <translation type="unfinished">将标签映射到颜色和名称的色表</translation>
+        <translation>用于将标签映射到颜色和名称的颜色表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="16"/>
         <source>Output</source>
-        <translation type="unfinished">输出</translation>
+        <translation>输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
         <source>The Output file collects the information on disk from the output label, suv max/mean/min output stringsin the gui, plus some extra information from the DICOM header.</source>
-        <translation type="unfinished">输出文件从输出标签、gui 中的 suv 最大值/平均值/最小值输出字符串以及来自 DICOM 标头的一些额外信息中收集磁盘上的信息。</translation>
+        <translation>输出文件从输出标签、gui 中的 suv 最大值/平均值/最小值输出字符串以及来自 DICOM 标头的一些额外信息中收集磁盘上的信息。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="18"/>
@@ -6035,7 +6035,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="16"/>
         <source>Name of the array that will contain the voxel values.</source>
-        <translation type="unfinished">将包含体素值的数组的名称。</translation>
+        <translation>将包含体素值的数组的名称。</translation>
     </message>
 </context>
 <context>
@@ -6048,7 +6048,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation type="unfinished">对图像进行重采样是图像分析中非常重要的任务。这在图像配准的框架中尤为重要。该模块通过使用 itk 转换实现 DT 图像重采样。重采样由输出间距控制。“重采样”是在空间坐标中执行的，而不是在像素/网格坐标中执行的。确保在所涉及的图像上正确设置图像间距非常重要。插值器是必需的，因为从一个空间到另一个空间的映射通常需要评估非网格位置的图像强度。</translation>
+        <translation>影像重采样是图像分析中的一项非常重要的任务，尤其是在影像配准的过程中。本模块通过使用ITK变换实现DT影像的重采样。重采样由输出间距控制。“重采样”是在空间坐标下进行的，而非像素/网格坐标。确保参与处理的影像的影像间距设置正确非常重要。由于从一个空间映射到另一个空间通常需要在非网格位置处计算影像强度，插值器是必需的。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
@@ -6083,7 +6083,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished">要重新采样的输入数据</translation>
+        <translation>要重新采样的输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"/>
@@ -6139,7 +6139,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="24"/>
         <source>displacement</source>
-        <translation type="unfinished">位移</translation>
+        <translation>位移</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="26"/>
@@ -6169,7 +6169,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"/>
         <source>Do not use the measurement frame that is in the input image to transform the tensors. Uses the image orientation instead</source>
-        <translation type="unfinished">不要使用输入图像中的测量框架来转换张量。使用图像方向代替</translation>
+        <translation>不要使用输入图像中的测量框架来转换张量。使用图像方向代替</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"/>
@@ -6586,7 +6586,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished">这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。有关国家生物医学计算中心的信息可从以下网站获得：http://nihroadmap.nih.gov/bioinformatics</translation>
+        <translation>本工作是国家医学影像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过NIH医学研究路线图资助，资助编号为U54 EB005149。有关国家生物医学计算中心的信息，可访问 http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
@@ -6611,7 +6611,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation type="unfinished">参考数据（用于设置输出参数）</translation>
+        <translation>参考数据（用于设置输出参数）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="12"/>
@@ -6626,7 +6626,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="14"/>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation type="unfinished">参考数据（间距、大小、方向、原点）</translation>
+        <translation>参考数据（间距、大小、方向、原点）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="15"/>
@@ -6667,7 +6667,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="22"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="24"/>
         <source>h-Field</source>
-        <translation type="unfinished">h-字段</translation>
+        <translation>h-字段</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="23"/>
@@ -6799,7 +6799,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="51"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished">用于使变换居中的图像（仅在选择“居中变换”时使用）</translation>
+        <translation>用于使变换居中的图像（仅在选择“居中变换”时使用）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="52"/>
@@ -7205,7 +7205,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="18"/>
         <source>What is the homogeneity of intensity within the object? Given constant intensity at 1.0 score and extreme fluctuating intensity at 0.</source>
-        <translation type="unfinished">什么是物体内部的强度均匀性？给出恒定强度为1.0分，极端波动强度为0。</translation>
+        <translation>物体内部的强度均匀性如何？强度恒定为1.0时得分为满分，强度极度波动时得分为0。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="19"/>
@@ -7411,7 +7411,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="6"/>
         <source>Subtracts two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished">减去两个图像。尽管输入时支持所有的图像类型，但只产生有符号的类型。这两幅图像不一定要有相同的尺寸。</translation>
+        <translation>执行两幅影像像相减操作。尽管输入支持所有影像类型，但输出仅生成有符号类型。两幅影像的尺寸可以不相同。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
@@ -7441,7 +7441,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">输出数据</translation>
+        <translation>输出体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
@@ -7618,7 +7618,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation type="unfinished">应用投票操作，以填补空洞。这可用于平滑轮廓和填补二元图像的空洞。这种技术在分割完整的器官时经常使用，这些器官可能有管道或血管，但可能没有包括在最初的分割中，例如肺、肾、肝。</translation>
+        <translation>应用投票操作以填充腔洞。此功能可用于平滑轮廓和填补二值图像中的孔洞。这一技术常用于分割完整器官时，针对可能未包含在初始分割中的管道或血管结构，例如肺、肾脏和肝脏。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
@@ -7663,7 +7663,7 @@ a = Affine Transform</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="14"/>
         <source>The number of pixels over 50% that will decide whether an OFF pixel will become ON or not. For example, if the neighborhood of a pixel has 124 pixels (excluding itself), the 50% will be 62, and if you set a Majority threshold of 5, that means that the filter will require 67 or more neighbor pixels to be ON in order to switch the current OFF pixel to ON.</source>
-        <translation type="unfinished">50%以上的像素数量将决定一个OFF像素是否会变成ON。例如，如果一个像素的邻居有124个像素（不包括它自己），50%将是62个，如果你设置一个多数阈值为5，这意味着过滤器将需要67个或更多的邻居像素为ON，才能将当前的OFF像素转换为ON。</translation>
+        <translation>超过50%的像素数量将决定一个关闭（OFF）像素是否会变为开启（ON）。例如，如果一个像素的邻域有124个像素（不包括自身），则50%为62；若设置多数阈值为5，则意味着滤波器要求邻域中有67个或更多像素为开启状态，当前关闭的像素才会切换为开启。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"/>
@@ -7863,17 +7863,17 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="400"/>
         <source>Small</source>
-        <translation type="unfinished">小</translation>
+        <translation>小</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="401"/>
         <source>Medium</source>
-        <translation type="unfinished">中</translation>
+        <translation>中</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="402"/>
         <source>Large</source>
-        <translation type="unfinished">大</translation>
+        <translation>大</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="404"/>
@@ -7923,7 +7923,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="627"/>
         <source>Show options</source>
-        <translation type="unfinished">显示选项</translation>
+        <translation>显示选项</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="631"/>
@@ -8537,7 +8537,8 @@ The DataProbe module is used to get information about the current RAS position b
 indicated by the mouse position.
 </source>
         <translation>
-DataProbe模块用于获取由鼠标位置指示出的当前的RAS位置信息。
+DataProbe 模块用于获取当前由鼠标位置指示的
+ RAS 位置相关信息。
 </translation>
     </message>
     <message>
@@ -8678,7 +8679,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="121"/>
         <source>Camera:</source>
-        <translation type="unfinished">摄像机：</translation>
+        <translation>摄像机：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="128"/>
@@ -8790,7 +8791,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="230"/>
         <source>Next</source>
-        <translation type="unfinished">向后</translation>
+        <translation>向后</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="232"/>
@@ -8810,7 +8811,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="250"/>
         <source>Advanced</source>
-        <translation type="unfinished">高级</translation>
+        <translation>高级</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="262"/>
@@ -8858,7 +8859,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="54"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">这项工作得到了 NA-MIC、NAC、BIRN、NCIGT 和 Slicer 社区的支持。</translation>
+        <translation>这项工作得到了 NA-MIC、NAC、BIRN、NCIGT 和 Slicer 社区的支持。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="125"/>
@@ -8898,7 +8899,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="166"/>
         <source>Location:</source>
-        <translation type="unfinished">位置：</translation>
+        <translation>位置：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizard.py" line="167"/>
@@ -9001,7 +9002,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="30"/>
         <source>Type:</source>
-        <translation type="unfinished">类型：</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/CreateComponentDialog.py" line="34"/>
@@ -9030,7 +9031,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="23"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="28"/>
@@ -9040,7 +9041,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/DirectoryListWidget.py" line="48"/>
         <source>Select folder</source>
-        <translation type="unfinished">选择目录</translation>
+        <translation>选择目录</translation>
     </message>
 </context>
 <context>
@@ -9053,17 +9054,17 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="32"/>
         <source>Category:</source>
-        <translation type="unfinished">类别：</translation>
+        <translation>类别：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="35"/>
         <source>Description:</source>
-        <translation type="unfinished">描述：</translation>
+        <translation>描述：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="41"/>
@@ -9073,7 +9074,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="42"/>
         <source>Contributors:</source>
-        <translation type="unfinished">贡献者：</translation>
+        <translation>贡献者：</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditExtensionMetadataDialog.py" line="73"/>
@@ -9102,22 +9103,22 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="52"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished">向上移动</translation>
+        <translation>向上移动</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="57"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished">向下移动</translation>
+        <translation>向下移动</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="62"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ExtensionWizard/ExtensionWizardLib/EditableTreeWidget.py" line="130"/>
         <source>Anonymous</source>
-        <translation type="unfinished">匿名的</translation>
+        <translation>匿名的</translation>
     </message>
 </context>
 <context>
@@ -9237,12 +9238,12 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="50"/>
         <source>Create new </source>
-        <translation type="unfinished">创建新的 </translation>
+        <translation>创建新的 </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="51"/>
         <source> as...</source>
-        <translation type="unfinished"> 作为...</translation>
+        <translation> 作为...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="52"/>
@@ -9282,13 +9283,17 @@ and is exclusively available for research and teaching. You are not authorized t
 use it for commercial purposes.&lt;/p&gt;
 </source>
         <translation>
-&lt;p&gt;此项工作部分由安大略省癌症护理协会和安大略省放射肿瘤适应性干预联盟（OCAIRO）资助&lt;/p&gt;
+&lt;p&gt;本工作部分资金由安大略癌症关怀组织（Cancer Care Ontario） 
+及安大略放射肿瘤学自适应干预联盟（Ontario Consortium for Adaptive Interventions in Radiation Oncology，OCAIRO）资助。&lt;/p&gt;
 
-&lt;p&gt;MRHead、CBCT-MR Head和CT-MR Brain数据集由图中人物捐赠给3D Slicer项目，可以不受任何限制地使用。&lt;/p&gt;
+&lt;p&gt;MRHead、CBCT-MR Head 和 CT-MR Brain 数据集由图像中可见人员捐赠给3D Slicer项目，可无限制使用。&lt;/p&gt;
 
-&lt;p&gt;CTLiver数据集来自&lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;医学十项全能项目&lt;/a&gt;（Task03_Liver集合中的imagesTr/liver_100.nii.gz），拥有版权许可（&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;），允许共享、分发和改进数据。&lt;/p&gt;
+&lt;p&gt;CTLiver 数据集来自 &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;Medical Decathlon 项目&lt;/a&gt;（Task03_Liver 集合中的 imagesTr/liver_100.nii.gz）， 
+采用宽松的版权许可协议（&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;），允许数据共享、分发及改进。&lt;/p&gt;
 
-&lt;p&gt;CTA腹部（Panoramix）数据集来自&lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM图像库&lt;/a&gt;，仅供研究和教学使用。您无权重新分发、出售或将其用于商业目的。&lt;/p&gt;
+&lt;p&gt;CTA腹部（Panoramix）数据集来自 &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM 图像库&lt;/a&gt;， 
+仅限于科研和教学用途。未经授权不得重新分发、
+出售或用于商业用途。&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -9314,7 +9319,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="281"/>
         <source>Load</source>
-        <translation type="unfinished">加载</translation>
+        <translation>加载</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="283"/>
@@ -9540,7 +9545,8 @@ This module captures image sequences and videos
 from dynamic contents shown in 3D and slice viewers.
 </source>
         <translation>
-此模块从3D和切片查看器的动态内容中捕获图像序列和视频。
+此模块从3D和切片查看器的动态内容中
+捕获图像序列和视频。
 </translation>
     </message>
     <message>
@@ -9550,7 +9556,8 @@ This work was was funded by Cancer Care Ontario
 and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 </source>
         <translation>
-此项工作由安大略省癌症护理协会和安大略省放射肿瘤适应性干预联盟（OCAIRO）资助
+此项工作由安大略省癌症护理协会
+和安大略省放射肿瘤适应性干预联盟（OCAIRO）资助
 </translation>
     </message>
     <message>
@@ -10097,7 +10104,7 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1420"/>
         <source>Lightbox image saved to file: {filename}</source>
         <oldsource>Lighbox image saved to file: {filename}</oldsource>
-        <translation type="unfinished">光箱图像已保存到文件：{filename}</translation>
+        <translation>Lightbox影像已保存到文件：{filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1423"/>
@@ -10152,7 +10159,8 @@ so for example the closed surface can be visualized as edited in the 3D view.
 </source>
         <translation>
 此模块允许通过在包含的片段上直接绘制和使用分割工具来编辑分割对象。
-除标签映射（用于编辑）之外的画面会自动实时更新，所以封闭曲面可以在3D视图中可视化编辑。
+除标签映射（用于编辑）之外的画面会自动实时更新，
+所以封闭曲面可以在3D视图中可视化编辑。
 </translation>
     </message>
     <message>
@@ -10162,7 +10170,8 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
         <translation>
-这项工作是SparKit项目的一部分，由安大略省癌症护理协会（CCO）的ACRU计划和安大略省放射肿瘤适应性干预联盟（OCAIRO）资助。
+这项工作是SparKit项目的一部分，由安大略省癌症护理协会（CCO）的ACRU计划
+和安大略省放射肿瘤适应性干预联盟（OCAIRO）资助。
 </translation>
     </message>
     <message>
@@ -10326,15 +10335,16 @@ do not use sphere brush with Paint effect and always leave at least one empty sl
 Masking settings are ignored. If segments overlap, segment higher in the segments table will have priority.
 The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;morphological contour interpolation method&lt;/a&gt;.
 &lt;p&gt;</source>
-        <translation>切片间的插值分割&lt;br&gt;。使用说明：
+        <translation>在切片之间插值分割&lt;br&gt;。使用说明：
 &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;使用任意编辑器效果在所选切片上创建完整的分割。
-只有当分割切片的相邻切片未被分割时，分割才会扩展，因此不要使用有绘制效果的球形画笔，而且在分割切片之间总要至少留下一个空切片。
-&lt;li&gt;不仅仅是选定的片段，所有可见片段都会被插值。
-&lt;li&gt;通过在空切片中插值分割来创建完整的分割。
+&lt;li&gt;使用任意编辑效果在选定切片上创建完整分割。  
+仅当某切片已分割且其相邻切片未分割时，分割才会被扩展，因此  
+请勿在Paint效果中使用球刷，并且确保分割切片间至少留一个空白切片。&lt;/li&gt;
+&lt;li&gt;所有可见分割都会被插值，而不仅限于选中的分割。&lt;/li&gt;
+&lt;li&gt;通过对空白切片中的分割进行插值，完成整体分割的构建。&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;
-遮罩设置会被忽略。如果分段重叠，分段表中较高的分段优先级更高。
-该效果使用&lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;形态轮廓插值法&lt;/a&gt;。
+遮罩设置将被忽略。如分割重叠，分割列表中靠前的分割优先显示。  
+该效果使用&lt;a href=&quot;https://insight-journal.org/browse/publication/977&quot;&gt;形态学轮廓插值方法&lt;/a&gt;。
 &lt;p&gt;</translation>
     </message>
 </context>
@@ -10343,7 +10353,7 @@ The effect uses  &lt;a href=&quot;https://insight-journal.org/browse/publication
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="24"/>
         <source>Grow from seeds</source>
-        <translation type="unfinished">从种子中生长</translation>
+        <translation>从种子中生长</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorGrowFromSeedsEffect.py" line="60"/>
@@ -11538,12 +11548,12 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="69"/>
         <source>mm3</source>
-        <translation type="unfinished">mm3</translation>
+        <translation>mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="76"/>
         <source>cm3</source>
-        <translation type="unfinished">cm3</translation>
+        <translation>cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="68"/>
@@ -11584,7 +11594,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="414"/>
         <source>mm3</source>
-        <translation type="unfinished">mm3</translation>
+        <translation>mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="422"/>
@@ -12992,7 +13002,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
         <extracomment>For formatting of terminology entry with a modifier in simplified mode. %1 is structure name (e.g., &quot;Kidney&quot;), %2 is modifier (e.g., &quot;Left&quot;)
 ----------
 For formatting of terminology entry name in simplified mode. %1 is region name (e.g., &quot;Kidney&quot;), %2 is region modifier (e.g., &quot;Left&quot;)</extracomment>
-        <translation type="unfinished">%2 %1</translation>
+        <translation>%2 %1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="555"/>
@@ -13285,7 +13295,7 @@ For formatting of terminology entry name. %1 is region name (e.g., &quot;Kidney&
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="125"/>
         <source>Linear</source>
-        <translation type="unfinished">线性</translation>
+        <translation>线性</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsCurveSettingsWidget.cxx" line="129"/>
@@ -17262,7 +17272,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2567"/>
         <source>node</source>
-        <translation type="unfinished">节点</translation>
+        <translation>节点</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExpandToDepthPlugin.cxx" line="65"/>
@@ -17894,25 +17904,25 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1151"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1550"/>
         <source>Y</source>
-        <translation type="unfinished">Y</translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1182"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1570"/>
         <source>View plane</source>
-        <translation type="unfinished">查看平面</translation>
+        <translation>查看平面</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1223"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1560"/>
         <source>Z</source>
-        <translation type="unfinished">Z</translation>
+        <translation>Z</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1260"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1540"/>
         <source>X</source>
-        <translation type="unfinished">X</translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1346"/>
@@ -18291,7 +18301,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1580"/>
         <source>Size:</source>
-        <translation type="unfinished">尺寸：</translation>
+        <translation>尺寸：</translation>
     </message>
 </context>
 <context>
@@ -19119,7 +19129,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="108"/>
         <source>Join Us on LinkedIn</source>
         <oldsource>Join Us on Twitter</oldsource>
-        <translation type="unfinished">在Twitter上加入我们</translation>
+        <translation>加入我们的LinkedIn</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="112"/>
@@ -19761,13 +19771,13 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
         <source>Color table</source>
         <oldsource>Color Table</oldsource>
-        <translation type="unfinished">颜色表</translation>
+        <translation>颜色表</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
         <source>Number of colors: </source>
         <oldsource>Number of Colors: </oldsource>
-        <translation type="unfinished">颜色数量： </translation>
+        <translation>颜色数量： </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="246"/>
@@ -19846,7 +19856,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1857"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Slicer不是FDA批准的医疗设备。&lt;br&gt;&lt;br&gt;支持的是。&lt;br&gt;&lt;br&gt;特别感谢美国国立卫生研究院和我们的其他支持者。&lt;br&gt;&lt;br&gt;这项工作是国家医学图像计算联盟（NA-MIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。有关国家生物医学计算中心的信息可从&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;获得。&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Slicer 不是经FDA批准的医疗器械。&lt;br&gt;&lt;br&gt;支持单位：NA-MIC、NAC、BIRN、NCIGT及Slicer社区。&lt;br&gt;&lt;br&gt;特别感谢NIH及其他支持者。&lt;br&gt;&lt;br&gt;本工作是国家医学影像计算联盟（NA-MIC）的一部分，该联盟由国家卫生研究院（NIH）通过医疗研究NIH路线图项目资助，资助编号U54 EB005149。有关国家生物医学计算中心的信息可访问&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;。&lt;br&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -21412,7 +21422,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="107"/>
         <source>Extensions manager requires &lt;em&gt;3D Slicer&lt;/em&gt; to be installed. Open the disk image (.dmg) file, drag &lt;em&gt;Slicer.app&lt;/em&gt; into the the &lt;em&gt;Applications&lt;/em&gt; folder, and launch &lt;em&gt;3D Slicer&lt;/em&gt; from the &lt;em&gt;Applications&lt;/em&gt; folder.</source>
-        <translation type="unfinished">扩展管理器需要安装&lt;em&gt;3D Slicer&lt;/em&gt; 。打开磁盘镜像（.dmg）文件，将&lt;em&gt;Slicer.app&lt;/em&gt; 拖到&lt;em&gt;Applications&lt;/em&gt; 文件夹，并从&lt;em&gt;Applications&lt;/em&gt; 文件夹中启动&lt;em&gt;3D Slicer&lt;/em&gt; 。</translation>
+        <translation>扩展管理器需要安装&lt;em&gt;3D Slicer&lt;/em&gt; 。打开磁盘镜像（.dmg）文件，将&lt;em&gt;Slicer.app&lt;/em&gt; 拖到&lt;em&gt;Applications&lt;/em&gt; 文件夹，并从&lt;em&gt;Applications&lt;/em&gt; 文件夹中启动&lt;em&gt;3D Slicer&lt;/em&gt; 。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="111"/>
@@ -24469,7 +24479,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="216"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
 </context>
 <context>
@@ -24533,7 +24543,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="41"/>
         <source>Scene Views</source>
         <oldsource>Views</oldsource>
-        <translation type="unfinished">视图</translation>
+        <translation>场景视图</translation>
     </message>
 </context>
 <context>
@@ -26907,7 +26917,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="316"/>
         <source>Size scale:</source>
-        <translation type="unfinished">尺寸：</translation>
+        <translation>尺寸比例：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="345"/>
@@ -27946,17 +27956,17 @@ Tags: %6</translation>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="199"/>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="237"/>
         <source>Interaction</source>
-        <translation type="unfinished">交互</translation>
+        <translation>交互</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="206"/>
         <source>Translate</source>
-        <translation type="unfinished">平移</translation>
+        <translation>平移</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="212"/>
         <source>Rotate</source>
-        <translation type="unfinished">旋转</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="218"/>
@@ -27966,7 +27976,7 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="230"/>
         <source>Interaction options</source>
-        <translation type="unfinished">交互选项</translation>
+        <translation>交互选项</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="240"/>
@@ -27981,17 +27991,17 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="249"/>
         <source>Edit properties of the current transform</source>
-        <translation type="unfinished">编辑当前变换的属性</translation>
+        <translation>编辑当前变换的属性</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="253"/>
         <source>Harden transform</source>
-        <translation type="unfinished">固定变换</translation>
+        <translation>固定变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="256"/>
         <source>Harden current transform on this node and all children nodes</source>
-        <translation type="unfinished">固定此节点和所有子节点上的当前变换</translation>
+        <translation>固定此节点和所有子节点上的当前变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="260"/>
@@ -28001,17 +28011,17 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="263"/>
         <source>Create and apply new transform</source>
-        <translation type="unfinished">创建并应用新的变换</translation>
+        <translation>创建并应用新的变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="267"/>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="273"/>
         <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="unfinished">删除此分支中所有节点的父变换</translation>
+        <translation>删除此分支中所有节点的父变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="622"/>
@@ -28460,7 +28470,7 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
         <source>Title:</source>
-        <translation type="unfinished">标题：</translation>
+        <translation>标题：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="197"/>
@@ -28744,7 +28754,7 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="57"/>
         <source>Region:</source>
-        <translation type="unfinished">区域：</translation>
+        <translation>区域：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="87"/>
@@ -28755,12 +28765,12 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="94"/>
         <source>Category:</source>
-        <translation type="unfinished">类别：</translation>
+        <translation>类别：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="111"/>
         <source>Type:</source>
-        <translation type="unfinished">类型：</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qSlicerTerminologyEditorWidget.ui" line="153"/>
@@ -28843,7 +28853,7 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="249"/>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1902"/>
@@ -29027,12 +29037,12 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="330"/>
         <source>World</source>
-        <translation type="unfinished">世界</translation>
+        <translation>世界</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="335"/>
         <source>Local</source>
-        <translation type="unfinished">本地</translation>
+        <translation>本地</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="349"/>
@@ -29042,7 +29052,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="356"/>
         <source>Reset</source>
-        <translation type="unfinished">重置</translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="382"/>
@@ -29063,7 +29073,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="461"/>
         <source>Apply the selected transform to the selected transformable nodes</source>
         <oldsource>Apply the active transform to the selected transformable nodes</oldsource>
-        <translation type="unfinished">将活动变换应用于选定的可变换节点</translation>
+        <translation>将活动变换应用于选定的可变换节点</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="464"/>
@@ -29074,7 +29084,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="471"/>
         <source>Remove the selected transform from the selected transformed nodes</source>
         <oldsource>Remove the active transform from the selected transformed nodes</oldsource>
-        <translation type="unfinished">从选定的变换节点中删除活动变换</translation>
+        <translation>从选定的变换节点中删除活动变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="474"/>
@@ -29561,7 +29571,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="323"/>
         <source>Clipping:</source>
-        <translation type="unfinished">剪切：</translation>
+        <translation>剪切：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="330"/>
@@ -30142,23 +30152,23 @@ This should only used by advanced users who understand the consequences of chang
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</oldsource>
-        <translation type="unfinished">&lt;p&gt;&lt;b&gt;文档&lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;文档&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;快速开始&lt;/a&gt;&lt;/li&gt;
+        <translation>&lt;p&gt;&lt;b&gt;文档&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;文档首页&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;快速入门&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;获取帮助&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;用户界面&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;鼠标按钮， &amp;quot;热键&amp;quot; 及键盘快捷键&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;鼠标按钮、“快捷键”及键盘快捷方式&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;浏览教程&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;联系我们&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;访问Slicer论坛&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://twitter.com/3dslicerapp&quot;&gt;在推特上加入我们&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;b&gt;联系我们&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;访问 Slicer 论坛&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/feed/hashtag/?keywords=3dslicer&quot;&gt;LinkedIn 加入我们&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;搜索功能请求&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;反馈Bug&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;关于3D Slicer&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;查看许可证&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;如何引用&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;鸣谢&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;报告错误&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;关于 3D Slicer&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;查看许可协议&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;引用方式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer 相关论文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;致谢&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
@@ -30389,7 +30399,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsAngleNode.cxx" line="49"/>
         <source>A</source>
-        <translation type="unfinished">A</translation>
+        <translation>A</translation>
     </message>
 </context>
 <context>
@@ -30428,7 +30438,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsFiducialNode.cxx" line="44"/>
         <source>F</source>
-        <translation type="unfinished">F</translation>
+        <translation>F</translation>
     </message>
 </context>
 <context>
@@ -30477,7 +30487,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="536"/>
         <source>M</source>
-        <translation type="unfinished">M</translation>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsNode.cxx" line="546"/>
@@ -30495,7 +30505,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsPlaneNode.cxx" line="56"/>
         <source>P</source>
-        <translation type="unfinished">P</translation>
+        <translation>P</translation>
     </message>
 </context>
 <context>
@@ -30503,12 +30513,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROINode.cxx" line="57"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLMarkupsROINode.cxx" line="60"/>
         <source>R</source>
-        <translation type="unfinished">R</translation>
+        <translation>R</translation>
     </message>
 </context>
 <context>
@@ -30837,7 +30847,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Sequences/Logic/vtkSlicerSequencesLogic.cxx" line="717"/>
         <source>Sequence</source>
-        <translation type="unfinished">序列</translation>
+        <translation>序列</translation>
     </message>
 </context>
 </TS>
