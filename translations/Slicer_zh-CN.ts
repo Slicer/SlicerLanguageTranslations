@@ -28627,7 +28627,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="207"/>
         <source>Click to unlock this table so that values can be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>单击解锁此表格，以便修改值</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="212"/>
