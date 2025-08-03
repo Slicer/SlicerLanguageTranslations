@@ -28164,12 +28164,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="249"/>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>交互式</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="251"/>
         <source>Show handles for interactively adjusting slab reconstruction thickness.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示句柄以交互式调整板厚重建厚度。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="366"/>
@@ -28188,17 +28188,17 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="80"/>
         <source>Show in all views</source>
-        <translation type="unfinished"></translation>
+        <translation>在所有视图中显示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="83"/>
         <source>2D visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>二维可见性</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="88"/>
         <source>3D visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>三维可见性</translation>
     </message>
 </context>
 <context>
@@ -28206,12 +28206,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="92"/>
         <source>Show in 3D views as volume rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>在三维视图中以体绘制显示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="97"/>
         <source>Volume rendering options...</source>
-        <translation type="unfinished"></translation>
+        <translation>体绘制选项...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
@@ -28294,7 +28294,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="492"/>
         <source> Empty volume</source>
-        <translation type="unfinished"></translation>
+        <translation> 空体积</translation>
     </message>
 </context>
 <context>
@@ -28525,12 +28525,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="75"/>
         <source>The Tables module allows displaying and editing of spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>表格模块允许显示和编辑电子表格。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="83"/>
         <source>This work was was partially funded by OCAIRO, the Applied Cancer Research Unit program of Cancer Care Ontario, and Department of Anesthesia and Critical Care Medicine, Children&apos;s Hospital of Philadelphia.</source>
-        <translation type="unfinished"></translation>
+        <translation>本工作部分由OCAIRO、安大略癌症护理应用癌症研究单元项目及费城儿童医院麻醉与重症监护科资助。</translation>
     </message>
 </context>
 <context>
