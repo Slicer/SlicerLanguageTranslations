@@ -10,7 +10,8 @@ Segment calcifications around an arterial lumen within a margin.
 See more information in &lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;module documentation&lt;/a&gt;.
 </source>
         <translation>
-Fraude
+在动脉腔周围的边界内分割钙化物。
+更多信息请参见&lt;a href=&quot;href=&quot;https://github.com/vmtk/SlicerExtension-VMTK/&quot;&gt;模块文档&lt;/a&gt;。
 </translation>
     </message>
     <message>
@@ -20,8 +21,8 @@ This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc
 and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
 </source>
         <translation>
-本文件最初由 Jean-Christophe Fillion-Robin（Kitware Inc.）、Andras Lasso（PerkLab）和
-Steve Pieper（Isomics, Inc.）开发，并部分由美国国立卫生研究院（NIH）基金 3P41RR013218-12S1 资助。
+此文件最初由 Jean-Christophe Fillion-Robin（Kitware 公司）、Andras Lasso（PerkLab）、
+Steve Pieper（Isomics 公司）开发，部分经费由 NIH 资助，资助编号为 3P41RR013218-12S1。
 </translation>
     </message>
     <message>
@@ -869,12 +870,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 - a centerline model created by &apos;Extract centerline&apos; module,
 - an arbitrary open markups curve,
 - an invisible centerline of a shape markups node used as a tube.</oldsource>
-        <translation>中心线来源可以为：
+        <translation>中心线源可以是：
 
 - 由“提取中心线”模块创建的中心线曲线，
 - 由“提取中心线”模块创建的中心线模型，
-- 任意开放的标记曲线，
-- 用作管道的形状标记节点的不可见中心线。 突破警告距离（mm）：</translation>
+- 任意开放标记曲线，
+- 用作管状体的形状标记节点的不可见中心线。</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="173"/>
