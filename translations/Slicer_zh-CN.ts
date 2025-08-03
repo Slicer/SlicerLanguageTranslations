@@ -9187,7 +9187,7 @@ You can save the camera position at any point by clicking &quot;Save camera posi
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
         <source>Form</source>
-        <translation>格式</translation>
+        <translation>表单</translation>
     </message>
 </context>
 <context>
