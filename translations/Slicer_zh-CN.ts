@@ -27784,7 +27784,7 @@ Note: This may result in unwanted data loss in %5.</oldsource>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="254"/>
         <source>Failed to convert %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法将 %1 转换为 %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="256"/>
@@ -27808,7 +27808,7 @@ Note: This may result in unwanted data loss in %5.</oldsource>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="406"/>
         <source>Segment - ID: %1, Representations: %2, Color: (%3, %4, %5)
 Tags: %6</source>
-        <translation type="unfinished"></translation>
+        <translation>分割 - ID：%1，表示形式：%2，颜色：(%3, %4, %5)</translation>
     </message>
 </context>
 <context>
@@ -27853,12 +27853,12 @@ Tags: %6</source>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="158"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="168"/>
         <source>If enabled, double-clicking the color column opens the terminology selector. Otherwise the color can be edited via simple color selector. True by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>启用时，双击颜色列将打开术语选择器。否则颜色可通过简单颜色选择器编辑。默认启用。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="161"/>
         <source>Use standard terminology:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用标准术语：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="111"/>
@@ -27883,32 +27883,32 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="75"/>
         <source>Enable/disable automatic subject hierarchy children deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>启用/禁用自动删除主题层次结构子项</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="79"/>
         <source>Include patient ID in the name of the patient item</source>
-        <translation type="unfinished"></translation>
+        <translation>在患者项目名称中包含患者ID</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="82"/>
         <source>Include patient birth date in the name of the patient item</source>
-        <translation type="unfinished"></translation>
+        <translation>在患者项目名称中包含出生日期</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="85"/>
         <source>Include study ID in the name of the study item</source>
-        <translation type="unfinished"></translation>
+        <translation>在研究项目名称中包含研究 ID</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="88"/>
         <source>Include study date in the name of the study item</source>
-        <translation type="unfinished"></translation>
+        <translation>在研究项目名称中包含研究日期</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchySettingsPanel.cxx" line="91"/>
         <source>Use standard terminology for color selection</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色选择使用标准术语</translation>
     </message>
 </context>
 <context>
@@ -27916,27 +27916,27 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="168"/>
         <source>Invert transform</source>
-        <translation type="unfinished"></translation>
+        <translation>反转变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="173"/>
         <source>Reset transform to identity</source>
-        <translation type="unfinished"></translation>
+        <translation>重置变换为单位变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="178"/>
         <source>Transform origin</source>
-        <translation type="unfinished"></translation>
+        <translation>变换原点</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="182"/>
         <source>Transformed nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>已变换节点</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="192"/>
         <source>Reset center of transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>重置变换中心</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="199"/>
@@ -27957,7 +27957,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="218"/>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="230"/>
@@ -27967,12 +27967,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="240"/>
         <source>Allow the transform to be modified interactively in the 2D and 3D views</source>
-        <translation type="unfinished"></translation>
+        <translation>允许在二维和三维视图中交互式修改变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="246"/>
         <source>Edit transform properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑变换属性...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="249"/>
@@ -27992,7 +27992,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="260"/>
         <source>Create new transform</source>
-        <translation type="unfinished"></translation>
+        <translation>创建新变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="263"/>
@@ -28039,7 +28039,7 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="117"/>
         <source>View transform</source>
-        <translation type="unfinished"></translation>
+        <translation>查看变换</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="123"/>
@@ -28064,12 +28064,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
         <source>Refocus camera on this point</source>
-        <translation type="unfinished"></translation>
+        <translation>重新聚焦摄像机至该点</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="161"/>
         <source>Set the camera focus to rotate around this point.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置摄像机焦点围绕此点旋转。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="166"/>
@@ -28084,12 +28084,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="173"/>
         <source>Refocus cameras on this point</source>
-        <translation type="unfinished"></translation>
+        <translation>重新聚焦所有摄像机至该点</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="175"/>
         <source>Set the focus of all cameras to rotate around this point.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置所有摄像机的焦点围绕此点旋转。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="183"/>
@@ -28154,12 +28154,12 @@ Tags: %6</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="238"/>
         <source>Thick slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>厚板重建</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="240"/>
         <source>Enable Thick Slab Reconstruction (TSR). TSR is used to merge contiguous slices within a certain range.</source>
-        <translation type="unfinished"></translation>
+        <translation>启用厚板重建（TSR）。TSR用于合并一定范围内相邻的切片。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="249"/>
