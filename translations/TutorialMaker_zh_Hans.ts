@@ -24,7 +24,7 @@
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表单</translation>
     </message>
     <message>
         <location filename="TutorialMaker/Resources/UI/WidgetAnnotator.ui" line="26"/>
@@ -385,7 +385,7 @@
     <message>
         <location filename="TutorialMaker/TutorialMaker.py" line="32"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>工具</translation>
     </message>
 </context>
 </TS>
