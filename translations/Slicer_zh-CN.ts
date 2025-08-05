@@ -28113,7 +28113,7 @@ Tags: %6</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="188"/>
         <source>Tilt lock</source>
-        <translation>倾斜锁</translation>
+        <translation>倾斜锁定</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="190"/>
