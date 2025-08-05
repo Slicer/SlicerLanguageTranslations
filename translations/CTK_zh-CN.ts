@@ -1369,7 +1369,7 @@ due to:
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="20"/>
         <source>DICOM Browser</source>
         <oldsource>ctkDICOMBrowser</oldsource>
-        <translation>DICOM浏览器</translation>
+        <translation>DICOM 浏览器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="38"/>
@@ -1437,7 +1437,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="233"/>
         <source>Export selected series to a DICOM folder</source>
-        <translation>将选定的系列导出到一个DICOM文件夹</translation>
+        <translation>将选定的系列导出到一个 DICOM 文件夹</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="238"/>
@@ -1447,7 +1447,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="241"/>
         <source>Query and retrieve studies from a DICOM server</source>
-        <translation>从DICOM服务器查询和检索研究报告</translation>
+        <translation>从 DICOM 服务器查询和检索研究报告</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="249"/>
@@ -1457,7 +1457,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="252"/>
         <source>Send selected series to DICOM server</source>
-        <translation>发送选定的系列到DICOM服务器</translation>
+        <translation>发送选定的系列到 DICOM 服务器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="260"/>
@@ -1482,7 +1482,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="272"/>
         <source>DICOM Schema Update</source>
-        <translation>DICOM模式更新</translation>
+        <translation>DICOM 模式更新</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="275"/>
@@ -1512,7 +1512,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="387"/>
         <source>Import DICOM files from directory ...</source>
-        <translation>从目录中导入DICOM文件…</translation>
+        <translation>从目录中导入 DICOM 文件…</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="392"/>
@@ -1536,7 +1536,7 @@ due to:
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="689"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation>在文件夹%1 中发现不兼容的DICOM数据库版本。</translation>
+        <translation>在文件夹%1 中发现不兼容的 DICOM 数据库版本。</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="831"/>
@@ -1565,7 +1565,7 @@ Do you want to remove the series from the DICOM database?</oldsource>
 患者姓名：%1
 研究描述：%2
 系列描述：%3
-你想从DICOM数据库中删除该系列吗？</translation>
+你想从 DICOM 数据库中删除该系列吗？</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1092"/>
@@ -1590,7 +1590,7 @@ Do you want to remove the series from the DICOM database?</oldsource>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1251"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1329"/>
         <source>View DICOM metadata</source>
-        <translation>查看DICOM元数据</translation>
+        <translation>查看 DICOM 元数据</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1180"/>
@@ -1619,7 +1619,7 @@ Do you want to remove the series from the DICOM database?</oldsource>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1275"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1353"/>
         <source>Send to DICOM server</source>
-        <translation>发送到DICOM服务器</translation>
+        <translation>发送到 DICOM 服务器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1204"/>
@@ -1629,7 +1629,7 @@ Do you want to remove the series from the DICOM database?</oldsource>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1254"/>
         <source>View DICOM metadata of %1 selected studies</source>
-        <translation>查看%1 所选研究的DICOM元数据</translation>
+        <translation>查看%1 所选研究的 DICOM 元数据</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1262"/>
@@ -1644,12 +1644,12 @@ Do you want to remove the series from the DICOM database?</oldsource>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1278"/>
         <source>Send %1 selected studies to DICOM server</source>
-        <translation>将%1 选择的研究报告发送至DICOM服务器</translation>
+        <translation>将%1 选择的研究报告发送至 DICOM 服务器</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1332"/>
         <source>View DICOM metadata of %1 selected series</source>
-        <translation>查看%1 所选系列的DICOM元数据</translation>
+        <translation>查看%1 所选系列的 DICOM 元数据</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1340"/>
@@ -4272,7 +4272,7 @@ The data will not be deleted from the PACs server.
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="42"/>
         <source>Hide details.</source>
-        <translation>隐藏细节。</translation>
+        <translation>隐藏详情。</translation>
     </message>
 </context>
 <context>
