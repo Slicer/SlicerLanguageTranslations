@@ -605,7 +605,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation>指定一个蒙版，只考虑某个影像区域进行配准。  如果选择ROIAUTO，则使用Ostu阈值和孔填充来计算蒙版。如果选择ROI，则必须在输入中指定蒙版。</translation>
+        <translation>指定一个蒙版，只考虑某个影像区域进行配准。  如果选择 ROIAUTO，则使用 Ostu 阈值和孔填充来计算蒙版。如果选择 ROI，则必须在输入中指定蒙版。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
@@ -1263,7 +1263,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
         <source>Otsu Correction Factor</source>
-        <translation>Otsu修正系数</translation>
+        <translation>Otsu 修正系数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="23"/>
@@ -5292,7 +5292,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="14"/>
         <source>Binary mask that defines the structure of your interest. NOTE: This parameter is OPTIONAL. If the mask is not specified, the module will use internally Otsu thresholding to define this mask. Better processing results can often be obtained when a meaningful mask is defined.</source>
-        <translation>定义感兴趣结构的二值掩模。注意：此参数为可选。如果未指定掩模，模块将内部使用Otsu阈值法来确定该掩模。通常，当定义了有意义的掩模时，可获得更好的处理效果。</translation>
+        <translation>定义感兴趣结构的二值掩模。注意：此参数为可选。如果未指定掩模，模块将内部使用 Otsu 阈值法来确定该掩模。通常，当定义了有意义的掩模时，可获得更好的处理效果。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="15"/>
@@ -11177,32 +11177,32 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="135"/>
         <source>Otsu</source>
-        <translation>Otsu</translation>
+        <translation>Otsu (最大化类间方差，最小化类内方差)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="136"/>
         <source>Huang</source>
-        <translation>Huang</translation>
+        <translation>Huang (最小化模糊熵)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="137"/>
         <source>IsoData</source>
-        <translation>IsoData</translation>
+        <translation>IsoData (迭代更新前景背景均值)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="140"/>
         <source>Kittler-Illingworth</source>
-        <translation>基特勒-伊灵沃斯</translation>
+        <translation>Kittler-Illingworth (最小化高斯混合模型分类误差)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="145"/>
         <source>Maximum entropy</source>
-        <translation>最大熵</translation>
+        <translation>Maximum Entropy (最大化前景背景熵和)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="146"/>
         <source>Moments</source>
-        <translation>矩</translation>
+        <translation>Moments (保持灰度直方图低阶矩一致)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="147"/>
@@ -11212,17 +11212,17 @@ If segments overlap, segment higher in the segments table will have priority. &l
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="148"/>
         <source>Shanbhag</source>
-        <translation>Shanbhag</translation>
+        <translation>Shanbhag (最小化模糊熵分类不确定性)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="149"/>
         <source>Triangle</source>
-        <translation>三角形</translation>
+        <translation>Triangle (几何法找直方图峰值距离最大点)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="150"/>
         <source>Yen</source>
-        <translation>Yen</translation>
+        <translation>Yen (最大化前景背景相关性)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/Python/SegmentEditorEffects/SegmentEditorThresholdEffect.py" line="151"/>
@@ -23402,7 +23402,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="57"/>
         <source>Triangle2D</source>
-        <translation>三角形2D</translation>
+        <translation>Triangle2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="62"/>
