@@ -447,7 +447,7 @@ Required: {requiredUrl}</source>
     <message>
         <location filename="TotalSegmentator/TotalSegmentator.py" line="28"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Сегментацію</translation>
     </message>
 </context>
 </TS>
